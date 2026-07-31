@@ -1,0 +1,757 @@
+[
+ {
+  "f": "cuad-001.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-002.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-003.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-004.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-005.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-006.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "cuad-007.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-008.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "cuad-009.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "cuad-010.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-011.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-012.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "cuad-013.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-014.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "cuad-015.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-018.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-019.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-020.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "cuad-021.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "cuad-022.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "cuad-023.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-024.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "cuad-025.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-026.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "cuad-027.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-028.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-029.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-030.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "cuad-031.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-032.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-033.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "cuad-034.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-035.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "cuad-036.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-037.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-038.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "cuad-039.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "cuad-040.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-041.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-042.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-043.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "cuad-044.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-045.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "cuad-046.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-047.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "cuad-048.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "cuad-049.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "cuad-050.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-051.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-052.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "cuad-053.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-054.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-055.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-056.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-057.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "cuad-058.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-059.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-060.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-061.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "cuad-062.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "cuad-063.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-064.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "cuad-065.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-066.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-067.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-068.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-069.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "cuad-070.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-071.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "cuad-072.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-073.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "cuad-074.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "cuad-075.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "cuad-076.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "cuad-077.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "cuad-078.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "sec-001.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-002.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "sec-003.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-005.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "sec-009.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "sec-010.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-012.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-015.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-016.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-017.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "sec-020.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-023.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "sec-024.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-025.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-026.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "sec-027.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "sec-028.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-029.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-030.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "sec-031.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "sec-032.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-033.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-035.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "sec-036.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "sec-037.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "sec-038.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "sec-039.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-040.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "sec-041.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "sec-042.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-043.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-044.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "sec-045.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "sec-046.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-047.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "sec-048.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-049.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "sec-050.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-051.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "sec-052.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "sec-053.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "sec-054.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "sec-056.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "sec-057.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "sec-058.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "sec-059.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-060.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "sec-061.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-062.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-063.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-064.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "sec-065.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-066.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-067.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "sec-068.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-069.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "sec-070.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-071.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-072.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "sec-073.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-074.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-076.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "sec-077.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-078.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-079.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-081.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-082.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "sec-083.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "sec-084.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "sec-086.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-087.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-088.txt",
+  "rw": false,
+  "clause": false
+ },
+ {
+  "f": "sec-089.txt",
+  "rw": false,
+  "clause": true
+ },
+ {
+  "f": "sec-090.txt",
+  "rw": true,
+  "clause": true
+ },
+ {
+  "f": "sec-091.txt",
+  "rw": false,
+  "clause": false
+ }
+]

@@ -5,7 +5,7 @@ purpose: >
   해외송금 신청 시 법정 제출 계약서를 읽어, 수취계좌 개설국·결제방식이 계약과 어긋나면
   사람이 확인하기 전까지 송금을 보류한다.
 runtime: AITHOR-Agent-Framework
-primary_challenge: "제8회 Future Finance AI Challenge — 현직자 Pick #6 수출입 금융 지원 에이전트"
+primary_challenge: "제8회 KB A.I Challenge — 금융 자유주제 (해외송금 사기 방지)"
 compliance_pack: trade-remittance
 
 # ─────────────────────────────────────────────────────────────
