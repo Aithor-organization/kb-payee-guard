@@ -1,0 +1,1232 @@
+EX-10.47
+4
+dex1047.htm
+MASTER DEVELOPMENT AND SUPPLY AGREEMENT
+
+Master Development and Supply Agreement
+
+Exhibit 10.47 
+ 
+¨ 
+ 
+APPLE COMPUTER, INC. 
+ 
+MASTER DEVELOPMENT AND SUPPLY AGREEMENT 
+ 
+#C56-06-00844 
+ 
+THIS MASTER DEVELOPMENT AND SUPPLY AGREEMENT is entered into by and between Apple Computer, Inc., a
+California corporation having its principal place of business at 1 Infinite Loop, Cupertino, California 95014, United States and Apple Computer International, an Irish Corporation having its principal place of business at Holly Hill
+Industrial Estate, Cork City, Ireland (collectively, “Apple”), and Multi-Fineline Electronix, Inc. (aka M-FLEX), a Delaware corporation, having its principal place of business at 3140-A Coronado Street, Anaheim, CA
+92806 (“Company”), effective as of June 22, 2006 (the “Effective Date”). 
+ 
+PURPOSE
+
+Apple desires to engage Company and its affiliates to provide services in connection with the development and supply of components for
+use in Apple products. This Master Development and Supply Agreement contains the general terms and conditions governing the relationship of the parties. The parties may sign statements of work that reference this Master Development and Supply
+Agreement to set forth terms and conditions specific to particular goods and services. However, if the parties have not yet signed a statement of work for particular goods and services to be provided, then, unless the provision of such goods and
+services is governed by a separate written agreement, the terms and conditions of this Master Development and Supply Agreement will apply. 
+ 
+AGREEMENT 
+ 
+Capitalized terms not defined herein, have the meanings set forth in Schedule 1, attached hereto
+and incorporated herein by reference. 
+
+ 1.
+ Development 
+
+1.1. Deliverables. At the beginning of a
+project, Apple and Supplier will meet to agree upon a Project Schedule that sets forth the dates Supplier will provide Development Deliverables agreed upon by Apple and Supplier. 
+ 
+1.2. Delivery. Supplier will deliver Development Deliverables to Authorized Purchasers in accordance with the Project Schedule with written notice of the delivery. Payment of invoices will not
+[CONFIDENTIAL TREATMENT REQUESTED] of Development Deliverables, but rather Development Deliverables delivered will [CONFIDENTIAL TREATMENT REQUESTED] the Authorized Purchaser. Upon delivery of a Development Deliverable, the Authorized Purchaser will
+[CONFIDENTIAL TREATMENT REQUESTED] the Development Deliverable, [CONFIDENTIAL TREATMENT REQUESTED] in the event that, in [CONFIDENTIAL TREATMENT REQUESTED], the Development Deliverable [CONFIDENTIAL TREATMENT REQUESTED], including the Project
+Schedule [CONFIDENTIAL TREATMENT REQUESTED] Development Deliverable. If an Authorized Purchaser requests, Supplier will assist the Authorized Purchaser with testing the Development Deliverables [CONFIDENTIAL TREATMENT REQUESTED]. Upon [CONFIDENTIAL
+TREATMENT REQUESTED] Development Deliverable, Supplier will promptly [CONFIDENTIAL 
+
+[CONFIDENTIAL TREATMENT REQUESTED] INDICATES MATERIAL THAT HAS BEEN OMITTED AND FOR WHICH CONFIDENTIAL TREATMENT HAS BEEN REQUESTED. ALL SUCH OMITTED MATERIAL HAS BEEN FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 406
+PROMULGATED UNDER THE SECURITIES ACT OF 1933, AS AMENDED. 
+
+ Apple Confidential
+ 
+ Page 1
+
+Apple-M-FLEX 
+ 
+Master Development and Supply Agreement 
+ 
+#C56-06-00844 
+
+TREATMENT REQUESTED] with the Specifications [CONFIDENTIAL TREATMENT REQUESTED] the Development Deliverable to Authorized Purchasers as soon as is
+practicable, or such other time period agreed upon by the Authorized Purchaser in writing. The Authorized Purchaser will [CONFIDENTIAL TREATMENT REQUESTED] in accordance with the foregoing procedure, which procedure will [CONFIDENTIAL TREATMENT
+REQUESTED] the Authorized Purchaser [CONFIDENTIAL TREATMENT REQUESTED] the Development Deliverable [CONFIDENTIAL TREATMENT REQUESTED] the Development Deliverable. 
+ 
+1.3. Re-scheduling. If Supplier is unable to provide the Development Deliverables or related services in accordance with the Project Schedule for any reason, including Apple’s or any Authorized Purchaser’s failure to
+provide timely delivery of required information, Supplier will promptly notify Apple, specifying the reason for such failure to comply with the Project Schedule. 
+ 
+1.4. Cancellation. An Authorized Purchaser may cancel all or any part of a Purchase Order issued by such Authorized Purchaser for Development Deliverables and related services [CONFIDENTIAL TREATMENT REQUESTED]. Upon any such
+cancellation, Supplier will, to the extent and at the times specified by the Authorized Purchaser, stop all work on the Purchase Order (or designated portions thereof) so cancelled, incur no further costs, and protect all property in which the
+Authorized Purchaser has or may acquire an interest. Supplier will do so promptly [CONFIDENTIAL TREATMENT REQUESTED]. Except as may be set forth in the applicable SOW, the Authorized Purchaser will [CONFIDENTIAL TREATMENT REQUESTED] in connection
+with the cancelled Purchase Order except for [CONFIDENTIAL TREATMENT REQUESTED] performed [CONFIDENTIAL TREATMENT REQUESTED] in accordance with this Section 1 [CONFIDENTIAL TREATMENT REQUESTED], provided, however, [CONFIDENTIAL TREATMENT
+REQUESTED] (1) the EOL Date, (2) expiration or termination of the applicable SOW, or (3) termination of this Agreement, [CONFIDENTIAL TREATMENT REQUESTED] (a) undelivered Development Deliverables completed in accordance with the
+Specifications, (b) work-in progress prepared in accordance with the Specifications and the Forecast, and (c) the excess Long Lead Time Materials, if any, at [CONFIDENTIAL TREATMENT REQUESTED] for such materials, [CONFIDENTIAL TREATMENT
+REQUESTED] (i) were purchased no earlier than required by applicable Lead-Times to fulfill the requirements of the then current (at the time of purchase by Supplier) Forecast, (ii) meet all applicable Specifications, and
+(iii) [CONFIDENTIAL TREATMENT REQUESTED]. Supplier will scrap any such materials [CONFIDENTIAL TREATMENT REQUESTED] upon Apple’s request, provided [CONFIDENTIAL TREATMENT REQUESTED] to scrap such materials. 
+ 
+1.5. No Obligation. Provision by Supplier of any Development Deliverables or related services does not obligate Apple or any other Authorized Purchaser to
+purchase any Goods from Supplier. 
+ 
+1.6. Costs. Except for amounts due pursuant to a Purchase Order or SOW or as otherwise agreed in writing
+by the parties, Authorized Purchasers will not be responsible for any costs in connection with the Development Deliverables or related services. 
+ 
+1.7. Taxes. The Development Deliverables in their tangible form have no intrinsic value. As such, no value added, sales, or use taxes have been assessed or are anticipated to be required as a result of the services provided
+under this Agreement. 
+
+[CONFIDENTIAL TREATMENT REQUESTED] INDICATES MATERIAL
+THAT HAS BEEN OMITTED AND FOR WHICH CONFIDENTIAL TREATMENT HAS BEEN REQUESTED. ALL SUCH OMITTED MATERIAL HAS BEEN FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 406 PROMULGATED UNDER THE SECURITIES ACT OF 1933, AS AMENDED.
+
+ Apple Confidential
+ 
+ Page 2
+
+ 2.
+ Production and Order Fulfillment 
+
+2.1. Production.
+Supplier will manufacture, test, package, and deliver Goods in accordance with all applicable Specifications pursuant to Purchase Orders issued by Authorized Purchasers and the requirements set forth, if any, in the applicable SOW, as more fully set
+forth below. 
+ 
+2.2. Forecasts 
+ 
+(a) Delivery. Apple will provide Supplier with a Forecast on at least [CONFIDENTIAL TREATMENT REQUESTED] until the EOL Date. 
+ 
+(b) Confirmation. Within [CONFIDENTIAL TREATMENT REQUESTED] of receipt of a Forecast, Supplier will respond [CONFIDENTIAL TREATMENT REQUESTED] supply of the Goods [CONFIDENTIAL TREATMENT REQUESTED] the Forecast. Supplier
+agrees to [CONFIDENTIAL TREATMENT REQUESTED] subsequent Forecasts with respect to each [CONFIDENTIAL TREATMENT REQUESTED] of the Forecast to the extent that: (i) the subsequent Forecast does not exceed the previous Forecast for the
+[CONFIDENTIAL TREATMENT REQUESTED] by more than [CONFIDENTIAL TREATMENT REQUESTED] if any, in the applicable SOW; or (ii) if no previous Forecast exists for a [CONFIDENTIAL TREATMENT REQUESTED], the subsequent Forecast does not exceed the
+[CONFIDENTIAL TREATMENT REQUESTED] forecasted in a Forecast by more than [CONFIDENTIAL TREATMENT REQUESTED], if any, in the applicable SOW. 
+ 
+If the
+applicable SOW does not contain a Flexibility Schedule, Supplier will respond in the same manner as with the initial Forecast set forth above. 
+ 
+(c) Supply Constraint. If Supplier’s ability to supply any Goods in accordance with the then current Forecast is constrained for any reason, Supplier agrees that Supplier [CONFIDENTIAL TREATMENT REQUESTED] will
+immediately escalate the issue to both parties’ management for the purpose of resolving the supply constraint. 
+ 
+(d)
+Disclaimer. APPLE MAKES NO WARRANTIES REGARDING THE QUANTITY OF GOODS THAT IT OR ANY OTHER AUTHORIZED PURCHASERS WILL ORDER OR PURCHASE, IF ANY. SUBJECT TO SECTION 2.4(D) BELOW WITH RESPECT TO QUANTITIES CITED IN A PURCHASE ORDER, ALL
+QUANTITIES CITED IN THIS AGREEMENT OR IN DISCUSSIONS ARE NON-BINDING. 
+ 
+2.3. Hubs. If requested by an Authorized Purchaser, Supplier will
+store Goods in Hubs before their delivery date to support just-in-time delivery of the Goods required pursuant to the then current Forecast. Supplier will: (i) [CONFIDENTIAL TREATMENT REQUESTED] associated with warehousing Goods in Hubs;
+(ii) maintain a sufficient inventory of Goods in the Hubs to satisfy the requirements of the then current Forecast; (iii) ensure that the Authorized Purchaser or its carrier(s) may withdraw Goods from the Hubs as needed; (iv) retain
+title to Goods until they are withdrawn by the Authorized Purchaser or its carrier from the Hubs; (v) fully insure or require the Hub operator to fully insure all Goods in transit to or stored at a Hub against all risk of loss or damage until
+such time as the Authorized Purchaser takes title to them; and (vi) require that the Hub operator take all steps necessary to protect all Goods in a Hub consistent with good commercial warehousing practice. 
+
+[CONFIDENTIAL TREATMENT REQUESTED] INDICATES MATERIAL THAT HAS BEEN OMITTED AND FOR WHICH
+CONFIDENTIAL TREATMENT HAS BEEN REQUESTED. ALL SUCH OMITTED MATERIAL HAS BEEN FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 406 PROMULGATED UNDER THE SECURITIES ACT OF 1933, AS AMENDED. 
+
+ Apple Confidential
+ 
+ Page 3
+
+2.4. Purchase Orders 
+ 
+(a) Orders. An Authorized Purchaser may purchase Goods by issuing Supplier a Purchase Order. During the period covered by a Forecast confirmed by Supplier in accordance with Section 2.2(b) above,
+Supplier may [CONFIDENTIAL TREATMENT REQUESTED] a Purchase Order for Goods issued by an Authorized Purchaser [CONFIDENTIAL TREATMENT REQUESTED] of Goods ordered [CONFIDENTIAL TREATMENT REQUESTED] in the then current Forecast [CONFIDENTIAL TREATMENT
+REQUESTED], if any, in the applicable SOW, or if the Purchase Order does not conform with the terms of this Agreement. Supplier will fulfill orders for Goods using the electronic order processing protocols identified in the document(s), if any,
+referenced in the Apple Requirements Document. 
+ 
+(b) [CONFIDENTIAL TREATMENT REQUESTED]. The price of Goods will be set forth
+in the applicable SOW or other written agreement among the parties, or if none, in the applicable Purchase Order. Except as set forth in the applicable Purchase Order or SOW or as otherwise agreed in writing, prices include all duties and taxes
+assessable upon the Goods prior to delivery to an Authorized Purchaser in accordance with this Agreement. Supplier represents and warrants that the prices for Goods [CONFIDENTIAL TREATMENT REQUESTED]. If previously agreed upon pricing [CONFIDENTIAL
+TREATMENT REQUESTED], then Supplier will [CONFIDENTIAL TREATMENT REQUESTED] to Authorized Purchasers [CONFIDENTIAL TREATMENT REQUESTED]. 
+ 
+(c) Adjustments. Authorized Purchasers may reschedule the shipment date of any undelivered Goods [CONFIDENTIAL TREATMENT REQUESTED]. An Authorized Purchaser may increase the number of units of Goods ordered pursuant to a
+particular Purchase Order [CONFIDENTIAL TREATMENT REQUESTED] in accordance with the Flexibility Schedule, if any, in the applicable SOW. An Authorized Purchaser may redirect shipments of any Goods under any Purchase Order to alternate locations
+[CONFIDENTIAL TREATMENT REQUESTED]. 
+ 
+(d) Cancellation. An Authorized Purchaser may cancel all or any part of a Purchase Order
+issued by such Authorized Purchaser at any time. Upon any such cancellation, Supplier will, to the extent and at the times specified by the Authorized Purchaser, stop all work on the Purchase Order (or designated portions thereof) so cancelled,
+incur no further costs, and protect all property in which the Authorized Purchaser has or may acquire an interest. Supplier will do so promptly [CONFIDENTIAL TREATMENT REQUESTED]. Except as may be set forth in the applicable SOW, an Authorized
+Purchaser will [CONFIDENTIAL TREATMENT REQUESTED] in connection with the cancellation of a Purchase Order for Goods to be delivered during the Production Period. For Goods to be delivered outside of the Production Period, an Authorized Purchaser
+will [CONFIDENTIAL TREATMENT REQUESTED] in connection with the cancellation of a Purchase Order if the cancelled Purchase Order is cancelled more than the applicable Lead-Time prior to the requested delivery date. If an Authorized Purchaser cancels
+a Purchase Order for Goods to be delivered outside of the Production Period less than or equal to the applicable Lead-Time prior to the requested delivery date, the Authorized Purchaser will [CONFIDENTIAL TREATMENT REQUESTED] to fulfill the
+cancelled Purchase Order that [CONFIDENTIAL TREATMENT REQUESTED]. 
+ 
+(e) Excess Materials. Upon the earlier of (1) the EOL
+Date, (2) expiration or termination of the applicable SOW, or (3) termination of this Agreement, the [CONFIDENTIAL TREATMENT REQUESTED] (a) undelivered Goods completed in accordance with the Specifications, (b) work-in progress
+prepared in accordance with the Specifications and the Forecast, and (c) the excess Long Lead 
+
+[CONFIDENTIAL TREATMENT REQUESTED] INDICATES MATERIAL THAT HAS BEEN OMITTED AND FOR WHICH CONFIDENTIAL TREATMENT HAS BEEN REQUESTED. ALL SUCH OMITTED MATERIAL HAS BEEN FILED WITH THE SECURITIES AND EXCHANGE COMMISSION
+PURSUANT TO RULE 406 PROMULGATED UNDER THE SECURITIES ACT OF 1933, AS AMENDED. 
+
+ Apple Confidential
+ 
+ Page 4
+
+Apple-M-FLEX 
+ 
+Master Development and Supply Agreement 
+ 
+#C56-06-00844 
+
+Time Materials, if any, held by Supplier, [CONFIDENTIAL TREATMENT REQUESTED] (i) were purchased no earlier than required by applicable Lead-Times to
+fulfill the requirements of the then current (at the time of purchase by Supplier) Forecast, (ii) meet all applicable Specifications, and (iii) [CONFIDENTIAL TREATMENT REQUESTED]. Supplier will scrap any such materials so purchased upon
+Apple’s request, provided [CONFIDENTIAL TREATMENT REQUESTED]. 
+ 
+2.5. Delivery 
+ 
+(a) On-Time Delivery. TIME IS OF THE ESSENCE as to the provision of the Goods under this Agreement. If Supplier cannot meet the
+requirements of the then current Forecast or of the delivery date specified in a Purchase Order, Supplier will promptly notify the Authorized Purchaser and propose a revised delivery date, and the Authorized Purchaser may [CONFIDENTIAL TREATMENT
+REQUESTED] (i) [CONFIDENTIAL TREATMENT REQUESTED] the Purchase Order [CONFIDENTIAL TREATMENT REQUESTED]; or (ii) require Supplier to [CONFIDENTIAL TREATMENT REQUESTED]. If neither the remedy in clause (i) or (ii) is sufficient,
+after reasonable efforts to resolve the delay in delivery between senior management of both parties, the Authorized Purchaser may [CONFIDENTIAL TREATMENT REQUESTED] and hold [CONFIDENTIAL TREATMENT REQUESTED] for the [CONFIDENTIAL TREATMENT
+REQUESTED] Authorized Purchasers for [CONFIDENTIAL TREATMENT REQUESTED] including [CONFIDENTIAL TREATMENT REQUESTED], and may exercise all other remedies provided at law, in equity and in this Agreement. If after a reasonable effort [CONFIDENTIAL
+TREATMENT REQUESTED] the Authorized Purchaser is unable to do so, or if circumstances reasonably indicate that such effort will be unavailing, the Authorized Purchaser will have [CONFIDENTIAL TREATMENT REQUESTED]. No Authorized Purchaser is
+obligated to accept [CONFIDENTIAL TREATMENT REQUESTED]. Unless an Authorized Purchaser has otherwise agreed in writing, Supplier must [CONFIDENTIAL TREATMENT REQUESTED] in the applicable Purchase Order. Authorized Purchasers reserve the right to
+[CONFIDENTIAL TREATMENT REQUESTED] and to [CONFIDENTIAL TREATMENT REQUESTED]. 
+ 
+(b) [CONFIDENTIAL TREATMENT REQUESTED]. Payment of
+invoices will [CONFIDENTIAL TREATMENT REQUESTED]. The Authorized Purchaser may [CONFIDENTIAL TREATMENT REQUESTED] that do not [CONFIDENTIAL TREATMENT REQUESTED] with the [CONFIDENTIAL TREATMENT REQUESTED] applicable Purchase Order or this Agreement.
+At the Authorized Purchaser’s option, and pursuant to the Authorized Purchaser’s written instructions, Supplier will promptly: (i) [CONFIDENTIAL TREATMENT REQUESTED] plus any [CONFIDENTIAL TREATMENT REQUESTED] or
+(ii) [CONFIDENTIAL TREATMENT REQUESTED] such items. 
+ 
+(c) Terms of Sale. Except as provided in Section 3.2 below,
+all Goods will be delivered by [CONFIDENTIAL TREATMENT REQUESTED]; provided, however, that if Goods are delivered via Hubs in accordance with Section 2.3 above, Supplier will retain title and risk of loss with respect to Goods delivered to a
+Hub until [CONFIDENTIAL TREATMENT REQUESTED]. 
+ 
+2.6. Costs. Except for amounts due pursuant to a Purchase Order or SOW, Authorized Purchasers
+will not be responsible for any costs in connection with the ordering and purchase of any Goods. 
+
+[CONFIDENTIAL TREATMENT REQUESTED] INDICATES MATERIAL THAT HAS BEEN OMITTED AND FOR WHICH CONFIDENTIAL TREATMENT HAS BEEN REQUESTED. ALL SUCH OMITTED MATERIAL HAS BEEN FILED WITH THE SECURITIES AND EXCHANGE COMMISSION
+PURSUANT TO RULE 406 PROMULGATED UNDER THE SECURITIES ACT OF 1933, AS AMENDED. 
+
+ Apple Confidential
+ 
+ Page 5
+
+Apple-M-FLEX 
+ 
+Master Development and Supply Agreement 
+ 
+#C56-06-00844 
+
+ 3.
+ Support Services and Service Units 
+
+3.1. Service Unit
+Inventory. Supplier will, at Supplier’s expense, provide an inventory of Service Units to Apple in accordance with the Service Unit inventory requirements set forth in document(s), if any, referenced in the Apple Requirements Document or
+applicable SOW. In absence of such requirements and upon Apple’s request, Supplier will (i) deliver an Initial Service Unit Inventory to entities designated by Apple, [CONFIDENTIAL TREATMENT REQUESTED] Apple first ships the applicable
+Apple Product. 
+ 
+3.2. Terms of Sale. Supplier will deliver all Service Units [CONFIDENTIAL TREATMENT REQUESTED] and title will transfer
+[CONFIDENTIAL TREATMENT REQUESTED] of the Service Units at [CONFIDENTIAL TREATMENT REQUESTED]; provided, however, that whenever Service Units are delivered to Apple Computer International or Apple Computer Limited, Cork Branch in the Asia-Pacific
+region, Goods will be delivered [CONFIDENTIAL TREATMENT REQUESTED] and title will transfer at [CONFIDENTIAL TREATMENT REQUESTED]. 
+ 
+3.3.
+Costs. Except for amounts due pursuant to a Purchase Order or SOW, Authorized Purchasers will not be responsible for any costs in connection with Supplier’s obligations in this Section 3. 
+
+ 4.
+ Modifications 
+
+4.1. By Supplier. Supplier will not
+modify any Specifications without obtaining Apple’s prior consent via the Project Management System. 
+ 
+4.2. By Apple. Apple may modify
+any Specifications via the Project Management System. Supplier will acknowledge the modification via the Project Management System in accordance with applicable procedures. The terms and conditions of this Agreement will be amended by such
+modification upon Supplier’s acknowledgement thereof or, if within [CONFIDENTIAL TREATMENT REQUESTED] of receipt of notice of such modification, if Supplier has not given Apple notice of its acknowledgement. In the event the modification
+results in [CONFIDENTIAL TREATMENT REQUESTED] performance of Supplier’s obligations under this Agreement, Apple will [CONFIDENTIAL TREATMENT REQUESTED] Supplier’s reports [CONFIDENTIAL TREATMENT REQUESTED] to Apple within [CONFIDENTIAL
+TREATMENT REQUESTED] of the receipt of the notice and obtains Apple’s prior written consent to proceed with the modification. 
+
+ 5.
+ Quality and Safety Requirements 
+
+5.1. Requirements and
+Qualifications. Supplier will comply with the quality, safety and regulatory requirements as set forth in the document(s), if any, referenced in the Apple Requirements Document and as set forth in the applicable SOW, or in the absence of such
+requirements, with good commercial practice and applicable law. 
+ 
+5.2. Testing Requirements. Supplier will test the Development Deliverables
+and the Goods in accordance with the testing requirements set forth in the document(s), if any, referenced in the Apple Requirements Document and as set forth in the applicable SOW, or in the absence of such testing requirements, in a manner
+sufficient to confirm conformance with all applicable Specifications. Upon 
+
+[CONFIDENTIAL TREATMENT REQUESTED] INDICATES MATERIAL THAT HAS BEEN OMITTED AND FOR WHICH CONFIDENTIAL TREATMENT HAS BEEN REQUESTED. ALL SUCH OMITTED MATERIAL HAS BEEN FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 406
+PROMULGATED UNDER THE SECURITIES ACT OF 1933, AS AMENDED. 
+
+ Apple Confidential
+ 
+ Page 6
+
+Apple-M-FLEX 
+ 
+Master Development and Supply Agreement 
+ 
+#C56-06-00844 
+
+Apple’s request, Supplier will provide and ship Development Deliverables and Goods to Apple to be used for testing. 
+ 
+5.3. Environmental Compliance. Supplier will, with respect to the provision of Development Deliverables and Goods, and all related processes and materials
+used in connection therewith, including packaging, comply with: (i) all applicable laws and regulations governing the use, declaration, preparation and marketing of hazardous substances and energy consumption efficiency; and (ii) any
+requirements with respect to the same set forth in the document(s), if any, referenced in the Apple Requirements Document and in the applicable SOW. 
+ 
+5.4. Failures and Safety Risks. 
+ 
+(a) Generally. Supplier must notify Apple immediately if it has
+reason to believe that the Goods provided under this Agreement may (i) produce an Excessive Failure; (ii) produce an Environmental Compliance Failure; or (iii) present a Safety Risk. 
+ 
+(b) Remedies. If there is an Excessive Failure, an Environmental Compliance Failure, or the Goods present a Safety Risk, [CONFIDENTIAL
+TREATMENT REQUESTED] (i) reimburse Authorized Purchasers for [CONFIDENTIAL TREATMENT REQUESTED] (ii) if [CONFIDENTIAL TREATMENT REQUESTED] affected Goods; and (iii) [CONFIDENTIAL TREATMENT REQUESTED], promptly provide [CONFIDENTIAL
+TREATMENT REQUESTED]. For Multiple-Cause Excessive Failures, these remedies will apply only to [CONFIDENTIAL TREATMENT REQUESTED]. For Single-Cause Excessive Failures, these remedies will apply to [CONFIDENTIAL TREATMENT REQUESTED]. 
+ 
+(c) Exceptions. Supplier will not be liable under this Section 5.4 for an Excessive Failure or a Safety Risk to the extent
+(i) [CONFIDENTIAL TREATMENT REQUESTED] the Excessive Failure or the Safety Risk; or (ii) the Goods were [CONFIDENTIAL TREATMENT REQUESTED] to the Authorized Purchaser. [CONFIDENTIAL TREATMENT REQUESTED]. 
+ 
+(d) Tracking. Supplier must track the date Goods are produced and make such information available to Apple upon Apple’s request during
+the term of this Agreement and for [CONFIDENTIAL TREATMENT REQUESTED] after the Goods are delivered. 
+ 
+5.5. Costs. Except for amounts due
+pursuant to a Purchase Order or SOW, Authorized Purchasers will not be responsible for any costs in connection with Supplier’s obligations in this Section 5. 
+
+ 6.
+ Resource Requirements 
+
+6.1. Human Resources
+
+(a) Management. Supplier is solely responsible for managing Supplier Personnel, including hiring, firing, where and when
+Supplier Personnel perform their work, work assignments, practices, policies and procedures, and compliance with all applicable laws and regulations. 
+
+[CONFIDENTIAL TREATMENT REQUESTED] INDICATES MATERIAL THAT HAS BEEN OMITTED AND FOR WHICH CONFIDENTIAL TREATMENT HAS BEEN REQUESTED. ALL SUCH OMITTED MATERIAL HAS BEEN
+FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 406 PROMULGATED UNDER THE SECURITIES ACT OF 1933, AS AMENDED. 
+
+ Apple Confidential
+ 
+ Page 7
+
+Apple-M-FLEX 
+ 
+Master Development and Supply Agreement 
+ 
+#C56-06-00844 
+
+(b) Apple Premises. Upon Apple’s request, Supplier will
+provide Supplier Personnel [CONFIDENTIAL TREATMENT REQUESTED]. Such Supplier personnel may be required to sign a written agreement with Apple acknowledging and agreeing to comply with Apple’s security and confidentiality requirements. Apple
+reserves the right to prohibit specific Supplier Personnel from entering Apple’s premises at Apple’s sole discretion. 
+ 
+(c)
+Written Agreements. Supplier represents that Supplier has written agreements in place with each Supplier Personnel sufficient to enable Supplier to comply with all provisions of this Agreement. 
+ 
+(d) Costs. Except for amounts due pursuant to a Purchase Order or SOW, Authorized Purchasers will not be responsible for any costs
+associated with Supplier Personnel. 
+ 
+6.2. Equipment 
+ 
+(a) Supplier will secure all Equipment necessary to provide the Development Deliverables and the Goods, including the Equipment specified in the applicable SOW and the document(s), if any, referenced in the
+Apple Requirements Document. Supplier will purchase, lease or borrow the Equipment in a timely manner to ensure that the Equipment is delivered in time to meet the requirements of the Project Schedule, the then current Forecast, or any Purchase
+Order, as applicable. 
+ 
+(b) Upon Apple’s and Supplier’s mutual agreement, Supplier will obtain certain items of Equipment
+from Apple or purchase or lease Equipment on Apple’s behalf (collectively, “Apple Equipment”). 
+ 
+(c) As
+applicable, Supplier will place purchase orders for or lease the Apple Equipment only upon prior written approval by Apple with respect to the specifications and price of each item of Apple Equipment. Upon request, Supplier will provide Apple
+[CONFIDENTIAL TREATMENT REQUESTED] for each item. 
+ 
+(d) Supplier will hold the Apple Equipment as a bailee only and will not permit
+any lien or other encumbrance to be placed against it when in Supplier’s care, custody and control. Apple owns all Apple Equipment obtained from Apple. With respect to Apple Equipment purchased on Apple’s behalf, Supplier agrees that title
+to such Apple Equipment will transfer to Apple upon payment for the Apple Equipment by Apple. Supplier will execute any documents necessary to document or perfect Apple’s ownership of the Apple Equipment. With respect to Apple Equipment leased
+on Apple’s behalf, Supplier will assign Supplier’s rights and obligations under the lease to Apple upon Apple’s request. 
+ 
+(e) Supplier will apply Apple asset tags provided by Apple to all Apple Equipment in accordance with the requirements set forth in the documents, if any, referenced in the Apple Requirements Document. Under no circumstances will
+Supplier move Apple Equipment from the location designated by Apple, without Apple’s prior written consent, or deny Apple, its agents or contractors access to the Equipment. 
+ 
+(f) Immediately upon Apple’s request or termination of this Agreement, Supplier will deliver the Apple Equipment [CONFIDENTIAL TREATMENT
+REQUESTED] provided Apple has paid for any 
+
+[CONFIDENTIAL TREATMENT REQUESTED]
+INDICATES MATERIAL THAT HAS BEEN OMITTED AND FOR WHICH CONFIDENTIAL TREATMENT HAS BEEN REQUESTED. ALL SUCH OMITTED MATERIAL HAS BEEN FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 406 PROMULGATED UNDER THE SECURITIES ACT OF 1933,
+AS AMENDED. 
+
+ Apple Confidential
+ 
+ Page 8
+
+Apple-M-FLEX 
+ 
+Master Development and Supply Agreement 
+ 
+#C56-06-00844 
+
+Apple Equipment purchased or leased by Supplier on Apple’s behalf. Supplier agrees to return the Apple Equipment to Apple in the same condition as it
+was provided to Supplier, except for normal wear and tear. Supplier will be responsible for physical loss of or damage to the Apple Equipment while in the possession or control of Supplier. 
+ 
+(g) Supplier agrees to use Apple Equipment and any other Equipment specifically designed to manufacture or test Goods that are unique to Apple
+(“Custom Equipment”) solely for Apple’s benefit. Supplier will not use Apple Equipment or Custom Equipment for any other purpose or permit a third party to use the Apple Equipment or Customer Equipment except as set
+forth in this Agreement. 
+ 
+(h) The Apple Equipment provided by Apple is provided to Supplier “as is” and Apple disclaims
+all warranties, express or implied, including the implied warranties of merchantability and fitness for a particular purpose. 
+ 
+(i)
+Supplier is solely responsible for installing, testing, and maintaining the Equipment in its control in good working condition in compliance with applicable manufacturing specifications, for purchasing and maintaining spare parts to repair such
+Equipment with a minimum of downtime, and for any risk of loss in connection with the Equipment. 
+ 
+(j) Apple reserves the right to
+inspect any Apple Equipment in Supplier’s control at any time, provided it gives Supplier at least 24 hours advance notice. 
+ 
+(k) Except for amounts due pursuant to a Purchase Order or SOW, Authorized Purchasers will not be responsible for any costs associated with the Equipment. 
+ 
+6.3. Materials 
+ 
+(a) Procurement. Supplier will secure all materials in
+accordance with applicable Specifications to provide the Development Deliverables and Goods necessary to meet the requirements of the Project Schedule, the then current Forecast and Purchase Orders. 
+ 
+(b) [CONFIDENTIAL TREATMENT REQUESTED]. Upon Apple’s request, Supplier will [CONFIDENTIAL TREATMENT REQUESTED] set forth in the applicable
+SOW and document(s), if any, referenced in the Apple Requirements Document, or in the absence of such requirements, will provide Apple (i) [CONFIDENTIAL TREATMENT REQUESTED] reports by part number specifying [CONFIDENTIAL TREATMENT REQUESTED]
+for the immediately following [CONFIDENTIAL TREATMENT REQUESTED] period; (ii) [CONFIDENTIAL TREATMENT REQUESTED] Purchase Orders for materials required for at least [CONFIDENTIAL TREATMENT REQUESTED] period; and (iii) [CONFIDENTIAL
+TREATMENT REQUESTED] receipt logs of any such materials. 
+ 
+(c) Bill of Materials. Before placing orders for or purchasing any
+materials for use in Goods that are comprised of multiple components, Supplier will provide Apple, for Apple’s review and approval, a complete BOM for such Goods, as applicable, listing the supplier(s), part number(s), lead time(s), and cost(s)
+of each material therein, as applicable. 
+
+[CONFIDENTIAL TREATMENT REQUESTED]
+INDICATES MATERIAL THAT HAS BEEN OMITTED AND FOR WHICH CONFIDENTIAL TREATMENT HAS BEEN REQUESTED. ALL SUCH OMITTED MATERIAL HAS BEEN FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 406 PROMULGATED UNDER THE SECURITIES ACT OF 1933,
+AS AMENDED. 
+
+ Apple Confidential
+ 
+ Page 9
+
+Apple-M-FLEX 
+ 
+Master Development and Supply Agreement 
+ 
+#C56-06-00844 
+
+(d) Costs. Except for amounts due pursuant to a Letter of
+Authorization, the applicable SOW or Purchase Order, Apple will not be responsible for any costs associated with the materials, including any financing charges. 
+
+ 7.
+ Documentation, Reports and Reviews 
+
+7.1.
+Documentation. Supplier will, at Supplier’s expense, provide Documentation in English for the Development Deliverables and the Goods upon request by Apple, including the Documentation identified in the applicable SOW and the document(s),
+if any, referenced in the Apple Requirements Document, in the format and frequency set forth therein. 
+ 
+7.2. Reports. Supplier will, at
+Supplier’s expense, provide Apple (i) reports requested by Apple, including reports regarding the Development Deliverables, Goods, Purchase Orders, Hubs, and Defective Goods; and (ii) the reports described in the document(s), if any,
+referenced in the Apple Requirements Document, in the format and frequency set forth therein. 
+ 
+7.3. Audits. During the term of this Agreement
+and for [CONFIDENTIAL TREATMENT REQUESTED], Apple may, at any time during Business Days, [CONFIDENTIAL TREATMENT REQUESTED] to verify that Supplier and Supplier Affiliates have complied with their obligations under this Agreement. Supplier will
+provide Apple any information and documentation Apple may reasonably request in connection with such inspection and audit regarding the Goods ordered or purchased by any Authorized Purchasers. Supplier will provide such information and documentation
+in the format requested. Supplier agrees to maintain all records, contracts and accounts relating to such Development Deliverables and Goods, or otherwise related to this Agreement, during the term of this Agreement and for [CONFIDENTIAL TREATMENT
+REQUESTED]. Supplier will ensure that Supplier Personnel who are knowledgeable of the relevant records and business practices are available to facilitate any audit, and that any information or materials requested in preparation for or during such
+audit are provided to Apple without delay. Supplier will [CONFIDENTIAL TREATMENT REQUESTED] the audit is completed for [CONFIDENTIAL TREATMENT REQUESTED] by Authorized Purchasers [CONFIDENTIAL TREATMENT REQUESTED]. Supplier will be responsible for
+[CONFIDENTIAL TREATMENT REQUESTED] if the audit reveals [CONFIDENTIAL TREATMENT REQUESTED] by Authorized Purchasers during the period of time subject to the audit. 
+ 
+7.4. Inspections. Upon reasonable advance notice, Supplier will allow Apple, during Business Days to visit Supplier’s facilities used in connection with the provision of the Development Deliverables or Goods to ensure
+compliance with the terms and conditions of this Agreement, including inspection of Development Deliverables in progress or completed, Goods in progress or completed, and development and manufacturing processes. Supplier will ensure that Supplier
+Personnel who are knowledgeable of the relevant facilities attend such inspections. 
+ 
+7.5. Disclaimer. Any reports provided or audits or
+inspections performed in accordance with this Section 7 will not relieve Supplier of any of its obligations under this Agreement. 
+ 
+7.6.
+Costs. Except for amounts due pursuant to a Purchase Order or SOW, Authorized Purchasers will not be responsible for any costs in connection with Supplier’s obligations in this Section 7. 
+
+[CONFIDENTIAL TREATMENT REQUESTED] INDICATES MATERIAL THAT HAS BEEN OMITTED AND FOR WHICH
+CONFIDENTIAL TREATMENT HAS BEEN REQUESTED. ALL SUCH OMITTED MATERIAL HAS BEEN FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 406 PROMULGATED UNDER THE SECURITIES ACT OF 1933, AS AMENDED. 
+
+ Apple Confidential
+ 
+ Page 10
+
+Apple-M-FLEX 
+ 
+Master Development and Supply Agreement 
+ 
+#C56-06-00844 
+
+ 8.
+ Purchase and Payment Terms 
+
+8.1. Purchase Orders.
+
+(a) Orders. An Authorized Purchaser will have no obligation to purchase or pay for any Development Deliverables, Goods, or
+related services except pursuant to a Purchase Order issued by that Authorized Purchaser and accepted in accordance with the terms of this Agreement. 
+ 
+(b) Acceptance. Supplier’s acknowledgment of an order, delivery of Development Deliverables and/or Goods or performance of services will constitute acceptance of a Purchase Order. 
+ 
+(c) Terms. All Purchase Orders placed during the term of this Agreement will be subject to and governed by the terms and conditions of this
+Agreement, regardless of whether they reference this Agreement or whether the parties have executed an SOW specific to the Development Deliverables or Goods ordered, unless there is another signed, written agreement in place between the parties with
+respect to the Development Deliverables, Goods, or related services being purchased. Subject to the terms of Section 16.17 below, any different or additional terms or conditions in any proposal, acknowledgment form or any other document will be
+of no force or effect and will not become part of the agreement between the parties. 
+ 
+8.2. Invoices 
+ 
+(a) Terms. Supplier will invoice Authorized Purchasers for any amounts owed by Authorized Purchasers. Except as provided elsewhere in this
+Agreement, payment terms of any invoices issued under this Agreement will be at least [CONFIDENTIAL TREATMENT REQUESTED] from the date of invoice. With respect to Goods, Supplier will not issue an invoice before title to Goods transfers to the
+Authorized Purchaser. With respect to Development Deliverables and services, Supplier will not issue an invoice until payment is due in accordance with the Purchase Order or the applicable SOW. 
+ 
+(b) Disputed Invoices. Supplier must provide supporting documentation to the Authorized Purchaser for any disputed invoice [CONFIDENTIAL
+TREATMENT REQUESTED] after receiving any such notice. If a correction is warranted, the Authorized Purchaser will pay the corrected amount [CONFIDENTIAL TREATMENT REQUESTED] after receipt of the corrected invoice, or if the correction is reflected
+on the next regular invoice, [CONFIDENTIAL TREATMENT REQUESTED] after the date of that invoice. While the parties work to resolve good-faith disputes under this section, neither party will be deemed to be in breach of this Agreement. 
+ 
+(c) Written Claims. Supplier must submit invoices to Authorized Purchasers for cancellation charges, [CONFIDENTIAL TREATMENT REQUESTED]
+after the charges arise, together with such reasonable evidence as the Authorized Purchaser may request supporting such claim. Failure to submit a claim within the foregoing specified period will constitute a waiver of the claim and a release of the
+Authorized Purchaser from all liability arising out of the cancellation. 
+ 
+(d) Method of Payment. Any payments due under this
+Agreement will be made by wire transfer to a bank account, designated by the receiving party by Notice, and in accordance with the requirements set forth in the document(s), if any, referenced in the Apple Requirements Document. 
+
+[CONFIDENTIAL TREATMENT REQUESTED] INDICATES MATERIAL THAT HAS BEEN OMITTED AND FOR WHICH
+CONFIDENTIAL TREATMENT HAS BEEN REQUESTED. ALL SUCH OMITTED MATERIAL HAS BEEN FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 406 PROMULGATED UNDER THE SECURITIES ACT OF 1933, AS AMENDED. 
+
+ Apple Confidential
+ 
+ Page 11
+
+Apple-M-FLEX 
+ 
+Master Development and Supply Agreement 
+ 
+#C56-06-00844 
+
+(e) Currency. All amounts payable will be specified and paid in
+United States Dollars. 
+ 
+8.3. Right [CONFIDENTIAL TREATMENT REQUESTED]. Apple may, from time to time, [CONFIDENTIAL TREATMENT REQUESTED] Apple
+[CONFIDENTIAL TREATMENT REQUESTED] and [CONFIDENTIAL TREATMENT REQUESTED] to Supplier against any [CONFIDENTIAL TREATMENT REQUESTED] Supplier to Apple (regardless whether [CONFIDENTIAL TREATMENT REQUESTED] this Agreement). Apple must give Supplier
+notice at least [CONFIDENTIAL TREATMENT REQUESTED] any such [CONFIDENTIAL TREATMENT REQUESTED]. Supplier agrees that notice given will be effective even if a receiver, custodian, trustee, examiner, liquidator or similar official has been appointed
+for Supplier or any substantial portion of its assets. As used in this Section 8.3: (i) the terms “Apple” and “Supplier” include, in addition to the definition of these terms above, any individual, corporation,
+partnership, limited liability company, joint venture, association, trust, unincorporated organization or other business entity that controls, is controlled by, or is under common control with such party, provided, however, that the term
+“Supplier” shall not include WBL Corporation Limited, a Singapore company (“WBL”) and the entities, other than Supplier and its subsidiaries, controlled by WBL; and (ii) “control” means that the entity possesses,
+directly or indirectly, the power to direct or cause the direction of the management policies of the other entity, whether through ownership of voting securities, an interest in registered capital, by contract, or otherwise. The rights described in
+this Section 8.3 are in addition to any other rights and remedies available under this Agreement or applicable law, [CONFIDENTIAL TREATMENT REQUESTED]. 
+ 
+8.4. Other Financial Requirements. Supplier will comply with the financial requirements set forth in the document(s), if any, referenced in the Apple Requirements Document. 
+
+ 9.
+ Logistics 
+
+9.1. Labeling. Supplier will label the
+Goods in accordance with applicable Specifications. Upon Apple’s request, Supplier [CONFIDENTIAL TREATMENT REQUESTED]. If Apple requires use of Apple Trademarks on the Goods, Supplier must reproduce such Apple Trademarks on each unit of Goods
+in accordance with the most current version of the Apple trademark guidelines, available upon request. Upon termination of this Agreement, Supplier must destroy or deliver to Apple all finished or unfinished Goods in its possession or control
+bearing any Apple Trademark, or must remove the Apple Trademark from such Goods in accordance with Apple’s instructions. Apple will provide Supplier with any Apple Trademark artwork as necessary. Upon request, Supplier shall provide Apple with
+samples of the labeled Goods to verify compliance with this Section 9.1. 
+ 
+9.2. Packaging. All orders will be packaged and delivered in
+accordance with the applicable packaging requirements set forth in the applicable Purchase Order or SOW and in the document(s), if any, referenced in the Apple Requirements Document, or, in the absence of such requirements, the best method possible
+in accordance with good commercial practice and applicable regulations and laws. 
+ 
+9.3. Carriers. Supplier will use the freight carriers
+identified in the document(s), if any, referenced in the Apple Requirements Document, and in accordance with the requirements set forth therein, or in the absence of such documents, the providers selected by Supplier and approved by Apple via the
+Project Management System. 
+
+[CONFIDENTIAL TREATMENT REQUESTED] INDICATES
+MATERIAL THAT HAS BEEN OMITTED AND FOR WHICH CONFIDENTIAL TREATMENT HAS BEEN REQUESTED. ALL SUCH OMITTED MATERIAL HAS BEEN FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 406 PROMULGATED UNDER THE SECURITIES ACT OF 1933, AS
+AMENDED. 
+
+ Apple Confidential
+ 
+ Page 12
+
+Apple-M-FLEX 
+ 
+Master Development and Supply Agreement 
+ 
+#C56-06-00844 
+
+9.4. Importer of Record. When an Authorized Purchaser is the “Importer of
+Record” as specified in the applicable Purchase Order or SOW, Supplier will, at no charge, promptly forward to the Authorized Purchaser any documents the Authorized Purchaser may reasonably require to allow the Authorized Purchaser to clear the
+Development Deliverables or Goods through customs and/or obtain possession of the Development Deliverables or Goods at the port of entry. 
+ 
+10.
+Intellectual Property Rights 
+ 
+10.1. Apple Intellectual Property 
+ 
+(a) [CONFIDENTIAL TREATMENT REQUESTED]. As between the parties, [CONFIDENTIAL TREATMENT REQUESTED]. Supplier hereby [CONFIDENTIAL TREATMENT
+REQUESTED] to Apple, without reservation, [CONFIDENTIAL TREATMENT REQUESTED] rights, title and interest, including [CONFIDENTIAL TREATMENT REQUESTED], it may have in and to [CONFIDENTIAL TREATMENT REQUESTED]. Supplier agrees to execute any documents
+reasonably requested by Apple to enable Apple to secure, register or enforce any [CONFIDENTIAL TREATMENT REQUESTED]. Apple may file for patent rights or take other action to protect its proprietary rights in [CONFIDENTIAL TREATMENT REQUESTED]
+anywhere in the world. Subject to Sections 10.1(b) and 10.1(c) below, Apple hereby grants to Supplier [CONFIDENTIAL TREATMENT REQUESTED] to the extent necessary for Supplier to perform its obligations under this Agreement. Supplier agrees that it
+will not engage in, nor will it authorize others to engage in, the reverse engineering, disassembly or the decompilation of [CONFIDENTIAL TREATMENT REQUESTED] except as required to perform its obligations under this Agreement. 
+ 
+(b) Apple Software. In the event Apple and Supplier mutually agreed to use any Apple Software not subject to the terms and conditions of a
+written license agreement between Apple and Supplier with respect to such software, the following additional terms and conditions will apply to the use of the Apple Software: 
+ 
+(i) Supplier may make copies of the Apple Software only if reasonably necessary for performing Supplier’s obligations under this Agreement,
+including testing or installing the Apple Software. The license granted hereunder is not a license to incorporate the Apple Software into any product, board, module, integrated circuit, core or other assembly or device other than Development
+Deliverables and Goods, as applicable, or a license, expressly or by implication, estoppel, exhaustion or otherwise, under any Apple patents. 
+ 
+(ii) Supplier must retain and reproduce in all copies of the Apple Software the Apple copyright and other proprietary notices and disclaimers as they appear in the Apple Software, and keep intact all notices in the Apple Software that refer
+to the license granted hereunder. 
+ 
+(iii) [CONFIDENTIAL TREATMENT REQUESTED]. Supplier hereby grants to Apple and its subsidiaries
+[CONFIDENTIAL TREATMENT REQUESTED], in any form, through multiple tiers of distribution. 
+ 
+(iv) Upon Apple’s request, Supplier agrees
+to provide Apple with test results obtained through use of the Apple Software. 
+
+[CONFIDENTIAL TREATMENT REQUESTED] INDICATES MATERIAL THAT HAS BEEN OMITTED AND FOR WHICH CONFIDENTIAL TREATMENT HAS BEEN REQUESTED. ALL SUCH OMITTED MATERIAL HAS BEEN FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 406
+PROMULGATED UNDER THE SECURITIES ACT OF 1933, AS AMENDED. 
+
+ Apple Confidential
+ 
+ Page 13
+
+Apple-M-FLEX 
+ 
+Master Development and Supply Agreement 
+ 
+#C56-06-00844 
+
+(v) THE APPLE SOFTWARE IS PROVIDED “AS IS” AND WITHOUT WARRANTY,
+UPGRADES OR SUPPORT OF ANY KIND AND APPLE EXPRESSLY DISCLAIMS ALL WARRANTIES AND/OR CONDITIONS, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES AND/OR CONDITIONS OF MERCHANTABILITY, OF SATISFACTORY QUALITY, OF FITNESS FOR A
+PARTICULAR PURPOSE, OF ACCURACY, OF QUIET ENJOYMENT, AND NONINFRINGEMENT OF THIRD PARTY RIGHTS. APPLE DOES NOT WARRANT THAT THE FUNCTIONS CONTAINED IN THE APPLE SOFTWARE WILL MEET SUPPLIER’S REQUIREMENTS, THAT THE OPERATION OF THE APPLE
+SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT DEFECTS IN THE APPLE SOFTWARE WILL BE CORRECTED. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY APPLE SHALL CREATE A WARRANTY. 
+ 
+(c) Apple Trademarks. Supplier will not use any Apple Trademarks for any purpose except to comply with its obligations under this Agreement
+or with Apple’s prior written consent. The goodwill derived from Supplier’s use of any Apple Trademarks inures exclusively to the benefit of and belongs to Apple. Supplier acknowledges Apple’s ownership of the Apple Trademarks and
+agrees not do anything inconsistent with Apple’s ownership of the Apple Trademarks, such as filing any trademark application for an identical or similar mark anywhere in the world. Any such trademark registrations that Supplier seeks to obtain
+will be deemed to be obtained for the benefit of Apple. APPLE LICENSES THE APPLE TRADEMARKS ON AN “AS-IS” BASIS AND EXPRESSLY DISCLAIMS ALL WARRANTIES EXPRESS OR IMPLIED, INCLUDING THE WARRANTY OF NON-INFRINGEMENT. 
+ 
+10.2. Supplier Intellectual Property. 
+ 
+(a) [CONFIDENTIAL TREATMENT REQUESTED]. As between the parties, [CONFIDENTIAL TREATMENT REQUESTED]. 
+ 
+(b)
+License. Supplier grants to Apple a [CONFIDENTIAL TREATMENT REQUESTED] worldwide license under all Intellectual Property Rights and other proprietary rights of Supplier necessary to permit Apple and others authorized by Apple to [CONFIDENTIAL
+TREATMENT REQUESTED] Development Deliverables, and to [CONFIDENTIAL TREATMENT REQUESTED] the Goods and derivatives thereof in connection with Apple products. 
+
+ 11.
+ Confidentiality 
+
+11.1. Definitions. For purposes of
+this Agreement, “Confidential Information” is defined as all information disclosed by one party (the “Discloser”) to the other (the “Recipient”) in connection with this
+Agreement, including the negotiation of this Agreement, its existence and the terms and conditions hereof, and information learned by Recipient from Discloser’s employees or agents, or through inspection of documents or other property in
+connection with this Agreement, whether disclosed by Discloser or accessed by Recipient from Discloser’s Information Systems. In addition, Confidential Information of Apple includes requests for information, proposals or quotations in
+connection with any future Development Deliverables or Goods, related documents, and the terms and conditions thereof, and the existence of any Development Deliverables or Goods, any information discerned from the inspection thereof, including their
+form, features and functionality. Notwithstanding anything to the contrary in the 
+
+[CONFIDENTIAL TREATMENT REQUESTED] INDICATES MATERIAL THAT HAS BEEN OMITTED AND FOR WHICH CONFIDENTIAL TREATMENT HAS BEEN REQUESTED. ALL SUCH OMITTED MATERIAL HAS BEEN FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 406
+PROMULGATED UNDER THE SECURITIES ACT OF 1933, AS AMENDED. 
+
+ Apple Confidential
+ 
+ Page 14
+
+Apple-M-FLEX 
+ 
+Master Development and Supply Agreement 
+ 
+#C56-06-00844 
+
+foregoing, “Confidential Information” of the Discloser does not include information that: (i) is now or subsequently becomes generally
+available to the public through no fault or breach on the part of Recipient; (ii) Recipient can demonstrate to have had rightfully in its possession prior to disclosure to Recipient by Discloser; (iii) is independently developed by
+Recipient without the use of any Confidential Information of Discloser; or (iv) Recipient rightfully obtains from a third party who has the right to transfer or disclose it to Recipient without limitation. 
+ 
+11.2. Non-Disclosure. During the period from the disclosure of any Confidential Information of Discloser until [CONFIDENTIAL TREATMENT REQUESTED],
+Recipient agrees: (i) to protect the Confidential Information of Discloser, using at least the same degree of care that it uses to protect its own confidential and proprietary information of similar importance, but no less than a reasonable
+degree of care; (ii) to use the Confidential Information of Discloser solely for the purpose of performing its obligations under this Agreement, and not to use the Confidential Information for any other purpose or for its own or any third
+party’s benefit without the express prior written consent of an authorized representative of Discloser in each instance; and (iii) not to disclose, publish, or disseminate Confidential Information of Discloser to anyone other than its
+Personnel who have a need to know the Confidential Information and who are bound by written agreement that prohibits unauthorized disclosure or use of the Confidential Information that is at least as protective of the Confidential Information as
+Recipient’s obligations hereunder. Recipient may disclose Confidential Information of Discloser to the extent required by law, provided that Recipient shall make reasonable efforts to give Discloser notice of such requirement prior to any such
+disclosure and shall take reasonable steps to obtain protective treatment of the Confidential Information. Within three Business Days of receipt of Discloser’s written request, and at Discloser’s option, Recipient will either return to
+Discloser all tangible Confidential Information of Discloser, including but not limited to all electronic files, documentation, notes, plans, drawings, and copies thereof, or will provide Discloser with written certification that all such tangible
+Confidential Information has been destroyed. 
+
+ 12.
+ Warranties 
+
+12.1. General Warranties. Supplier
+represents and warrants that: (i) it has the right to enter into this Agreement and its performance of this Agreement will be free and clear of liens and encumbrances; (ii) entering into this Agreement will not cause Supplier to breach any
+other written agreements to which it is a party; (iii) the Development Deliverables or Goods including any portion thereof or any intended combination with other hardware or software, or the sale, offer for sale, use, or importation thereof,
+does not infringe any patent, copyright, trademark, trade secret, or other proprietary right of a third party; (iv) all Specifications and Documentation provided by Supplier in connection with this Agreement will be complete and accurate; and
+(v) the Development Deliverables and Goods will not be misbranded or falsely labeled, advertised, or invoiced. 
+ 
+12.2. Product
+Warranties. Supplier warrants that all Goods will: (i) be new and comprised of new materials when delivered (not including Service Units); (ii) be safe for any use that is consistent with applicable Specifications or that is reasonably
+foreseeable; (iii) [CONFIDENTIAL TREATMENT REQUESTED] to all applicable Specifications; (iv) [CONFIDENTIAL TREATMENT REQUESTED] when delivered; (v) comply with all applicable requirements pursuant to Sections 5.1, 5.2, and 5.3 above.
+
+[CONFIDENTIAL TREATMENT REQUESTED] INDICATES MATERIAL THAT HAS BEEN OMITTED
+AND FOR WHICH CONFIDENTIAL TREATMENT HAS BEEN REQUESTED. ALL SUCH OMITTED MATERIAL HAS BEEN FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 406 PROMULGATED UNDER THE SECURITIES ACT OF 1933, AS AMENDED. 
+
+ Apple Confidential
+ 
+ Page 15
+
+Apple-M-FLEX 
+ 
+Master Development and Supply Agreement 
+ 
+#C56-06-00844 
+
+ 13.
+ Indemnification 
+
+13.1. Indemnification. At
+Apple’s request, Supplier will defend any claims or allegations against Apple, Apple Affiliates or Apple Personnel that: (i) the Development Deliverables or Goods, or any portion thereof, on their own or in combination with other goods and
+services, infringe any third-party’s patent, copyright, trademark, trade secret, mask work right or other intellectual property right; or (ii) the Development Deliverables, Goods, or Apple Equipment (in Supplier’s possession) caused
+injury or damages; or (iii) arise or are alleged to have arisen as a result of negligent and/or intentional acts or omissions of Supplier or Supplier Personnel or breach by Supplier of any term of the Agreement. Supplier will indemnify and hold
+Apple, Apple Affiliates and Apple Personnel harmless from and against any costs, damages and fees (including attorney and other professional fees) attributable to any such claims or allegations, provided that Apple: (a) notifies Supplier
+promptly in writing of any such claims or allegations; (b) permits Supplier to answer and defend the claim using counsel of Supplier’s choice; and (c) provides information and assistance reasonably necessary to enable Supplier to
+defend the claim (at Supplier’s expense). [CONFIDENTIAL TREATMENT REQUESTED]. If Supplier does not agree that the claim or suit is fully covered by this indemnity provision, then the parties agree to negotiate in good faith an equitable
+arrangement regarding the control of defense of the claim or suit and any settlement thereof consistent with Supplier’s obligations hereunder. 
+ 
+13.2. Exceptions. Supplier will have no obligation to indemnify Apple, Apple Affiliates, or Apple Personnel against any claims pursuant to clause (i) in Section 13.1 above or to perform any actions pursuant to
+Section 13.3 below if and to the extent that: (a) the claim is directly attributable to [CONFIDENTIAL TREATMENT REQUESTED] or (b) the infringement is directly attributable to [CONFIDENTIAL TREATMENT REQUESTED]. 
+ 
+13.3. Duty to Correct. If a third party claims that the Development Deliverables or Goods infringe an intellectual property right, Supplier will, in
+addition to its obligations under Section 13.1 above, promptly notify Apple in writing and [CONFIDENTIAL TREATMENT REQUESTED] remedies that is practicable: (i) obtain for Apple from such third party rights with respect to the Development
+Deliverables and Goods consistent with the rights granted to Apple by Supplier under this Agreement; (ii) modify the Development Deliverables and Goods so they are non-infringing and in compliance with this Agreement; (iii) replace the
+Development Deliverables and Goods with non-infringing versions that comply with the requirements of this Agreement; or (iv) [CONFIDENTIAL TREATMENT REQUESTED] of infringing Development Deliverables and Goods [CONFIDENTIAL TREATMENT REQUESTED].
+
+ 14.
+ Limitation of Liability 
+
+EXCEPT FOR SUPPLIER’S OBLIGATIONS
+UNDER SECTION [CONFIDENTIAL TREATMENT REQUESTED], SECTION [CONFIDENTIAL TREATMENT REQUESTED], AND SECTION [CONFIDENTIAL TREATMENT REQUESTED], AND FOR BREACHES OF SECTION [CONFIDENTIAL TREATMENT REQUESTED], IN NO EVENT
+WILL [CONFIDENTIAL TREATMENT REQUESTED] BE ENTITLED TO INCIDENTAL, INDIRECT, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING WITHOUT LIMITATION, LOST PROFITS, LOST REVENUES OR BUSINESS INTERRUPTION BASED ON ANY BREACH OR DEFAULT OF THE OTHER
+PARTY. 
+
+[CONFIDENTIAL TREATMENT REQUESTED] INDICATES MATERIAL THAT HAS BEEN
+OMITTED AND FOR WHICH CONFIDENTIAL TREATMENT HAS BEEN REQUESTED. ALL SUCH OMITTED MATERIAL HAS BEEN FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 406 PROMULGATED UNDER THE SECURITIES ACT OF 1933, AS AMENDED. 
+
+ Apple Confidential
+ 
+ Page 16
+
+Apple-M-FLEX 
+ 
+Master Development and Supply Agreement 
+ 
+#C56-06-00844 
+
+ 15.
+ Term and Termination 
+
+15.1. Term. This Agreement will
+commence on the Effective Date and continue until terminated. 
+ 
+15.2. Termination 
+ 
+(a) Termination of this Agreement. Any party may terminate this Agreement for Cause. Such termination will be effective upon [CONFIDENTIAL
+TREATMENT REQUESTED] advance Notice if the Cause remains uncured, or, in the event of an incurable Cause such as breach of confidentiality obligations, immediately upon written Notice. Upon any termination, unless otherwise provided in Apple’s
+written direction, Supplier will immediately: (i) cease work in connection with this Agreement; (ii) prepare and submit to Apple an itemization of all completed and partially completed Development Deliverables and Goods in connection with
+this Agreement; (iii) deliver upon request any work in process in connection with this Agreement; and (iv) deliver upon request any Apple Equipment. Subject to the terms of Section 2.4(e) above, in the event Apple terminates this
+Agreement for Cause, neither Apple nor any other Authorized Purchaser [CONFIDENTIAL TREATMENT REQUESTED]. 
+ 
+(b) Termination of an
+SOW. Any party to an SOW may terminate the SOW for Cause. Such termination will be effective upon [CONFIDENTIAL TREATMENT REQUESTED] advance Notice. Such termination will be effective upon [CONFIDENTIAL TREATMENT REQUESTED] Notice if the Cause
+remains uncured, or, in the event of an incurable Cause, immediately upon Notice. [CONFIDENTIAL TREATMENT REQUESTED] any SOW without Cause upon [CONFIDENTIAL TREATMENT REQUESTED] advance Notice. Upon any termination, unless otherwise provided in
+Apple’s written direction, Supplier will immediately: (i) cease work in connection with the applicable SOW; (ii) prepare and submit to Apple an itemization of all completed and partially completed Development Deliverables and Goods in
+connection with the applicable SOW; (iii) deliver upon request any work in process in connection with the applicable SOW; and (iv) deliver upon request any Apple Equipment associated with the applicable SOW. In the event Apple terminates
+any SOW with Cause, neither Apple nor any other Authorized Purchaser will [CONFIDENTIAL TREATMENT REQUESTED]. 
+ 
+15.3. Survival. Provisions in
+this Agreement, which by their nature, should remain in effect beyond termination of the Master Development and Supply Agreement will survive until fulfilled, including Sections 5, 6.2 (c) through (g), 7.3, 8, 9, 10, 11, 12, 13, 14, 15, and 16.
+
+ 16.
+ Miscellaneous 
+
+16.1. Press Releases and Publicity.
+Neither Apple nor Supplier will issue press releases or other publicity regarding this Agreement or its subject matter without the prior written approval of the other. 
+ 
+16.2. Compliance with Laws. 
+ 
+(a) Supplier agrees that it will fully comply with all
+applicable laws and regulations in performing its obligations under this Agreement, including all applicable employment, tax, export control and environmental laws and regulations. Without limiting this requirement Supplier agrees that it will not
+export, re-export, sell, resell or transfer any customer data or any export-controlled commodity, technical data or software (i) in violation of any law, regulation, order, policy or other limitation imposed 
+
+[CONFIDENTIAL TREATMENT REQUESTED] INDICATES MATERIAL THAT HAS BEEN OMITTED AND FOR WHICH
+CONFIDENTIAL TREATMENT HAS BEEN REQUESTED. ALL SUCH OMITTED MATERIAL HAS BEEN FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 406 PROMULGATED UNDER THE SECURITIES ACT OF 1933, AS AMENDED. 
+
+ Apple Confidential
+ 
+ Page 17
+
+Apple-M-FLEX 
+ 
+Master Development and Supply Agreement 
+ 
+#C56-06-00844 
+
+by the United States (including the United States Export Administration regulations) or any other government authority with jurisdiction; or (ii) to any
+country for which an export license or other governmental approval is required at the time of export, without first obtaining all necessary licenses or equivalent. 
+ 
+(b) To the extent that Goods will be transported into the United States, Supplier represents that either (a) it is C-TPAT-certified by U.S. Customs & Border Protection, and will maintain that
+certification throughout the term of this Agreement, or (b) it will comply with the C-TPAT (Customs-Trade Partnership Against Terrorism) security procedures that may be found on the Customs website at www.cbp.gov <http://www.cbp.gov> (or
+such other website that the C-TPAT security procedures may be moved to by the U.S. Government). Supplier must fairly compensate its employees by providing wages and benefits that are in compliance with applicable law, or with prevailing local
+standards if such standards are higher than applicable law, and must ensure that any subcontractors supplying goods and services or materials for goods and services do the same. 
+ 
+16.3. No Forced or Child Labor. Supplier must ensure that neither the goods and services nor any materials procured by Supplier are produced or manufactured, in whole or in part, by convict or forced
+labor or by any child under the age of sixteen or the minimum age permitted by applicable law, whichever age is higher. 
+ 
+16.4. Small Business
+Contracting and Socio-Economic Requirements. 
+ 
+(a) Utilization of Small Business Concerns. As a federal contractor, Apple
+is subject to federal laws and regulations governing subcontracting with small businesses. As required by federal regulation and its federal contract(s), Apple incorporates by reference FAR 52.219-8, “Utilization of Small Business
+Concerns” in this contract to the extent that this contract offers further subcontracting opportunities. Unless Supplier is a small business or further subcontracting is not practicable, Supplier must utilize small business concerns (as that
+term is defined in FAR 52.219-8) to the maximum extent practicable. 
+ 
+(b) Socio-Economic Requirements. As a federal
+contractor, Apple also is subject to federal laws, executive orders, and regulations governing certain socio-economic requirements such as Equal Opportunity and Affirmative Action. As required by federal regulation and its federal contract(s), Apple
+incorporates by reference in this contract the following clauses: FAR 52.222-26, Equal Opportunity, FAR 52.222-35, Affirmative Action for Special Disabled and Vietnam Era Veterans, and FAR 52.222-36, Affirmative Action for Workers with Disabilities.
+
+16.5. Insurance and Loss Prevention. 
+ 
+(a) Supplier will [CONFIDENTIAL TREATMENT REQUESTED] maintain the following minimum insurance in full force and effect throughout the term of this Agreement: (i) commercial or comprehensive general liability, public liability or
+local equivalent, including products/completed operations, and fire legal liability, with coverage of not less than the equivalent of [CONFIDENTIAL TREATMENT REQUESTED] combined single limit per occurrence and [CONFIDENTIAL TREATMENT REQUESTED]
+annual aggregate. 
+
+[CONFIDENTIAL TREATMENT REQUESTED] INDICATES MATERIAL THAT
+HAS BEEN OMITTED AND FOR WHICH CONFIDENTIAL TREATMENT HAS BEEN REQUESTED. ALL SUCH OMITTED MATERIAL HAS BEEN FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 406 PROMULGATED UNDER THE SECURITIES ACT OF 1933, AS AMENDED. 
+
+ Apple Confidential
+ 
+ Page 18
+
+Apple-M-FLEX 
+ 
+Master Development and Supply Agreement 
+ 
+#C56-06-00844 
+
+(b) Supplier will deliver to Apple’s Procurement Department (1
+Infinite Loop, M/S 35-PO, Cupertino, California 95014) one or more certificates of insurance, or comparable documents, showing evidence of the coverage required above. Supplier shall endeavor to comply with the insurance and loss prevention
+requirements set forth in the document(s), if any, referenced in the Apple Requirements Document. Apple reserves the right to perform risk evaluations of Supplier’s facilities and Supplier agrees to work with Apple to upgrade any facility that
+does not comply with such requirements. 
+ 
+16.6. Independent Efforts and Similar Goods. Provided there is no infringement of the other
+party’s intellectual property rights or breach of the provisions in Section 11 above, nothing in this Agreement will impair either party’s right to develop, manufacture, purchase, use or market, directly or indirectly, alone or with
+others, products or services competitive with those offered by the other. 
+ 
+16.7. Relationship of Parties. Apple and Supplier are independent
+contractors. Nothing in this Agreement creates a joint venture, partnership, franchise, employment or agency relationship or fiduciary duty of any kind. Neither party will have the power, and will not hold itself out as having the power, to act for
+or in the name of or to bind the other party. Except as expressly provided, this Agreement is not for the benefit of any third parties. 
+ 
+16.8.
+Assignment. No party hereto or to any SOW may assign or delegate its rights or obligations under this Agreement without the other’s prior written consent; provided, however, that either party may assign all of its rights and obligations
+under this Agreement in connection with a merger or the sale of all or substantially all of its assets relating to its subject matter without the consent of the other party. This Agreement shall be binding upon, and inure to the benefit of, the
+successors, representatives, and administrators of the parties. 
+ 
+16.9. Force Majeure. No party hereto or to any SOW will be liable for delay
+or failure to fulfill its obligations under this Agreement due to acts of God beyond its reasonable control, provided it promptly notifies the other party and uses reasonable efforts to correct such failure or delay in its performance. 
+
+16.10. No Waiver. No delay or failure to act in the event of a breach of this Agreement will be deemed a waiver of that or any subsequent breach of any
+provision of this Agreement. Any remedies at law or equity not specifically disclaimed or modified by this Agreement remain available to both parties. 
+ 
+16.11. Governing Law. This Agreement and the rights and obligations of the parties will be governed by and construed and enforced in accordance with the laws of the State of California as applied to agreements entered into and
+to be performed entirely within California between California residents, without regard to conflicts of law principles. The parties expressly agree that the provisions of the United Nations Convention on Contracts for the International Sale of Goods
+will not apply to this Agreement or to their relationship. 
+ 
+16.12. Dispute Resolution, Jurisdiction and Venue. If there is a dispute between
+the parties, the parties agree that they will first attempt to resolve the dispute through one senior management member of each party named as a representative of the party to resolve the dispute. If they are unable to do so within 60 days after the
+complaining party’s written notice to the other party, the parties will then seek to resolve the dispute through non-binding mediation conducted in Santa Clara County or San Francisco County, California. Each party must bear its own expenses in
+connection with the mediation and must share 
+
+[CONFIDENTIAL TREATMENT
+REQUESTED] INDICATES MATERIAL THAT HAS BEEN OMITTED AND FOR WHICH CONFIDENTIAL TREATMENT HAS BEEN REQUESTED. ALL SUCH OMITTED MATERIAL HAS BEEN FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 406 PROMULGATED UNDER THE SECURITIES
+ACT OF 1933, AS AMENDED. 
+
+ Apple Confidential
+ 
+ Page 19
+
+Apple-M-FLEX 
+ 
+Master Development and Supply Agreement 
+ 
+#C56-06-00844 
+
+equally the fees and expenses of the mediator. If the parties are unable to resolve the dispute within 60 days after commencing mediation, either party may
+commence litigation in the state or federal courts in Santa Clara County, California. The parties irrevocably submit to the exclusive jurisdiction of those courts and agree that final judgment in any action or proceeding brought in such courts will
+be conclusive and may be enforced in any other jurisdiction by suit on the judgment (a certified copy of which will be conclusive evidence of the judgment) or in any other manner provided by law. Process served personally or by registered or
+certified mail, return receipt requested, will constitute adequate service of process in any such action, suit or proceeding. Each party irrevocably waives to the fullest extent permitted by applicable law (i) any objection it may have to the
+laying of venue in any court referred to above; (ii) any claim that any such action or proceeding has been brought in an inconvenient forum; and (iii) any immunity that it or its assets may have from any suit, execution, attachment
+(whether provisional or final, in aid of execution, before judgment or otherwise) or other legal process. The terms of this Section apply whether or not the dispute arises out of or relates to this Agreement, unless the dispute is governed by a
+separate written agreement. 
+ 
+16.13. Equitable Relief. Notwithstanding anything to the contrary in Section 16.12 above, either party may
+seek equitable relief in order to protect its Confidential Information or Intellectual Property Rights at any time, [CONFIDENTIAL TREATMENT REQUESTED]. The parties hereby [CONFIDENTIAL TREATMENT REQUESTED]. The confidentiality provisions of this
+Agreement will be enforceable under the provisions of the California Uniform Trade Secrets Act, California Civil Code Section 3426, as amended. 
+ 
+16.14. Construction. The section headings in this Agreement are for convenience only and are not to be considered in construing or interpreting this Agreement. References to sections, schedules, exhibits, and SOWs are
+references to sections of, and exhibits, schedules and SOWs to, this Agreement, and the word “herein” and words of similar meaning refer to this Agreement in its entirety and not to any particular section or provision. The word
+“party” means a party to this Agreement and the phrase “third party” means any person, partnership, corporation or other entity not a party to this Agreement. The words “will” and “shall” are used in a
+mandatory, not a permissive, sense, and the word “including” is intended to be exemplary, not exhaustive, and will be deemed followed by “without limitation. Any requirement to obtain a party’s consent is a requirement to obtain
+such consent in each instance. 
+ 
+16.15. Severability. If a court of competent jurisdiction finds any provision of this Agreement unlawful or
+unenforceable, that provision will be enforced to the maximum extent permissible so as to effect the intent of the parties, and the remainder of this Agreement will continue in full force and effect. 
+ 
+16.16. Counterparts. This Agreement may be executed in one or more counterparts, each of which will be deemed an original, but which collectively will
+constitute one and the same instrument. 
+
+[CONFIDENTIAL TREATMENT REQUESTED]
+INDICATES MATERIAL THAT HAS BEEN OMITTED AND FOR WHICH CONFIDENTIAL TREATMENT HAS BEEN REQUESTED. ALL SUCH OMITTED MATERIAL HAS BEEN FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 406 PROMULGATED UNDER THE SECURITIES ACT OF 1933,
+AS AMENDED. 
+
+ Apple Confidential
+ 
+ Page 20
+
+16.17. Related Documents; Precedence. The terms and conditions of any SOW, Purchase Order, and the terms
+and conditions of any schedules, exhibits, attachments and other documents referenced herein or therein are incorporated into the terms and conditions of this Agreement. In the event of any conflict in the documents which constitute this Agreement,
+the order of precedence will be (i) the quantity, price, payment and delivery terms of the applicable Purchase Order; (ii) the applicable SOW; (iii) this Master Development and Supply Agreement; and (iv) any other schedules,
+exhibits, attachments and other documents referenced and incorporated herein and therein. Notwithstanding the foregoing, Supplier agrees that the price, payment and delivery terms on any Purchase Order will be at least as favorable to Authorized
+Purchasers as such terms are set forth in this Agreement, and that in any case the price, payment and delivery terms on any Purchase Order are less favorable to Authorized Purchasers than those in this Agreement, then the terms of such Purchase
+Order will be deemed to be consistent with this Agreement regarding such terms. If there is a conflict between Section 11 above and any other agreement governing the use of Confidential Information disclosed by any party in connection with this
+Agreement, the terms and conditions of Section 11 will govern to the extent that such terms and conditions are more restrictive with respect to the use and disclosure of such Confidential Information. 
+ 
+16.18. Complete Agreement. The parties agree that this Agreement constitutes the complete and exclusive agreement between them superseding all
+contemporaneous and prior agreements (written and oral) and all other communications between them relating to its subject matter, excluding any confidentiality agreements. Except as expressly provided herein, this Agreement may not be amended or
+modified except by a written amendment signed by authorized signatories of both parties. The parties expressly acknowledge that they have received and are in possession of a copy of any referenced item not physically attached to this Agreement and
+any such item will be treated as if attached. 
+
+[CONFIDENTIAL TREATMENT
+REQUESTED] INDICATES MATERIAL THAT HAS BEEN OMITTED AND FOR WHICH CONFIDENTIAL TREATMENT HAS BEEN REQUESTED. ALL SUCH OMITTED MATERIAL HAS BEEN FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 406 PROMULGATED UNDER THE SECURITIES
+ACT OF 1933, AS AMENDED. 
+
+ Apple Confidential
+ 
+ Page 21
+
+Apple-M-FLEX 
+ 
+Master Development and Supply Agreement 
+ 
+#C56-06-00844 
+
+By signing below, each party agrees to be bound by the terms and conditions
+of this Agreement. 
+
+ Apple Computer, Inc.
+ 
+ Multi-Fineline Electronix, Inc.
+
+By /s/ Tony Blevins
+
+ By /s/ Reza Meshgin
+
+Name Tony Blevins
+
+ Name Reza Meshgin
+
+Title Sr. Director, Operations
+
+ Title President/COO
+
+Date 8/26/06
+
+ Date 8/16/06
+
+ Apple Computer International
+
+By /s/ Jae Allen
+
+Name Jae Allen
+
+Title Director
+
+Date 1 September 2006
+
+[CONFIDENTIAL TREATMENT REQUESTED]
+INDICATES MATERIAL THAT HAS BEEN OMITTED AND FOR WHICH CONFIDENTIAL TREATMENT HAS BEEN REQUESTED. ALL SUCH OMITTED MATERIAL HAS BEEN FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 406 PROMULGATED UNDER THE SECURITIES ACT OF 1933,
+AS AMENDED. 
+
+ Apple Confidential
+ 
+ Page 22
+
+Apple-M-FLEX 
+ 
+Master Development and Supply Agreement 
+ 
+#C56-06-00844 
+
+SCHEDULE 1 
+ 
+Definitions 
+ 
+“Agreement” means this Master Development and
+Supply Agreement and all SOWs, Purchase Orders, schedules, exhibits, attachments, and other documents incorporated in or permitted by this Master Development and Supply Agreement. 
+ 
+“Apple” is defined in the preamble of the Agreement. 
+ 
+“Apple Affiliate”
+means any entity authorized by Apple to procure Development Deliverables or Goods under the Agreement, including those entities listed as Apple Affiliates in the document(s), if any, referenced in the Apple Requirements Document. 
+ 
+“Apple Equipment” is defined in Section 6.2(b) of the Agreement. 
+ 
+“Apple Modification” means a modification of Specifications requested by Apple and approved by Supplier in accordance with Section 4.2 of the Agreement. 
+ 
+“Apple Product” means a finished good manufactured by or for Apple that incorporates the Goods. 
+ 
+“Apple Requirements Document” means the document attached to the Agreement as Schedule 2, as amended from time-to-time. 
+ 
+“Apple Software” means the Apple software provided to Supplier in connection with the performance of Supplier’s obligations under the
+Agreement, including the Apple software identified in the document(s), if any, in the Apple Requirement Document. 
+ 
+[CONFIDENTIAL TREATMENT REQUESTED].
+
+“Apple Trademarks” means any Apple trademarks, service marks, trade names, logos or other Apple commercial or product
+designations. 
+ 
+“Apple Unique Materials” means those materials, if any, identified in an SOW as “Apple Unique Materials”.
+
+“Authorized Purchaser” means Apple or Apple Affiliate, as applicable. 
+ 
+“Authorized Vendor” means a supplier of materials that has been approved by Apple for the purpose of providing such materials as set forth in the
+applicable BOM or SOW or as set forth in the document(s), if any, referenced in the Apple Requirements Document. 
+ 
+“BOM” means the
+engineering bill of materials for the Development Deliverables or Goods created and approved by Apple via the Project Management System. 
+ 
+“Business Day” means any day Monday through Saturday. 
+
+[CONFIDENTIAL TREATMENT REQUESTED] INDICATES MATERIAL THAT HAS BEEN OMITTED AND FOR WHICH CONFIDENTIAL TREATMENT HAS BEEN REQUESTED. ALL SUCH OMITTED MATERIAL HAS BEEN FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 406
+PROMULGATED UNDER THE SECURITIES ACT OF 1933, AS AMENDED. 
+
+ Apple Confidential
+
+Apple-M-FLEX 
+ 
+Master Development and Supply Agreement 
+ 
+#C56-06-00844 
+
+“Cause” means a material breach of the Agreement by another party, or
+the event of a party becoming insolvent, making an assignment for the benefit of creditors, or filing or being the subject of a petition in bankruptcy. 
+ 
+“Company” is defined in the preamble of the Agreement. 
+ 
+“Confidential Information” is defined in
+Section 11.1 of the Agreement. 
+ 
+“Custom Equipment” is defined in Section 6.2(g) of the Agreement. 
+ 
+[CONFIDENTIAL TREATMENT REQUESTED]. 
+ 
+[CONFIDENTIAL TREATMENT REQUESTED].
+
+“Defective Goods” means Goods that (i) failed [CONFIDENTIAL TREATMENT REQUESTED] to conform with or operate according to
+applicable Specifications [CONFIDENTIAL TREATMENT REQUESTED]; or (ii) are the subject of an Environmental Compliance Failure or a Safety Risk. 
+ 
+“Development Deliverables” means the tangible results of services performed by Supplier to be delivered to Authorized Purchasers in connection with the development of Goods for use in Apple products, including the
+items to be delivered that are identified in an SOW, and any other such items not identified in an SOW that are offered by Supplier to Authorized Purchasers to the extent that such items are not covered under the terms and conditions of a separate
+written agreement signed by the parties to the Agreement, not including Goods. 
+ 
+“Discloser” is defined in Section 11.1 of the
+Agreement. 
+ 
+“Documentation” means documents, in English and in hard copy and electronic format, containing instructions,
+specifications, schematics, drawings, reports, or other descriptions in connection with the Development Deliverables and/or Goods. 
+ 
+“Effective
+Date” is defined in the preamble of the Agreement. 
+ 
+“End User” means a purchaser who acquires an Apple product (into
+which a unit of Goods has been incorporated) for personal use rather than for distribution or resale. 
+ 
+“Environmental Compliance
+Failure” means the failure by Supplier to comply with the environmental requirements set forth in Section 5.3 of the Agreement. 
+ 
+“EOL Date” means the date that new Goods (not including Service Units) are last required. 
+ 
+“Equipment” means fixtures, tooling, test equipment and any other equipment used in connection with the development, manufacturing, testing, packaging, delivery or servicing of the Development Deliverables or Goods,
+including Apple Equipment and Custom Equipment. 
+ 
+“Error Corrections” is defined in Section 10.1(b)(iii) of the Agreement.
+
+[CONFIDENTIAL TREATMENT REQUESTED] INDICATES MATERIAL THAT HAS BEEN OMITTED
+AND FOR WHICH CONFIDENTIAL TREATMENT HAS BEEN REQUESTED. ALL SUCH OMITTED MATERIAL HAS BEEN FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 406 PROMULGATED UNDER THE SECURITIES ACT OF 1933, AS AMENDED. 
+
+ Apple Confidential
+
+Apple-M-FLEX 
+ 
+Master Development and Supply Agreement 
+ 
+#C56-06-00844 
+
+“Excessive Failure Threshold” means the excessive failure threshold
+in the SOW, or if no excessive failure threshold is specified in the SOW, [CONFIDENTIAL TREATMENT REQUESTED] for a Single Cause Excessive Failure and [CONFIDENTIAL TREATMENT REQUESTED] for a Multiple-Cause Excessive Failure. 
+ 
+“Excessive Failure” means the Failure Rate exceeds the Excessive Failure Threshold. 
+ 
+“Ex Works” has the meaning defined by the International Chamber of Commerce in its publication, Incoterms 2000; ICC Official Rules for the
+Interpretation of Trade Terms. 
+ 
+“Failure Rate” means the rate calculated using the following formula: 
+ 
+Failure rate = [CONFIDENTIAL TREATMENT REQUESTED] where: 
+ 
+A = the [CONFIDENTIAL TREATMENT REQUESTED] in a [CONFIDENTIAL TREATMENT REQUESTED] that failed
+[CONFIDENTIAL TREATMENT REQUESTED] to conform with or operate according to applicable Specifications [CONFIDENTIAL TREATMENT REQUESTED] within [CONFIDENTIAL TREATMENT REQUESTED] after they were manufactured; and 
+ 
+B = the [CONFIDENTIAL TREATMENT REQUESTED] in that [CONFIDENTIAL TREATMENT REQUESTED]. 
+ 
+“Flexibility Schedule” means a schedule that sets forth the maximum percentage increase in units forecasted or ordered, based on when notice of
+such increase is given. 
+ 
+“Forecast” means a written estimate of the Goods required per week for production of Apple Products.
+
+“Goods” means components and related Service Units identified in an SOW, and any components and related Service Units not
+identified in an SOW but offered by Supplier to Authorized Purchasers to the extent that such goods and related Service Units are not covered under the terms and conditions of a separate written agreement signed by the parties to the Master
+Development and Supply Agreement. 
+ 
+“Hub” means an Apple-approved warehouse located at or near Apple-specified manufacturing or
+distribution facilities, or other Apple-specified location. 
+ 
+“Information Systems” means computer hardware and software systems,
+including the Project Management System. 
+ 
+“Initial Service Unit Inventory” means the number of Service Units calculated using the
+following formula: 
+ 
+Initial Service Unit Inventory = [CONFIDENTIAL TREATMENT REQUESTED],
+where: 
+ 
+A = the [CONFIDENTIAL TREATMENT REQUESTED] (as determined [CONFIDENTIAL TREATMENT
+REQUESTED]) of the Goods. 
+
+[CONFIDENTIAL TREATMENT REQUESTED] INDICATES
+MATERIAL THAT HAS BEEN OMITTED AND FOR WHICH CONFIDENTIAL TREATMENT HAS BEEN REQUESTED. ALL SUCH OMITTED MATERIAL HAS BEEN FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 406 PROMULGATED UNDER THE SECURITIES ACT OF 1933, AS
+AMENDED. 
+
+ Apple Confidential
+
+Apple-M-FLEX 
+ 
+Master Development and Supply Agreement 
+ 
+#C56-06-00844 
+
+B = the [CONFIDENTIAL TREATMENT
+REQUESTED] in the then current Forecast for the first [CONFIDENTIAL TREATMENT REQUESTED] of production. 
+ 
+“Intellectual Property
+Rights” means all current and future rights in copyrights, trade secrets, trademarks, mask works, patents, and other intellectual property rights, including, in each case whether unregistered, registered or comprising an application for
+registration, and all rights and forms of protection of a similar nature or having equivalent or similar effect to any of the foregoing that may exist anywhere in the world. 
+ 
+“Lead-Time” means the minimum amount of time in advance of the date Goods are required in accordance with Forecasts or Purchase Orders that Supplier must begin production of the Goods.
+
+“Long Lead-Time Materials” means those materials, if any, identified in an SOW as “Long Lead-Time Materials”.
+
+[CONFIDENTIAL TREATMENT REQUESTED]. 
+ 
+“Multiple
+Causes” means any defect or defects (e.g. multiple, unrelated Single Causes). 
+ 
+“Multiple-Cause Excessive Failure”
+means an Excessive Failure due to Multiple Causes. 
+ 
+“Notice” means a written notification addressed to the authorized
+representative(s) of the a party, which notification will be deemed given: (i) when delivered personally; (ii) when sent by confirmed facsimile; (iii) one day after having been sent by commercial overnight carrier specifying next-day
+delivery with written verification of receipt; or (iv) three days after having been sent by first class or certified mail postage prepaid. A copy of any notice sent to Apple must also be sent simultaneously to Apple’s General Counsel at
+Apple Computer, Inc., 1 Infinite Loop, Cupertino, CA 95014, United States, or by fax to (408) 974-8530. 
+ 
+“Personnel” means
+officers, directors, agents, consultants, contractors, and employees. 
+ 
+“Production Period” means the period during which Goods are
+produced by Supplier to meet the requirements of the Forecasts provided by Apple in accordance with Section of 2.2(a) the Agreement. 
+ 
+“Project
+Management System” means an Information System identified by Apple and accessible to Supplier that is used to, among other things, (i) obtain approval for changes to Specifications; and (ii) maintain electronic versions of
+Specifications and to provide notification of and to track modifications to such Specifications, used in accordance with the procedures set forth in the document(s), if any, referenced in the Apple Requirements Document, or in the absence of such
+procedures, as mutually agreed by Apple and Supplier. 
+ 
+“Project Schedule” means the most current version of schedule(s) provided by
+Apple that set(s) forth when the Development Deliverables must be delivered, and when production of the Goods is to begin. 
+ 
+“Purchase
+Order” or “PO” means a written or electronically transmitted purchase order from an Authorized Purchaser to Supplier for Development Deliverables, Goods or related services that includes a description of the
+Development Deliverables, Goods or related services ordered, and a requested delivery 
+
+[CONFIDENTIAL TREATMENT REQUESTED] INDICATES MATERIAL THAT HAS BEEN OMITTED AND FOR WHICH CONFIDENTIAL TREATMENT HAS BEEN REQUESTED. ALL SUCH OMITTED MATERIAL HAS BEEN FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 406
+PROMULGATED UNDER THE SECURITIES ACT OF 1933, AS AMENDED. 
+
+ Apple Confidential
+
+Apple-M-FLEX 
+ 
+Master Development and Supply Agreement 
+ 
+#C56-06-00844 
+
+or performance date and location, as applicable; provided, however, that the delivery or performance date and location may be provided separately in a
+subsequent ship order. 
+ 
+“Recipient” is defined in Section 11.1 of the Agreement. 
+ 
+“Repair Facilities” means the facilities provided by Supplier at which Supplier is able to perform its obligations under Section 3 of the
+Agreement. 
+ 
+“Safety Risk” means a risk of bodily injury or property damage. 
+ 
+“Service Units” means replacements, spare parts and service modules for Goods. 
+ 
+“Single Cause” means the same or substantially the same defect (e.g. related to the same component, material, design, manufacturing process, or test procedure). 
+ 
+“Single-Cause Excessive Failure” means an Excessive Failure due to a Single Cause. 
+ 
+“SOW” means a written statement of work or plan of record, signed by Apple and Supplier, that references this Master Development and Supply Agreement and that describes the terms and conditions
+specific to Development Deliverable, Goods and/or related services. 
+ 
+“Specifications” means the most current version of all
+applicable specifications and requirements provided by Apple, including the Project Schedule, the specifications and requirements set forth in the documents referenced in the Agreement, including any documents referenced in any BOM, SOW, and any
+relevant specifications, drawings, samples or other descriptions provided by Supplier and approved by Apple in writing. 
+ 
+“Supplier”
+means Company and Supplier Affiliates. 
+ 
+“Supplier Affiliate” means any entity authorized by Apple to provide Development
+Deliverables and/or Goods under the Agreement. 
+ 
+“Supplier Modification” means a modification of Specifications requested by
+Supplier and approved by Apple in accordance with Section 4.1 of the Agreement. 
+ 
+[CONFIDENTIAL TREATMENT REQUESTED]. 
+
+[CONFIDENTIAL TREATMENT REQUESTED] INDICATES MATERIAL THAT HAS BEEN OMITTED AND FOR WHICH
+CONFIDENTIAL TREATMENT HAS BEEN REQUESTED. ALL SUCH OMITTED MATERIAL HAS BEEN FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 406 PROMULGATED UNDER THE SECURITIES ACT OF 1933, AS AMENDED. 
+
+ Apple Confidential
+
+Apple-M-FLEX 
+ 
+Master Development and Supply Agreement 
+ 
+#C56-06-00844 
+
+SCHEDULE 2 
+ 
+Apple Requirements Document 
+
+ P/N
+ 
+ Title
+
+ 069-0135
+ 
+ Specification, Regulated Substances
+
+ 069-1111
+ 
+ Apple RoHS Compliance Specification
+
+ 080-2153
+ 
+ RoHS Declaration of Conformity Procedure
+
+ 080-2503
+ 
+ Apple Supplier Code of Conduct
+
+[CONFIDENTIAL TREATMENT REQUESTED]
+INDICATES MATERIAL THAT HAS BEEN OMITTED AND FOR WHICH CONFIDENTIAL TREATMENT HAS BEEN REQUESTED. ALL SUCH OMITTED MATERIAL HAS BEEN FILED WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 406 PROMULGATED UNDER THE SECURITIES ACT OF 1933,
+AS AMENDED. 
+
+ Apple Confidential

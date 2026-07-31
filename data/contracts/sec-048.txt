@@ -1,0 +1,2053 @@
+EX-10.24
+8
+vasc070378_ex10-24.htm
+THROMBIN JMI SUPPLY AGREEMENT
+
+Exhibit 10.24 to Vascular Solutions, Inc. Form 10-K for fiscal year ended December 31, 2006 
+
+EXHIBIT 10.24
+
+THROMBIN JMI® SUPPLY AGREEMENT
+
+This THROMBIN SUPPLY AGREEMENT (this “Agreement”) is entered into as of January 9, 2007, (the “Effective Date”), by and between Vascular Solutions, Inc., a Minnesota corporation, with its offices at 6464 Sycamore Court, Minneapolis, Minnesota 55369 (“VSI”) and King Pharmaceuticals, Inc., a Tennessee corporation, with its offices at 501 Fifth Street, Bristol, Tennessee 37620 (“King”). King and VSI are also referred to herein individually as a “Party” and collectively as the “Parties.”
+
+WHEREAS, King and VSI are parties to that certain Device Supply Agreement dated as of even date with this Agreement (the “Device Supply Agreement”), under which VSI will manufacture and supply to King and King will purchase from VSI certain Devices (as defined herein); and 
+
+WHEREAS, King wishes to provide VSI with Product (as defined herein) for VSI’s use in its manufacture as part of a tolling arrangement to supply King with the Devices; and
+
+WHEREAS, King wishes to sell and VSI wishes to purchase Product for VSI’s own use outside of the Field (as defined herein); and
+
+WHEREAS, subject to the terms and conditions set forth in this Agreement, VSI wishes to have King manufacture and supply and King wishes to manufacture and supply the Product to VSI.
+
+NOW, THEREFORE, in consideration of the foregoing, the mutual promises and covenants of the Parties contained therein, and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties hereto, intending to be legally bound, do hereby agree as follows:
+
+ARTICLE I. DEFINITIONS
+
+As used herein, the following terms have the following meanings:
+
+Section 1.1
+
+“Act” has the meaning set forth in Section 5.3.
+
+** The appearance of a double asterisk denotes
+confidential information that has been omitted from the exhibit and filed separately, accompanied by a confidential treatment
+request, with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934.
+
+1
+
+Section 1.2 “Affiliate” means, with respect to any Person, any Persons directly or indirectly controlling, controlled by, or under common control with, such Person. For purposes hereof, the term “controlled” (including the terms “controlling,” “controlled by” and “under common control with”), as used with respect to any Person, shall mean the direct or indirect ability or power to direct or cause the direction of management policies of such Person or otherwise direct the affairs of such Person, whether through ownership of voting securities or otherwise.
+
+Section 1.3 “Agreement” has the meaning set forth in the preamble hereto. 
+
+Section 1.4 “Applicable Law” means all laws, rules, regulations, including any rules, regulations, guidelines, guidances or other requirements of the United States, any foreign country or any domestic or foreign state, county, city or other political subdivision or of any Governmental Authority that may be in effect from time to time in the Territory applicable to this Agreement or the activities contemplated hereunder, including the FDCA.
+
+Section 1.5 “Business Day” means a day other than Saturday, Sunday or any day on which banks located in New York are authorized or obligated to close. Whenever this Agreement refers to a number of days, such number shall refer to calendar days unless Business Days are specified.
+
+Section 1.6 “Certificate of Analysis” means certificates substantially in the form attached hereto in Exhibit B, evidencing the analytical tests conducted on a specific lot of Product and setting forth, inter alia, the items tested, specifications, and test results. 
+
+Section 1.7 “C.F.R.” means the United States Code of Federal Regulations. 
+
+Section 1.8 “cGMP” shall mean current Good Manufacturing Practices as promulgated under and in accordance with the FDCA, 21 C.F.R. (Parts 210, 211, 600 and 610), as the same may be amended or re-enacted from time to time and the ICH guidelines for Good Manufacturing Practices for Active Pharmaceutical Ingredients issued November 10, 2000.
+
+Section 1.9 “Confidential Information” shall have the meaning set forth in the License Agreement.
+
+Section 1.10 “Confirmed Firm Order” has the meaning set forth in Section 2.6(b). 
+
+Section 1.11 “Deviation” has the meaning set forth in Section 2.2. 
+
+Section 1.12 “Device Supply Agreement” has the meaning set forth in the preamble hereto.
+
+Section 1.13 “Devices” means all medical devices described in Exhibit A-1 of the Device Supply Agreement (as amended from time to time), developed, owned, or controlled by VSI having application in the Field. 
+
+Section 1.14
+
+“Effective Date” has the meaning set forth in the preamble hereto.
+
+2 
+
+Section 1.15 “Excess Product” has the meaning set forth in Section 2.7(c)(iii).
+
+Section 1.16 “Exploit” means to make, have made, import, use, sell, offer for sale or otherwise dispose of a product or process, including the research, development, registration, modification, enhancement, improvement, Manufacture, storage, formulation, optimization, export, transport, distribution, promotion or marketing of a product or process. 
+
+Section 1.17 “Facility” means, as the context may require, the facility of King located at Middleton, Wisconsin, and the facilities of VSI located at Plymouth and Maple Grove, Minnesota.
+
+Section 1.18 “FDA” means the United States Food and Drug Administration and any successor agency thereto.
+
+Section 1.19 “FDCA” means the federal Food, Drug, and Cosmetic Act, as amended, which is contained in Title 21 of the U.S. Code, section 301 et seq., as amended and the regulations promulgated thereunder from time to time.
+
+Section 1.20 “Field” means Hemostatic Devices with or without active hemostats in all areas outside catheterization laboratories (cardiac and peripheral), electrophysiology laboratories, and holding and recovery rooms for all such laboratories. 
+
+Section 1.21 “Firm Order” means a written irrevocable firm purchase order for Product, which order shall include a delivery schedule specifying the requested delivery date and quantity for each Product ordered, and the location to which shipment of the Product is to be delivered.
+
+Section 1.22 “Forecasts” means the King Device Forecast and the VSI Device Forecast.
+
+Section 1.23 “Governmental Authority” means any governmental agency, board or commission or other governmental or regulatory authority or other instrumentality of the United States, any state, county, city or other political subdivision within the United States or any other jurisdiction within the Territory (including the FDA). 
+
+Section 1.24 “Hemostatic Devices” means medical devices, whether external, implanted, absorbable or otherwise, intended to produce hemostasis by accelerating the clotting process of blood.
+
+Section 1.25 “ICH” means the International Conference for Harmonization.
+
+Section 1.26 “Indemnification Claim Notice” has the meaning set forth in Section 7.3(a).
+
+Section 1.27 “Indemnified Party” has the meaning set forth in Section 7.3(a).
+
+Section 1.28 “Indemnifying Party” has the meaning set forth in Section 7.3(a).
+
+Section 1.29 “Initial Term” has the meaning set forth in Section 6.1.
+
+3 
+
+Section 1.30 “King” has the meaning set forth in the preamble hereto.
+
+Section 1.31 “King Device Forecast” has the meaning set forth in Section 2.6(a)(i).
+
+Section 1.32 “King Supplied Product” means topical thrombin U.S.P. (bovine origin) marketed by King under the trademark Thrombin-JMI® as further described in Exhibit A and supplied by King to VSI in the vial form delivered to it by King hereunder without any additional processing by VSI or other changing or removing from such vial form for use by VSI to manufacture and supply Devices to King under the Device Supply Agreement as well as for its own use outside of the Field.
+
+Section 1.33 “King Indemnified Parties” has the meaning set forth in Section 7.2.
+
+Section 1.34 “License Agreement” means that License Agreement between VSI, King, King’s wholly owned subsidiary, King Pharmaceuticals Research and Development, Inc. as of even date with this Agreement.
+
+Section 1.35 “Losses” has the meaning set forth in Section 7.1.
+
+Section 1.36 “Manufacture” and “Manufacturing” means the manufacturing, processing, formulating, packaging, labeling, storage, handling and quality control testing of the Product.
+
+Section 1.37 “Marketing Authorization” means an approved New Drug Application, Pre-Market Approval Application or Pre-Market Notification (510(k)) as defined in the FDCA and the regulations promulgated thereunder, an approved Biologics License as defined in the Public Health Service Act and the regulations promulgated thereunder or any corresponding foreign application, registration or certification, necessary or reasonably useful to market any product in a country or regulatory jurisdiction in the Territory other than the United States, including applicable pricing and reimbursement approvals.
+
+Section 1.38 “Materials” means all raw materials, excipients, components, packaging and labeling materials, and all other supplies of any kind used in connection with Manufacturing the Product.
+
+Section 1.39 “Minimum Usage” has the meaning set forth in Section 2.7(c)(iii).
+
+Section 1.40 “Other Agreements” means the Device Supply Agreement, the Device Quality Agreement, and the Thrombin-JMI® Quality Agreement, each entered into between VSI and King as of even date with this Agreement, and the License Agreement.
+
+Section 1.41 “Party” and “Parties” have the meanings set forth in the preamble hereto.
+
+Section 1.42 “Person” means an individual, sole proprietorship, partnership, limited partnership, limited liability partnership, corporation, limited liability company, business trust, joint stock company, trust, unincorporated association, joint venture or other similar entity or organization, including a government or political subdivision, department or agency of a government.
+
+4 
+
+Section 1.43 “PPI” means the Producer Price Index for the industry group Pharmaceutical Preparation Manufacturing (series identification number PCU325412325412).
+
+Section 1.44 “Product” means the King Supplied Product and the VSI Modified Product.
+
+Section 1.45 “Purchase Price” means the purchase price for the Product.
+
+Section 1.46 “Regulatory Approval” means any and all approvals (including pricing and reimbursement approvals), licenses, registrations or authorizations of any Governmental Authority necessary to Exploit the Product in the United States and the European Union, including any (a) premarket approval or premarket notification of a Product, including any supplements and amendments thereto; (b) post-approval Marketing Authorizations (including any prerequisite Manufacturing approval or authorization related thereto); (c) labeling approval; and (d) technical, medical and scientific licenses.
+
+Section 1.47 “Specifications” means the handling, composition, testing, production, packaging, storage and shipping procedures and specifications for the Product as may be amended, modified or supplemented from time to time in accordance with the terms hereof. The initial Specifications are attached hereto as Exhibit A.
+
+Section 1.48 “Standard Potency” has the meaning set forth in Section 2.2.
+
+Section 1.49 “Territory” means the world.
+
+Section 1.50 “Term” has the meaning set forth in Section 6.1.
+
+Section 1.51 “Testing Laboratory” has the meaning set forth in Section 4.3.
+
+Section 1.52 “Thrombin-JMI® Quality Agreement” means the Thrombin-JMI® Quality Agreement executed by the Parties on or about the date hereof in relation to King’s supply to VSI of the Product hereunder, substantially in the form attached hereto as Exhibit E.
+
+Section 1.53 “Un-Acceptable Product” has the meaning set forth in Section 4.1.
+
+Section 1.54 “Variation” has the meaning set forth in Section 2.2.
+
+Section 1.55 “VSI” has the meaning set forth in the preamble hereto.
+
+Section 1.56 “VSI Device Forecast” has the meaning set forth in Section 2.6(a)(ii).
+
+Section 1.57 “VSI Device Purchase Price” is the purchase price for the supply by King to VSI of Product in accordance with the VSI Device Forecast, as such purchase price is set forth in Exhibit C.
+
+Section 1.58 “VSI Indemnified Parties” has the meaning set forth in Section 7.1.
+
+Section 1.59 “VSI Modified Product” means topical
+thrombin U.S.P. (bovine origin) marketed by King under the trademark Thrombin-JMI® as further described in
+Exhibit A and supplied by King to VSI in a vial form that VSI
+subjects to further processing or otherwise changes or removes from such vial form for use by VSI to manufacture and supply
+Devices to King under the Device Supply Agreement as well as for its own use outside of the Field.
+
+5 
+
+ARTICLE II. MANUFACTURING
+
+Section 2.1 Supply
+Obligations. Subject to the terms and conditions hereof, King shall Manufacture and supply the Product on
+a non-exclusive basis to VSI and VSI shall obtain from King such quantities of Product as VSI may order during the Term. King
+shall Manufacture all Product delivered hereunder in accordance with the Specifications, this Agreement, and the Thrombin-JMI®
+Quality Agreement and in compliance with Applicable Law. King shall supply to VSI and VSI shall obtain the Product from King
+pursuant to Firm Orders or Confirmed Firm Orders submitted by VSI to King in accordance with Section
+2.6(b) at a price determined in accordance with Section 2.3. King shall supply VSI up to ** of the VSI Forecasts for the appli cable period and shall exercise commercially reasonable
+efforts to supply VSI with Product in excess of ** of any Forecast. 
+
+Section 2.2 Standard
+Potency, Variation, Deviation, and Reconciliation. King shall supply VSI with such quantity of Product as
+VSI shall require. The Parties acknowledge that the Product will be supplied in vials that are labeled to show that the vials
+contain 10,000 units and 5,000 units of Product. There are fluctuations in the actual volume of Product from lot to lot, and, for
+purposes of this Agreement, the Parties agree to measure, tally, and reconcile the fluctuations in accordance with the provisions
+of this Section 2.2. The average potency for each vial labeled 10,000 units is
+actually ** units and the average potency for each vial labeled 5,000 units is ** units (“Standard
+Potency”). The Parties agree that the Standard Potency varies by an acceptable ±** (plus or
+minus **) from lot to lot (“Variation”). Any fluctuation beyond the
+Variation is a deviation (“Deviation”). To determine the Deviation, the
+Parties agree to use King’s standard method of measuring the Product’s potency, which is to determine, from a
+representative sample vial from the lot, the average potency of that lot. The average potency for that lot will be stated in
+King’s Certificate of Analysis in total units. Those units will then be tallied and reconciled on a bi-annual basis in
+accordance with the provisions of this Section 2.2. King’s Certificate of
+Analysis will, absent manifest error, be conclusive to determine any Variation and Deviation for any related Product. In no case
+will Product be included for purposes of calculating a Deviation under this Section 2.2 when VSI uses such Product in the intact, unopened vial form in which it is delivered by King to VSI, by placing such
+intact, unopened vial, into a kit that is marketed by either King or VSI. If a Deviation is negative, King shall be responsible
+for the Deviation by supplying VSI with, at VSI’s election, and as applicable for the Product in question (i) Product
+sufficient to correct the Deviation, in the case of Product supplied under a King Device Forecast, or (ii) a credit for the
+Deviation, in the case of Product supplied under a VSI Device Forecast, or (iii) a refund of any Purchase Price overpaid that is
+equal to the value of the Deviation, in the case of Product supplied under a VSI Device Forecast. If the Deviation is positive and
+relates to Product supplied under a King Device Forecast, VSI shall use the Deviation exclusively for its manufacture and supply
+to King of Devices under the Device Supply Agreement. If the Deviation is positive and relates to Product supplied under a VSI
+Device Forecast, VSI shall pay King the VSI Device Purchase Price for the amount of such Deviation. 
+
+6 
+
+Section 2.3 Purchase
+Price. King will provide Product to VSI in accordance with VSI Device Forecasts at the price set forth in
+Exhibit C (the “Purchase Price”).
+The Purchase Price shall be fixed for the Term, and subject only to the adjustments applied in accordance with Section 2.2, Section 2.8(b), Section 6.4(c), or for annual inflation, and in the case of an annual inflation adjustment, such
+adjustment shall not exceed a maximum annual increase of three percent (3%), based on the change in the PPI for the preceding
+year. Product supplied to VSI in accordance with King Device Forecasts shall be supplied to VSI free of charge. 
+
+Section 2.4 Invoicing,
+Payment, Currency. King shall promptly invoice VSI for all quantities of Product delivered in accordance
+with any VSI Device Forecasts as well as with respect to any other payment hereunder. King shall issue no invoices for Products
+delivered in accordance with any King Device Forecasts. Payment with respect to such Product delivered shall be due thirty (30)
+days after receipt by VSI of the invoice with respect thereto; provided that if VSI
+rejects such Product pursuant to Section 4.1, then payment shall be due within
+thirty (30) days after receipt by King of notice from the Testing Laboratory that the invoiced Product is conforming or, subject
+to Section 4.4, receipt by King of replacement Product, as the case may be. All
+other payments shall be made thirty (30) days after receipt of an invoice for the same. In all cases, if VSI disputes any portion
+of an invoice, it shall pay the undisputed portion and shall provide King with written notice of the disputed portion and its
+reasons therefore, and VSI shall not be obligated to pay such disputed portion. The Parties shall use good faith efforts to
+resolve any such disputes promptly. In the event of any inconsistency between an invoice and this Agreement, the terms of this
+Agreement shall control. Payment of invoices shall be made in United States Dollars by wire transfer to an account designated in
+writing by King.
+
+Section 2.5
+
+Costs and Expenses.
+
+(a)
+
+King shall be solely responsible for all costs and expenses incurred in connection with:
+
+(i) the Manufacture of Product for VSI (in vial form as delivered to VSI before further processing by VSI) in accordance with the Specifications, including without limitation, subject to Section 2.5(b), all costs and expenses of personnel, quality control testing, Manufacturing facilities and equipment, Materials, government sales, use excise, property or similar taxes or excises; and
+
+(ii) the delivery, transport and export of Product pursuant to a King Device Forecast.
+
+(b)
+
+VSI shall
+
+(i) be solely responsible for all costs and expenses incurred in connection with: (x) the delivery, transport and export of Product pursuant to a VSI Device Forecast; (y) VSI’s purchase of the Product for its further processing; and (z) VSI’s commercialization of its other devices and/or products incorporating the VSI Modified Product outside of the Field, including rebates, chargebacks, discounts, actual freight, freight insurance cost, government sales, use, excise, property, import, export or similar taxes or excises (except tax on income to King); and
+
+7 
+
+(ii) reimburse King for the direct costs of the Materials paid for by King in reasonable reliance upon Forecasts (up to a maximum inventory of three (3) months based on average annual usage) submitted by VSI hereunder which become obsolete and which cannot be returned for a refund or otherwise used by King upon any change required by VSI in the packaging of the Product. At VSI’s option, VSI will pay for the return or destruction of the obsolete Materials; and
+
+(iii) reimburse King for the direct costs and expenses that King incurs for Product packaging modifications in connection with any Product that VSI, in its sole discretion, has required, in which case King shall prepare and submit to VSI a good faith estimate of a budget of costs and expenses for the same and VSI shall reimburse King for all such VSI-approved costs and expenses. 
+
+Section 2.6
+
+Forecasts, Firm Orders, Batch Sizes.
+
+(a) Forecasts. Within
+thirty (30) days after VSI has received an initial forecast from King under the Device Supply Agreement, VSI shall submit to King
+a non-binding good faith, initial forecast of the quantities and delivery dates for Product that VSI estimates it will require on
+a monthly basis during the following twelve (12) month period, and thereafter on the first Business Day of each calendar month
+during the Term, provided that King has timely provided its forecasts for Devices
+under the Device Supply Agreement, VSI shall deliver to King the following “Forecasts,” which shall be made in good faith given market and other information available to VSI: 
+
+(i) a twelve (12)-month rolling forecast by month, estimating the quantities of Product (“King Device Forecast”) that VSI expects to use on a monthly basis for its use to supply King with Devices under the Device Supply Agreement; and 
+
+(ii) a twelve (12)-month rolling forecast by month, estimating the quantities of Product (“VSI Device Forecast”) that VSI expects to use on a monthly basis for its own use outside of the Field. 
+
+(b) Firm
+Orders. VSI shall order Product pursuant to a King Device Forecast by use of Firm Orders and shall
+purchase Product pursuant to a VSI Device Forecast solely by use of Firm Orders. No terms or conditions contained in any Firm
+Order, acknowledgment, invoice, bill of lading, acceptance, or other writing or document issued by either Party shall be effective
+to the extent such terms or conditions are inconsistent with or modify the terms and conditions contained in this Agreement. VSI
+shall submit each such Firm Order to King at least one hundred twenty (120) days in advance of the delivery date specified in each
+Firm Order. If VSI requests changes to any Firm Order after receipt thereof by King, King shall use commercially reasonable
+efforts to comply with such changes. King shall indicate its acceptance of each of VSI’s Firm Orders within five (5) Business
+Days of its receipt of a Firm Order, which acceptance shall confirm the quantity ordered and delivery date set forth in such Firm
+Order. Each request by VSI for changes to any Firm Order after receipt thereof by King shall be confirmed by King by facsimile or
+email showing the revised quantity and delivery date of Product within five (5) Business Days after King’s receipt of such
+change request (the “Confirmed Firm Order”). King shall promptly notify
+VSI in writing if at any time King has reason to believe that King will not be able to
+fill a Firm Order or Confirmed Firm Order for any Product in all material respects in accordance with the delivery schedule
+specified therein by VSI and pursuant to the terms and conditions of this Agreement. 
+
+8 
+
+(c) Batch Sizes. All quantities of Product ordered by VSI shall be consistent with King’s current minimum batch sizes for the Product as set forth in Exhibit A, or multiples thereof. King shall give VSI not less than six (6) months notice prior to changing its minimum batch sizes.
+
+Section 2.7 Shipment and Delivery; Title and Risk of Loss; Handling of Product Supplied under King Device Forecasts. 
+
+(a) Terms. King
+shall use commercially reasonable efforts to deliver the quantities of Product set forth in each Firm Order or Confirmed Firm
+Order FCA (Incoterms 2000), VSI’s Facility by the delivery date set forth in the applicable Firm Order or Confirmed Firm
+Order. All Product shall be packaged for shipment in accordance with the Specifications and in accordance with King’s
+customary practices therefore, including obtaining at VSI’s cost all export authorizations as may be required, unless
+otherwise specified in writing by VSI thirty (30) days prior to such shipment, in which event any extra costs incurred by King on
+account of the packaging changes requested by VSI shall be promptly reimbursed by VSI. Each delivery of Product shall be
+accompanied by a Certificate of Analysis and such other documents as may be required pursuant to the Thrombin-JMI® Quality
+Agreement. King will warehouse the Product and will make prompt arrangements for shipment of the Product once the Product is
+quality released by King and ready for shipment. 
+
+(b)
+
+Title and Risk of Loss.
+
+(i) Product Supplied under King Device Forecasts. Notwithstanding the FCA delivery term of Section 2.7(a), title and risk of loss to Product supplied under King Device Forecasts shall remain with King upon delivery to VSI’s Facility and shall remain with King throughout VSI’s use of such Product to manufacture and supply Devices to King. VSI shall provide King with a receipt of delivery of such Product with respect to each such shipment.
+
+(ii) Product Supplied under VSI Device Forecasts. Title and risk of loss to Product supplied under VSI Device Forecasts shall pass to VSI upon delivery to VSI’s Facility. VSI shall provide King with a receipt of delivery of such Product with respect to each such shipment.
+
+(c)
+
+Product Supplied under King Device Forecasts.
+
+(i) VSI
+shall be and remain responsible for the proper care and handling of all quantities of Product supplied under King Device Forecasts
+and shall account to King for the handling and disposition of all such quantities in accordance with the provisions of this
+Section 2.7(c). Without limiting the preceding sentence, VSI shall hold all such
+Product separate from other Materials owned or acquired by VSI and other third parties and shall insure and identify such Product
+as the property of King. VSI shall store, handle, and protect such Product with the same level of care that it stores, handles,
+and protects Product supplied to it under the VSI Device Forecast and in no event at less than a reasonable level of care, which
+shall include taking all reasonable precautions to
+ensure that all such Product is not subject to contamination, deterioration, destruction, or theft.
+
+9 
+
+(ii) VSI shall keep adequate records of its usage of all Product supplied under a King Device Forecast during the Term. By the fifth (5th) business day of each month, VSI shall provide King with a rolling three (3) month report of VSI’s use of such Product, which report will show the beginning balances by batch, usage by batch, and ending balances by batch of all such Product in VSI’s inventory. VSI shall promptly report to King any and all incidents or occurrences pursuant to which any shipment of such Product is not used for VSI’s manufacture into Devices, including spillage, accidents, waste, spoilage, or other disposition.
+
+(iii) No
+less than ** of all Product supplied to VSI under a King Device Forecast pursuant to this Section
+2.7 shall be used in VSI’s manufacture of Devices (the “Minimum
+Usage”), as determined by averaging the use of such Product on a quarterly basis; provided that, in
+the event that the Minimum Usage is not met, King will supply VSI with additional Product, subject to the terms and conditions of
+this Section 2.7(c)(iii). With respect to excess Product as a result of VSI’s
+failure to meet the Minimum Usage (“Excess Product”), King shall be
+entitled to charge VSI and VSI shall pay King the VSI Device Purchase Price for such Excess Product.
+
+(iv) King and its designated representatives shall have the right, upon reasonable notice, to visit VSI’s Facility for the purpose of conducting an inventory of the amount of Products that are King property held at VSI in accordance with the provisions of this Section 2.7(c).
+
+(d) Release. Prior to shipment of any Product, King shall perform release testing pursuant to the Specifications and as customarily conducted by King. With each shipment of Product, King shall provide to VSI a Certificate of Analysis and such other documents as may be required pursuant to the Thrombin-JMI® Quality Agreement.
+
+Section 2.8
+
+Failure or Inability to Supply Product.
+
+(a) Notification. In
+the event that King, at any time during the Term, shall have reason to believe that it will be unable to supply VSI with the full quantity of Product forecasted to be ordered or actually ordered by VSI in a timely manner and in conformity with the warranty set forth in Section 5.2 (whether as a result of events described in Section 2.8(b) Section 2.8(c), Section 8.14, or otherwise), King promptly shall notify VSI thereof. Promptly thereafter, the Parties shall meet to discuss how VSI shall obtain such full quantity of conforming Product. Compliance by King with this Section
+2.8(a) shall not relieve King of any other obligation or liability under this Agreement.
+
+(b)
+
+VSI Options.
+
+(i) King Device
+Forecasts. If King fails to deliver the full quantity of Product under a King Device Forecast as specified in a Firm Order or
+Confirmed Firm Order, as the case may be, by the required delivery date specified therein and in conformity with the warranty set
+forth in Section 5.2, and as a result of such failure, VSI is unable to timely
+manufacture and supply Devices to King, then VSI
+shall be entitled to delay its delivery of Devices to King to the extent that its delay is attributable solely to such King
+failure.
+
+10 
+
+(ii) VSI
+Device Forecasts. If King fails to deliver the full quantity of Product under a VSI Device Forecast as specified in a Firm Order
+or Confirmed Firm Order, as the case may be, by the required delivery date specified therein and in conformity with the warranty
+set forth in Section 5.2, VSI at its option, may: (i) cancel all or any portion of
+such Firm Order or Confirmed Firm Order, as the case may be, in which event VSI shall have no liability with respect to the
+portion of such order so cancelled; and/or (ii) accept late delivery of all or any portion of the Product specified in such Firm
+Order or Confirmed Firm Order, in which event the VSI Device Purchase Price otherwise payable by VSI with respect to such delayed
+Product shall be reduced by **.
+
+(c) Allocation of Capacity. If King is unable to meet Firm Orders or Confirmed Firm Orders, as the case may be, as the result of a shortage of production capacity at King’s Facility, King shall promptly notify VSI in writing of the facts, circumstances and reasons for such shortage of production capacity and King shall allocate its available production capacity to the production of the Product in such proportion (expressed as a function of equipment utilized) as the production equipment capacity actually utilized to meet orders for the Product over the previous twelve (12) month period bears to total production equipment capacity in such King Facility over that same period. 
+
+Section 2.9 Subcontracting of Manufacture and Supply. During the Term, King may subcontract its obligations to manufacture and supply Product under this Agreement to a third-party, without the prior written approval of VSI. The terms of any subcontract will be in writing, and will be consistent with this Agreement. No subcontracting will release King from its responsibility for its obligations under this Agreement. King will be responsible for the work and activities of each of King’s subcontractors, including compliance with the terms of this Agreement. 
+
+Section 2.10 Material Safety. King shall provide to VSI in written form all public information regarding the handling, precautions, toxicity and hazards associated with the Product.
+
+Section 2.11 Taxes. Each of the Parties agrees that, for the purposes of Internal Revenue Code Section 199, because King retains title and risk of loss to Product delivered pursuant to a King Device Forecast, that King will be treated as being the manufacturer of the Devices and VSI agrees not to take a position inconsistent with this provision on VSI’s federal or state income tax returns.
+
+Section 2.12 Product Supplied Before Effective Date. On or before the Effective Date, King supplied Product to VSI under VSI purchase orders and the Parties agree that VSI shall use such Product exclusively for its own use and not for use in manufacturing Devices for King. All VSI purchase orders outstanding but unfilled on the Effective Date will be considered terminated by this Agreement and replaced by Firm Orders placed under this Agreement.
+
+11 
+
+ARTICLE III. QUALITY AND REGULATORY MATTERS
+
+Section 3.1 Permits. Except as otherwise set forth in this Agreement, each Party shall, at such Party’s sole cost and expense, maintain in full force and effect all necessary licenses, approvals, permits, and other authorizations required by Applicable Law to carry out such Party’s duties and obligations under this Agreement.
+
+Section 3.2
+
+Testing and Quality Assurance.
+
+(a) King shall duly and punctually perform all of its obligations under and pursuant to the Thrombin-JMI® Quality Agreement. In connection therewith, King shall perform, or cause to be performed the tests required to be performed by King pursuant to the Thrombin-JMI® Quality Agreement on each lot of Product Manufactured pursuant to this Agreement before delivery to VSI, including, without limitation, release testing pursuant to the Specifications and as customarily conducted by King prior to shipment of Product. 
+
+(b) King will perform stability testing on the Product consistent with all Regulatory Approvals and will report any stability test failure of the Product to VSI within forty-eight (48) hours of confirming the results. In the event that King determines that the cause of the stability failure has affected a lot of Product that has been delivered to VSI, King will perform the appropriate testing of retained samples within five (5) days and will report the results of such tests to VSI within forty-eight (48) hours of the completion of such testing. 
+
+Section 3.3 Recalls; Product Technical Complaints, Returns, Government Reporting.
+
+(a) Product Complaints,
+Returns. VSI shall have the sole authority and responsibility to respond to any Governmental Authority, respond to all inquiries, complaints and adverse events relating to VSI Modified Product and, subject to Section 3.3(e) and Section 3.3(f), to handle all recalls and market withdrawals of VSI Modified Product in accordance with Applicable Laws, at VSI’s cost and expense, provided that in all cases, unless otherwise required to comply with any Applicable Laws or any decision, order, request or directive of a Governmental Authority, VSI shall release no communication into the marketplace regarding such complaints, medical complaints, recalls or
+market withdrawals without first obtaining King’s consent to such communication, which shall not be unreasonably withheld. VSI will be responsible for complying with all federal, state, and local governmental reporting requirements regarding adverse drug events and quality matters, provided that, in each case, the Product is a VSI Modified Product. VSI shall be responsible in accordance with the provisions of the Device Supply Agreement and King shall assist VSI as VSI shall require, but King shall have no responsibility to respond to or be liable for such inquiries, complaints, or adverse events. King shall have no responsibility for returns of VSI Modified Product, which shall be the sole responsibility of VSI. For King Supplied Product, King shall have the sole authority and responsibility to respond to any Governmental Authority, to all inquiries, complaints, and adverse events in relation to the Product. 
+
+12 
+
+(b) Testing. If,
+as a result of a reported complaint or adverse drug event, testing of the Product is required, VSI will, at VSI’s cost and
+expense, perform the required testing in accordance with Specifications for such Product if the Product in question is a VSI Modified Product and King will, at King’s cost and expense, perform the required testing in accordance with Specifications for such Product if the Product in question is a King Supplied Product. VSI shall be responsible for making the applicable report to the FDA or any other Governmental Authority provided that the reported complaint or adverse drug event is related to VSI Modified Product and King shall be responsible for making the applicable report to the FDA or any other Governmental Authority provided that the reported complaint or adverse drug event is related to King Supplied Product.
+
+(c) Disputes. If the Parties disagree as to which Party is responsible, King and VSI representatives shall attempt to resolve such dispute. If the representatives cannot resolve such dispute, the samples of the relevant Product shall be jointly submitted by King and VSI to a Testing Laboratory and the test results obtained by such laboratory shall be final and controlling. The fees and expenses of the Testing Laboratory testing shall be borne entirely by the Party whose analysis was in error. 
+
+(d) Recalls. Each Party shall promptly (but in any case, not later than forty-eight (48) hours) notify the other Party in writing of any decision, order, request or directive of a Governmental Authority to recall, withdraw or field correct the King Supplied Product or the VSI Modified Product, as the case may be. King shall promptly (but in any case, not later than forty-eight (48) hours) notify VSI of any voluntary decision to recall, withdraw or field correct King Supplied Product and King shall be solely responsible for determining whether to issue a recall, withdrawal, or field correction for King Supplied Product (but shall comply with all Applicable Laws in making such determination) and for the cost and expense of any such recall, withdrawal or field correction; provided,
+that each such responsible Party shall give due consideration to all comments timely made by the other Party relating to testing of the relevant Product and shall notify the other Party in writing if the responsible Party declines to address any such comments, stating the reason therefor. If any recall, market withdrawal or field correction is not due to King’s Manufacture of the Product, then King shall be relieved of King’s obligations to supply the Product until the cause of such recall, withdrawal or field correction has been resolved to the satisfaction of the Parties and the applicable Governmental Authority. 
+
+(e) Costs of Recall. In the event that King is required to recall, withdraw, or undertake a field correction of any King Supplied Product in accordance with the provisions of this Section 3.3(e), in such event, King shall bear the actual cost of conducting such action or withdrawal, including costs imposed by the applicable Governmental Authority(ies) such as costs for detention and inspection, in accordance with the recall guidelines of the applicable Governmental Authority(ies) or standard U.S. medical device industry practices; and, at the sole election of VSI, King shall either:
+
+(i) in the case of Product supplied under a King Device Forecast or a VSI Device Forecast, supply Product, without charge to VSI, in an amount sufficient to replace the amount of the Product recalled, withdrawn, or subjected to field correction; or
+
+(ii) in the case of Product supplied
+under a VSI Device Forecast, refund to VSI, or give credit to VSI against outstanding receivables due from VSI against the VSI
+Device Purchase Price for shipments of the Product to be delivered to VSI in the future, in amounts equal to the VSI Device Purchase Price
+paid by VSI to King for Product so recalled, withdrawn, or subjected to field correction, plus the reasonable transportation costs
+incurred by VSI and not recovered by VSI in respect of such Product recalled, withdrawn, or subjected to field correction.
+
+13 
+
+(f) Government Inquiries. If either Party shall be contacted by any Governmental Authority for any regulatory purpose pertaining specifically to this Agreement or to the Product, such Party shall immediately notify the other Party. Either Party may permit unannounced inspections of the Product or its Facility by a Governmental Authority with competent jurisdiction and may respond to the extent necessary to comply with such Party’s obligations under Applicable Law. 
+
+(g) Medical Inquiries. King
+shall handle all medical inquiries concerning the Product in the Territory. King shall notify VSI of any medical information requests or medical inquiries involving any VSI Modified Product.
+
+Section 3.4 Letter
+of Reference. At King’s expense, King shall provide VSI with reasonable assistance to support its filings and submissions with Governmental Authorities with respect to the Devices, and to this end, upon VSI’s written request, King shall promptly provide a letter of authorization to the relevant Governmental Authority allowing such Governmental Authority to review King’s biologics license application relating to the Product and to reference that application and the data therein in its consideration and evaluation of VSI’s filings and submissions, which letter shall be substantially in the form attached hereto as Exhibit D. Accompanying such request to King, VSI shall also provide King with a copy of any proposed filing or submission
+with any Governmental Authority with respect to the Devices that include any information relating to King, including information from King’s quality assurance standard operating procedures. VSI must receive King’s consent (which King may withhold in its discretion) with respect to such filing or submission before VSI may file or submit the same with such Governmental Authority. All of King’s proprietary information with respect to the Product shall be subject to reasonable protection and VSI shall comply with King’s rules and procedures with respect thereto. Notwithstanding any of the foregoing, nothing in this Agreement shall require King to provide VSI with any information pertaining to King’s batch records for the Product or with any information pertaining to the proprietary processes utilized in manufacturing the Product, all such information being deemed King’s trade secrets.
+
+Section 3.5 Audit by VSI. VSI and its designated representatives shall have the right, upon reasonable notice, to audit records of King for the purpose of determining King’s compliance with the obligations set forth in Section 5.2, the terms of this Agreement, and any Firm Order or Confirmed Firm Order. This right to audit shall be subject always to the provisions of Section 3.4 concerning King’s trade secrets and their protection. This right to audit shall extend throughout the Term of this Agreement and for one (1) year after expiration or termination of this Agreement.
+
+Section 3.6
+
+Maintenance of Facility.
+
+(a) King shall maintain the Facility where it Manufactures the Product,
+Materials and such related equipment in a state of repair and operating efficiency consistent with the requirements of the
+Specifications, the Regulatory Approvals, cGMP and all other Applicable Laws. 
+
+14 
+
+(b) King may Manufacture Product at an alternate facility in King’s sole discretion and subject to approval of the applicable Regulatory Authorities, provided that King shall bear all costs of transferring the Manufacture of Product to such alternate facility. 
+
+Section 3.7 Additional Information. Subject always to the provisions of Section 3.4 concerning King’s trade secrets and their protection, each Party shall provide to the other in a timely manner, but in no event less than sixty (60) days prior to the due date of such Party’s annual report to the FDA or any other Governmental Authority with respect to the Product, all information in written form that such Party requests regarding the Product in order to comply with Applicable Laws. 
+
+Section 3.8 Manufacturing Records. King shall maintain, or cause to be maintained, (i) all records necessary to comply with cGMP and all other Applicable Law relating to the Manufacture of Product, and (ii) all manufacturing records, standard operating procedures, validation records, equipment log books, batch records, laboratory notebooks and all raw data relating to the manufacturing of Product and all records relating to the shipment of the Product. All such material shall be retained for such period as may be required by cGMP and all other Applicable Law.
+
+ARTICLE IV.
+
+INSPECTION OF PRODUCT
+
+Section 4.1 Inspection
+by VSI. Within thirty (30) days after delivery of Product to the destination specified by VSI, VSI shall
+visually inspect such Product in accordance with its customary procedures. VSI shall advise King in writing if it is rejecting a
+shipment due to obvious physical damage, obvious packaging defect or quantity discrepancies that are evident upon such visual
+inspection of the packaged Product as shipped by King. VSI shall have no obligation to inspect the Product beyond the visual
+inspection provided for in this Section 4.1. If a visual inspection reveals
+evidence of defects in the Product, or VSI or its designee determines that the Product does not conform to the Specifications
+(“Un-Acceptable Product”), VSI shall notify King in writing within the
+thirty (30)-day period after such inspection to identify the Product or portion thereof which VSI will return because such Product
+is Un-Acceptable Product. VSI’s failure to deliver such notice to King shall not relieve King of its obligation to supply
+Product in compliance with this Agreement.
+
+Section 4.2 Investigation by King. King shall undertake reasonably appropriate investigation regarding all alleged Un-Acceptable Product and shall notify VSI whether it has confirmed such alleged non-conformity within thirty (30) days after receipt of such notice from VSI. 
+
+Section 4.3 Disputes over
+Product. If King, after good faith consultation with VSI, disputes any finding by VSI that the Product is
+Un-Acceptable Product, then representative samples of such Product shall be forwarded for analysis to an independent testing
+laboratory or other appropriate expert mutually acceptable to the parties (the “Testing
+Laboratory”) for 
+
+15 
+
+evaluation, which analysis shall be performed in
+compliance with applicable FDA regulations and with reference to the Specifications. The parties shall cooperate with the Testing
+Laboratory’s reasonable requests for assistance in connection with its evaluation hereunder. The findings of the Testing
+Laboratory regarding whether the Product was Un-Acceptable Product, absent manifest error, shall be binding upon the parties. The
+expenses of the Testing Laboratory shall be borne by King if the testing confirms the nonconformity and otherwise by VSI.
+
+Section 4.4 Replacement of
+Product that is Un-Acceptable Product. If the Testing Laboratory or King confirms that any Product is Un-Acceptable Product, King promptly shall, at King’s cost and expense, including shipping costs and at VSI’s option: (i) with respect to Product supplied to VSI under a King Device Forecast or a VSI Device Forecast, supply VSI with a conforming quantity of Product at King’s expense (if there is a limited supply of Product available to replace Un-Acceptable Product, then King shall ship to VSI such quantities of conforming Product as are available and, for Product supplied under a VSI Device Forecast, shall promptly reimburse VSI for amounts paid for the remaining quantity of such Un-Acceptable Product) or (ii) with respect to Product supplied to VSI under a VSI Device Forecast,
+reimburse VSI the VSI Device Purchase Price paid by VSI with respect to such Un-Acceptable Product, if already paid. In addition, King promptly shall reimburse VSI for all reasonable costs incurred by VSI with respect to such Un-Acceptable Product, including costs of recalls, market withdrawals, returns and destruction, which costs VSI shall have the right to offset against any payments owed by VSI to King under this Agreement. King may only rework Un-Acceptable Product if there is a validated and FDA-approved process to rework the shipment or lot and VSI agrees in advance to the reworking of Un-Acceptable Product. King shall instruct VSI as to the disposition of any Product ordered or portion thereof determined to be Un-Acceptable Product. At the sole option of King, said Un-Acceptable Product may be returned to King, at King’s expense, including shipping costs, or destroyed in an environmentally acceptable manner, in accordance with Applicable Laws, at King’s
+expense.
+
+ARTICLE V. REPRESENTATIONS AND WARRANTIES
+
+Section 5.1 Mutual Representations and Warranties. Each Party hereby represents and warrants to the other Party, as of the Effective Date, as follows:
+
+(a) such Party (i) is duly formed and in good standing under the laws of the jurisdiction of its formation, (ii) has the power and authority and the legal right to enter into this Agreement and perform its obligations herein, and (iii) has taken all necessary action on its part required to authorize the execution and delivery of this Agreement and the performance of its obligations herein; 
+
+(b) upon execution, this Agreement will have been duly executed and delivered on behalf of such Party and constitutes a legal, valid and binding obligation of such Party and is enforceable against it in accordance with its terms, subject to the effects of bankruptcy, insolvency or other similar laws of general application affecting the enforcement of creditor rights, and judicial principles affecting the availability of specific performance and general principles of equity, whether enforceability is considered a proceeding at law or equity;
+
+16 
+
+(c) all necessary consents, approvals and authorizations of all regulatory and governmental authorities and other Persons required to be obtained by such Party in connection with the execution and delivery of this Agreement and the performance of its obligations herein have been obtained, including, without limitation, any and all Regulatory Approvals for the Facility; and
+
+(d) the execution and delivery of this Agreement and the performance of such Party’s obligations herein (i) do not and will not conflict with or violate any requirement of Applicable Law or any provision of the articles of incorporation, bylaws or limited partnership agreement of such Party and (ii) do not and will not conflict with, violate, or breach, or constitute a default or require any consent under, any contractual obligation or court or administrative order by which such Party is bound.
+
+Section 5.2 Additional Representations, Warranties and Covenants of King. King warrants, represents and covenants as of the Effective Date and, unless otherwise set forth below, at all times during the Term, that:
+
+(a) each of the representations, warranties and covenants made by King in each of the Other Agreements are true and correct as of the date they are made;
+
+(b) it has facilities, personnel, experience and expertise sufficient in quality and quantity to perform its obligations hereunder, (ii) it shall so perform with reasonable due care and in conformity with current generally accepted standards and procedures and (iii) its management shall establish appropriate quality assurance, quality controls and review procedures;
+
+(c) as of the Effective Date, it has access to sufficient supplies of Materials, components and other required resources to perform the services required under this Agreement, and shall exercise commercially reasonable efforts to maintain access to sufficient supplies without interruption during the Term;
+
+(d) it has complied at the Effective Date, and shall comply during the Term, at its sole cost and expense, with (i) all Applicable Laws now in force or which may hereafter be in force, pertaining to the Products under this Agreement including those that concern: (A) equal employment and non-discrimination, (B) the FDA governing the promotion of drugs, (C) federal and state anti-kickback and (D) submission of false claims to governmental or private health care payors, and any laws, orders, regulations, rules or ordinances issued in addition to, as a supplement to or as a replacement of the foregoing, and (ii) applicable industry and professional standards including, without limitation, the PhRMA Code on Interactions with Healthcare Professionals;
+
+(e) the Manufacture and sale of the Product (in the vial form at the time of delivery of Product to VSI) by King pursuant to this Agreement will not infringe upon any patent or other proprietary rights of any third-party;
+
+(f) pursuant to the Generic Drug Enforcement Act of 1992, 21 U.S.C. § 335a, as may be amended or supplemented (the “Act”): 
+
+17 
+
+(i) neither it, nor any of its Affiliates is currently debarred by the FDA under the Act. (The FDA’s debarment list appears at http://www.fda.gov/ora/compliance_ref/debar/); 
+
+(ii) neither it, nor any of its Affiliates is currently using or will use in any capacity in connection with the Manufacture and supply of Products any Person that is currently debarred by the FDA under the Act; and
+
+(iii) there have been no convictions of it, or any of its Affiliates for any of the types of crimes set forth in the Act within the five (5) years prior to the Effective Date.
+
+(g) neither it, nor any of its Affiliates is currently excluded from a federal or state health care program under Sections 1128 or 1156 of the Social Security Act, 42 U.S.C. §§ 1320a-7, 1320c-5 as may be amended or supplemented (the Department of Health and Human Services’ list of excluded individuals/entities appears at http://www.oig.hhs.gov/FRAUD/exclusions/listofexcluded.html); and
+
+(h) neither it, nor any of its Affiliates is otherwise currently excluded from contracting with the federal government (the excluded parties listing system appears at http://epls.arnet.gov). 
+
+Section 5.3 Additional Representations, Warranties and Covenants of VSI. VSI warrants, represents and covenants that:
+
+(a) pursuant to the Generic Drug Enforcement Act of 1992, 21 U.S.C. § 335a (the “Act”) as may be amended or supplemented:
+
+(i) neither
+it, its Affiliates nor any person or entity under its direction or control is currently debarred by the Food and Drug
+Administration under the Act (the FDA’s Debarment List appears at http://www.fda.gov/ora/compliance_ref/debar/); 
+
+(ii) neither it, its Affiliates nor any person or entity under its direction or control is currently using or will use in any capacity in connection with the Services any person or entity that is currently debarred by the Food and Drug Administration under the Act;
+
+(iii) there have been no convictions of it, its Affiliates or any person under its direction or control for any of the types of crimes set forth in the Act within the five (5) years prior to the date of this Agreement;
+
+(b) it shall immediately notify King if, at any time during the Term of this Agreement, VSI, its Affiliates or any person or entity under its direction or control is convicted of an offense that would subject it to debarment by the FDA; and
+
+(c) subject to Section 5.2(e) above, the Manufacture and sale of any products and devices outside the Field by VSI or its sublicensees or manufacturers using any Product supplied to VSI hereunder will not infringe upon any patent or other proprietary rights of any third-party.
+
+18 
+
+Section 5.4 Product
+Warranty. King warrants that, at the time of delivery of Product to VSI: (a) such Product will have been Manufactured in accordance with cGMP and all Applicable Law; (b) such Product will meet the Specifications and will conform with the Certificate of Analysis; (c) such Product will not be adulterated or misbranded within the meaning of the FDCA, and similar provisions of the laws of other countries as to which Regulatory Approvals have been granted for the Product; (d) subject to Section 2.7(b)(i), title to such Product will pass to VSI as provided herein free and clear of any security interest, lien or other encumbrance; (e) such Product will have been manufactured in facilities that are in compliance with all Applicable Laws at the time
+of such manufacture (including applicable inspection requirements of FDA and other Regulatory Authorities); (f) such Product is not an article that may not be introduced into interstate commerce under the provisions of Sections 404 or 505 of the FDCA; and (g) the expiration date of such Product shall be no earlier than eighteen (18) months, after the date of delivery thereof.
+
+Section 5.5 Disclaimer of Other Warranties. EXCEPT AS SET FORTH IN THIS AGREEMENT, THE PARTIES MAKE NO REPRESENTATIONS AND EXTEND NO WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE OR WARRANTY OF MERCHANTABILITY.
+
+Section 5.6 Terms of this Agreement. The Parties agree not to disclose any terms or conditions of this Agreement to any third Party without the prior consent of the other Party, except as required by Applicable Laws.
+
+Section 5.7 Injunctive Relief. The Parties hereto understand and agree that remedies at law may be inadequate to protect against a breach of any of the provisions of this ARTICLE V. by either Party, its Affiliates or their employees. Accordingly, each Party may be entitled to the granting of injunctive relief by a court of competent jurisdiction against any action that constitutes any such breach of this ARTICLE V. .
+
+ARTICLE VI. TERM AND TERMINATION
+
+Section 6.1 Term. This Agreement shall become effective as of the Effective Date and shall remain in force until the tenth (10th) anniversary of the Effective Date, unless sooner terminated as provided in this ARTICLE VI. (the “Initial Term”). The Initial Term shall automatically be renewed for successive additional periods of one (1) year each unless sooner terminated as provided in this ARTICLE VI. . The Initial Term and any extension thereof shall be referred to herein as the “Term.”
+
+Section 6.2 Termination. Without prejudice to any other provision of this Agreement expressly providing for termination of this Agreement, other remedies available to a Party hereunder, or at law or in equity, this Agreement may be terminated as follows:
+
+(a) At any time after the fifth (5th) anniversary of the Effective Date, VSI may terminate this Agreement at any time for any reason by giving King five (5) years prior written notice, provided that, the Device Supply Agreement has expired on its terms or the parties thereto have agreed to terminate the same;
+
+19 
+
+(b) At any time after the fifth (5th) anniversary of the Effective Date, King may terminate this Agreement at any time for any reason by giving VSI five (5) years prior written notice;
+
+(c) Upon the expiration or termination of the Device Supply Agreement for any reason, King may immediately terminate from this Agreement the supply of Product under King Device Forecasts by written notice to VSI with immediate effect; and
+
+(d)
+
+This Agreement may be terminated at any time by either Party:
+
+(i) For Breach. Either Party may immediately terminate this Agreement without liability to the other Party if the other Party materially breaches this Agreement and fails to cure that breach within thirty (30) days after receiving written notice of the breach; or
+
+(ii) Regulatory Approval. Either Party may, upon notice to the other Party, immediately terminate this Agreement with respect to any Product without liability to either Party if, during the Term, the Regulatory Approval(s) necessary for marketing such Product in the Territory have been withdrawn or not granted.
+
+Section 6.3 Insolvency or
+Bankruptcy. In the event that a Party shall have become insolvent or bankrupt, or shall have made an
+assignment for the benefit of its creditors, or there shall have been appointed a trustee or receiver of such Party for all or a
+substantial part of its property, or any case or proceeding shall have been commenced or other action taken by or against such
+Party, (as to which, if involuntarily commenced against such Party, such Party would not be able to obtain dismissal within ninety
+(90) days after commencement thereof) in bankruptcy or seeking reorganization, liquidation, dissolution, winding-up, arrangement,
+composition or readjustment of its debts or any relief under any bankruptcy, insolvency, reorganization or other similar act or
+law of any jurisdiction now or hereafter in effect, then such Party shall not be relieved in any respect of its obligations
+hereunder, and, in addition to any other remedies available to it by law or in equity, the other Party may terminate this
+Agreement immediately, in whole or in part, by written notice to such Party.
+
+Section 6.4
+
+Effect of Termination.
+
+(a) Upon VSI’s termination of this Agreement for any reason (except in the case of a VSI breach), all rights and privileges granted hereunder to VSI shall remain in full force and effect until all Product ordered and delivered hereunder has been sold by VSI, excluding returns of Product; and King will honor all submitted but unfilled Purchase Orders, provided that, King shall be entitled to seek advance payment for all such unfilled Purchase Orders and shall not be obligated to honor such Purchase Orders until King is satisfied that it will be paid for such Purchase Orders;
+
+(b) Unless otherwise agreed upon between the Parties, VSI agrees to continue to comply with all regulatory requirements relating to the Devices in the Territory as are imposed on a manufacturer of medical devices and King agrees to continue to comply with all those regulatory requirements relating to the Product in the Territory, including adverse event notification; and
+
+20 
+
+(c) Unless otherwise agreed upon between the Parties, in the event of a termination of the Device Supply Agreement under (i) Sections 6.2(c) or 6.2(d)(ii) by either Party or (ii) under Section 6.2(d)(i) by King (for VSI’s breach), the VSI Device Purchase Price shall be adjusted pursuant to Exhibit C.
+
+Section 6.5
+
+Accrued Rights; Surviving Provisions.
+
+(a) Notwithstanding the giving of any notice of termination pursuant to this ARTICLE VI. , each Party shall continue to fulfill such Party’s obligations under this Agreement at all times until the effective date of any such termination.
+
+(b) Termination or expiration of this Agreement for any reason shall be without prejudice to any rights which shall have accrued to the benefit of either Party prior to such termination or expiration.
+
+(c) The provisions of this Section 6.5, Section 3.8 (Manufacturing Records), ARTICLE V. (Reps and Warranties), ARTICLE VII. (Indemnification), and ARTICLE VIII. (Miscellaneous) shall survive any expiration or termination of this Agreement, and remain in full force and effect.
+
+ARTICLE VII.
+
+INDEMNIFICATION; INSURANCE; LIMITATIONS OF LIABILITY
+
+Section 7.1 Indemnification
+by King. King shall indemnify VSI, its Affiliates and their respective directors, officers, employees and
+agents (the “VSI Indemnified Parties”), and defend and save each of them
+harmless, from and against any and all third party claims, lawsuits, losses, damages, liabilities, penalties, royalties, costs and
+expenses (including reasonable attorneys’ fees and disbursements) (collectively, “Losses”) incurred by any of them in connection with, arising from or occurring as a result of:
+(i) the breach by King of any of its obligations under this Agreement; (ii) the breach, inaccuracy or rendering inaccurate of any
+representation or warranty made by King in this Agreement; (iii) allegations that the Manufacture and supply of Product (in the
+vial form at the time of delivery of Product to VSI) in accordance with the terms hereof infringes or misappropriates the patent,
+trademark or other intellectual property rights of a third party; and (iv) any gross negligence or willful misconduct by King in
+Manufacturing Product.
+
+Section 7.2 Indemnification
+by VSI. VSI shall indemnify King, its Affiliates and their respective directors, officers, employees and
+agents (the “King Indemnified Parties”), and defend and save each of them
+harmless, from and against any and all Losses incurred by any of them in connection with, arising from or occurring as a result
+of: (i) the breach by VSI of any of its obligations under this Agreement, (ii) the breach, inaccuracy or rendering inaccurate of
+any representation or warranty made by VSI in this Agreement, (iii) any gross negligence or willful misconduct by VSI or its
+Affiliates; and (iv) in the case of this sub-paragraph (iv), to the extent such are not Losses covered by Section 7.1, (A) the manufacture and sale of the products and devices outside the Field by VSI or
+its sublicensees or manufacturers using any Product supplied to VSI hereunder, and (B) the manufacture and/or other activities
+undertaken to further process, change, or remove from the vial form, any VSI Modified Product supplied to VSI hereunder by
+King.
+
+21 
+
+Section 7.3.
+
+Procedures.
+
+(a) Notice
+of Claim. The indemnified Party (the “Indemnified Party”) shall give the indemnifying Party (the “Indemnifying Party”) prompt written notice (an “Indemnification Claim Notice”)
+of any Losses or discovery of facts upon which such Indemnified Party intends to base a request for indemnification under
+Section 7.1 or Section 7.2, but in
+no event shall the Indemnifying Party be liable for any Losses that result from any delay in providing such notice except to the
+extent that such failure to give notice materially prejudices the Indemnifying Party’s ability to defend such claim. Each
+Indemnification Claim Notice must contain a description of the claim and the nature and amount of such Loss (to the extent that
+the nature and amount of such Loss are known at such time). The Indemnified Party shall furnish promptly to the Indemnifying Party
+copies of all papers and official documents received in respect of any Losses. 
+
+(b) Control
+of Defense. At its option, the Indemnifying Party may assume the defense of any Losses by giving written
+notice to the Indemnified Party within thirty (30) days after the Indemnifying Party’s receipt of an Indemnification Claim
+Notice. The assumption of the defense of a Loss by the Indemnifying Party shall not be construed as an acknowledgment that the
+Indemnifying Party is liable to indemnify any Indemnified Party in respect of the Loss, nor shall it constitute a waiver by the
+Indemnifying Party of any defenses it may assert against any Indemnified Party’s claim for indemnification. Upon assuming the
+defense of a Loss, the Indemnifying Party may appoint as lead counsel in the defense of the Loss any legal counsel selected by the
+Indemnifying Party. In the event the Indemnifying Party assumes the defense of a Loss, the Indemnified Party shall immediately
+deliver to the Indemnifying Party all original notices and documents (including court papers) received by any Indemnified Party in
+connection with the Loss. Subject to clause (c) below, if the Indemnifying Party assumes the defense of a Loss, the Indemnifying
+Party shall not be liable to the Indemnified Party for any legal expenses subsequently incurred by such Indemnified Party in
+connection with the analysis, defense or settlement of the Loss. In the event that it is ultimately determined that the
+Indemnifying Party is not obligated to indemnify, defend or hold harmless an Indemnified Party from and against the Loss, the
+Indemnified Party shall reimburse the Indemnifying Party for any and all costs and expenses (including reasonable attorneys’
+fees and costs of suit) incurred by the Indemnifying Party in its defense of the Loss with respect to such Indemnified Party.
+
+(c) Right to
+Participate in Defense. Without limiting Section 7.3(b),
+any Indemnified Party shall be entitled to participate in, but not control, the defense of any Loss and to employ counsel of its
+choice for such purpose; provided, however, that such employment shall be at the Indemnified Party’s own expense unless (A)
+the employment thereof has been specifically authorized by the Indemnifying Party in writing, (B) the Indemnifying Party has
+failed to assume the defense and employ counsel in accordance with Section 7.3(b)
+(in which case the Indemnified Party shall control the defense), or (C) the interests of the Indemnified Party and the
+Indemnifying Party with respect to such Loss are sufficiently adverse to prohibit the representation by the same counsel of both
+Parties under Applicable Law, ethical rules or equitable principles.
+
+22 
+
+(d) Settlement. With
+respect to any Losses relating solely to the payment of money damages and that will not result in the Indemnified Party’s
+becoming subject to injunctive or other relief or otherwise adversely affect the business of the Indemnified Party in any manner,
+and as to which the Indemnifying Party shall have acknowledged in writing the obligation to indemnify the Indemnified Party
+hereunder, the Indemnifying Party shall have the sole right to consent to the entry of any judgment, enter into any settlement or
+otherwise dispose of such Loss, on such terms as the Indemnifying Party, in its sole discretion, shall deem appropriate. With
+respect to all other Losses, where the Indemnifying Party has assumed the defense of the Loss, the Indemnifying Party shall have
+authority to consent to the entry of any judgment, enter into any settlement or otherwise dispose of such Loss; provided that it obtains the prior written consent of the Indemnified Party (which consent shall
+not be unreasonably withheld or delayed). The Indemnifying Party shall not be liable for any settlement or other disposition of a
+Loss by an Indemnified Party that is reached without the written consent of the Indemnifying Party. Regardless of whether the
+Indemnifying Party chooses to defend or prosecute any Loss, no Indemnified Party shall admit any liability with respect to, or
+settle, compromise or dispose of, any Loss without the prior written consent of the Indemnifying Party (which consent shall not be
+unreasonably withheld or delayed). 
+
+(e) Cooperation. If the Indemnifying Party chooses to defend or prosecute any Loss, the Indemnified Party shall cooperate in the defense or prosecution thereof and shall furnish such records, information and testimony, provide such witnesses and attend such conferences, discovery proceedings, hearings, trials and appeals as may be reasonably requested in connection therewith. Such cooperation shall include access during normal business hours afforded to the Indemnifying Party to, and reasonable retention by the Indemnified Party of, records and information that are reasonably relevant to such Loss, and making employees and agents available on a mutually convenient basis to provide additional information and explanation of any material provided hereunder, and the Indemnifying Party sh
+
+all reimburse the Indemnified
+Party for all its reasonable out-of-pocket expenses in connection therewith. 
+
+(f) Expenses. Except as provided above, the reasonable and verifiable costs and expenses, including fees and disbursements of counsel, incurred by the Indemnified Party in connection with any Loss shall be reimbursed on a calendar quarter basis in arrears by the Indemnifying Party, without prejudice to the Indemnifying Party’s right to contest the Indemnified Party’s right to indemnification and subject to refund in the event the Indemnifying Party is ultimately held not to be obligated to indemnify the Indemnified Party. 
+
+Section 7.4 Insurance. Each
+Party shall maintain insurance (either through purchase of a policy from a nationally recognized third party insurer or through
+maintenance of a self-insurance program) against such risks and upon such terms (including coverages, deductible limits and
+self-insured retentions) as is customary for the activities to be conducted by such Party under this Agreement and is appropriate
+to cover its indemnification obligations hereunder. Each Party shall name the other as an additional insured on such Party’s
+relevant insurance policies, as its interests may appear, and shall furnish to the other Party evidence of such insurance, upon
+request. Additionally, at all times while this Agreement is in effect, and for such period of time thereafter as the expiration
+date of the last quantities of Product delivered to King hereunder has not been reached, each Party shall procure and maintain
+commercial general liability insurance (including products liability coverage) with a bodily injury, death and property damage
+combined single limit of not less than USD$** per occurrence and in the aggregate.
+
+23 
+
+Section 7.5 Limitation on Damages. IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER FOR SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES OR FOR ANY INDIRECT DAMAGES, WHETHER OR NOT FORESEEABLE AND EVEN IF IT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE; EXCEPT THAT, THE FOREGOING LIMITATION OF LIABILITY SHALL NOT APPLY TO DAMAGES RESULTING FROM A PARTY’S (i) INDEMNIFICATION OBLIGATIONS HEREUNDER OR (ii) BREACH OF ITS CONFIDENTIALITY OBLIGATIONS HEREUNDER.
+
+Section 7.6 Offset. If
+any matter as to which VSI may be able to assert a claim is pending or unresolved at the time any payment is due from VSI to King under this Agreement or otherwise, VSI will be entitled to offset, deduct, counterclaim or otherwise withhold from such payment due to King any amount with respect to any pending or unresolved claims whether or not such claims arise out of or relate to this Agreement or any other matter.
+
+ARTICLE VIII. MISCELLANEOUS
+
+Section 8.1 Confidentiality. The Parties acknowledge that the confidentiality obligations set forth in Article 6 of the License Agreement shall apply to the activities of the Parties undertaken in connection with this Agreement.
+
+Section 8.2 Notices. Unless otherwise provided herein, all notices or other communications which shall or may be given pursuant to this Agreement shall be in writing and shall be deemed to be effective when delivered by facsimile transmission AND (a) when delivered if sent by registered or certified mail, return receipt requested, or (b) on the next business day, if sent by internationally recognized overnight courier, in each case to the Parties at the following addresses (or at such other addresses as shall be specified by like notice) with postage or delivery charges prepaid:
+
+If to KING PHARMACEUTICALS, INC.:
+
+King Pharmaceuticals, Inc.
+
+501 Fifth Street
+
+Bristol, Tennessee 37620
+
+Attention: General Counsel
+
+Telephone: 423-989-8000
+
+Facsimile: 423-990-2566
+
+With a copy to:
+
+With a copy to:
+
+400 Crossing Boulevard
+
+8th Floor
+
+Bridgewater, New Jersey 08807
+
+Attn: General Counsel
+
+Telephone: 908-429-6000
+
+Facsimile: 908-927-8430
+
+24 
+
+If to VSI to:
+
+Vascular Solutions, Inc.
+
+6464 Sycamore Court
+
+Minneapolis, Minnesota 55369
+
+Attn: Chief Executive Officer
+
+Telephone: 763-656-4300
+
+Facsimile: 763-656-4250
+
+With a copy to:
+
+Vascular Solutions, Inc.
+
+6464 Sycamore Court
+
+Minneapolis, Minnesota 55369
+
+Attn: General Counsel
+
+Telephone: 763-656-4300
+
+Facsimile: 763-656-4250
+
+Section 8.3 Entire
+Agreement. This Agreement and the Other Agreements constitute the entire agreement and understanding between the Parties with respect to the subject matter hereof and supersede all prior agreements or understandings of the Parties and merges all prior discussions and negotiations between them relating thereto. Neither of the Parties shall be bound by any conditions, definitions, warranties, understandings or representations with respect to such subject matter other than as expressly provided herein or as duly set forth on or subsequent to the date hereof in writing and signed by a proper and duly authorized officer or representative of the Party to be bound thereby. To the extent that any inconsistencies exist between this Agreement and the Thrombin-JMI® Quality Agreement, this Agreement shall
+control. Neither Party has relied upon any communications, representations, terms or promises, verbal or written, not set forth herein.
+
+Section 8.4 Waiver;
+Remedies. No delay on the part of VSI or King in exercising any right, power or privilege hereunder shall operate as a waiver thereof, nor shall any waiver on the part of either VSI or King of any right, power or privilege hereunder operate as a waiver of any other right, power or privilege hereunder nor shall any single or partial exercise of any right, power or privilege hereunder preclude any other or further exercise thereof or the exercise of any other right, power or privilege hereunder. All rights, remedies, undertakings, obligations and agreements contained in this Agreement shall be cumulative and none of them shall be in limitation of any other remedy, right, undertaking, obligation or agreement of either Party.
+
+Section 8.5 Amendment. This
+Agreement may not be amended, modified, altered or supplemented except by a writing signed by both Parties. No modification of any nature to this Agreement and no representation, agreement, arrangement or other communication shall be binding on the Parties unless such is expressly contained in writing and executed by the Parties as an amendment to this Agreement. This Agreement may not be amended in any respect by any purchase order, invoice, acknowledgment or other similar printed document issued by either Party.
+
+25 
+
+Section 8.6 No Third Party Rights. This Agreement is not intended to confer upon any non-Party rights or remedies hereunder, except as may be received or created as part of a valid assignment. 
+
+Section 8.7 Successors
+and Assigns. This Agreement shall be binding upon and shall inure to the benefit of the Parties hereto and
+their respective successors and assigns. Except as expressly provided herein in relation to subcontracting, neither VSI nor King
+may assign any of its rights, duties or obligations hereunder without the prior written consent of the other, which consent shall
+not be unreasonably withheld; provided, that either Party may assign this Agreement to an Affiliate without such consent; provided
+such Affiliate agrees in writing to be bound by the terms of this Agreement; and provided, further, that the assigning Party shall
+not be released from its obligations hereunder. Any purported assignment without a required consent shall be void. Notwithstanding
+anything to the contrary herein, each Party may assign its rights under this Agreement as security to one or more financial
+institutions providing financing to the assigning Party and/or its Affiliates.
+
+Section 8.8 Fees and Expenses. Regardless of whether or not the transactions contemplated by this Agreement are consummated, except as may be otherwise specified herein, each Party shall bear its own fees and expenses incurred in connection with this Agreement and the transactions contemplated hereby.
+
+Section 8.9 Governing Law; Venue. This
+Agreement shall be construed under and governed in all respects by the laws of the State of New York without regard to the application of principles of conflicts of laws. The Parties agree that any dispute arising out of this Agreement shall be brought before a court of competent jurisdiction in the State of New York and each Party consents to the jurisdiction and venue of such court. 
+
+Section 8.10 Further Assurances. Each of the Parties agrees to duly execute and deliver, or cause to be duly executed and delivered, such further instruments and do and cause to be done such further acts and things, including the filing of such additional assignments, agreements, documents, and instruments, that may be necessary or as the other Party hereto may at any time and from time to time reasonably request in connection with this Agreement or to carry out more effectively the provisions and purposes of, or to better assure and confirm unto such other Party its rights and remedies under, this Agreement.
+
+Section 8.11 Construction
+and Interpretation. Unless the context of this Agreement otherwise requires: (a) words of any gender
+include each other gender; (b) words using the singular or plural number also include the plural or singular number, respectively;
+(c) the terms “hereof,” “herein,” “hereby” and derivative or similar words refer to this entire
+Agreement; (d) the terms “Article,” “Section,” “Exhibit” or “clause” refer to the
+specified Article, Section, Exhibit or clause of this Agreement; (e) the term “or” has, except where otherwise
+indicated, the inclusive meaning represented by the phrase “and/or”; and (f) the term “including” or
+“includes” means “including without limitation” or “includes without limitation.” Whenever this
+Agreement refers to a number of days, such number shall refer to calendar days unless Business Days are specified. The captions of
+this Agreement are for convenience of reference only and in no way define, describe, extend, or limit the scope or intent of this
+Agreement or the intent of any provision contained in this Agreement. The language of this Agreement shall be deemed to be the
+language mutually chosen by the Parties and no rule of strict construction shall be applied against either Party
+hereto.
+
+26 
+
+Section 8.12 No Joint Venture. Nothing contained herein shall be deemed to create any joint venture, agency, employer-employee or partnership between the Parties hereto, and, except as is expressly set forth herein, neither Party shall have any right by virtue of this Agreement to bind the other Party in any manner whatsoever. 
+
+Section 8.13 Severability. If any provision of this Agreement is held to be illegal, invalid, or unenforceable in any jurisdiction, the Parties shall negotiate in good faith a valid, legal and enforceable substitute provision that most nearly reflects the original commercial intent of the Parties and all other provisions hereof shall remain in full force and effect in such jurisdiction and shall be liberally construed in order to carry out the intentions of the Parties hereto as nearly as may be possible. Such invalidity, illegality or unenforceability shall not affect the validity, legality or enforceability of such provision in any other jurisdiction. 
+
+Section 8.14 Force
+Majeure. Neither Party shall be liable to the other Party for any failure to perform as required by this
+Agreement (other than the obligation to pay money) if the failure to perform is due to circumstances reasonably beyond such
+Party’s control including, without limitation, acts of God, civil disorders or commotions, acts of aggression, fire,
+explosions, floods, drought, war, sabotage, terrorism, embargo, utility failures, labor disturbances, a national health emergency,
+or appropriations of property, but excluding any act or decision made by a regulatory authority, (a “Force Majeure Event”). A Party whose performance is affected by a Force Majeure Event shall
+immediately notify the other Party of such inability and of the period for which such inability is expected to continue. The Party
+giving such notice shall be excused from the performance, or the punctual performance, of such obligations, as the case may be,
+from the date of such notice, up to a maximum of one hundred eighty (180) days, after which time (or such earlier time if it is
+readily apparent to the Party not affected by a Force Majeure Event that such event will exceed one hundred eighty (180) days in
+duration) the Party not affected, may terminate this Agreement immediately upon notice to the affected Party. To the extent
+possible, each Party shall use reasonable diligent efforts to avoid or minimize the duration of any Force Majeure
+Event.
+
+Section 8.15 Independent Contractor. The Parties to this Agreement are independent contractors. Nothing contained in this Agreement shall be construed to place the Parties in the relationship of employer and employee, partners, principal and agent or a joint venture. Neither Party shall have the power to bind or obligate the other Party nor shall either Party hold itself out as having such authority. 
+
+Section 8.16 Publicity. Except
+as required by Applicable Law (including disclosure requirements of the U.S. Securities and Exchange Commission, NASDAQ or any
+other stock exchange on which securities issued by a Party are traded), neither Party shall make any public announcement
+concerning this Agreement or the subject matter hereof without the prior written consent of the other, which shall not be
+unreasonably withheld, provided that it shall not be unreasonable for a Party to
+withhold consent with respect to any public announcement containing any financial terms or any of such Party’s Confidential
+Information. In the event of a required public announcement, to the extent practicable under the circumstances, the Party
+
+27 
+
+making such disclosure shall provide the other with a
+copy of any such proposed disclosure prior to release and shall consider in good faith the other Party’s comments with
+respect thereto. If required to file this Agreement by Applicable Laws, a Party shall consult with the other Party in advance of
+such filing and shall use reasonable efforts to obtain confidential treatment of its terms, to the extent reasonably possible.
+Prior to such announcement and with financial terms sufficiently in advance of the scheduled release of such announcement to
+afford such other Party a reasonable opportunity to review and comment upon the proposed text. Nothing in this Section 8.16 will prohibit either Party from disclosing this Agreement or the subject matter hereof
+to any potential investor, investment banker or the like for the purpose of raising financing, provided that such disclosures are subject to appropriate confidentiality provisions and limited to
+use for evaluation of such financing. 
+
+Section 8.17 Use of Name. Except as otherwise provided herein, neither Party shall have any right, express or implied, to use in any manner the name or other designation of the other Party or any other trade name, trademark or logo of the other Party for any purpose in connection with the performance of this Agreement.
+
+Section 8.18 Waiver of Jury Trial. EACH PARTY HERETO HEREBY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN RESPECT TO ANY LITIGATION DIRECTLY OR INDIRECTLY ARISING OUT OF, UNDER OR IN CONNECTION WITH THIS AGREEMENT. EACH PARTY HERETO (i) CERTIFIES THAT NO REPRESENTATIVE, AGENT OR ATTORNEY OF ANY OTHER PARTY HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PARTY WOULD NOT, IN THE EVENT OF LITIGATION, SEEK TO ENFORCE THAT FOREGOING WAIVER, AND (ii) ACKNOWLEDGES THAT IT AND THE OTHER PARTIES HERETO HAVE BEEN INDUCED TO ENTER INTO THIS AGREEMENT AND ANY RELATED INSTRUMENTS, AS APPLICABLE, BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS SECTION 8.18.
+
+Section 8.19 Books and Records. Any books and records to be maintained under this Agreement by a Party shall be maintained in accordance with generally accepted accounting principles, consistently applied.
+
+Section 8.20 Remedies. The remedies provided hereunder and under the governing law are cumulative and not exclusive. 
+
+Section 8.21 Counterparts/Execution. This Agreement may be executed manually, electronically in Adobe® PDF file format, or by facsimile by the Parties, in any number of counterparts, each of which shall be considered one and the same agreement and shall become effective when a counterpart hereof shall have been signed by each of the Parties and delivered to the other Party. 
+
+[The remainder of this page is left blank intentionally.]
+
+28 
+
+IN WITNESS WHEREOF, the
+Parties have executed this Thrombin JMI® Supply Agreement as of the Effective Date.
+
+ KING PHARMACEUTICALS, INC: 
+ 
+ VASCULAR SOLUTIONS, INC: 
+
+ By: 
+
+ By: 
+
+ Name: 
+
+ Name: 
+
+ Title: 
+
+ Title: 
+
+29 
+
+EXHIBIT A
+
+Product and Specifications
+
+Product
+
+Package
+
+Actual Volume in Units*
+
+Case
+
+Batch Size*
+
+glass vial, labeled
+10,000 units
+
+**
+
+**
+
+**
+
+glass vial, labeled
+5,000 units
+
+**
+
+**
+
+**
+
+Specifications
+
+10,000 unit vial
+
+Specification
+
+Acceptable Range
+
+Thrombin Activity, U.S. (IU) Units/vial
+
+**
+
+ph – Reconstituted with isotonic saline
+
+**
+
+Moisture
+
+**
+
+Sterility
+
+**
+
+General Animal Safety per 21CFR610.11
+
+**
+
+5,000 unit vial
+
+Specification
+
+Acceptable Range
+
+Thrombin Activity, U.S. (IU) Units/vial
+
+**
+
+ph – Reconstituted with isotonic saline
+
+**
+
+Moisture
+
+**
+
+Sterility
+
+**
+
+General Animal Safety per 21CFR610.11
+
+**
+
+*Actual batch size may vary by ±** and shall be reconciled in accordance with the provisions of Section 2.2. This batch size standard will change when the filling is moved to Rochester.
+
+A-1
+
+EXHIBIT B
+
+FORM OF CERTIFICATES OF ANALYSES
+
+SAMPLE
+
+Number: SOP-QLA-GEN-00024-MD SOP Version: 3.0 Department Approval/Date: T. Duch 5/9/06 
+
+Title: Thrombin Product Release Requirements 
+
+QA Approval/Date: 
+
+ T. Crosby 6/12/06 
+
+Certificate of Analysis 5,000 u/v
+
+Thrombin, Topical (Bovine) USP
+
+THROMBIN-JMI®
+
+Batch/Lot Number: (5,000 u/v) 
+
+Material Number: 
+
+Date of Manufacture: ___________
+
+Expiration Date: ______________
+
+Specification
+
+Acceptable Range
+
+Result
+
+Thrombin Activity, U.S. (IU) Units/vial
+
+**
+
+ph – Reconstituted with isotonic saline
+
+**
+
+Moisture
+
+**
+
+Sterility
+
+**
+
+General Animal Safety per 21CFR610.11
+
+**
+
+This lot was manufactured in compliance with cgmps following the procedures and specifications approved in U.S. License #977. The bovine plasma and lungs used to manufacture Thrombin-JMI( are taken from animals of U.S. origin. Bovine plasma and lungs used to manufacture this lot of Thrombin-JMI( do not contain, and are not derived from, specified risk material as defined in Commission Decision 97/534/EC, but are derived from inspected animals, which are fit for human consumption and meet all required USDA specifications.
+
+______
+
+Quality Assurance
+
+Gentrac, Inc.
+
+The data contained in this Certificate of Analysis is representative of the batch at the time of manufacture. Certificates of Analysis are authorized to clients on a confidential basis. No reference to the data contained in the Certificate of Analysis may be made public without our written authorization.
+
+Gentrac, Inc. Is a subsidiary of JONES PHARMA INCORPORATED, Bristol, Virginia. Thrombin-JMI is a registered trademark of JONES PHARMA INCORPORATED.
+
+Status: Effective 
+
+Effective Date: 7/11/06 02:03:00 
+
+Page 9 of 13
+
+OFFICIAL COPY DO NOT DUPLICATE – CONFIDENTIAL & PROPRIETARY
+
+B-1
+
+Number: SOP-QLA-GEN-00024-MD SOP Version: 3.0 Department Approval/Date: T. Duch 5/9/06 
+
+Title: Thrombin Product Release Requirements 
+
+QA Approval/Date: 
+
+ T. Crosby 6/12/06 
+
+Certificate of Analysis 10,000 u/v
+
+Thrombin, Topical (Bovine) USP
+
+THROMBIN-JMI®
+
+Batch/Lot Number: (10,000 u/v) 
+
+Material Number: 
+
+Date of Manufacture: ___________
+
+Expiration Date: ______________
+
+Specification
+
+Acceptable Range
+
+Result
+
+Thrombin Activity, U.S. (IU) Units/vial
+
+**
+
+ph – Reconstituted with isotonic saline
+
+**
+
+Moisture
+
+**
+
+Sterility
+
+**
+
+General Animal Safety per 21CFR610.11
+
+**
+
+This lot was manufactured in compliance with cGMPs following the procedures and specifications approved in U.S. License #977. The bovine plasma and lungs used to manufacture Thrombin-JMI( are taken from animals of U.S. origin. Bovine plasma and lungs used to manufacture this lot of Thrombin-JMI( do not contain, and are not derived from, specified risk material as defined in Commission Decision 97/534/EC, but are derived from inspected animals, which are fit for human consumption and meet all required USDA specifications.
+
+______
+
+Quality Assurance
+
+Gentrac, Inc.
+
+The data contained in this Certificate of Analysis is representative of the batch at the time of manufacture. Certificates of Analysis are authorized to clients on a confidential basis. No reference to the data contained in the Certificate of Analysis may be made public without our written authorization.
+
+Gentrac, Inc. Is a subsidiary of JONES PHARMA INCORPORATED, Bristol, Virginia. Thrombin-JMI is a registered trademark of JONES PHARMA INCORPORATED.
+
+Status: Effective 
+
+Effective Date: 7/11/06 02:03:00 
+
+Page 10 of 13
+
+OFFICIAL COPY DO NOT DUPLICATE – CONFIDENTIAL & PROPRIETARY
+
+B-2
+
+EXHIBIT C
+
+VSI Device Purchase Price*
+
+Units
+
+Package
+
+Purchase Price*
+per vial
+
+Purchase Price* per vial in the event of termination having an effect set forth in Section 6.4(c)
+
+5,000
+
+glass vial
+
+**
+
+**
+
+10,000
+
+glass vial
+
+**
+
+**
+
+*The VSI Device Purchase Price will increase annually not to exceed the PPI as set forth below..
+
+*The VSI Device Purchase Price will increase in the event of a termination.
+
+Annually during June of each calendar year during the term of this Agreement, VSI shall adjust the Purchase Price using the previous year’s PPI, whether resulting in an increase or decrease in Purchase Price undertaking such adjustment, subject to a 3% maximum annual increase for any Product.
+
+C-1
+
+EXHIBIT D
+
+Form of Letter of Reference to Governmental Authority
+
+_____________, 2007
+
+U.S. Food and Drug Administration
+
+Center for Device and Radiological Health
+
+Document Mail Center (HFZ-401)
+
+9200 Corporate Boulevard
+
+Rockville, MD 20850
+
+RE: 
+
+Authorization to Reference Product License 977
+
+To Whom It May Concern:
+
+Gentrac, Inc. (a wholly-owned subsidiary of King Pharmaceuticals, Inc.) Hereby gives authorization to the U.S. Food and Drug Administration to make reference to our product license 977 on behalf of:
+
+Vascular Solutions, Inc.
+
+6464 Sycamore Court
+
+Minneapolis, MN 55369
+
+In support of any device marketing applications or notifications that they may file containing Thrombin-JMI manufactured by gentrac, Inc. It is understood that gentrac manufactures the biologic product as described in our Product License and that our manufactured product will meet the specifications listed.
+
+We request that all information in this file be treated as confidential, within the meaning of CFR 314.420, and that no information from the file be submitted to an applicant without our written consent to an authorized member of your department.
+
+Sincerely,
+
+GENTRAC, INC.
+
+(a wholly owned subsidiary of King Pharmaceuticals, Inc.)
+
+Greg Carrier
+
+Sr. Director, Regulatory Affairs
+
+D-1
+
+EXHIBIT E
+
+Thrombin-JMI® Quality Agreement
+
+E-1
+
+Pharmaceutical Quality Agreement
+
+Between
+
+KING PHARMACEUTICALS, INC.
+
+501 Fifth Street
+
+Bristol, Tennessee 37620
+
+- hereinafter referred to as “KING” -
+
+And
+
+- hereinafter referred to as “ _________ “ -
+
+List of Product(s): 
+
+- 
+
+hereinafter referred to as “Product” -
+
+The above Product is processed and supplied to ______ by KING as defined in the Manufacturing and Supply Agreement, dated _______________, 2006 (or as amended and/or extended thereafter) (the “Manufacturing and Supply Agreement”).
+
+Whereas the parties are aware of the fact that abidance to generally accepted pharmaceutical principles and rules (cgmp) for the manufacture, packaging, quality control, and storage/distribution of active ingredients and drug, as well as for manufacture in compliance with the product specifications are of importance;
+
+Whereas the parties intend to determine their obligations and responsibilities with regard to the cooperation in manufacturing and controlling said Products as outlined in the Manufacturing and Supply Agreement, and in consideration of their mutual covenants and agreements therein and herein, and the mutual benefits to be derived therefrom, the parties, intending to be legally bound, hereby covenant.
+
+E-2
+
+Table of Contents
+
+Section
+
+Title
+
+1.0
+
+Agreement on Allocation of GMP Responsibilities
+
+2.0
+
+Communication / Contacts
+
+3.0
+
+Documentation and Change Control
+
+4.0
+
+Qualification / Validation
+
+5.0
+
+Manufacturing
+
+6.0
+
+Labeling and Packaging Requirements
+
+7.0
+
+Quality Assurance and Control – Sampling, In-process Testing, Batch Review, and Batch Disposition
+
+8.0
+
+Shipping and Storage of Product
+
+9.0
+
+Audits
+
+10.0
+
+Post-Marketing Issues
+
+10.1
+
+Product Complaints
+
+10.2
+
+Adverse Events, Tracking and Reporting
+
+10.3
+
+Field Alert Reporting
+
+10.4
+
+Recalls
+
+10.5
+
+Warning Letters
+
+10.6
+
+Periodic Regulatory Reporting
+
+11.0
+
+Confidentiality
+
+12.0
+
+Dispute Resolution
+
+13.0
+
+Terms of the Pharmaceutical Quality Agreement and Final Approval
+
+Section 1.0
+
+Agreement on Allocation of GMP Responsibilities
+
+WHEREAS, the parties deem it necessary to specify the allocation of current good manufacturing practice (cgmp) responsibilities between KING and ___________ under the Manufacturing and Supply Agreement for Product manufactured by KING for _________;
+
+THEREFORE, the parties hereby agree that responsibility for compliance with cgmp under the Manufacturing and Supply Agreement for such Product shall be allocated as set forth below. KING will have the responsibility for compliance allocated to it while the Product is under KING’s direct control. Compliance with applicable cgmps will become the responsibility of KING once the product is tendered for delivery to KING’s common carrier or designee by SUPPLIER, except as specifically provided below. References are to the Good Manufacturing Practice provisions set forth in 21 CFR 211, et. Seq., as amended from time to time even if the responsibilities are not included in the matrix below.
+
+E-3
+
+Part 210 – Current Good Manufacturing Practice in Manufacturing, Processing, Packing, or Holding of Drugs ; General
+
+Section 210.1 – 210.3 
+
+Status of cGMP regulations, Applicability of cGMP regulations, Definitions
+
+KING shall be responsible for compliance with these provisions.
+
+Part 211 Subpart A – General Provisions
+
+Section 211.1 – 211.3 
+
+Scope, Definitions
+
+KING shall be responsible for compliance with these provisions.
+
+Subpart B – Organization and Personnel
+
+Section 211.22 –
+
+KING shall be responsible for compliance with this provision, except that the quality assurance unit(s) of ________ shall be responsible for the final approval or rejection of Product manufactured by KING.
+
+Section 211.25 – 211.34
+
+KING shall be responsible for compliance with these provisions.
+
+Subpart C – Buildings and Facilities
+
+Section 211.42 – 211.58
+
+KING shall be responsible for compliance with these provisions, except that ______shall be responsible for the Product upon delivery to common carrier from KING, and subsequent compliance to these provisions during storage and distribution.
+
+Subpart D – Equipment
+
+Section 211.63 – 211.72
+
+KING shall be responsible for compliance with these provisions for all equipment designed and qualified for use in the manufacture and packaging of the Product. 
+
+Subpart E – Control of Components and Drug Product Containers and Closures
+
+Section 211.80 – 211.94
+
+Not Applicable
+
+Subpart F – Production and Process Controls
+
+Section 211.100 – 211.115
+
+KING shall be responsible for compliance with these provisions. KING shall submit written documentation to _______ Contract Quality in a timely manner for any planned changes to any manufacturing process. ________ shall review the appropriateness of the proposed change(s) and provide written approval prior to implementation by KING. ________ will determine if any regulatory submission is required under 21 CFR 314.70. See Section 3.0 of this Agreement for more information.
+
+KING shall retain written records of any unplanned changes to the manufacturing process, e.g. Deviation reports. Copies of all Investigation Reports (irs) (including Manufacturing Investigation Reports (mirs), Packaging Investigation Reports (pirs), and Laboratory Investigation Reports (lirs), hereinafter collectively referred to as irs, for each batch will be sent to __________ for release purposes.
+
+E-4
+
+Subpart G – Packaging and Labeling Control
+
+Section 211.122 – 211.130
+
+KING shall be responsible for compliance with these provisions.
+
+Section 211.132
+
+Not applicable.
+
+Section 211.134
+
+KING shall be responsible for compliance with these provisions.
+
+Section 211.137
+
+KING shall be responsible for compliance with these provisions. 
+
+Subpart H – Holding and Distribution
+
+Section 211.142 – 211.150
+
+KING shall be responsible for compliance with these provisions prior to delivery of the Product to a common carrier for shipment to _________. __________ shall be responsible for compliance with these provisions during shipment and after receipt of Product from KING. KING’s responsibilities for distribution shall be limited to the production and retention of shipment records of the Product to ________ or its designated recipients.
+
+Subpart I – Laboratory Controls
+
+Section 211.160
+
+KING shall be responsible for compliance with these provisions.
+
+Section 211.165 – 211.176
+
+Not applicable
+
+Subpart J – Records and Reports
+
+Section 211.180 
+
+KING shall be responsible for compliance with these provisions according to the KING corporate policy and site Standard Operating Procedure regarding record retention. 
+
+Section 211.182 – 211.186
+
+Not applicable
+
+Section 211.188 – 211.196
+
+KING shall be responsible for compliance with these provisions.
+
+Subpart K – Returned and Salvaged Drug Products
+
+Section 211.204 – 211.208
+
+Not applicable
+
+Part 11 – Electronic Records : Electronic Signatures
+
+Subpart A, B, and C 11.1 – 11.300
+
+General Provisions, Electronic Records, Electronic Signatures 
+
+KING shall be responsible for compliance with these provisions. 
+
+E-5
+
+Section 2.0
+
+(A) Communication
+
+Purpose
+
+This section details the communication channels between KING and _________ personnel for performing activities related to the approved Supply Agreement, dated _______, 2006 between the parties.
+
+Communication Contacts
+
+Upon reorganization or reassignment of duties, the parties agree that updates may be made to the Communication Contact table by either party with written notification, and without a formal amendment of the Agreement as otherwise required by Section 9 of the Agreement.
+
+AREA
+
+King CONTACT
+
+____________Contact
+
+Main Switchboard
+
+Bristol, Tennessee 37620
+
+Ph: 423-989-8000
+
+Contract
+
+Administrator
+
+Mary Flipse
+
+Contract Administration & Attorney
+
+400 Crossing Boulevard
+
+Bridgewater, New Jersey
+
+Ph: 908-429-6000
+
+Fax: 423-990-0539
+
+Plant Operations
+
+Brad Knoll
+
+EVP, Plant Operations
+
+501 Fifth Street
+
+Bristol, Tennessee 37620
+
+Ph: 423-990-2550
+
+Fax: 423-990-8300
+
+Quality Operations
+
+(Qualified Person Responsible for Product Release)
+
+Rich Buecheler
+
+EVP, Quality
+
+501 Fifth Street
+
+Bristol, Tennessee 37620
+
+Ph: 423-989-8044
+
+Fax: 423-990-8300
+
+Manufacturing Quality Assurance
+
+(Contact for all Investigation and Deviation Reports)
+
+Jenny Fox
+
+Director, Contract Quality
+
+501 Fifth Street
+
+Bristol, Tennessee 37620
+
+Ph: 423-274-8605
+
+Fax: 423-989-6255
+
+Regulatory Liaison
+
+Thomas K. Rogers, III
+
+EVP & Corporate Head, Regulatory Affairs
+
+501 Fifth Street
+
+Bristol, Tennessee 37620
+
+Ph: 423-989-8172
+
+Fax:
+423-989-6133
+
+E-6
+
+AREA
+
+King CONTACT
+
+____________Contact
+
+Procurement
+
+Hugh Mitchell
+
+Senior Director, Purchasing
+
+501 Fifth Street
+
+Bristol, Tennessee 37620
+
+Ph: 423-990-2565
+
+Fax: 423-989-6232
+
+Planning
+
+Mel Love
+
+Senior Manager, Sourcing Materials
+
+501 Fifth Street 
+
+Bristol, Tennessee 37620
+
+Phone : 423-989-8192
+
+Fax : 423-989-6232
+
+Site Operation
+
+Jack Songster
+
+Senior VP, Mfg Solid Dosage
+
+501 Fifth Street
+
+Bristol, Tennessee 37620
+
+Ph: 423-989-7190
+
+Fax: 423-990-0542
+
+Legal Contact
+
+Mary Flipse
+
+Contract Administration & Attorney
+
+400 Crossing Boulevard
+
+Bridgewater, New Jersey
+
+Ph: 908-429-60000
+
+Fax: 423-990-0539
+
+Change Controls
+
+Jenny Fox
+
+Director, Contract Quality
+
+501 Fifth Street
+
+Bristol, Tennessee 37620
+
+Ph: 423-274-8605
+
+Fax: 423-989-6255
+
+E-7
+
+Section 3.0
+
+Documentation and Change Control
+
+3.1 Batch Numbering 
+
+KING is responsible for its own batch numbering system. Batch numbers are assigned by KING standard operating procedures and are unique to a given item. Any changes to the batch numbering system(s) in use by KING will be communicated to _________’s Contract Quality Assurance representative in writing. Notification of any revisions to batch numbering standard operating procedures affecting Product made for __________ will be provided under the change control requirements below. 
+
+3.2 Certificate of Analysis / Certificate of Conformance
+
+KING shall furnish _______ with a signed Certificate of Compliance (COC) and/or Certificate of Analysis (COA) upon shipment of each batch to _________ (or its designated contractors and/or distributors). 
+
+3.3 Change Control
+
+This section defines the procedure for making changes to this agreement and to master documents (defined as those documents submitted for U.S. regulatory submission [“Master Documents”]). Master Documents include production/packaging records, product specifications and analytical test methods.
+
+Change Control for the Raw Material will be administered through the designated KING’s change control system. Changes proposed by ________ will be forwarded to the Quality Assurance contact at KING’s manufacturing site. Changes proposed by KING will be forwarded in a timely manner to _______’s Contract Quality Assurance contact for approval (see Section 2.0 of this Agreement). ______ shall obtain all necessary and appropriate regulatory and quality approvals prior to authorizing any change, as required. Upon approval from ________ (and as within the ability of KING to do so), KING will initiate the changes as defined by internal KING Standard Operating Procedures for the affected site(s). All Change Control documentation will be available to ________upon request or audit. For changes proposed by ________, documentation will be provided to KING’s Change Control contact
+(see Section 2).
+
+NOTE:
+
+Formatting changes, and other non-technical changes, to master records will not require prior approval by KING but a courtesy copy of such changes will be sent to KING Contract Quality Assurance. Changes to methods and/or specifications for consistency with USP or other compendia will not require prior approval by KING but a courtesy copy of such changes will be sent to KING Contract Quality Assurance. All revisions to Master Documents will be outlined in the FDA Annual Report prepared by ______(see Section 7.1 of this Agreement). 
+
+NOTE:
+
+_________ may utilize its own internal Change Control procedures to gain approval for any proposed change. 
+
+Upon agreement to make changes to this Pharmaceutical Quality Agreement, the proposing party shall notify the other party in writing. No change shall be made without written agreement of both parties, except as required by law or regulatory action.
+
+KING will notify ________ of any changes to any Drug Master Files (DMFs) for Active Pharmaceutical Ingredients (APIs) manufactured by KING. ________ will notify KING of any DMF changes provided to __________ by API manufacturers. 
+
+3.4 Electronic Records / Signatures
+
+KING shall comply with 21 CFR Part 11 requirements regarding the use of electronic records / signatures involved in the manufacture of the material. 
+
+E-8
+
+Section 4.0
+
+Qualification / Validation 
+
+4.1 Equipment Qualification / Validation 
+
+KING shall properly maintain and calibrate all equipment and appropriately qualify and/or validate all equipment used in the manufacturing of the material. 
+
+4.2 Process Validation 
+
+KING shall properly validate all processes involved in the manufacturing of the material for _______. 
+
+4.3 Packaging Validation 
+
+KING shall properly validate all processes involved in the packaging of the material for __________.
+
+4.4 Cleaning Validation 
+
+KING will perform cleaning validation on equipment used to manufacture the material using validated sampling and testing methods. No other products shall be allowed to utilize those product contact components affected until satisfactory cleaning validation testing results have been obtained. 
+
+In the event KING wants to add new materials of a different class to the manufacturing equipment, KING will notify ________ prior to any equipment / line exposure and perform cleaning validation on all equipment. In the event cleaning validation will not begin with first exposure to the line, KING will establish worst case cleaning validation sites for sampling and testing to cGMP residual levels. KING will re-clean the equipment and test until acceptable residual levels are obtained before any subsequent Product exposure occurs. 
+
+4.5 Method Validation
+
+All methods used to test / inspect the material shall be validated according to cGMP requirements and KING’s procedures. 
+
+4.6 Laboratories
+
+Contract laboratories must be qualified by KING and approved by ________ prior to use for testing of the material for ________. 
+
+E-9
+
+Section 5.0
+
+Manufacturing
+
+KING shall be responsible for the manufacturing, in process controls, sampling, and release of the material in accordance with the specifications and test methods in the NDA. KING is responsible for pulling and storage of retention samples of the raw material prior to release from their facility.
+
+KING shall promptly notify ________ Quality Assurance by phone and in writing of any investigations or deviations related to a batch of raw material within a reasonable timeframe of the occurrence of such investigation or deviation, not to exceed five (5) business days. KING must perform a complete investigation and submit a final approved investigation report to _______ prior to disposition of any associated batch of material and shipment.
+
+In the event any batch of material supplied by KING and received by _______ fails to conform to the specifications or the quality of the batch is not acceptable, KING shall promptly and fully investigate to establish root cause(s) and corrective/preventive actions. 
+
+Any protocol associated with the material must be submitted to ________ for approval and a copy of the executed protocol with all related data must be retained in the batch record. A copy of any executed protocols will be submitted to ________ at the completion of each applicable protocol and prior to lot release.
+
+E-10
+
+Section 6.0
+
+Labeling and Packaging Requirements
+
+Purpose
+
+This section defines the responsibility for compliance with all labeling and packaging requirements and the responsibilities for review and approval of labeling and packaging.
+
+Procedure
+
+KING shall be responsible for the purchasing, sampling, inspection and testing, storage, retention samples, and release of packaging and labeling components for use in the packaging and labeling of the Product in accordance with the specifications and test methods in the Product’s application. 
+
+KING shall promptly notify ____________of any deviation or investigation involving any packaging or labeling component intended for use in the packaging and labeling of the Product. KING must perform a complete investigation and submit a final approved investigation report to _________ prior to disposition of packaging and / or labeling components for use in the packaging and labeling of the Product. 
+
+Any protocol associated with the packaging and labeling of the Product must be submitted to ______________ for approval and a copy of the executed protocol with all related data must be retained in the Product batch record. A copy of the executed protocol must be provided to ____________ at the completion of the protocol requirements and prior to KING lot release.
+
+In cooperation with KING’s Packaging Services, _____________ will develop label art. __________ will coordinate the review and approval of new and/or revised label art.
+
+NOTE: Labeling and packaging changes may be made by either KING or __________ (see Section 3.0 of this Agreement for Change Control procedures). KING may only initiate labeling and packaging changes of a format nature; i.e., non-medical related changes. All labeling and packaging changes must be approved by ____________.
+
+KING, with ____________’s approval, will determine label dimension specifications and other physical attributes (for Product labeled by KING only). _____________ will coordinate the conversion of KING labeling specifications to __________ labels. KING will coordinate all vendor activities and maintain adequate inventory of approved labeling as long as KING continues to supply the finished, packaged Product. ___________ shall be solely responsible for the medical content of Product labeling. ______________ shall promptly notify KING of any modification to its labeling.
+
+KING will control and reconcile all labeling. Destruction of labels outside the packaging and labeling of the drug product will be performed and documented according to KING’s SOP. 
+
+The expiration date is based upon the date of manufacture. The date of manufacture is designated by the date the active pharmaceutical ingredient (API) is mixed with the ________________. 
+
+E-11
+
+The packaging configurations for the Products are provided below. Other configurations may be added or deleted as agreed upon in writing by both parties and as approved by the necessary regulatory authority (as required). KING will ship to _______________’s designated distribution center according to KING’s Standard Operating Procedures. Such shipments shall be FOB KING’s manufacturing facility.
+
+TABLE OF PRODUCTS
+
+Product
+
+Product Description
+
+Package Size(s)
+
+NDC#
+
+E-12
+
+Section 7.0
+
+Quality Assurance and Control - Sampling, In-Process Testing, Batch Review, and Batch Disposition
+
+Release Testing
+
+KING shall be responsible for the manufacturing, packaging, in-process controls, sampling, inspection, and release of the material, including collection of samples for retention. 
+
+KING shall promptly notify __________ Quality Assurance by phone and in writing of any investigations or deviations related to a batch of material within a reasonable timeframe of the occurrence of such investigation or deviation, not to exceed five (5) business days. KING must perform a complete investigation and submit a final approved investigation report to ________ prior to disposition of any associated batch of raw material. 
+
+In the event any batch of material supplied by KING and received by ____________ fails to conform to the specifications or the quality of the batch is not acceptable, KING shall promptly and fully investigate to establish root cause(s) and corrective/preventive actions. 
+
+Batch Review
+
+KING shall furnish ______________ with a signed Certificate of Compliance (COC) and/or Certificate of Analysis (COA) and all investigations reports upon shipment of each batch to _____________ (or its designated contractors and/or distributors). The Certificate of Compliance (COC) and/or Certificate of Analysis (COA) shall be signed by KING’s Qualified Person or designee who is responsible for batch release of the Products and shall serve as evidence of the proper testing of the batch. 
+
+Upon formal request from ________________’s Contract Administrator to the appropriate KING QA Contact, KING shall send a copy of an executed batch record. Such requests shall be fulfilled within ten(10) working days. __________ may request additional information or further investigation from KING as required for sufficient investigation.
+
+Batch Disposition
+
+___________ shall be responsible for the final release of the Product for distribution or rejection of the Product after receipt. It is the responsibility of KING to reject any Product deemed unacceptable prior to receipt at the ____________.
+
+E-13
+
+Section 8.0
+
+Shipping and Storage of Product
+
+KING will ship to ___________ (or its contractor) according to KING’s Standard Operating Procedures. Such shipments shall be FOB KING’s manufacturing facility. Temperature monitoring devices will be utilized on all Products produced for _______________. These devices will accompany each shipment and will be supplied by __________. Products will also be shipped on temperature controlled trucks as specified by _____________. All Product shipped from KING shall include a Certificate of Analysis / Certificate of Conformance which certifies that each batch has been manufactured and/or packaged in accordance with cgmps and applicable KING procedures. Receipt of the Certificate of Conformance / Certificate of Analysis is a requirement for formal release of the Product. The Product shall be stored in accordance with cgmps and applicable procedures and product specifications until
+shipment to _________________.
+
+Storage
+
+KING will store the Products under conditions specified by product label requirements as supplied by ___________. KING will ensure that during storage before shipping of the Products, appropriate controls are in place to ensure that there is no interference, theft, product contamination, or mixture with any other products or materials. ___________ will provide details of any labeling requirements, container sealing and integrity, and storage and shipping conditions for the Products.
+
+Packaging and Labeling for Transit
+
+The Products will be labeled and packaged for transit pursuant to instructions timely provided to KING in writing by ________ and complying with cGMP and other applicable regulations (e.g., OSHA, DEA, DOT).
+
+Shipment of Product to King
+
+KING will ship to the designated locations. KING will not ship any product that is under quarantine unless according to controlled procedures which fully comply with regulatory requirements and which are mutually agreeable between the KING and _________. In the event that ____________ requests KING to ship product in quarantine, then __________ shall supply KING with a written certification stating, “Product will not be released to commerce until fully released.” ________ may request shipment in quarantine for further processing, or pending adverse weather events.
+
+E-14
+
+Section 9.0
+
+Audits
+
+___________ shall be entitled to visit and inspect (audit) KING’s facilities that manufacture, package, and label Product for ________ on an annual basis or for cause upon reasonable notification from ____________, These audits will also be conducted in accordance with the procedures outlined in the Manufacturing and Supply Agreement. . ____________ may inspect corresponding documents that relate to the packaging, quality control, storage, release, shipment, and complaint investigations as it relates to the Product. ____________ may also check for compliance to this Quality agreement and/or to the Supply Agreement.
+
+KING shall provide ________________ with the necessary assistance and information during the audit.
+
+_____________ shall supply to KING a completed audit report within thirty(30) business days of the audit.
+
+KING shall formally respond to observations made by ____________ representatives on areas requiring corrective action. KING’s response will include root cause evaluation, corrective actions, preventative actions, and remedial actions, where appropriate, and shall include a timeline for completion of each action. The response will be sent to the _________ auditor within thirty (30) business days of the receipt of the audit report.
+
+KING will be responsible for conducting cGMP audits of its suppliers as specified under their supplier audit program. KING will, to the extent allowed by confidentiality agreements, supply _____________ with the date of the audit and any critical observations noted applicable to the Product and the supplier’s responses upon request.
+
+In the case of a request from a recognized regulatory authority having jurisdiction over the Product, KING shall permit representatives of the regulatory authority to enter KING’s premises for auditing in relation to cGMP certification. KING’s Account Management contact should notify ___________’s Quality Assurance within two(2) business day of the initiation and scope of an inspection by any recognized regulatory authority having jurisdiction over the Product, including but not limited to inspection by FDA, of KING’s site where Product is manufactured or packaged. If __________’s Product is involved with the inspection, then ___________ has the right to send a representative to the site during the inspection. _____________shall notify KING of any regulatory agency inspection specifically impacting the Products covered by this Agreement within two (2) business days
+of the initiation of the audit by the regulatory agency. 
+
+KING shall inform ____________’s Contract Administrator and Quality Operations on the outcome of all inspections by official authorities in areas within KING’s facilities that relate to cgmp activities that are potentially connected with the Product. If KING receives an observation related to _____________’s Product, then ___________ shall review __________’s response prior to KING’s responding to the regulatory agency. If KING received an observation related to systems that KING uses to manufacture or package __________ product, then ______________ shall receive notification of a courtesy review of the response prior to final submission to the regulatory agency. 
+
+E-15
+
+Section 10
+
+Post-Marketing Issues
+
+10.1 
+
+Product Complaints
+
+______________ will be responsible for responding to product complaints. KING will assist in evaluating such complaints with respect to Products KING manufactures and/or packages for _____________. 
+
+•
+
+Any product quality related complaints received by KING must be forwarded to __________ within two (2) business days of receipt unless such complaint will or could cause an FDA Field Alert to be issued, in which case KING will forward such complaint to _________ within one (1) business day. 
+
+•
+
+___________ will maintain a database to trend and track Product quality related complaints.
+
+•
+
+______________ will forward all Product quality complaint information on Product manufactured or packaged by KING to KING’s Product Quality Assurance Department within three (3) business days of receipt at _______________.
+
+•
+
+When appropriate, _______________ will administer the return of the actual complaint sample to the KING for evaluation.
+
+•
+
+It is the responsibility of the KING’s Quality Assurance Department to evaluate the nature of the complaint (pertinent to the lot in question) and to document the evaluation on Products packaged by KING for _____________. This evaluation may include but is not limited to providing assessments of:
+
+–
+
+The returned sample(s) (where appropriate);
+
+–
+
+The retained samples;
+
+–
+
+The manufacturing process;
+
+–
+
+The Supplier’s required release tests;
+
+–
+
+The receiving tests for materials, components and Bulk Product capsules;
+
+–
+
+The complaint history;
+
+–
+
+Rationale for isolation/extension of the complaint beyond the event in question; and
+
+–
+
+Conclusion/Summary
+
+•
+
+The documented evaluation of the complaint will be provided by KING to ______________ within thirty (30) business days from the date of receipt of the complaint.
+
+•
+
+It is the responsibility of __________________ to respond to the complainant about the resolution of the complaint evaluation.
+
+10.2 
+
+Adverse Event Tracking and Reporting
+
+Serious adverse events for the Products learned of by KING shall be submitted in writing to _______________’s Product Complaints Supervisor within two (2) business days from the date of learning thereof by KING. Non-serious adverse events for the Product learned of by KING shall be submitted in writing to _____________ no later than five (5) business days from the date of learning thereof by KING. ____________ and/or its affiliates shall have the sole responsibility for reporting and responding to such events to applicable regulatory authorities in the Territory. 
+
+E-16
+
+10.3 Field Alert Reporting
+
+KING shall notify _____________ within twenty-four (24) hours if any batch of Product could be subject to a “Field Alert.” Where a manufacturing, packaging, or testing evaluation is required for a Field Alert report, KING commits to completing the required evaluation within twenty-four (24) calendar days of ______________’s request or earlier if the situation warrants. 
+
+_______________shall be the responsible party for any FDA contacts and for filing any Field Alerts. ___________________ shall send copies of any Field Alerts to KING that relate to manufacturing, packaging, or testing of the Product by KING. KING reserves the right to notify its local FDA office. 
+
+10.4 
+
+Recalls
+
+_____________ shall have the sole responsibility for deciding whether a recall is warranted and shall be responsible for communicating with FDA and for conducting any recalls of the Product. Procedures and responsibilities for Product recalls may be further outlined in the Manufacturing and Supply Agreement.
+
+__________ acknowledges and understands that KING, as manufacturer of the Product, has significant regulatory obligations if there are any indications that recall or withdrawal would be necessary. Accordingly, KING and ______________ agree to cooperate fully regarding any proposed recall, product withdrawal, or field correction; and the Parties agree to keep each other advised, and to exchange copies of such documentation as may be required, to assure regulatory compliance. Either party may, in exigent circumstances, make a unilateral, final decision to notify appropriate regulatory agencies. 
+
+10.5 
+
+Warning Letters
+
+In the event KING receives an FDA Warning Letter related to _____________, KING will, within two business days of receipt, inform _________________ in writing and by telephone, providing the details associated with the cause of the warning letter.
+
+In the event _____________ receives an FDA Warning Letter related to ____________, ___________ will, within two business days of receipt, inform ______________ in writing and by telephone, providing the details associated with the cause of the warning letter. 
+
+10.6 
+
+Periodic Regulatory Reporting
+
+Because ________________ owns certain regulatory applications for the Product, ______________ is responsible for providing the necessary reports including but not limited to, licenses, filings, registrations, permits, regulatory approvals, Annual Reports and adverse events.
+
+KING will provide the necessary information to assist _____________ in preparation of NDA Annual Reports no later than ninety (90) days following KING’s receipt of a written request from _______________. 
+
+_________________ shall insure compliance with all reporting requirements for the commercial product as the holder of the NDA. 
+
+E-17
+
+Section 11
+
+Confidentiality
+
+Purpose
+
+This section defines the responsibilities for confidentiality of Technical Information including, but not limited to, contents of the regulatory applications, product specifications, Master Records, and test data.
+
+Procedure
+
+Except as otherwise provided in the Manufacturing and Supply Agreement, KING acknowledges that the know-how with which it may be supplied pursuant to this Agreement is supplied under circumstances imparting an obligation of confidence and agrees to keep such know-how secret and confidential and to respect ____________’s proprietary rights therein and to use the same for the sole purpose of this Agreement, and during the period of this Agreement, and for a period of seven (7) years following the termination or expiration of this Agreement or as set forth in the Manufacturing and Supply Agreement, whichever is longer, not to disclose or cause or permit to be disclosed such know-how to any third party.
+
+KING shall ensure that only its employees or employees of its Affiliates or consultants and contractors shall have access to know-how on a need to know basis and shall be subject to the same obligations of confidence as described above and shall enter into secrecy agreements in support of such obligations. Insofar as this is not reasonably practicable, KING shall take all reasonable steps to ensure that any such employees, consultants and contractors are made aware of such obligations, except as set forth below.
+
+Both parties undertake and agree not to disclose or permit to be disclosed at any time for any reason whatsoever to any third party or otherwise make use of or permit to be made use of any trade secrets or confidential information relating to the technology, business affairs or finances of the other or of any Affiliates, suppliers, agents, distributors, licensees, licensors or other customers of the other which comes into their possession pursuant to this Agreement.
+
+The obligations of confidence referred to shall not extend to any information which:
+
+(i)
+
+is or becomes part of the public domain other than by unauthorized acts of the party obligated not to disclose such information or its affiliates or sublicensees, as applicable;
+
+(ii)
+
+can be shown by written documents to have been disclosed to the receiving party or its affiliates or sublicensees by a third party, provided such information was not obtained by such third party directly or indirectly from the other party under this Agreement pursuant to a confidentiality agreement;
+
+(iii)
+
+prior to disclosure under this Agreement, was already in the possession of the receiving party or its affiliates or sublicensees, provided such information was not obtained directly or indirectly from the other party under this Agreement pursuant to a confidentiality agreement;
+
+(iv)
+
+can be shown by written documents to have been independently developed by the receiving party or its affiliates without breach of any of the provisions of this Agreement;
+
+E-18
+
+(v)
+
+is disclosed by the receiving party pursuant to oral questions, interrogatories, requests for information or documents, subpoena, or a civil investigative demand of a court or governmental agency; provided, however, that the receiving party notifies the other party immediately upon receipt thereof so that the other may seek a protective order or other appropriate remedy, and provided further that the disclosing party furnishes only that portion of the information which it is advised by counsel is legally required and impose such obligations of secrecy as are possible in that regard; or
+
+(vi)
+
+is required to be disclosed by a party under any statutory, regulatory or similar legislative requirement or any rule of any stock exchange to which it or any affiliate is subject; provided, however, that the non-disclosing party shall be allowed to review the proposed disclosure and the disclosing party agrees to consider in good faith any proposed revisions thereof provided to the disclosing party within two (2) business days of the non-disclosing party’s receipt of the proposed disclosure and, and the parties shall seek confidential treatment for such disclosure as permitted by applicable law.
+
+E-19
+
+Section 12
+
+(a) Dispute Resolution
+
+In the event that a dispute arises between KING and _______________regarding the nonconformity of a batch of the Products or regarding other matters, the senior management of the quality departments from both companies shall in good faith promptly attempt to resolve disputed issues. If the parties cannot reach agreement, the matter shall be resolved in accordance with dispute resolution provisions of the Manufacturing and Supply Agreement. Financial liability shall be determined according to the Manufacturing and Supply Agreement. 
+
+E-20
+
+Section 13
+
+(b) Terms of the Pharmaceutical Quality Agreement and Final Approval
+
+Purpose
+
+This section defines the terms of this Pharmaceutical Quality Agreement (“Agreement”) between KING and ___________________.
+
+Procedure
+
+This Agreement and its annexes and/or revisions supplement the Manufacturing and Supply Agreements and revisions or extensions specified on page 1 hereof. To the extent that any inconsistencies exist between this Agreement and said Manufacturing and Supply Agreement, the provisions in the Quality Agreement shall prevail for those issues concerning compliance concerns.
+
+If any provisions of this Agreement should be or becomes invalid, the remainder of this Agreement shall remain valid and the parties shall agree on a valid provision which meets as close as possible the objectives of the invalid provision.
+
+Should, due to any change of the legal situation, the basis of this Agreement be modified to such an extent that the party affected thereby cannot be reasonably expected to continue to perform under this Agreement, then the parties shall amicably try to find appropriate new rules.
+
+Headings used in the Agreement are for reference purposes only and shall not be used to modify the meaning of the terms and conditions of this Agreement.
+
+KING and ______________ have agreed to this Agreement as a freestanding document, and either company may propose changes to it. Any notice of this Agreement shall be made in writing to the other party in the manner and to the appropriate addresses set forth in the Manufacturing and Supply Agreement. Any amendment or supplement to this Agreement must in writing and upon mutual agreement of the parties.
+
+This Agreement shall enter into force as of _______________, 2006, and shall remain valid unless this Agreement is mutually terminated and/or revised and shall continue in effect in accordance with the expiration or termination of the Manufacturing and Supply Agreement between KING and _______________.
+
+In witness whereof this Agreement has been duly executed in two (2) originals.
+
+KING Representative 
+
+Date
+
+Name:
+
+Richard Buecheler
+
+Title:
+
+Executive Vice President, Quality
+
+SUPPLIER Representative 
+
+Date
+
+Name:
+
+TITLE:
+
+E-21

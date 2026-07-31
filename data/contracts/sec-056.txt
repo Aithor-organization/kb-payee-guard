@@ -1,0 +1,712 @@
+EX-10.2
+3
+filing_374-2.htm
+WATSON SUPPLY AGREEMENT
+
+CONFIDENTIAL
+
+SUPPLY AGREEMENT
+
+Dated December 13, 2006
+
+by and between
+
+STELLAR PHARMACEUTICALS INC. 
+
+("STELLAR")
+
+and
+
+WATSON PHARMA, INC. 
+
+("WATSON")
+
+SUPPLY AGREEMENT
+
+THIS SUPPLY AGREEMENT is dated and made effective as of December 12th, 2006, (the "Effective Date") by and between STELLAR PHARMACEUTICALS INC., a corporation organized under the laws of the Province of Ontario, and having a principal place of business at 544 Egerton Street, London Ontario Canada N5W 3Z8 ("Stellar"), and WATSON PHARMA, INC, a corporation organized under the laws of the State of Delaware, United States of America, with its corporate headquarters located at 360 Mount Kemble Avenue, Morristown, New Jersey United States of America 07962-1953 ("Watson") (each individually a "Party" and collectively the "Parties").
+
+W I T N E S S E T H:
+
+WHEREAS Watson has been granted a license by Stellar to market, distribute and sell its proprietary product Uracyst® in the Territory (as such term is defined herein) as described in more detail on Schedule I attached hereto (the "Product"); and
+
+AND WHEREAS pursuant to the terms of the Licence Agreement (as such term is defined herein) the Parties hereto agreed to enter into an agreement pursuant to which Stellar will manufacture, package, and sell the Product to Watson, on an exclusive basis in the Territory, on the terms and subject to the conditions of this Supply Agreement.
+
+NOW, THEREFORE, in consideration of the mutual covenants and promises set forth herein, the Parties agree as follows:
+
+ARTICLE 1
+
+DEFINITIONS
+
+1.1
+
+The following terms, whether used in the singular or plural, shall have the meanings assigned to them below for purposes of this Supply Agreement:
+
+“Adverse Device Effects” means the definition in 21 CFR 812.46(b), 21 CFR 803 et. seq. and any laws, rules or regulations of similar effect in the Territory, as amended from time to time; 
+
+“Affiliate” of any person means a corporation or other entity, which, directly or indirectly, is controlled by, controls or is under direct or indirect common control with such person. For the purposes of this Section, “control” shall mean possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of a person or entity, whether through the ownership of voting securities, by agreement or otherwise;
+
+“Agency” means any governmental regulatory authority responsible for granting Regulatory Approvals for the sale of the Product in the Territory;
+
+"Approved Manufacturer" shall mean any Third Party(s) contracted by Stellar to manufacture and package Product for Stellar under cGMPs;
+
+"Audit" shall mean a review by Watson or its Affiliates or their appointed representatives of Stellar's, or its Approved Manufacturer’s, processes, procedures, and documents as described in Section 7.1 of this Supply Agreement;
+
+“Business Day” shall mean means a day other than a Saturday, Sunday or any other day on which the principal chartered banks located in London, Ontario or in the United States are not open for business;
+
+“CDN” means Canadian dollars;
+
+“Certificate of Analysis” means a document which is signed and dated by a duly authorized representative of Stellar certifying that the Product conforms to the Specification.
+
+"cGMP" shall mean current good manufacturing practices in the Territory, as applicable or as set forth in Title 21 of the United States Code of Federal Regulations, and as may be amended from time to time;
+
+“Commercially Reasonable Efforts” means commercially reasonable efforts in accordance with such Party’s business, legal, medical, and scientific judgment and with the efforts and resources such Party would use for a product owned by it, or to which it otherwise has rights, which is of similar market potential, at a similar stage in its product life, taking into account the competitiveness of the market place, the proprietary position of the product, the regulatory structure involved and other relevant factors;
+
+“Device Master File” shall have the meaning set forth in Section 7.4(g); 
+
+"Documents" means, collectively, all books, pamphlets, bulletins, memoranda, letters, notices, reports, manufacturing records or other publications or documents prepared by or on behalf of Stellar setting forth information, formulae, production specifications, advice, standards, requirements, operating procedures, instructions or policies relating to the Products;
+
+"Effective Date" means the date on which this Supply Agreement was executed;
+
+"Facility" shall mean the Approved Manufacturer facility(s) as approved by the FDA to manufacture the Product;
+
+"FD&C Act" shall mean the United States Federal Food, Drug and Cosmetic Act, as amended;
+
+"FDA" shall mean the United States Food and Drug Administration, or any successor entity;
+
+“Finished Product” shall mean commercially saleable Product for the Territory supplied to Watson, as further specified in Schedule II, with packaging specifications to include vial, labels, blister pack and carton;
+
+"F.O.B" means Free on Board;
+
+“Force Majeure Event” shall have the meaning set forth in Section 12.1;
+
+"Forecast" shall have the meaning set forth in Section 2.2;
+
+“Improvements” means any future innovations, inventions, designs, plans, drawings, Specifications, techniques, formulations, intellectual property, data and technical information relevant to the Product licensed hereunder with respect to new or improved methods of manufacture, formulas, method of delivery, dosage and uses thereof as well as the addition of other active ingredients.
+
+"Interest Rate" means the commercial lending rate of two percent (2%) above the U.S. dollar prime or equivalent rate quoted by Citibank N.A. or another mutually acceptable bank, as in effect during the period from the date due until payment;
+
+"License Agreement" shall mean the License Agreement entered into between Watson and Stellar as of December 12, 2006;
+
+“Manufacturing Cost” shall mean all costs (direct and indirect) associated with producing the finished Product, including manufacturing costs charged to Stellar from time to time by each Approved Manufacturer, and as further defined in Schedule III. Manufacturing costs will be determined by the absorption costing method in accordance with United States generally accepted accounting principles (“GAAP”). 
+
+"Methods and Technical Know-How" means all information, knowledge and experience of a technical and/or commercial nature, including, but not limited to, trade secrets, know-how, intellectual property, the Specifications, the Documents, information and data relating to techniques for, methods of or practices in the manufacturing, use and sale of the Products;
+
+"Parties" shall mean, collectively, Stellar and Watson or their successors or permitted assigns, as applicable and individually a "Party" shall mean either Stellar or Watson, as applicable;
+
+“Patents” mean all patents and patent applications, including provisional and priority filings, utility models, and their applications and which specifically or generally claim the Product, claim a method of treatment for the Product, claim a method of making the Product or otherwise covers the Product, including but not limited to the patent grants and applications listed in the License Agreement, together in all cases with any continuations, continuations-in-part, divisions, patents of additions, re-examinations, reissues, renewals as well as extensions, supplementary protection certificates and any other patent term extensions of any of the foregoing;
+
+"Products" means, collectively, Uracyst®, a sterile sodium chondroitin sulphate solution marketed at 2.0% in a 20 mL vial for human use in the Field, and such related products as stipulated in Improvements (including but not limited to various strengths of chondroitin sulphate solution); 
+
+"Product PMAs" shall mean pre-market approval applications and any other applications relating to the Product, and any supplements to such Product PMAs and/or other applications as may be filed with the FDA during the term hereof;
+
+"Product Manufacturing Specifications" shall mean the manufacturing specifications for the Product described in the Documents and other materials set forth on Schedule II attached hereto and made a part hereof, as determined in accordance with the analytical methodology set forth therein, and as same is revised or supplemented from time to time and approved by the FDA;
+
+"Product Packaging Specifications" shall mean the packaging and labeling specifications for the Product described in the Documents and other materials set forth on Schedule II attached hereto and made a part hereof, and as same is revised or supplemented from time to time and approved by the FDA;
+
+"Proprietary Marks" shall mean the marks, trade marks, trade names and other commercial symbols and related logos relating to the Products as set forth in Appendix 3, together with such other trade names, trademarks, symbols, logos, distinctive names, service marks, marks, logo designs, insignia or otherwise which may be designated by Stellar; 
+
+“Regulatory Approval” shall mean the approval by the FDA for Watson to market the Product in the Territory; 
+
+"Specifications" shall mean all specifications, tests, methods, applications, criteria, qualities, requirements and all other information in connection with the manufacture, testing, use, handling, distribution, marketing and/or sale of the Products in any manner whatsoever, including any manual, specification booklet, letter, notice, memorandum or other written form;
+
+“Supply Cost” shall mean Manufacturing Cost plus 10%, as calculated according to Schedule III;
+
+“Supply Cost Ceiling” shall have the meaning set fourth in Section 3.5;
+
+"Term" shall have the meaning as set forth in Section 9.1 hereof, and any renewal or extension of this Supply Agreement pursuant to Section 9.1; 
+
+"Territory" shall mean the United States of America, its territories, and possessions;
+
+“Third Party” means any Person other than a Party to this Supply Agreement or an Affiliate of a Party to this Supply Agreement; and
+
+"USD" means United States of America dollars.
+
+ARTICLE 2
+
+SUPPLY OF PRODUCT
+
+2.1
+
+Supply of Product.
+
+Subject to the provisions of this Supply Agreement and Schedule IV herein, during the Term of this Supply Agreement, Stellar shall manufacture (and/or cause to be manufactured) at a GMP compliant facility supply and sell finished Product (including derivative formulations thereof which are used to support clinical trials) to Watson on an exclusive basis in the Territory, and Watson agrees to purchase the Product exclusively from Stellar. Stellar shall use its best efforts to meet Watson's forecast requirements for the Product during the Term of this Agreement. 
+
+2.2
+
+Forecasts.
+
+Watson shall submit to Stellar at least ninety (90) days before the first day of every calendar quarter (i.e., January 1, April 1, July 1, and October 1) during the Term hereof, a twelve (12) month rolling forecast ("Forecast") organized by months and Product setting forth estimated orders Watson expects to place for the Product during the twelve (12) month period commencing with the beginning of each calendar quarter; provided, however, that only the forecast for the first calendar quarter (which may be divided into monthly segments) shall constitute a firm written order and be binding upon Watson (it being expressly understood that the forecast for the last three calendar quarters of each forecast shall be non-binding). Each firm written order for a quarter shall be for a quantity of Product no less than 80% of the amount forecasted for such calendar quarter in the immediately preceding forecast. Each quarter, Stellar shall be required to manufacture and supply to Watson such quantities of Product as Watson orders up to 120% of the quantity forecasted for such quarter in the immediately preceding forecast. In the event Watson's firm written order for a quarter exceeds 120% of the forecast for such quarter, Stellar agrees to make Commercially Reasonable Efforts to meet such needs.
+
+2.3
+
+Orders.
+
+(a)
+
+Purchase Orders. Watson shall purchase Product solely by written purchase orders for the Product; provided, however, that the terms and conditions of this Supply Agreement govern the terms and conditions of such purchase orders. Watson shall submit each such written purchase orders to Stellar at least one hundred and twenty (120) days in advance of the date specified in each purchase order on which delivery of the Product is required. Notwithstanding the foregoing, Stellar shall use Commercially Reasonable Efforts to meet any request of Watson for delivery of Product in less than ninety (90) days, and further, Stellar will attempt to accommodate any changes requested by Watson in delivery schedules for Product following Stellar's receipt of purchase orders from Watson. Upon receipt of each purchase order by Stellar hereunder, Stellar shall supply the Product in such quantities (with any variances permitted hereunder) and on such dates as is specified in such purchase orders. Stellar is not required to accept verbal orders of any kind for the production of Product hereunder. 
+
+(b)
+
+Purchase Quantities. Quantities of Product actually shipped by Stellar may vary from the quantities specified in any purchase order by up to ten percent (10%), or as mutually agreed upon by the Parties, and still be deemed to be in compliance with 
+
+such purchase order; provided, however, Watson only shall only be invoiced and required to pay for the quantities that Stellar actually ships to Watson. 
+
+2.4
+
+Delivery and Shipping Terms.
+
+Delivery by Stellar of the Product shall be F.O.B. Stellar’s warehouse in London Ontario, Canada (Incoterms, 2000) in accordance with the shipping and handling instructions specified by Watson in each purchase order. Title to the Product shall pass to Watson at the time of receipt of the Product by Watson's designated carrier at Stellar's warehouse in London, Ontario, Canada. All Product shall be shipped to Watson in approved shipping containers as agreed upon by the Parties.
+
+2.5
+
+Raw Materials and Components. 
+
+Stellar shall obtain at its cost and expense all raw materials, components, and other resources required in connection with production of the Product hereunder. Stellar represents and warrants to Watson that it and its Approved Manufacturer currently have access to, and during the entire Term of this Supply Agreement will make all Commercially Reasonable Efforts to maintain access to, sufficient supplies of raw materials, packaging materials, labor, and all other items required to perform the services required of Stellar or its Approved Manufacturer hereunder, without interruption unless otherwise provided by this Supply Agreement. Furthermore, Stellar represents to Watson that its raw material suppliers shall adhere to cGMP and are GMP compliant. Upon request, Stellar will supply Watson with Certificates of Compliance and/or Analysis for the raw materials contained within the Product. 
+
+2.6
+
+Failure to Supply.
+
+Without limiting Watson's rights arising from Stellar's breach of this Supply Agreement, Stellar shall promptly notify Watson if Stellar determines that it will be unable to meet the delivery date or quantity specified in any firm order placed by Watson in accordance with Sections 2.2 and 2.3 herein. If more than once during any twelve (12) consecutive month period, (i) Stellar is unable to deliver at least eighty-five percent (85%) of any firm order placed by Watson in accordance with Sections 2.2 and 2.3 herein, or (ii) any firm order placed by Watson in accordance with Sections 2.2 and 2.3 herein is delivered more than fifteen (15) days after the delivery date specified in such firm order, or (iii) any Product supplied by Stellar is determined to be nonconforming pursuant to Section 5.2, Watson shall have the right to require Stellar to validate and contract with another Approved Manufacturer for the Product within six months of written notification from Watson, to minimize the commercial impact of limited Product supply in the Territory. 
+
+ARTICLE 3
+
+PRICE; PAYMENT
+
+3.1
+
+Prices for Product. 
+
+Watson shall pay to Stellar the Supply Cost during the term of this Supply Agreement for Product supplied by Stellar to Watson pursuant to this Supply Agreement. For the sake of clarity, any Product or derivative formulations thereof used in support of clinical trials shall be supplied to Watson at Stellar’s Manufacturing Cost. 
+
+3.2
+
+Method of Payment.
+
+Stellar shall provide an invoice in U.S. dollars with each delivery of Product to Watson specifying the amount that shall be due to Stellar, which shall be based on the Supply Cost, other than Product to be used in support of clinical trials which shall be based on the Manufacturing Cost. Payments shall be offset by amounts of credits as issued by Stellar pursuant to Sections 3.4, 6.1 or 8.1 herein. In no case shall a credit be taken by Watson until prior written acknowledgement has been issued by Stellar. Watson shall pay to Stellar the 
+
+amount covered by such invoice in U.S. dollars within thirty (30) days after the date of shipment of the Product. 
+
+3.3
+
+Exchange Rates. All payments, the Supply Cost and all other amounts and calculations to be made pursuant to this Supply Agreement shall be made in U.S. dollars and based on the average noon exchange rate as posted by the Citibank N.A. during the thirty (30) days preceding the date the Product is shipped. 
+
+3.4
+
+Supply Cost Adjustment and Reconciliation
+
+(a)
+
+For the first twelve month period, commencing with the Product launch, the Supply Cost for Product may be adjusted by Stellar upon written notice to Watson at the beginning of each calendar quarter to reflect an increase or decrease in Stellar’s Manufacturing Cost for the Product, subject to Article 3.5 below. Any reconciliation for over or under payments by Watson shall occur on a quarterly basis in accordance with Article 3.4 (c). Stellar shall, within thirty (30) days of the beginning of each calendar quarter, provide Watson with the estimated Supply Cost for Product to be shipped during such quarter, based on Stellar’s analysis of the actual average Supply Cost for the previous calendar quarter.
+
+(b)
+
+For the second twelve month period after the Product launch, and each subsequent year thereafter, Stellar shall provide an annual estimated Supply Cost for the Product no later than sixty (60) days before the beginning of each calendar year. Stellar may further adjust the Supply Cost for the last two quarters of any given calendar year with written notice to Watson, to reflect an increase or decrease in Stellar’s Manufacturing Cost for the Product, based upon its analysis of the actual average Supply Cost for the previous semi-annual period, subject to the provisions of Article 3.5 below. Any reconciliation for over or under payments by Watson shall occur on a semi-annual basis in accordance with Article 3.4 (c). If mutually agreed to in writing by the Parties, the time periods set forth in this Article 3.4 (b) may be modified to better suit the Parties needs. 
+
+(c)
+
+Any overpayment made by Watson, in accordance with this Article 3, for any calendar year shall be, at Watson’s sole option, credited to purchases in the next calendar quarter or paid by Stellar within 30 days of determination of such overpayment. Any underpayment by Watson for any calendar quarter shall be paid to Stellar within 30 days from the date of Watson’s receipt of Stellar’s invoice.
+
+3.5
+
+Supply Cost Ceiling. In no event will the Supply Cost during any calendar year of this Agreement exceed CDN$ 13.98 per Product vial (excluding any price increase resulting from any Improvement) plus cumulative percentage increases thereon reflecting cumulative percentage increases in the Producer Price Index – Pharmaceutical Preparations (as reported by the United States Department of Labor website: www.bls.gov/ppi/home.htm) from the Effective Date of this Supply Agreement through such date whereby a Supply Cost adjustment is enacted, as shown in the sample calculation set out in Schedule III (“Supply Cost Ceiling”). 
+
+ARTICLE 4
+
+REPRESENTATIONS AND WARRANTIES
+
+4.1
+
+Representations and Warranties of Stellar.
+
+(a)
+
+Stellar warrants to Watson that the Product, at the time of sale and shipment to Watson, (i) will conform to the applicable Product Manufacturing Specifications and applicable Product Packaging Specifications, as then in effect; (ii) will have been manufactured in accordance with cGMPs as in effect at the time of manufacture; and (iii) will not be adulterated or misbranded within the meaning of the FD&C Act, (iv) 
+
+will not be an article that may not be introduced into interstate commerce under the provisions of Sections 301, 404 or 505 of the FD&C Act, (v) will not be manufactured, sold or shipped in violation of any agreement, judgment, order, or decree to which Stellar or its Approved Manufacturer is a party, or otherwise, (vi) such merchandise is merchandise which may be legally transported or sold under the provisions of any other applicable federal, state or municipal law; and (vii) will not be manufactured, sold, or shipped in violation of any applicable federal, provincial, or local law, rule, regulation or ordinance in any material respect.
+
+(b)
+
+Stellar represents and warrants that there is no claim, suit, proceeding, or other investigation pending, or to the actual knowledge of Stellar, overtly threatened against Stellar, or to Stellar’s knowledge, any Approved Manufacturer, which is likely to prevent or materially interfere with Stellar's performance under this Supply Agreement or materially adversely affect the rights and interests of Watson hereunder.
+
+(c)
+
+Stellar represents and warrants that neither it nor any of its employees, officers or directors or any Approved Manufacturer have been disqualified or debarred by the FDA for any purpose. If during the term of this Supply Agreement, Stellar becomes aware that Stellar or any Approved Manufacturer or any member of their respective staffs is or is about to become disqualified or debarred, Stellar will provide immediate written notice of same to Watson.
+
+(d)
+
+Stellar represents and warrants that neither it nor to Stellar’s knowledge any Approved Manufacturer nor any of their respective employees, officers or directors have been charged with or convicted under applicable law for conduct relating to the development or approval of any medical device, or otherwise relating to the regulation of any medical device. If at any time Stellar becomes aware that it or any Approved Manufacturer or any of their respective employees, officers or directors is charged with or convicted under applicable law for conduct relating to the development or approval of any FDA regulated product, Stellar will provide immediate written notice of same to Watson. 
+
+(e)
+
+Stellar represents and warrants that it shall use its best efforts to cause any Approved Manufacturer to comply in all material respects with all federal, provincial and state laws and regulations applicable to the conduct of its business pursuant to this Supply Agreement, including, but not limited to, the FD&C Act. 
+
+(f)
+
+Stellar is duly organized and validly existing under the laws of the Province of Ontario and is duly qualified to carry on its business as now conducted and to own, lease and operate its property and assets and is in good standing in each jurisdiction in which the conduct of its business or the ownership, leasing or operation of its property and assets requires such qualification; 
+
+(g)
+
+Stellar represents and warrants to Watson that all corporate action on the part of Stellar and its officers and directors necessary for the authorization, execution, and delivery of this Supply Agreement and the performance of all obligations of Stellar hereunder has been taken.
+
+(h)
+
+Stellar represents and warrants to Watson that any Approved Manufacturer will be approvable by the FDA to manufacture and test the Product for distribution and sale in the Territory and that said Approved Manufacturer(s) shall be cGMP compliant.
+
+(i)
+
+EXCEPT AS EXPRESSLY SET FORTH IN THIS ARTICLE 4, STELLAR MAKES NO OTHER WARRANTY, EXPRESS OR IMPLIED, WITH RESPECT TO THE PRODUCT. STELLAR EXPRESSLY DISCLAIMS ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
+
+PURPOSE, OR NON-INFRINGEMENT. WATSON’S EXCLUSIVE REMEDY FOR ANY DEFECT IN THE PRODUCT OR BREACH OF ANY REPRESENTATION, WARRANTY OR COVENANT SHALL, AT STELLAR’S SOLE OPTION, BE REFUND OR REPLACEMENT. IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES, INCLUDING ANY LOSS OF PROFITS REGARDLESS OF WHETHER SUCH CLAIM ARISES IN CONNECTION WITH AN ALLEGED BREACH OF CONTRACT, TORT OR OTHERWISE.
+
+4.2
+
+Representations and Warranties of Watson.
+
+(a)
+
+Watson represents and warrants that it shall comply in all material respects with all laws and regulations applicable to the conduct of its business pursuant to this Supply Agreement, including, but not limited to, the FD&C Act.
+
+(b)
+
+Watson is duly organized and validly existing under the laws of the State of Delaware and is duly qualified to carry on its business as now conducted and to own, lease and operate its property and assets and is in good standing in each jurisdiction in which the conduct of its business or the ownership, leasing or operation of its property and assets requires such qualification;
+
+(c)
+
+Watson hereby represents and warrants to Stellar that all requisite action on the part of Watson and its officers and directors necessary for the authorization, execution, and delivery of this Supply Agreement and the performance of all obligations of Watson hereunder has been taken.
+
+(d)
+
+Watson shall only sell, transfer or otherwise dispose of the Product in accordance with the terms of the License Agreement entered into between Watson and Stellar as of December 12, 2006.
+
+(e)
+
+Watson represents and warrants that, as of the Effective Date of this Supply Agreement, neither it nor to Watson’s knowledge its Affiliates or their appointed representatives nor any of their respective employees, officers or directors has been charged with or convicted under applicable law for conduct relating to the development or approval of any medical device, or otherwise relating to the regulation of any medical device. If at any time Watson becomes aware that it or its Affiliates or their appointed representatives or any of their respective employees, officers or directors is charged with or convicted under applicable law for conduct relating to the development or approval of any FDA regulated product, Watson will provide immediate written notice of same to Stellar.
+
+ARTICLE 5
+
+PRODUCT SPECIFICATIONS
+
+5.1
+
+Certificate of Analysis.
+
+Stellar shall furnish to Watson with each shipment of Finished Product hereunder a Certificate of Analysis reflecting that such Finished Product meets the Product Specifications. However, Watson shall have the exclusive right and responsibility for the ultimate approval or rejection of finished Product produced by Stellar hereunder, pursuant to and in accordance with Article 6 below.
+
+5.2
+
+Notice of Failure to Meet Specifications.
+
+Stellar shall immediately notify Watson, but at least within seventy-two (72) hours, of the discovery that any finished Product, which has previously been approved in accordance with procedures set forth herein, is out of specification and Stellar will notify Watson of such fact 
+
+along with details concerning the nature of any such failure to meet the Product Specifications. Stellar shall make, at its expense, such further internal investigation of any failure to meet the Product Specifications that is appropriate under the circumstances and otherwise consistent with its obligations hereunder. The liability for costs associated with any finished Product shall be determined in accordance with Article 6 below, with the exception of the requirement that Watson provide written notice of rejection within forty five (45) days.
+
+5.3
+
+Product Specifications Changes.
+
+In the event that Watson is required to change the Product Specifications pursuant to applicable law, rule, or regulation or in response to the order or request of a governmental authority or regulatory body, Watson shall promptly advise Stellar in writing of any such change and Stellar shall promptly advise Watson as to any scheduling adjustments which may result from any such change.
+
+5.4
+
+Shelf Life.
+
+All quantities of the Product supplied by Stellar to Watson pursuant to this Supply Agreement shall, at the time of delivery, have a shelf life which is no less than eighty five percent (85%) of the applicable shelf life as determined by the FDA, or as may be determined by mutual written agreement but in no event shall such shelf life at the time of delivery be required to be more than eighteen (18) months.
+
+5.5
+
+Packaging and Labeling. Stellar shall provide to Watson the proposed layout for the packaging, labeling and insert for the Product (and Watson shall cooperate and assist Stellar in connection therewith, if and as may be reasonably requested by Stellar from time to time), and Watson shall provide to Stellar its proposed artwork, including its corporate name and any related logos, in sufficient time to enable Stellar and/or its designee to review it and complete final packaging for shipment of the Product to Watson prior to any scheduled launch in the Territory. Stellar shall have the right, in conjunction with Watson, to approve such packaging, labeling and insert layouts, and Stellar shall be responsible for producing the same or having the same produced. It is expressly understood that responsibility for all packaging changes in the Territory, including those mandated by any regulatory body, are the responsibility of Watson including the payment for all discarded materials resulting from such Watson packaging changes. 
+
+ARTICLE 6
+
+CLAIMS
+
+6.1
+
+Promptly after taking delivery, Watson shall perform a lot inspection of the Product to determine whether the shipment is complete and to detect any defect or damage to the Product or its packaging. Any deficiencies which are determined by such inspection shall be brought to Stellar's attention by written notice within a maximum of forty five (45) days following such delivery. In the absence of any such written notice, Watson will, for the purposes of this Section 6.1, be deemed to have accepted the Product. If there is a disagreement between the Parties as to whether any Product meets the Product Manufacturing Specifications, then samples and/or batch records, as appropriate, from the batch that is in dispute will be submitted for testing and evaluation to an independent third party testing laboratory as shall be agreed to in writing by both Parties. The determination of such third party as to whether such Product meets the Product Manufacturing Specifications will be final and binding. If it is determined that the non-conformity is due to damage to the Product (a) caused solely by Watson or its agents or (b) which occurs subsequent to delivery of such Product to the carrier for shipment, Stellar shall have no liability to Watson with respect to such non-conformity and the cost of any testing and evaluation by the third party shall be borne by Watson. If the non-conformity is caused in any other manner, the cost of any testing or evaluation by a third party shall be borne by Stellar and, at Watson's election solely within Watson's discretion, Stellar shall either (i) replace such non-conforming Product within sixty (60) days at no additional cost to Watson, or (ii) in lieu of replacing such non-conforming Product, credit 
+
+Watson's account for the price invoiced (exclusive of all taxes and duties) for such non-conforming Product (or if payment therefore has previously been made by Watson, pay Watson the amount of such credit or offset the amount thereof against other amounts then due hereunder to Stellar). The foregoing remedy constitutes the exclusive remedy against Stellar, and the entire liability of Stellar in connection with any rejected shipment / batch. 
+
+ARTICLE 7
+
+AUDITS; COMPLAINTS; REGULATORY MATTERS; ETC.
+
+7.1
+
+Audits.
+
+(a)
+
+Performance of Audits. During the term of this Supply Agreement and for a period of three (3) years thereafter, Watson or its Affiliates shall have the right, at Watson's sole expense, to conduct an Audit, upon thirty (30) calendar days written notice to Stellar (the notice must identify any specific Audit requests and necessary contact person), no more than one (1) time per calendar year, during Stellar's or its Approved Manufacturer’s normal business hours, of all records, Documents, processes, procedures, and facilities directly associated with the Manufacturing Cost, manufacture, processing, and packaging of the Product, as well as with the receipt, storage and use of raw materials, labeling and packaging. Notwithstanding the immediately preceding sentence, in the event of a rejection of Product by Watson because of a failure to meet Product Specifications which, if disputed, is resolved in Watson’s favour in accordance with Article 6, then Watson shall have an additional right to conduct an Audit under the provisions of this Section 7.1. Watson warrants that all inspections and Audits hereunder shall be carried out in a manner that does not unreasonably interfere with Stellar's or its Approved Manufacturer’s normal and ordinary conduct of business and that ensures the continued confidentiality of Stellar's business and technical information. Any representatives involved in such audit shall be reasonably qualified in terms of auditing skill to conduct the Audits, shall execute a written agreement to maintain in confidence all information obtained during the course of any such Audit except for disclosure to Watson, and shall comply with Stellar’s normal security and safety regulations.
+
+(b)
+
+Audit Feedback. Within thirty (30) days of completing any Audit hereunder, Watson shall submit to Stellar a written report outlining its findings and/or observations from any such Audit. If deficiencies are discovered during an Audit that could, in Watson's opinion, prevent Stellar from satisfying the requirements of cGMP obligations hereunder, and Stellar in good faith disputes the observations or conclusions of Watson, then the Parties shall promptly enter into good faith discussions to resolve their differences. If the Parties fail to resolve their differences within thirty (30) days, then the disputed points shall be resolved by arbitration in accordance with Article 14. If Stellar does not dispute the observations made during any Audit it shall promptly correct those deficiencies at its own cost, and shall notify Watson in writing when those deficiencies are corrected.
+
+(c)
+
+Audit Payments. For financial Audits, if the Audit determines that Stellar is in default under this Article, or that Stellar’s records and procedures are insufficient to permit a determination of Stellar’s Supply Price, or that there is a deficiency or overpayment in any payments made by Watson to Stellar pursuant to this Supply Agreement, then Watson shall, within thirty (30) days, correct such deficiency, or Stellar shall, within thirty (30) days correct such overpayment, by paying the amount of such deficiency or overpayment, as applicable, to the other Party, and such payment shall be the sole remedy related thereto. If any payments owing to Stellar pursuant to this Supply Agreement are overstated by five percent (5%) or more, Stellar shall, in addition, pay to Watson the amount of the cost of the audit. The report of the independent representative is final and binding on the Parties hereto. 
+
+7.2
+
+Complaints. 
+
+Watson and Stellar will comply with, and provide assistance to the other in order to comply with, medical device reporting requirements in both the United States and Canada. The Parties shall meet prior to the launch of the Product in order to confirm the process to take place pursuant to this Section. Watson shall maintain complaint files for the Product in 
+
+accordance with cGMP and applicable laws. Product complaint reports received by Watson will be summarized in an electronic database and that database having been prepared in a mutual acceptable software program sent to Stellar by electronic transmission to the attention of the Quality Manager at Quality@stellarpharma.com, with an original sent on the same day in accordance with Section 15.6. Product complaint reports received by Stellar will be summarized and sent to Watson by electronic transmission to the attention of Watson Drug Safety at the email address: dsaeintake@watsonpharm.com, with an original sent on the same day in accordance with Section 15.6. Each of the Parties shall notify the other of (i) any Adverse Device Effects or reaction reports or any other reports or information indicating that any of the Finished Product hereunder have any toxicity, sensitivity reactions, or are otherwise alleged to cause illness or injury of any kind or are adulterated or misbranded, or (ii) any product complaints made by customers that will or could cause an FDA "field alert" to be issued. The foregoing notices shall be provided by the applicable Party within at least twenty-four (24) hours of such Party becoming aware of any such difficulties. The Parties shall thereafter reasonably cooperate with respect to any investigation or inquiry that may be initiated by the FDA with respect thereto (which Watson shall have the right to direct and control), and shall further provide the other Party all data or other information that it may reasonably require in connection with any reports or correspondence filed with the applicable regulatory authorities relative to any such device adverse reaction or product complaints. Notwithstanding any other provision of this Section 7.2, it is understood by the Parties that Watson shall have the sole authority and final responsibility for responding to any mandatory device reports, product complaints, or making any contact with customers or any regulatory agencies concerning any problems with the Finished Product in the Territory. 
+
+7.3
+
+Returns. 
+
+Product returns from customers in the Territory shall be the sole responsibility of Watson, and Stellar shall have no obligation with respect to any such returned Product except as may be otherwise specified in this Agreement.
+
+7.4
+
+Regulatory Matters. 
+
+(a)
+
+General Compliance. At Stellar’s sole expense, Stellar shall use its best efforts to cause its Approved Manufacturer to, comply with all federal, provincial, state and local laws, regulations, and standards and specifications applicable to production of the Product and the performance of its obligations hereunder, including, without limitation, all applicable regulations of or requirements under licenses, registrations, permits, or approvals from the FDA. Watson will pay any fees, costs or expenses necessary to maintain licenses, registrations, permits, or approvals from the FDA which are applicable to the marketing, distribution or sale of the Product in the Territory. Costs or expenses associated with a change in Product Specifications requested by Watson or a new or modified regulatory requirement, directly related to the Product, not in existence on the date hereof, shall be borne by Watson.
+
+(b)
+
+Validations and Qualifications. Stellar or its Approved Manufacturer shall perform process and cleaning validation, analytical methods validation, and installation/operating qualification, and calibration of all equipment and facilities utilized in the manufacture, packaging, testing, storing, and release of finished Product. Such validations, qualifications, and calibrations are to be in accordance with all current FDA regulations, and Stellar shall, through effective control procedures, ensure all such validations, qualifications, and calibrations will be current. Upon reasonable advance notice and arrangement with Stellar, Watson will have the right to observe the validation process and review the results thereof during the annual Audit or in conjunction with the implementation of a new process or the use of new equipment. In general, Stellar shall, at all times in the performance of its obligations hereunder, comply with its standard operating procedures for the Product and will make copies of such standard operating procedures available to Watson for review.
+
+(c)
+
+Device History Records. Device history records, including information relating to the manufacturing, packaging, and quality control testing and analysis for each lot of Finished Product produced hereunder will be prepared as and when Stellar or its Approved Manufacturer performs any such tasks. These records shall include, without limitation, the following: raw material and packaging or container/closure component release, mixing, and filling records, container and component tracing records, equipment usage records, in-process and final laboratory testing results, in-process and final physical inspection results, finished product and labeling reconciliations, labeling and packaging records, records relating to deviations from approved procedures, out-of-specification investigative reports and records. Device history records and all other records relating to production hereunder shall be retained by Stellar or its Approved Manufacturer for the longer of the duration of this Supply Agreement or the period required for meeting all rules and regulations of the FDA and other applicable regulatory agencies. Upon Watson's written request therefore, Stellar shall furnish to Watson for any calendar quarter during the Term of this Supply Agreement, a complete copy of the device history record for each production lot of Product produced during such quarter; provided, however, that Stellar shall not be required to furnish any such information on more than one occasion during each calendar quarter. Additionally, Stellar shall, upon Watson's written request in connection with any Audit, make available for review by Watson during the course of such Audit, updates to the validation package for each Product.
+
+(d)
+
+Notice of Warnings. Stellar will notify Watson promptly of any warning (including any FDA Form 483), citation, indictment, claim, lawsuit, or proceeding issued or instituted by any federal, state, provincial or local governmental entity or agency against Stellar if, and only to the extent that, the manufacture of Product hereunder is affected, or of any revocation of any license or permit issued to Stellar or its Approved Manufacturer, but only to the extent that such license or permit relates directly to Stellar's performance of its obligations hereunder.
+
+(e)
+
+Product Reviews, Reports. Stellar shall participate with Watson in conducting annual product reviews at a mutually agreed upon date for the Product, which shall include trend analysis of critical process parameters when reasonably available as well as a review of stability, reserve samples, complaints, and mandatory device experience reports, in-process variances, rejections, investigations and process changes. Further, Stellar agrees to timely compile all data reasonably necessary for Watson to file annual reports and other periodic reports with the FDA, in accordance with applicable laws, rules, and regulations, relative to the Product PMAs or supplements thereto.
+
+(f)
+
+Stability. Stellar shall be responsible for taking and maintaining quality control stability samples in support of the Product PMAs for the Product, testing stability samples on a timely basis, and providing Watson on an annual basis, and as otherwise reasonably requested by Watson, with stability data. Stellar and its Approved Manufacturer shall initiate a stability failure investigation on any stability test failure promptly (but at least within seventy-two (72) hours) of learning of any such deviation. Stellar shall notify Watson promptly (but at least within seventy-two (72) hours) upon its actual discovery of objective evidence of a stability failure with regard to the Product. 
+
+(g)
+
+DMFs. Stellar shall provide reasonable assistance to Watson in obtaining Device Master File ("DMF") reference authorizations from all approved Stellar suppliers (where available) as soon as possible following the date hereof. At Stellar’s or its supplier’s sole discretion, these DMF reference authorizations may be submitted directly to the FDA in confidence. 
+
+7.5
+
+Inspections. 
+
+In the event the Facility producing Product hereunder is inspected by representatives of any federal, state, provincial or local regulatory agency in connection with Stellar’s or its Approved Manufacturer’s manufacture of the Product, Stellar shall notify Watson promptly (but at least within seventy-two [72] hours) upon learning of such inspection, and shall supply Watson with copies of any correspondence or portions of correspondence which relate to the Product. Watson may send representatives to such manufacturing facility and may participate in any portion of such inspection relating to the Product (and shall do so upon the request of Stellar). In the event Stellar or its Approved Manufacturer receives any regulatory letter or comments from any federal, state, or local regulatory agency in connection with its manufacture of the Product requiring a response or action by Stellar, including, but not limited to, receipt of a Form 483 (Inspectional Observations) or a "Warning Letter," Watson will promptly provide Stellar with any data or information required by Stellar in preparing any response relating to the manufacture of the Product, and will cooperate fully with Stellar in preparing such response. Stellar shall provide Watson with a copy of each such response for Watson's review prior to submission of the response.
+
+7.6
+
+Correspondence. 
+
+Except with regard to Adverse Device Effects, which shall be handled as set forth in Section 7.2, each Party shall provide the other Party with all reasonable assistance and take all actions reasonably requested by the other Party that are necessary or desirable to enable such Party to comply with any law, rule or regulation applicable to the Product in the Territory. Such assistance and actions shall include (a) keeping the other Party informed (as applicable to the role of such Party relative to the Product) within three (3) Business Days (or sooner if required pursuant to this Supply Agreement or if necessary to permit the other Party a reasonable and sufficient amount of time to respond or take action to comply with applicable laws, rules, and regulations) and as may be required by applicable laws, rules, and regulations, of notification of any action by, or notification or other information which it receives (directly or indirectly), from any Agency, and (b) immediately providing copies of any written communications which (i) raise any concerns regarding the safety or efficacy of the Product in the Territory, (ii) indicate or suggest a potential liability for either Party to a Third Party arising in connection with the Product in the Territory, or (iii) is reasonably likely to lead to a recall or withdrawal of the Product in the Territory; provided that neither Party shall be required to disclose information in breach of any contractual restriction regarding confidentiality. The following types of information shall be deemed to be included in categories (i), (ii) and (iii) above: (1) inspections by an Agency of manufacturing, distribution or other facilities related to the Product which have arisen solely because of that Party’s dealings with the Product; (2) inquiries by an Agency concerning clinical investigation activities in relation to the Product (including inquiries of investigators, clinical monitoring organizations and other related Persons); (3) any communication from an Agency involving the manufacture, sale, promotion, marketing, use or distribution of the Product or any other Agency reviews or inquiries relating to the Product; (4) an initiation of an Agency investigation, detention, seizure or injunction concerning the Product; or (5) any other regulatory action (e.g., proposed labeling or other registrational dossier changes and recalls) that would affect the Product in the Territory. 
+
+ARTICLE 8
+
+RECALLS
+
+8.1
+
+Stellar and Watson each shall notify the other promptly if any batch of Product purchased by Watson pursuant to this Supply Agreement is alleged or proven to be the subject of a recall, market withdrawal, or correction, and the Parties shall cooperate in the handling and disposition of such recall, market withdrawal, or correction; provided, however, in the event of a disagreement as to any matters related to such recall, market withdrawal, or correction, other than the determination of who shall bear the costs as set forth in the immediately following sentence, Watson shall have final authority with respect to such matters in the 
+
+Territory. If such recall or withdrawal is required because of the failure of the Product to meet the Specifications, Stellar shall pay all administrative costs and expenses incurred in connection therewith, and in the event such recall or withdrawal is required because of the acts or omissions of Watson or its Affiliates or sub-distributors or any of their agents in connection with the handling, storage, release, distribution, promotion, marketing, sale or use of the Product, Watson shall pay all administrative costs and expenses incurred in connection therewith; provided that nothing herein shall limit either Party’s indemnification obligations set forth in Article 10. Furthermore, should there be shared responsibility for said recall, the Parties will negotiate in good faith a percentage allocable to each of them. In the event the responsibility/liability for the defect or failure cannot be ascertained, the costs of the recall will be shared equally between the Parties. In the event that the Product is recalled or withdrawn (or to be recalled or withdrawn) in the Territory, and/or Stellar is required to disseminate information relating to the Product in connection therewith, Stellar shall so notify Watson within a reasonable time so as to enable Watson to provide Stellar with such assistance in connection with such recall or withdrawal, as applicable, as may reasonably be requested by Stellar. Watson shall comply with all such reasonable requests from Stellar in connection with any such recall or withdrawal, and the Parties shall cooperate in the coordination of all actions, including all publicity and notifications of customers, relating to such recall or withdrawal. Watson shall maintain and cause all its sub-licensees and other agents to maintain records of all sales of Product and customers sufficient to adequately administer a recall, market withdrawal or correction for the longer of two (2) years after termination or expiration of this Supply Agreement or the period required by applicable law. Watson shall, in all events and regardless of who bears the cost, be responsible for controlling and conducting any recalls, market withdrawals, or corrections with respect to the Product in the Territory. 
+
+ARTICLE 9
+
+TERM; TERMINATION
+
+9.1
+
+The term (“Term”) of this Supply Agreement shall commence on the Effective Date and shall continue for the longer of either: (a) the expiry or termination of the License Agreement or (b) fifteen (15) years; and will be renewable at Watson’s option for additional two (2) year periods upon ninety (90) days written notification to Stellar, unless earlier terminated pursuant to Sections 9.2, 9.3 or 9.4. 
+
+9.2
+
+Either party shall be entitled at any time, by written notice to the other, to terminate this Supply Agreement if the other party commits or permits a material breach or default of any of the provisions of this Supply Agreement and fails to remedy or cure such breach or default within sixty (60) days after receipt of written notice by the non-breaching party. Notwithstanding the foregoing, in respect of a default in timely payment of any amount payable pursuant to this Supply Agreement, the non-defaulting Party shall be entitled at any time to terminate this Supply Agreement if such default has not been remedied within thirty (30) days of the date such payment was due. In either of the forgoing circumstances the relevant cure period shall be suspended during any time that a Party seeks resolution of a dispute as to an alleged breach pursuant to Section 14.2 of this Supply Agreement. 
+
+9.3
+
+Either party shall be entitled at any time, by written notice to the other, to terminate this Supply Agreement immediately, upon written notice to the other, if (i) the other party makes an assignment for the benefit of its creditors; (ii) the other party is adjudicated bankrupt or becomes voluntarily or involuntarily subject to any proceedings for the benefit of its creditors, or (iii) a receiver of the property of the other party is appointed or if any judgment or execution against it or its property remains unsatisfied for such period which would permit its property or any substantial part thereof to be sold.
+
+9.4
+
+Either Party shall have the right to terminate the Supply Agreement with respect to any Product in the Territory upon sixty (60) days prior written notice to the other should both 
+
+Parties reasonably agree in writing that such Product is no longer commercially viable in the Territory. In such event, this Supply Agreement will remain in full force and effect for any remaining Product. 
+
+9.5
+
+Except as otherwise set forth in this Agreement, neither Party shall be entitled to any compensation whatsoever as a result of expiration or termination of this Supply Agreement, but without limiting either Party’s right to damages for any breach of this Supply Agreement. No termination of this Supply Agreement will affect any amounts owing to any Party prior to such termination.
+
+9.6
+
+Survival. 
+
+Termination or expiration of this Supply Agreement for any reason shall be without prejudice to any obligations which shall have accrued to the benefit of either Party prior to such termination or expiration. Upon termination or expiration of this Supply Agreement, any payments owed to the other Party on or before the effective date of termination would be due within thirty (30) days of the effective date of such expiration or termination. Further, the expiration or termination of this Supply Agreement shall not affect any rights and obligations of the Parties under this Supply Agreement, which are intended by the Parties to survive such expiration or termination. Without limiting the generality of the foregoing, the following provisions of this Supply Agreement shall survive expiration or termination hereof: Section 2.4 and Article 3 (with respect to Products sold prior to such Termination or permitted to be sold thereafter hereunder), Articles 4, 5, 6, 7, 8, Section 9.6, 10.7, 11.5, Articles 13, 14, and Section 15.6. 
+
+ARTICLE 10
+
+INDEMNIFICATION AND LIABILITY
+
+10.1
+
+Watson shall defend, indemnify and hold harmless Stellar from and against all losses (other than loss of profits), damages (other than indirect, special, consequential and punitive damages), liabilities and expenses (including reasonable attorneys' fees) for personal injury or property damage to a third party arising out of the use of the Products marketed by Watson, its Affiliates or sub-licensees insofar as any such claim for loss, liability and expense is based upon the willful misconduct or negligence of Watson, its affiliates or sub-licensees. To the extent that they are available, the proceeds of the insurance of Watson as set out in Section 10.6 may be utilized by Watson for this indemnity. However, the indemnity is in no way limited by the availability or amount of such insurance. Stellar shall give Watson prompt written notice of any such claim. Watson shall be entitled to assume complete control of the defence of such claim. Stellar shall render such assistance to Watson as may be reasonably requested by Watson and Watson shall reimburse Stellar for its reasonable out-of-pocket expenses incurred in rendering such assistance. For greater certainty, in no event shall Watson have any liability (whether direct or indirect, in contract or tort or otherwise) to Stellar or any other person asserting claims on behalf of or in right of Stellar hereunder to the extent such liability has resulted from the negligence or willful misconduct of Stellar or its representatives. 
+
+10.2
+
+Stellar shall defend, indemnify and hold harmless Watson from and against all losses (other than loss of profits), damages (other than indirect, special, consequential and punitive damages), liabilities and expenses (including reasonable attorneys' fees) for (i) personal injury or damage arising out of the use of the Products, provided the claim for such loss, liability and expense is based upon product liability in respect of the Product or the willful misconduct or negligence of Stellar, its Affiliates or Approved Manufacturer or (ii) any suit or proceeding brought against Watson insofar as such suit or proceeding is based on a claim that the Methods and Technical Know-How and Improvements to any Products constitutes an infringement of any patent, copyright, trade secret or other intellectual property right of any person other than Stellar. To the extent that it is available, the proceeds of the insurance of Stellar as set out in Section 10.6 may be utilized by Stellar for this indemnity. However, notwithstanding the foregoing, the indemnity is in no way limited by the availability or amount of any such insurance. Watson shall give Stellar prompt written notice of any such claim. Stellar shall be entitled to assume complete control of the defence of such claim. 
+
+Watson shall render such assistance to Stellar as may be reasonably requested by Stellar and Stellar shall reimburse Watson for its reasonable out-of-pocket expenses incurred in rendering such assistance. For greater certainty, in no event shall Stellar have any liability (whether direct or indirect, in contract or tort or otherwise) to Watson or any other person asserting claims on behalf of or in right of Watson hereunder to the extent such liability has resulted from the negligence or willful misconduct of Watson, its Affiliates, sublicensees or representatives. 
+
+10.3
+
+(a)
+
+Each party indemnified under the provisions of this Supply Agreement (the “Indemnified Party”), upon receipt of written notice of any claim, or the service of a summons or other initial legal process upon it in any action instituted against it, in respect of the agreements contained in this Supply Agreement, shall promptly give written notice of such claim, or the commencement of such action, or threat thereof to the party from whom indemnity shall be sought hereunder (the “Indemnifying Party”); provided, however, the failure to provide such notice within a reasonable period of time shall not relieve the Indemnifying Party of any of its obligations hereunder except to the extent the Indemnifying Party is prejudiced by such failure. The Indemnifying Party shall be entitled at its own expense to participate in the defence of such claim or action, or, if it shall elect, to assume such defence, in which event such defence shall be conducted by counsel chosen by such Indemnifying Party, which counsel may be any counsel reasonably satisfactory to the Indemnified Party against whom such claim is asserted or who shall be the defendant in such action, and such Indemnified Party shall bear all fees and expenses of any additional counsel retained by it. If the Indemnifying Party shall elect not to assume the defence of such claim or action, such Indemnifying Party shall reimburse such Indemnified Party for the reasonable fees and expenses of any one counsel retained by it. Neither party shall be responsible to or bound by any settlement made by the other party without its prior written consent, which shall not be unreasonably withheld or delayed. 
+
+(b)
+
+Notwithstanding Section 10.3(a), if the named Parties in such action (including impeded Parties) include both the Indemnified Party and the Indemnifying Party, and the Indemnified Party shall have been advised by counsel that, consistent with applicable standards of professional responsibility, there may be a conflict between the positions of the Indemnifying Party and the Indemnified Party in conducting the defence of such action or that there are legal defences available to such Indemnified Party different from or in addition to those available to the Indemnifying Party, then the Indemnified Party shall be entitled to retain one separate counsel to conduct its defence to the extent reasonably determined by such counsel to be necessary to protect the interests of the Indemnified Party, at the expense of the Indemnifying Party. 
+
+10.4
+
+IN NO EVENT SHALL EITHER PARTY HERETO BE RESPONSIBLE OR LIABLE TO THE OTHER PARTY FOR CONSEQUENTIAL, INCIDENTAL OR OTHER INDIRECT DAMAGES OF ANY KIND (WHETHER ARISING UNDER CONTRACT, TORT, OR OTHERWISE) INCLUDING, BUT NOT LIMITED TO, LOST PROFITS OR LOSS OF BUSINESS OPPORTUNITY, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT SHALL ANY PARTY HERETO BE LIABLE FOR ANY PUNITIVE OR EXEMPLARY DAMAGES.
+
+10.5
+
+The amount of any loss, liability, damage or expense for which indemnification is provided under this Section 10 shall be net of any amounts actually recovered by the indemnified Party in respect of such loss, liability, damage or expense under its insurance policies.
+
+10.6
+
+Each Party, at its own cost, shall maintain comprehensive general liability insurance, including product liability insurance against claims related to the manufacture and commercialization of the Product in connection with this Agreement. Such insurance shall be in amounts of not less than $5,000,000 USD for each claim and $10,000,000 USD in the aggregate for Watson, and in the amount of not less than $2,000,000 CDN in the aggregate for Stellar, both during the Term and thereafter for a period of five (5) years. In addition, Stellar 
+
+shall ensure that its Approved Manufacturers of the Product shall maintain product liability insurance against claims related to the manufacture of the Product in an amount of not less than $10,000,000 CDN. The amount of such insurance shall in no way limit the indemnification obligations of either Party set out in this Section 10. Each Party shall provide the other Party with at least sixty (60) days prior written notice of any cancellation or any termination of its insurance. Copies of all policies or certificates of insurance and any renewals thereof, shall be delivered promptly by both Parties to the other Party throughout the term of this License Agreement and any renewal thereof and for a period of five (5) years thereafter. Stellar shall ensure that its Approved Manufacturer is compliant with this Section 10.6. Watson shall, at its option, require Stellar to increase its policy limits. If the parties deem that it is necessary to increase Stellar's insurance coverage from the level required in this Section 10.6, Watson will pay for the costs associated with any such increase including, without limitation, the increase in premiums associated therewith. Furthermore, the parties hereby agree to negotiate in good faith the terms of such reimbursement prior to Stellar being required to obtain any such increase in such insurance coverage. Each Party shall provide the other Party with at least sixty (60) days prior written notice of any cancellation or any termination of its insurance. Copies of all policies or certificates of insurance and any renewals thereof, shall be delivered promptly by both Parties to the other Party throughout the term of this License Agreement and any renewal thereof and for a period of five (5) years thereafter.
+
+10.7
+
+The terms of this Section 10 shall survive the termination or expiration of this Supply Agreement for a period of six (6) years.
+
+ARTICLE 11
+
+CONFIDENTIALITY
+
+11.1
+
+As it is used in this Supply Agreement, in respect of one party, the term "Confidential Information", without limiting the generality of its generally accepted meaning, shall include the Methods and Technical Know-How and all other information that is non-public, confidential or proprietary in nature disclosed by a Party to the other Party or any of its directors, officers, employees, agents, consultants or representatives (collectively, the "Representatives") relating to the Product, Improvements, New Indications or the business of the disclosing party or its affiliates, including information in respect of the disclosing party's or the disclosing party's affiliates' operations, customers, business and marketing strategies and all financial, production, scientific and technical data, methodology, specifications, formulas, production and manufacturing procedures and standards, techniques, and all analyses, compilations, data, studies, reports or other documents prepared by the receiving party or any of its Representatives containing or based upon, in whole or in part, any such furnished information, whether in written, oral, electronic or other form, but shall not include as evidenced by written records:
+
+(a)
+
+information in the public domain at the time of the receiving party's receipt of that information from the disclosing party;
+
+(b)
+
+information which, after the receiving party's receipt from the disclosing party, becomes a part of the public domain through no act or omission of the receiving party or any of its Representatives;
+
+(c)
+
+information which the receiving party can show was lawfully within its knowledge or possession prior to its receipt from the disclosing party;
+
+(d)
+
+information received in good faith by the receiving party from a third party, who to the knowledge of the receiving party was lawfully in possession of the information, and who was not under a contractual, legal or fiduciary obligation not to disclose the information;
+
+(e)
+
+information developed by the receiving party or its Representatives without using any of the Confidential Information disclosed by the disclosing party; or
+
+(f)
+
+information required by law to be disclosed by the receiving party so long as the receiving party provides prior written notice to the disclosing party so that the disclosing party may seek protection of such information prior to disclosure.
+
+11.2
+
+Except to the extent that disclosure is reasonably required to discharge the obligations of the Parties under this Supply Agreement, each of the Parties agrees that it will hold all Confidential Information in confidence and will not disclose any such Confidential Information to any person other than their respective Representatives whose duties justify their need to know the Confidential Information for the purposes of fulfilling their respective obligations under this Supply Agreement, provided that the Parties shall have first notified their respective Representatives of the obligations under this Supply Agreement with respect to the Confidential Information and the restrictions on its use. Each of the Parties shall direct each of their respective Representatives to exercise a level of care sufficient to preserve the confidentiality of the Confidential Information and shall direct each such person to abide by the terms and conditions of this Supply Agreement, and will take all reasonable steps, including the obtaining of suitable undertakings, to ensure that the Confidential Information is not disclosed by any of such person to any person or used in a manner contrary to this Supply Agreement. The receiving Party hereby agrees to legally enforce all such obligations of its Representatives on behalf of the disclosing Party.
+
+11.3
+
+Each of the Parties agrees that it shall not use any Confidential Information, directly or indirectly, for any purpose whatsoever other than to fulfill its obligations as defined herein, without first obtaining the prior written consent of the disclosing party. Without limiting the generality of the foregoing, each of the Parties agrees that it will not use any Confidential Information for any improper purpose.
+
+11.4
+
+Without intending to limit the remedies available to each party, and notwithstanding Section 14.1, each party acknowledges that damages at law will be an insufficient remedy to the other party in view of the irrevocable harm which will be suffered by the other party if it violates the terms of this Section 11 and each party hereby agrees that the other party may apply for and have injunctive relief in any court of competent jurisdiction in State of New York, USA, specifically to enforce any such covenants upon the breach or threatened breach of any such provisions. 
+
+11.5
+
+The terms of this Section 11 shall survive the termination or expiration of this Supply Agreement.
+
+ARTICLE 12
+
+FORCE MAJEURE
+
+The Parties hereto shall not be liable for any damage if the performance of all or parts of this Supply Agreement is hindered or prevented by unforeseen causes beyond the performing party's control and without its fault or negligence, including but not limited to acts of God or of public enemy, acts of terrorism, nuclear incidents, acts, laws, orders or regulations of any government or department or agency thereof acting in either its sovereign or contractual capacity, fires, floods, epidemics, quarantine restrictions, strikes, work stoppages, slowdowns or other job actions, freight embargoes, shortages of fuel or other items, delays in transportation, boycotts, unusually severe weather and riots, insurrections, revolutions, wars or other civil or military disturbances (a “Force Majeure Event”). Each Party agrees to give the other Party prompt written notice of the occurrence of any Force Majeure Event, the nature thereof, and the extent to which the affected Party will be unable fully to perform its obligations hereunder. Each Party further agrees to use reasonable efforts to correct the Force Majeure Event as quickly as possible and to give the other Party prompt written notice when it is again fully able to perform such obligations. If, as a result of a Force Majeure Event, a Party is unable fully to 
+
+perform its obligations hereunder for any consecutive period of one hundred eighty (180) days or more, the other Party shall have the right to terminate this Agreement in its entirety, upon providing written notice to the non-performing Party, such termination to be effective thirty (30) days from the date of such notice.
+
+ARTICLE 13
+
+PRESS RELEASES; USE OF NAMES
+
+13.1
+
+Press Releases.
+
+No party shall at any time, without the prior written consent of the other party, disclose, publish or otherwise make known any of the terms and conditions of this Supply Agreement, except as may be required under applicable securities laws or stock exchange rules or policies. For greater certainty, the Parties acknowledge that Stellar and Watson will issue simultaneous press releases which language has been mutually approved by the Parties pursuant to this Section in respect of the transactions contemplated hereby on or about the Effective Date.
+
+13.2
+
+Use of Names.
+
+Except as otherwise required by law or by the terms of this Supply Agreement or mutually agreed upon by the Parties, neither Party shall make any use of the name of the other Party in any advertising or promotional material, or otherwise, without the prior written consent of the other Party, which consent shall not be unreasonably withheld. 
+
+ARTICLE 14
+
+APPLICABLE LAW / ARBITRATION
+
+14.1
+
+Applicable Law: This Supply Agreement shall be construed, interpreted and enforced in accordance with and shall exclusively be governed by the laws of the State of New York, USA. The Convention on Contracts for the International Sale of Goods shall not apply to this Supply Agreement, and is hereby expressly disclaimed and excluded. 
+
+14.2
+
+Disputes / Arbitration: This Supply Agreement is made on the basis of mutual confidence, and it is understood that the differences, if any, during the life of this Supply Agreement should freely be discussed between the two Parties. The Parties shall initially attempt in good faith to resolve any significant controversy, claim, or dispute arising out of or relating to this Supply Agreement, or its interpretation, performance, non-performance or any breach of any respective obligations hereunder (hereinafter collectively referred to as a “Dispute”) through negotiations between senior executives of Watson and Stellar. If the Dispute is not resolved within thirty (30) days (or such other period of time mutually agreed upon by the Parties) of commencing such negotiations, or if the Party against which a claim has been asserted refuses to participate in such negotiations or does not otherwise participate in such negotiations within thirty (30) days (or such other period of time mutually agreed upon by the Parties) from the date of notice of a Dispute, then the Parties agree to resolve any Dispute exclusively through arbitration conducted under the auspices of the CPR Institute for Dispute Resolution (the “CPR”) pursuant to CPR Rules for Non-Administered Arbitration of International Disputes (“CPR Rules”). The arbitration shall be conducted in the English language before one (1) arbitrator selected by the Parties pursuant to CPR Rules. Unless otherwise mutually agreed by the Parties, any arbitration hereunder shall be brought only and exclusively in New York, New York, U.S.A. Any arbitrator selected shall have reasonable experience as an arbitrator of disputes between entities in the pharmaceutical industry. The arbitrator shall hear evidence by each Party and resolve each of the issues identified by the Parties. The arbitrator shall render a formal, binding non-appealable resolution and award on each issue as expeditiously as possible, but not more than thirty (30) business days after the hearing. In any arbitration, the Parties shall use Commercially Reasonable Efforts to minimize any discovery, including by limiting discovery where reasonable and appropriate to twenty (20) hours of depositions, ten (10) interrogatories, and twenty-five (25) requests for production of 
+
+documents per side, and each Party shall voluntarily produce to the other all documents such Party shall use in its portion of the arbitration. The prevailing Party, as determined by the Arbitrator, shall be entitled to reimbursement of its reasonable attorneys’ fees and the Parties shall use all reasonable efforts to keep arbitration costs to a minimum. 
+
+ARTICLE 15
+
+MISCELLANEOUS
+
+15.1
+
+Partnership, Agency Denied.
+
+This Supply Agreement does not and shall not be construed to create any partnership, joint venture or agency whatsoever as between the Parties and neither party shall, by reason of any provision herein contained, be deemed to be the partner, joint venturer, agent or legal representative of the other nor shall either have the ability, right or authority to assume or create, in writing or otherwise, any obligation of any kind, express or implied, in the name of or on behalf of the other party.
+
+15.2
+
+No Assignment.
+
+Except as otherwise permitted by this Supply Agreement, this Supply Agreement may not be assigned, by either Party, to any Third Party without the prior written consent of the other Party, such consent not to be unreasonably withheld, and shall enure to the benefit of and be binding upon the Parties and their respective successors and permitted assigns.
+
+Notwithstanding the foregoing, either Party may assign this Supply Agreement to a Third Party, without the other Party’s consent, only in connection with a sale of the business and assets of the Party to which this Agreement relates.
+
+15.3
+
+Waiver. 
+
+The failure at any time to require performance of any provision of this Supply Agreement shall not affect the full right to require performance at any later time. The waiver of a breach of any provision of this Supply Agreement shall not constitute a waiver of the provision or of any succeeding breach.
+
+15.4
+
+Severability. 
+
+Should any of the provisions of this Supply Agreement be or become unenforceable or invalid for any reason whatsoever, such unenforceability or invalidity shall not affect the enforceability or validity of the remaining provisions of the Supply Agreement and such unenforceable or invalid portion shall be severable from the remainder of this Supply Agreement.
+
+15.5
+
+Headings.
+
+The division of this Supply Agreement into articles and sections is for convenience of reference only and shall not affect the interpretation or construction of this Supply Agreement.
+
+15.6
+
+Notices.
+
+All notices, requests, demands or other communications made by the terms hereof required or permitted to be given by one party to the other shall be given in writing by personal delivery or sent by (a) registered or certified mail, return receipt requested; (b) a nationally-recognized courier service guaranteeing next-day delivery, charges prepaid; or (c) facsimile transmission (with the original promptly sent by any of the foregoing manners), addressed to such other party or delivered to such other party as follows:
+
+If to Watson: 
+
+Watson Pharma, Inc.
+
+360 Mt. Kemble Avenue
+
+P.O. Box 1953
+
+Morristown, NJ 07962-1953
+
+USA
+
+Attention: President 
+
+Telephone: +973-355-8550
+
+Telefax: +973-355-8581
+
+With a copy to:
+
+Watson Pharmaceuticals, Inc.
+
+311 Bonnie Circle
+
+Corona, California 91720
+
+U.S.A.
+
+Attention: General Counsel
+
+Telephone: +951-493-5300
+
+Telefax: +951-493-5821
+
+If to Stellar:
+
+Stellar Pharmaceuticals Inc.
+
+544 Egerton St
+
+London, Ontario
+
+N5W 3Z8
+
+Canada
+
+Attention: President
+
+Facsimile: +519-434-4382
+
+or to such other address as the addressee may have specified by a written notice given under this provision. Any such notice or other communication shall be deemed to have been given when received, or three days after it is sent by such registered or certified mail or, if sent by facsimile transmission, shall be deemed to have been given when the appropriate answerback is received provided such answerback is received on a Business Day and if it is not a Business Day it shall be deemed to be received on the next Business Day.
+
+15.7
+
+Counterparts.
+
+This Supply Agreement may be executed by the Parties in separate counterparts each of which when so executed and delivered in original form or by facsimile transmission shall be an original, but all such counterparts shall together constitute one and the same instrument, and shall be equally valid and binding on the Parties.
+
+15.8
+
+Entire Agreement.
+
+This Supply Agreement, along with the License Agreement dated December 13 , 2006, constitute the entire agreement between the Parties hereto with respect to the subject-matter herein contained, and the execution thereof has not been induced by, nor do either of the Parties hereto rely upon or regard as material, any representations or writings whatsoever not incorporated herein and made a part hereof. This Supply Agreement shall not be amended, altered or qualified except by an instrument in writing, signed by each of the Parties hereto and any amendments; alterations or qualifications hereof shall not be binding upon or affect the rights of any party who has not given its written consent as aforesaid. All other previous agreements or arrangements between the Parties, written or oral, relating to the subject matter hereof are hereby cancelled and superseded, except for the Confidentiality Agreement dated as of May 16th, 2006 between the Parties.
+
+IN WITNESS WHEREOF, the Parties have caused this Agreement to be duly executed as of the date first above written.
+
+STELLAR PHARMACEUTICALS INC.
+
+By:
+
+/s/ Peter Riehl
+
+Name:
+
+Peter Riehl
+
+Title:
+
+President & CEO
+
+WATSON PHARMA, INC.
+
+By:
+
+/s/ Edward F. Heimers, Jr. 
+
+Name:
+
+Edward F. Heimers, Jr.
+
+Title:
+
+President, Brand Division

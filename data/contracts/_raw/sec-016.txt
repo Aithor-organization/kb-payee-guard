@@ -1,0 +1,769 @@
+<DOCUMENT>
+<TYPE>EX-10.6
+<SEQUENCE>3
+<FILENAME>c61002ex10-6.txt
+<DESCRIPTION>SUPPLY AGREEMENT DATED 1/1/01
+<TEXT>
+
+<PAGE>   1
+
+                                                                    EXHIBIT 10.6
+
+                                SUPPLY AGREEMENT
+
+         This Supply Agreement (this "Supply Agreement") is made as of January
+1, 2001, by and among CORNPRODUCTSMCP SWEETENERS LLC, a Delaware limited
+liability company, with its principal office in Marshall, Minnesota (the
+"Company"), CORN PRODUCTS INTERNATIONAL, INC., a Delaware corporation, with its
+principal office at 6500 South Archer Avenue, Bedford Park, Illinois 60501-1933
+("Corn Products"), and MINNESOTA CORN PROCESSORS, LLC, a Colorado limited
+liability company, with its principal office at 901 North Highway 59, Marshall,
+Minnesota 56528-2744 ("MCP"). Corn Products and MCP shall each be referred to
+herein as a "Member" and collectively referred to herein as the "Members."
+
+         WHEREAS, the Members entered into a Limited Liability Company Agreement
+dated as of December 1, 2000 (the "Operating Agreement") under which the Members
+agreed to form the Company primarily to serve as their exclusive sales outlet
+for the sale in the United States of America (including Puerto Rico, the "United
+States"), and into Canada, and Mexico (collectively, "North America") of certain
+Designated Products (as defined herein); and
+
+         WHEREAS, each Member is willing to supply to the Company the Designated
+Products produced in the United States by each of them for sale in North
+America, subject to the terms and conditions of the Operating Agreement and this
+Supply Agreement.
+
+         WHEREAS, as part of its contribution obligation under the Operating
+Agreement, each Member has agreed to enter into this Supply Agreement.
+
+         NOW, THEREFORE, in consideration of the mutual promises, covenants and
+agreements herein contained, and for other good and valuable consideration, the
+receipt and adequacy of which is hereby acknowledged, the parties hereby agree
+as follows:
+
+
+1.       DEFINITIONS.
+
+         In addition to such definitions as shall be set forth in Article I of
+the Operating Agreement (some of which are repeated here for reference) or
+defined in the text below, when used in this Supply Agreement the following
+terms shall have the meaning specified:
+
+         A. "Affiliate" means, when used with reference to a specific Person (or
+when not referring to a specific Person shall mean an Affiliate of a Member),
+any Person that, directly or indirectly, through one or more intermediaries,
+controls, is controlled by or is under common control with such specific Person.
+
+         B. "Base Year Volume" shall mean the quantity representing the
+aggregate actual sales of the applicable Designated Product by each Member (and
+its respective Affiliates) during calendar year 2000 unless modified in the
+manner set forth below, to the extent such Designated
+
+<PAGE>   2
+
+Product was (i) produced and sold within the United States, (ii) produced within
+the United States and sold in Mexico or Canada, or (iii) produced in Mexico or
+Canada and exported into and sold in the United States. The Base Year Volume
+shall be confirmed in writing by the parties.
+
+         C. "Bulk" means finished products sold by pipeline or single container,
+rail car or other transportation vehicle where the finished product pipeline
+shipment, container, rail car or vehicle load has a capacity in excess of five
+tons. Bulk does not include a single container, rail car or other transportation
+vehicle containing subcontainers or packages of less than five tons. Excluded
+from this definition of Bulk shall be any such products sold or otherwise
+transferred to a third party and normally delivered by pipeline for processing
+into finished products other than Designated Products.
+
+         D. "Designated Products" has the meaning given in the Operating
+Agreement.
+
+         E. "Modified Base Year Volume" shall mean the volume resulting from all
+changes to the Base Year Volume under Section 3 below.
+
+         F. "Sales Commitments" shall mean the volume of Designated Products
+which a Member has agreed to sell to the Company as determined in Section 2.A
+for the first year of the Supply Agreement and in Section 4 for all subsequent
+years during the Term.
+
+         G. "Specifications" shall mean the specifications to the applicable
+products supplied hereunder as agreed to in writing by the parties.
+
+2.       PURCHASE AND SALE OF DESIGNATED PRODUCTS.
+
+         A. Obligation to Sell and Buy Designated Products. During each calendar
+year during the Term of the Supply Agreement each Member and its Affiliates
+shall sell to the Company their respective Sales Commitments of Designated
+Products for such calendar year. The Company shall use reasonable commercial
+efforts to market and sell such Designated Products to its customers in the
+United States and, through Affiliates of Corn Products under one or more
+commission sales agreements, in Mexico and Canada. Designated Products produced
+by Affiliates of the Members in Mexico or Canada and sold in the United States
+to or through the Company under one or more commission sales agreements shall be
+credited against the applicable Member's Sales Commitment.
+
+         B. Sales Commitments for Calendar Year 2001. For calendar year 2001,
+each Member's respective Sales Commitment for each Designated Product shall be
+equal to the Member's respective Base Year Volume for such Designated Product.
+
+         C. Rate of Delivery. Each Member shall use reasonable efforts to supply
+its respective Sales Commitments to the Company in accordance with the quarterly
+volume forecasts included as part of the Sales Commitments as provided in
+Section 4 below or as
+
+<PAGE>   3
+otherwise required to enable the Company to satisfy the needs of, and its
+obligations to, its customers.
+
+3.       METHODS FOR DETERMINING MODIFIED BASE YEAR VOLUMES.
+
+A.    Modification By Acquisition of Production Facility Capacity. A Member or
+      its Affiliate may acquire from a third party not an Affiliate of such
+      Member any production-facility capacity within North America that at the
+      time of the closing of such acquisition is producing any Designated
+      Product being (a) sold in North America if the production facility is
+      located in the United States or (b) sold in the United States if the
+      production facility is located outside the United States (the "Acquired
+      Facility"). For purposes of this Section an acquisition shall include both
+      the purchase of the assets and the purchase of a controlling interest in
+      the facility's output of Designated Products (a) sold in North America if
+      the production facility is located in the United States or (b) sold in the
+      United States if the production facility is located outside the United
+      States. In the event of any such acquisition of an Acquired Facility:
+
+(i)   The Company's actual calendar year sales of the applicable Designated
+      Products for the full calendar year in which the acquisition of the
+      Acquired Facility occurs (excluding any sales of Designated Product from
+      the Acquired Facility) shall first be allocated between the Members in
+      proportion to each Member's then current Base Year Volume or Modified Base
+      Year Volume, as the case may be. This allocation of the current year's
+      sales of applicable Designated Product shall yield an "Adjusted Year
+      Volume" for each Member.
+
+(ii)  The Member acquiring the Acquired Facility shall provide to the Company
+      true and accurate sales figures for the full calendar year in which such
+      acquisition occurs showing all applicable Designated Product that was
+      produced at the Acquired Facility and (a) sold in North America if the
+      production facility is located in the United States, or (b) sold in the
+      United States if the production facility is located outside of the United
+      States. These actual sales figures shall be added to the acquiring
+      Member's Adjusted Year Volume to yield a Modified Base Year Volume for
+      that Member.
+
+(iii) The non-acquiring Member's Adjusted Year Volume for each applicable
+      Designated Product shall become that Member's Modified Base Year Volume.
+
+(iv)  The Company shall prepare and amend to the Supply Agreement schedules
+      showing the results of this calculations which shall be labeled "Modified
+      Base Year Volumes For Members as of January 1, [year]". Thereafter these
+      schedules (unless later modified) shall used to determine each Member's
+      annual contractual rights under this Supply Agreement to supply Designated
+      Products to the Company in the manner calculated under Section 4 below.
+
+(v)   In the calendar year in which the purchase of the Acquired Facility is
+      completed, the acquiring Member shall provide to the Company true and
+      accurate sales estimates showing the volume of each Designated Product
+      forecasted to be sold during the remainder of the calendar year from the
+      Acquired Facility in North America if the Acquired Facility is located in
+      the United States, or sold in the United States if the Acquired Facility
+      is located outside of the United States. The Company shall add that volume
+      of forecasted sales to the acquiring Member's applicable Sales
+      Commitments, as defined below, for the balance of that calendar year.
+
+<PAGE>   4
+
+
+
+(vi)  Unless the Company and the Members agree to another method for integrating
+      the Modified Base Year Volume amounts calculated under this Section 3.A
+      into the calculation of Sales Commitment under Section 4 below, the
+      Company and the Members agree to meet on or before January 5 of the year
+      following the year in which the Acquired Facility is purchased to make all
+      necessary recalculations of Sales Commitments for that year using the
+      Member's Modified Base Year Volumes, as determined under this Section.
+
+      B.   Modification Because of a Failure to Commit to 90% of Current Base
+Year Volume. As more fully described in Section 4 below, each Member shall be
+entitled on an annual basis to specify its Sales Target for each Designated
+Product for the following calendar year. If a Member specifies a Sales Target
+that is less than 90% of such Member's then current Base Year Volume or Modified
+Base Year Volume for any applicable Designated Product, the difference between
+such Sales Target and such current Base Year Volume or Modified Base Year Volume
+shall be considered a "Deficiency". The other Member (the "Assuming Member") may
+elect to supply all or any portion of the Deficiency. If such an election is
+made, the amount of such Deficiency so assumed and actually supplied by the
+Member to the Company during that subsequent year shall be subtracted from the
+non-Assuming Member's then current Base Year Volume or Modified Base Year Volume
+and added to the Assuming Member's then current Base Year Volume or Modified
+Base Year Volume to create new Modified Base Year Volume's for both Members. The
+Company shall prepare and append to this Supply Agreement schedules showing the
+results of these calculations which shall be labeled "Modified Base Year Volumes
+For [Member's name] as of [date]". Thereafter these schedules (unless later
+modified) shall be used to determine each Member's annual contractual rights
+under this Supply Agreement or later executed Supply Agreements to supply
+Designated Products to the Company in the manner calculated under Section 4
+below.
+
+      C.   Modification Because of Failure to Supply 90% of Current Base Year
+Volume As Result of Force Majeure or Failure to Agree to Increased Warrant
+
+     (i)   If as a result of a condition of force majeure a Member fails to
+satisfy its Sales Commitment with respect to any Designated Product and if the
+amount of such Designated Product actually supplied by such Member is less than
+90% of such Member's current Base Year Volume or Modified Base Year Volume for
+the applicable year, the difference between the amount of such Designated
+Product actually supplied by such Member and such Member's current Base Year
+Volume or Modified Base Year Volume shall be considered a "Force Majeure
+Deficiency". The amount of such Force Majeure Deficiency shall be subtracted
+from the then current Base Year Volume or Modified Base Year Volume of the
+Member affected by the condition of force majeure to create a new Modified Base
+Year Volume for such Member.
+
+      In years subsequent to the year in which the condition of force majeure
+occurs, increases in aggregate Volume Allocations over the Sales Commitments in
+the year in which the condition of force majeure occurs, shall be allocated on a
+priority basis to the Member affected by the condition of force majeure and the
+Modified Base Year Volume of such Member shall be
+
+<PAGE>   5
+
+
+increased up to the level that existed prior to such reduction to the extent
+that such Member commits to such incremental Volume Allocations and satisfies
+such commitment.
+
+     (ii)  If (a) the Company shall propose a customer warranty that exceeds
+the Member Warranty (the "Increased Warranty") with respect to any Designated
+Product, and (b) any Member shall agree to supply Designated Product subject to
+the Increased Warranty, then any other Member that is requested by the Company
+to agree to the Increased Warranty with respect to any Designated Product within
+the same Product Category may either agree to supply such Designated Product
+subject to the Increased Warranty or choose not to agree.
+
+      If (a) such Member fails to accept all rights and obligations to supply
+such Designated Product subject to the Increased Warranty and (b) another Member
+agrees to assume all rights and obligations to supply such Designated Product,
+the Member that agrees to assume such rights and obligations to supply such
+Designated Product subject to the Increased Warranty shall be responsible for
+and shall pay all incremental freight and other costs incurred by the Company as
+a result of supplying such Designated Product.
+
+         If (a) another Member does not supply such Designated Product subject
+to the Increased Warranty, (b) the customer that had requested the Increased
+Warranty chooses not to purchase the Designated Product because of its failure
+to obtain the Increased Warranty, and (c) the amount of such Designated Product
+that such customer chooses not to purchase is more than 10% of such Member's
+current Base Year Volume or Modified Base Year Volume for the applicable year,
+then the amount of Designated Product that such customer refused to purchase
+shall be considered a "Warranty Deficiency". The amount of such Warranty
+Deficiency shall be subtracted from the then current Base Year Volume or
+Modified Base Year Volume of the Member that failed to agree to the Increased
+Warranty to create a new Modified Base Year Volume for such Member.
+
+     (iii) The Company shall prepare and append to this Supply Agreement
+schedules showing the results of any calculations of Modified Base Volumes
+required by paragraph (i) or (ii) above, which shall be labeled "Modified Base
+Year Volumes For [Member's name] as of [date]". Thereafter these schedules
+(unless later modified) shall be used to determine each Member's annual
+contractual rights under this Supply Agreement or later executed Supply
+Agreements to supply Designated Products to the Company in the manner calculated
+under Section 4 below.
+
+      D.   Other Modifications. A Member's Modified Base Year Volume shall be
+increased by the volume of Designated Products sold in the most recently
+completed year under any unassignable contract upon the earlier of the
+assignment to the Company or the expiration of such contract.
+
+4.       DETERMINATION OF MEMBER'S SALES COMMITMENTS AFTER CALENDAR YEAR 2001.
+
+<PAGE>   6
+
+
+         The determination of each Member's Sales Commitments to the Company for
+all years after calendar year 2001, shall be made as follows:
+
+      A.   Preparation of Subsequent Years Sales Forecasts Sales Targets. The
+Company shall annually prepare Sales Forecasts and Sales Targets in the
+following manner and on the following dates unless different dates are agreed to
+in any given year by the Company and each Member:
+
+     (i) on or before September 1, 2001, and each September 1 thereafter, the
+     Company shall forecast its annual sales and delivery requirements for each
+     of the Designated Products for the next calendar year (on a quarterly
+     basis) (the "Sales Forecast");
+
+     (ii) the Company shall also calculate a "Volume Allocation" of its Sales
+     Forecast between the Members for each Designated Product in proportion to
+     each Member's then current Base Year Volume or Modified Base Year Volume,
+     as the case may be, for each Designated Product contained in the Sales
+     Forecast so that 100% of the Sales Forecast for each such Designated
+     Product shall be so allocated between the Members. It is the intent of this
+     Volume Allocation to provide to each Member the right to elect to supply to
+     or sell through the Company in the succeeding calendar year a quantity of
+     each Designated Product equal to the Volume Allocation of that Designated
+     Product to that Member;
+
+     (iii) on or before September 2 of the calendar year in which this Volume
+     Allocation is made, the Company shall give each Member Written notice of
+     these Volume Allocations;
+
+     (iv) on or before October 1 of the calendar year in which these Volume
+     Allocations are so supplied to and received by the Members, each Member
+     shall independently determine and notify the Company in Writing of the
+     quantity of each Designated Product (not to exceed Member's applicable
+     Volume Allocation) that such Member is willing to commit to supply to or
+     sell through the Company for the succeeding calendar year (on a quarterly
+     basis) (each commitment being a "Sales Target") for that Designated
+     Product; and
+
+     (v) on or before October 5 of each such calendar year, the Company shall
+     provide to each Member the other Member's Sales Targets.
+
+      B. Failure of a Member to Accept Volume Allocations. If a Member's Sales
+Target for a Designated Product for a given calendar year is less than such
+Member's applicable Volume Allocation, then the other Member (the "Assuming
+Member") may assume the right and obligation solely during such calendar year
+to supply an additional amount of such Designated Product not to exceed the
+difference between the other Member's Volume Allocation and Sales Target for
+that Designated Product (the "Assumed Allocation"). Written notice of this
+election shall be given by the Assuming Member to the Company on or before
+October 10 of such calendar year.
+
+      C. Final Sales Commitments. On or before October 15 of each calendar year,
+the Company shall determine the final quantity of each Designated Product that
+each Member has committed to supply, which shall be the sum of such Member's (i)
+applicable Sales Target; and (ii) Assumed
+
+
+<PAGE>   7
+Allocation (collectively each such final quantity being a "Sales Commitment").
+The Company shall prepare and append to this Supply Agreement schedules showing
+the Sales Commitments so determined which shall be labeled "Sales Commitments
+for [Member's name] For January 1 through December 31, [year]".
+
+      D.   Midyear Increases In Sales Commitments. In the event that during the
+  course of any calendar year for which Sales Commitments have been established
+  the Company determines that there is increased demand for Designated Products
+  which the Members agree to supply in excess of the combined Sales Commitments
+  of the Members, that increased demand shall in the first instance be allocated
+  between the Members in proportion to the Sales Commitments determined for that
+  year, or if one Member does not elect to take that full allocation the other
+  Member may elect to fill that unmet allocation. In such event all necessary
+  modifications to the "Sales Commitments for [Member's name] For January 1
+  through December 31, [year]" schedule shall be promptly made. The failure of a
+  Member to accept this unmet allocation shall not subject to Member to the
+  provisions of Section 3.B.
+
+5.     CERTAIN RIGHTS AND REMEDIES RELATED TO SALES COMMITMENTS.
+
+      A.   Failure of the Company To Take Sales Commitments. The Company will
+purchase from the Members or otherwise sell on behalf of the Members all Sales
+Commitments. In the event the Company is unable to purchase from the Members or
+otherwise sell on behalf of the Members all Sales Commitments the Members shall
+absorb such shortfalls in proportion to the Member's respective Sales
+Commitments.
+
+      B.   Failure of Member to Supply Sales Commitments. The following rights
+and remedies apply if a Member (the "Non-Electing Member") fails to supply its
+entire Sales Commitment for any Designated Product either directly or through
+its Affiliates:
+
+         (i) The other Member (the "Electing Member") may, but is not obligated
+         to, provide some or all of any such unmet Sales Commitment. Upon making
+         that election, the Electing Member shall be solely responsible for and
+         shall pay any incremental costs related to supplying the unmet Sales
+         Commitment that is covered by this election.
+
+         (ii) With respect to that portion of the unmet Sales Commitment not
+         covered by the Electing Member's election under paragraph (i) above,
+         the Company shall determine (in its discretion) whether (1) to decline
+         to sell product to its actual or prospective customers due to
+         unavailability of such product, or (2) to purchase replacement product
+         on the open market to fulfill all or some portion of such unmet Sales
+         Commitment. Subject to the limitations of paragraphs (iii) and (iv)
+         below, the Non-Electing Member shall be solely responsible for and
+         shall pay all costs related to the Company's acquisition of this
+         replacement product and any other direct damages (but not including
+         consequential damages) in connection with its failure to satisfy its
+         Sales Commitment
+
+         (iii) If the Company intends to purchase replacement product on the
+         open market under clause (2) of paragraph (ii) above, the Company shall
+         give Written notice to the Non-Electing Member not less than twenty
+         (20) days prior to making any such purchase, and
+
+
+<PAGE>   8
+
+
+         the Non-Electing Member may instruct the Company in Writing within that
+         twenty days not to make any such purchases; provided that,
+         notwithstanding anything to the contrary contained herein, the
+         Non-Electing Member shall indemnify and hold the Company and Electing
+         Member harmless against all direct and consequential damages
+         (including, but not limited to, loss of future business) resulting from
+         the Company's compliance with the Non-Electing Member's instruction.
+
+         (iv) Absent such instruction, if the Company fulfills any or all of the
+         Non-Electing Member's unmet Sales Commitment through open market
+         purchases, the Non-Electing Member shall be responsible for and shall
+         reimburse the Company only for the amount of such open market purchases
+         in excess of $50,000 in any one calendar year.
+
+6.       PRICING.
+
+         The Company agrees to pay each Member for all Designated Product sold
+by that Member to the Company and acquired by the Company from the Member under
+this Supply Agreement the purchase prices established by this Section 6.
+
+     A. Initial Year Pricing. As soon as practicable, the Company and the
+Members shall agree to and confirm in writing the purchase prices for Designated
+Products to be sold by each Member and acquired by the Company from January 1
+through December 31, 2001.
+
+     B. Price Changes. No later than December 31, 2001 and each December 31 of
+each calendar year thereafter during the Term, the purchase prices for
+Designated Products shall be reviewed by the Board of Managers of the Company
+and adjustment, if any, for the following calendar year made, provided that any
+pricing factors leading to adjustments shall be equally applied to both Members.
+
+7.       TERM.
+
+         A. General. The term of this Supply Agreement (the "Term") shall
+commence as of the Effective Date and shall continue until expiration as
+provided below, unless earlier terminated pursuant to this Section 7. The
+initial term shall expire at the end of the day on December 31, 2003.
+Notwithstanding the foregoing, the initial term, and any subsequent renewal
+term, shall be automatically extended for successive one year renewal terms,
+unless terminated pursuant to Section 7.B.
+
+         B. Termination. This Supply Agreement shall immediately terminate upon
+the effective date of a dissolution of the Company under Section 12.2 of the
+Operating Agreement, subject only to the additional obligations related to the
+winding up of the Company under Article XII of the Operating Agreement or at
+such later date as the Members shall agree in writing.
+
+8.       OTHER MATTERS.
+
+<PAGE>   9
+
+
+         A. Product Warranty. The Company shall undertake to negotiate with
+customers for the Designated Products supplied by the Members under this Supply
+Agreement. In so doing the Company shall limit the product warranties given by
+the Company to such customers (the "Customer Warranties") to the warranties
+contained in this Section 8.A, unless otherwise agreed in writing by the
+supplying Member in which case the supplying Member shall warrant the applicable
+Designated Products to the full extent so agreed. With respect to all Designated
+Product produced by a Member or its Affiliates and sold to the Company to meet
+Sales Commitments, that Member warrants that at the time that title to such
+Designated Product passes to the Company, such Designated Product will (i)
+conform to the Specifications applicable thereto, (ii) not be adulterated or
+misbranded within the meaning of the Federal Food, Drug and Cosmetic Act, as
+amended (the "Act"), (iii) not be an article which may not under the provisions
+of Section 404 and 505 of the Act, be introduced into interstate commerce, and
+(iv) in the case of Products delivered to satisfy commitments of the Company
+under any of the Contributed Contracts (as defined in the Operating Agreement)
+contributed by such Member to the Company pursuant to Section 4.1 of the
+Operating Agreement, comply with any warranties contained in such Contributed
+Contracts. The warranties described in clauses (i) through (iv) are referred to
+as the "Member Warranties". The Company shall not make or extend any warranty to
+any customer or other third party on behalf of either Member. Notwithstanding
+the foregoing, for calendar year 2001, the Company may grant such Customer
+Warranties as either of the Members had granted to those same customers in
+calendar year 2000 (the "2000 Warranties").
+
+         B. DISCLAIMER. EXCEPT AS SET FORTH IN SECTION 8.A., NEITHER MEMBER
+MAKES ANY OTHER REPRESENTATION OR WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, AS
+TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR ANY OTHER MATTER WITH
+RESPECT TO THE PRODUCTS SUPPLIED HEREUNDER.
+
+         C. Cooperation. The Company shall notify the applicable Member in
+writing within 24 hours after becoming aware of any quality issues or customer
+complaints or claims regarding any products supplied hereunder by such Member.
+Such Member shall reasonably cooperate with the Company in connection with the
+Company's resolution of any such complaint or claim.
+
+         D. Claims. All claims regarding products supplied hereunder including,
+but not limited to, claims for any alleged shortage or claims that such products
+did not conform to the Member Warranty, shall be deemed waived by the Company
+unless made in writing and received by the Member supplying the applicable
+product within ten business days after the Company learns of the alleged claim
+but in no event later than six months after the date of shipment of such
+products from such Member's production facility. Upon a Member's receipt of any
+such claim notice alleging a breach of the Member Warranty, such Member shall
+determine whether such products conformed to such warranty. If such Member
+agrees that such products did not conform to such warranty, such Member shall
+(i) notify the Company thereof in writing and instruct the Company to either
+dispose of such products or deliver such products to a facility designated by
+such Member, and the Company shall do so at its own cost and expense; and (ii)
+either (a) replace such products, or (b) refund to the Company or the Company's
+customer the
+
+
+<PAGE>   10
+
+amount of the actual purchase price paid to such Member for such products net of
+any commission paid to the Company therefor. The remedies provided in clause
+(ii) above shall be the Company's sole and exclusive remedy for any claim by the
+Company that the applicable Member breached the Member Warranty.
+
+     E. Technical Information. Each Member shall provide such technical
+information and assistance as reasonably requested by the Company in connection
+with the products supplied hereunder including, but not limited to, information
+regarding such Member's quality systems and procedures in connection with such
+products. As among the Company and the Members, the Company shall be solely
+responsible for providing to its customers any technical information and
+assistance that the Company deems necessary or appropriate. If the Company
+obtains any field reports or other technical information that may be useful to a
+Member in connection with such products, the Company shall provide such field
+reports or other technical information to such Member.
+
+     F. Transfer of Title and Risk of Loss. Title and risk of loss for all
+products sold by the Members to the Company hereunder shall transfer to the
+Company upon the shipment of such products by freight carriers from the premises
+of the applicable production facility or as otherwise agreed by the Company and
+the applicable Member.
+
+9.   INDEMNIFICATION AND LIMITATION OF LIABILITY.
+
+     A. By the Company. The Company shall defend, indemnify and hold each Member
+and its Affiliates harmless from and against any and all claims, losses,
+damages, suits, costs (including reasonable attorneys' fees) and liabilities
+based upon or arising out of or in connection with (i) any violation by the
+Company of any law, regulation or order; (ii) any warranty, including the 2000
+Warranties, extended by the Company other than that the products supplied
+hereunder will conform to the Member Warranties; (iii) the handling, possession,
+use or disposal by the Company (or any third party that obtains such products in
+any form through or from the Company) of the products supplied hereunder,
+whether used in manufacturing, combined with other substances, or consumed in
+any manner; or (iv) the Company's negligence or willful misconduct.
+
+     B. By Corn Products. Corn Products shall defend, indemnify and hold the
+Company, MCP and MCP's Affiliates harmless from and against any and all claims,
+losses, damages, suits, costs (including reasonable attorneys' fees) and
+liabilities based upon or arising out of or in connection with (i) any failure
+of products supplied by Corn Products hereunder to conform to the Member
+Warranties; (ii) any violation by Corn Products of any of law, regulation or
+order; or (iii) Corn Products's negligence or willful misconduct.
+
+     C. By MCP. MCP shall defend, indemnify and hold the Company, Corn Products
+and Corn Products's Affiliates harmless from and against any and all claims,
+losses, damages, suits, costs (including reasonable attorneys' fees) and
+liabilities based upon or arising out of or in connection with (i) any failure
+of products supplied by MCP hereunder to conform to the Member Warranties; (ii)
+any violation by MCP of any of law, regulation or order; or (iii) MCP's
+negligence or willful misconduct.
+
+
+<PAGE>   11
+
+
+     D. EXCEPT AS OTHERWISE PROVIDED IN SECTION 5.B (iii) OR SECTION 10.B, NO
+PARTY SHALL BE LIABLE TO EITHER OF THE OTHER PARTIES FOR CONSEQUENTIAL,
+INDIRECT, SPECIAL, OR PUNITIVE DAMAGES.
+
+10.  CONFIDENTIALITY.
+
+     A. Members' Obligations. Each of the Members acknowledges that the
+confidential information and trade secrets of the other two parties shall be
+subject to Section 6.4 of the Operating Agreement as if each Member was the
+Company for the purposes of such section.
+
+     B. The Company's Obligation. During the Term, the Company shall not
+divulge, communicate, use to the detriment of a Member or for the benefit of any
+other Person, or misuse in any way, any confidential information or trade
+secrets of the Members or their Affiliates including, but not limited to,
+personnel information, secret processes, know-how, customer lists, formulas or
+other technical data, except as may be required by law, provided, however, that
+such prohibition shall not apply to any information which, (i) through no
+improper action of the Company, is publicly available or generally known in the
+industry; (ii) at the time of disclosure to the Company by any other party was
+already known to the Company as evidenced by the Company's written records;
+(iii) becomes available on a non-confidential basis from a source that is
+entitled to disclose it on a non-confidential basis, or (iv) was or is
+independently developed by or for the Company without reference to the
+confidential information, as evidenced by the Company's written records.
+
+     C. Equitable Relief. The parties acknowledge that a Member would be
+irreparably damaged by reason of any violation by the Company of the provisions
+of Section 6.B. in connection with such Member's confidential information and
+that any remedy at law for a breach by the Company of such provisions would be
+inadequate. Accordingly, such Member shall be entitled to seek and obtain
+injunctive or other equitable relief (including, but not limited to, a temporary
+restraining order, a temporary injunction or a permanent injunction) against any
+other party for a breach or threatened breach of such provisions and without the
+necessity of proving actual monetary loss. The parties acknowledge that this
+injunctive or other equitable relief shall not be such Member's exclusive remedy
+for any breach of Section 6.B., and such Member may seek any other relief or
+remedy that it may have by contract, statute, law or otherwise for any breach
+hereof. Such Member shall also be entitled to recover its attorneys' fees and
+expenses in any successful action or suit against the Company relating to any
+such breach.
+
+11.   FORCE MAJEURE.
+
+      If any party's performance of any of its duties or obligations under
+this Supply Agreement is prevented, hindered, delayed or otherwise made
+impracticable by reason of any strike, labor disturbance, flood, riot, fire,
+failure of transportation, unavailability of raw materials, civil unrest, act of
+the government, Act of God, natural disaster, explosion, equipment failure that
+is beyond such party's control, war or any other casualty which cannot be
+overcome by reasonable diligence and without unusual expense, such party shall,
+except as provided in
+
+
+<PAGE>   12
+Section 3.C, be excused from such performance to the extent that it is so
+prevented, hindered or delayed thereby during the continuance of any such
+happening or event and for so long as such event shall continue to prevent,
+hinder or delay such performance; provided, however, that such party diligently
+works to cure such non-performance in the shortest reasonable time period. The
+party asserting force majeure shall, in each instance, give the other party
+written notice within a reasonable time after becoming aware thereof. Such
+notice shall include a brief description of the events or circumstances of force
+majeure and an estimate of the anticipated duration. Within a reasonable time
+after knowledge of the cessation of any such continuing events or circumstances
+constituting force majeure, the party that asserted the same shall give the
+other parties written notice of the date of such cessation.
+
+12.  COMPLIANCE WITH LAWS.
+
+     A. General. Each Party shall comply with all laws, regulations, executive
+orders, and codes, applicable to it in connection with its performance
+hereunder.
+
+     B. The Company's Additional Obligations. The Company shall be responsible
+for proper transportation, storage, security, handling, accounting for, and
+protection from the elements, contamination, damage or destruction of products
+supplied hereunder while they are in its or its agent's control. The Company
+acknowledges that the such products are foodstuffs for human consumption and
+accordingly, special precautions as outlined in Part 110 of the Code of Federal
+Regulations must be undertaken to safeguard the same. The Company will store,
+handle, maintain, and transport such products in such a way as to prevent
+degradation of quality, contamination, or adulteration before sale to its
+customers.
+
+     C. Regulatory Inquiries. If the Company receives an inquiry from any
+governmental or regulatory agency regarding products supplied hereunder that
+could reasonably be expected to impact a Member or require a response from or
+action by a Member, the Company shall immediately notify such Member in writing.
+
+13.   FOOD LAW WARRANTY.
+
+      The Company warrants that the products supplied hereunder, as of the
+date of shipping to its customer or any other third party, (a) will not be
+adulterated or misbranded within the meaning of the Act, or an article which may
+not, under the provisions of Section 404 and 505 of the Act, be introduced into
+interstate commerce, or adulterated or misbranded within the meaning of the food
+laws of any state to which it is shipped; and (b) will be exempt or recognized
+as safe, for the conditions and quantities of intended use, within the meaning
+of the Food Additives Amendment of the Act.
+
+14.   DISPUTE RESOLUTION.
+
+
+<PAGE>   13
+
+
+     Any dispute, controversy or claim arising out of or in connection with this
+Supply Agreement shall be resolved in accordance with Article XIII of the
+Operating Agreement, and the Company shall be deemed to be a Member (as defined
+in the Operating Agreement) for purposes of this Section.
+
+15.  GOVERNING LAW.
+
+     This Supply Agreement shall be governed by and construed in accordance with
+the internal laws of the State of Delaware, without regard to principles of
+conflicts of laws.
+
+16.  ASSIGNMENT.
+
+     This Supply Agreement may not be assigned by any party except to (a) an
+Affiliate of such party; or (b) a transferee of all or substantially all of the
+business and assets of such party.
+
+17.  THIRD-PARTY BENEFICIARY.
+
+     Nothing contained herein shall create third party beneficiary rights in any
+third party including any customer of the Company.
+
+18.  NOTICES.
+
+     Notices hereunder shall be given to the respective party at the address set
+forth in the introduction to this Supply Agreement or such other address as
+shall be specified by the applicable party in a notice hereunder.
+
+19.  TRADEMARKS AND TRADE NAMES.
+
+     Nothing herein shall grant to the Company or a Member a right to register
+or use any trademark or trade name of the Company or the other Member without
+such other Member's prior written consent. The Company and each Member
+acknowledge that they have no right, title, or interest in or to the Company's
+or the other Member's trade name or in or to any such trademarks of the Company
+or the other Member.
+
+20.  MISCELLANEOUS.
+
+     A. All capitalized terms not defined herein shall have the meanings set
+forth in the Operating Agreement.
+
+     B. The invalidity or unenforceability of any particular provision of this
+Supply Agreement shall not affect any other provisions hereof, and this Supply
+Agreement shall be construed in all respects as if such invalid or unenforceable
+provision were omitted.
+
+     C. The headings of this Supply Agreement are for the convenience of the
+parties and shall not be construed as having any legal or binding meaning or
+effect.
+
+
+<PAGE>   14
+
+
+
+     D. The failure by any party to insist upon strict performance of any
+covenant or condition of this Supply Agreement, in any one or more instances,
+shall not be construed as a waiver or relinquishment of any such covenant or
+condition in the future, but the same shall be and remain in full force and
+effect.
+
+     E. This Supply Agreement and the Operating Agreement (i) constitute the
+entire understanding and agreement among the parties hereto with respect to the
+subject matter hereof; (ii) cancel and supersede any prior negotiations; and
+(iii) merge all understandings and agreements, whether verbal or written, with
+respect thereto. Each Member specifically rejects any additional, different, or
+inconsistent terms or conditions proposed by the Company. This Supply Agreement
+can be amended only by a written instrument executed by the parties hereto. In
+the event of a conflict between this Supply Agreement and any Exhibit hereto,
+the terms of this Supply Agreement shall govern.
+
+      IN WITNESS WHEREOF, the parties have executed this Supply Agreement as
+of the date first above written.
+
+
+CORN PRODUCTS INTERNATIONAL, INC.        MINNESOTA CORN PROCESSORS, LLC
+
+
+By:  /s/ Michael Pyatt                   By: /s/ L. Dan Thompson
+     ------------------                      ------------------
+
+
+Title: Vice President                    Title: President/CEO
+      -----------------                        ----------------
+
+
+
+CORNPRODUCTSMCP SWEETENERS LLC
+
+
+By:  /s/ Stanley L. Sitton
+     ---------------------
+
+
+Title: President & CEO
+       ----------------
+
+
+</TEXT>
+</DOCUMENT>

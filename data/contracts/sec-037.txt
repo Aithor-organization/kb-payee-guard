@@ -1,0 +1,1668 @@
+EX-10.43
+9
+d260205dex1043.htm
+SUPPLY AGREEMENT
+
+Supply Agreement
+
+EXHIBIT 10.43 
+ 
+***Text Omitted and Filed Separately 
+ 
+with the Securities and Exchange
+Commission. 
+ 
+Confidential Treatment Requested 
+ 
+Under 17 C.F.R. Sections 200.80(b)(4) 
+ 
+and 240.24b-2. 
+
+SUPPLY AGREEMENT 
+ 
+BETWEEN 
+ 
+ALKERMES, INC.
+
+AND 
+ 
+AMYLIN OHIO LLC 
+
+SUPPLY AGREEMENT 
+
+THIS SUPPLY AGREEMENT (“Agreement”) is made and
+entered into as of December 19, 2007 (the “Effective Date”) by and between Alkermes, Inc., a Pennsylvania corporation having a principal place of business at 88 Sidney Street, Cambridge, MA 02139 (“Alkermes”),
+and Amylin Ohio LLC, a Delaware limited liability company having a principal place of business at 8814 Trade Port Drive, West Chester, OH 45071 (“Amylin”) (collectively, the “Parties” or individually, a
+“Party”). 
+ 
+RECITALS: 
+
+WHEREAS, Alkermes and Amylin Pharmaceuticals, Inc., the parent company of Amylin (“Amylin
+Parent”), entered into the Technology Transfer Agreement (as defined below), pursuant to which Alkermes and Amylin Parent agreed that Alkermes would manufacture and supply Polymer Product (as defined below) to Amylin; and 
+
+WHEREAS, Alkermes hereby agrees to manufacture and supply, and Amylin hereby agrees to purchase, Polymer Product on
+the terms and conditions set forth herein. 
+ 
+AGREEMENT: 
+
+NOW, THEREFORE, for good and valuable consideration, the receipt and sufficiency of which is hereby
+acknowledged, Alkermes and Amylin agree as follows: 
+ 
+Article 1 
+
+Definitions 
+ 
+Capitalized terms used in this Agreement, whether used in the singular or plural, will have the meanings set forth below, unless otherwise specifically indicated herein. In the event of a conflict between
+the definition of a term contained herein and the definition of such term in the Technology Transfer Agreement or the Development and License Agreement, this Agreement will control. 
+
+1.1 “Affiliate” of a Party means any entity controlled by, controlling or under common control with such Party. For
+purposes of this Section 1.1, “control” denotes the ownership of fifty percent (50%) or more of the voting stock or voting equity interests of such entity. An entity will only be considered an Affiliate for so long as
+such control exists. For the avoidance of doubt, Amylin Parent is an Affiliate of Amylin. 
+ 
+1.2 “Alkermes
+Facility” means that portion of the Alkermes manufacturing facility located in Wilmington, Ohio in which Alkermes intends to Manufacture Polymer Product, including areas such as warehouse space, quality control laboratories, or office space
+that may be used for both Polymer Product and other products. 
+
+1 
+
+1.3 “Allocable Overhead” means costs incurred by
+Alkermes or for its account which are attributable to Alkermes’ costs of [*…***…], in all cases as applied by Alkermes in accordance with GAAP and Alkermes’ accounting standards on a consistent basis.
+
+1.4 “Batch” means the amount of Polymer Product produced during one production run. 
+
+1.5 “Business Day” means a day on which banking institutions in both West Chester, Ohio and Cambridge, Massachusetts are
+open for business. 
+ 
+1.6 “Calendar Quarter” means a three-month period ending on
+March 31, June 30, September 30, or December 31. 
+ 
+1.7 “Calendar Year” means the
+twelve-month period ending on December 31. 
+ 
+1.8 “Capital Equipment” is defined in Section 3.1.
+
+1.9 “Certificate of Analysis and Compliance” means the certificate for each Batch of Polymer Product
+delivered hereunder listing the tests performed, the test specifications and the test results and certifying that such Batch was Manufactured in accordance with cGMPs. 
+ 
+1.10 “cGMPs” means current good manufacturing practices as defined in the U.S. Code of Federal Regulations, 21 CFR Part 210 et seq., and the European Union Guide to Good Manufacturing
+Practices for Medicinal Products (Vol. IV Rules Governing Medicinal Products in the European Union 2004). 
+ 
+1.11
+“Clinical Requirements” means the amount of Polymer Product needed by Amylin, Amylin Parent and Collaboration Partner for the conduct of clinical studies of Exenatide LAR pursuant to the Development and License Agreement. 
+
+1.12 “Collaboration Partner” means Amylin Parent’s collaboration partner, Eli Lilly and Company, and its successors
+and assigns. 
+ 
+1.13 “Confidential Information” means information relating to the subject matter of this
+Agreement, provided by one Party to the other Party and identified as “Confidential”; provided, however, that Confidential Information will not include any such information that: 
+
+(a) was known to the receiving Party at the time of disclosure by the disclosing Party (other than through prior receipt from the
+disclosing Party or its Affiliates), as can be established by written documentation; 
+ 
+(b) was generally available to
+the public or was otherwise part of the public domain at the time of such disclosure or became generally available to the public or otherwise part of the public domain after such disclosure other than through any act or omission of the receiving
+Party in breach of this Agreement; 
+
+* ***Confidential Treatment Requested 
+
+2 
+
+(c) became known to the receiving Party after disclosure by the disclosing Party
+through a non-confidential disclosure from a source that had a lawful right to disclose such information to others, as can be established by appropriate documentation; or 
+ 
+(d) was independently developed by the receiving Party where such independent development can be established by written documentation. 
+ 
+The Confidential Information of a Party specifically includes any information that is identified as the Confidential Information of such Party under this Agreement. 
+
+1.14 “Controlled” means the ability to grant a license or sublicense as provided for herein without violating the terms
+of any agreement or other arrangement with any Third Person. 
+ 
+1.15 “Development and License Agreement” means
+that certain Development and License Agreement, entered into effective as of May 15, 2000, by and between Alkermes and Amylin Parent, as amended on October 24, 2005 and as such agreement may be amended from time to time. 
+
+1.16 “DMF” means the drug master file for the Polymer Product, and any amendments and supplements thereto, submitted to
+the FDA by or on behalf of Alkermes, which will contain all necessary information concerning the Polymer Product, its composition, and Manufacture. All information in the DMF will be deemed to be the Confidential Information of Alkermes. 
+
+1.17 “Exenatide LAR” will have the meaning set forth in the Technology Transfer Agreement. 
+
+1.18 “FDA” means the United States Food and Drug Administration, or any successor agency having the administrative
+authority to regulate the approval for marketing of new human pharmaceutical and biological therapeutic products in the United States. 
+ 
+1.19 “Firm PO” is defined in Section 3.4(a). 
+ 
+1.20
+“Firm Zone” is defined in Section 3.3(d). 
+ 
+1.21 “[*…***…] Forecast” means a […***…] forecast of the Clinical Requirements and the Requirements in each year of such forecast, starting with the next Calendar Year (i.e., the Calendar Year following the due
+date of such forecast), provided that the forecast for the […***…] will be broken down by Calendar Quarter. 
+ 
+1.22 “Flexible Zone” is defined in Section 3.3(d). 
+ 
+1.23
+“Fully Burdened Manufacturing Costs” means the sum of the following costs incurred by Alkermes to the extent allocable to the Manufacture of Polymer Product: […***…]. The Fully Burdened Manufacturing Cost will be calculated
+in a manner consistent with GAAP consistently applied. 
+ 
+1.24 “GAAP” means United States generally accepted
+accounting principles. 
+
+* ***Confidential Treatment Requested 
+
+3 
+
+1.25 “Information” means any and all information, data, items, material and
+knowledge, including any and all suggestions, descriptions, ideas, inventions (whether or not patentable), know-how, trade secrets, techniques, strategies, methods, syntheses, processes, practices, skills, experience, documents, apparatus, devices,
+chemical formulations, compounds, compositions of matter, chemical samples, assays, screens, databases, database structures and data analysis methods. 
+ 
+1.26 “Interest Rate” means an interest rate of [*…***…] percent ([…***…]%) per annum, computed for the number of days actually elapsed and a year of three hundred
+sixty-five (365) days. 
+ 
+1.27 “Joint Services Document” or “JSD” is defined in
+Section 2.4. 
+ 
+1.28 “Latent Defect” means a defect that causes a Batch of the Polymer Product to fail to
+conform to the Specifications, which defect is not discoverable upon testing performed pursuant to Section 3.9(a) but is discovered at a later time. 
+ 
+1.29 “Manufacture” means the performance of all operations involved in the development, manufacture, quality control testing (including in process, release and stability testing, if
+applicable), release, shipment and storage (if applicable) of Polymer Product. 
+ 
+1.30 “Manufacturing FTE Hourly
+Rate” means […***…]. 
+ 
+1.31 “Outbound Costs” means any outbound costs associated with the
+delivery of the Polymer Product, including costs related to […***…]. 
+ 
+1.32 “Person” means a natural
+person, a corporation, a partnership, a trust, a joint venture, a limited liability company, any governmental authority or any other entity or organization. 
+ 
+1.33 “Polymer” means […***…]. 
+ 
+1.34 “Polymer
+Manufacturing Know-How” means Information that is (i) owned or Controlled by Alkermes and (ii) necessary to permit Manufacture of Polymer Product comparable to the Polymer Product Manufactured by Alkermes at the time of the
+technology transfer pursuant to Section 6.1. 
+ 
+1.35 “Polymer Product” means product comprising Polymer
+[…***…] and supplied in bulk form. 
+ 
+1.36 “Polymer Technology Transfer Agreement” is defined in
+Section 6.1. 
+ 
+1.37 “Quality Agreement” means a document specifying the quality responsibilities and
+requirements relating to the Manufacture and supply of Polymer Product which will be developed, agreed upon and updated by the Parties in accordance with Section 3.8(a). 
+ 
+1.38 “Recall” means any action by Amylin, Amylin Parent or Collaboration Partner to recover title to or possession of, or to prevent the distribution, prescription, consumption or
+
+* ***Confidential Treatment Requested 
+
+4 
+
+release of, Exenatide LAR sold or shipped to Third Persons. The term “Recall” also includes the failure by Amylin, Amylin Parent or Collaboration Partner to sell or ship
+Exenatide LAR to Third Persons that would have been subject to recall if it had been sold or shipped. 
+ 
+1.39
+“Regulatory Authority” means (i) the FDA or (ii) any regulatory body with similar regulatory authority with respect to human pharmaceutical or biological therapeutic products in any other jurisdiction anywhere in the world.
+
+1.40 “Requirements” means the amount of Polymer Product needed by Amylin, Amylin Parent and Collaboration
+Partner for marketing and sale of Exenatide LAR anywhere in the world. 
+ 
+1.41 “Release Date” is defined in
+Section 3.9. 
+ 
+1.42 “Rolling Quarterly Forecast” means a rolling [*…***…]
+ Calendar Quarter forecast specifying the Clinical Requirements and the Requirements for each Calendar Quarter of such forecast, starting with the Calendar Quarter following the due date of such forecast. 
+
+1.43 “Seizure” means any action by any Regulatory Authority to detain or destroy Exenatide LAR or prevent the
+distribution, prescription, consumption or release of Exenatide LAR. 
+ 
+1.44 “Site Management Team” is defined
+in Section 2.1. 
+ 
+1.45 “Specifications” means the specifications for the Manufacture of the Polymer
+Product, as such specifications may be amended by agreement of the Parties from time to time. Representative Specifications are attached hereto as Exhibit A. 
+ 
+1.46 “Steering Committee” is defined in Section 2.6. 
+
+1.47 “Term” is defined in Section 8.1. 
+ 
+1.48 “Technology Transfer Agreement” means that certain Technology Transfer and Construction Management Agreement, entered into effective as of October 24, 2005, by and between
+Alkermes and Amylin Parent, as amended on July 15, 2007 and as such agreement may be amended from time to time. 
+ 
+1.49
+“Third Person” means any Person other than Amylin, Alkermes, or an Affiliate of either of them. 
+ 
+1.50
+“Total Requirements” is defined in Section 3.3(e). 
+ 
+1.51 “Waste” means any
+“hazardous substance” and/or “hazardous material” as provided under the Comprehensive Environmental Response, Compensation and Liability Act (CERCLA), any “hazardous waste” as provided under the
+Resource Conservation and Recovery Act (RCRA), and/or any other waste material, pollutant and/or contaminant of any kind 
+
+* ***Confidential Treatment Requested 
+
+5 
+
+including any routine process waste or any by-product arising from Manufacture of the Polymer Product pursuant to this Agreement. 
+
+Article 2 
+ 
+Oversight/Governance 
+ 
+2.1 Site Management
+Team. Within thirty (30) days after the Effective Date, the Parties will appoint a team, consisting of Amylin representatives and Alkermes representatives, from the areas of manufacturing, quality, technical
+services, supply operations, supply agreements, or supply chain management (the “Site Management Team”). The Site Management Team will consist of such number of representatives of each Party as the Parties may agree, it being
+understood that the Site Management Team need not comprise an equal number of representatives from each Party. Either Party may replace its representatives on the Site Management Team by written notice of such change to the other Party. The Site
+Management Team leader will be appointed by Alkermes. 
+ 
+2.2 Role. The Site Management Team will discuss matters
+related to this Agreement, including forecasts and delivery schedules for the Polymer Product, proposed changes to the Specifications and any budget required for the conduct of activities pursuant to this Agreement, including the purchase of Capital
+Equipment. The responsibilities and operation of the Site Management Team will be more fully set forth in the JSD. The Site Management Team will be responsible for reviewing and, upon mutual agreement, revising, as appropriate, the JSD in accordance
+with its terms. 
+ 
+2.3 Meetings. The Site Management Team will meet as frequently as necessary to fulfill its
+responsibilities. It is anticipated that meetings will be held at least four (4) times per Calendar Year. The Site Management Team leader will establish the timing and agenda for all Site Management Team meetings and will send notice of such
+meetings, including the agenda therefor, to all Site Management Team members; provided, however, that either Party may request that specific items be included in the agenda and may request that additional meetings be scheduled as needed. The
+location of the meetings will alternate between the Alkermes Facility and Amylin’s plant in West Chester, Ohio, with the first meeting being held at the Alkermes Facility. Meetings of the Site Management Team may be conducted by telephone if
+both Parties so agree. The Party hosting the meeting will prepare minutes of any meeting setting forth decisions of the Site Management Team. Such minutes will be circulated to all members of the Site Management Team promptly following the meeting
+for review, comment and approval. If no comments are received within fifteen (15) Business Days of the minutes’ receipt by a Party, unless otherwise agreed, they will be deemed to be approved by such Party. Each Party will be responsible
+for its expenses associated with attendance of its employees at meetings of the Site Management Team. 
+ 
+2.4
+JSD. The Joint Services Document or JSD is a written document that will set forth certain procedures and personnel contacts relating to the Manufacture of the Polymer Product. The Parties agree to negotiate in good faith and use
+diligent efforts to enter into the JSD as soon as practicable after the Effective Date but, in any event, within six (6) months after the Effective Date. The JSD will explain how Amylin and Alkermes will work together to manage the logistics of
+their relationship with respect to the Manufacture of Polymer Product by Alkermes for Amylin. The JSD is intended to serve as a reference manual that describes the 
+
+6 
+
+specifics of the “who,” “what,” “when,” and “how” of the interactions between Amylin and Alkermes with respect to the Manufacture of Polymer Product. In
+the event of a conflict between the JSD and this Agreement, this Agreement will govern and control. In the event of a conflict between the JSD and the Quality Agreement, the Quality Agreement will govern and control. Amylin and Alkermes will
+distribute the JSD to all appropriate individuals within their organizations. The JSD will be written recognizing that both Parties may want to regularly review the document to ensure that it reflects current procedures and logistics with respect to
+the Manufacture of the Polymer Product. With the mutual agreement of the Parties, the JSD will be revised or refined, as appropriate. 
+ 
+2.5 Decisions. Decisions of the Site Management Team will be made by unanimous vote, with each Party entitled to one vote. No vote of the Site Management Team may be taken unless at least one
+(1) representative of each Party is present. If the Site Management Team is unable to reach a unanimous vote on any issue within ten (10) days (or such other period that the Parties may agree upon) after it has met and attempted to reach
+such consensus in good faith, then the issue will be referred to the line managers at each Party (as identified by the JSD) who are responsible for the principal activity or function implicated by the issue. If these individuals are unable to
+resolve the issue within ten (10) days (or such other period that the Parties may agree upon) of its referral, or if the Parties are unable to agree upon the identity of these line managers, then the issue will be referred to the Steering
+Committee for resolution in accordance with Section 2.6. 
+ 
+2.6 Steering Committee. Within thirty (30) days
+after the Effective Date, the Parties will appoint a committee to oversee and manage the Parties’ interaction, and provide any necessary dispute resolution, with respect to the Manufacture of the Polymer Product (the “Steering
+Committee”). The Steering Committee will comprise two representatives appointed by each of the Parties, including Alkermes’ Senior Vice President and Chief Operating Officer (or successor position) and Amylin Parent’s Vice
+President of Operations (or successor position). Either Party may replace any or all of its representatives to the Steering Committee at any time on written notice to the other Party. The Steering Committee will meet to settle disputes that are
+unresolved by the Site Management Team and appropriate line managers in accordance with Section 2.5. Meetings of the Steering Committee may be conducted by telephone if the Parties so agree. Decisions of the Steering Committee will be made by
+unanimous vote, with each Party entitled to one vote; provided, however, that any matters affecting the Alkermes Facility and its operations in general rather than pertaining specifically to the Manufacture of the Polymer Product will be
+finally decided by Alkermes’ Senior Vice President and Chief Operating Officer (or successor position). No vote of the Steering Committee may be taken unless at least one (1) representative of each Party is present. If the Steering
+Committee is not able to resolve any dispute regarding any issue presented to it within ten (10) days (or such other period that the Parties may agree upon) of its referral, then the issue will be referred to Amylin’s Senior Vice
+President, Corporate Development (or successor position), who will make the final decision regarding such issue. 
+ 
+2.7
+Operations During Dispute Resolution. Unless Amylin directs otherwise, Manufacture of Polymer Product will continue until such time as the Parties reach agreement on any issue subject to resolution pursuant to Sections 2.5 and 2.6 hereof;
+provided, however, that neither Party will have any obligation to incur any costs, or to perform any related activities, if such costs would be in dispute if incurred. In addition, the Parties agree that neither Party will be
+
+7 
+
+liable to the other, nor be deemed to be in breach of this Agreement, either if that Party is acting in accordance with the express direction of the other Party or if that Party’s ability to
+perform its obligations hereunder could reasonably be deemed to be impaired by a decision of the other Party. This includes, in the case of Alkermes, any failure to Manufacture Polymer Product in a manner that would permit Alkermes to meet its
+obligations under this Agreement. 
+ 
+2.8 Authority. No decisions of the Site Management Team, the Steering Committee or
+of any Party’s executive entitled to make the final decision on any matter hereunder will contravene the contractual rights and obligations of each Party under this Agreement. Any disputes regarding the interpretation, breach, termination or
+invalidity of this Agreement will be resolved in accordance with the dispute resolution process set forth in Section 10.3. 
+
+Article 3 
+ 
+Supply of Polymer Product 
+ 
+3.1 Purchase and Installation of Capital
+Equipment. Alkermes will be responsible for purchasing and installing at the Alkermes Facility the capital equipment required to support the Manufacture of Polymer Product that is listed on Exhibit B, as such exhibit may be updated from
+time to time (“Capital Equipment”). The Capital Equipment will be the property of Amylin. Alkermes will place asset tags on each distinguishable piece of Capital Equipment identifying it as Amylin property. Such asset tags may not
+be removed without Amylin’s prior written consent. Alkermes will be solely responsible for the maintenance and repair of the Capital Equipment and will provide Amylin with a maintenance program for the Capital Equipment. The costs of purchasing
+Capital Equipment and the installation labor for the maintenance and repair of Capital Equipment will be charged to Amylin pursuant to Section 4.1; other maintenance and repair costs for the Capital Equipment will be included in Fully Burdened
+Manufacturing Costs. As Alkermes is purchasing the Capital Equipment on Amylin’s behalf, Amylin will be responsible for paying any taxes, including personal property and sales taxes, that may accrue with respect to the purchase and ownership of
+the Capital Equipment. Amylin will insure the Capital Equipment in appropriate amounts in accordance with reasonable commercial standards. Notwithstanding Amylin’s ownership of the Capital Equipment, Alkermes will have the right to utilize the
+Capital Equipment to produce products other than Polymer Product; provided, however, that Alkermes will first utilize the Capital Equipment to fulfill its obligations under this Agreement with respect to the Manufacture of Polymer Product.
+
+3.2 Purchase and Supply of Polymer Product. 
+ 
+(a) Clinical Requirements. During the Term, and subject to the terms and conditions hereof, Alkermes agrees to supply to Amylin, and Amylin agrees to purchase exclusively from Alkermes, the
+Clinical Requirements. 
+ 
+(b) Requirements. During the Term, and subject to the terms and conditions hereof, Alkermes
+agrees to supply to Amylin, and Amylin agrees to purchase exclusively from Alkermes, the Requirements. 
+ 
+3.3 Forecasts.
+
+8 
+
+(a) Initial Forecast. Within [*…***…] of the Effective Date, Amylin will provide to
+Alkermes both a Rolling Quarterly Forecast and a […***…] Forecast of expected Clinical Requirements and Requirements. 
+
+(b) Forecasts Due Periodically. Thereafter during the Term, Amylin will provide to Alkermes: 
+
+(i) a Rolling Quarterly Forecast, no later than the first day of each Calendar Quarter; and 
+
+(ii) a […***…] Forecast, on or before December 31st of
+each year. 
+ 
+Amylin agrees to use commercially reasonable efforts in preparing all forecasts provided hereunder to
+minimize variances between forecasts. All forecasts provided by Amylin will be good faith estimates of Amylin’s Clinical Requirements and Requirements for Polymer Product. 
+
+(c) Forecast Breakdowns. All of the forecasts provided under this Agreement will break down the amount of Polymer Product by
+weight. 
+ 
+(d) Firm Zone and Flexible Zone; Volume Limitations. Amylin will be obligated to purchase […***…] of
+Polymer Product specified for the first Calendar Quarter of each Rolling Quarterly Forecast (each such Calendar Quarter will be referred to as the “Firm Zone”), and Amylin will be obligated to purchase […***…] of Polymer
+Product specified for the second Calendar Quarter of each Rolling Quarterly Forecast (each such Calendar Quarter will be referred to as the “Flexible Zone”). Amylin may increase or decrease the amount of Polymer Product forecast for
+each Calendar Quarter of each Rolling Quarterly Forecast by up to […***…] of Polymer Product that was forecast for the comparable Calendar Quarter in the prior Rolling Quarterly Forecast provided in accordance with this Agreement (e.g.,
+the forecast for the third Calendar Quarter in a Rolling Quarterly Forecast may not increase or decrease by more than […***…] the amount of Polymer Product forecast for the fourth Calendar Quarter of the prior Rolling Quarterly Forecast).
+The Parties agree that except with respect to the Firm Zone and the Flexible Zone thereof no Rolling Quarterly Forecast provided by Amylin will be binding upon Amylin. 
+ 
+(e) Minimum Purchase. For each Calendar Year during the Term, Amylin will be obligated to purchase at a minimum […***…] of the total amount of Polymer Product specified for this
+period in the initial Rolling Quarterly Forecast and in each new Rolling Quarterly Forecast provided in accordance with this Agreement (such total amount, the “Total Requirements”). Within thirty (30) days of the end of each
+Calendar Year, Alkermes will calculate the Total Requirements for that Calendar Year. If Amylin has not purchased the Total Requirements for that Calendar Year, then Alkermes will invoice Amylin in U.S. Dollars for an amount equal to the product of:
+
+(i) the difference between (A) the Total Requirements for that Calendar Year and (B) the amount of Polymer
+Product that Amylin has purchased during that Calendar Year, and 
+
+* ***Confidential Treatment Requested 
+
+9 
+
+(ii) the weighted (by sales volume) average purchase price for Polymer Product
+during that Calendar Year, 
+ 
+and Amylin will pay such invoice within [*…***…] of the invoice date. 
+
+3.4 Firm Purchase Orders for Polymer Product. 
+ 
+(a) Delivery of POs. Amylin will submit to Alkermes on a Calendar Quarter basis firm purchase orders (each, a “Firm PO”) for the Clinical Requirements and the Requirements at
+least […***…] prior to the requested delivery date. The details of a Firm PO will be consistent with the amount of Polymer Product forecast for either the Firm Zone or the Flexible Zone, as applicable; provided, however, that
+in the Firm PO Amylin may order up to […***…] of the amount of Polymer Product forecast for either the Firm Zone or Flexible Zone, as applicable. Amylin agrees that if the amount of Polymer Product ordered pursuant to a Firm PO
+exceeds […***…] of the amount of Polymer Product forecast for the Firm Zone or the Flexible Zone, as applicable, Alkermes may not be able to deliver such Polymer Product in accordance with the terms of such Firm PO, but will use its
+commercially reasonable efforts to deliver such Polymer Product and will confer with Amylin regarding such delivery in accordance with Section 3.5. 
+ 
+(b) Cancellation of POs. Subject to Amylin’s purchase obligations set forth in Section 3.3(d) and (e), Amylin may cancel or postpone any Firm PO by providing Alkermes written notice at
+least […***…] prior to the delivery date specified in that Firm PO. In the event that Amylin cancels any Firm PO, Amylin will reimburse Alkermes for the purchase price of the Polymer Product ordered pursuant to such Firm PO calculated in
+accordance with Section 4.2 (minus the cost of any Polymer or other raw materials acquired in contemplation of filling such Firm PO that are returned or otherwise utilized by Alkermes, and Alkermes will use reasonable efforts to return or
+otherwise utilize such Polymer or raw materials). Any Polymer Product Manufactured pursuant to a cancelled Firm PO will be delivered to Amylin in accordance with the terms of this Agreement. 
+
+(c) Batch Amounts. Notwithstanding Amylin’s delivery of Firm POs for Polymer Product, Alkermes will be obligated to
+Manufacture and ship Polymer Product only in full Batch amounts. In the event the amount of Polymer Product Manufactured by Alkermes pursuant to any Firm PO exceeds by more than […***…] the amount of Polymer Product ordered by such Firm
+PO, then Alkermes will deliver such additional amount of Polymer Product to Amylin as early delivery of Polymer Product ordered by Amylin on the next Firm PO. In the event the amount of Polymer Product Manufactured by Alkermes pursuant to any Firm
+PO is more than […***…] less than the amount of Polymer Product ordered by such Firm PO, then the amount of Polymer Product ordered in the next Firm PO will be increased by the amount of Polymer Product not Manufactured, unless Amylin
+notifies Alkermes that it does not wish this amount to be increased. 
+ 
+(d) Terms. Each Firm PO will specify
+(i) the amount of Polymer Product by weight, divided into the amount of Polymer Product ordered to meet the Clinical Requirements and the amount ordered to meet the Requirements; (ii) the month of delivery Ex Works 
+
+* ***Confidential Treatment Requested 
+
+10 
+
+(Incoterms 2000) the Alkermes Facility; (iii) the carrier; and (iv) the destination, subject to the limitations set forth in Section 3.6. The only terms of a Firm PO that
+will be binding on the Parties will be those identified in this Section 3.4(d) that are set forth on the face of such Firm PO. No modification or amendment to this Agreement will be effected by or result from the receipt, acceptance, signing or
+acknowledgment of any Party’s purchase orders, quotations, invoices, shipping documents or other business forms containing terms or conditions in addition to or different from the terms and conditions set forth in this Agreement, and the terms
+of this Agreement will supersede any provision in any purchase order, specification or other document that is in addition to or inconsistent with the terms of this Agreement. 
+
+(e) Acknowledgement. Within [*…***…] of receiving a Firm PO, Alkermes will give written notice to Amylin specifying the acceptance
+of such Firm PO unless the terms of such Firm PO are not in accordance with the provisions of this Agreement. In the event that Alkermes does not accept a Firm PO, the Parties will promptly consult with each other to resolve the
+underlying issues as promptly as possible, and such Firm PO will be modified accordingly. Firm POs may neither be canceled nor modified by either Party, except as expressly provided in this Agreement. 
+
+3.5 Delivery Dates. Alkermes will deliver Polymer Product in accordance with Firm POs, as such may have been modified, solely
+in accordance with the provisions of this Agreement. If Alkermes reasonably expects any delay in shipment to Amylin, it will promptly inform Amylin of such expected delay, will immediately update the delivery schedule and will use its commercially
+reasonable efforts to minimize the delay. The Parties acknowledge and agree that within the period beginning on the Effective Date and ending two (2) years thereafter (the “Initial Manufacturing Period”), Alkermes will be
+refining its procedures for the Manufacture of Polymer Product and accordingly delays in the delivery of Polymer Product are more likely to occur during such period. Delays of less than thirty (30) days during the Initial Manufacturing Period
+will not constitute a breach of Alkermes’ supply obligations hereunder provided Alkermes uses its commercially reasonable efforts to minimize such delays. 
+ 
+3.6 Shipment. 
+ 
+(a) Terms. Alkermes will ship the Polymer Product to
+such destinations chosen by Amylin to the extent that such shipments are permitted by law, given the regulatory requirements of the United States and the importing country. Polymer Product will be delivered Ex Works (Incoterms 2000) the
+Alkermes Facility. Alkermes will arrange for the delivery of the Polymer Product to the carrier specified in the applicable Firm PO. Notwithstanding anything to the contrary, (i) Amylin will be the importer of record of each shipment of
+Polymer Product; and (ii) Amylin will be responsible, and pay Third Persons directly, for all Outbound Costs from the Alkermes Facility to the destinations of the Polymer Product. Alkermes will pack and address the Polymer Product in accordance
+with the Firm POs. 
+ 
+(b) Shipping Documents. Alkermes will send with each shipment of the Polymer Product a packing
+list containing the Amylin material description/code, purchase order number, Batch number, Manufacturing date, and total amount delivered by weight. 
+
+* ***Confidential Treatment Requested 
+
+11 
+
+(c) Shelf Life of Polymer Product at Time of Shipment. Unless otherwise agreed by the
+Parties, Alkermes will ensure that any Polymer Product has a minimum number of months of shelf life remaining at the time that it is shipped to Amylin, as agreed by the Parties in the Quality Agreement. 
+
+3.7 Certificate of Analysis and Compliance. Alkermes will obtain representative samples from each Batch of Polymer Product
+Manufactured by Alkermes. Alkermes will assay and analyze such samples in accordance with the Specifications and will prepare a Certificate of Analysis and Compliance that will be delivered to Amylin pursuant to Section 3.9. The Certificate of
+Analysis and Compliance provided by Alkermes will include the following: Batch number, Quality Signature (name, title, signature, and date signature applied), test, test method, test specification and test result. Alkermes will supply Amylin with a
+Material Safety Data sheet for Polymer Product and any material additional information that the Alkermes Quality Department is aware of and can readily obtain, including Occupational Exposure Limit (OEL) documentation, concerning any health hazards
+or potential health hazards associated with exposure to, or the handling, storage, use or disposal of, Polymer Product. Notwithstanding the foregoing, Alkermes will immediately (and in any event within two (2) Business Days) notify Amylin of
+any safety or toxicity problem that the Alkermes Quality Department becomes aware of regarding Polymer Product. 
+ 
+3.8
+Quality Control and Quality Assurance; Regulatory. 
+ 
+(a) Quality Agreement. Within six (6) months after the
+Effective Date, the Parties agree to negotiate in good faith and use diligent efforts to enter into a Quality Agreement setting forth the individual quality responsibilities of Alkermes and Amylin with respect to the Manufacture of Polymer Product.
+The Quality Agreement will be reviewed regularly by the quality departments of the respective Parties and, upon mutual agreement, revised and updated as necessary. In the event of a conflict between the Quality Agreement and this Agreement, this
+Agreement will govern and control. 
+ 
+(b) Audits by Amylin. With respect to Polymer Product Manufactured and supplied to
+Amylin hereunder, Amylin will have the right, upon written request at a mutually agreeable time and at its own expense, to review annually Alkermes’ quality control and assurance procedures and records, and to visit those sections of the
+Alkermes Facility used in such Manufacture and supply in order to assure compliance with this Agreement, the Specifications, cGMPs and other applicable laws, and the Quality Agreement. In addition to such annual audits, Amylin may conduct “for
+cause” audits. Amylin may be accompanied during any audit by an appropriate representative of its Collaboration Partner, and Amylin will be responsible for coordinating the details of such audit with its Collaboration Partner. All such audits
+will be conducted in accordance with the provisions of the Quality Agreement. In addition, Alkermes will use commercially reasonable efforts to obtain approval from any Third Person that Manufactures Polymer or Polymer Product, as applicable, in
+accordance with Section 3.13 for Amylin and its Collaboration Partner to participate in Alkermes’ quality assurance audits of such manufacturer’s facilities in which it Manufactures Polymer or Polymer Product, as applicable. Amylin
+and its Collaboration Partner will be subject to any terms and conditions imposed by the Third Person manufacturer with respect to such audit and Amylin will be responsible for coordinating the details of any such Third Person audit with its
+Collaboration Partner. Amylin agrees that Confidential Information of Alkermes will include any documents (including any made available in electronic form) and data provided to Amylin or its 
+
+12 
+
+Collaboration Partner for the purpose of any such audits and any other information received by Amylin or its Collaboration Partner, whether in writing, orally or by observation, while
+on-site at the Alkermes Facility or a Third Person manufacturer’s facility to perform such audits or during the course of discussions related thereto. While on-site at the Alkermes Facility, Amylin and its Collaboration Partner agree to
+follow all of Alkermes’ rules, regulations and procedures with respect to conduct at the Alkermes Facility. Amylin and its Collaboration Partner will cooperate with Alkermes in taking reasonable precautions to avoid exposure of the Amylin and
+Collaboration Partner representatives to information regarding activities of Alkermes or a Third Person manufacturer unrelated to the Polymer Product. Amylin and its Collaboration Partner will indemnify and hold Alkermes and the Third
+Person manufacturer harmless from all liability resulting from the presence of Amylin’s and Collaboration Partner’s representatives at the Alkermes Facility or the Third Person manufacturer’s facility, as
+applicable, except to the extent such liability results from the gross negligence or willful misconduct of Alkermes, the Third Person manufacturer or their representatives, as applicable. 
+
+(c) Regulatory Inspections. The Parties’ rights and obligations with respect to any inspections of the Alkermes Facility by
+the FDA or other Regulatory Authorities will be defined by the provisions of the Quality Agreement. All notices or other communications (whether in written, electronic or oral form) related to such inspections will be deemed to be the Confidential
+Information of Alkermes. 
+ 
+(d) Cooperation. Alkermes agrees to cooperate with any inspection by the FDA or other
+Regulatory Authorities, including any pre-approval inspection, in connection with the approval process for the New Drug Application (NDA) for Exenatide LAR filed with the FDA and any comparable applications for Exenatide LAR filed with other
+Regulatory Authorities. Alkermes will, on a timely basis, and at Amylin’s expense, provide Amylin and its Collaboration Partner with such documentation, data, and other information relating to Polymer Product that is reasonably necessary for
+and relevant to Amylin’s or Collaboration Partner’s efforts to obtain, maintain, and support such regulatory approvals for Exenatide LAR. 
+ 
+3.9 Quality of Polymer Product. 
+ 
+(a) Analysis of
+Polymer Product. Prior to the delivery of any Batch of Polymer Product, Alkermes will send to Amylin a Certificate of Analysis and Compliance for such Batch as well as, if the Parties agree, a quality control sample of such Batch (the date
+Alkermes sends such documents and/or materials to Amylin, the “Release Date”). Such information will be deemed to be the Confidential Information of Alkermes. Within [*…***…] from the date Amylin’s Quality Department receives these documents and/or materials, Amylin may
+review the batch records and analyze the quality control sample to determine whether the Batch meets the Specifications and will report any adverse findings to Alkermes promptly upon their discovery and in any event within such […***…]
+period. Unless the Parties otherwise agree, in testing the quality control sample, Amylin will use the analytical testing methods established by Alkermes, which methods have been transferred from Alkermes to Amylin in accordance with an agreed
+transfer protocol. In order to reject a Batch, Amylin must give written notice to Alkermes within this […***…] period specifying the deviation of such Batch 
+
+* ***Confidential Treatment Requested 
+
+13 
+
+from the Specifications; if no such notice of rejection is given, Amylin will be deemed to have accepted such Batch. No shipment of the Polymer Product will be made until the earlier of
+Amylin’s actual or deemed acceptance of the Batch. Amylin agrees to keep, true, accurate and complete records of all such sampling and analyses in accordance with its record retention policies; copies of such records will be promptly provided
+to Alkermes and its representatives. 
+ 
+(b) Investigation of Non-Conforming Batch. Alkermes will cooperate with Amylin in
+investigating any potential non-conforming Batch of Polymer Product. If Alkermes and Amylin disagree as to whether any Batch meets the applicable Specifications, the matter will be submitted to an independent testing laboratory, acceptable to both
+Parties, to determine whether the Batch conformed or did not conform to the Specifications and the test results obtained from such laboratory will be final and binding upon both Parties. In testing the quality control sample, the independent testing
+laboratory will use any analytical testing methods established by Alkermes, which methods have been transferred from Alkermes to such independent testing laboratory in accordance with a transfer protocol agreed upon by the Parties. The fees and
+expenses of such testing will be borne by the Party whose judgment of whether the Batch met the Specifications differs from that of the independent testing laboratory. 
+
+(c) Latent Defects. If, within [*…***…] after Amylin’s acceptance of a Batch
+of Polymer Product, Amylin discovers a Latent Defect that existed in such Batch on or before Amylin’s acceptance of such Batch, Amylin will notify Alkermes immediately of such discovery, and Amylin will have the right to reject such Batch by
+giving written notice to Alkermes specifying the deviation of such Batch from the Specifications; provided, however, that if Alkermes disagrees with Amylin’s determination that a Latent Defect exists or that the Latent Defect existed in
+such Batch on or before Amylin’s acceptance of such Batch, then Alkermes will so notify Amylin within […***…] after receiving Amylin’s notification about the Latent Defect, and in such case, samples of such Batch will be
+submitted for testing to an independent testing laboratory, acceptable to both Parties, whose determination of compliance or non-compliance of the Batch with the Specifications, and the cause thereof, if non-compliant, will be binding upon the
+Parties. In testing the Batch samples, the independent testing laboratory will use any analytical testing methods established by Alkermes, which methods have been transferred from Alkermes to such independent testing laboratory in accordance with a
+transfer protocol agreed upon by the Parties. Amylin will bear the fees and expenses of such testing, unless the independent testing laboratory determines that the non-compliance is due solely to the negligence or willful misconduct of Alkermes in
+which case Alkermes will bear such fees and expenses. 
+ 
+(d) Replacement Polymer Product. Regardless of whether
+Alkermes agrees or disagrees with Amylin’s determination that any Batch of Polymer Product does not meet the Specifications, Alkermes will, at Amylin’s request, use commercially reasonable efforts to Manufacture replacement Polymer Product
+in substitution for the potentially non-conforming Polymer Product. Such replacement Polymer Product will be delivered in accordance with the terms of this Agreement, as Amylin may direct, as soon as reasonably possible. In the case of a Latent
+Defect, if the Parties determine or the independent testing laboratory determines that the original Batch did not comply with the Specifications, then Alkermes will render a credit to 
+
+* ***Confidential Treatment Requested 
+
+14 
+
+Amylin for such original Batch in the amount of the purchase price for such Batch (if Amylin has already made this payment) plus the associated Outbound Costs. In the case of a Latent Defect, if
+the Parties determine or the independent testing laboratory determines that the original Batch did comply with the Specifications, then Amylin will pay the purchase price for such Batch if it has not done so already. 
+
+(e) Rejected Polymer Product. Amylin may not destroy any Batch of potentially non-conforming Polymer Product until it receives
+written notification from Alkermes that Alkermes does not dispute that the Batch fails to meet the applicable Specifications and that Alkermes does not request return of such Polymer Product. Upon authorization from Alkermes to do so, Amylin will
+destroy or have destroyed such non-conforming Polymer Product promptly at Alkermes’ reasonable expense and provide Alkermes with certification of such destruction. Amylin will, upon receipt of Alkermes’ request for return, promptly return
+such non-conforming Polymer Product to Alkermes, at Alkermes’ reasonable expense. 
+ 
+3.10 Recalls or Seizures.
+Amylin will immediately notify Alkermes in the event that Amylin, Amylin Parent or Collaboration Partner plans or is required to undertake any Recall of Exenatide LAR. Amylin will also immediately notify Alkermes of any Seizure of Exenatide LAR.
+Amylin, Amylin Parent and Collaboration Partner will meet all regulatory requirements related to any such Recall or Seizure, and Alkermes will reasonably cooperate with Amylin, Amylin Parent and Collaboration Partner in connection with any such
+Recall or Seizure, at Amylin’s, Amylin Parent’s and Collaboration Partner’s reasonable request and expense. If a Polymer Product defect resulting solely from Alkermes’ gross negligence, willful misconduct or a material breach of
+Alkermes’ obligations hereunder is the cause of the Recall or Seizure, then at Amylin’s option, Alkermes will either supply without charge an amount of Polymer Product sufficient to replace all Polymer Product used in the manufacture of
+Exenatide LAR subject to the Recall or Seizure, or render a credit to Amylin for such Polymer Product. Such replacement Polymer Product will be delivered, as Amylin may direct, at Alkermes’ expense as soon as reasonably possible. All other
+costs and expenses of any Recall or Seizure will be paid by Amylin, and Amylin will reimburse Alkermes for all costs and expenses incurred by Alkermes with respect to any Recall or Seizure. Recalls or Seizures will otherwise be conducted in
+accordance with the provisions of the Quality Agreement. 
+ 
+3.11 Exenatide LAR Product Complaints and Adverse Event
+Reporting. The procedures for handling Exenatide LAR product complaints and reporting Exenatide LAR adverse events will be set forth in the Quality Agreement. 
+ 
+3.12 DMF. Alkermes will maintain, at its cost, the DMF and hereby grants Amylin, Amylin Parent, and Collaboration Partner the right to reference the DMF in the New Drug Application (NDA) for
+Exenatide LAR filed with the FDA and in comparable applications filed with other Regulatory Authorities. During the course of the FDA’s review of the NDA for Exenatide LAR or another Regulatory Authority’s review of a comparable
+application for Exenatide LAR, Amylin and its Collaboration Partner will inform Alkermes of any comments they receive from such Regulatory Authorities (including indication of deficiencies) regarding the Manufacture of Polymer Product, and Alkermes
+will consult with Amylin and, in the case of Regulatory Authorities outside of the United States, Collaboration Partner, in drafting responses to any such comments. 
+
+15 
+
+3.13 Purchases of Polymer and Polymer Product. 
+
+(a) Polymer. At its option, Alkermes may either Manufacture Polymer or purchase Polymer from Third Person
+manufacturers designated by Alkermes and approved by Amylin, which approval will not be unreasonably withheld or delayed. Alkermes agrees to purchase up to [*…***…] of the Polymer needed to meet the
+Requirements from such a Third Person manufacturer. If necessary, Alkermes will transfer the process for Manufacturing Polymer to this Third Person manufacturer, at Amylin’s expense, pursuant to a technology transfer agreement negotiated in
+good faith and entered into between Alkermes and such Third Person manufacturer. Prior to any such technology transfer Alkermes and Amylin will agree upon the budget for such technology transfer. Amylin will pay Alkermes at the […***…] for
+all time spent by Alkermes personnel in transferring the process for Manufacturing Polymer to such Third Person manufacturer and providing related technical assistance. Amylin will also reimburse Alkermes for any payments made for Third-Person
+services and for materials and equipment in connection with the conduct of such activities. Within […***…] of the end of each Calendar Quarter during the period such activities are being performed by Alkermes, Alkermes will invoice Amylin
+in U.S. Dollars for any such activities that have been performed during such Calendar Quarter and any costs that Alkermes has incurred, and Amylin will pay all such invoices […***…] of the invoice date. Invoices will set forth the number
+of hours worked by Alkermes personnel during such Calendar Quarter and the costs incurred for Third-Person services, materials and equipment and will contain an appropriate description of such Third-Person services, materials and equipment. If such
+a technology transfer is required, Alkermes’ obligation to purchase Polymer from such Third Person manufacturer will not begin until […***…] after such technology transfer is completed, including systems validation and audit of the
+Third Person manufacturing facility. 
+ 
+(b) Polymer Product. Alkermes will be solely responsible for the
+Manufacture of Polymer Product pursuant to this Agreement. Notwithstanding the foregoing, Alkermes agrees to purchase up to […***…] of the Polymer Product needed to meet the Requirements from a Third Person manufacturer designated by
+Alkermes and approved by Amylin, which approval will not be unreasonably withheld or delayed. Within […***…] of the Effective Date (or earlier if that is achievable by the use of commercially reasonable efforts on the part of Alkermes),
+Alkermes will transfer the process for the Manufacture of Polymer Product to this Third Person manufacturer pursuant to the terms and conditions of Article 6. Within […***…] after this technology transfer is completed, including systems
+validation and audit of the Third Person manufacturing facility, Alkermes will begin to purchase Polymer Product from this Third Person manufacturer. 
+ 
+(c) Conditions for Purchase Obligations. Alkermes’ obligations to purchase Polymer and Polymer Product from Third Person manufacturers pursuant to Sections 3.13(a) and 3.13(b), respectively,
+are subject to the following conditions: (i) Alkermes will not be obligated to purchase either Polymer or Polymer Product from any Third Person manufacturer if such manufacturer is unable to meet Alkermes’ supply or quality requirements;
+(ii) Alkermes is responsible for managing such Third Person manufacturers; and (iii) the Third Person manufacturers of Polymer and Polymer Product need not be the same company. 
+
+* ***Confidential Treatment Requested 
+
+16 
+
+3.14 Intellectual Property. All Information discovered, generated or developed either
+solely by employees or agents of Alkermes or jointly by employees or agents of both Parties in connection with the Manufacture of Polymer Product will be owned by Alkermes. 
+ 
+3.15 Manufacturing Process Changes. The Quality Agreement will establish a change control process to be followed if either Alkermes or Amylin desires to change the DMF, including the
+Specifications, or if any applicable Regulatory Authority requires that the DMF or the Specifications be changed. 
+ 
+3.16
+Licenses and Permits. Alkermes will secure and maintain in good order such current registrations, permits and licenses as are required by Regulatory Authorities to permit Alkermes to Manufacture and supply Polymer Product pursuant to this
+Agreement, for so long as is necessary to permit Alkermes to perform its obligations under this Agreement. 
+ 
+3.17
+Environmental Compliance. Alkermes or a designated Third Person contractor will handle, label, package, store, transport and dispose of all Wastes generated through Manufacture of the Polymer Product hereunder in material compliance with all
+federal, state and local laws, rules, and regulations applicable to such handling, labeling, packaging, storage, transport and disposal. 
+ 
+3.18 Manufacturing Records. Alkermes will, with respect to each Batch Manufactured by it hereunder, for a period of (i) two (2) years after the expiry of the expiration dating of such
+Batch; (ii) five (5) years after Manufacture of such Batch; or (iii) such other period as is required by applicable laws, rules or regulations, whichever last occurs, keep accurate records of the Manufacture of such Batch, including
+all such records which are required to be maintained under applicable laws, rules and regulations. 
+ 
+3.19 Alkermes Facility.
+Any actions that Alkermes may take to bring the Alkermes Facility into compliance with applicable federal, state and local laws, rules or regulations will be taken at Alkermes’ cost; provided, however, that such costs may, to the
+extent appropriate, be included in Allocable Overhead. 
+ 
+Article 4 
+
+Payments 
+ 
+4.1 Reimbursement of Alkermes for Capital Equipment. Within
+[*…***…]
+ after the Effective Date, Amylin will reimburse Alkermes […***…], for all Capital Equipment listed on Exhibit B purchased by Alkermes prior to the Effective Date. Thereafter Alkermes will invoice Amylin in U.S. Dollars within
+[…***…] of the end of each Calendar Quarter for all Capital Equipment purchased during such Calendar Quarter and the costs of any maintenance or repair to the Capital Equipment performed during such Calendar Quarter (other than costs
+included in […***…]). Invoices shall be emailed to Accounts.Payable@amylin.com, with a copy to the Amylin lead member of the Site Management Team. Amylin will pay all such invoices within […***…] of the invoice date.
+Amylin will have title to all such Capital Equipment and it will be appropriately tagged as Amylin property in accordance with the provisions of Section 3.1. 
+
+* ***Confidential Treatment Requested 
+
+17 
+
+4.2 Payment for Polymer Product. 
+
+(a) Clinical Requirements. For all Batches of Polymer Product Manufactured by Alkermes to meet the Clinical
+Requirements, Amylin will pay Alkermes a price equal to the
+[*…***…]
+ of such Batch. Alkermes will invoice Amylin in U.S. Dollars on the Release Date for such Batch of Polymer Product, and Amylin will pay all such invoices within […***…] of the invoice date, unless such Batch has not been accepted
+pursuant to Section 3.9(a) or rejected pursuant to Section 3.9(c). Invoices shall be emailed to Accounts.Payable@amylin.com, with a copy to the Amylin lead member of the Site Management Team. 
+
+(b) Requirements. For all Batches of Polymer Product Manufactured by Alkermes to meet the Requirements, Amylin will pay Alkermes a
+price equal to the greater of (i) the […***…] of such Batch plus […***…], or (ii) […***…] of Polymer Product (the “Floor Price”); provided, however, that the […***…] of such
+Batch plus […***…] will not exceed […***…] of Polymer Product (the “Ceiling Price”). Alkermes will invoice Amylin in U.S. Dollars on the Release Date for such Batch of Polymer Product, and Amylin will pay
+all such invoices within […***…] of the invoice date, unless such Batch has not been accepted pursuant to Section 3.9(a) or rejected pursuant to Section 3.9(c). Invoices shall be emailed to Accounts.Payable@amylin.com,
+with a copy to the Amylin lead member of the Site Management Team. Beginning on January 1, 2008, the Floor Price and the Ceiling Price will be adjusted annually by Alkermes in accordance with the annual percentage change in the
+…***…]. 
+ 
+4.3 Method of Payment. Amylin will make all payments when due. Amylin will make all payments
+hereunder in U.S. Dollars by bank wire transfer in immediately available funds to such account as Alkermes may designate before such payment is due, free and clear of any taxes, duties, levies, fees or charges. The undisputed portion of any invoice
+payable pursuant to Sections 4.1, 4.2, or 4.5 that is not paid on or before the date such payment is due under this Agreement will bear interest, to the extent permitted by applicable law, at the Interest Rate calculated on the number of days such
+payment is delinquent. The disputed portion of any invoice that has not been paid on or before the date such payment is due will be payable immediately upon resolution of the dispute. 
+
+4.4 Taxes. Amylin will bear all applicable national, federal, provincial, municipal and other governmental taxes (such as sales,
+use or similar taxes), duties, levies, fees or import charges, except any tax on profits that Alkermes may be required to pay or collect as a result of this Agreement. 
+ 
+4.5 Manufacturing Process Changes. In the event that Amylin, Alkermes or any applicable Regulatory Authority desires or requires any change to be made to the DMF, including the Specifications,
+subject to the provisions set forth in Section 3.15 hereof, Amylin will pay Alkermes at the Manufacturing FTE Hourly Rate for all work performed by Alkermes personnel in implementing changes. Amylin will also reimburse Alkermes for any payments
+made for Third Person services and for materials and equipment in connection with the implementation of such changes. At the end of each Calendar Quarter during the period such 
+
+* ***Confidential Treatment Requested 
+
+18 
+
+work is being performed by Alkermes, Alkermes will invoice Amylin in U.S. Dollars for any such work that has been performed during such Calendar Quarter and any costs that Alkermes has incurred,
+and Amylin will pay all such invoices within [*…***…] of the invoice date. Invoices will set forth the number of hours worked by Alkermes personnel during such Calendar Quarter and the costs incurred for Third-Person services, materials and
+equipment, and will contain an appropriate description of such Third-Person services, materials and equipment. Invoices shall be emailed to Accounts.Payable@amylin.com, with a copy to the Amylin lead member of the Site Management Team.
+
+Article 5 
+ 
+Financial Record Keeping and Audits 
+ 
+5.1 Record Retention.
+Alkermes will keep complete and accurate financial records pertaining to the Manufacture of the Polymer Product in sufficient detail to permit Amylin to confirm the accuracy of the invoices submitted hereunder. Such records will be maintained for a
+five (5) year period following the year in which any such payments were made. 
+ 
+5.2 Audit Request. Amylin will have
+the right upon thirty (30) days prior written notice to Alkermes to audit the records described in Section 5.1, at its own expense and on an annual basis, to determine, with respect to any of the five (5) preceding Calendar Years, the
+correctness of any invoices submitted under this Agreement; provided, however, that Amylin will not be permitted to audit the same period of time more than once. If Amylin desires to audit such records, Alkermes will permit a nationally
+recognized independent, certified public accountant reasonably acceptable to Alkermes to examine these records solely to the extent necessary to verify the accuracy of the invoices submitted hereunder. Such accountant will be subject to
+confidentiality provisions comparable to those stated in Section 10.7 and will be instructed to provide both Parties a report of its findings, which shall only state whether the invoices submitted hereunder were accurate, and if not, describe
+the inaccuracies. The expense of such audit will be borne by Amylin; provided, however, that if an uncontested error in favor of Alkermes of more than five percent (5%) of the amounts invoiced for the period covered by the audit is
+discovered, then such expenses will be paid by Alkermes. If the audit reasonably determines that the amounts invoiced have been overstated or understated, then one Party will make a payment to the other Party as necessary to correct such amounts.
+Any information received by Amylin pursuant to this Section 5.2 will be deemed to be Confidential Information of Alkermes. 
+
+5.3 Survival. This Article 5 will survive any termination of this Agreement for a period of two (2) years. 
+
+* ***Confidential Treatment Requested 
+
+19 
+
+Article 6 
+ 
+Technology Transfer 
+ 
+6.1 Manufacturing Transfer. 
+
+(a) To Alkermes Designated Manufacturer. Within [*…***…] of the Effective Date (or earlier if that
+is achievable by the use of commercially reasonable efforts on the part of Alkermes), Alkermes will transfer the process for the Manufacture of Polymer Product to a Third Person manufacturer designated by Alkermes pursuant to Section 3.13(b) to
+enable such Third Person manufacturer to Manufacture Polymer Product. This technology transfer will be conducted in accordance with an agreement setting forth the terms and conditions for the transfer by Alkermes of the process for the Manufacture
+of Polymer Product (the “Polymer Technology Transfer Agreement”). Prior to any such technology transfer Alkermes and Amylin will agree upon the budget for such technology transfer. Failure to complete this technology transfer at all
+or within this period will not be deemed to be a material breach of this Agreement by Alkermes so long as Alkermes is using, and since the Effective Date has used, commercially reasonable efforts to complete such technology transfer.
+
+(b) To Amylin Designated Manufacturer. In the event that Alkermes is unable to complete a technology transfer
+to its designated Third Person manufacturer within the […***…] period, Alkermes agrees to transfer, upon Amylin’s request, such technology to Amylin or a Third Person manufacturer designated by Amylin and approved by Alkermes, which
+approval will not be unreasonably withheld or delayed. The terms and conditions for this technology transfer will be set forth in a Polymer Technology Transfer Agreement. Prior to any such technology transfer Alkermes and Amylin will agree upon the
+budget for such technology transfer. Alkermes acknowledges that time is of the essence for any such transfer to be completed. Following such a technology transfer to either Amylin or a Third Person manufacturer designated by Amylin, Amylin or such
+Third Person manufacturer may Manufacture and supply up to […***…] of the Polymer Product needed to meet the Requirements, without any obligation to pay Alkermes any transfer payments with respect to the Polymer Product Manufactured by
+such parties. 
+ 
+(c) Terms and Conditions for Polymer Technology Transfer Agreement. Any Polymer Technology Transfer
+Agreement will include the following terms and conditions: 
+ 
+(i) Alkermes will transfer the Polymer
+Manufacturing Know-How to Amylin or the Third Person manufacturer and provide related technical assistance to Amylin or such Third Person manufacturer; provided, however, that such assistance will be provided solely to the extent
+reasonably necessary to transfer the Manufacturing process for Polymer Product to a fully capable, large scale pharmaceutical/biotech manufacturer; 
+ 
+(ii) Alkermes will have no obligation to provide any assistance or support related to the design, construction, commissioning or validation of the physical plant for the Manufacture of Polymer
+Product; and 
+
+* ***Confidential Treatment Requested 
+
+20 
+
+(iii) Termination of the Polymer Technology Transfer Agreement, and all rights and
+obligations thereunder, upon termination of this Agreement. 
+ 
+Amylin acknowledges and agrees that the Polymer Manufacturing
+Know-How is the Confidential Information of Alkermes. Accordingly any Polymer Technology Transfer Agreement will also provide appropriate protections to ensure the nondisclosure of the Polymer Manufacturing Know-How and to restrict its use by Amylin
+or the Third Person manufacturer solely for the Manufacture of Polymer Product. 
+ 
+(d) Amylin Payment for
+Technology Transfer. Amylin will pay Alkermes at the […***…] for all time spent by Alkermes personnel in transferring the Polymer Manufacturing Know-How to Amylin or a Third Person manufacturer and providing related technical
+assistance. Amylin will also reimburse Alkermes for any payments made for Third-Person services and for materials and equipment in connection with the conduct of such activities. Within [*…***…] of the end of each Calendar Quarter
+during the period such activities are being performed by Alkermes, Alkermes will invoice Amylin in U.S. Dollars for any such activities that have been performed during such Calendar Quarter and any costs that Alkermes has incurred, and Amylin will
+pay all such invoices within […***…] of the invoice date. Invoices will set forth the number of hours worked by Alkermes personnel during such Calendar Quarter and the costs incurred for Third-Person services, materials and equipment and
+will contain an appropriate description of such Third-Person services, materials and equipment. Invoices shall be emailed to Accounts.Payable@amylin.com, with a copy to the Amylin lead member of the Site Management Team. 
+
+Article 7 
+ 
+Representations, Warranties and Covenants 
+ 
+7.1 Alkermes
+Representations, Warranties and Covenants. Alkermes represents, warrants and covenants to Amylin as follows: 
+ 
+(a)
+all Polymer Product Manufactured and supplied by Alkermes hereunder: (i) to the extent applicable, is Manufactured in compliance with applicable cGMPs; (ii) conforms to the applicable Specifications for Polymer Product in effect at the
+time of the delivery thereof; (iii) to the extent applicable, is not adulterated or misbranded within the meaning of the U.S. Food, Drug and Cosmetic Act of 1938, as amended from time to time; and (iv) conforms to the Certificate of
+Analysis and Compliance supplied with the shipment of such Polymer Product; 
+ 
+(b) Alkermes will comply in all material
+respects with all (i) laws and regulations applicable to its activities hereunder, and (ii) requirements of Regulatory Authorities applicable to its activities hereunder; 
+
+(c) none of Alkermes’ employees performing the Manufacture of Polymer Product pursuant to this Agreement have been debarred
+under 21 USC 335(a) (as amended) or 21 USC 335(b) (as amended); 
+
+* ***Confidential Treatment Requested 
+
+21 
+
+(d) as of the Effective Date, Alkermes has not entered into any intellectual property
+license with a Third Person that would cover the Manufacture of the Polymer Product; and 
+ 
+(e) Alkermes will use
+commercially reasonable efforts to adequately staff the Alkermes Facility with personnel necessary, and with sufficient technical expertise, to perform the Manufacture of Polymer Product in accordance with this Agreement. 
+
+7.2 Amylin Representations, Warranties and Covenants. Amylin represents, warrants and covenants to Alkermes as follows:
+
+(a) Amylin, Amylin Parent or Collaboration Partner has (or will have, prior to the sale or marketing thereof) obtained
+all regulatory approvals from any applicable Regulatory Authority necessary or required for the sale or marketing of Exenatide LAR; 
+ 
+(b) Amylin will comply in all material respects with all (i) laws and regulations applicable to its activities hereunder and (ii) requirements of Regulatory Authorities applicable to its
+activities hereunder; and 
+ 
+(c) all Polymer Product supplied hereunder will be handled and stored in accordance with the
+Specifications prior to any use, sale or distribution thereof. 
+ 
+7.3 No Implied Representations, Warranties, Covenants or
+Conditions. EXCEPT AS OTHERWISE EXPRESSLY PROVIDED HEREIN, ALKERMES MAKES NO REPRESENTATIONS, WARRANTIES OR COVENANTS AND THERE ARE NO CONDITIONS, EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE, WITH RESPECT TO THE POLYMER PRODUCT SUPPLIED HEREUNDER,
+INCLUDING ANY SUCH REPRESENTATIONS, WARRANTIES, COVENANTS OR CONDITIONS WITH RESPECT TO TITLE, THE NON-INFRINGEMENT OF THIRD PERSON RIGHTS, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OF SUCH POLYMER PRODUCT. 
+
+7.4 Guarantee. Amylin Parent absolutely, unconditionally and irrevocably guarantees prompt performance when due of the obligations
+(including indemnity obligations and liabilities), covenants and undertakings of Amylin to Alkermes pursuant to this Agreement and any and all modifications and amendments hereof. 
+
+Article 8 
+ 
+Term; Termination 
+ 
+8.1 Term. Unless sooner terminated as provided
+in this Article 8, the term of this Agreement will begin on the Effective Date, extend to the fifth (5th) anniversary of the Effective Date and automatically renew thereafter for additional one year terms (the period during which this Agreement
+is in effect, the “Term”). 
+ 
+8.2 Termination at Will. Either Party may terminate
+this Agreement at any time after the fifth
+(5th) anniversary of the Effective Date, upon two
+hundred seventy (270) days prior written notice to the other Party. 
+
+22 
+
+8.3 Termination upon Material Breach. Either Party may terminate this Agreement, by
+written notice to the other Party, for any material breach of this Agreement by the other Party, if such breach is not cured within ninety (90) days after the breaching Party receives written notice of such breach from the nonbreaching Party;
+provided, however, if such breach is not capable of being cured within such ninety (90) day period, the cure period will be extended for such amount of time as may be reasonably necessary to cure such breach, so long as the breaching
+Party is making diligent efforts to do so. If the breach has not been cured prior to the expiration of such cure period, the termination will be effective upon the expiration of the cure period. 
+
+8.4 Effects of Termination or Expiration. 
+ 
+(a) Polymer Product. Upon expiration or termination of this Agreement, Alkermes will Manufacture and ship to Amylin and Amylin will purchase in accordance with the provisions hereof all Polymer
+Product ordered pursuant to Firm POs issued hereunder prior to the date on which notice of such termination was given, or prior to the expiration date of the Agreement, as applicable. 
+
+(b) Payment for Total Requirements. Upon the expiration of this Agreement, the termination of this Agreement by Amylin pursuant to
+Section 8.2 or the termination of this Agreement by Alkermes pursuant to Section 8.3, Alkermes will calculate the Total Requirements for that Calendar Year in which this Agreement has expired or terminated. If Amylin has not purchased the
+Total Requirements for that Calendar Year, then Alkermes will invoice Amylin in U.S. Dollars for an amount equal to the product of: (i) the difference between (A) the Total Requirements for such Calendar Year and (B) the amount of
+Polymer Product that Amylin has purchased during such Calendar Year, and (ii) the weighted (by sales volume) average purchase price for Polymer Product during such Calendar Year, and Amylin will pay such invoice within sixty (60) days of
+the invoice date. 
+ 
+(c) Technology Transfer. If Amylin terminates this Agreement pursuant to Section 8.3 or if
+Alkermes terminates this Agreement pursuant to Section 8.2 and, at the time of such termination, Alkermes has not transferred the process for the Manufacture of Polymer Product to either Amylin or a Third Person manufacturer, then, at
+Amylin’s request, pursuant to the terms and conditions of Section 6.1(b), Alkermes will transfer the process for the Manufacture of Polymer Product to either Amylin or a Third Person manufacturer designated by Amylin and approved by
+Alkermes, which approval will not be unreasonably withheld or delayed. In addition if Alkermes terminates this Agreement pursuant to Section 8.2 and, at the time of such termination, Alkermes has not transferred the process for the Manufacture
+of Polymer Product to either Amylin or a Third Person manufacturer, then Alkermes will continue to supply Polymer Product to Amylin pursuant to the terms and conditions of this Agreement for a period of twelve (12) months following such
+termination. 
+ 
+(d) Right to Manufacture Polymer Product. Unless Amylin terminates this Agreement pursuant to
+Section 8.3 or Alkermes terminates this Agreement pursuant to Section 8.2, neither Amylin nor any Third Person manufacturer will have the right to Manufacture Polymer Product using the process for the Manufacture of Polymer Product
+transferred by Alkermes pursuant to a Polymer Technology Transfer Agreement. 
+
+23 
+
+(e) Purchase of Capital Equipment. Upon the expiration or termination of this
+Agreement, Alkermes will have the right to purchase the Capital Equipment from Amylin for a purchase price equal to the book value of the Capital Equipment as then carried on the books of Amylin. Amylin will depreciate the Capital Equipment in
+accordance with GAAP and Amylin’s normal course of business in the depreciation of equipment owned by it. Alkermes will have the right to request an audit of the records of Amylin relating to the determination of the book value of the Capital
+Equipment to establish the correctness of the book value determination. Amylin agrees to execute all deeds, assignments, bills of sale and other documents reasonably requested by Alkermes to evidence and perfect Alkermes’ ownership of the
+Capital Equipment. 
+ 
+(f) Accrued Rights and Obligations. Except as otherwise expressly provided in this Agreement, any
+expiration or termination of this Agreement will be without prejudice to any rights accrued to the benefit of either Party, and will not relieve either Party of any obligations accrued, prior to such expiration or termination. 
+
+(g) Surviving Provisions. The rights and obligations under Sections 3.9, 3.10, 3.11, 3.18, 7.4, 8.4, 10.1, 10.2, 10.3, 10.4, 10.7,
+10.9, 10.11, 10.13, 10.14, 10.19 and 10.20 and Articles 5 and 9 will survive any expiration or termination of this Agreement, in each case only in the event and to the extent applicable and subject to the terms and conditions stated therein. In
+addition, any other provision required to interpret or to enforce the Parties’ rights and obligations under this Agreement will also survive, but only to the extent required for the full performance of this Agreement. Any right to terminate
+this Agreement, and any rights a Party has under this Article 8, as applicable, will be in addition to and not in lieu of all other rights or remedies that the Party giving notice of termination may have at law or in equity or otherwise. 
+
+Article 9 
+ 
+Indemnification 
+ 
+9.1 Indemnification. 
+
+(a) Indemnification by Amylin. Amylin hereby agrees to indemnify and hold harmless Alkermes and its Affiliates, and each of their
+respective agents, employees, officers and directors (the “Alkermes Indemnitees”), from and against any and all costs, losses, liabilities, expenses (including reasonable investigation expenses, legal expenses and attorneys’
+fees) and damages relating to a Third Person claim, suit, action or demand (“Losses”) resulting directly from (i) any material breach of this Agreement by Amylin, or (ii) the marketing, packaging, testing, labeling,
+manufacture, import, use or sale of Exenatide LAR, in each case except to the extent such Losses are required to be indemnified by Alkermes pursuant to Section 9.1(b) hereof, or except to the extent such Losses are attributable to the gross
+negligence or willful misconduct of any Alkermes Indemnitee. Third Person claims, suits, actions or demands subject to indemnification and hold harmless obligations hereunder will not include any claims, suits, actions or demands asserted by any
+agent or Affiliate of Alkermes. 
+ 
+(b) Indemnification by Alkermes. Alkermes hereby agrees to indemnify and hold harmless
+Amylin and its Affiliates, and each of their respective agents, employees, officers and directors (the “Amylin Indemnitees”), from and against any and all Losses resulting directly from (i) any material breach of this Agreement
+by Alkermes or (ii) the Manufacture of the 
+
+24 
+
+Polymer Product by Alkermes, in each case except to the extent such Losses result from the material breach of this Agreement by Amylin or Amylin Parent, or except to the extent such Losses are
+attributable to the gross negligence or willful misconduct of any Amylin Indemnitee. Third Person claims, suits, actions or demands subject to indemnification and hold harmless obligations hereunder will not include any claims, suits, actions or
+demands asserted by any agent, sublicensee or Affiliate of Amylin, including its Collaboration Partner. 
+ 
+(c) Notification
+of Claims; Condition to Indemnification Obligations. Each Party will (i) promptly notify the indemnifying Party of a Third Person claim, suit, action or demand for which indemnification may be sought pursuant hereto, (ii) cooperate
+with the indemnifying Party in the defense or settlement of such claim, suit, action or demand, and (iii) permit the indemnifying Party to control the defense of such claim, suit, action or demand, including the right to select defense counsel.
+In no event, however, may the indemnifying Party compromise or settle any claim, suit, action or demand in a manner that admits fault or negligence on the part of the indemnified party or includes injunctive relief without the prior written consent
+of the indemnified party. Neither Party will have any liability under this Section 9.1 with respect to claims, suits, actions or demands settled or compromised without its prior written consent. 
+
+9.2 Insurance. During the Term (and any additional period described in this Section 9.2), Alkermes and Amylin will each
+procure and maintain, at its own expense, the following insurance covering its indemnification obligations hereunder: 
+ 
+(a) Commercial General Liability, including coverage for products/completed operations (maintained for a period of at least five (5) years after the expiration or termination of this
+Agreement, in the event the policy is a claims made form) and contractual liability (including coverage for advertising and personal injury). The policy will have a limit of no less than [*…***…] for each occurrence. 
+
+(b) All such policies will: (i) be written by insurance companies with an A.M. Best’s rating (or its equivalent) of
+A:VIII or better; (ii) provide that coverage under such policy will not be suspended, voided, canceled, not renewed, or reduced in scope or limits, except after thirty (30) days written notice has been given to the other Party; and
+(iii) be primary to any other insurance owned, secured or put in place by the other Party. 
+ 
+Upon request, each Party will
+provide to the other Party a copy of a certificate of insurance reflecting such coverage. It is understood and agreed that this insurance will not be construed to limit a Party’s liability with respect to its indemnification and hold harmless
+obligations hereunder. 
+ 
+9.3 Limitation of Liability. Except pursuant to their indemnification and hold harmless
+obligations set forth in Section 9.1, neither Party will be responsible to the other Party for any special, indirect, incidental or consequential damages arising out of or resulting from this Agreement. In addition, except for claims, suits,
+actions or demands resulting directly from the gross negligence or willful misconduct of Alkermes, Alkermes’ total liability for any act, omission, breach or negligence in connection with this Agreement will not exceed the total 
+
+* ***Confidential Treatment Requested 
+
+25 
+
+amount paid by Amylin to Alkermes for the purchase of Polymer Product during the [*…***…] period preceding the date such act,
+omission, breach or negligence occurred (the “Lookback Period”); provided, however, that Alkermes’ cumulative liability under this Agreement with respect to any overlapping portion of two or more Lookback Periods will
+not exceed the total amount paid by Amylin to Alkermes for the purchase of Polymer Product during such overlapping portion of the Lookback Periods. 
+ 
+Article 10 
+ 
+Miscellaneous 
+
+10.1 Notices. All notices that may be required pursuant to this Agreement: (i) will be in writing, (ii) will be
+addressed as set forth below, (iii) will be transmitted by courier for hand delivery or transmitted by facsimile with confirmed receipt, and (iv) will be deemed to have been given on the date of delivery if transmitted by courier or by
+facsimile with confirmed receipt. Either Party may change its address for purposes hereof by written notice to the other in accordance with the provisions of this Section 10.1. 
+
+ If to Amylin, addressed to:
+ 
+ Amylin Ohio LLC
+
+ c/o Amylin Pharmaceuticals, Inc.
+
+ 9360 Towne Centre Drive
+
+ San Diego, California 92121
+
+ Attn: General Counsel
+
+ Facsimile: (858) 552-1936
+
+ If to Alkermes, addressed to:
+ 
+ Alkermes, Inc
+
+ 88 Sidney Street
+
+ Cambridge, Massachusetts 02139
+
+ Attn: General Counsel
+
+ Facsimile: (617) 621-7856
+
+10.2 Governing Law. This Agreement will be governed by and construed in accordance with the laws
+of the State of Delaware, without giving effect to the principles of conflict of laws. 
+ 
+10.3 Dispute Resolution. Except
+as otherwise specifically set forth herein, the Parties agree that any dispute, claim or controversy arising pursuant to this Agreement, or the rights or obligations of the Parties hereunder, will be resolved solely by application of the procedures
+set forth in Section 12.17 of the Development and License Agreement. These procedures, however, may be modified by written agreement of the Parties with respect to any particular dispute. Disputes regarding matters within the purview of the
+Steering Committee will be resolved in accordance with the provisions of Section 2.6 and will not be subject to dispute resolution under this Section 10.3; provided, however, that any dispute, claim or controversy arising out of or
+relating to the interpretation, breach, termination or invalidity of this Agreement will be resolved 
+
+* ***Confidential Treatment Requested 
+
+26 
+
+in accordance with the provision of this Section 10.3. Nothing contained in this Section 10.3 or any other provision of this Agreement will be construed to limit or preclude a Party
+from bringing any action in any court of competent jurisdiction for injunctive or other provisional relief to compel the other Party to comply with its obligations hereunder before, during the pendency of, or following arbitration proceedings.
+
+10.4 Entire Agreement. This Agreement, together with the Quality Agreement, the Joint Services Document and the
+provisions of the Technology Transfer Agreement and the Development and License Agreement referenced herein, is the entire agreement regarding the subject matter hereof between the Parties, and there are no prior or contemporaneous written or oral
+promises or representations relating to this subject not incorporated herein. In the event of any conflict between the provisions of this Agreement and those of the Technology Transfer Agreement or the Development and License Agreement, the
+provisions of this Agreement will control. 
+ 
+10.5 Amendment. No amendment, modification or supplement of any provision
+of this Agreement will be valid or effective unless made in a writing referencing this Agreement and signed by a duly authorized officer of each Party. 
+ 
+10.6 Assignment. Except as otherwise provided herein, neither this Agreement nor any interest hereunder will be assignable by any Party without the prior written consent of the other Party (which
+consent will not be unreasonably withheld); provided, however, that either Party may assign this Agreement to any wholly-owned subsidiary (and, in the case of Amylin, to Amylin Parent or any wholly-owned subsidiary of Amylin Parent) or to any
+successor by merger or the sale of all or substantially all of its business unit to which this Agreement relates in a manner such that the assignor (if it continues as a separate entity) will remain liable and responsible for the performance and
+observance of all its duties and obligations hereunder; and provided further, however, that Amylin or Alkermes may only assign this Agreement to a particular Third Person in conjunction with an assignment of the Development and License
+Agreement to such Third Person. This Agreement will be binding upon the successors and permitted assignees of the Parties and the name of a Party appearing herein will be deemed to include the names of such Party’s successors and permitted
+assigns. Any assignment not in accordance with this Section 10.6 will be null and void. 
+ 
+10.7 Confidentiality.
+Each Party may use Confidential Information of the other Party to exercise its rights or in performance of its obligations under this Agreement and may disclose such Confidential Information to exercise such rights or perform such obligations to the
+extent such disclosure is reasonably necessary including in prosecuting or defending litigation or complying with applicable governmental laws or regulations or judicial or administrative process; provided, however, that if a Party is
+required to make any such disclosure of the other Party’s Confidential Information it will, except where impracticable for necessary disclosures, for example in the event of medical emergency, give reasonable advance notice to the other Party
+of such disclosure requirement and, except to the extent inappropriate, will use its reasonable efforts to secure confidential treatment of such Confidential Information required to be disclosed. For clarification, Amylin or its Collaboration
+Partner will be entitled to disclose Alkermes’ Confidential Information to regulatory and other government authorities for the purpose of seeking regulatory approval of Exenatide LAR and other necessary or appropriate regulatory or government
+review or approvals of Exenatide LAR. In addition, each Party will be entitled to 
+
+27 
+
+disclose or transfer, under confidentiality obligations substantially as protective as those of this Section 10.7, Confidential Information of the other Party to Affiliates, employees,
+agents and other Third Persons only for any purpose contemplated by this Agreement. For clarification, notwithstanding anything to the contrary in this Agreement, Amylin may disclose the terms of this Agreement and Confidential Information of
+Alkermes to its Collaboration Partner as necessary or appropriate for the research, development, manufacture or commercialization of Exenatide LAR, provided that its Collaboration Partner is subject to obligations of confidentiality and non-use
+comparable to those contained herein. Each Party will be liable for any unauthorized use or disclosure of Confidential Information by its Affiliates, employees, agents or other Third Person to which it has disclosed or transferred such Confidential
+Information. Except as otherwise specifically provided herein, upon termination or expiration of this Agreement for any reason, each Party will promptly return to the other Party or destroy (at the other Party’s option) the Confidential
+Information provided by such other Party hereunder, including all copies thereof, except that such Party may retain one copy of such Confidential Information to be used solely to determine the scope of its obligations under this Agreement. This
+confidentiality obligation will survive the termination or expiration of this Agreement for a period of five (5) years. 
+
+10.8 Force Majeure. Neither Party will be held liable or responsible to the other Party or be deemed to have breached or defaulted
+under this Agreement for failure or delay in performing its obligations hereunder (except for payment of money) to the extent, and as long as, such failure or delay is caused by or results from causes beyond the reasonable control of the affected
+Party (a “Force Majeure Delay”), including fire, floods, earthquakes, explosions, embargoes, war, insurrections, acts of terrorism, riots, civil commotions, acts of God, loss of power, omissions or delays in acting by any
+governmental authority, acts of a government or agency thereof, or judicial orders or decrees. In the event of a Force Majeure Delay, the affected Party will give prompt notice to the other Party of such event, use commercially reasonable efforts to
+mitigate the adverse consequences thereof and resume performance hereunder promptly after such adverse consequences have been mitigated. 
+ 
+10.9 Publicity. Except to the extent required by law or the rules or regulations applicable to the listing or quoting of the securities of either Party on any stock or securities exchange,
+neither Party to this Agreement may release any information to any Third Person regarding the terms or existence of this Agreement without the prior written consent of the other Party. However, this provision does not apply to any internal
+publications, disclosures regarding this Agreement or related information to regulatory agencies such as the FDA, the Securities and Exchange Commission (SEC) or the Federal Trade Commission and/or Department of Justice that may be required by law,
+including requests for a copy of this Agreement or related information by tax authorities. If any Party to this Agreement determines a release of information regarding the existence or terms of this Agreement is required by law or the rules or
+regulations applicable to the listing or quoting of the securities of either Party on any stock or securities exchange, that Party will notify the other Party as soon as practical and give as much detail as possible in relation to the disclosure
+required. To the extent feasible under the circumstances, the Parties will then cooperate with respect to determining what information will actually be released. If either Party concludes that a copy of this Agreement must be filed with the SEC, or
+with any other governmental or regulatory authority, it will provide the other Party a copy of the Agreement showing any sections as to which it proposes to request confidential 
+
+28 
+
+treatment, will provide the other Party an opportunity to comment on such proposal and will give due consideration to any reasonable comments by the other Party relating to such filing.
+
+10.10 Waiver. The waiver by a Party hereto of any breach of or default under any of the provisions of this Agreement
+or the failure of a Party to enforce any of the provisions of this Agreement or to exercise any right hereunder will not be construed as a waiver of any other breach or default or as a waiver of any such rights or provisions hereunder. 
+
+10.11 Severability. If any part of this Agreement is found to be invalid or unenforceable under applicable law in any
+jurisdiction, such part shall be ineffective only to the extent of such invalidity or unenforceability in such jurisdiction, without in any way affecting the remaining parts of this Agreement in that jurisdiction or the validity or enforceability of
+the Agreement as a whole in any other jurisdiction. In addition, the part that is ineffective shall be reformed in a mutually agreeable manner so as to as nearly approximate the intent of the Parties as possible. 
+
+10.12 Counterparts. This Agreement may be executed in two or more counterparts, each of which will be deemed an original for all
+purposes, but all of which together will constitute one and the same instrument. This Agreement may be executed and delivered by facsimile and upon such delivery the facsimile signature will be deemed to have the same effect as if the original
+signature had been delivered to the other Party. 
+ 
+10.13 Ambiguities. Ambiguities, if any, in this Agreement will not be
+construed against any Party, irrespective of which Party may be deemed to have authorized the ambiguous provision. 
+ 
+10.14
+Interpretation. Whenever in this Agreement the terms “include,” “includes,” “included” or “including” are used, unless expressly limited, such terms will be without limitation to the enumerated or listed
+items. This Agreement is independent of any other agreement between the Parties and will not be used to interpret any provision of any such other agreement, nor will the provisions of any such other agreement be used to interpret the provisions of
+this Agreement. 
+ 
+10.15 Export Controls. Amylin acknowledges that it is subject to United States laws and regulations
+controlling the export of technical data, computer software, laboratory prototypes and other commodities (including the Arms Export Control Act, as amended, and the United States Department of Commerce Export Administration Regulations). The
+transfer of such items may require a license from the appropriate agency of the United States Government and/or written assurances by Amylin that Amylin will not export data or commodities to certain foreign countries without prior approval of such
+agency. 
+ 
+10.16 Descriptive Headings. The descriptive headings of this Agreement are for convenience only, and will be
+of no force or effect in construing or interpreting any of the provisions of this Agreement. 
+ 
+10.17 No Partnership.
+Nothing in this Agreement is intended or will be deemed to constitute a partnership, agency, employer-employee, or joint venture relationship between the Parties. Notwithstanding any of the provisions of this Agreement, neither Party will at any
+time 
+
+29 
+
+enter into, incur, or hold itself out to Third Persons as having authority to enter into or incur, on behalf of the other Party, any commitment, expense, or liability whatsoever. 
+
+10.18 Further Actions. Each Party agrees to execute, acknowledge and deliver such further instruments, and to do all such other
+acts, as may be necessary or appropriate in order to carry out the purposes and intent of this Agreement. 
+ 
+10.19 No
+Third-Party Beneficiaries. Nothing in this Agreement is intended to confer on any person other than the Parties, their permitted assigns, and, as provided in Article 9, the Alkermes Indemnitees and the Amylin Indemnitees, any benefits, rights or
+remedies. Amylin’s Collaboration Partner will not be deemed to be a third-party beneficiary of this Agreement. 
+ 
+10.20
+Use of Names, Trade Names and Trademarks. Except as expressly provided in this Agreement, the Development and License Agreement or Technology Transfer Agreement, neither Party will have the right to use in advertising, publicity or other
+promotional activities any name, trade name, trademark or other designation of the other Party hereto, including any contraction or abbreviation of any of the foregoing, unless the express written permission of such other Party has been obtained.
+
+10.21 Non-Solicitation of Employees. During the Term, each Party agrees that it will not directly recruit or solicit
+any employee of the other Party who is directly associated with the transfer hereunder of the process for the Manufacture of Polymer Product to terminate his or her employment with such other Party. However, nothing set forth in this
+Section 10.21 will prohibit a Party from indirectly recruiting or soliciting such employees to leave the other Party through the use of broadly disseminated advertisements or from discussing employment opportunities with such employees to the
+extent such employees contact such Party first. 
+ 
+10.22 Acts and Omissions. Each Party assumes any and all risks of
+personal injury and property damage attributable to the acts or omissions of it and its officers, employees and agents in the performance of this Agreement. 
+ 
+IN WITNESS WHEREOF, each of the Parties has caused this Agreement to be executed and delivered by its respective duly authorized representatives to be
+effective as of the date set forth above. 
+
+ ALKERMES, INC.
+ 
+ AMYLIN OHIO LLC
+
+By:
+
+/s/ Michael Landine
+
+ By:
+
+/s/ Paul Marshall
+
+Name:
+
+Michael Landine
+
+ Name:
+
+Paul Marshall
+
+Title:
+
+Senior Vice President
+
+ Title:
+
+Vice President, Operations
+
+Amylin Pharmaceuticals, Inc., as of the Effective Date, hereby approves all the terms and
+conditions contained in this Agreement and agrees to Section 7.4 hereof. 
+
+30 
+
+ AMYLIN PHARMACEUTICALS, INC.
+
+ By:
+
+/s/ Paul Marshall
+
+ Name:
+
+Paul Marshall
+
+ Title:
+
+Vice President, Operations
+
+31 
+
+Exhibit A 
+ 
+Specifications 
+
+32 
+
+*…***… 
+
+* ***Confidential Treatment Requested 
+
+*…***… 
+
+* ***Confidential Treatment Requested 
+
+*
+…***… 
+
+* ***Confidential Treatment Requested 
+
+*…***… 
+
+* ***Confidential Treatment Requested 
+
+*…***… 
+
+* ***Confidential Treatment Requested 
+
+Exhibit B 
+ 
+Capital Equipment 
+ 
+[*…***…]
+
+* ***Confidential Treatment Requested 
+
+***Text Omitted and Filed Separately 
+
+with the Securities and Exchange Commission. 
+ 
+Confidential Treatment Requested 
+ 
+Under 17 C.F.R. Sections 200.80(b)(4)
+
+and 240.24b-2. 
+ 
+April 30, 2009 
+ 
+VIA AIR COURIER 
+
+Amylin Ohio LLC 
+ 
+c/o Amylin Pharmaceuticals,
+Inc. 
+ 
+9360 Towne Centre Drive 
+ 
+San
+Diego, California 92121 
+ 
+Attn: Paul Marshall, Sr VP Operations 
+
+ Re:
+ Supply Agreement (the “Supply Agreement”) dated December 19, 2007 between Alkermes, Inc. (“Alkermes”) and Amylin Ohio LLC (“Amylin
+Ohio”) 
+
+Dear Mr. Marshall: 
+ 
+Amylin Ohio and Alkermes agree that they wish to amend the Supply Agreement as follows (capitalized terms used but not defined in this letter shall have the meanings given in the Supply Agreement):
+
+1. Section 3.3(d) of the Supply Agreement will be deleted in its entirety and replaced with a new Section 3.3(d) which shall read
+as follows: 
+ 
+“(d) Firm Zone and Flexible Zone; Volume Limitations. Amylin will be obligated to
+purchase the amount of Polymer Product specified for the first Calendar Quarter of each Rolling Quarterly Forecast (each such Calendar Quarter will be referred to as the “Firm Zone”), and Amylin will be obligated to purchase the
+amount of Polymer Product specified for the second Calendar Quarter of each Rolling Quarterly Forecast (each such Calendar Quarter will be referred to as the “Flexible Zone”) but may decrease this purchase obligation by [*…***…]
+ of Polymer Product. For Calendar Quarters other than the Flexible Zone, if the number of Batches of Polymer Product forecast for any such Calendar Quarter in a Rolling Quarterly Forecast is less than […***…] Batches, Amylin may increase
+or decrease by […***…] Batch the number of Batches of Polymer Product forecast for the comparable Calendar Quarter in the subsequent Rolling Quarterly Forecast provided in accordance with this Agreement. For Calendar Quarters other than
+the Flexible Zone, if the number of 
+
+* ***Confidential Treatment Requested 
+
+Amylin Ohio LLC 
+ 
+April 30, 2009 
+ 
+Page 2 of 6 
+
+Batches of Polymer Product forecast for any such Calendar Quarter in a Rolling Quarterly Forecast is greater than or equal to [*…***…] Batches, Amylin may increase or decrease
+by […***…] Batches the number of Batches of Polymer Product forecast for the comparable Calendar Quarter in the subsequent Rolling Quarterly Forecast provided in accordance with this Agreement (e.g., if the number of Batches of Polymer
+Product forecast for the fourth Calendar Quarter in a Rolling Quarterly Forecast is […***…] Batches, then the forecast for the third Calendar Quarter in the subsequent Rolling Quarterly Forecast may increase or decrease that number of
+Batches by […***…] Batch, i.e., to […***…] or […***…] Batches, as applicable). The Parties agree that except with respect to the Firm Zone and the Flexible Zone thereof no Rolling Quarterly Forecast provided by Amylin
+will be binding upon Amylin. For purposes of this Section 3.3(d), the size of a Batch shall be […***…].” 
+ 
+2.
+Section 3.3(e) of the Supply Agreement will be deleted in its entirety and replaced with a new Section 3.3(e) which shall read as follows: 
+ 
+“(e) Minimum Purchase. For each Calendar Year during the Term, Amylin will use commercially reasonable efforts to purchase a minimum of […***…] of the total amount of Polymer Product
+specified for this period in the initial Rolling Quarterly Forecast and in each new Rolling Quarterly Forecast provided in accordance with this Agreement (such total amount, the “Total Requirements”). Within […***…] of the
+end of each Calendar Year, Alkermes will calculate the Total Requirements for that Calendar Year. If Amylin has not used commercially reasonable efforts to purchase the Total Requirements for that Calendar Year, then Alkermes will invoice Amylin in
+U.S. Dollars for an amount equal to the product of: 
+ 
+(i) the difference between (A) the Total Requirements
+for that Calendar Year and (B) the amount of Polymer Product that Amylin has purchased during that Calendar Year, and 
+ 
+(ii) the weighted (by sales volume) average purchase price for Polymer Product during that Calendar Year, 
+ 
+and Amylin will pay such invoice within […***…] of the invoice date”. 
+ 
+3. The
+first sentence of Section 3.4(a) of the Supply Agreement will be deleted in its entirety and replaced with the following: 
+
+“(a) Delivery of POs. Amylin will submit to Alkermes on a Calendar Quarter basis firm purchase orders (each, a “Firm
+PO”) for the Clinical 
+
+* ***Confidential Treatment Requested 
+
+Amylin Ohio LLC 
+ 
+April 30, 2009 
+ 
+Page 3 of 6 
+
+Requirements and the Requirements at least [*…***…] prior to the requested delivery date. The delivery date shall mean the date of Amylin’s actual or deemed acceptance of
+the Polymer Product pursuant to Section 3.9(a) hereof and delivery by Alkermes of the Polymer Product to the carrier specified in the Firm PO.” 
+ 
+4. The first sentence of Section 3.5 of the Supply Agreement will be deleted in its entirety and replaced with the following: 
+ 
+“3.5 Delivery Dates. Alkermes will deliver Polymer Product in accordance with Firm POs, as such may have been modified, solely in accordance with the provisions of this Agreement. For the
+avoidance of doubt, Alkermes shall Manufacture Polymer Product and send to Amylin a Certificate of Analysis and Compliance at least forty-five (45) days prior to the delivery date set forth in the Firm PO.” 
+
+5. Section 3.6(a) of the Supply Agreement will be amended to add the following sentence to the end of the Section: 
+
+“Polymer Product will be shipped within five (5) Business Days of actual or deemed acceptance of such Polymer Product pursuant
+to Section 3.9(a) hereof.” 
+ 
+6. Section 3.9(a) of the Supply Agreement will be deleted in its entirety and replaced with a new
+Section 3.9(a) which shall read as follows: 
+ 
+“(a) Analysis of Polymer Product. Prior to the delivery of any
+Batch of Polymer Product, Alkermes will send to Amylin a Certificate of Analysis and Compliance for such Batch as well as, if the Parties agree, a quality control sample of such Batch (the date Alkermes sends such documents and/or materials to
+Amylin, the “Release Date”). Such information will be deemed to be the Confidential Information of Alkermes. Within […***…] from the date Amylin’s Quality Department receives these documents and/or materials, Amylin
+may review the batch records and analyze the quality control sample to determine whether the Batch meets the Specifications and will report any adverse findings to Alkermes promptly upon their discovery and in any event within such[…***…]
+period. Unless the Parties otherwise agree, in testing the quality control sample, Amylin will use the analytical testing methods established by Alkermes, which methods have been transferred from Alkermes to Amylin in accordance with an agreed
+transfer protocol. In order to reject a Batch, Amylin must give written notice to Alkermes 
+
+* ***Confidential Treatment Requested 
+
+Amylin Ohio LLC 
+ 
+April 30, 2009 
+ 
+Page 4 of 6 
+
+within this [*…***…] period specifying the deviation of such Batch from the Specifications; if no such notice of rejection is given, Amylin will
+be deemed to have accepted such Batch. No shipment of the Polymer Product will be made until the earlier of Amylin’s actual or deemed acceptance of the Batch. Amylin agrees to keep, true, accurate and complete records of all such sampling and
+analyses in accordance with its record retention policies; copies of such records will be promptly provided to Alkermes and its representatives.” 
+ 
+7. Amylin Ohio and Alkermes wish to defer, or perhaps eliminate, performance of their respective obligations pursuant to Section 3.13(a) and/or Section 3.13(b) and Article 6 of the Supply
+Agreement. Pursuant to Section 3.13(a) of the Supply Agreement, Alkermes is obligated to purchase up to […***…] of the Polymer needed to meet the Requirements from a Third Person manufacturer, and Amylin Ohio is obligated to pay
+Alkermes’ costs for the transfer of the process for Manufacturing Polymer Product to such Third Person manufacturer. Pursuant to Section 3.13(b) of the Supply Agreement, Alkermes is obligated to purchase up to […***…] of the
+Polymer Product needed to meet the Requirements from a Third Person manufacturer, and Amylin Ohio is obligated to pay Alkermes’ costs for the transfer of the process for Manufacturing Polymer Product to such Third Person manufacturer. The
+transfer of the process for Manufacturing Polymer Product is scheduled to occur within […***…] months of the Effective Date of the Supply Agreement. 
+ 
+Accordingly, the Parties’ obligations under Section 3.13(a), Section 3.13(b) and Article 6 will be deferred until they are either activated or eliminated pursuant to the terms and
+conditions set forth in this letter. After January 1, 2010, Amylin Ohio will notify Alkermes in writing that it wishes to discuss the necessity of transferring the process for Manufacturing Polymer and/or Polymer Product. The Steering Committee
+will then discuss this matter, and Amylin Ohio will subsequently notify Alkermes in writing of its election either (i) to eliminate performance of their respective obligations under Section 3.13(a) and/or Section 3.13(b) and Article 6
+of the Supply Agreement or (ii) to activate one or both of these obligations. If Amylin Ohio elects to activate these obligations the date Alkermes is notified will be the “Decision Date.” The transfer of the process for
+Manufacturing Polymer Product will then be scheduled to occur within […***…] of the Decision Date, references to the Effective Date in Section 6.1 will be deemed to be references to the Decision Date and references to the
+[…***…] period in Section 6.1 will be deemed to be references to the […***…] period beginning on the Decision Date. 
+
+Except as amended by this letter, all provisions of the Supply Agreement will remain in full force and effect in accordance with their terms. If there is
+any inconsistency or conflict between any provision in this letter and any provision in the Supply Agreement, this letter shall control. No amendment or modification of the provisions of this letter 
+
+* ***Confidential Treatment Requested 
+
+Amylin Ohio LLC 
+ 
+April 30, 2009 
+ 
+Page 5 of 6 
+
+will be binding on either Party unless reduced to a writing referencing this letter and signed by authorized representatives of both Parties. 
+
+[signature page follows] 
+
+Amylin Ohio LLC 
+ 
+April 30, 2009 
+ 
+Page 6 of 6 
+
+Please indicate your agreement to the amendments to the Supply Agreement set forth in this letter by
+having authorized representatives of Amylin Ohio and Amylin Pharmaceuticals, Inc. sign the enclosed duplicate original and return it to me. 
+
+ Very truly yours,
+
+/s/ Michael Landine
+
+ Alkermes, Inc.
+
+ Accepted and Agreed:
+
+ AMYLIN OHIO LLC
+
+ By:
+
+/s/ John Pratt
+
+ Name:
+
+John Pratt
+
+ Title:
+
+General Manager
+
+ Date:
+
+05 May 09
+
+Amylin Pharmaceuticals, Inc. hereby approves all the terms and conditions contained in this letter amendment. 
+
+ AMYLIN PHARMACEUTICALS, INC.
+
+ By:
+
+/s/ Paul Marshall
+
+ Name:
+
+Paul Marshall
+
+ Title:
+
+Sr. Vice President, Operations
+
+ Date:
+
+1 May 2009
+
+***Text Omitted and Filed Separately 
+
+with the Securities and Exchange Commission. 
+ 
+Confidential Treatment Requested 
+ 
+Under 17 C.F.R. Sections 200.80(b)(4)
+
+and 240.24b-2. 
+
+ 852 Winter Street
+
+ Telephone
+
+ Waltham
+
+ 781 609-6000
+
+ Massachusetts
+
+ Facsimile
+
+ 02451-1420
+
+ 781 890-0524
+
+ USA
+
+ www.alkermes.com
+
+August 1, 2011 
+ 
+VIA AIR COURIER 
+ 
+Amylin Ohio LLC 
+ 
+c/o Amylin Pharmaceuticals, Inc. 
+ 
+9360 Towne Centre Drive 
+
+San Diego, California 92121 
+ 
+Attn: Paul
+Marshall, Sr VP Operations 
+ 
+Re: Supply Agreement dated December 19, 2007 and amended April 30, 2009 (the “Supply
+Agreement”) between Alkermes, Inc. (“Alkermes”) and Amylin Ohio LLC (“Amylin Ohio”) 
+ 
+Dear Mr. Marshall:
+
+Amylin Ohio and Alkermes agree that they wish to further amend the Supply Agreement as follows pursuant to the terms and conditions set forth
+in this second amendment to the Supply Agreement (the “Second Amendment”) (capitalized terms used but not defined in this letter shall have the meanings given in the Supply Agreement): 
+
+1. The terms and conditions in Section 6 of the first amendment to the Supply Agreement dated April 30, 2009 will be deleted in their entirety.
+
+2. Section 3.3(d) of the Supply Agreement will be deleted in its entirety and replaced with a new Section 3.3(d) which shall read
+as follows: 
+ 
+“(d) Firm Zone and Flexible Zone. Following the Approval Trigger, Amylin will only be obligated to
+purchase the amount of Polymer Product specified for the first Calendar Quarter of each Rolling Quarterly Forecast (each such Calendar Quarter will be referred to as the “Firm Zone”), and Amylin will only be obligated to purchase
+the amount of Polymer Product specified for the second Calendar Quarter of each Rolling Quarterly Forecast (each such Calendar Quarter will be referred to as the “Flexible Zone”) but may increase or decrease the Flexible Zone
+purchase 
+
+Amylin Ohio LLC 
+ 
+August 1, 2011 
+ 
+Page 2 of 10 
+
+obligation by [*…***…] Batch of Polymer Product in the subsequent Rolling Quarterly Forecast. Notwithstanding the foregoing, prior to the Approval
+Trigger, all amounts set forth in each Rolling Quarterly Forecast, including Firm Zone and Flexible Zone amounts, will be non-binding on Amylin, except for amounts for which Amylin has issued a Firm PO to Alkermes, in which case, Amylin would
+purchase all Polymer Product manufactured by Alkermes pursuant to any such Firm PO; provided, however, that the Parties would agree to negotiate in good faith the timing of Amylin’s receipt of delivery for such Polymer Product. The
+“Approval Trigger” shall be the earlier of (i) approval of the NDA for Exenatide LAR by the FDA or (ii) June 21, 2013. The Parties agree that all Polymer Product amounts set forth in each Rolling Quarterly Forecast provided
+by Amylin beyond the Firm Zone and the Flexible Zone are Amylin’s good faith estimates of Polymer Product needed and are to be used for production planning purposes only and will not be binding upon Amylin. Amylin will submit Rolling Quarterly
+Forecasts on the form set forth as Exhibit C to this Agreement. For purposes of this Section 3.3(d), the size of a Batch shall be […***…].” 
+ 
+3. Sections 1.50 and 3.3(e) of the Supply Agreement will be deleted in their entirety and the provisions of Section 8.4(b) will be replaced in their entirety with the following:
+“[Reserved.]”. The reference to Section 3.3(e) in the first sentence of Section 3.4(b) will be deleted in its entirety. 
+
+4. Two new paragraphs shall be added to Section 3.5 of the Supply Agreement which shall read as follows: 
+
+“The Rolling Quarterly Forecast provided by Amylin to Alkermes in October 2010 (the “October 2010 Forecast”) will be
+modified pursuant to the revised Rolling Quarterly Forecast attached to this Agreement as Exhibit D as follows: 
+
+ •
+
+All forecasts for Polymer Product will be eliminated with the exception of the forecast for the Polymer Product ordered under the following Firm
+PO’s: 
+
+ •
+
+34192 […***…] – shipped to Amylin on […***…]. Amylin has paid for this shipment at the price of […***…].
+
+ •
+
+34192 […***…] – shipped to Amylin on […***…]. Amylin has paid for this shipment at the price of […***…].
+
+ •
+
+34650 […***…] – to be shipped to Amylin in […***…], or earlier if requested by Amylin. 
+
+ •
+
+34881 […***…] – all Polymer Product […***…] has been Manufactured in accordance with this Firm PO and released by Alkermes.
+Alkermes will ship this Polymer Product to Amylin in the first Calendar Quarter of 2012 as requested by Amylin, or earlier if requested by Amylin. 
+
+* ***Confidential Treatment Requested 
+
+Amylin Ohio LLC 
+ 
+August 1, 2011 
+ 
+Page 3 of 10 
+
+Notwithstanding the delivery schedule for Polymer Product set forth
+above, during the Term of this Agreement, Alkermes shall not ship Polymer Product to Amylin that has been Manufactured more than [*…***…] prior to the date of shipment unless such
+delivery is mutually agreed to by the Parties.” 
+ 
+5. Section 3.13 of the Supply Agreement will be deleted in its entirety and
+replaced with a new Section 3.13 which shall read as follows: 
+ 
+“3.13 Manufacture of Polymer and Polymer Product.
+
+(a) Polymer and Polymer Product. Alkermes will be solely responsible for the supply of Polymer
+needed to Manufacture Polymer Product and will be the sole supplier of Polymer Product during the Term of this Agreement. Notwithstanding the foregoing, within […***…] of the effective date of the Second Amendment, Alkermes will deliver to
+Amylin a written capacity analysis with respect to the Manufacture of Polymer Product at the Alkermes Facility for the […***…] following this effective date, and Amylin will deliver to Alkermes a written forecast with respect to its
+Requirements during this period. The capacity analysis and Polymer Product forecast will be updated no less than […***…] for review by the Steering Committee of capacity utilization with respect to the Manufacture of Polymer Product at the
+Alkermes Facility. At such time as the Steering Committee determines that Amylin’s Requirements within the next […***…] represent at least […***…] of Alkermes’ Polymer Product Manufacturing capacity at the Alkermes
+Facility (taking into account any other applicable Polymer supply requirements of Alkermes), the Steering Committee will notify Alkermes of this fact, and Alkermes will endeavor to identify within […***…] of such Steering Committee
+notification a Third Person manufacturer with a manufacturing site which shall not be located within any manufacturing site of Alkermes to which Alkermes can transfer the process for Manufacturing Polymer Product to enable such Third Person
+manufacturer to supply to Alkermes the Requirements in excess of those that Alkermes can Manufacture at the Alkermes Facility. If Alkermes within such […***…] period has not notified Amylin that it has identified such a Third Person
+manufacturer, then Amylin may identify such a Third Person manufacturer, subject to approval by Alkermes, which approval will not be unreasonably withheld or delayed, or Amylin may, in its sole discretion, request that Alkermes transfer such
+technology to Amylin to enable Amylin to Manufacture the Requirements in excess of those that Alkermes can Manufacture at the Alkermes Facility. No transfer to a Third Person manufacturer or to Amylin or any other risk mitigation strategy will be
+implemented without the prior written approval of both Parties. For the avoidance of doubt, any action or decision that Alkermes may take or make affecting the Alkermes Facility and its operations, including the Manufacture of Polymer Product, shall
+not be considered to be a risk mitigation strategy. The technology transfer to the Third Person 
+
+* ***Confidential Treatment Requested 
+
+Amylin Ohio LLC 
+ 
+August 1, 2011 
+ 
+Page 4 of 10 
+
+manufacturer or to Amylin will be conducted pursuant to the terms and
+conditions set forth in Section 6.1. 
+ 
+(b) Conditions for Purchase Obligation. Alkermes’
+obligation to purchase Polymer Product from a Third Person manufacturer pursuant to Section 3.13(a) is subject to the following conditions: (i) Alkermes will not be obligated to purchase Polymer Product from any Third Person manufacturer
+if such manufacturer is unable to meet Alkermes’ supply or quality requirements; and (ii) Alkermes is responsible for managing such Third Person manufacturer. In addition the Parties will agree to any revisions to Sections 3.3, 3.4 and
+4.2(b) of the Supply Agreement that are necessary in connection with the technology transfer to and the purchase of Polymer Product from such Third Party manufacturer.” 
+ 
+6. Section 4.2(b) of the Supply Agreement will be deleted in its entirety and replaced with a new Section 4.2(b) which shall read as follows: 
+
+“(b) Requirements. During the Term of this Agreement, for all Batches of Polymer Product Manufactured by
+Alkermes to meet the Requirements, including Polymer Product manufactured pursuant to Firm PO’s #34650 and #34881, Amylin will pay Alkermes a price equal to [*…***…] of Polymer Product. Alkermes will invoice
+Amylin in U.S. Dollars on the Release Date for such Batch of Polymer Product, and Amylin will pay all such invoices within […***…] of the invoice date, unless such Batch has not been accepted pursuant to Section 3.9(a) or
+rejected pursuant to Section 3.9(c). Invoices shall be emailed to Accounts.Payable@amylin.com, with a copy to the Amylin lead member of the Site Management Team.” 
+ 
+7. Section 6.1 of the Supply Agreement will be deleted in its entirety and replaced with a new Section 6.1 which shall read as follows: 
+
+“6.1 Manufacturing Transfer. 
+ 
+(a) To Third Person Manufacturer. Following the designation of a Third Person manufacturer pursuant to Section 3.13(a), Alkermes will transfer the process for the Manufacture of Polymer
+Product to such Third Person manufacturer to enable such Third Person manufacturer to Manufacture Polymer Product in accordance with this Agreement. This technology transfer will be conducted in accordance with an agreement between Alkermes and the
+Third Person manufacturer setting forth the terms and conditions for the transfer by Alkermes of the process for the Manufacture of Polymer Product (the “Polymer Technology Transfer Agreement”). Prior to any such technology transfer
+Alkermes and Amylin will agree upon the budget and schedule for such technology transfer. Failure to complete this technology transfer at all or within 
+
+* ***Confidential Treatment Requested 
+
+Amylin Ohio LLC 
+ 
+August 1, 2011 
+ 
+Page 5 of 10 
+
+this schedule will not be deemed to be a material breach of this Agreement by Alkermes so long as Alkermes is using, and since the Steering Committee notification of Alkermes pursuant to
+Section 3.13(a) has used, commercially reasonable efforts to complete such technology transfer. Alkermes acknowledges that time is of the essence for any such transfer to be completed. Following such technology transfer to a Third Person
+manufacturer, such Third Person may Manufacture the Requirements in excess of those that Alkermes can Manufacture at the Alkermes Facility. 
+ 
+(b) To Amylin. Following the designation of Amylin pursuant to Section 3.13(a), Alkermes will transfer the process for the Manufacture of Polymer Product to Amylin to enable Amylin to
+Manufacture Polymer Product in accordance with this Agreement. The terms and conditions for this technology transfer will be set forth in a Polymer Technology Transfer Agreement between Alkermes and Amylin. Prior to any such technology transfer
+Alkermes and Amylin will agree upon the budget and schedule for such technology transfer. Failure to complete this technology transfer at all or within this schedule will not be deemed to be a material breach of this Agreement by Alkermes so long as
+Alkermes is using, and since the Steering Committee notification of Alkermes pursuant to Section 3.13(a) has used, commercially reasonable efforts to complete such technology transfer. Alkermes acknowledges that time is of the essence for any
+such transfer to be completed. Following such technology transfer to Amylin, Amylin may Manufacture the Requirements in excess of those that Alkermes can Manufacture at the Alkermes Facility, without any obligation to pay Alkermes any transfer
+payments with respect to the Polymer Product Manufactured by Amylin. 
+ 
+(c) Terms and Conditions for Polymer
+Technology Transfer Agreement. Any Polymer Technology Transfer Agreement will include the following terms and conditions: 
+ 
+(i) Alkermes will transfer the Polymer Manufacturing Know-How to the Third Person manufacturer or to Amylin and provide related technical assistance to such Third Person manufacturer or to
+Amylin; provided, however, that such assistance will be provided solely to the extent reasonably necessary to transfer the Manufacturing process for Polymer Product to a fully capable, large scale pharmaceutical/biotech manufacturer;
+
+(ii) Alkermes will have no obligation to provide any assistance or support related to the design,
+construction, commissioning or validation of the physical plant for the Manufacture of Polymer Product; and 
+
+(iii) Termination of the Polymer Technology Transfer Agreement, and all rights and obligations thereunder, upon
+termination of this Agreement. 
+ 
+Amylin acknowledges and agrees that the Polymer Manufacturing Know-How is the Confidential
+Information of Alkermes. Accordingly any Polymer Technology Transfer Agreement will also provide appropriate protections to ensure the nondisclosure of the Polymer Manufacturing Know-How and to restrict its use by
+
+Amylin Ohio LLC 
+ 
+August 1, 2011 
+ 
+Page 6 of 10 
+
+the Third Person manufacturer or Amylin solely for the Manufacture of Polymer Product pursuant to this Agreement. 
+
+(d) Amylin Payment for Technology Transfer. Amylin will pay Alkermes at the [*…***…] for all time
+spent by Alkermes personnel in transferring the Polymer Manufacturing Know-How to a Third Person manufacturer or to Amylin and providing related technical assistance. Amylin will also reimburse Alkermes for any payments made for Third-Person
+services and for materials and equipment in connection with the conduct of such activities. Within […***…] of the end of each Calendar Quarter during the period such activities are being performed by Alkermes, Alkermes will invoice Amylin
+in U.S. Dollars for any such activities that have been performed during such Calendar Quarter and any costs that Alkermes has incurred, and Amylin will pay all such invoices within […***…] of the invoice date. Invoices will set forth the
+number of hours worked by Alkermes personnel during such Calendar Quarter and the costs incurred for Third-Person services, materials and equipment and will contain an appropriate description of such Third-Person services, materials and equipment.
+Invoices shall be emailed to Accounts.Payable@amylin.com, with a copy to the Amylin lead member of the Site Management Team.” 
+ 
+8.
+Section 8.1 of the Supply Agreement will be deleted in its entirety and replaced with a new Section 8.1 which shall read as follows: 
+ 
+“8.1 Term. Unless sooner terminated as provided in this Article 8, the term of this Agreement will begin on the Effective Date and extend until the termination of the Development and License
+Agreement (the period during which this Agreement is in effect, the “Term”).” 
+ 
+9. Section 8.2 of the Supply
+Agreement will be deleted in its entirety. The reference to termination pursuant to Section 8.2 in Section 8.4(b) will be deleted in its entirety. 
+ 
+10. Section 8.4(c) of the Supply Agreement will be deleted in its entirety and replaced with a new Section 8.4(c) which shall read as follows: 
+
+“(c) Technology Transfer. If Amylin terminates this Agreement pursuant to Section 8.3 and, at the time of such
+termination, Alkermes has not transferred the process for the Manufacture of Polymer Product to either Amylin or a Third Person manufacturer, then, at Amylin’s request, pursuant to the terms and conditions of Section 6.1, Alkermes will
+transfer the process for the Manufacture of Polymer Product to either Amylin or a Third Person manufacturer designated by Amylin and approved by Alkermes, which approval will not be unreasonably withheld or delayed.” 
+
+* ***Confidential Treatment Requested 
+
+Amylin Ohio LLC 
+ 
+August 1, 2011 
+ 
+Page 7 of 10 
+
+11. Section 8.4(d) of the Supply Agreement will be deleted in its entirety and replaced with a new
+Section 8.4(d) which shall read as follows: 
+ 
+“(d) Right to Manufacture Polymer Product. Unless Amylin
+terminates this Agreement pursuant to Section 8.3, neither Amylin nor any Third Person manufacturer will have the right to Manufacture Polymer Product using the process for the Manufacture of Polymer Product transferred by Alkermes pursuant to
+a Polymer Technology Transfer Agreement.” 
+ 
+12. Alkermes shall have the following address for receipt of notices pursuant to
+Section 10.1: 
+ 
+Alkermes, Inc 
+ 
+852 Winter Street 
+ 
+Waltham, Massachusetts 02451 
+
+Attn: General Counsel 
+ 
+Facsimile: (781) 890-0524 
+ 
+13. Except as amended by this Second Amendment, all provisions of
+the Supply Agreement will remain in full force and effect in accordance with their terms. If there is any inconsistency or conflict between any provision in this Second Amendment and any provision in the Supply Agreement, this Second Amendment shall
+control. No amendment or modification of the provisions of this Second Amendment will be binding on either Party unless reduced to a writing referencing this Second Amendment and signed by authorized representatives of both Parties. 
+
+[signature page follows] 
+
+Amylin Ohio LLC 
+ 
+August 1, 2011 
+ 
+Page 8 of 10 
+
+Please indicate your agreement to the amendments to the Supply Agreement set forth in this Second
+Amendment by having authorized representatives of Amylin Ohio and Amylin Pharmaceuticals, Inc. sign the enclosed duplicate original and return it to me. 
+
+ Very truly yours,
+
+/s/ James M. Frates
+
+ ALKERMES, INC.
+
+ Accepted and Agreed:
+
+ AMYLIN OHIO LLC
+
+ By:
+
+/s/ Robert MacKay
+
+ Name:
+
+Robert MacKay
+
+ Title:
+
+General Manager
+
+ Date:
+
+08/10/2011
+
+Amylin Pharmaceuticals, Inc. hereby approves all the terms and conditions contained in this Second Amendment. 
+
+ AMYLIN PHARMACEUTICALS, INC.
+
+ By:
+
+/s/ Paul Marshall
+
+ Name:
+
+Paul Marshall
+
+ Title:
+
+Vice President
+
+ Date:
+
+8 August 2011
+
+Amylin Ohio LLC 
+ 
+August 1, 2011 
+ 
+Page 9 of 10 
+
+Exhibit C 
+ 
+Form of Quarterly Rolling Forecast 
+ 
+(Amounts specified are for illustration
+purposes only) 
+ 
+[*…***…] 
+
+* ***Confidential Treatment Requested 
+
+Amylin Ohio LLC 
+ 
+August 1, 2011 
+ 
+Page 10 of 10 
+
+Exhibit D 
+ 
+Revised October 2010 Forecast 
+ 
+[*…***…] 
+
+* ***Confidential Treatment Requested

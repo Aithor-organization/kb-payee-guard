@@ -1,0 +1,564 @@
+EX-10.40
+17
+d04354exv10w40.txt
+EX-10.40 ACCESS CONTROL SUPPLY AGREEMENT
+
+ EXHIBIT 10.40
+
+ ACCESS CONTROL SUPPLY AGREEMENT
+
+ This Access Control Supply Agreement (the "Agreement") is made and
+executed this 20th day of December, 2002 between Ultrak Operating, L.P.,
+("Supplier") a Texas limited partnership, whose principal office is located in
+Lewisville, Texas and Pittway Corporation ("Purchaser"), a Delaware corporation
+and a wholly-owned subsidiary of Honeywell International Inc., a Delaware
+corporation ("Honeywell"), a Delaware corporation whose principal office is
+located in Morristown, New Jersey.
+
+ RECITALS
+
+A. Supplier is engaged in the business of designing, manufacturing,
+ selling and distributing access control systems.
+
+B. Pursuant to this Agreement, Purchaser desires to purchase certain
+ Products (as defined in Section 2 of this Agreement) and Supplier has
+ agreed to sell Purchaser the Products.
+
+ AGREEMENT
+
+ In consideration of the mutual agreements and acknowledgment herein
+made, the parties agree as follows:
+
+ 1. RIGHTS GRANTED. Upon the terms and conditions set forth
+ herein, Purchaser may purchase the Products and Supplier
+ agrees to sell the Products to Purchaser. Supplier hereby
+ grants to Purchaser the non-exclusive right upon the terms and
+ conditions herein contained to purchase inventory, promote and
+ resell the Products in the Non-U.S. Jurisdictions (as defined
+ in the Asset Purchase Agreement dated August 8 2002 among
+ Honeywell, Supplier and the other parties thereto, as amended
+ to date).
+
+ This Agreement is effective from the date hereof and shall
+ continue for an initial period of twenty-four (24) months.
+ Upon the written consent of Purchaser and Supplier given at
+ least ninety (90) days prior to the end of the then-applicable
+ period, this Agreement shall renew for successive one (1) year
+ periods. The initial period and all renewal periods shall be
+ referred to as the "Term" of this Agreement.
+
+ 2. PRODUCTS. As used herein the term Supplier's products shall
+ mean those which are expressly identified in Exhibit A,
+ attached hereto and made a part hereof, together with those
+ new or additional products that Supplier and Purchaser may
+ expressly add in writing to this Agreement from time to time
+ ("Products").
+
+ 3. PAYMENT. Purchaser shall make payment to Supplier for Products
+ within 30 days after shipment in United States dollars by wire
+ transfer or check written upon a United States money center
+ bank subject to collection; provided, however, in the event
+ Purchaser shall fail to honor such payment terms with respect
+ to any
+
+ACCESS CONTROL SUPPLY AGREEMENT - PAGE 1
+
+ shipment by Supplier, Supplier may thereafter sell upon such
+ shorter or other payment terms, including shipment against
+ letter of credit, consistent with Supplier's credit practices
+ then in effect.
+
+ 4. TERMS OF SALE.
+
+ a. The price Supplier charges to Purchaser shall be the
+ price Supplier may establish, from time to time, on
+ Supplier's international distributor price list.
+ Price lists shall be provided to Purchaser and the
+ price list in effect at the time the Products are
+ shipped shall control.
+
+ b. Supplier shall use commercially reasonable efforts
+ consistent with Supplier's practices for its other
+ significant customers to promptly deliver Products to
+ Purchaser in accordance with the terms of the
+ applicable purchase order. Shipment of such Products
+ will be made to Purchaser, to the extent commercially
+ reasonable, from Supplier's nearest source of such
+ Products.
+
+ c. Supplier shall effect shipments by any ground
+ transportation, vessel or airfreight of any flag at
+ any port or airport in the country of Supplier's
+ plant point of shipment. The delivery terms for all
+ shipments shall be FOB Supplier's plant point of
+ shipment (as defined in the Uniform Commercial Code
+ of the State of Delaware). Title to and risk of loss
+ or damage to all or any part of the Products shall
+ pass to Purchaser upon delivery of the Products to
+ the carrier for shipment.
+
+ d. All costs of shipping, transporting and/or insuring
+ the Products, including all applicable stamp, duties,
+ tariffs and similar import and export charges, and
+ all sales and use taxes, VAT and any other transfer
+ taxes, shall be paid by Purchaser.
+
+ e. Supplier shall be responsible for all franchise,
+ income and similar taxes imposed on or assessed to
+ Supplier as a result of fulfillment of its
+ obligations under this Agreement.
+
+ f. Upon arrival of the Products to the point of
+ destination, Purchaser shall inspect Products under
+ such shipment. Claims for shortages, incorrect
+ materials or invoicing errors must be made by
+ Purchaser to Supplier within fifteen (15) days of the
+ arrival of the Products to the point of destination.
+ In the event of any such shortages, incorrect
+ materials or invoicing errors, Purchaser shall follow
+ the procedure set forth on Exhibit B attached hereto
+ and shall be limited to the remedies set forth on
+ Exhibit B.
+
+ g. Any term or condition in a purchase order which
+ contradicts this Agreement shall be void and the
+ provisions of this Agreement shall control.
+
+ACCESS CONTROL SUPPLY AGREEMENT - PAGE 2
+
+ 5. MARKETING. Purchaser shall not make any warranties or
+ representations whatsoever concerning the Products in
+ connection with the marketing or sale of Products or any with
+ respect to any product or service containing or utilizing the
+ Products, except those (a) made in writing by Supplier, or (b)
+ which are authorized in writing by Supplier to be made by
+ Purchaser.
+
+ 6. WARRANTY POLICIES.
+
+ a. Supplier shall grant to Purchaser a limited warranty
+ in accordance with its customary product warranty
+ policies in effect as of the day a Product is shipped
+ to Purchaser (the "Limited Warranty").
+
+ b. Purchaser shall be entitled to offer, as an exclusive
+ limited warranty to Purchaser's customers, the
+ Limited Warranty. Purchaser covenants and agrees not
+ to make or offer any other warranty with respect to
+ Products unless Purchaser retains full responsibility
+ for such additional warranty.
+
+ c. EXCEPT FOR ANY LIMITED WARRANTY TO BE GRANTED IN
+ ACCORDANCE WITH SUPPLIER'S CUSTOMARY PRODUCT WARRANTY
+ POLICIES IN EFFECT AS OF THE DAY A PRODUCT IS SHIPPED
+ TO PURCHASER, SUPPLIER SHALL NOT, AND DOES NOT, GRANT
+ ANY OTHER WARRANTIES, EXPRESS OR IMPLIED, BY STATUTE
+ OR OTHERWISE, REGARDING THE PRODUCTS, THE FITNESS FOR
+ ANY PURPOSE, THE QUALITY, THE MERCHANTABILITY, OR
+ OTHERWISE AND DISCLAIMS ANY LIABILITY WITH RESPECT TO
+ THE PRODUCTS.
+
+ d. In the event a Product under the Limited Warranty is
+ found to be defective by the Purchaser, Purchaser
+ shall follow the procedures shown in Exhibit B for
+ return or replacement of the defective Product, which
+ shall serve as Purchaser's exclusive remedy.
+
+ e. LIABILITY OF EACH PARTY IN CONNECTION WITH THIS
+ AGREEMENT SHALL BE LIMITED TO THE RECOVERY OF DIRECT
+ DAMAGES, AND NEITHER PARTY SHALL BE LIABLE TO THE
+ OTHER PARTY OR ANY PERSON OR ENTITY FOR ANY INDIRECT,
+ SPECIAL, PUNITIVE, EXEMPLARY, INCIDENTAL OR
+ CONSEQUENTIAL DAMAGES, ANY DAMAGES RESULTING FROM
+ LOSS OF GOODWILL, ANY PENALTIES OF ANY KIND, ANY LOSS
+ OF PROFITS OR ANY OTHER ECONOMIC LOSS, WHETHER OR NOT
+ FORESEEABLE, TO ANY PERSON, PROPERTY OR ENTITY, IN
+ CONNECTION WITH OR ARISING OUT OF THE FURNISHING,
+ PERFORMANCE OR USE OF THE PRODUCTS, WHETHER GROUNDED
+ IN CONTRACT, TORT (INCLUDING
+
+ACCESS CONTROL SUPPLY AGREEMENT - PAGE 3
+
+ NEGLIGENCE), ANY THEORY OF STRICT LIABILITY OR
+ OTHERWISE. A PARTY'S LIABILITY ON ANY CLAIM, WHETHER
+ GROUNDED IN CONTRACT, TORT (INCLUDING NEGLIGENCE),
+ ANY THEORY OF STRICT LIABILITY OR OTHERWISE, OF ANY
+ KIND FOR ANY LOSS OR DAMAGE ARISING OUT OF OR IN
+ CONNECTION WITH OR RESULTING FROM THIS AGREEMENT OR
+ THE PERFORMANCE OR BREACH HEREOF OR THE PRODUCTS OR
+ THEIR PERFORMANCE OR USE IS LIMITED SOLELY AND
+ EXCLUSIVELY TO THE REMEDIES PROVIDED IN THIS
+ AGREEMENT AND NO OTHER RIGHT OR REMEDY WILL BE
+ AVAILABLE TO ANY PERSON OR ENTITY. FOR PURPOSES OF
+ CLARIFICATION, THE PARTIES ACKNOWLEDGE AND AGREE THAT
+ IN THE CASE OF INDEMNIFICATION FOR ANY THIRD PARTY
+ CLAIMS UNDER THIS AGREEMENT, DIRECT DAMAGES SHALL
+ INCLUDE ALL AMOUNTS PAYABLE IN SETTLEMENT OF SUCH
+ CLAIM OR TO SATISFY A FINAL JUDGMENT ENTERED THEREON.
+
+ 7. PROCESSING OF ORDERS. Purchaser shall deliver to Supplier on
+ or before the first day of each calendar quarter during the
+ Term a nonbonding forecast of the quantity and description of
+ Products anticipated to be required by Purchaser during such
+ calendar quarter.
+
+ (i) Orders in the Ordinary Course. Purchaser's orders in the
+ ordinary course of business for Products shall be filled
+ (generally from inventory) consistent with Supplier's
+ customary business practices. If Purchaser delivers to
+ Supplier a written purchase order (including via electronic
+ transmission) in the ordinary course of business for Products,
+ such order will be deemed to be rejected by Supplier if
+ Supplier fails to respond to Purchaser by either filling the
+ order or confirming in writing within five (5) business days
+ after receipt of such order a reasonable delivery time
+ schedule.
+
+ (ii) Orders Outside the Ordinary Course. Supplier and
+ Purchaser shall cooperate with each other to coordinate
+ delivery time schedules with respect to orders outside the
+ ordinary course of business (generally involving large
+ projects or contracts).
+
+ 8. RELATIONSHIP OF THE PARTIES The relationship of the parties to
+ this Agreement shall be that of independent contractors and
+ not as employees, agents, representatives or partners.
+
+ 9. MISCELLANEOUS PROVISIONS.
+
+ a. All notices, requests, demands and other
+ communications under this Agreement must be in
+ writing and will be deemed to have been duly given or
+ made as follows: (a) if sent by registered or
+ certified mail in the United States return receipt
+ requested, upon receipt; (b) if sent by reputable
+
+ACCESS CONTROL SUPPLY AGREEMENT - PAGE 4
+
+ overnight air courier two (2) business days after
+ mailing; (c) if sent by facsimile transmission, with
+ a copy mailed on the same day in the manner provided
+ in (a) or (b) above, when transmitted and receipt is
+ confirmed by telephone; or (d) if otherwise actually
+ personally delivered, when delivered, and shall be
+ delivered as follows:
+
+ To Purchaser,
+
+ Honeywell International Inc.
+ Security & Fire Solutions
+ 165 Eileen Way
+ Syosset, New York 11791
+ Attention: Ed Freeman
+ Facsimile: (516) 364-5344
+
+ with a copy to:
+
+ Honeywell International Inc.
+ Security & Fire Solutions
+ 165 Eileen Way
+ Syosset, New York 11791
+ Attention: General Counsel
+ Facsimile: (516) 364-5344
+
+ To Supplier:
+
+ Ultrak Operating L.P.
+ 1301 Waters Ridge Drive
+ Lewisville, Texas 75057
+ Attention: General Counsel
+ Facsimile: (972) 353-6654
+
+ b. For purposes of this Agreement, "Affiliate" shall
+ mean any other Person that directly or indirectly
+ controls, is controlled by, or is under common
+ control with, another Person. The terms "controlled
+ by" and "under common control with" mean the
+ possession, directly or indirectly, of the power to
+ direct or cause the direction of the management
+ policies of a Person, whether through the ownership
+ of voting securities, by contract or credit
+ arrangement, as trustee or executor, or otherwise.
+ The term "Person" means any natural person, firm,
+ limited liability company, general partnership,
+ limited partnership, joint venture, association,
+ corporation, trust, governmental authority or other
+ entity.
+
+ c. Neither Supplier nor Purchaser shall divulge to a
+ third party any confidential or proprietary
+ information of the other that may have become known
+ as a result of the performance of this Agreement.
+ This confidentiality obligation shall continue for a
+ period of five (5) years after
+
+ACCESS CONTROL SUPPLY AGREEMENT - PAGE 5
+
+ termination of this Agreement. Supplier acknowledges
+ that Purchaser is engaged in the access control
+ business, and Supplier will use commercially
+ reasonable efforts to limit access to such
+ confidential or proprietary information to Supplier's
+ employees and others who need to know for purposes of
+ filling orders. Nothing in this Agreement shall be
+ construed to restrict in any manner Purchaser's
+ ability to engage in the access control business.
+ Purchaser shall not modify, translate, reverse
+ engineer, decompile, dissassemble, or create
+ derivative works of Products supplied under this
+ Agreement.
+
+ d. If under any applicable and binding law or rule of
+ any applicable jurisdiction, any provision of this
+ Agreement is held to be invalid or unenforceable, the
+ invalid or enforceable provision, or any portion
+ thereof, shall be modified to the extent required to
+ be valid and enforceable and the remaining provisions
+ of this Agreement will continue to be given full
+ force and effect.
+
+ e. This Agreement, all purchase orders and all notices
+ required or given hereunder or in connection with
+ this Agreement shall be in the English language. No
+ translation into other language shall be taken into
+ consideration in the interpretation of this Agreement
+ and the binding version of all of the foregoing shall
+ be the English version.
+
+ f. This Agreement may be executed in counterparts, both
+ of which will constitute one and the same instrument.
+
+ g. This Agreement constitutes the entire Agreement
+ between the parties hereto with respect to the
+ subject matter hereof and supersedes all provisions,
+ negotiations, agreements and commitments in respect
+ thereto, and shall not be released, discharged,
+ changed or modified in any manner except by
+ instruments signed by duly authorized officers or
+ representatives of each of the parties hereto.
+
+ h. No delay or failure of any party in exercising any
+ right, power or remedy hereunder shall operate as a
+ waiver thereof, nor shall any single or partial
+ exercise of any such right, power or remedy preclude
+ other or further exercise thereof or the exercise of
+ any other right, power or remedy.
+
+ i. The provisions set forth in Sections 6, 9, 11, 12, 14
+ and 15 shall survive the termination of this
+ Agreement.
+
+ 10. DESIGNATION OF CONTACT(s). Purchaser and Supplier each shall
+ designate a primary and secondary individual as its contact(s)
+ with the other party. All contact between the parties with
+ respect to this Agreement shall be through the designated
+ contacts. Any party may replace its contact(s) with other
+ individuals upon written notification to the other party,
+ provided that such individuals first comply with the
+ provisions of this Section 10.
+
+ACCESS CONTROL SUPPLY AGREEMENT - PAGE 6
+
+ 11. GOVERNING LAW/VENUE. This Agreement will be construed,
+ performed and enforced in accordance with the laws of the
+ State of Delaware without giving effect to its principles or
+ rules of conflict of laws thereof to the extent such
+ principles or rules would require or permit the application of
+ the laws of another jurisdiction. The parties expressly agree
+ that the U.N. Convention on International Sales of Goods shall
+ not apply.
+
+ Subject to the limitations set forth in Section 12 below, the
+ parties agree that the venue for any action, injunctive
+ application or dispute determinable by a court of law arising
+ out of or relating to this Agreement shall be in the State of
+ Delaware and that the Federal and state courts therein shall
+ have exclusive jurisdiction over the subject matter of such
+ action and the parties hereto. Each of the parties hereby
+ irrevocably and unconditionally submits, for itself and its
+ property, to the exclusive jurisdiction of any Delaware State
+ court or Federal court of the United States of America sitting
+ in Delaware, and any appellate court from any thereof, in any
+ action or proceeding arising out of or relating to this
+ Agreement or the transactions contemplated by this Agreement
+ or for recognition or enforcement of any judgment relating to
+ this Agreement, and each of the parties hereby irrevocably and
+ unconditionally agrees that all claims in respect of any such
+ action or proceeding may be heard and determined in such
+ Delaware State court or, to the extent permitted by law, in
+ such Federal court. Each of the parties agrees that a final
+ judgment in any such action or proceeding will be conclusive
+ and may be enforced in other jurisdictions by suit on the
+ judgment or in any other manner provided by law.
+
+ Each party to this Agreement irrevocably consents to service
+ of process in the manner provided for notices in Section 9(a).
+ Nothing in this Agreement will affect the right of any party
+ to this Agreement to serve process in any other manner
+ permitted by law.
+
+ 12. ARBITRATION. Supplier and Purchaser shall discuss mutually and
+ make the best effort to resolve any dispute under this
+ Agreement. In the event such negotiations are not successful
+ within thirty (30) calendar days, all disputes, controversies
+ or differences which may arise between the parties hereto, out
+ of or in relation to or in connection with this Agreement, or
+ the breach thereof, shall be finally settled by arbitration.
+ Within ten (10) calendar days after receipt of written notice
+ from one party that it is submitting the matter to
+ arbitration, each party shall designate in writing one
+ arbitrator to resolve the dispute who shall, in turn, jointly
+ select a third arbitrator within twenty (20) calendar days of
+ their designation, with the third arbitrator to be selected in
+ accordance with the procedure established by the American
+ Arbitration Association. The arbitrators so designated shall
+ each be a lawyer experienced in commercial and business
+ affairs who is not an employee, consultant, officer or
+ director of any party hereto or any Affiliate of any party to
+ this Agreement and who has not received any compensation,
+ directly or indirectly, from any party hereto or any Affiliate
+ of any party to this Agreement during the two (2) year period
+ preceding the date of this Agreement. The arbitration shall be
+ governed by the rules of the American Arbitration
+
+ACCESS CONTROL SUPPLY AGREEMENT - PAGE 7
+
+ Association; provided, however, that the arbitrators shall
+ have sole discretion with regard to the admissibility of
+ evidence. The arbitrators shall use their best efforts to rule
+ on each disputed issue within thirty (30) calendar days after
+ the completion of the hearings. The determination of the
+ arbitrators as to the resolution of any dispute shall be
+ binding and conclusive upon all parties hereto. All rulings of
+ the arbitrators shall be in writing, with the reasons for the
+ ruling given, and shall be delivered to the parties hereto.
+ Each party shall pay the fees of its respective designated
+ arbitrator and its own costs and expenses of the arbitration.
+ The fees of the third arbitrator shall be paid fifty percent
+ (50%) by each of the parties. Any arbitration pursuant to this
+ Section 12 shall be conducted in Dallas, Texas. Any
+ arbitration award may be entered in and enforced by any court
+ having jurisdiction thereof and the parties hereby consent and
+ commit themselves to the jurisdiction of the courts of any
+ competent jurisdiction for purposes of the enforcement of any
+ arbitration award. Any party may seek from any court interim
+ or provisional relief that is necessary to protect the rights
+ or property of that party, pending the appointment of the
+ arbitrator or pending the arbitrator's determination of the
+ merits of the controversy. None of the parties shall be
+ required to use the foregoing procedures to enforce the
+ provisions of Section 12 of this Agreement. This Section 12
+ shall survive the signing, delivery and termination of this
+ Agreement.
+
+ 13. FORCE MAJEURE. Supplier shall bear no responsibility or
+ liability for any losses arising out of any delay, inability
+ to perform or interruption of its performance of obligations
+ under this Agreement due to any acts or omissions of the
+ Purchaser or for events beyond its reasonable control
+ (hereinafter referred to as "Force Majeure") including,
+ without limitation, acts of God, act of governmental
+ authority, act of the public enemy or due to war, riot, flood,
+ civil commotion, insurrection, labor difficulty, severe or
+ adverse weather conditions, lack of or shortage of electrical
+ power, malfunctions of equipment or software programs or any
+ other cause beyond the reasonable control of Supplier whose
+ performance is affected by the Force Majeure event. Supplier
+ shall immediately notify the Purchaser of the onset, extent
+ and probable duration of such circumstances and if Supplier is
+ unable to remove such causes within thirty (30) days, the
+ Purchaser may, upon written notice, terminate this Agreement.
+
+ 14. SHIPMENTS AFTER TERMINATION. The obligations of Supplier to
+ deliver and Purchaser to purchase any Product in accordance
+ with purchase orders exchanged prior to the termination of
+ this Agreement shall survive such termination of this
+ Agreement, and such purchase and sale shall occur in
+ accordance with the terms and conditions hereof.
+
+ 15. SUCCESSORS AND ASSIGNS. This Agreement will be binding upon
+ and inure to the benefit of the parties and their respective
+ successors and permitted assigns, but will not be assignable,
+ by operation of law or otherwise, by any party without the
+ prior written consent of the other party and any purported
+ assignment or other transfer will be void and unenforceable;
+ provided, however, that the Purchaser may assign this
+ Agreement in whole or in part or any of its rights hereunder
+
+ACCESS CONTROL SUPPLY AGREEMENT - PAGE 8
+
+ without Supplier's consent to one or more of its Affiliates or
+ to any purchaser of Purchaser's closed circuit television
+ products business; and provided further, however, that in the
+ event Supplier shall sell or transfer the assets or business
+ of Supplier which produces the Products or sells the Products
+ to Purchaser, Supplier shall cause the buyer or transferee of
+ such assets or business to assume the obligations of Supplier
+ hereunder.
+
+ACCESS CONTROL SUPPLY AGREEMENT - PAGE 9
+
+ IN WITNESS WHEREOF the parties have executed this Agreement on the date
+first set forth above.
+
+ SUPPLIER
+
+ ULTRAK OPERATING, L.P..
+
+ By: Ultrak GP, Inc., its sole General Partner
+
+ By: /s/ Chris Sharng
+ -----------------------------------
+ Chris Sharng, Senior Vice President
+ Chief Financial Officer & Secretary
+
+ PURCHASER
+
+ PITTWAY CORPORATION
+
+ By: /s/ Thomas F. Larkins
+ ----------------------------------------
+ Thomas F. Larkins
+ Assistant Secretary
+
+ACCESS CONTROL SUPPLY AGREEMENT
+
+ EXHIBIT A
+ PRODUCT AND PRICE LIST
+
+ EXHIBIT A
+
+ EXHIBIT B
+ PRODUCT RETURN/REPAIR POLICY
+
+1. Purchaser will test and confirm the defective or non-operational status
+ of Products.
+
+2. Within fifteen (15) days or receipt, Purchaser will notify Supplier
+ about any claim for shortages, incorrect materials or invoicing error,
+ or the occurrence of defective or non-operational Products and request
+ a "Return Authorization Number" from the Supplier for the items they
+ would like to return for repair (hereinafter referred to as "RA#") or
+ replacement by e-mail to the attention of the Customer Service Manager.
+ This RA# is to be used for all correspondence and shipping documents
+ that relate to the associated Product.
+
+3. Supplier will either send a replacement Product or credit the price
+ after checking the contents returned under the RA#. The replacement
+ Products can be shipped together with the next order shipment by
+ Purchaser's request. If it is necessary, Supplier can request Purchaser
+ an additional test or further confirmation of operational status.
+ Purchaser is responsible for shipping costs of replacement Products to
+ the Purchaser.
+
+4. Purchaser will ship the defective or non-operational Products to
+ Supplier regularly. Supplier is responsible for shipping cost.
+
+5. Purchaser will inform Supplier to the attention of the Customer Service
+ Manager of an itemized list of all Products returned in each shipment.
+
+6. Upon receipt of the returned Product, Supplier will test the Product to
+ verify the defective or non-operational status and communicate such
+ results to the Purchaser.
+
+ EXHIBIT B

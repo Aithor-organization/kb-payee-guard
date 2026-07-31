@@ -1,0 +1,1224 @@
+EX-10.62
+3
+dex1062.htm
+INGOT SUPPLY AGREEMENT, DATED DECEMBER 22, 2006
+
+Ingot Supply Agreement, dated December 22, 2006
+
+Exhibit 10.62 
+ 
+CONFIDENTIAL TREATMENT REQUESTED – CONFIDENTIAL PORTIONS OF 
+ 
+THIS DOCUMENT HAVE BEEN REDACTED
+AND HAVE BEEN SEPARATELY FILED 
+ 
+WITH THE COMMISSION 
+ 
+EXECUTION COPY 
+ 
+INGOT SUPPLY AGREEMENT 
+ 
+This INGOT SUPPLY AGREEMENT (this “Agreement”) is entered into as of December 22, 2006 (the “Execution
+Date”), by and between Woongjin Energy Co., Ltd., a company organized and existing under the laws of the Republic of Korea with its office located at Naewei Bldg., 3F, 6 Euljiro 2-Ga, Joong-Gu, Seoul, Korea
+(“Supplier”), and SunPower Corporation, a company organized under the laws of the State of Delaware, United States of America, with it principal office located at 3939 North First Street, San Jose, California 95134, United
+States of America (“Purchaser”). Supplier and Purchaser may be referred to herein individually as a “Party” or collectively as the “Parties.” 
+ 
+RECITALS 
+ 
+A. Supplier, Purchaser and
+Woongjin Coway Co., Ltd., a company organized and existing under the laws of Korea (“Woongjin”), have entered into a Joint Venture Agreement dated as of September 29, 2006 (the “JV Agreement”).
+
+B. Pursuant to the JV Agreement, the purpose of Supplier, inter alia, is the manufacturing, sale and distribution of Ingots (as
+defined in the JV Agreement). 
+ 
+C. Purchaser and SunPower Philippines Manufacturing, Ltd., a company organized and existing under the laws
+of the Philippines and subsidiary of Purchaser (“SunPower Philippines”), have entered into the Polysilicon Supply Agreement dated of even date herewith, under which SunPower Philippines shall supply polycrystalline silicon to
+Supplier for the purpose of manufacturing Ingots. 
+ 
+D. The Parties desire to enter into an agreement pursuant to which Supplier shall supply
+Purchaser with Products (as defined below). 
+ 
+AGREEMENT 
+ 
+NOW, THEREFORE, in furtherance of the foregoing premises and in consideration of the mutual covenants and obligations hereinafter set forth and in the JV Agreement, and based on the consideration set forth in the JV
+Agreement, the receipt and sufficiency of which are hereby acknowledged, the Parties, intending to be legally bound hereby, do agree as follows: 
+ 
+1. Definitions 
+
+***CONFIDENTIAL MATERIAL REDACTED AND 
+ 
+SEPARATELY FILED WITH THE COMMISSION*** 
+
+Capitalized terms not specifically defined in this Agreement shall have the meanings assigned to them in
+the JV Agreement. 
+ 
+1.1 “Basket” means, as of any given time, the aggregate weight of any and all SP
+Polysilicon Based Products that meet the Specifications and that are, at any time after the time of the execution of this Agreement or the most recent time as of which the amount of the Basket has been reset to zero (0) pursuant to
+Section 7.6, as applicable, sold or otherwise transferred by Supplier (without having received written authorization or consent of Purchaser) to a third party (i.e., to a Person other than Purchaser or any subsidiary or designee of
+Purchaser). 
+ 
+1.2 “Confidential Information” shall have the meaning set forth in Section 8.1.
+
+1.3 “Confirmed Ingot Delivery Schedule” shall have the meaning ascribed to such term in the
+Polysilicon Supply Agreement. 
+ 
+1.4 “Conforming Ingot” shall mean the Products that conform to or
+meet the Specifications. 
+ 
+1.5 “Contract Year” shall mean a period of twelve (12) consecutive
+months beginning from the Start-up Date and ending on the day immediately preceding the same calendar date in the following year, and each successive twelve (12) consecutive month period following such period. Notwithstanding the foregoing, if
+this Agreement expires or is terminated before the end of any Contract Year, such last Contract Year shall end of the date of such expiration or termination. 
+ 
+1.6 “Delivery” shall have the meaning set forth in Section 3.5. 
+ 
+1.7 “Delivery Date” shall have the meaning set forth in Section 3.3 or Section 3.4, as applicable.
+
+1.8 “Delivery Point” shall have the meaning set forth in Section 3.3 or Section 3.4, as
+applicable. 
+ 
+1.9 “Initial Term” shall have the meaning set forth in Section 9.1. 
+ 
+1.10 “Non-SP Silicon” shall mean the polycrystalline silicon purchased by Supplier from a source other than
+SunPower Philippines pursuant to the Polysilicon Supply Agreement. 
+ 
+1.11 “Non-SP Silicon Based
+Product” shall mean Products manufactured and/or produced substantially from Non-SP Silicon. 
+
+***CONFIDENTIAL MATERIAL REDACTED AND 
+ 
+SEPARATELY FILED WITH THE COMMISSION***
+
+2 
+
+1.12 “Polysilicon Supply Agreement” shall mean that certain
+Polysilicon Supply Agreement dated as of even date herewith by and between Supplier and SunPower Philippines. 
+ 
+1.13
+“Products” shall mean single-crystal, high-efficiency silicon Ingots. 
+ 
+1.14 “Renewal
+Term” shall have the meaning set forth in Section 9.1. 
+ 
+1.15 “Representatives”
+shall have the meaning set forth in Section 8.2. 
+ 
+1.16 “Requirements” shall have the meaning
+set forth in Section 5.1. 
+ 
+1.17 “Shortfall” shall have the meaning set forth in
+Section 5.2. 
+ 
+1.18 “Specifications” shall mean the physical, technical and functional
+requirements, as each of such requirements are set forth on Schedule 1.18 hereto. 
+ 
+1.19 “SP
+Polysilicon” shall mean the Polysilicon supplied to Supplier by SunPower Philippines pursuant to the Polysilicon Supply Agreement. 
+ 
+1.20 “SP Polysilicon Based Products” shall mean Products manufactured and/or produced substantially from SP Polysilicon. 
+ 
+1.21 “Start-up Date” shall mean the date on which Supplier shall have first supplied to Purchaser under this
+Agreement at least five (5) metric tons of SP Polysilicon Based Products manufactured by Supplier that meet the Specifications. 
+ 
+2. Supply and Purchase Arrangement 
+ 
+2.1 Subject to the terms and conditions described
+herein, Supplier hereby agrees to sell, supply and deliver to Purchaser, and Purchaser hereby agrees to purchase and take, all of the SP Polysilicon Based Products manufactured by Supplier that meet the Specifications. Without limiting the
+foregoing, in case amount of SP Polysilicon Based Products purchased by Purchaser pursuant to the Confirmed Ingot Delivery Schedule is less than ***% of the total Conforming Ingots manufactured by Supplier in any given calendar month, Purchaser
+shall have the right (but not the obligation) to purchase up to ***% of the Conforming Ingots manufactured by Supplier in such given month. For the avoidance of doubt, nothing herein shall be construed as requiring Supplier to obtain any Non-SP
+Polysilicon or as requiring Supplier to keep its operation at or above ***% capacity. Before Supplier produces any Products that are neither SP Polysilicon Based Products nor Non-SP Polysilicon Products, Supplier shall notify SunPower of its desire
+to do so and the Parties shall thereafter discuss in good faith whether such Products should be produced and how any such Products would be treated for purposes of this Agreement, and if the Parties so agree, Supplier may produce such Products and
+such Products would be treated under this Agreement as so agreed. 
+
+***CONFIDENTIAL MATERIAL REDACTED AND 
+ 
+SEPARATELY FILED WITH THE COMMISSION*** 
+
+3 
+
+2.2. Purchaser shall have an option (i) to purchase all SP Polysilicon Based
+Products that do not meet the Specifications (“Non-Fitting SP Polysilicon Based Products”) at the same purchase price as the SP Polysilicon Based Products that meet the Specifications and (ii) to purchase all Non-SP
+Polysilicon Based Products that do not meet the Specifications (“Non-Fitting Non-SP Polysilicon Based Products”) at the same purchase price as Non-SP Polysilicon Based Products that meet the Specifications. 
+ 
+3. Purchase Price, Ordering Procedure; Shipment; Delivery 
+ 
+3.1 The purchase price payable by Purchaser for the SP Polysilicon Based Products shall be determined in accordance with the formula set
+out in Schedule 3.1(a), which shall be EXW (as defined in Incoterms 2000) Daejeon or such other place as may proposed by Supplier and consented upon by Purchaser (which consent shall not be unreasonably withheld or delayed by Purchaser), and the
+purchase price payable by Purchaser for the Non-SP Polysilicon Based Products shall be determined in accordance with the formula set out in Schedule 3.1(b), which shall be EXW (as defined in Incoterms 2000) the premises where such Non-SP Polysilicon
+Based Products are produced or delivered to Supplier, as specified by Supplier in a writing delivered to Purchaser. 
+ 
+3.2
+Purchaser shall purchase, and Supplier shall sell and deliver, the SP Polysilicon Based Products that meet the Specifications (“Conforming SP Polysilicon Based Products”) in accordance with the Confirmed Ingot Delivery
+Schedule delivered by SunPower Philippines on behalf of Purchaser pursuant to the Polysilicon Supply Agreement. Purchaser represents and warrants that Purchaser has provided SunPower Philippines with the authority to act on behalf of Purchaser in
+relation to the Confirmed Ingot Delivery Schedule, including all discussions related thereto and the draft documents related to the ingot delivery schedules referred to in the Polysilicon Supply Agreement. If the issuance of a purchase order is
+necessary or desirable for compliance with the laws or is necessary or desirable for the operation and management of Purchaser and/or Supplier, Purchaser shall timely issue purchase orders for the Conforming Ingots based on the Confirmed Polysilicon
+Delivery Schedule, and Supplier shall timely accept such purchase orders. 
+ 
+3.3 Purchaser shall purchase the Products that do
+not meet the Specifications, i.e., Non-Fitting SP Polysilicon Based Products and/or Non-Fitting Non-SP Polysilicon Based Products (“Non-Fitting Products”) as follows: 
+ 
+(a) Prior to the sale of any Non-Fitting Products to third Persons (i.e., Persons other than Purchaser and/or Purchaser’s
+subsidiaries), Supplier shall give written notice to Purchaser setting out the amount of Non-Fitting Products available for sale to Purchaser and setting out whether such available Non-Fitting Products is SP Polysilicon Based Products and/or Non-SP
+Polysilicon Based Products. The notice referred to herein shall contain information concerning (i) quantity, (ii) product price, (iii) applicable purchase price, (iv) place where Supplier proposes to make delivery if different
+from EXW (as defined in Incoterms 2000) Daejeon or such other place as may be proposed by Supplier and consented upon by Purchaser (which consent shall not be unreasonably withheld or delayed by Purchaser) (the “Delivery
+Point”), (v) date on which the Products should be delivered to the Delivery Point (the “Delivery Date”) and (vi) such other information that Supplier deems to be necessary or appropriate. 
+
+***CONFIDENTIAL MATERIAL REDACTED AND 
+ 
+SEPARATELY FILED WITH THE COMMISSION*** 
+
+4 
+
+(b) Within five (5) Business Days after the notice referred to in
+Section 3.3(a), Purchaser shall provide to Supplier a written notice setting out (i) Purchaser’s irrevocable commitment to purchase the Non-Fitting Products described in the notice referred to in Section 3.3(a) at the price that
+is the same as the relevant applicable Products that conform to the Specifications (together with a purchase order issued by Purchaser) or (ii) offering to purchase the Non-Fitting Products at a lower price to be set out in Purchaser’s
+notice referred to in this Section 3.3(b) (together with a purchase order issued by Purchaser) or (iii) its decline and refusal to purchase such Non-Fitting Products, or (iv) its request to subject such Non-Fitting Products to certain
+testing to ascertain whether or not Purchaser shall purchase them. If Purchaser fails to deliver its notice referred to herein this Section 3.3(b) within the required five (5) Business Day period, Purchaser shall be deemed to have declined
+and refused to purchase the applicable Non-Fitting Products. 
+ 
+(c) In case Purchaser delivers the written notice with
+irrevocable commitment to purchase the Non-Fitting Products as described in item (i) of Section 3.3(b), Supplier shall sell such Non-Fitting Products to Purchaser, and Purchaser shall purchase the same from Supplier on such terms and
+conditions as set out in Supplier’s notice referred to in Section 3.3(a). In case Purchaser offers to purchase the Non-Fitting Products at another price as described in item (ii) of Section 3.3(b), Supplier shall have the right
+to either (i) sell the applicable Non-Fitting Products at such price as offered by Purchaser, in which case, Purchaser would be obligated to purchase the applicable Non-Fitting Products at such price, or (ii) reject the offer from
+Purchaser and sell the applicable Non-Fitting Products to any other Person so long as the sale price to such other Person is greater than the price offered by Purchaser. In case Purchaser declines and refuses (or is deemed to have declined and
+refused) to purchase the Non-Fitting Products, Supplier shall have the right to sell the applicable Non-Fitting Products to any other Person at any price deemed appropriate by Supplier. In case Purchaser delivers the written notice to Supplier
+requesting to test the Non-Fitting Products as set out in item (iv) of Section 3.3(b), Purchaser shall also make an express request in the same written notice to receive testing samples from Supplier. Within five (5) Business Days
+after the date of its receipt of requested samples from Supplier, Purchaser shall give a written notice to Supplier to inform whether or 
+
+***CONFIDENTIAL MATERIAL REDACTED AND 
+ 
+SEPARATELY FILED WITH THE COMMISSION*** 
+
+5 
+
+not Purchaser shall purchase such Non-Fitting Products and, if Purchaser desires to make the purchase, then, whether Purchaser wishes to make an irrevocable
+commitment to purchase such Non-Fitting Products as described in item (i) of Section 3.3(b) of this Agreement (in which case Supplier shall be obligated to sell such Non-Fitting Products to Purchaser, and Purchaser shall purchase the same
+from Supplier on such terms and conditions as set out in Supplier’s notice referred to in Section 3.3(a)) or whether Purchaser will make an offer to purchase such Non-Fitting Products at a lower price as described in item (ii) of
+Section 3.3(b) of this Agreement (in which case Supplier shall have the right to either (x) sell the applicable Non-Fitting Products at such price as offered by Purchaser, in which case, Purchaser would be obligated to purchase the
+applicable Non-Fitting Products at such price, or (y) reject the offer from Purchaser and sell the applicable Non-Fitting Products to any other Person so long as the sale price to such other Person is greater than the price offered by
+Purchaser. If Purchaser fails to deliver its notice referred to in the immediately preceding sentence within the required five (5) Business Day period, Purchaser shall be deemed to have declined and refused to purchase the applicable
+Non-Fitting Products. 
+ 
+3.4 In case amount of SP Polysilicon Based Products purchased by Purchaser pursuant to the Confirmed
+Ingot Delivery Schedule is less than ***% of the total Conforming Ingots manufactured by Supplier in any given calendar month, Purchaser shall have the right (but not the obligation) to purchase up to ***% of the Conforming Ingots manufactured by
+Supplier in such given month in accordance with the following provisions. 
+ 
+(a) If the amount of SP Polysilicon Based
+Products purchased by Purchaser pursuant to the Confirmed Ingot Delivery Schedule is less than ***% of the total Conforming Ingots manufactured by Supplier in any given calendar month, Supplier shall (prior to the sale of any Conforming Ingots to
+third Persons, i.e., Persons other than Purchaser and/or Purchaser’s subsidiaries) provide to Purchaser a written notice setting out the information concerning (i) the estimated quantity, (ii) product price, (iii) applicable
+purchase price, (iv) place where Supplier proposes to make delivery if different from EXW (as defined in Incoterms 2000) Daejeon or such other place as may be proposed by Supplier and consented upon by Purchaser (which consent shall not be
+unreasonably withheld or delayed by Purchaser) (the “Delivery Point”), (v) date on which the Products should be delivered to the Delivery Point (the “Delivery Date”) and (vi) such other
+information that Supplier deems to be necessary or appropriate. Notwithstanding any provision to the contrary, Supplier shall not be obligated to provide the notice referred to in this Section 3.4(a) if the total Conforming Products purchased
+(or made available for purchase) by Purchaser or its subsidiaries exceeds the ***% of the total Conforming Ingots manufactured by Supplier in the applicable given calendar month. 
+ 
+(b) Within five (5) Business Days after the notice referred to in Section 3.4(a), Purchaser shall provide to Supplier a written
+notice setting out (i) Purchaser’s irrevocable commitment to purchase the applicable Products described in 
+
+***CONFIDENTIAL MATERIAL REDACTED AND 
+ 
+SEPARATELY FILED WITH THE COMMISSION***
+
+6 
+
+the notice referred to in Section 3.4(a) on the conditions set out therein (together with a purchase order issued by Purchaser) or (ii) its decline
+and refusal to purchase such Products. If Purchaser fails to deliver its notice referred to herein this Section 3.4(b) within the required five (5) Business Day period, Purchaser shall be deemed to have declined and refused to purchase the
+applicable Products. 
+ 
+(c) In case Purchaser delivers the written notice with irrevocable commitment to purchase the
+applicable Products as described in Item (i) of Section 3.4(b), Supplier shall sell such Products to Purchaser, and Purchaser shall purchase the same from Supplier on terms and conditions as set out in Supplier’s notice referred to in
+Section 3.4(a). In case, Purchaser declines and refuses (or is deemed to have declined and refused) to purchase the applicable Products, Supplier shall have the right to sell the applicable Products to any other Person at any price deemed
+appropriate by Supplier. 
+ 
+3.5 Supplier shall ensure that the Products shall be packed in a manner suitable for the
+applicable method of delivery according to usual and customary commercial and industry practice. Unless otherwise agreed in writing between the Parties, all deliveries of the Products shall be made based on EXW (as defined in Incoterms 2000)
+Daejeon, or such other place as may agreed by Purchaser and Supplier in the applicable purchase order or applicable delivery schedule, or such other place as may be proposed by Supplier and consented upon by Purchaser (which consent shall not be
+unreasonably withheld or delayed by Purchaser), and such delivery shall constitute “Delivery” for purposes of this Agreement. 
+ 
+4. Invoices and Payment 
+ 
+4.1 As soon as reasonably practicable after each Delivery
+under this Agreement, Supplier shall issue an invoice to Purchaser for the Products that were the subject of the Delivery. Each such invoice shall contain the following information specific to the Delivery: (i) an invoice number for tracking
+purposes; (ii) the applicable Purchaser Order number (if provided by Purchaser); (iii) the quantity of Products shipped; (iv) the date of shipping; (v) the shipping destination; (vi) the applicable purchase price. Invoices
+may be sent by any normally reliable means, including electronically, facsimile, hand delivery or other methods. 
+ 
+4.2
+In the event that Purchaser does not dispute the purchase price set forth in an invoice, Purchaser shall pay such purchase price within forty-five (45) days after Purchaser’s receipt of such invoice. 
+ 
+4.3 In case Purchaser disputes the amount billed in any invoice, Purchaser shall pay the undisputed portion of the invoice, and the
+Parties shall engage in good faith discussions to resolve such dispute. If such dispute is not resolved within ninety 
+
+***CONFIDENTIAL MATERIAL REDACTED AND 
+ 
+SEPARATELY FILED WITH THE COMMISSION*** 
+
+7 
+
+(90) days after Purchaser’s receipt of the invoice, either Party may resolve the dispute by arbitration in accordance with Section 10.7, mutatis
+mutandis. 
+ 
+4.4 All payments by Purchaser hereunder shall be made in United States dollars by wire transfer of the
+applicable payment into the bank account set out below or to such other bank account notified by Supplier to Purchaser in the invoice 
+ 
+Bank: Hana Bank (Chung-Ang Corporate Center) 
+ 
+Bank Address: 
+ 
+101-1 Uljiro 1 Ga, Joong-Gu, 
+ 
+Seoul, Korea 
+ 
+Account No.: *** 
+ 
+4.5 Each Party shall be responsible for all sales, use, excise, value-added or other taxes, tariffs, duties or assessments levied or
+imposed at any time against it by any Governmental Authority. 
+ 
+5. Minimum Requirements 
+ 
+5.1 Until the termination of this Agreement, Supplier shall sell, supply and deliver, and Purchaser shall purchase and take, *** (the
+“Requirements”). 
+ 
+5.2 In the event that Purchaser fails to purchase the Requirements in any given
+month during the period commencing on the Start-up Date and ending on the expiration of the Initial Term and Supplier, using commercially reasonable efforts, is unable to sell to a third party the amount of Products equal to the difference between
+the Requirements for such month and the amount of Products purchased by Purchaser in such month (the “Shortfall”), Purchaser shall pay to Supplier the amount Purchaser would have paid to Supplier had it purchased the
+Requirements, or if Supplier sells the Shortfall to a third party at a price below the applicable Product Price, Purchaser shall pay to Supplier the difference between the applicable Product Price and the actual price paid by such third party for
+such Shortfall. Purchaser’s obligations under this Section 5.2 shall be Supplier’s sole remedy for any failure by Purchaser to purchase the Requirements. 
+ 
+5.3 Without limiting Section 5.1, at all times during the first and second Contract Years, the SP Polysilicon Based Products that
+meet the Specifications that are sold, supplied and delivered to Purchaser and that meet the Specifications shall be at least *** percent (***%) and *** percent (***%), respectively, yield by weight of the polycrystalline silicon theretofore used by
+or on behalf of Purchaser in producing such Products in such Contract Years. At all times during each Contract Year thereafter, the SP Polysilicon Based Products that meet the Specifications that are sold, supplied and delivered to Purchaser and
+that meet the Specifications shall be at least *** percent (***%) yield by weight of the polycrystalline silicon theretofore used by or on behalf of 
+
+***CONFIDENTIAL MATERIAL REDACTED AND 
+ 
+SEPARATELY FILED WITH THE COMMISSION*** 
+
+8 
+
+Purchaser in producing such Products in each such Contract Year. In the event that Supplier is unable to meet these minimum yield requirements as of any such
+time, Supplier shall not, without the prior written consent of Purchaser, sell, supply or deliver any Products that meet the Specifications to any Person (other than Purchaser) until such time as such minimum yield requirements have been reachieved,
+so long as the Successful Test Run (as such term is defined in the Ingot IP License Agreement contemplated by the JV Agreement) has occurred. 
+ 
+6. Quality; Defects; Inspection 
+ 
+6.1 An inspection of each shipment of the Products
+shall be made by Purchaser in accordance with sound business practice upon Delivery. The final inspection of the Products shall be performed by Purchaser at its manufacturing facility within five (5) days of receipt of the same. In the event
+that any Product fails to meet the Specifications, Purchaser shall notify Supplier in writing within five (5) days of such finding, and Supplier shall remedy such damage or defect as set forth in Section 7.3. 
+ 
+6.2 Supplier shall permit Purchaser (or an independent quality control auditor reasonably acceptable to Supplier) to inspect the Ingot
+Plant from time to time on at least five (5) Business Days’ notice to Supplier for the purpose of determining whether the Product meets the Specifications and that Supplier is otherwise complying with its obligations under this Agreement.
+
+7. Warranties; Limitation of Liability 
+ 
+7.1 Supplier represents and warrants that all Products supplied by Supplier under this Agreement shall be (i) free from liens and
+defects in title that prevent their distribution to or by Purchaser and (iii) free from any defects in materials and workmanship. Supplier further represents and warrants that the Products sold by Supplier to Purchaser as the Products
+conforming to the Specifications shall meet the Specifications. 
+ 
+7.2 Without prejudice to any other rights Purchaser may
+have under this Agreement, if Supplier’s warranty in Section 7.1 is breached, Purchaser, at Purchaser’s sole option, may by written notice (i) demand and receive a refund of the applicable purchase price (or the portion of the
+purchase price applicable to the returned Products) upon the return (at Supplier’s sole cost) of all or a portion of the Products which fail to conform to Supplier’s warranty in Section 7.1 and/or (ii) demand and receive
+replacement for the Products which fail to conform to Supplier’s warranty in Section 7.1. 
+ 
+7.3 In case Purchaser
+exercises its right to return all or a portion of the Products pursuant to Section 7.2, Supplier shall immediately repay the applicable purchase price (or the portion of the purchase price applicable to the returned Products) 
+
+***CONFIDENTIAL MATERIAL REDACTED AND 
+ 
+SEPARATELY FILED WITH THE COMMISSION*** 
+
+9 
+
+by wire transferring such purchase price into a bank account designated by Purchaser, and Supplier shall bear and pay all banking charges related to such
+payment. In case Purchaser exercises its right to demand replacement pursuant to Section 7.2, Supplier shall, as soon as practicable, deliver (or cause to be delivered) the replacement to the location designated by Purchaser, and Supplier shall
+bear and pay all fees and expenses associated with such delivery. 
+ 
+7.4 Notwithstanding any provision to the contrary,
+Supplier shall not be responsible or liable for any breach of this Agreement arising out of or related to SunPower Philippines’ breach of its obligations under the Polysilicon Supply Agreement or otherwise attributable to Purchaser, including
+Purchaser’s breach of the License Agreement, and Purchaser shall not be entitled to seek or receive any remedies against Supplier in case the breach by Supplier is attributable to Purchaser or Purchaser’s subsidiaries. 
+ 
+7.5 IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER PARTY FOR ANY SPECIAL, EXEMPLARY, PUNITIVE, INDIRECT, INCIDENTAL OR
+CONSEQUENTIAL DAMAGES, WHETHER ARISING OUT OF CONTRACT, TORT, STRICT LIABILITY OR OTHERWISE RESULTING FROM OR RELATED TO THIS AGREEMENT (WHETHER OR NOT A PARTY KNEW OR SHOULD HAVE KNOWN OF THE POSSIBILITY OF ANY SUCH DAMAGES). 
+ 
+7.6 Without prejudice to any other rights Purchaser may have under this Agreement, notwithstanding anything to the contrary contained in
+this Agreement, if Supplier (without having received written authorization or consent of Purchaser) sells or otherwise transfers to a third party (i.e., to a Person other than Purchaser or any subsidiary or designee of Purchaser) any of the SP
+Polysilicon Based Products that meet the Specifications and if as a result of such sale or other transfer the amount of the Basket equals or exceeds five (5) metric tons, then (i) Supplier shall pay to Purchaser, within 30 days after the
+date of such sale or other transfer, an amount equal to the product of (A) the purchase price determined in accordance with the formula set forth in Schedule 3.1(a) using the most recent price for SP Polysilicon for purposes of such formula,
+(B) the amount of the Basket as of the time of such sale or other transfer (taking into account such sale or other transfer), and (C) four (4) and (ii) the amount of the Basket shall be reset to (and be deemed to be) zero
+(0) as of immediately after such sale or other transfer. Any and all payments by Supplier hereunder shall be made in United States dollars by wire transfer of the applicable payment into the bank account notified by Supplier to Purchaser in
+writing. 
+ 
+8. Confidentiality 
+ 
+8.1 Confidential Information. The terms and conditions of this Agreement and any information provided by one Party to the other
+Party which has been indicated as confidential shall be deemed confidential information (the “Confidential Information”). 
+
+***CONFIDENTIAL MATERIAL REDACTED AND 
+ 
+SEPARATELY FILED WITH THE COMMISSION*** 
+
+10 
+
+8.2 Restrictions On Use and Disclosure. Once any Confidential Information is
+provided by a Party to the other Party, the receiving Party shall, and shall cause its respective directors, officers, principals, members, employees, consultants, contractors, agents and representatives (collectively,
+“Representatives”) (i) not to deliver, divulge, disclose or communicate, or permit to be delivered, divulged, disclosed or communicated, to any third party, other than its permitted contractors under this Agreement, in
+any manner, directly or indirectly, any Confidential Information of the disclosing Party, (ii) to disclose or give access to, or permit to be disclosed or given access to, any such Confidential Information, only to those of its Representatives
+that have a need to know such Confidential Information, (iii) to ensure that such Representatives are bound in writing to confidentiality obligations applicable to the Confidential Information on terms no less strict than those set forth in
+this Section 8, and (iv) to take all other necessary or advisable actions to preserve the confidentiality and security of the Confidential Information of the disclosing Party. For avoidance of any doubt, the Parties may disclose any
+Confidential Information, including this Agreement, to the credit rating agencies to the extent deemed necessary and requested by such agencies, subject to the restrictions and covenants stated in (iii) and (iv) of this Section 8.2.
+
+8.3 Exclusions. The restrictions contained in Section 8.2 shall not apply to information of the disclosing
+Party that (i) is or becomes generally known to the public through no fault of the receiving Party including without limitation any acts or omissions of the receiving Party in violation of this Agreement, (ii) is disclosed to the receiving
+Party without obligation of confidentiality by a third person who has a right to make such disclosure and the receiving Party is able to document the independent source, or (iii) was in the possession of the receiving Party at or prior to the
+time of receipt from the disclosing Party, as evidenced by contemporaneous, corroborated written records, without being subject to another confidentiality agreement. 
+ 
+8.4 Compelled Disclosure. If a receiving Party or its Representatives is requested or required to disclose any Confidential
+Information of the disclosing Party otherwise than in accordance with this Agreement by a Governmental Authority or pursuant to any applicable laws, regulations, or judicial orders, including without limitation any disclosures in connection with
+filings with the U.S. Securities and Exchange Commission, NASDAQ, the Financial Supervisory Services of Korea or otherwise, such receiving Party shall provide the disclosing Party with prompt prior written notice of such request or requirement
+prior to disclosing the Confidential Information. 
+ 
+8.5 Press Releases. Except as permitted under this Article 8,
+neither Party shall issue any press release or make any public announcement which includes or 
+
+***CONFIDENTIAL MATERIAL REDACTED AND 
+ 
+SEPARATELY FILED WITH THE COMMISSION*** 
+
+11 
+
+otherwise uses the name of the other Party, or relates to this Agreement or to the performance hereunder in any public statement or document, without the
+prior review and written approval of the other Party, which approval shall not be unreasonably withheld or delayed. Any such review shall be completed as soon as practicable, but in any event within five (5) Business Days of receipt of the
+proposed statement or document. 
+ 
+9. Term and Termination 
+ 
+9.1 Term. Subject to Section 9.3 below, this Agreement shall commence upon the Execution Date and shall remain in full force
+for five (5) years from the Start-up Date, unless earlier terminated pursuant to Section 9.2 (the “Initial Term”). The Initial Term, upon expiration, shall automatically be renewed for an additional five
+(5) year period (the “Renewal Term”), subject to the Parties’ agreement on price and other material terms and conditions of the Agreement. The Parties shall commence good faith negotiations of the new terms and
+conditions for the Renewal Term and shall attempt to agree on the terms and conditions of the Renewal Term at least six (6) months prior to the expiration of the Initial Term. Notwithstanding anything to the contrary contained in this
+Agreement, if (i) any Shareholder (other than Purchaser) sells all or substantially all of its assets, or Transfers any Shares, to a Competitor of Purchaser and (ii) Purchaser delivers written notice to Supplier of Purchaser’s desire
+to reduce the term of this Agreement pursuant to this sentence, then the remaining term of this Agreement at the time of the delivery of such notice shall be reduced by the number of days equal to one-half of the number of days that would, absent
+the delivery of such notice by Purchaser, remain in the term of this Agreement (assuming for these purposes that this Agreement would not automatically renew) (e.g., if the remaining term was 700 days at the time of the delivery of such
+notice by Purchaser, the term would be reduced by 350 days) and this Agreement shall automatically terminate on the last day of such reduced term. 
+ 
+9.2 Termination. 
+ 
+9.2.1 Mutual Agreement. This Agreement may be terminated at
+any time upon mutual agreement of the Parties. 
+ 
+9.2.2 Unilateral For Certain Events. Either Party shall have the
+right to terminate this Agreement upon termination of the Polysilicon Supply Agreement or the Ingot IP License Agreement contemplated by the JV Agreement. In addition, Purchaser shall have the right to terminate this Agreement if Supplier fails to
+make any payments to Purchaser that are required under Section 7.6, and Supplier fails to cure such breach within thirty (30) days after the delivery by Purchaser to Supplier of notice to cure such breach. In addition, Supplier shall have
+the right to terminate this Agreement if Purchaser fails to pay the applicable purchase price as required under this Agreement, and fails to cure such breach within thirty (30) days after the delivery by Supplier to Purchaser of notice to cure
+such breach. 
+
+***CONFIDENTIAL MATERIAL REDACTED AND
+
+SEPARATELY FILED WITH THE COMMISSION*** 
+
+12 
+
+9.2.3 Bankruptcy/Insolvency. If a Party (or its creditors or any other eligible
+party) files for its liquidation, bankruptcy, reorganization, composition, dissolution or other similar proceedings or arrangement, or if such Party is unable to pay any debts as they become due, has explicitly or implicitly suspended payment of any
+debts as they became due (except debts contested in good faith), or if the creditors of the such Party have taken over its management, or if the relevant financial institutions have suspended clearing house privileges with regard to such Party, then
+the other Party shall be entitled to immediately terminate this Agreement. 
+ 
+9.2.4 Effect of Termination. The orders
+that have been accepted, the SP Polysilicon Based Products for which Supplier had already received (or will receive) the Polysilicon under the Polysilicon Supply Agreement, and the Parties’ respective obligations with respect thereto shall
+survive termination of this Agreement. The expiration or termination of this Agreement shall not relieve the Parties of any obligations accruing prior to such termination, and any such termination shall be without prejudice to the rights of either
+Party against the other conferred on it by this Agreement. In addition, the provisions of Sections 4, 7, 8, 9.2.4 and 10 shall survive expiration or termination of this Agreement for any reason as long as necessary to permit their full discharge.
+
+9.3 Effectiveness of Agreement. The Parties hereby acknowledge and agree, for the avoidance of doubt and
+notwithstanding anything to the contrary contained in this Agreement, that (i) the provisions of Articles 2, 3, 4, 5, 6, 7 and 8 shall be inoperative (i.e., they will have no force or effect) until the Second Funding Date, (ii) the
+provisions of Articles 9 and 10 shall be operative (i.e., they will have force and effect) from and after the Execution Date, (iii) no Party shall have any rights or obligations under this Agreement (other than under Articles 9 and 10)
+until the Second Funding Date, (iv) upon the Second Funding Date, all of the provisions of this Agreement shall become automatically operative and references to “hereby” in this Agreement (other than in Articles 9 and 10) shall be
+deemed to refer to “on the Second Funding Date,” and (v) in the event the JV Agreement is terminated prior to the Second Funding Date pursuant to Section 14 of the JV Agreement, this Agreement shall terminate concurrently with
+the termination of the JV Agreement. 
+ 
+10. Miscellaneous 
+ 
+10.1 Force Majeure. Neither Party shall be responsible for suspension of its performance (other than any obligation to make
+payments) under this Agreement if such suspension is caused by a shortage of raw materials, fire, flood, strikes, riots, terrorism, acts of war, acts of God, or compliance with applicable laws, rules or regulations of any governmental authority or
+by compliance with any order or decisions of any court, board or other governmental authority or by any cause beyond the reasonable control of such Party. 
+
+***CONFIDENTIAL MATERIAL REDACTED AND 
+ 
+SEPARATELY FILED WITH THE COMMISSION*** 
+
+13 
+
+10.2 Entire Agreement. Subject to the Polysilicon Supply Agreement, this Agreement
+(including the Schedules hereto) and the agreements, documents and instruments to be executed and delivered pursuant to the JV Agreement are intended to embody the final, complete and exclusive agreement between the Parties with respect to the
+matters addressed herein; are intended to supersede all prior agreements, understandings and representations written or oral, with respect thereto; and may not be contradicted by evidence of any such prior or contemporaneous agreement, understanding
+or representation, whether written or oral. 
+ 
+10.3 Modifications. This Agreement shall not be modified, amended,
+canceled or altered in any way, and may not be modified by custom, usage of trade or course of dealing, except by an instrument in writing signed by both Parties. All amendments or modifications of this Agreement shall be binding upon the Parties
+despite any lack of consideration so long as the same shall be in writing and executed by the Parties. 
+ 
+10.4 Waiver.
+The performance of any obligation required of a Party hereunder may be waived only by a written waiver signed by the other Party, and such waiver shall be effective only with respect to the specific obligation described. The waiver by either Party
+of a breach of any provision of this Ingot Supply Agreement by the other Party shall not operate or be construed as a waiver of any subsequent breach of the same provision or another provision of this Agreement. 
+ 
+10.5 Export Controls. Neither Party shall commit any act or cause any person to commit any act which would violate any applicable
+export control laws, rules or regulations, and each Party will take any and all actions within its ability to assure compliance with such laws, rules or regulations. The Parties shall not, directly or indirectly, export, re-export or transship the
+Product and/or technical data for such Product in violation of any applicable export control laws promulgated and administrated by the government of any country having jurisdiction over the Parties or the transactions contemplated herein.
+
+10.6 Severability. In the event that any term, condition or provision of this Agreement is held to be or become
+invalid or be a violation of any applicable law, statute or regulation, the same shall be deemed to be deleted from this Agreement and shall be of no force and effect and the Agreement shall remain in full force and effect as if such term, condition
+or provision had not originally been contained in this Agreement. The validity and enforceability of the other provisions shall not be affected thereby. In such case or in the event that this Agreement should have a gap, the Parties hereto shall
+agree on a valid and enforceable provision completing this Agreement, coming as close as possible to the economic intentions of the Parties. In the event of a partial invalidity the Parties agree that this Agreement shall remain in force without the
+invalid part. This shall also apply if parts of this Agreement are partially invalid. 
+
+***CONFIDENTIAL MATERIAL REDACTED AND 
+ 
+SEPARATELY FILED WITH THE COMMISSION*** 
+
+14 
+
+10.7 Governing Law and Dispute Resolution. This Agreement, and the rights and
+obligations of the Parties hereunder, shall be interpreted and governed in accordance with the laws of Republic of Korea, without regard to conflict of laws principles. The United Nations Convention on Contracts for the International Sale of Goods
+shall not apply to this Agreement and is expressly excluded. Any disputes incapable of being resolved by mutual agreement of the Parties shall be handled in accordance with Section 17.2 of the JV Agreement, mutatis mutandis. 
+
+10.8 Notices. All notices, demands, requests, consents or other communications hereunder shall be in writing and shall be given
+by personal delivery, by express courier, by registered or certified mail with return receipt requested, or by facsimile, to the Parties at the addresses shown below, or to such other address as may be designated by written notice given by either
+Party to the other Party. Unless conclusively proved otherwise, all notices, demands, requests, consents or other communications hereunder shall be deemed effective upon delivery if personally delivered, five (5) days after dispatch if sent by
+express courier, fourteen (14) days after dispatch if sent by registered or certified mail with return receipt requested, or confirmation of the receipt of the facsimile by the recipient if sent by facsimile. 
+ 
+To Supplier: 
+ 
+Woongjin
+Energy Co., Ltd. 
+ 
+Naewei Bldg., 3F, 6 Euljiro 2-Ga 
+ 
+Joong-Gu, Seoul, Korea 
+ 
+Attention: Manager of Management Planning Team 
+ 
+Facsimile: 82-2-2172-1242 
+ 
+To Purchaser: 
+ 
+SunPower
+Corporation 
+ 
+3939 North First Street 
+ 
+San Jose, California 95134 
+ 
+USA 
+ 
+Attn: Chief Executive Officer 
+ 
+Chief Financial Officer 
+ 
+Fax: +1-408-240-5400 
+ 
+With a copy to: 
+ 
+Jones Day 
+ 
+2882 Sand Hill Road, Suite 240 
+ 
+Menlo Park, CA 94025 
+ 
+USA 
+
+***CONFIDENTIAL MATERIAL REDACTED AND 
+ 
+SEPARATELY FILED WITH THE COMMISSION***
+
+15 
+
+Attention: R. Todd Johnson 
+ 
+Fax: +1-650-739-3900 
+ 
+Email: rtjohnson@jonesday.com 
+ 
+10.9 Assignment. This Agreement may not be assigned or otherwise transferred
+by either Party, in whole or in part, whether voluntary, or by operation of law, except, with respect to Purchaser, in connection with a permitted assignment and transfer under Section 17.7 of the JV Agreement. Subject to the foregoing, this
+Agreement shall be binding upon and inure to the benefit of the Parties and their respective successors and permitted assigns. 
+ 
+10.10 Third Party Benefits. This Agreement shall be binding upon, and inure to the benefit of, each of the Parties and their respective successors and permitted assigns. Nothing contained in this Agreement, express or implied, shall
+be deemed to confer any right or remedy upon, or obligate any Party to, any person or entity other than the Parties and their respective successors and permitted assigns. 
+ 
+10.11 Remedies. The remedies described in this Agreement are not exclusive remedies, and upon breach of this Agreement, either
+Party shall be entitled alternatively or cumulatively to any available remedy against the other Party under the applicable law (including remedies available under this Agreement). Each Party shall have the right to enforce this Agreement and any of
+its provisions by injunction, specific performance or other equitable relief without prejudice to any other rights and remedies that such Party may have for a breach of this Agreement. 
+ 
+10.12 No Partnership or Agency. Nothing in this Agreement shall be construed as creating a joint venture, partnership, agency,
+employment relationship, franchise relationship or taxable entity between the Parties, and neither Party shall have the right, power or authority to create any obligation or duty, express or implied, on behalf of the other Party, it being understood
+that the Parties are independent contractors vis-à-vis one another. 
+ 
+10.13 Captions. The section headings and
+captions contained herein are for purposes of reference and convenience only and shall not in any way affect the meaning or interpretation of this Agreement. 
+ 
+10.14 Number and Gender. Whenever used in this Agreement, the singular terms shall include the plural and the plural the singular,
+and the use of any gender shall be applicable to all genders. 
+ 
+10.15 English Language. The official language of this
+Agreement is English. All contract interpretations, notices and dispute resolutions shall be in English. Any attachments or amendments to this Agreement shall be in English. Translations of any of these documents shall not be construed as official
+or original versions of such documents. 
+
+***CONFIDENTIAL
+MATERIAL REDACTED AND 
+ 
+SEPARATELY FILED WITH THE COMMISSION*** 
+
+16 
+
+10.16 Counterparts. This Agreement may be executed in counterparts or duplicate
+originals, both of which shall be regarded as one and the same instrument, and which shall be the official and governing version in the interpretation of this Agreement. 
+ 
+[Signature page follows] 
+
+***CONFIDENTIAL MATERIAL REDACTED AND 
+ 
+SEPARATELY FILED WITH THE COMMISSION*** 
+
+17 
+
+IN WITNESS WHEREOF, the Parties hereto have caused this Ingot Supply Agreement to be executed by
+their respective duly authorized officers as of the Execution Date. 
+
+WOONGJIN ENERGY CO., LTD.
+
+ SUNPOWER CORPORATION
+
+By:
+
+ By:
+
+Name:
+
+ Name:
+
+Title:
+
+ Title:
+
+***CONFIDENTIAL
+MATERIAL REDACTED AND 
+ 
+SEPARATELY FILED WITH THE COMMISSION*** 
+
+SCHEDULE 1.18 
+ 
+150mm Mono-Crystalline Silicon Wafer for Solar Cells 
+
+ DESCRIPTION
+ 
+ 150mm N-TYPE
+PRIME WAFER
+ 
+ UNIT
+ 
+ REMARKS
+
+ PART NUMBER
+ 
+ WFP150220CW
+
+ **
+
+1. GENERAL CHARACTERISTICS
+
+ 1.1
+ 
+ GROWTH METHOD
+ 
+ CZ / MCZ
+
+ 1.2
+ 
+ AS-GROWN INGOT DIAMETER
+ 
+ >152
+ 
+ mm
+
+ 1.3
+ 
+ AS-GROUND INGOT DIAMETER
+ 
+ 150 ± 0.2
+ 
+ mm
+ 
+ ASTM F613
+
+ 1.4
+ 
+ INGOT LENGTH
+ 
+ 150 ~ 400
+ 
+ mm
+ 
+ Negotiable
+
+ 1.5
+ 
+ CRYSTAL ORIENTATION
+ 
+ <100> ± 3.0°
+
+ ASTM F26
+
+ 1.6
+ 
+ CONDUCTIVITY TYPE
+ 
+ N
+
+ ASTM F42
+
+ 1.7
+ 
+ DOPANT
+ 
+ PHOSPHORUS
+
+2. ELECTRICAL CHARACTERISTICS
+
+ 2.1
+ 
+ RESISTIVITY (*)
+ 
+ ***
+ 
+ W.Cm 
+ 
+ ASTM F84 / F673
+
+ 2.2
+ 
+ RADIAL RESISTIVITY GRADIENT
+ 
+ N/A
+ 
+ %
+ 
+ ASTM F81
+
+ 2.3
+ 
+ MCLT (by Sinton Tester) : as-grown Ingot
+ 
+ ***
+ 
+ µs
+ 
+ See Appendix
+
+3. CHEMICAL CHARACTERISTICS
+
+ 3.1
+ 
+ OXYGEN CONCENTRATION
+ 
+ ***
+ 
+ ppma
+ 
+ ASTM F121-83
+
+ 3.2
+ 
+ RADIAL OXYGEN GRADIENT
+ 
+ N/A
+ 
+ %
+ 
+ ASTM F951
+
+ 3.3
+ 
+ CARBON CONCENTRATION
+ 
+ ***
+ 
+ ppma
+ 
+ ASTM F1391-93
+
+ 3.4
+ 
+ NITROGEN CONCENTRATION
+ 
+ N/A
+ 
+ ppma
+
+4. MECHANICAL CHARACTERISTICS
+
+ 4.1
+ 
+ DIAGONAL LENGTH
+ 
+ 150 ± 0.2
+ 
+ mm
+ 
+ ASTM F613
+
+ 4.2
+ 
+ FLAT TO FLAT LENGTH
+ 
+ 125 ± 0.3
+ 
+ mm
+
+ 4.3
+ 
+ CORNER LENGTH
+ 
+ 21.05 ± 1.31
+ 
+ mm
+ 
+ See Appendix
+
+ 4.4
+ 
+ FLAT ORIENTATION
+ 
+ {100} ± 3.0°
+
+ ASTM F847
+
+ 4.5
+ 
+ SURFACE FINISH
+ 
+ ***
+
+5. STRUCTURAL CHARACTERISTICS
+
+ 5.1
+ 
+ ETCH PIT DENSITY (EPD)
+ 
+ N/A
+ 
+ ea/cm2
+ 
+ ASTM F47
+
+ 5.2
+ 
+ SLIP/SWIRL/TWIN
+ 
+ NONE
+
+ ASTM F47
+
+ 5.3
+ 
+ OXIDATION INDUCED DEFECTS(OISF)
+ 
+ N/A
+ 
+ ea/cm2
+ 
+ ASTM F416-85
+
+6. SURFACE VISUAL INSPECTION
+CHARACTERISTICS
+
+ 6.1
+ 
+ SCRATCH
+ 
+ NONE
+
+ 6.2
+ 
+ EDGE CHIP
+ 
+ NONE
+
+ 6.3
+ 
+ EDGE CRACK
+ 
+ NONE
+
+ * Resistivity is measured by using 4-point probe after thermal donor annealed (700°C,10min, N2)
+
+ Or, Resistivity is measured at bottom of as-grown ingot by Sinton tool
+
+ ** CW : will be issued by SunPower Purchasing (C:Ingot Supplier, W:Wiresawing Location) 
+
+ ***
+
+***CONFIDENTIAL
+MATERIAL REDACTED AND 
+ 
+SEPARATELY FILED WITH THE COMMISSION*** 
+
+165mm Mono-Crystalline Silicon Wafer for Solar Cells 
+
+ DESCRIPTION
+ 
+ 165mm N-TYPE
+PRIME WAFER
+ 
+ UNIT
+ 
+ REMARKS
+
+PART
+NUMBER
+
+ WFP165190CW
+
+ **
+
+ 1. GENERAL
+CHARACTERISTICS
+
+ 1.1
+ 
+ GROWTH METHOD
+ 
+ CZ / MCZ
+
+ 1.2
+ 
+ AS-GROWN INGOT DIAMETER
+ 
+ 167~172
+ 
+ mm
+
+ 1.3
+ 
+ AS-GROUND INGOT DIAMETER
+ 
+ 165.0 ± 0.2
+ 
+ mm
+ 
+ ASTM F613
+
+ 1.4
+ 
+ INGOT LENGTH
+ 
+ 150 ~ 400
+ 
+ mm
+ 
+ Negotiable
+
+ 1.5
+ 
+ CRYSTAL ORIENTATION
+ 
+ <100> ± 3.0°
+
+ ASTM F26
+
+ 1.6
+ 
+ CONDUCTIVITY TYPE
+ 
+ N
+
+ ASTM F42
+
+ 1.7
+ 
+ DOPANT
+ 
+ PHOSPHORUS
+
+ 2. ELECTRICAL
+CHARACTERISTICS
+
+ 2.1
+ 
+ RESISTIVITY (*)
+ 
+ ***
+ 
+ W.Cm 
+ 
+ ASTM F84 / F673
+
+ 2.2
+ 
+ RADIAL RESISTIVITY GRADIENT
+ 
+ N/A
+ 
+ %
+ 
+ ASTM F81
+
+ 2.3
+ 
+ MCLT (by Sinton Tester) : as-grown Ingot
+ 
+ ***
+ 
+ µs
+ 
+ See Appendix
+
+3. CHEMICAL CHARACTERISTICS
+
+ 3.1
+ 
+ OXYGEN CONCENTRATION
+ 
+ ***
+ 
+ ppma
+ 
+ ASTM F121-83
+
+ 3.2
+ 
+ RADIAL OXYGEN GRADIENT
+ 
+ N/A
+ 
+ %
+ 
+ ASTM F951
+
+ 3.3
+ 
+ CARBON CONCENTRATION
+ 
+ ***
+ 
+ ppma
+ 
+ ASTM F1391-93
+
+.
+
+ 3.4
+ 
+ NITROGEN CONCENTRATION
+ 
+ N/A
+ 
+ ppma
+
+ 4. MECHANICAL
+CHARACTERISTICS
+
+ 4.1
+ 
+ DIAGONAL LENGTH
+ 
+ 165.0 ± 0.2
+ 
+ mm
+ 
+ ASTM F613
+
+ 4.2
+ 
+ FLAT TO FLAT LENGTH
+ 
+ 125 ± 0.3
+
+ 4.3
+ 
+ CORNER LENGTH
+ 
+ 8.75 ± 0.5
+ 
+ mm
+ 
+ See Appendix
+
+ 4.4
+ 
+ FLAT ORIENTATION
+ 
+ {100} ± 3.0°
+
+ ASTM F847
+
+ 4.5
+ 
+ SURFACE FINISH
+ 
+ ***
+
+ 5. STRUCTURAL
+CHARACTERISTICS
+
+ 5.1
+ 
+ ETCH PIT DENSITY (EPD)
+ 
+ N/A
+ 
+ ea/cm2
+ 
+ ASTM F47
+
+ 5.2
+ 
+ SLIP/SWIRL/TWIN
+ 
+ NONE
+
+ ASTM F47
+
+ 5.3
+ 
+ OXIDATION INDUCED DEFECTS(OISF)
+ 
+ N/A
+ 
+ ea/cm2
+ 
+ ASTM F416-85
+
+6. SURFACE VISUAL INSPECTION CHARACTERISTICS
+
+ 6.1
+ 
+ SCRATCH
+ 
+ NONE
+
+ 6.2
+ 
+ EDGE CHIP
+ 
+ NONE
+
+ 6.3
+ 
+ EDGE CRACK
+ 
+ NONE
+
+ *
+ Resistivity is measured by using 4-point probe after thermal donor annealed (700°C, 10min, N2) 
+
+ Or, Resistivity is measured at bottom of as-grown ingot by Sinton tool 
+
+ **
+ CW : will be issued by SunPower Purchasing (C:Ingot Supplier, W:Wiresawing Location) 
+
+ ***
+
+***CONFIDENTIAL
+MATERIAL REDACTED AND 
+ 
+SEPARATELY FILED WITH THE COMMISSION*** 
+
+SCHEDULE 3.1(a) 
+ 
+[Purchase Price for SP Polysilicon Based Products] 
+ 
+The purchase price for SP Polysilicon Based Products per kilogram shall
+be determined based on (a) the year in which such SP Polysilicon Based Products are ordered, (b) the price per kilogram actually paid by Supplier for the polysilicon used to make such SP Polysilicon Based Products (“Poly
+Price”), and (c) the amount of any Cost Savings (as defined below), in accordance with the following formula: 
+
+ Year
+ 
+ Formula
+
+ 1st Year
+ 
+ (*** Poly Price + $***) - Cost Savings
+
+ 2nd Year
+ 
+ (*** * Poly Price + $***) - Cost Savings
+
+ 3rd Year
+ 
+ (*** * Poly Price + $***) – (Cost Savings + $***)
+
+ 4th Year
+ 
+ (*** * Poly Price + $***) – (Cost Savings + $***)
+
+ 5th Year
+ 
+ (*** * Poly Price + $***) – (Cost Savings + $***)
+
+As used in this Schedule, the term “Cost Savings” shall mean ***% of the quotient obtained
+by dividing (a) the sum of (i) the product of (A) the aggregate number of crucibles of Supplier in the then prior calendar month and (B) the amount, if any, by which the average monthly quartz crucible costs of Supplier for the
+then prior calendar month is less than $*** per crucible and (ii) the product of (A) the aggregate number of hot zones of Supplier in the then prior calendar month and (B) the amount, if any, by which the average monthly hot zone
+costs of Supplier for the then prior calendar month is less than $*** per hot zone, by (b) the aggregate weight, expressed in kilograms, of all Products manufactured by Supplier during the then prior calendar month. 
+ 
+For example, using the following assumed Poly Prices and assuming no Cost Savings, the purchase price for SP Polysilicon Based Products would be as follows for the
+following years: 
+
+ Year
+ 
+ Poly Price
+ 
+ Cost Savings
+ 
+ Ingot Price
+
+ 1st Year
+ 
+ $***
+ 
+ $***
+ 
+ $***
+
+ 2nd Year
+ 
+ $***
+ 
+ $***
+ 
+ $***
+
+ 3rd Year
+ 
+ $***
+ 
+ $***
+ 
+ $***
+
+ 4th Year
+ 
+ $***
+ 
+ $***
+ 
+ $***
+
+ 5th Year
+ 
+ $***
+ 
+ $***
+ 
+ $***
+
+***CONFIDENTIAL
+MATERIAL REDACTED AND 
+ 
+SEPARATELY FILED WITH THE COMMISSION*** 
+
+SCHEDULE 3.1(b) 
+ 
+[Purchase Price for Non-SP Polysilicon Based Products] 
+ 
+Same as Schedule 3.1(a) attached
+to this Agreement. 
+
+***CONFIDENTIAL MATERIAL REDACTED AND
+
+SEPARATELY FILED WITH THE COMMISSION***

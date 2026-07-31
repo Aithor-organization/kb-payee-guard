@@ -1,0 +1,202 @@
+EX-10.1
+2
+once_ex101.htm
+LONG-TERM SUPPLY AGREEMENT
+
+ once_ex101.htm
+
+EXHIBIT 10.1
+
+LONG-TERM SUPPLY AGREEMENT
+
+THIS LONG-TERM SUPPLY AGREEMENT (the "Supply Agreement") is made effective as of the ____ day of July, 2012 ("Effective Date"), by and between ____________ (“Supplier”), ________________________ its principal place of business at ________________ ("Supplier"), and Islet Sciences, Inc., (“ISI”), a Nevada corporation, having its principal place of business at __________________("Buyer").
+
+Recitals
+
+A. Buyer researches, develops, and commercializes certain technologies in the field of xenotransplantation, specifically the use of porcine islets for the treatment of diabetes; and
+
+B. Supplier desires to sell to Buyer, and Buyer desires to purchase from Supplier, certain Pigs sourced from Supplier's barrier facility located at ______________________ (the "Facility," “Source Animal Facility,” and “SAF”) solely for Buyer's use in its diabetes research, including xenotransplantation in humans for clinical trials, such use to include provision of such Pigs to third parties under contract with Buyer solely in connection with such research (the "Permitted Use").
+
+NOW, THEREFORE, in consideration of the foregoing and the covenants contained herein, the parties agree as follows:
+
+Article 1. Purchase and Supply of Pigs: Terms
+
+1.1 Pigs. Subject to Section 1.2, Supplier shall use its best efforts to breed, grow and provide to Buyer without further cost (beyond fees and expenses due pursuant to Sections 1.3, 1.4 and 2.2) the number of "Designated Pathogen Free" (as specified in more detail in Exhibit A), pre-weaned pigs of 16 to 22 days of age (or pancreases or islets, if mutually agreed upon) requested by Buyer from the Facility (collectively, "Pigs”). In two of the first three months of the term of this Supply Agreement Supplier will provide a limited number of Pigs. Thereafter Supplier’s target production will be, in each of the three month periods beginning November, February, May, August during the term of this Supplier Agreement, two batches of between twenty (20) and thirty-five (35) Pigs each; provided however, that to the extent production capacity is available at Supplier’s facility, Supplier shall use its best efforts to deliver two batches of up to forty-five (45) Pigs in each three month period. For all purposes under this Supply Agreement, the term "month'" shall mean the period from the 15ih day of one calendar month through the 14lh day of the following calendar month. The first month under this agreement is the period July 15, 2012 to August 15, 2012, the second month is the period August 15, 2012 to September 15, 2012 and so on. Buyer shall use the Pigs solely for the Permitted Use and will be responsible for complying with all Laws applicable to and relating to Buyer's Permitted Use. As used in this Supply Agreement, the term "Laws" means all applicable U.S. laws, regulations, rules, ordinances and requirements, including without limitation the United States Food, Drug, and Cosmetic Act, the Occupational Safety and Health Act, the Fair Labor Standards Act and all regulations and orders issued there under, and all applicable Federal Food and Drug Administration ("FDA") and other applicable regulatory authorities' standards.
+
+1.2 Production Amounts. Buyer, on the date of this Supply Agreement, and on the 15th day of each month thereafter, shall provide Supplier a good-faith six month rolling forecast for the number of requested Pigs. During the term of this Supply Agreement and any extension thereof, orders may be made for a one-month supply of Pigs, on a monthly basis.
+
+1
+
+1.3 Fees and Expenses. Regardless of the number of Pigs ordered during each month of this Supply Agreement, Buyer shall pay Supplier a monthly fee of $100,000 for each month of this Supply Agreement (the "Monthly Fee''). Supplier may, -at any time, and from time-to-time, during any renewal term of this Agreement, upon at least 30 days prior written notice to Buyer, increase the Monthly Fee; provided, however that each such increase, if any, must not exceed the CPI Fraction for the increase in question. The increase in Monthly Fee shall be calculated as follows: $100,000 multiplied by the CPI Fraction. "CPI Fraction" shall mean a fraction, the numerator of which is the most recent CPI as of the commencement of the month, or months as the Supplier shall determine from time-to-time and at any time during any month during the initial term or any renewal term of this Agreement of this Supply Agreement, and the denominator of which is the most recent CPI as of the Effective Date of this Supply Agreement. "CPI means the "Consumer Price Index, All Urban Consumers, U.S. City Average, All Items, Standard Reference Base 1982-84 = 100.” If the CPI is discontinued, comparable statistics on the purchasing power of the consumer dollar as published al the time of said discontinuation by a responsible financial periodical of recognized authority selected by Supplier, shall be used for making the above computation. If the Standard Reference Base used in computing the CPI is changed such that the CPI for the 1982-84 = 100 Standard Reference Base is no longer published, the figures used in making the foregoing adjustments shall accordingly be changed so that all increases in the CPI are taken into account notwithstanding any change in the Standard Reference Base.
+
+In addition to the Monthly Fee provided for herein, Buyer shall pay expenses for fixtures and equipment needed to enable efficient production and organ harvest from pigs at the age range required by Buyer not to exceed an amount of $25,000 during the initial term of this Agreement. Buyer shall also pay Supplier's agreed upon out-of-pocket expenses for enabling the harvest of or harvesting the pancreases, if the parties agree that Supplier shall harvest and supply pancreases, the preparation and packaging of the pancreases for shipping, the shipping and insurance costs and all applicable taxes and other governmental charges. Similarly, Buyer shall pay Supplier's agreed upon expenses associated with the isolation and shipping of islets if the parties agree that Supplier shall harvest and supply islets. Supplier's expenses shall consist of Supplier's actual costs, plus overhead determined in accordance with Supplier's standard overhead policies. Buyer shall have the right to audit such expense amounts. Any additional testing other than that specified in Appendix A that is performed at the request of Buyer will be paid for by the Buyer.
+
+1.4 Payment Terms, The Monthly Fee shall be due on or before the 15th of each month, with the first payment due on the date of last signature on this Supply Agreement. Supplier shall submit invoices for the additional fees and expenses due pursuant to Section 1.3, and Buyer shall pay such invoices in full within 30 days after the receipt of the applicable invoice.
+
+Article 2. Specifications; Quality Assurance; inspections
+
+2.1 Specifications.
+
+ A. All Pigs supplied by Supplier shall:
+
+(i) meet all material requirements, standards and specifications inExhibit Aas applies to Supplier (the "Specifications");
+
+(ii) be labeled as indicated by Supplier: and
+
+(iii) be free and clear of all liens and encumbrances or other defects intitle (collectively, the "QA Standards").
+
+ B. Supplier shall maintain ongoing quality assurance and testing procedures as set forth in Exhibit A. Supplier shall be responsible for complying with all Laws applicable to and relating to the Pigs during the time such Pigs are in Supplier's custody and control. Supplier shall participate in any discussions with FDA regarding the use of the Pigs for human clinical trials and provide any reasonably requested assistance and documentation with respect to the Pigs and such use.
+
+2
+
+ C. Supplier will agree to modifications of the Specifications as requested by the Buyer and as required to ensure compliance with FDA guidelines, regulations and applicable laws of the United States.
+
+2.2 Shipping. Unless Buyer elects to pick up Pigs directly from Supplier’s facility, Supplier shall: (a) ship all Pigs to Buyer according to Buyer's shipping instructions, FOB delivered freight collect, with title to the Pigs and risk of loss and damage passing to Buyer upon delivery of the Pigs to the carrier specified by Buyer; and (b) pack all Pigs suitably for shipment according to common carriers’ requirements. It shall be Buyer's duty to insure the Pigs in transit. Buyer shall pay all applicable taxes and other governmental charges associated with the sale of the Pigs. If Buyer elects to pick up Pigs directly from Supplier’s facility Buyer will bear all costs of harvesting, packing, shipping and related expense, as well as all risk of loss.
+
+2.3 Inspection of Pigs. Buyer shall inspect each Pig within 5 days after its receipt and within 10 days after its receipt advise Supplier if any such Pig does not conform to the QA Standards. If Supplier agrees that any Pig, with respect to which Buyer has given timely notice, does not conform to the QA Standards, the Buyer shall, at Supplier's expense and option, either destroy or have destroyed such Pig, and Supplier shall make arrangements to replace it with another Pig free of any charge or expense to Buyer, including any costs or expenses for redelivery.
+
+2.4 Documentation and Inspections. Subject to the provisions of Article 3 of this Supply Agreement, and further subject to Supplier's security, health and safety and other policies and procedures with respect to the Facility, Supplier shall make available to Buyer, as may be reasonably requested by Buyer, the Specifications and related documents directly related to the Pigs and Supplier's compliance with QA Standards, and any other provisions of this Agreement, including Section 1.3 above. Subject to the provisions of Article 3 of this Supply Agreement, Buyer shall have the right with advance written notice and at times agreed to by Supplier, such agreement not to be unreasonably withheld, during regular business hours, to enter upon Facility and to (a) make inspections reasonably necessary to properly ascertain compliance with the QA Standards and this Supply Agreement, and (b) harvest or train Supplier personnel to harvest Pig pancreases or islets.
+
+2.5 Required Notification. Supplier shall immediately give Buyer notice, by telecopy, with confirming notice by U.S. mail, if Supplier becomes aware of any defect or condition which in any way does not conform to the Specifications or quality of any Pigs supplied by Supplier or which may render any such Pig ineffective, dangerous and/or in material violation of the QA Standards.
+
+2.6 Tracing. Supplier shall: (a) trace and maintain records regarding the source and, if applicable, lot number of each Pig; and (b) maintain such records for not less than 50 years after the termination or expiration of this Supply Agreement or such lesser time period as required under applicable law.
+
+Article 3. Confidentiality
+
+A. A party receiving Confidential Information will restrict the use of the Confidential Information to those purposes necessary for the performance of the receiving party's obligations and the exercise of the receiving party’s rights under this Agreement, and, during the term of this Agreement and thereafter, will safeguard against disclosure of the Confidential Information to third parties using the same degree of care to prevent disclosure as it uses to protect its own information of like importance, but at least reasonable care. A party may make only the minimum number of copies of any Confidential Information required to carry out the purpose of this Agreement. All proprietary and copyright notices in the original must be affixed to copies or partial copies. Each party must provide the other with notice of any governmental, judicial or administrative order or proceeding to compel the disclosure of Confidential Information received under this Agreement, as promptly as the circumstances of such order or proceeding reasonably permit.
+
+3
+
+For purposes of this Agreement “Confidential Information” means all information that is (i) disclosed by either party in any tangible form, (ii) disclosed by either party orally or visually, or (iii) disclosed by either party, or accessed by either party, and the recipient knows or should reasonably be expected to know is confidential to the other party.
+
+B. Neither party will be obligated to maintain any information in confidence or refrain from use if, (i) the information was in the receiving party's possession or was known to it prior to its receipt from the disclosing party, (ii) the information is independently developed by the receiving party without the utilization of Confidential Information of the disclosing party, (iii) the information is or becomes public knowledge without fault of the receiving party or (iv) the information is disclosed to the receiving party by a third party having no confidentiality obligation to the disclosing party.
+
+C. Except as may expressly be set forth herein, neither party grants to the other any rights, by implication, estoppel or otherwise, to or under their patents, know-how, copyrights or proprietary information of such party to the other. All such rights are expressly reserved. Nothing herein shall grant a right to the other party's logos, names, trade names, service names or trademarks.
+
+D. Neither party will use publicly for publicity, promotion, or the like, the other party’s name, logo, name, trade name, service mark, or trademark of the other, without such party's prior, written, express consent.
+
+Article 4. Representations and Warranties
+
+4.1 Of Supplier relating to Pigs. Supplier represents and warrants that (a) all Pigs that are delivered to Buyer hereunder shall conform in all material respects to and be in accordance with the QA Standards and Supplier's quality assurance policies and procedures as defined in Appendix A; (b) that the Facility will be operated in accordance with all applicable laws, regulations and guidelines, and the Pigs will be qualified for human use.
+
+4.2 Limited Warranty. EXCEPT AS SPECIFICALLY SET FORTH SECTION 4.1 ABOVE, ALL PIGS ARE PROVIDED “AS IS” AND SUPPLIER DISCLAIMS ALL WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION THE IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR ARISING FROM COURSE OF DEALING, COURSE OF PERFORMANCE OR USAGE OF TRADE.
+
+4.3 Buyer will undertake all necessary and appropriate actions required by Laws so as to ensure that Buyer's provision of Pigs to any third party does not increase the scope of Supplier's responsibility and warranty as set forth above and Buyer shall defend, indemnify and hold harmless Supplier from all claims by any third party arising out of or relating to the supply of Pigs to third parties, excluding any such claims that arise solely out of intentional or illegal activities by Supplier or Supplier’s breach of Section 4.1. Supplier' s limits of responsibility as set forth above are valid and enforceable against whomever they are applicable.
+
+4
+
+4.4 Other Representations and Warranties. Each of the parties hereby represents and warrants to the other that: (a) it has full power and authority required to enter into, execute and deliver this Supply Agreement, to carry out Its obligations hereunder, and to perform the transactions contemplated hereby; (b) this Supply Agreement has been duly executed and delivered by, is the valid and binding obligation of and is enforceable against, such party in accordance with its terms; (c) the execution and delivery of and performance under this Supply Agreement by such party does not, and will not, conflict with or violate any other agreement or obligations with third parties or any restrictions of any kind or any Law to which it is bound or subject; and (d) it has the unrestricted right to disclose any information it submits to she other party, free of all claims of third parties, and that such disclosures do not breach or conflict with any confidentiality provisions of any agreement to which it is a party.
+
+Article 5. Limitations of Remedies
+
+5.1 Delay. SUPPLIER SHALL NOT BE LIABLE FOR ANY LOSS OR DAMAGE CAUSED BY DELAY IN FURNISHING PIGS, OR ANY OTHER PERFORMANCE UNDER OR PURSUANT TO THIS SUPPLY AGREEMENT.
+
+5.2 Consequential Damages. IN NO EVENT SHALL EITHER PARTY'S LIABILITY OF ANY KIND INCLUDE ANY SPECIAL, INDIRECT, INCIDENTAL OR CONSEQUENTIAL LOSSES OR DAMAGES, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH POTENTIAL LOSS OR DAMAGE. THIS PROVISION SHALL NOT APPLY TO EITHER PARTY’S OBLIGATION TO INDEMNIFY EACH OTHER HEREUNDER.
+
+Article 6. Indemnification; Insurance
+
+6.1 Indemnification by Buyer. To the fullest extent allowed by applicable law, Buyer shall indemnify, defend and hold Supplier and its officers, directors, agents, consultants, insurers, employees, and shareholders harmless, from and against all liabilities, claims, suits, damages, losses, causes of action, and expenses (including but not limited to: (y) attorneys' fees and other costs associated with the handling or defense of any such liabilities, claims, suits, damages, losses, and causes of action; and (z) all costs and administrative fees associated with any recall of any items supplied by Supplier) that arise out of or relate to a breach by Buyer of this Agreement, whether such Liability is stated as a product liability claim, a strict liability claim, a negligence claim, a contract, a tort claim or any other claim, unless such claim results solely from Supplier’s breach of this Agreement.
+
+6.2 Indemnification by Supplier. To the fullest extent allowed by applicable law, Supplier shall indemnify, defend and hold Buyer and its officers, directors, agents, consultants, insurers, employees, and shareholders harmless, from and against all liabilities, claims, suits, damages, losses, causes of action, and expenses (including but not limited to: (y) attorneys' fees and other costs associated with the handling or defense of any such liabilities, claims, suits, damages, losses, and causes of action; and (z) all costs and administrative fees associated with any recall of any items supplied by Supplier) that arise out of or relate to a breach by Supplier of this Agreement, whether such Liability is stated as a product liability claim, a strict liability claim, a negligence claim, a contract, a tort claim or any other claim, unless such claim results solely from Buyer’s breach of this Agreement.
+
+6.3 Insurance. Buyer and Supplier shall: (a) at their sole cost and expense, purchase and maintain in full force and effect, during the term of this Supply Agreement and for a period sufficient to cover its obligations hereunder, commercial general liability insurance, in amounts not less than $1 million per occurrence and $2 million in the aggregate, which names the other party and its affiliates as additional insureds on such policies and which policies waive subrogation against the other party and its affiliates and such other additional insureds: and (b) upon request from the other party from time-to-time, provide the other party with certificates of insurance from reputable insurers approved by such party showing compliance with the foregoing provisions.
+
+5
+
+Article 7. Term and Termination
+
+7.1 Term. Subject to Section 7.2, the initial term of this Supply Agreement shall be two years, commencing as of the Effective Date and ending two years thereafter; provided, however, that this Supply Agreement will automatically renew for one additional two year term unless no later than the date one hundred and eighty (180) days prior to the first day of that renewal term either party gives the other notice of its intention not to renew. All orders for Pigs placed by Buyer and accepted by Supplier prior to termination or expiration of this Supply Agreement shall be subject to the terms of this Supply Agreement.
+
+7.2 Early Termination.
+
+A. Notwithstanding Section 7.1, either party shall have the right to terminate this Supply Agreement without liability therefore, after written notice to the other, if the other party: (i) materially breaches any of its obligations under this Supply Agreement and fails to cure such breach within 90 days after receiving written notice from the non-­breaching party: or (ii) becomes the subject of voluntary or involuntary bankruptcy, reorganization, receivership, or insolvency proceedings that are not dismissed within 60 days after commencement thereof.
+
+B. Upon the expiration or any termination by Buyer or in the event , Buyer shall thereafter have no liability to Supplier hereunder except (i) for any payments accrued and owing to Supplier as of such date, or (ii) pursuant to the provisions of Section 7.3.
+
+C. Force Majeure. Neither party shall be in default in the performance of its obligations under this Supply Agreement if such performance is prevented or delayed because of war or similar unrest, labor dispute or strike, transportation difficulties, unavailability of Pigs or necessary raw materials, epidemic, fire, natural disaster, any law of any governmental or other authority, acts of God, or other similar cause, that is beyond the control of and which could not have reasonably been prevented by the party whose performance is affected; provided, however, that if such delay continues for 60 days or more, then either party may upon written notice cancel all or any portion of unfilled Orders and terminate this Supply Agreement.
+
+7.3 Survival. In any event, all obligations which are by their nature continuing, including without limitation the obligations contained in Sections 2.4 for a period of one year thereafter. 2.5, 2.6, Article 3, Article 4, Article 5, Article 6, and Article 9, and Buyer’s obligations to make payment of all amounts then or thereafter due under this Agreement shall survive the expiration and/or termination of this Supply Agreement for any reason.
+
+Article 8.
+
+8.1 Warrants. In consideration of Supplier's entering into this Supply Agreement. Buyer hereby agrees to provide to Supplier warrants to purchase Buyer's common stock as follows:
+
+A. The first warrant shall be signed and delivered by Buyer to Supplier within five (5) days after IND approval for a product using the Pigs (the "IND Date"). Such warrant shall be for the right to purchase 75,000 shares of Buyer's common stock at a warrant exercise price per share of the Reference Market Value. As used in this Section 8, "Reference Market Value" means the average closing sale price, as reported by Bloomberg, L.P. of a share of Buyer's common stock for the fifteen (15) consecutive trading day period ending one day prior to the Effective Date of this Supply Agreement. The first warrant may be exercised at anytime and from time-to-time for three (3) years following the IND Date.
+
+6
+
+B. The second warrant shall be signed and delivered by Buyer to Supplier within five (5) days after approval to start a Phase II clinical trial using the Pigs (the "Phase II Date"). Such warrant shall be for the right to purchase 75,000 shares of Buyer's common stock at a warrant exercise price per share of the Reference Market Value. The second warrant may be exercised at anytime and from time-to-time for three (3) years following the Phase II Date.
+
+C. The third warrant shall be signed and delivered by Buyer to Supplier within five (5) days after approval to start a Phase III clinical trial using the Pigs (the "Phase III Date"). Such warrant shall be for the right to purchase 75,000 shares of Buyer's common stock at a warrant exercise price per share of the Reference Market Value. The third warrant may be exercised at anytime and from time-to-time for three (3) years following the Phase III Date.
+
+D. The fourth warrant shall be signed and delivered by Buyer to Supplier within five (5) days after NDA/BLA approval for a product using the Pigs (the "NDA Date"). Such warrant shall be for the right to purchase 75,000 shares of Buyer's common stock at a warrant exercise price per share of the Reference Market Value. The fourth warrant may be exercised at anytime and from time-to-time for three (3) years following the NDA Date.
+
+Article 9. Miscellaneous
+
+9.1 Independent Contractors. The parties are independent contractors and nothing contained in this Supply Agreement shall be deemed to create the relationship of employment, partnership, joint venture or any association or relationship between the parties other than that of buyer and supplier. Neither party has the authority to bind the other without express written authorization of such other party.
+
+9.2 Entire Agreement: Amendments. The terms of this Supply Agreement, shall constitute the entire agreement between the parties as to the subject matter of this Supply Agreement, and the provisions of this Supply Agreement shall supersede all prior oral and written commitments, contracts, and understandings relating to the subject matter of this Supply Agreement. All exhibits attached to this Supply Agreement, and the Specifications and other documentation referenced herein, are hereby incorporated by reference in this Supply Agreement and made a part hereof. Notwithstanding anything to the contrary in this Supply Agreement, any information disclosed prior to the Effective Date shall be governed by this Supply Agreement. This Supply Agreement may be amended only by a writing signed by both parties. This Supply Agreement is intended to be solely for the benefit of the parties and Supplier's Affiliated Entities and no other person or entity.
+
+9.3 Assignment: Subcontracting. Neither party shall assign this Supply Agreement, whether voluntarily or involuntarily, without the express written consent: of the other party, except that either party may assign some or all of its rights and obligations under this Supply Agreement to any of its Affiliated Entities; without the other party's consent. For purposes of this Supply Agreement, "Affiliated Entities" shall mean, with respect to a party, an entity that, as of the Effective Date owns or controls, is owned or controlled by, or is under common ownership or control with, the party. This Supply Agreement shall be binding on the permitted successors and assigns, and shall inure to the benefit of the permitted successors and assigns of the parties.
+
+9.4 Governing Law: Severability; Waiver; Remedies; Arbitration. The laws of the State of Minnesota, without reference to its principles of conflicts of laws, shall govern this Supply Agreement and its interpretation and construction. If any provision of this Supply Agreement is determined to be unenforceable or prohibited by applicable law, such provision shall be ineffective only to the extent of such unenforceability or prohibition without invalidating the remainder of such provision or the remaining provisions of this Supply Agreement. The waiver of a breach of any provision of this Supply Agreement shall not be deemed a waiver of any other breach of the same or different provision of this Supply Agreement. All disputes arising under or related to this Agreement will be settled by binding arbitration in Minneapolis, Minnesota in accordance with the rules of the American Arbitration Association then in effect, and judgment upon any award rendered in such arbitration (including the award by the arbitrators of attorneys fees of the prevailing party) may be entered in any court having competent jurisdiction.
+
+7
+
+9.5 Compliance with laws. During the term of this Supply Agreement, each of the parties shall comply with all Laws in any way relating to this Supply Agreement or the performance of such party's obligations hereunder.
+
+9.6 Notices. Notification required or permitted hereby shall be deemed given only upon: (a) transmission by telefax, transmission confirmed at the fax number indicated below; (b) enclosure thereof in an adequately post-paid envelope, sent certified mail return receipt requested, delivered to a U.S. Post Office; or (c) sent via a nationally-recognized, overnight delivery service that guarantees overnight delivery; and addressed to the party to be given notification at the address/fax number given below or such change of address/fax number as may be hereafter supplied in writing.
+
+If to Supplier:
+
+ If to Buyer:
+
+ Islet Sciences, Inc.
+
+ Attention: 
+ Attention:
+
+ Fax:
+
+ E-mail:
+ E-Mail:
+
+ With a copy to :
+
+ Ofsink, LLC
+
+ 900 Third Avenue, 5th Floor
+
+ New York, New York 10022
+
+ Fax : 646-224-9844
+
+ E-Mail : dofsink@golawintl.com
+
+8
+
+IN WITNESS WHEREOF, the parties have executed this Supply Agreement as of the Effective Date.
+
+ Supplier: 
+ 
+ Buyer:
+
+Islet Sciences, Inc.
+
+ Signature:
+
+ Signature:
+
+ Printed Name:
+
+ Printed Name:
+
+ Title:
+
+ Title:
+
+ Date:
+
+ Date:
+
+ 9

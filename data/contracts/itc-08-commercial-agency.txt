@@ -1,0 +1,782 @@
+# ITC Model Contract — International Commercial Agency
+# Source: International Trade Centre (ITC), 'Model Contracts for Small Firms', Geneva 2010
+# via UN Digital Library https://digitallibrary.un.org/record/690490
+
+ITC MODEL CONTRACT FOR AN
+                                 INTERNATIONAL COMMERCIAL AGENCY
+
+                            PARTIES:
+
+                            Principal
+
+                            Name (name of company)
+                             . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                            Legal form (e.g. limited liability company)
+                             . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                            Country of incorporation and (if appropriate) trade register number
+                             . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                            Address (address of place of business, phone, fax, e-mail)
+                             . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                             . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                            Represented by (name, position, legal title of representation, address)
+                             . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                             . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                            Referred to as the “Principal”
+
+                            Agent
+
+                            Name (name of company)
+                             . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                            Legal form (e.g. limited liability company)
+                             . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                            Country of incorporation, trade register number and licence number (if
+                            appropriate)
+                             . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                            Address (address of place of business, phone, fax, e-mail)
+                             . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                             . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                            Represented by (name, position, legal title of representation, address)
+                             . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                             . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                            [Add any further information required e.g. The Parties’ fiscal identities]
+
+                            Referred to as the “Agent”
+
+                            Collectively “the Parties”
+
+Background
+                  A.    The Principal carries on business in the (field/provision/supply) of
+                        [specify].
+
+                  B.    The Agent undertakes as part of its business the (introduction and)
+                        [delete if not relevant] the promotion of the sale of products (or services) in
+                        relation to [specify].
+
+                  C.    The Principal wishes to appoint the Agent to (introduce and) [delete if not
+                        relevant] promote the sale of such products (or services) in relation to the
+                        Principal’s business, and the Agent is willing to promote the sale of such
+                        products (or services) accordingly, on the terms of the present contract.
+
+Operative provisions
+
+             1.   Scope of appointment
+                  1.1 The Principal appoints the Agent as its commercial Agent, to promote the
+                  sale of the product(s) (or services) within the territory (and in the promotion
+                  channels) hereafter defined.
+
+                  1.2   Product(s) (or service(s)). The following product(s) (or service(s) shall
+                  be promoted by the Agent under this contract: [describe the product(s)/service(s)]
+
+                  – ...........................................................;
+
+                  – ...........................................................;
+
+                  1.3   Territory. The product(s) (or service(s)) shall be promoted by the Agent
+                  under this contract within the following territory: [describe the territory]
+
+                  – ...........................................................;
+
+                  – ...........................................................;
+
+                  1.4    Promotion channel(s). [Delete if no relevant] The product(s) (or
+                  service(s)) shall be promoted by the Agent throughout the following promotion
+                  channel(s): [describe the promotion channel(s)]
+
+                  – ...........................................................;
+
+                  – ...........................................................;
+
+                  Comment: The Parties may wish to limit the scope of the agency contract to certain
+                  categories of customers. As regards the identification of the promotion channels, the Parties
+                  can either list the categories that fall under this contract (retailers, industrial users, mass
+                  distributors) or list the categories to which the contract will not apply.
+
+             2.   Obligations of the Agent
+                  2.1 In performing its activities, the Agent shall look after the Principal's
+                  interests and act dutifully and in good faith.
+
+                            2.2 The Agent shall (introduce) [delete if not relevant] the product(s) (or
+                            service(s)) and promote the sale of such product(s) (or services) in the territory
+                            (and in the promotion channels) [delete if not relevant] in accordance with the
+                            terms agreed in this contract. The Agent has no authority to make contracts
+                            on behalf of, or in any way to bind the Principal, but it shall pass any offer
+                            received to the Principal.
+
+                            [Alternative (where the Agent has the authority to bind the Principal): “2.2 The Agent
+                            shall (introduce) the product(s) (or service(s)) [delete if not relevant], promote, negotiate
+                            and conclude the sale of the product(s) (or service(s)) in the territory (and in the promotion
+                            channels) [delete if not relevant] in accordance with the terms agreed in this contract. The
+                            Agent shall pass any order received to the Principal.”.]
+
+                            2.3 The Agent is not entitled to receive payments in the name and on
+                            behalf of the Principal without its prior written authorization to that effect.
+                            If the Agent has been authorized, it must transmit the payments as soon as
+                            possible to the Principal and until then hold them separately on deposit on the
+                            Principal's behalf.
+
+                            2.4 The Agent shall strictly observe the contractual provisions communicated
+                            by the Principal and shall bring to the attention of the customers the terms
+                            and conditions of sale (particularly the delivery period, price and payment)
+                            communicated by the Principal.
+
+                            2.5 The Agent shall with due diligence keep the Principal informed about
+                            its activity, the market conditions and the state of competition. The Agent
+                            shall provide all the necessary information in [specify language] to the Principal
+                            available to it concerning the laws and regulations within the territory that
+                            shall apply to the product(s) (or service(s)) as well as its activity. The Agent
+                            shall further send every (three months) [specify any other figure] a report on its
+                            activities.
+
+                            2.6 The Agent shall perform its activity independently and shall, in no case,
+                            be considered as an employee of the Principal.
+
+                     3.     Obligations of the Principal
+                            3.1 In its relation with the Agent, the Principal must act dutifully and in
+                            good faith.
+
+                            3.2 The Principal shall in particular remunerate the Agent according to the
+                            commission and terms of payment provided for in this contract.
+
+                            3.3 The Principal shall inform the Agent before it starts to perform the
+                            obligations mentioned in paragraph 2.2 of the minimum overall orders that
+                            should be collected in order for the Principal to be able to supply the product(s)
+                            (or service(s)).
+
+                            3.4 The Principal shall in addition inform the Agent without delay of its
+                            acceptance, refusal or non-execution of any offers/orders transmitted by the
+                            Agent.
+
+                            3.5 The Principal shall not reject the offers/orders transmitted by the Agent
+                            unless:
+
+                                   3.5.1      There are serious doubts, supported by any written evidence, on
+                                              the solvency of the customer.
+
+                  3.5.2    The offer does not meet the Principal’s expectations in terms of
+                           image and standards.
+
+                  3.5.3    The overall orders collected by the Agent are below the minimum
+                           overall orders referred to in paragraph 3.3.
+
+           3.6 The Principal’s unjustified refusals of offers/orders shall be considered as
+           a breach of the contract by the Principal.
+
+           3.7 The Principal shall immediately inform the Agent of any change in
+           its range of product(s) (or service(s)) its prices, conditions of sale or terms of
+           payment as well as of any change of the technical specifications or capacity
+           of supply of the product(s) (or service(s)). Should the Principal expect that
+           its capacity of supply will be significantly lower than the Agent’s normal
+           expectancy, it shall inform the Agent without delay.
+
+           3.8 The Principal shall provide the Agent, free of charge, with all information
+           and documentation needed for the performance of the present contract,
+           including, but not limited to, the terms and conditions of sale, price lists,
+           technical documents.
+
+           3.9 The Principal shall furthermore keep the Agent informed of any relevant
+           communication with or for the attention of the customers in the territory.
+
+      4.   Minimum orders
+           4.1 The Agent will have to meet the annual minimum orders objectives set
+           out in schedule 1.
+
+           4.2    These objectives will be revised annually [specify any other period].
+
+           4.3 If, at the end of the year [specify any other period], the minimum number/
+           volume of orders applicable to such year is not met by the Agent, the Principal
+           shall be entitled, subject to giving a one month’s notice and not later than
+           two months [specify any other period] after the end of that year at his choice:
+
+                  4.3.1    To terminate the present contract, under Article 14;
+
+                  4.3.2    To cancel the Agent’s exclusivity (whenever applicable); or
+
+                  4.3.3    To reduce the extension of the territory, by excluding the
+                           territories where the Agent has made less promotion.
+
+      5.   Advertising, fairs and exhibitions
+           5.1 The Parties shall agree on the advertising campaign to be made within
+           the territory.
+
+           5.2 The cost of all agreed advertising campaigns shall be at the Principal’s
+           expense.
+
+           [Alternative: “5.2 The cost of agreed advertising campaigns shall be apportioned between
+           the Parties as follows:
+
+           Principal: . . . . . . %
+
+           Agent: . . . . . . %]
+
+                            5.3    The Principal shall supply the Agent, free of charge, with any
+                            advertisement content and materials in relation with the product(s) (or
+                            service(s)) needed for the performance of this contract.
+
+                            [Option: “5.4 The Principal shall also authorize the Agent to issue advertising content
+                            and materials for use in relation with the product(s) or service(s) and not otherwise. All
+                            advertisement content and materials issued by the Agent in relation with the product(s)
+                            (or service(s)) shall strictly conform to the Principal’s guidelines and marketing policies.”]
+
+                            5.5    In any event, the Agent shall ensure that the advertising campaign as
+                            well as the advertisement content and materials strictly comply with local
+                            rules and regulations.
+
+                            5.6    The Parties shall participate in the fairs or exhibitions within the
+                            territory listed in schedule 2.
+
+                            5.7     The Principal will bear the expenses incurred for the participation in a
+                            fair or exhibition.
+
+                            [Alternative: “5.7 The cost of the agreed Agent’s participation shall be apportioned
+                            between the Parties as follows:
+
+                            Principal: . . . . . . %
+
+                            Agent: . . . . . . %”]
+
+                     6.     Internet
+                            The Agent is not authorized to advertise or promote the sale of the products or
+                            its activity as Agent of the Principal on Internet without the Principal’s prior
+                            written approval.
+
+                     7.     Non-competition
+                            [Comment: The Parties may wish to extend the terms of the non-competition clause after
+                            the termination of the contract. In which case, the Parties should take into consideration
+                            the mandatory provisions of the EC Directive of 18 December 1986 and other legal
+                            systems that may restrict the validity of such a clause and allow the court to reduce the
+                            obligations of the Parties.]
+
+                            7.1 The Agent undertakes not to compete with the Principal or to enter
+                            into any business relationship with competitors of the Principal for the entire
+                            duration of the present contract.
+
+                            7.2 In particular, the Agent undertakes not to represent, manufacture, provide
+                            or sell, directly or indirectly, in the territory (and in the promotion channels)
+                            any product(s) (or service(s)) identical with the product(s) (or service(s)) which
+                            compete with the product(s) (or service(s)) without prior written authorization
+                            of the Principal.
+
+                            [Option: “7.3 However, the Agent may represent, manufacture, provide or sell product(s)
+                            (or service(s)) which are not competing with the product(s) (or service(s)), provided it
+                            informs the Principal in advance of such activity.”]
+
+                            [Option: “7.4 The Agent shall inform the Principal of any existing agreement, binding
+                            the Agent, towards any other product(s) (or service(s)), whether as manufacturer,
+
+           representative, Agent or retailer, and shall thereafter keep the Principal informed of any
+           such activity. With regards to this undertaking, the Agent declares that, on the date on
+           which the present contract is signed, it represents (and/or manufactures, distributes, sells
+           directly or indirectly), the products (or service(s)) listed in schedule 3. The exercise of such
+           activity by the Agent shall in no case prejudice the fulfilment of its obligations towards
+           the Principal under the present contract.”]
+
+           [Option: “7.5 This undertaking shall remain valid during a period of two [specify any
+           other figure] years after the termination of the present contract.”]
+
+      8.   Restriction of territory
+           8.1 The Agent shall not solicit orders (or negotiate and conclude contracts)
+           [delete if not applicable] outside the territory, unless expressly agreed by the
+           Principal.
+           8.2 The Agent shall notify the Principal of any inquiry received from
+           outside the territory. Such notification shall not entitle the Agent to any
+           commission.
+
+      9.   Trademarks and property rights
+           9.1 The Principal hereby grants to the Agent the right to use the trademarks,
+           trade names or intellectual property in relation to the product(s) (or service(s))
+           for the purpose of exercising its rights and performing its obligations under
+           this contract.
+           9.2 The Agent shall use the Principal’s trademarks, trade names or
+           intellectual property in relation to the product(s) (or service(s)) in the form
+           and manner specified by the Principal and in the Principal’s sole interest, and
+           not otherwise.
+           9.3 Any use of the Principal’s trademarks, trade names or intellectual
+           property on the Agent’s letter paper, on advertisement materials or on any
+           other materials addressed to third parties or on Internet shall require the prior
+           consent of the Principal.
+
+           9.4 The Agent agrees neither to register, nor to allow or favour the registration
+           by third parties of any of the trademarks in the territory. The Agent further
+           agrees not to include the trademarks in its own trade or company name.
+
+           9.5 The Agent shall notify the Principal of any infringement of the Principal’s
+           trademarks, trade names and symbols or any other property rights it may
+           become aware of.
+
+           9.6 The Principal warranties to the Agent that the products as well as the
+           Principal’s trademarks, trade names or any other symbols do not infringe
+           intellectual any property rights of any third parties in the territory.
+
+           9.7 In this respect, the Principal undertakes to hold harmless the Agent
+           from any and all costs, losses, damages and liabilities which may occur due
+           to trademarks infringement by the use of the Principal’s trademarks, trade
+           names or any other symbols by the Agent.
+
+                     10. Exclusivity
+                            [Strike out option and alternative if not relevant]
+
+                            The Principal grants exclusivity to the Agent, which means that it undertakes
+                            not to appoint other Agents within the territory (and in the promotion
+                            channels) for the duration of the present contract.
+
+                            [Option (Direct sales by the Principal): “However, the Principal retains the right to
+                            directly market or sell the product(s) (or service(s)) in the territory (and in the promotion
+                            channels), including via Internet.”]
+
+                            [Alternative (No exclusivity): “The Principal does not grant exclusivity to the Agent, which
+                            means that it reserves the right to appoint other Agents within the territory (and in the
+                            promotion channels) for the duration of the present contract.”]
+
+                     11. Agent’s commission – right to commission
+                            11.1 Unless when the right to commission has been expressly excluded by the
+                            Parties, the Agent is entitled to the commission provided for in schedule 4 on
+                            all sales of the product(s) (or service(s)) made within the territory throughout
+                            the duration of this contract, whether such sale was generated by the Agent or
+                            not, in accordance with Article 10.
+
+                            [Option (No commission on direct sales): “However, the Agent shall not be entitled to
+                            commission on any direct sales of the product(s) (or service(s)) made by the Principal
+                            within the territory throughout the duration of this contract.”.]
+
+                            [Alternative (When exclusivity has not been granted to the Agent): “11.1 Unless when
+                            the right to commission has been expressly excluded by the Parties, the Agent is entitled to
+                            the commission provided for in schedule 4 on all sales of the product(s) (or service(s)) made
+                            within the territory throughout the duration of this contract which have been generated
+                            by the Agent.”.]
+
+                            [Option 11.2 (Commission on post contractual sales): “The Agent shall also be entitled
+                            to commission on sales concluded on the basis of offers/orders transmitted to or received
+                            by the Principal after the termination of this contract, provided the Agent informed the
+                            Principal in writing of the pending negotiation upon termination of the contract.”.]
+
+                            11.3 The Agent shall acquire the right to commission as soon as the orders
+                            have been accepted by the Principal.
+
+                            [Alternative: “11.3 The Agent shall acquire the right to commission upon full payment
+                            by the customer(s) of the invoiced product(s) or (service(s)). In case of partial payment by
+                            the customer(s), made in compliance with the sales contract, the Agent shall be entitled to
+                            a proportional commission.”.]
+
+                            11.4 In any event, no commission shall be due in respect of offers/orders
+                            accepted by the Principal, which could not be executed for reasons beyond the
+                            Principal’s control.
+
+                     12. Method of calculating commission and payment
+                            12.1 The commission shall be calculated on the net amount of the sale
+                            invoiced by the Principal to the customers, clear of any additional charges and
+
+          of all taxes of any kind, and provided that such additional charges and taxes
+          are separately stated in the invoice.
+
+          12.2 The commission shall cover any and all costs and expenses incurred by
+          the Agent in fulfilling its obligations under the present contract.
+
+          12.3 The commission shall be calculated in the currency of the contract of sale
+          on which the commission is payable, unless otherwise agreed by the parties.
+
+          12.4 Any taxes imposed in the Agent’s country on its commission shall be
+          for the Agent’s account, including whenever applicable, any withholding taxes
+          payable by the Principal on the Agent’s behalf.
+
+          12.5 The commission shall be paid to the Agent not later than on the last day
+          of the month following each quarter [specify any other period] in which it became
+          due.
+
+          12.6 If payment is not made on the due date, the Agent shall be entitled,
+          without limiting any other rights it may have, to charge interest on the
+          outstanding amount (both before and after any judgment) at the rate of
+          [specify] % per annum.
+
+          [Comment: The Parties should take into consideration that in some legal systems payment
+          of interest is unlawful, or is subject to a legal maximum rate, or there is provision for
+          statutory interest on late payments.]
+
+          12.7 The Principal shall provide the Agent with a statement of the commissions
+          due in respect of each quarter and shall set out all the business in respect of
+          which such commission is payable.
+
+          12.8 The Agent shall be entitled to demand that it be provided with all the
+          information, and in particular an extract from the books, which is available to
+          its Principal and which it needs in order to check the amount of the commission
+          due.
+
+      13. Financial responsibility (Option)
+          [Comment: Should the Parties wish to include a Del Credere clause, they should pay
+          attention to the legal provisions applicable in the country where the Agent is established,
+          as some countries have mandatory requirements on Del Credere obligations.]
+
+          13.1 The Agent shall satisfy itself, with due diligence, of the solvency of
+          customers whose orders are transmitted to the Principal. The Agent shall not
+          take orders from customers whose financial standing and capacity of meeting
+          their financial commitments towards the Principal are questionable without
+          informing the Principal in advance of such a fact.
+
+          [13.1 (Option) The Agent shall act as a Del Credere Agent according to the conditions
+          stated in schedule 5.
+
+          In this respect, the Agent hereby undertakes to reimburse to the Principal the total (or
+          partial) amount of the unpaid sums that the Principal is entitled to receive from customers
+          and which have not been paid for reasons for which the Principal is not responsible.
+
+          The Del Credere obligation does not cover the expenses incurred by the Principal for
+          recovering its credits.]
+
+                     14. Term, termination and consequences of termination
+                            14.1 This contract shall enter into force at the date of its signature (or at
+                            the date of the latest signature if signed by the Parties at different dates) and
+                            shall continue for an indefinite period. Each party may terminate the present
+                            contract at any time by giving a [specify figure] months written notice to the
+                            other party.
+
+                            [Alternative (Fixed term): “14,1 This contract shall enter into force at the date of its
+                            signature (or at the date of the latest signature if signed by the Parties at different dates)
+                            and, shall expire on [specify date].”]
+
+                            14.2 If the Agent is a physical person, this contract will end automatically at
+                            the death of the Agent.
+
+                            14.3 Each party may terminate this contract with immediate effect by written
+                            notice in case of:
+
+                                   14.3.1 A substantial breach by the other party of its obligations which
+                                          could be qualified as gross negligence or wilful misconduct;
+
+                                   14.3.2 Exceptional circumstances beyond the control of the Parties,
+                                          which render the continuation of this contract impossible;
+
+                                   14.3.3 Failure to remedy to any other breach by the other party of its
+                                          obligations under this contract, after a 15 days written notice to
+                                          remedy to such breach.
+
+                            14.4 The termination of this contract for any reason shall not affect:
+
+                                   14.4.1 Each party’s accrued rights, remedies or liabilities, including
+                                          payments due at the effective date of termination; or
+
+                                   14.4.2 The application of provisions of this contract that are meant to
+                                          survive after the expiration of this contract.
+
+                            14.5 At the end of this contract, the Principal shall pay all and any commissions
+                            due to the Agent.
+
+                            14.6 At the end of this contract, the Agent shall return to the Principal any
+                            advertising material and other documentation provided free of charge to the
+                            Agent as well as any products and samples which are still in its possession.
+
+                     15. Indemnity or compensation on termination
+                            [Comment: In some jurisdictions there exist mandatory legal provisions of public policy
+                            that are binding upon the Parties. Such is the case in the European Union where the
+                            EC Directive 86/653/EEC of 18 December 1986 grants the Agents the right to claim a
+                            termination indemnity subject to certain conditions.]
+
+                            15.1 At the end of this contract, the Agent will be entitled to receive a
+                            termination indemnity which will be equivalent to (one or two years’
+                            commissions [specify] based on the average annual commissions paid to the
+                            Agent over the preceding 3 years.
+
+                                   15.1.1 In order to receive this termination indemnity, the Agent will
+                                          have to notify the Principal in writing its wiliness to receive same
+                                          within one year after the end of the contract. Failure to do so
+
+                        will result in the Agent losing its right to receive the termination
+                        indemnity.
+
+                15.1.2 The termination indemnity shall be due in the event of the
+                       Agent’s death and payable to the Agent’s heirs.
+
+                15.1.3 The Agent shall have no right to receive the termination
+                       Indemnity in the following cases:
+
+                        –   When the Principal has terminated the contract for the
+                            reasons set out in paragraph 14.3 above.
+
+                        –   When the Agent has terminated the contract, unless such
+                            termination was caused by the breach of the Principal’s
+                            obligations, or by the age, infirmity or illness of the Agent,
+                            which render the continuation of this contract impossible.
+
+                        –   When, with the agreement of the Principal, the Agent assigns
+                            its rights and duties under the present contract to another
+                            person.
+
+          [Alternative: “15.1 No right to indemnity (inconsistent with the EC Directive of
+          18 December 1986 and mandatory legal provisions of countries which have implemented
+          the EC Directive or which have adopted similar provisions): No termination indemnity
+          or compensation shall be payable to the Agent at the end of this contract.”]
+
+          15.2 The above provision shall not affect the Agent’s right to claim damages
+          for breach of contract by the Principal.
+
+      16. Force majeure – excuse for non-performance
+          16.1 “Force majeure” means war, emergency, accident, fire, earthquake, flood,
+          storm, industrial strike or other impediment which the affected party proves
+          was beyond its control and that it could not reasonably be expected to have
+          taken the impediment into account at the time of the conclusion of this
+          contract or to have avoided or overcome it or its consequences.
+
+          16.2 A party affected by force majeure shall not be deemed to be in breach
+          of this contract, or otherwise be liable to the other, by reason of any delay
+          in performance, or the non-performance, of any of its obligations under this
+          contract to the extent that the delay or non-performance is due to any force
+          majeure of which it has notified the other party in accordance with Article [16.3].
+          The time for performance of that obligation shall be extended accordingly,
+          subject to Article [16.4].
+
+          16.3 If any force majeure occurs in relation to either party which affects or is
+          likely to affect the performance of any of its obligations under this contract,
+          it shall notify the other party within a reasonable time as to the nature and
+          extent of the circumstances in question and their effect on its ability to
+          perform.
+
+          16.4 If the performance by either party of any of its obligations under this
+          contract is prevented or delayed by force majeure for a continuous period in
+          excess of three [specify any other figure] months, the other party shall be entitled
+          to terminate this contract by giving written notice to the party affected by the
+          force majeure.
+
+                            [Alternative: “16.4 If the performance by either party of any of its obligations under
+                            this contract is prevented or delayed by force majeure for a continuous period in excess
+                            of three [specify any other figure] months, the Parties shall negotiate in good faith, and
+                            use their best endeavours to agree upon such amendments to this contract or alternative
+                            arrangements as may be fair and reasonable with a view to alleviating its effects, but if
+                            they do not agree upon such amendments or arrangements within a further period of 30
+                            [specify any other figure] days, the other party shall be entitled to terminate this contract
+                            by giving written notice to the party affected by the force majeure.”]
+
+                     17. Change of circumstances (hardship)
+                            [Comment: The Parties should be free to consult each other in the event of a major change
+                            in circumstances − particularly one creating hardship for a particular party. However,
+                            an SME should only include the option at the end of Article 17.4 (right to refer to the
+                            courts/arbitral tribunal to make a revision or to terminate the contract) if (i) the SME
+                            considers that it is not likely to be used against that party’s interests by a party in a
+                            stronger tactical position or (ii) the right to refer to a court/tribunal is already an existing
+                            right under the applicable governing law in the event of hardship.]
+                            17.1 Where the performance of this contract becomes more onerous for one of
+                            the Parties, that party is nevertheless bound to perform its obligations subject
+                            to the following provisions on change of circumstances (hardship).
+                            17.2 If, however, after the time of conclusion of this contract, events occur
+                            which have not been contemplated by the Parties and which fundamentally
+                            alter the equilibrium of the present contract, thereby placing an excessive
+                            burden on one of the Parties in the performance of its contractual obligations
+                            (hardship), that party shall be entitled to request revision of this contract
+                            provided that:
+                                   17.2.1 The events could not reasonably have been taken into account by
+                                          the affected party at the time of conclusion of this contract;
+                                   17.2.2 The events are beyond the control of the affected party; and
+                                   17.2.3 The risk of the events is not one that, according to this contract,
+                                          the party affected should be required to bear.
+                            17.3 Each party shall in good faith consider any proposed revision seriously
+                            put forward by the other party in the interests of the relationship between the
+                            Parties.
+                            [Option [delete if not applicable or not enforceable under the law governing the contract
+                            − see Comment at beginning of Article 17]:
+                            “17.4 If the Parties fail to reach agreement on the requested revision within [specify time
+                            limit if appropriate], a party may resort to the dispute resolution procedure provided in
+                            Article 25; the [court/arbitral tribunal] shall have the power to make any revision to this
+                            contract that it finds just and equitable in the circumstances, or to terminate this contract
+                            at a date and on terms to be fixed.”]
+
+                     18. No partnership
+                            Nothing in this contract shall be deemed to constitute a partnership in law
+                            between the Parties.
+
+      19. Assignment and appointment of sub-Agents
+          [Comment: Some countries have mandatory requirements on the appointment of sub-
+          Agents. Therefore the Parties should check the situation under the relevant law before
+          deciding which option to choose.]
+
+          19.1 This contract is personal to the Parties and [include only where relevant,
+          except to the extent necessary for the collection of outstanding bills through a factoring
+          Agent,] neither party shall without the prior written approval of the other:
+
+                19.1.1 Assign, mortgage, charge or otherwise transfer or deal in, or
+                       create any trust over, any of its rights; or
+
+                19.1.2 Subcontract or otherwise delegate the whole or any part of its
+                       rights or obligations under this contract to another person.
+
+          [Alternative: 19.1 The Agent may subcontract or otherwise delegate the whole or any
+          part of its activity or any other of its obligations under this contract to a third party. The
+          Agent shall be responsible for the activities of its sub-Agents or delegates.]
+
+          19.2 The Parties agree not to engage sub-Agents, delegates and/or employees
+          of the other party.
+
+      20. Notices
+          20.1 Any notice under this contract shall be in writing (which may include
+          e-mail) and may be served by leaving it or sending it to the address of the other
+          party as specified in Article 20.2 below, in a manner that ensures receipt of the
+          notice can be proved.
+
+          20.2 For the purposes of Article 20.1, notification details are the following,
+          unless other details have been duly notified in accordance with this Article:
+
+          – ...........................................................;
+          – ............................................................
+
+      21. Entire agreement
+          21.1 This contract sets out the entire agreement between the Parties. Neither
+          party has entered into this contract in reliance upon any representation,
+          warranty or undertaking of the other party that is not expressly set out or
+          referred to in this contract. This Article shall not exclude any liability for
+          fraudulent misrepresentation. [Option, add where relevant: “This contract supersedes
+          any previous agreement or understanding relating its subject matter”.]
+
+          21.2 This contract may not be varied except by an agreement of the Parties in
+          writing (which may include e-mail) (add where Article [17.4] or equivalent is
+          included: Or in accordance with Article [17.4].)
+
+      22. Effect of invalid or unenforceable provisions
+          If any provision of this contract is held by any court or other competent
+          authority to be invalid or unenforceable in whole or in part, this contract
+          shall continue to be valid as to its other provisions and the remainder of the
+
+                            affected provision, unless it can be concluded from the circumstances that,
+                            in the absence of the provision found to be null and void, the Parties would
+                            not have concluded this contract. The Parties shall use all reasonable efforts
+                            to replace all provisions found to be null and void by provisions that are valid
+                            under the applicable law and come closest to their original intention.
+
+                     23. Confidentiality
+                            23.1 Both parties understand and acknowledge that, by virtue of the present
+                            contract, they may both receive or become aware of information belonging or
+                            relating to the other party, its business, business plans, affairs or activities,
+                            which is confidential and proprietary to the other party and/or its suppliers
+                            and/or customers and in respect of which they are bound by a strict duty of
+                            confidence (“Confidential Information”).
+
+                            23.2 In consideration of such Confidential Information being disclosed or
+                            otherwise made available to either party for the purposes of the performance
+                            of the present contract, both parties hereby undertake that they will not at
+                            any time, either before or after the termination of the present contract, and
+                            either directly or indirectly, disclose, divulge or make unauthorized use of any
+                            Confidential Information, except to the extent to which such Confidential
+                            Information:
+
+                                   23.2.1 Is publicly known at the time of its disclosure or is being made
+                                          available to them.
+
+                                   23.2.2 After such disclosure or being made available to them, becomes
+                                          publicly known otherwise than through a breach of this
+                                          undertaking.
+
+                                   23.2.3 Is required by law, regulation or order of a competent authority
+                                          (including any regulatory or governmental body or securities
+                                          exchange) to be disclosed by one of the Parties, provided that,
+                                          where practicable, the other party is given reasonable advance
+                                          notice of the intended disclosure.
+
+                            23.3 Upon the earlier of a request from the other party or the termination of
+                            this contract, each party shall return to the other all documents or records in
+                            any medium or format containing any Confidential Information which are in
+                            its possession or control and will not retain any copies of them.
+
+                            23.4 This undertaking, and the obligations contained herein, will continue
+                            without limit of period.
+
+                            [Add where relevant:]
+
+                     24. Authorizations
+                            24.1 This contract is conditional upon the following authorizations first being
+                            obtained [specify the authorization(s) or other conditions required e.g. of governmental
+                            or regulatory authority].
+
+                            24.2 The relevant party shall use all reasonable efforts on its part to obtain
+                            such authorizations and shall notify the other party promptly of any difficulty
+                            encountered.
+
+      25. Dispute resolution procedure
+          Any dispute, controversy or claim arising out of or relating to this contract,
+          including its conclusion, interpretation, performance, breach, termination
+          or invalidity, shall be finally settled under the rules of [specify the arbitration
+          institution] by [specify the number of arbitrators, e.g. sole arbitrator or, if appropriate,
+          three arbitrators] appointed in accordance with the said rules. The place of
+          arbitration shall be [specify]. The language of the arbitration shall be [specify].
+
+          [The following are alternatives to a specified arbitral institution under Article 25:
+
+          Alternative 1: Ad hoc arbitration
+
+          “Any dispute, controversy or claim arising out of or relating to this contract, including its
+          conclusion, interpretation, performance, breach, termination or invalidity, shall be finally
+          settled under the rules of UNCITRAL [specify other rules] by [specify the number of
+          arbitrators, e.g. sole arbitrator or, if appropriate, three arbitrators] appointed by [specify
+          name of appointing institution or person]. The place of arbitration shall be [specify]. The
+          language of the arbitration shall be [specify].”]
+
+          [Alternative 2: State courts
+
+          Any dispute, controversy or claim arising out of or relating to this contract, in particular
+          its conclusion, interpretation, performance, breach, termination or invalidity, shall be
+          finally settled by the courts of (specify place and country) which will have exclusive
+          jurisdiction.”]
+
+      26. Applicable law
+          [Specify national law] law shall apply to the contract.
+
+          [Add where relevant:] If the Agent has its place of business and/or performs its
+          activity within the European Union, the mandatory provisions of the EC
+          Directive of 18 December 1986 shall also apply.
+
+                     Schedule 1: Minimum orders
+                            (Article 4.1)
+
+                     Schedule 2: Fairs and exhibitions
+                            (Article 5.2)
+
+                            The parties shall participate in the following fairs or exhibitions within the
+                            territory:
+
+                                              The Agent                          The Principal
+
+                     Schedule 3: List of non competing products (or service(s))
+                     represented, manufactured, distributed or sold by the agent
+                            (Article 7.4)
+
+                            At the time of the conclusion of the present contract, the agent represents
+                            (manufactures, distributes or sells) the following product(s) (or services):
+
+                             . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                             . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                             . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                             . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                             . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+      Schedule 4: Agent's commission
+          (Article 11.1)
+
+      Schedule 5: Del Credere (Optional)
+          (Article 13.1)
+          The agent undertakes a Del Credere obligation according to the terms and
+          conditions stated hereafter
+          1     In this respect, the agent shall be responsible for:
+                           [Option 1: Any transaction transmitted by the agent.
+                           Option 2: Only for the transactions for which the Del Credere undertaking
+                                     has been expressly agreed on a case-by-case basis.]
+          2     In case of non payment by the customers, the agent hereby undertakes
+          to reimburse to the principal the following amount:
+                           [Option 1: The total amount of the sums not recovered.
+                           Option 2: No more than . . . . . % [specify figure] of the sums not
+                                     recovered.
+                           Option 3: No more than the commission which would be due on such
+                                     transaction.
+                           Option 4: No more than . . . . . times [specify figure] the commission
+                                     which would be due on such transaction.]
+          3     The Del Credere obligation does not cover the expenses incurred by the
+          principal for recovering its credits.
+          4      The agent shall be entitled to an extra commission of . . . . . % [specify
+          figure] on all business on which the agent has granted a Del Credere.
+          5     No Del Credere is due if the loss is due to reasons for which the principal
+          is responsible.
+
+          DATE AND SIGNATURE OF THE PARTIES
+
+                                Agent                                   Principal
+
+          Date . . . . . . . . . . . . . . . .              . . . . . . . . . . . . . . . . .
+
+          Name . . . . . . . . . . . . . . . .              . . . . . . . . . . . . . . . . .
+
+                              Signature                                 Signature

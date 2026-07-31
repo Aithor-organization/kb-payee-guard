@@ -1,0 +1,399 @@
+EX-10
+4
+iec10kex10-65.txt
+EX-10.65 VIVENDI DISTRIBUTION AGREEMENT #5
+
+ EXHIBIT 10.65
+
+January 13, 2003
+
+Interplay Entertainment Corp.
+16815 Von Karman Avenue
+Irvine, CA 92606
+Attention: Chief Executive Officer
+Attention: Legal Department
+
+ Re: LETTER AGREEMENT AND AMENDMENT #5 (ASIA PACIFIC & AUSTRALIA) TO
+ VIDEO GAME DISTRIBUTION AGREEMENT DATED AUGUST 9, 2002.
+
+Dear Sir or Madam:
+
+ This letter will serve as the fifth amendment ("AMENDMENT #5") to confirm
+the agreements we have reached in connection with the Video Game Distribution
+Agreement dated August 9, 2002, between Vivendi Universal Games, Inc. ("VUG")
+and Interplay Entertainment Corp. ("INTERPLAY"), as amended by (i) that Letter
+of Intent dated August 9, 2002 (the "LOI"), (ii) that Letter Agreement and
+Amendment #2 dated August 29, 2002 ("AMENDMENT #2"), (iii) that Letter Agreement
+and Amendment dated September 12, 2002 ("AMENDMENT #3"), and (iv) that Letter
+Agreement and Amendment #4 (OEM & Back-Catalog) dated December 20, 2002
+("AMENDMENT #4") (collectively, the "NEW DISTRIBUTION AGREEMENT"). The
+provisions contained herein shall serve to amend the New Distribution Agreement
+only as stated herein, and all other terms and conditions contained in those
+agreements shall remain in full force and effect. All capitalized terms used
+herein and not otherwise defined shall have the meaning ascribed to them in the
+New Distribution Agreement.
+
+1. ADDITION OF ASIA-PACIFIC AND AUSTRALIA/N.ZEALAND TERRITORIES. Subject to
+ the terms of this Amendment #5, SECTION 2 of EXHIBIT B of the New
+ Distribution Agreement is hereby amended to add the following territories
+ to VUG's Licensed Territory:
+
+ i. Australia and New Zealand (collectively, the "AUSTRALIA TERRITORY");
+ and
+
+ ii. Korea, Taiwan, Sri Lanka, Malaysia, Philippines, Thailand, Singapore,
+ Hong Kong, China, Indonesia, Vietnam, and India (collectively, the
+ "ASIA-PACIFIC TERRITORY"). (Note: Japan is excluded.)
+
+ Collectively, the Australia Territory and the Asia-Pacific Territory are
+ referred to as the "ROW TERRITORY".
+
+2. PARTNER PRODUCT CLARIFICATION FOR ROW TERRITORY. For purposes of the ROW
+ Territory, "Partner Products" shall be deemed to include all Partner
+ Products if and to the extent that as of the date of this Amendment #5 no
+ third party already possesses such rights (or such party subsequently
+ waives such rights in their sole discretion). Accordingly, and for purposes
+ of clarification and without limitation, VUG's License in
+
+*** Terms represented by this symbol are considered confidential. These
+confidential terms have been omitted pursuant to a Confidential Treatment
+Request filed with the Securities and Exchange Commission ("SEC") and have been
+filed separately with the SEC.
+
+ the ROW Territory shall be subject to any agreements for the ROW Territory
+ that are in existence as of the date of this Amendment #5. Attached hereto
+ in EXHIBIT 1 are those Partner Products which are not subject to existing
+ agreements and to which VUG shall have distribution rights in the ROW
+ Territory.
+
+3. AUTHORIZED CHANNEL AMENDED FOR ROW TERRITORY. Solely with respect to the
+ Asia-Pacific Territory, VUG's Authorized Channels of distribution (SECTION
+ 1 of EXHIBIT B of the New Distribution Agreement) are hereby amended to add
+ the following:
+
+ "1.3 Internet Cafe, Game Rooms/Cyber-cafes, down-loading/electronic
+ distribution (provided, however, that VUG shall not have the right to
+ distribute/stream/download over the Internet any Partner Products (i) in
+ Korean language and which would violate***, and/or (ii) in English (i.e.,
+ that have not been localized for the ROW Territory)."
+
+ Such additional Authorized Channel in the Asia-Pacific Territory shall not
+ be deemed to violate Interplay's reservation of electronic transmission
+ rights under SECTION 2.6 of the New Distribution Agreement.
+
+4. TERM. For purposes of clarification, the Term of VUG's License for the ROW
+ Territory shall coincide with the Term of the New Distribution Agreement.
+
+5. VUG'S OEM RIGHTS UNMODIFIED. Notwithstanding the addition of the ROW
+ Territory to VUG's Licensed Territory, the Amendment #5 shall not amend
+ VUG's OEM Rights in any manner (e.g., VUG shall not have the right to now
+ enter into OEM Transactions directly with customers located in the ROW
+ Territory).
+
+6. NO INITIAL SHIPMENT MINIMUM UNIT REQUIREMENT IN ROW TERRITORY. SECTION 12.5
+ shall not apply to the Partner Products with respect to the ROW Territory.
+
+7. MANUFACTURING OF PARTNER PRODUCTS FOR DISTRIBUTION IN AUSTRALIA TERRITORY.
+
+ Notwithstanding anything to the contrary in the New Distribution Agreement,
+ VUG shall manufacture on behalf of Interplay the Partner Products to be
+ distributed in the Australia Territory (and title to all such Partner
+ Product units shall at all times remain with Interplay). Solely with
+ respect to distribution in the Australia Territory, VUG and Interplay shall
+ mutually agree in advance and in writing on the number of units of each PC
+ Partner Product and each Non-PC Partner Product that will be manufactured
+ in each manufacturing run of each such Partner Product; and Interplay
+ agrees that it will not unreasonably withhold, condition or delay such
+ approvals. Subject to reimbursement as provided below in PARAGRAPH 11.III,
+ VUG will pay all actual out-of-pocket costs of (i) manufacturing the
+ Partner Product units to be distributed in the Australia Territory,
+ including CD- and DVD-materials (and any other component materials) and
+ pressing, Game Hardware Platform Licensor royalties, packaging materials,
+ printing of packaging and inserts, and pack-out, (ii) assembly of
+ finished-goods Partner Product units (to the extent the Game Hardware
+ Platform Licensor allows VUG to, and VUG elects to,
+
+*** Terms represented by this symbol are considered confidential. These
+confidential terms have been omitted pursuant to a Confidential Treatment
+Request filed with the Securities and Exchange Commission ("SEC") and have been
+filed separately with the SEC.
+
+ 2
+
+ perform any such assembly), and (ii) shipping, and securing delivery of,
+ completed finished-goods units of the Partner Products to VUG's
+ distribution center (collectively, "ACTUAL MANUFACTURING COSTS").
+
+ Solely in the event that VUG is unable or otherwise prohibited by the
+ applicable Game Hardware Platform Licensor from fulfilling its
+ manufacturing obligations as described herein with respect to the Australia
+ Territory, Interplay shall, only to the extent and with the approval of
+ VUG, manufacture or cause to be manufactured all units of applicable
+ Partner Product Platform SKUs to be distributed by VUG in the Australia
+ Territory and for securing delivery of such Partner Product Platform SKUs
+ to VUG's distribution center, as directed by VUG. Subject to VUG's approval
+ and Interplay's consent to manufacture the specified number of units and
+ deliver same as stated herein, VUG will advance Interplay its Actual
+ Manufacturing Costs solely related to the Partner Product Platform SKUs to
+ be distributed by VUG in the Australia Territory. VUG will advance such
+ Actual Manufacturing Costs to Interplay, or at VUG's option pay such
+ amounts directly to any Game Hardware Platform Licensor and/or shipping
+ company performing such services or who is otherwise owed such payments,
+ promptly upon Interplay's presentation to VUG of a valid and correct
+ invoice or purchase order specifying the amount owed and the services being
+ provided. VUG shall have a right of prior approval (which will not be
+ unreasonably withheld or delayed) over the quantity of each manufacturing
+ order submitted to each Game Hardware Platform Licensor for such Partner
+ Product Platform SKUs intended for distribution in the Australia Territory.
+ By way of clarification, VUG will not be required to advance Interplay the
+ costs or expenses of manufacturing or shipping units of any Partner Product
+ Platform SKUs that are not intended for distribution by VUG in the
+ Australia Territory.
+
+8. ROW TERRITORY MARKETING EXPENSES.
+
+ i. ASIA-PACIFIC TERRITORY. Solely with respect to the Asia-Pacific
+ Territory, VUG shall at a minimum allocate (and VUG shall spend): (i)
+ *** percent (***%) of Net Sales Revenue for direct out-of-pocket
+ marketing costs, and (ii) *** percent (***%) of Net Sales Revenue for
+ MDF/COOP expenses (and SECTION 6 of the New Distribution Agreement is
+ hereby amended accordingly with respect to the Asia Pacific
+ Territory).
+
+ ii. AUSTRALIA TERRITORY. Solely with respect to the Australia Territory,
+ VUG shall at a minimum allocate (and VUG shall spend): (i) *** percent
+ (***%) of Net Sales Revenue for direct out-of-pocket marketing costs,
+ and (ii) *** percent (***%) of Net Sales Revenue for MDF/COOP expenses
+ (and SECTION 6 of the New Distribution Agreement is hereby amended
+ accordingly with respect to the Australia Territory).
+
+9. TIMELY RELEASE OF PARTNER PRODUCTS IN ROW TERRITORY.
+
+ i. ASIA-PACIFIC TERRITORY. Solely with respect to the Asia-Pacific
+ Territory, VUG shall commercially release each Partner Product within
+ *** days (subject to extension for any delay caused by the applicable
+ Game Hardware Platform Licensor with respect to
+
+*** Terms represented by this symbol are considered confidential. These
+confidential terms have been omitted pursuant to a Confidential Treatment
+Request filed with the Securities and Exchange Commission ("SEC") and have been
+filed separately with the SEC.
+
+ 3
+
+ a Non-PC Partner Product) following receipt from Interplay of a final
+ localized version of such Partner Product in accordance with PARAGRAPH
+ 10 below.
+
+ ii. AUSTRALIA TERRITORY. Solely with respect to the Australia Territory,
+ VUG shall commercially release each Partner Product in the Australia
+ Territory within *** days after the date VUG is required to release
+ such Partner Product in the United States pursuant to the terms of
+ SECTION 3.4 of the New Distribution Agreement. In the event that VUG
+ manufactures through Interplay (in accordance with paragraph 7 above)
+ a Partner Product for the Australia Territory, and in the event that
+ finished goods of such Partner Product are not completed and made
+ available to VUG within *** days following Virgin Interactive
+ Entertainment's international release of such Partner Product, then
+ VUG shall have the right to withhold from the Interplay Proceeds with
+ respect to any other Partner Products under the New Distribution
+ Agreement, as amended hereby, an amount equal to ***. By way of
+ clarification, such withholding of ***, if any, shall not be deemed in
+ any way to alter, modify or amend VUG's continuing distribution rights
+ and obligations to such Partner Product.
+
+10. LOCALIZATION FOR ASIA-PACIFIC TERRITORY.
+
+ With respect to VUG's distribution of the Partner Products in the
+ Asia-Pacific Territory, Interplay shall deliver PC Partner Product assets
+ (double byte enabled, IME enabled and compatible with Asian Windows OS
+ (Windows 98SE and later)) for the Three Month Evaluation in accordance with
+ the New Distribution Agreement. VUG shall be solely responsible at its cost
+ for localizing Partner Product assets, and Interplay to be solely
+ responsible at its cost for incorporating such localized assets into the
+ Partner Product. Interplay will use its best efforts to deliver to VUG the
+ Partner Product with incorporated localized assets within a reasonable time
+ following receipt of the localized assets from VUG. Following receipt of
+ such localized Partner Product, VUG shall be responsible at its cost for QA
+ testing of the localized Partner Product, and Interplay shall, within a
+ commercially reasonable time after receiving notice thereof from VUG, make
+ any necessary fixes to the localized Partner Product relating to
+ incorporation. A localized version of a PC Partner Product approved by VUG
+ and a localized version of a Non-PC Partner Product approved by the
+ applicable Game Hardware Manufacturer Licensor shall be deemed an "APPROVED
+ LOCALIZED PARTNER PRODUCT")
+
+ VUG hereby represents and warrants to Interplay that (i) all localized
+ assets shall, as between VUG and any third-party subcontractor performing
+ such localization on VUG's behalf, be owned exclusively by VUG, and (ii)
+ all localized assets shall remain unencumbered, and (iii) subject to
+ Interplay's representations and warranties under the New Distribution
+ Agreement with respect to the Partner Products, no such localized assets
+ shall infringe the rights of any third party. VUG shall indemnify Interplay
+ for any and all liabilities, damages costs and fees (including reasonable
+ attorney's fees) for any third party claims or actions arising out of or
+ relating to any breach of the foregoing representations and warranties.
+
+*** Terms represented by this symbol are considered confidential. These
+confidential terms have been omitted pursuant to a Confidential Treatment
+Request filed with the Securities and Exchange Commission ("SEC") and have been
+filed separately with the SEC.
+
+ 4
+
+ Solely by way of clarification, Interplay shall be responsible (at its own
+ cost and expense) for all submissions and approvals to the various Game
+ Hardware Platform Licensors with respect to all localized Non-PC Partner
+ Products.
+
+ Upon expiration of the Term (and any applicable Sell-Off Period) or earlier
+ termination by Interplay of the New Distribution Agreement, as amended by
+ this Amendment #5, Interplay exclusively shall own all of the localized
+ assets created by/for VUG and incorporated into the Partner Products.
+
+11. NEW MINIMUM GUARANTEE AND INTERPLAY PROCEEDS CALCULATIONS FOR ROW
+ TERRITORY. The following provisions shall be added to SECTION 4 of EXHIBIT
+ B:
+
+ "ROW TERRITORY MINIMUM GUARANTEE AND INTERPLAY PROCEEDS CALCULATIONS:
+
+ i. ROW TERRITORY MINIMUM GUARANTEE. VUG shall, immediately upon the
+ complete execution of this Amendment #5, pay Interplay a
+ non-refundable (except as otherwise provided in the New Distribution
+ Agreement) Minimum Guarantee with respect to the ROW Territory in the
+ amount of ***(the "ROW TERRITORY MINIMUM GUARANTEE). Interplay
+ expressly acknowledges and agrees that such ROW Territory Minimum
+ Guarantee shall be in lieu of any other minimum guarantees with
+ respect to any Partner Products in the ROW Territory. By way of
+ clarification, Interplay shall not be entitled to any guarantees based
+ on projected sales with respect to the ROW Territory.
+
+ ii. CALCULATION OF INTERPLAY PROCEEDS FOR ASIA-PACIFIC TERRITORY.
+ Notwithstanding anything to the contrary in the New Distribution
+ Agreement, VUG shall pay Interplay Proceeds with respect to
+ distribution of Partner Products in the Asia-Pacific Territory as
+ follows: ***
+
+ iii. CALCULATION OF INTERPLAY PROCEEDS FOR AUSTRALIA TERRITORY.
+ Notwithstanding anything to the contrary in the New Distribution
+ Agreement but subject to VUG's right of recoupment, VUG shall pay
+ Interplay Proceeds with respect to distribution of the Partner
+ Products in the Australia Territory as follows: Gross Sales Revenues,
+ less (i) the General Reserve (as defined in the New US Distribution
+ Agreement, except that such General Reserve shall be fixed at ***% for
+ both PC Partner Products and Non-PC Partner Products), (ii) a ***%
+ distribution fee (calculated on Net Sales) payable to VUG for its
+ services hereunder (the "DISTRIBUTOR FEE"), and (iii) VUG's Actual
+ Manufacturing Costs and Capped Marketing Costs (as defined below). ***
+
+ iv. The parties hereby agree that, notwithstanding anything to the
+ contrary herein, VUG shall pay royalties to Interplay at the following
+ ***rates (i.e., VUG shall be solely responsible for all costs
+ associated with the manufacturing, marketing and distribution of such
+ "back-catalog" products (e.g., Interplay shall not be responsible for
+ manufacturing costs associated with "back-catalog" products in
+
+*** Terms represented by this symbol are considered confidential. These
+confidential terms have been omitted pursuant to a Confidential Treatment
+Request filed with the Securities and Exchange Commission ("SEC") and have been
+filed separately with the SEC.
+
+ 5
+
+ the Australia Territory) and VUG shall not take any deductions from
+ Interplay's per-unit royalty):
+
+ China: ***
+ Asia-Pacific Territory (excluding China): ***
+ Australia Territory: ***
+
+ The remainder of SECTION 4 of EXHIBIT B shall be unchanged in all
+ aspects.
+
+12. RECOUPMENT OF ROW TERRITORY MINIMUM GUARANTEE. SECTION 1.3 of EXHIBIT A and
+ SECTION 20.14 are modified as follows solely with respect to the ROW
+ Territory:
+
+ i. RECOUPMENT. Notwithstanding anything to the contrary in the New
+ Distribution Agreement, the ROW Territory Minimum Guarantee shall be
+ recoupable from ROW Territory Interplay Proceeds, and as follows:
+ unless and until VUG recoups the ROW Territory Minimum Guarantee, VUG
+ shall be entitled to deduct ***from the ROW Territory Interplay
+ Proceeds.
+
+13. GOOD FAITH EFFORTS. VUG and Interplay agree to work together in good faith
+ to carry out the intent of this Amendment #5, and the parties shall work
+ together to modify any remaining provisions of the New Distribution
+ Agreement to the extent reasonably necessary for purposes of VUG's
+ distribution of the Partner Products in the ROW Territory.
+
+If you agree to the provisions set forth in this letter agreement, please so
+indicate by signing the enclosed copy and returning it to me via facsimile,
+followed by an original copy in the mail. As stated herein, nothing contained in
+this letter shall affect the terms and conditions stated in the New Distribution
+Agreement, except as specifically stated herein.
+
+ Sincerely yours,
+
+ /s/ Phil O'Neil
+ -----------------------------------
+ Phil O'Neil
+ President, Partner Publishing Group
+ Vivendi Universal Games, Inc.
+
+I agree to the provisions of this letter agreement.
+
+ 1/13/03 /s/ Herve Caen
+Dated: ________________ ____________________________________
+ Name: Herve Caen
+ Title: Chief Executive Officer
+
+*** Terms represented by this symbol are considered confidential. These
+confidential terms have been omitted pursuant to a Confidential Treatment
+Request filed with the Securities and Exchange Commission ("SEC") and have been
+filed separately with the SEC.
+
+ 6
+
+ Exhibit 1
+
+ ROW Territory Partner Products
+
+ Title: Platform: Territory: Allocated Minimum Guarantee
+ Australia Asia-Pacific
+ Territory Territory
+
+ *** *** *** $*** $***
+
+ *** *** *** $*** $***
+ *** *** *** $*** $***
+ *** *** *** $*** $***
+ *** *** *** $*** $***
+ *** *** *** $*** $***
+ *** *** *** $*** $***
+
+ *** *** *** $*** $***
+ *** *** *** $*** $***
+ *** *** *** $*** $***
+ *** *** *** $*** $***
+ *** *** *** $*** $***
+ *** *** *** $*** $***
+ Total: $*** $***
+
+*** Terms represented by this symbol are considered confidential. These
+confidential terms have been omitted pursuant to a Confidential Treatment
+Request filed with the Securities and Exchange Commission ("SEC") and have been
+filed separately with the SEC.
+
+ 7
+
+ Exhibit 2
+
+ ***
+
+*** Terms represented by this symbol are considered confidential. These
+confidential terms have been omitted pursuant to a Confidential Treatment
+Request filed with the Securities and Exchange Commission ("SEC") and have been
+filed separately with the SEC.
+
+ 8

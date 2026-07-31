@@ -1,0 +1,729 @@
+<DOCUMENT>
+<TYPE>EX-10.12
+<SEQUENCE>3
+<FILENAME>b329629ex_10-12.txt
+<DESCRIPTION>EXCLUSIVE DISTRIBUTION AGREEMENT
+<TEXT>
+<PAGE>
+                                                                 EXHIBIT 10.12b
+
+                        EXCLUSIVE DISTRIBUTION AGREEMENT
+
+         This Exclusive Distribution Agreement ("Agreement") is effective the
+15th day of May, 2002 ("Effective Date"), by and between Corning Cable Systems
+LLC ("Corning Cable Systems"), a North Carolina limited liability company with
+offices at 800 17th Street, NW, Hickory, North Carolina, 28603-0489 and mPhase
+Technologies Inc. ("mPhase"), a New Jersey corporation with offices at 587
+Connecticut Avenue, Norwalk, Connecticut 06854 and provides as follows:
+
+                                    Recitals
+
+         WHEREAS, Corning Cable Systems is a manufacturer, developer and vendor
+of certain products used in the telecommunications industry; and
+
+         WHEREAS, mPhase manufactures and sells goods identified as Intelligent
+POTS Splitters ("iPOTS(tm)"); and
+
+         WHEREAS, the parties wish to enter into an agreement whereby CORNING
+Cable Systems will be granted the exclusive right to distribute iPOTS(tm)
+purchased from mPhase to telecommunications customers located throughout the
+world.
+
+         Now therefore, for good and valuable consideration, the receipt and
+sufficiency of which are hereby acknowledged, and in further consideration of
+the mutual covenants set forth herein, the parties agree as follows:
+
+                                   Agreement
+
+1.       Grant of Exclusive Distribution Rights.
+
+         1.1      Grant. mPhase hereby grants to Corning Cable System the
+                  exclusive worldwide right to market, distribute, export, and
+                  sell the mPhase products (the "Contractual Products") set
+                  forth in Exhibit A to any and all customers, except those as
+                  set forth in Exhibit B attached hereto.
+
+         1.2      Additions to Contractual Products. New products may be added
+                  to Exhibit A from time to time upon the mutual agreement of
+                  the parties; and after an amended Exhibit A is executed by
+                  duly authorized representatives of both parties, those
+                  products will become Contractual Products. Notwithstanding
+                  the foregoing, improved versions of the Contractual Products
+                  shall automatically and without further action be deemed to be
+                  Contractual Products within the scope of this Agreement.
+
+         1.3      Exclusivity. mPhase covenants not to sell, promote or
+                  distribute any products that are directly or indirectly
+                  competitive with the Contractual Products without the prior
+                  written consent of Corning Cable Systems. Corning Cable
+                  Systems agrees not to sell, promote or distribute any products
+                  that are directly or indirectly competitive with the
+                  Contractual Products.
+
+<PAGE>
+
+2.       Obligations of the Parties.
+
+         2.1      In addition to any other obligations or undertakings set forth
+                  herein, Corning Cable Systems agrees to:
+
+                  (a)      exert reasonable commercial efforts to promote the
+                           sale of Contractual Products to all customers except
+                           those as set forth in Exhibit B;
+
+                  (b)      employ sufficient competent and qualified personnel
+                           to carry out its obligations hereunder;
+
+                  (c)      purchase and maintain sufficient inventories of the
+                           Contractual Products (including maintenance parts and
+                           components) and any associated demonstration
+                           equipment to reasonably support customer demand and
+                           sales potential of the Contractual Products;
+
+                  (d)      make all payments due to mPhase hereunder in a timely
+                           manner; and
+
+                  (e)      promptly investigate and report to mPhase any
+                           complaints, problems or claims related to the
+                           Contractual Products.
+
+         2.2      In addition to any other obligations or undertakings set forth
+                  herein, mPhase agrees to:
+
+                  (a)      supply the Contractual Products to Corning Cable
+                           Systems in such quantities as Corning Cable Systems
+                           may request according to the deadlines provided by
+                           Corning Cable Systems;
+
+                  (b)      provide and maintain technical, engineering and
+                           customer support services to fully support Corning
+                           Cable Systems' distribution and sale of the
+                           Contractual Products;
+
+                  (c)      provide, free of charge, at a mutually convenient
+                           location in the U.S., product training of Corning
+                           Cable Systems' personnel; provided, however, that
+                           each party shall be responsible for all expenses
+                           incurred by its own personnel who may participate in
+                           the training; and
+
+                  (d)      furnish to Corning Cable Systems, free of charge,
+                           samples of the Contractual Products, product lists
+                           and other sales supporting information, such as test
+                           data, installation instructions, and advertising
+                           material such as descriptive literature, advertising
+                           master copies and photos. mPhase agrees and
+                           acknowledges that Corning Cable Systems may use
+                           iPOTS(tm) trademark, and trademarks related thereto,
+                           in the performance of Corning Cable Systems'
+                           obligations hereunder.
+
+
+                                       2
+
+<PAGE>
+
+3.    Order Procedures; Prices; Terms of Sale.
+      ----------------------------------------
+
+3.1      Order Procedures; Terms of Sale. This Agreement does not obligate
+         Corning Cable Systems to purchase any volume of Contractual Products.
+         If Corning Cable Systems desires to purchase Contractual Products, it
+         shall submit a purchase order specifying the quantities of Contractual
+         Products required and a requested delivery date. mPhase shall
+         acknowledge the same within five (5) business days of receipt and shall
+         note any exceptions regarding delivery dates and quantities ordered.
+         All purchases of Contractual Products shall be upon the terms and
+         conditions of sale set forth in the attached Exhibit C. Conflicting or
+         additional terms provided in any purchase order, order acknowledgement
+         or other document exchanged between the parties shall be of no effect
+         unless specifically accepted in writing by a duly authorized
+         representative of both parties.
+
+3.2.1    Pricing. Corning Cable Systems shall be solely responsible for
+         establishing the resale pricing of Contractual Products to its
+         customers. The prices for Contractual Products to Corning Cable Systems
+         are is set forth in Exhibit A. mPhase may change the prices of
+         Contractual Products upon written notice, however, such price increases
+         shall not be effective until the expiration of the ninety (90) day
+         period following the date of the written notice describing such price
+         increase.
+
+3.3      Forecasts. Corning Cable Systems shall provide within sixty (60) days
+         of execution of this Agreement, a six (6) month non-binding forecast by
+         month for each Contractual Product. Such forecast shall be updated at
+         the beginning of each calendar quarter thereafter. mPhase understands
+         and agrees that the forecast shall not create any liability or
+         obligation on the part of Corning Cable Systems, including any
+         obligation to purchase Contractual Products.
+
+4.       Channel Conflicts.
+         ------------------
+
+4.1      In order to induce the other to devote the resources necessary to
+         vigorously promote, sell and support the Contractual Products, the
+         parties agree to use commercially reasonable efforts to minimize
+         channel conflicts. If mPhase receives a sale inquiry for Contractual
+         Products from any customer not identified on Exhibit B, it shall
+         promptly refer such customer to Corning Cable Systems and shall further
+         notify Corning Cable Systems of the sale opportunity. If Corning Cable
+         System receives a sales inquiry for Contractual Products from a
+         customer identified on Exhibit B, or a prospective customer that
+         Corning Cable Systems chooses not to service, it shall promptly refer
+         such customer to mPhase.
+
+4.2      It is anticipated that during the term of this Exclusive Distribution
+         Agreement the parties will identify new potential customers who are not
+         previously set forth in Exhibit B. Every six (6) months during the
+         terms hereof, the parties shall jointly update Exhibit B.
+
+
+
+                                       3
+
+
+<PAGE>
+5.       Term; Termination.
+         ------------------
+
+5.1      The term of this Agreement shall commence on the Effective Date and
+         shall continue for a period of five (5) years.
+
+5.2      This Agreement may be terminated, without cause by either party, by
+         giving one hundred eighty (180) days written notice of to the other
+         party by first class or registered mail. mPhase shall fulfil all orders
+         for Contractual Products received up to, and including, the effective
+         date of termination.
+
+6.       Miscellaneous.
+         --------------
+
+6.1      Force Majeure. Neither party shall be held responsible for any delay or
+         failure in performance to the extent such failure or delay is caused by
+         fire, strikes, explosions, earthquakes, floods, acts of war or
+         terrorism, acts of God or other causes beyond its reasonable control.
+
+6.2      Entire Agreement. This Exclusive Distribution Agreement contains the
+         full understanding between the parties relating to the subject matter
+         hereof, and no further modifications or amendments hereto shall be
+         effective unless reduced to writing and executed by authorized
+         representatives of Corning Cable Systems and mPhase referencing an
+         intent to amend.
+
+6.3      Assignment. This Exclusive Distribution Agreement is non-assignable and
+         non-transferrable by either party without the prior written consent of
+         the other party, which consent shall not be unreasonably withheld.
+         However, either party may assign its interest in the Agreement to an
+         affiliate, by written notice to the other party.
+
+6.4      Dispute Resolution. Any controversy or claim arising from or relating
+         to this Agreement or the breach thereof, not otherwise settled by
+         mutual agreement between the parties, shall be settled by arbitration
+         in Hickory, North Carolina, administrated by the American Arbitration
+         Association in accordance with its Commercial Arbitration Rules then in
+         force. The arbitrator shall have the power to issue restraining orders,
+         both temporary and permanent, upon the showing of appropriate facts by
+         a party requesting such relief. Judgment on the award may be entered in
+         any court having jurisdictions thereof. This Agreement shall be
+         construed in accordance with and governed by the laws of the State of
+         North Carolina without regard to conflicts of laws principles of any
+         jurisdiction. In the event that either party violates this Section 6.4
+         by filing a legal action in a state or federal court, the other party
+         shall be entitled to recover its costs and attorney's fees incurred in
+         transferring the dispute to arbitration.
+
+6.5      Publicity. The parties agree that all information concerning this
+         Agreement and contained in any written or oral announcements, press
+         releases, or other public release of information, must be pre-approved
+         by both parties.
+
+
+
+
+                                       4
+
+
+
+<PAGE>
+
+
+6.6      Compliance with Laws. Each party warrants that in its performance
+         hereof, it will comply with all applicable Federal, state and laws and
+         published local laws, rules and regulations (collectively, "Laws").
+         Each party shall indemnify and hold harmless the other for any
+         expenses, damages, claims or losses it may incur as a result of the
+         other party's failure to comply with any applicable Law.
+
+6.7      Counterparts. This Agreement may be executed by facsimile and
+         simultaneously in one or more counterparts, each of which shall be
+         deemed an original, but all of which shall constitute but one and the
+         same instrument.
+
+         IN WITNESS WHEREOF, the parties have caused this Exclusive Distribution
+Agreement to be executed by their duly authorized representatives as of the day
+and year set forth below.
+
+
+CORNING CABLE SYSTEMS LLC                mPHASE TECHNOLOGIES INC.
+
+
+By: /s/ John Rockett                      By: /s/ Gustave T. Dotoli
+    --------------------------------      -------------------------------------
+
+Printed                                   Printed
+Name: John Rockett                        Name: Gustave T. Dotoli
+      ------------------------------            -------------------------------
+
+Title: Sr. Vice President                 Title: Sr. Vice President
+       Sales & Marketing                         Chief Operating Officer
+       -----------------------------             ------------------------------
+
+Date:   6-25-02                           Date:   6-27-02
+      ------------------------------            -------------------------------
+
+
+
+
+
+
+
+
+                                       5
+
+
+
+
+
+
+<PAGE>
+
+                                                                       Exhibit A
+
+                          Contractual Products: Prices
+<TABLE>
+<CAPTION>
+
+mPhase Part Number                            Description                                  Price
+---------------------------------------------------------------------------------------------------
+<S>                        <C>                                                             <C>
+iPOTSEDB1001               8-Port CO Electronic Daughter Board Card Assembly                TBD
+---------------------------------------------------------------------------------------------------
+iPOTSEPS1001               CO Power Supply Card Assembly                                    TBD
+---------------------------------------------------------------------------------------------------
+iPOTSMB19F1001             120-Port 19" CO iPOTS Electronic By-Pass, splitter               TBD
+                           shelf, DSL control, 6RU, Female
+---------------------------------------------------------------------------------------------------
+UBPMB19F1001               120-Port 19" CO Electronic By-Pass Shelf, DSL                    TBD
+                           Control, Universal, 3RU, Female
+---------------------------------------------------------------------------------------------------
+UBPMB23F1192               192-Port 23" CO Electronic By-Pass Shelf, DSL Control,           TBD
+                           Universal, 3RU, Female
+---------------------------------------------------------------------------------------------------
+iPOTSMB23F1001             144-Port 19" CO iPOTS Electronic By-Pass, Splitter               TBD
+                           Shelf, DSL Control, 6RU, Female
+---------------------------------------------------------------------------------------------------
+UBPMB23F1101               144-Port 23" CO Electronic By-Pass Shelf, DSL                    TBD
+                           Control, 3RU, Female
+---------------------------------------------------------------------------------------------------
+iPOTSMB23F1201             144-Port 23" CO iPOTS Electronic By-Pass, Splitter               TBD
+                           Shelf, DSL Control, 6RU, Female
+---------------------------------------------------------------------------------------------------
+POTSDBF8P1001              8-Port CO POTS Splitter Card, Female                             TBD
+                           (ANSI/ITU Annex E)
+---------------------------------------------------------------------------------------------------
+POTSDBF8P2001              8-Port CO POTS European Harmonizer Splitter Card,                TBD
+                           Female
+---------------------------------------------------------------------------------------------------
+POTSDBF8P3001              8-POTS CO ADSL/ISDN 2B 1Q, Splitter Card, Female                 TBD
+---------------------------------------------------------------------------------------------------
+POTSDBF8P3002              8-Port CO ADSL/ISDN 4B3T, Splitter Card, Female                  TBD
+---------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+                                       6
+
+<PAGE>
+
+                                                                       Exhibit B
+
+                                mPhase Customers
+
+1. Lucent --- Saudi Arabia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       7
+
+<PAGE>
+
+                                                                       Exhibit C
+
+                          Terms and Conditions of Sale
+
+ORDERING PROCEDURES
+
+Purchase Orders. Corning Cable Systems shall purchase the Contractual Products
+by providing written purchase orders to mPhase under the terms of the Exclusive
+Distribution Agreement. These written purchase orders may be submitted by
+facsimile or, if applicable, by EDI or electronic mail transmission. Each order
+placed by Corning Cable Systems for Contractual Products shall be governed by
+the terms and conditions of the Exclusive Distribution Agreement; conflicting or
+additional terms provided in any order, order acknowledgment, or other document
+exchanged between the parties shall be of no effect unless specifically accepted
+in writing by a duly authorized representative of both parties.
+
+Order Confirmation. mPhase shall provide Corning Cable Systems with a written
+confirmation of any Corning Cable Systems purchase order within five (5)
+business days of receipt of such order from Corning Cable Systems. mPhase shall
+note any exceptions regarding delivery dates and quantities ordered. In no event
+shall any purchase order be binding on Corning Cable Systems until Corning Cable
+Systems's order and mPhase's order acknowledgement are in agreement on the
+quantities ordered and delivery dates for Contractual Products.
+
+Order Lead Time. mPhase will use commercially reasonable efforts to provide a
+thirty (30) calendar day order lead-time for Contractual Products.
+
+Cancellation or postponement of orders. Corning Cable Systems may cancel or
+reduce the quantity of any purchase order without liability on or before thirty
+(30) days in advance of the ship date specified in Corning Cable Systems's
+purchase order without cancellation charge. Corning Cable Systems may cancel or
+reduce the quantity of any order by written notice to mPhase at any time, and in
+such event Corning Cable Systems shall pay to mPhase its direct costs reasonably
+incurred prior to receipt of the notice. Corning Cable Systems may postpone the
+delivery of any portion of an purchase order one time for up to sixty (60) days
+without any liability by delivering written notice to mPhase on or before thirty
+(30) days in advance of the ship date specified in Corning Cable Systems's
+purchase order.
+
+PRICES AND TERMS OF PAYMENT
+
+The initial purchase price for the Contractual Products as set out in Exhibit A
+to the Exclusive Distribution Agreement shall be in effect until ninety (90)
+days after written notice of any price change agreed to by the parties agree.
+
+Sales, Taxes and Duties. Corning Cable Systems shall reimburse mPhase all taxes
+and charges paid by mPhase that are imposed by any federal, state or local
+governmental or taxing authority, relating to the purchase, ownership,
+possession, use operation or relocation of the Contractual Products purchased,
+excluding, however, all franchise taxes or taxes based upon the income of
+mPhase. Taxes and charges for which Corning Cable Systems is responsible shall
+appear as a separate line item on mPhase's invoice.
+
+
+                                       8
+<PAGE>
+
+Invoicing. mPhase may only issue an invoice after the particular Contractual
+Products have been shipped by mPhase. All invoices shall reference the
+associated purchase order number.
+
+Payment Procedures. Payment will be net thirty (30) days from the date of the
+mPhase invoice, unless the invoice is disputed by Corning Cable Systems. mPhase
+shall not issue an invoice until the Contractual Products have been shipped. If
+any invoice is disputed by Corning Cable Systems, Corning Cable Systems shall
+pay mPhase for any portion of the invoice that is not in dispute, and the
+parties agree to use their best efforts to resolve any outstanding issues in a
+timely fashion.
+
+TERMS OF DELIVERY
+
+Packaging. mPhase shall at its sole expense package, label and handle all
+Contractual Products so as to protect them from loss or damage during shipment.
+
+Delivery Terms. Corning Cable Systems shall specify the delivery destination in
+its purchase order. Contractual Products shall be sold to Corning Cable Systems
+F.O.B. origin and shall not be shipped under reservation. mPhase shall put the
+Contractual Products in the possession of a carrier specified or approved by
+Corning Cable Systems, contract with the carrier for shipment of the Contractual
+Products to Corning Cable Systems, and obtain and promptly deliver to Corning
+Cable Systems any documents necessary to obtain possession of the Contractual
+Products. Corning Cable Systems shall reimburse mPhase for the expense of
+transporting the Contractual Products to the place of destination specified by
+Corning Cable Systems, including any shipping, storage, loading, unloading,
+freight, insurance any other expenses of transportation; provided, however, that
+mPhase shall prepay all such expenses and reflect the same as a separate line
+item on the applicable invoice.
+
+Title and Risk of Loss. Title without encumbrance, and without risk of loss or
+damage to Contractual Products shall pass to Corning Cable Systems upon delivery
+to the carrier designated by Corning Cable Systems. Corning Cable Systems shall
+provide mPhase with the details of its shipping arrangements such that mPhase
+may prepare each shipment and make timely delivery to the carrier.
+
+Delays in Shipment. mPhase understands and acknowledges that proper delivery at
+the agreed upon times are important to Corning Cable Systems. Unless otherwise
+agreed upon, the Contractual Products shall be delivered on the date(s) set out
+in the purchase order and confirmed by mPhase. If mPhase does not meet the
+delivery dates agreed upon in the applicable purchase order, mPhase shall pay
+Corning Cable Systems as liquidated damages and not as penalty, 1% of total
+amount, of the applicable product not yet delivered, for each week that the
+shipment is delayed, up to 5% of the total amount of the applicable product not
+yet delivered."
+
+
+                                       9
+
+<PAGE>
+
+
+
+Shipping Documentation. mPhase shall ensure that each shipment of Contractual
+Products is accompanied by a packing slip that indicates, at a minimum,
+mPhase's part numbers, Corning Cable Systems's part numbers and the applicable
+purchase order number.
+
+INSPECTION AND REJECTION OF CONTRACTUA1 PRODUCTS
+
+Inspection. Corning Cable Systems shall have a period of ten (10) business days
+following receipt of the Contractual Products to inspect the Contractual
+Products. Corning Cable Systems reserves the right to perform this inspection of
+mPhase's location, during mPhase's normal business hours, upon reasonable notice
+to mPhase and subject to mPhase's reasonable confidentiality, security and/or
+safety restrictions. Neither Corning Cable Systems's inspection of the
+Contractual Products, or its payment for such Contractual Products shall
+constitute final acceptance of the Contractual Products.
+
+Rejections. Corning Cable Systems may reject Contractual Products that are
+defective or do not conform to the Specifications. Upon rejection of any
+defective Contractual Products, Corning Cable Systems will notify mPhase and
+provide a reason for the rejection. Any defective Contractual Products shall be
+handled in accordance with the Warranty provisions of this Agreement. Risk of
+loss or damage in Contractual Products returned to mPhase shall revert to mPhase
+when Corning Cable Systems has tendered the Contractual Products to the carrier
+for return to mPhase.
+
+QUALITY
+
+mPhase or its designated subcontractor shall establish and maintain a quality
+system, conforming either to the requirements set out in ISO 9000 or an
+equivalent quality system standard designated by Corning Cable Systems.
+
+In addition to the above, mPhase agrees to manufacture the Contractual Products
+in accordance with the specifications ("Specifications"), attached hereto as
+Annex 1 to this Exhibit C. mPhase agrees to submit, on request, samples of the
+Contractual Products to Corning Cable Systems so that Corning Cable Systems may
+evaluate whether the Contractual Products meet Corning Cable Systems
+Specifications.
+
+Upon reasonable notice to mPhase, Corning Cable Systems shall entitled, at no
+charge by mPhase, to inspect mPhase' premises during normal business hours
+with respect to the verification of processes and quality systems, quality
+control of Contractual Products and carrying out sampling and conducting
+necessary investigations of quality and delivery performance.
+
+
+
+
+
+                                       10
+
+<PAGE>
+
+
+
+Documentation. mPhase shall provide Corning Cable Systems with all technical
+literature relating to the Contractual Products and any upgrades, modifications
+and enhancement made to the extent such documentation is regularly made
+available to other purchasers of the Contractual Products.
+
+Technical Support. mPhase shall provide Corning Cable Systems with reasonable
+technical assistance regarding Contractual Products covered by this Agreement.
+
+SUPPLY OF CONTRACTUAL PRODUCTS AND SPARES
+
+End-of-life Purchases. In the event of termination of this Exclusive
+Distribution Agreement, Corning Cable Systems will be entitled, at its
+option, to place a final order for a "life cycle purchase" of the Contractual
+Products at least ten (10) days prior to the effective date of such
+termination, for delivery within one hundred eighty (180) days after the
+effective date of termination.
+
+
+Availability of Contractual Products and Spares. mPhase will make available
+to Corning Cable Systems spare, replacement, and maintenance parts necessary
+to enable Corning Cable Systems to support the Contractual Products for a
+period of at least five (5) years after the date of the last shipment to Corning
+Cable Systems. mPhase will make these parts available to Corning Cable Systems
+at prices that are at least as low as the prices being charged to mPhase's other
+customers with similar terms and conditions.
+
+Insignia. Upon Corning Cable Systems's request, the "Insignia", including
+certain Corning Cable Systems trademarks, trade names, insignia, logo, symbols
+and/or decorative designs will be properly affixed by mPhase to the Contractual
+Products furnished to Corning Cable Systems pursuant to an order. The manner in
+which such Insignia will be affixed must be approved in writing by Corning Cable
+Systems and shall be in accordance with Insignia guidelines to be provided to
+mPhase by Corning Cable Systems. mPhase shall not acquire any right to any good
+will, trademark, copyright or other form of intellectual or commercial property
+of Corning Cable Systems. Upon termination or expiration of this Agreement,
+mPhase agrees to return to Corning Cable Systems, at Corning Cable Systems's
+direction, any Corning Cable Systems packaging material, labels or logs within
+mPhase's possession, custody or control.
+
+WARRANTY
+
+
+Product Warranty. mPhase warrants to Corning Cable Systems that at the time of
+delivery to Corning Cable Systems the Contractual Products will be new, not
+contain any reused parts or components and conform to the Specifications. mPhase
+further warrants that, for a period of twelve (12) months from the date
+Corning Cable Systems accepts the Contractual Products, the Contractual
+Products will be free from defects in design, material and workmanship and will
+fully perform in accordance with the Specifications. mPhase also warrants that
+services, if any, will be performed in a first class, workmanlike manner. If
+any material supplied to Corning Cable Systems contains manufacturer's
+warranties, mPhase hereby assigns such warranties to Corning Cable Systems. All
+warranties shall survive inspection, acceptance and payment. Contractual
+Products not meeting the warranties will be, at Corning Cable Systems' option,
+(a) returned for a full refund or credit; (b) repaired; or (c) replaced by
+mPhase at no cost to Corning Cable Systems. All Contractual Products repaired
+or replaced under warranty shall be warranted in the manner set forth in this
+paragraph. mPhase understands that Corning Cable Systems will be reselling
+Contractual Products, and accordingly agrees that its warranty hereunder is
+fully transferable to Corning Cable Systems' customers.
+
+
+                                       11
+<PAGE>
+
+
+Free of Liens, Power to Perform. mPhase warrants that the title conveyed
+hereunder shall be good and its transfer rightful, and that the Contractual
+Products delivered under this Agreement shall be free from all liens,
+encumbrances and restrictions. mPhase warrants that it has all rights and
+powers necessary to perform its obligations under this Agreement.
+
+Intellectual Property Rights. mPhase warrants that the Contractual Products do
+not violate any third party's copyright, patent, trademark, trade secret or
+other proprietary right.
+
+Limitations. NEITHER PARTY, THEIR EMPLOYEES, AGENTS, OFFICERS OR DIRECTORS SHALL
+BE LIABLE IN ANY WAY WHATSOEVER, FOR ANY INDIRECT, SPECIAL, PUNITIVE OR
+CONSEQUENTIAL DAMAGES,, INCLUDING BUT NOT LIMITED TO, LOST PROFITS OR BUSINESS
+REVENUE. LOST BUSINESS, FAILURE TO REALIZE EXPECTED SAVINGS, OR OTHER COMMERICAL
+OR ECONOMIC LOSS OF ANY KIND WHATSOEVER, WHETHER OR NOT SUCH DAMAGES ARE
+FORESEEABLE OR EITHER PARTY, THEIR EMPLOYESS, AGENTS, OFFICERS OR DIRECTORS HAVE
+BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THIS LIMITATION SHALL NOT APPLY
+TO MPHASE"S OBLIGATIONS TO PAY LIQUIDATED DAMAGES FOR LATE DELIVERIESL. THE
+FOREGOING WARRANTIES ARE IN LIEU OF ALL OTHER WARRANTIES, EXPRESS OR IMPLIED,
+INCLUDING THE IMPLIED WARRANTIES OF NON-INFRINGEMENT, MERCHANTABILITY AND
+FITNESS FOR A PARTICULAR PURPOSE.
+
+General Limitation. IN NO EVENT SHALL THE TOTAL CUMULATIVE LIABILITY OF mPHASE
+OR CORNING CABLE SYSTEMS (INCLUDING THEIR EMPLOYEES, DIRECTORS, OFFICERS OR
+AGENTS) FOR ALL CLAIMS ARISING OUT OF OR RELATING TO THIS AGREEMENT, EXCEED
+ACTUAL DIRECT, PROVABLE DAMAGES, NOT TO EXCEED THE TOTAL AMOUNTS PAID BY CORNING
+CABLE SYSTEMS TO mPHASE UNDER THIS AGREEMENT. THE FOREGOING PROVISION LIMITING
+THE LIABILITY OF CORNING CABLE SYSTEMS AND mPHASE (INCLUDING THEIR EMPLOYEES,
+DIRECTORS, OFFICERS OR AGENTS) SHALL APPLY REGARDLESS OF THE FORM OR CAUSE OF
+ACTION WHETHER IN CONTRACT OR TORT, OR A BREACH OF A FUNDAMENTAL TERM OR
+CONDITION; PROVIDED, HOWEVER, THAT THIS LIMITATION SHALL NOT APPLY TO MPHASE'S
+OBLIGATION TO INDEMNIFY CORNING CABLE SYSTEMS FOR THIRD PARTY INTELLECTUAL
+PROPERTY CLAIMS AS SET FORTH HEREIN.
+
+
+                                       12
+<PAGE>
+
+INDEMNIFICATION
+
+mPhase will, at its own expense, defend, indemnify, and hold Corning Cable
+Systems harmless from and against any and all claims, costs, expenses, damages,
+or other liability, including reasonable attorneys' fees (collectively
+"Liabilities"), to the extent that any such action is based on a claim by a
+third party (i) that any Contractual Product infringes a patent, trademark, or
+copyright, or misappropriates any trade secret, or (ii) which is based upon the
+use, distribution, operation, or performance of any Contractual Product,
+anywhere in the world. mPhase's obligations under the preceding are subject to
+the conditions that: (a) Corning Cable Systems promptly notifies mPhase in
+writing of any such claim, and (b) mPhase will have sole control of such defense
+and all negotiations for any settlement or compromise.
+
+If mPhase receives notice of an alleged infringement or if use or distribution
+of any Contractual Product shall be prevented by an injunction based on alleged
+infringement, mPhase shall have the right, at its option to (i) obtain the
+rights for Corning Cable Systems to continue to use and distribution such
+Product, (ii) substitute other suitable Contractual Products maintaining the
+same fit, form and function, or (iii) modify such Product so that it is no
+longer infringing while maintaining the same fit form and function. In the event
+(i), (ii), and (iii) are not commercially feasible, Corning Cable Systems shall
+return the infringing Product and mPhase shall refund to Corning Cable Systems
+the price paid for such Product.
+
+
+Annex 1:
+
+
+Specifications
+
+<PAGE>
+
+
+                 AMENDEMENT TO EXCLUSIVE DISTRIBUTION AGREEMENT
+
+Pursuant to paragraph 6.2, the parties are hereby amending the Exclusive
+Distribution Agreement dated May 15, 2002, and executed on June 27, 2002, (the
+"Agreement"). The amendment pertains to the grant of exclusive rights and
+specifically affects the Recital and paragraph 1.1 of the Agreement. All other
+provisions of the Agreement shall remain in full force and effect.
+
+The Recital is amended as follows:
+
+WHEREAS, the parties wish to enter into an agreement whereby CORNING CABLE
+SYSTEMS will be granted a non-exclusive right to distribute iPOTS(TM) purchased
+from mPhase to telecommunications customers located throughout the world.
+
+The Agreement is amended as follows:
+
+1. Grant of Non-Exclusive Distribution Rights.
+
+1.1 Grant. mPhase hereby grants to Corning Cable Systems a non-exclusive
+worldwide right to market, distribute, export, and sell the mPhase products (the
+"Contractual Products") set forth in Exhibit A to any and all customers, except
+those as set forth in Exhibit B attached hereto. mPhase agrees not to sell,
+promote or distribute any Contractual Products to those customers of Corning
+Cable Systems set forth in Exhibit B-1 attached hereto,
+
+CORNING CABLE SYSTEMS, LLC.                     MPHASE TECHNOLOGIES, INC.
+
+
+By:   /s/ Stuart Hoiness                        By: /s/ Martin Smiley
+   ----------------------------------              ---------------------------
+
+Printed                                         Printed
+Name:   Stuart Hoiness                          Name   :  Martin Smiley
+      -------------------------------              ---------------------------
+
+
+Title: V.P., Global Product Management         Title: EVP, CFO & GC
+   ----------------------------------              ---------------------------
+
+Date:  May 14, 2003                            Date: April 14, 2003
+   ----------------------------------              ---------------------------
+
+<PAGE>
+
+
+                                                                     EXHIBIT B-1
+
+
+
+                        Corning Cable Systems Customers
+
+
+
+</TEXT>
+</DOCUMENT>

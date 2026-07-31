@@ -1,0 +1,1416 @@
+EX-10.5
+6
+k98871exv10w5.txt
+PURCHASE AND SUPPLY AGREEMENT, DATED AS OF SEPTEMBER 30, 2005
+
+ Exhibit 10.5
+
+*** TEXT OMITTED AND FILED SEPARATELY
+ CONFIDENTIAL TREATMENT REQUESTED
+ UNDER 17 C.F.R. 200.80(b)(4) AND 240.24b-2
+
+ PURCHASE AND SUPPLY AGREEMENT
+
+ REGARDING SALES OF COMPONENTS FROM AUTOMOTIVE COMPONENTS HOLDINGS, LLC TO
+ VISTEON CORPORATION
+
+ BETWEEN
+
+ AUTOMOTIVE COMPONENTS HOLDINGS, LLC (F/K/A VFH HOLDINGS, LLC)
+
+ AND
+
+ VISTEON CORPORATION
+
+ SELLER: AUTOMOTIVE COMPONENTS HOLDINGS, LLC
+ BUYER: VISTEON
+
+ September 30, 2005
+
+ PURCHASE AND SUPPLY AGREEMENT REGARDING SALES OF COMPONENTS FROM AUTOMOTIVE
+ COMPONENTS HOLDINGS, LLC TO VISTEON CORPORATION
+
+This Purchase and Supply Agreement Regarding Sales of Components from Automotive
+Components Holdings, LLC to Visteon Corporation ("AGREEMENT") dated as of
+September 30, 2005 is entered into by and between Visteon Corporation, a
+Delaware corporation ("VISTEON"), and Automotive Components Holdings, LLC (f/k/a
+VFH Holdings, LLC) ("NEWCO"), a Delaware limited liability company. Each of
+Newco and Visteon is herein referred to as a "PARTY" and collectively, the
+"PARTIES."
+
+ RECITALS
+
+A. Newco owns and operates manufacturing and assembly facilities in North
+America that were formerly owned and operated by Visteon or its wholly-owned
+subsidiaries ("NEWCO FACILITIES"). Newco Facilities supply motor-vehicle-related
+parts, components and systems to Visteon's or its wholly-owned subsidiaries'
+manufacturing and assembly facilities in North America ("VISTEON FACILITIES").
+
+B. Except as described in Recital C, the purpose of this Agreement is to
+describe supply obligations, pricing, and related matters for certain
+motor-vehicle-related parts, components and systems that are manufactured by a
+Newco Facility and supplied by such Newco Facility to a Visteon Facility. It
+does not cover the sale of motor-vehicle-related parts, components and systems
+by Visteon to Newco (which is addressed in the Purchase and Supply Agreement
+Regarding Sales of Components from Visteon Corporation to Automotive Components
+Holdings, LLC between Newco and Visteon dated as of the date of this Agreement).
+References in this Agreement to motor-vehicle-related parts, components or
+systems that are "manufactured by a Newco Facility and supplied by such Newco
+Facility to a Visteon Facility" mean that such parts, components or systems are
+manufactured by such Newco Facility and supplied by such Newco Facility
+directly, or through a warehouse or shipping facility, to a Visteon Facility.
+
+C. This Agreement does not cover motor-vehicle-related parts, components or
+systems: (i) supplied by Newco to a Visteon facility that is not a facility of
+Visteon Corporation or any of its wholly-owned subsidiaries in North America; or
+(ii) which are Service Parts (as defined in Exhibit 5); in each case except to
+the extent expressly set forth in EXHIBIT 4 or 5, as applicable. EXHIBIT 6 to
+this Agreement lists (i) Visteon's Affiliates, including its wholly-owned
+subsidiaries in North America, its Affiliates in North America which are not
+wholly-owned subsidiaries, and its Affiliates outside of North America, and (ii)
+Visteon Related Companies.
+
+NOW, THEREFORE, in consideration of the mutual promises contained in this
+Agreement and intending to be legally bound, Visteon and Newco agree:
+
+1. DEFINED TERMS
+
+1.1 All terms with initial capitalization used herein shall have the following
+definitions unless specifically stated otherwise. In this Agreement, except as
+otherwise expressly provided or the context otherwise clearly requires, words in
+the singular include the plural, and vice versa. The Recitals above are an
+integral part of this Agreement.
+
+"2003 PSA" means the Purchase and Supply Agreement between Visteon Corporation
+and Ford Motor Company dated December 19, 2003.
+
+"AFFILIATE" means, with respect to any Person, any other Person directly or
+indirectly Controlling, Controlled by or under common Control with such first
+Person; provided, that neither Ford, nor any of its Affiliates, shall be deemed
+to be an Affiliate (or subsidiary) of Newco for the purposes of this Agreement
+or any Existing Agreement, Purchase Order, Long Term Supply Agreement, Target
+Agreement, Sourcing Agreement, or other agreement between Newco and Visteon for
+the supply of Components from Newco to Visteon. For the purpose
+
+of this definition, the term "Control" (including, with correlative meanings,
+the terms "Controlling," "Controlled by" and "under common Control with"), as
+used with respect to any Person, means having the right to elect a majority of
+the board of directors or other comparable body responsible for management and
+direction of such Person, or otherwise having, directly or indirectly, the power
+to direct or cause the direction of the management and policies of such Person,
+by contract or by virtue of share ownership.
+
+"BUSINESS DAY" means a day, other than Saturday, Sunday or other day on which
+commercial banks in Detroit, Michigan are authorized or required by law to
+close.
+
+"COMPONENTS" means motor-vehicle-related parts, components or systems
+manufactured by a Newco Facility and supplied by such Newco Facility (or, in
+regard to Existing Business - Future Model, to be manufactured by a Newco
+Facility and supplied by such Newco Facility) to a Visteon Facility.
+Notwithstanding anything to the contrary in the foregoing sentence, parts,
+components and systems that are supplied by Newco to Visteon Affiliates (other
+than wholly-owned subsidiaries of Visteon in North America), parts, components
+and systems supplied by Visteon Related Companies, and Service Parts are not
+considered "Components".
+
+"CONTRIBUTION AGREEMENT" means Contribution Agreement between Visteon and
+Automotive Components Holdings, Inc. (f/k/a VFH Holdings, Inc.) dated September
+12, 2005.
+
+"CONFIDENTIAL INFORMATION" has the meaning specified in Section 11.1.
+
+"DAMAGES" means any and all obligations, liabilities, damages, penalties,
+deficiencies, losses, judgments, costs and expenses (including, but not limited
+to, costs and expenses incurred in connection with performing obligations,
+interest, bonding and appellate costs and reasonable attorneys', accountants',
+engineers' and investigators' fees and disbursements), in each case, after the
+application of any and all amounts recovered under insurance contracts or
+similar arrangements and from third parties by the person claiming indemnity.
+
+"DEFAULTING PARTY" has the meaning specified in Section 9.1.
+
+"DESIGN CHANGE" means any change to the physical Component, its performance, or
+its interface with other parts or systems that results in a change to the part
+number.
+
+"EVENT OF DEFAULT" has the meaning specified in Section 9.1.
+
+"EXISTING AGREEMENTS" means the Purchase Orders, and Long Term Supply Agreements
+(if any), covering Existing Business, as described in Section 2.3 or 2.4.
+
+"EXISTING BUSINESS" means the Components that are Existing Business in
+Production or Existing Business - Future Model.
+
+In the event that the vehicle or power-train program of Ford (or of another OEM
+Customer of Visteon or its customer), in regard to which Visteon is purchasing
+(or intends to purchase) Components which are Existing Business, is or will be
+subject to a major refreshening or will be replaced by, or will become, a new
+program, as determined by Ford as described below, or as determined by such
+other OEM Customer in accordance with its then-current processes and policies,
+respectively, such Components ("AFFECTED COMPONENTS") will no longer be
+considered to be Existing Business for the purposes of this Agreement as of the
+date that Visteon begins purchasing the motor-vehicle-related parts, components,
+or systems for the refreshened or new program which replace the Affected
+Components; provided, however, that:
+
+ (i) the motor-vehicle-related parts, components, or systems for the
+ refreshened or new program ("REPLACEMENT END-ITEM") which replace the
+ parts, components, or systems supplied by Visteon to Ford (or to the
+ applicable other OEM Customer of Visteon) into which such Affected
+ Components purchased by
+
+ 3
+
+ Visteon from Newco are incorporated are (or were prior to the date of this
+ Agreement) put up for award by Ford or such other OEM Customer of Visteon;
+ and,
+
+ (ii) the motor-vehicle-related parts, components, or systems for the
+ refreshened or new program which replace the Affected Components are put up
+ for award by Visteon. For components put up for award prior to this
+ agreement, the status of such components will be evaluated during
+ reconciliation of Exhibit 2.
+
+For the purposes of this definition: "put up for award" means the issuance of a
+Request for Quote by Ford or Visteon for the Replacement End-Item or such
+motor-vehicle-related parts, components, or systems for the refreshened or new
+program which replace the Affected Components, respectively; and, "Requet for
+Quote" means a request issued by Ford or Visteon to one or more suppliers to
+provide a quotation for the supply of the Replacement End-Item or such
+motor-vehicle-related parts, components, or systems for the refreshened or new
+program which replace the Affected Components, respectively. "Put up for award"
+does not mean quoting design changes to a carryover component for a new program
+or following the change control process.
+
+Nothing in this Agreement or in any Purchase Order, Long Term Supply Agreement,
+Sourcing Agreement, or Target Agreement prohibits Visteon from sourcing such
+motor-vehicle-related parts, components, or systems which replace the Affected
+Components to a supplier of its choice, or from purchasing the same from such
+supplier; provided that Visteon follows the proper approval procedures and
+policies of Ford or such other OEM Customer (as applicable) for the replacement
+part, component, or system, and North American Sourcing Council approval is
+obtained (if applicable).
+
+For the purposes of the prior paragraph, a "major refreshening" or "new program"
+means, in regard to a Ford vehicle or power-train program, a change to a vehicle
+or power-train program with a "S3" or higher designation, for a vehicle program,
+or a "P3" or higher designation, for a power-train program, under the Ford
+Product Development System (FPDS), or the equivalent designation in Ford's
+Global Product Development System (GPDS) or any future product development
+system of Ford replacing FPDS or GPDS (as applicable).
+
+"EXISTING BUSINESS IN PRODUCTION" has the meaning specified in Section 2.1(a).
+
+"EXISTING BUSINESS - FUTURE MODEL" has the meaning specified in Section 2.1(b).
+
+"FORD" means Ford Motor Company, a Delaware corporation.
+
+"FORD MASTER AGREEMENT WORKERS" means the Ford hourly employees who are
+represented by the UAW under the Master Agreement and who have been assigned to
+work at Ford or Newco plants.
+
+"FORD VEHICLE" means a Ford, Lincoln, or Mercury-brand vehicle manufactured in
+North America by Ford or one of its Affiliates.
+
+"FORD-VEHICLE COMPONENTS" mean Components which are, or which are supplied for
+incorporation into another part, component or system, for ultimate use in a Ford
+Vehicle.
+
+"GLOBAL TERMS" means Visteon's Global Terms For Production Parts and
+Non-Production Goods and Services (VGT REV 4/03).
+
+"LONG TERM SUPPLY AGREEMENT" means a multiple-year contract with a supplier
+committing Visteon to procure and the supplier to supply goods or services for a
+specified time period on specified terms.
+
+"MASTER AGREEMENT" means the collective bargaining agreement and all supplements
+thereto between Ford and the UAW dated September 15, 2003, as well as any
+successor agreement (and supplements thereto) to such collective bargaining
+agreement entered into prior to the expiration of this Agreement.
+
+ 4
+
+"MASTER AGREEMENT PLANT" means a facility where some or all of the hourly
+employees working there are represented by the UAW under the Master Agreement.
+
+"NON-DEFAULTING PARTY" has the meaning specified in Section 9.1.
+
+"NON-FORD COMPONENTS" mean Components which are, or which are supplied for
+incorporation into another part, component or system, for ultimate use in a
+vehicle other than a Ford Vehicle.
+
+"NORTH AMERICA" means Canada, Mexico and the United States.
+
+"NORTH AMERICAN SOURCING COUNCIL" means a Ford process to ensure that Ford
+honors commitments to Ford Master Agreement Workers at Ford or Newco facilities
+in the United States with respect to sourcing actions; to provide a framework
+for avoiding labor disturbances and lost production; and to ensure that Ford
+senior management concurs with sourcing decisions.
+
+For the purposes of this Agreement, in determining whether the North American
+Sourcing Council process was or is required to be followed, or its approval was
+or is required, in regard to a particular action:
+
+ (i) taken prior to the date of this Agreement, the North American Sourcing
+ Council process and requirements in effect at the time the applicable
+ action was taken (including, without limitation, any applicable
+ requirements under the 2003 PSA) apply; and,
+
+ (ii) for actions taken on or after the date of this Agreement, the North
+ American Sourcing Council process will be required to be followed, and
+ its approval obtained, if one or more Ford Master Agreement Workers'
+ jobs would be impacted by such action.
+
+"OEM CUSTOMER" means a Person in the business of manufacturing motor vehicles.
+
+"PARTY" or "PARTIES" has the meaning specified in the opening paragraph of this
+Agreement.
+
+"PERSON" means an individual, a partnership, a corporation, a limited liability
+company, an association, a joint stock company, a trust, a joint venture, an
+unincorporated organization or a governmental entity or any department, agency
+or political subdivision thereof.
+
+"PURCHASE ORDER" means, in regard to particular Components, the Purchase Order
+or Long Term Supply Agreement between Visteon and Newco covering the Components
+(as described in Section 2.3 or 2.4, in regard to Existing Business).
+
+"SERVICE PARTS" is as defined in Exhibit 5.
+
+"VISTEON - FORD PSA" means the Purchase and Supply Agreement Regarding Supply of
+Components by Visteon Corporation to Ford Motor Company between Visteon and Ford
+dated as of October 1, 2005.
+
+"VISTEON RELATED COMPANY" is as defined in Exhibit 4.
+
+1.2 Subject to Section 13.3, except in regard to the identification of the
+Parties to this Agreement above or where the context clearly requires otherwise,
+a reference in this Agreement to "Newco" includes Newco and its applicable
+Affiliates, and to "Visteon" includes Visteon and its wholly-owned subsidiaries
+in North America.
+
+2. PURCHASE AND SUPPLY COMMITMENTS
+
+ 5
+
+2.1 General. Subject to the terms and conditions of this Agreement, but
+notwithstanding any term or condition of any Existing Agreement, Purchase Order,
+Long Term Supply Agreement, Sourcing Agreement, or Target Agreement, Newco shall
+supply to Visteon, and Visteon shall purchase from Newco, each of the following
+Components during the term of this Agreement:
+
+ (a) "EXISTING BUSINESS IN PRODUCTION," which means all Components which, as
+ of May 1, 2005, were manufactured by a Newco Facility and supplied by such
+ Newco Facility to a Visteon Facility. Such Components are set forth in
+ EXHIBIT 1 to this Agreement.
+
+ (b) "EXISTING BUSINESS - FUTURE MODEL," which means all Components which,
+ as of May 1, 2005, were planned by Visteon to be manufactured by a Newco
+ Facility and supplied by such Newco Facility to a Visteon Facility (i)
+ pursuant to a reasonably developed and documented plan, and (ii) for supply
+ to, or for inclusion in another part, component or system to be supplied
+ to, Ford or another customer of Visteon that was sourced to Visteon
+ pursuant to a signed Sourcing Agreement with Pricing, Target Agreement, or
+ purchase order (in the case of Ford) or a written sourcing commitment with
+ pricing established or purchase order (in the case of another customer of
+ Visteon), in each case issued prior to May 1, 2005, but which were not
+ being manufactured and supplied as of May 1, 2005. Such Components are set
+ forth in EXHIBIT 2 to this Agreement.
+
+ Subject to Sections 2.1(c) and (d) below, Components which do not meet the
+requirements set forth in Section 2.1(a) or (b) are not Existing Business,
+except as Newco and Visteon specifically agree otherwise in writing. References
+in this Section 2.1 to a "Newco Facility" refer, for the avoidance of doubt, to
+facilities which were manufacturing or assembly facilities of Visteon or its
+Affiliates in North America as of May 1, 2005, but were transferred to Newco.
+Visteon warrants and represents to Newco that, to the best of its knowledge as
+of the date of this Agreement, Exhibits 1 and 2 are accurate and complete.
+
+(c) Without limiting any rights or remedies of either Party, and subject to, and
+without limiting, Section 2.1(d) below:
+
+ (i) In the event that Components which should have been included in Exhibit
+ 1 (as determined in accordance with Section 2.1(a)) are excluded from such
+ Exhibit, and such Components are discovered to have been excluded:
+
+ (A) on or before 6 months after the date of this Agreement, such
+ Components will be added to Exhibit 1, unless the Parties otherwise
+ agree in writing; or,
+
+ (B) after 6 months after the date of this Agreement, the Parties will
+ discuss in good faith as to whether such Components will be added to
+ Exhibit 1, and such Components will be added if the Parties agree in
+ writing.
+
+ (ii) In the event that Components which should have been included in
+ Exhibit 2 (as determined in accordance with Section 2.1(b)) are excluded
+ from such Exhibit, and such Components are discovered to have been
+ excluded:
+
+ (A) on or before three months after the date of this Agreement, and
+ such Components are to go into production prior to or on such date,
+ such Components will be added to Exhibit 2; or,
+
+ (B) after three months after the date of this Agreement(or prior to
+ such date, but which are not covered under Section 2.1(c)(ii)(A)
+ above), the Parties will discuss in good faith as to whether such
+ Components will be added to Exhibit 2, and such Components will be
+ added if the Parties agree in writing.
+
+ 6
+
+(d) Without limiting any rights or remedies of Newco, if a part, component or
+system is not listed on Exhibit 2 ("EXCLUDED COMPONENT"), which Excluded
+Component replaces a part, component or system manufactured, as of May 1, 2005,
+at a Newco Facility, and North American Sourcing Council approval was not
+obtained to have such Excluded Component manufactured at a facility other than a
+Master Agreement Plant, such Excluded Component will, upon Newco's written
+request to Visteon, be added to Exhibit 2.
+
+2.2 Expiration of Term or Cessation of Existing Business Designation. Upon the
+termination or expiration of this Agreement, or when any Components that are
+Existing Business cease to be designated as Existing Business as provided for
+under this Agreement, Newco's rights to cease supplying Components which are
+Existing Business to Visteon, and Visteon's rights to cease the purchase of such
+Components from Newco, shall be as specified under the applicable Purchase Order
+or Long Term Supply Agreement, including the Global Terms, for such Components
+(without regard to any amendment or supplement to the same provided for under
+this Agreement, but subject to Sections 12, 6.2(b), 7(h), and 14).
+
+2.3 Contract Covering Sale and Purchase of Components Which Are Existing
+Business In Production.
+
+ (a) Purchase Order or Long Term Supply Agreement Issued. When a Purchase
+ Order or Long Term Supply Agreement (as applicable) is issued after the
+ date of this Agreement by Visteon to Newco for Components which are
+ Existing Business in Production, the terms and conditions of the same
+ (including the Global Terms) will apply in regard to the sale and purchase
+ of such Components, except to the extent that such Purchase Order, Long
+ Term Supply Agreement, or Global Terms are modified or supplemented under,
+ or conflict with, this Agreement in regard to such Components. Newco agrees
+ to accept any such Purchase Order or Long Term Supply Agreement (as
+ applicable) issued by Visteon to Newco for such Components, provided that
+ the terms and conditions of the same are consistent with this Agreement in
+ regard to such Components. Visteon agrees to issue such Purchase Orders and
+ Long Term Supply Agreements as soon as reasonably practicable after the
+ date of this Agreement. Any such Purchase Order or Long Term Supply
+ Agreement issued will be an Existing Agreement for the purposes of this
+ Agreement.
+
+ (b) Prior to Issuance of Purchase Order or Long Term Supply Agreement.
+ Until such time as a Purchase Order or Long Term Supply Agreement (as
+ applicable) is issued after the date of this Agreement by Visteon to Newco
+ for Components which are Existing Business in Production, a Purchase Order,
+ on Visteon's standard form (as of May 1, 2005) attached hereto as Exhibit 3
+ (including the Global Terms) will be deemed to apply in regard to the sale
+ by Newco and purchase by Visteon of such Components, except to the extent
+ that such Purchase Order, Long Term Supply Agreement, or Global Terms are
+ modified or supplemented under, or conflict with, this Agreement in regard
+ to such Components. Any such Purchase Order deemed to apply will be an
+ Existing Agreement for the purposes of this Agreement.
+
+2.4 Contract Covering Sale and Purchase of Existing Business - Future Model.
+Components which are Existing Business - Future Model supplied by Newco to
+Visteon will be supplied under the Purchase Order or Long Term Supply Agreement
+(as applicable) (including the Global Terms) issued after the date of this
+Agreement by Visteon to Newco for the same, except to the extent that such
+Purchase Order, Long Term Supply Agreement, or Global Terms are modified or
+supplemented under, or conflict with, this Agreement in regard to such
+Components. Newco agrees to accept any such Purchase Order or Long Term Supply
+Agreement (as applicable) issued by Visteon to Newco for such Components,
+provided that the terms and conditions of the same are consistent with this
+Agreement in regard to such Components. Visteon agrees to issue such Purchase
+Orders and Long Term Supply Agreements as soon as reasonably practicable after
+the date of this Agreement. Any such Purchase Order or Long Term Supply
+Agreement issued will be an Existing Agreement for the purposes of this
+Agreement.
+
+2.5 Volumes. No specific volume commitments by Visteon for Existing Business
+will exist. However, without limiting the foregoing sentence, Visteon will
+continue to purchase at least the same percentage of its
+
+ 7
+
+requirements (at a Component-level) for Existing Business from Newco as Visteon
+Facilities were purchasing or receiving (at normal, non-exceptional, operational
+levels) from Newco Facilities on and prior to May 1, 2005 (when such Newco
+Facilities were Visteon Facilities), and Newco will supply such percentage, in
+each case except to the extent that such requirements or supply pattern is to be
+altered pursuant to a plan or action approved by the North American Sourcing
+Council (if required), that Newco Facilities are sold, transferred, exited, or
+closed (in regard to the applicable Components supplied by the same), Newco's
+supply obligations relating to such Components are terminated, expire, or are
+assigned in accordance with this Agreement, or as otherwise agreed upon by the
+Parties in writing. For example, if Visteon Facilities were purchasing or
+receiving 70% of their requirements for a specific Component from Newco
+Facilities on and prior to May 1, 2005 at normal operational levels, Visteon
+will continue to purchase at least 70% of its requirements for such specific
+Component from Newco during the term of this Agreement (subject to the specific
+exceptions referred to in the prior sentence). The foregoing will not, however,
+permit Visteon to cease purchasing at such percentage from the assignee of any
+Existing Agreement upon assignment of such Existing Agreement by Newco to such
+assignee.
+
+2.6 No Obligation to Issue Long Term Supply Agreement; Conflict with this
+Agreement. Visteon shall have no obligation under this Agreement to issue a Long
+Term Supply Agreement (as opposed to a Purchase Order) to Newco for any Existing
+Business or other Components. In the event of a conflict between the terms of
+any Purchase Order, Long Term Supply Agreement, or Global Terms and this
+Agreement in regard to specific Components, the terms of this Agreement shall
+control in regard to such Components.
+
+2.7 Affect on Other Agreements. Any agreements between a Newco Facility (which,
+at the time, would have been a Visteon Facility) and a Visteon Facility in
+effect as of the date of this Agreement relating to the supply of Components
+from such Newco Facility to such Visteon Facility covered under this Agreement
+are superseded (except for use in establishing pricing as described in Section
+3.1(a) or (b)) by the applicable terms and conditions of this Agreement, and by
+any Purchase Order or Long Term Supply Agreement issued pursuant to this
+Agreement, relating to such Components.
+
+3. PRICING
+
+3.1 Pricing.
+
+ (a) Existing Business in Production. Subject to Sections 3.1(c) and (d),
+ for Existing Business in Production, the prices of such Components will be
+ the documented and substantiated prices in effect for the same, as of May
+ 1, 2005, between the Newco Facility manufacturing and supplying such
+ Components and the Visteon Facility to which such Components were supplied
+ as of May 1, 2005 (which Newco Facility was, at the time, a Visteon
+ Facility), as set forth in Exhibit 1, adjusted for productivity price
+ reductions taken after May 1, 2005 but prior to the date of this Agreement,
+ as set forth in Exhibit 1. In regard to any Components listed in Exhibit 1
+ for which no prices are specified, Visteon and Newco will negotiate in good
+ faith and agree upon such prices.
+
+ (b) Existing Business - Future Model. Subject to Sections 3.1(c) and (d),
+ for Existing Business - Future Model, the prices of such Components will be
+ the documented and substantiated prices (as determined in accordance with
+ the reasonably developed and documented plan described in Section 2.1(b)),
+ in effect as of May 1, 2005, (if available) for the same between the Newco
+ Facility planned to manufacture and supply such Components and the Visteon
+ Facility to which such Components were planned to be supplied as of May 1,
+ 2005 (which Newco Facility was, at the time, a Visteon Facility), as set
+ forth in Exhibit 2. In regard to any Components listed in Exhibit 2 for
+ which no prices are specified, Visteon and Newco will negotiate in good
+ faith and agree upon such prices.
+
+ (c) Design or Other Changes. The prices of Components described in Section
+ 3.1(a) and (b) will be adjusted for any Design Change or productivity price
+ reduction agreed upon by Visteon and Ford in writing prior to the date of
+ this Agreement, or agreed upon by Visteon and Newco in writing after the
+ date
+
+ 8
+
+ of this Agreement (including, without limitation, the productivity
+ reductions specified in Section 3.2 below). No other changes to the prices
+ of such Components will occur unless agreed upon by the Parties in writing.
+
+ (d) Prices for Existing Business on Assignment to Buyer of Newco Facility.
+ In the event that:
+
+ (1) Newco assigns a Purchase Order or Long Term Supply Agreement for a
+ Component that is Existing Business ("ASSIGNED COMPONENT") to a buyer
+ or transferee of the Newco Facility from which such Assigned Component
+ is supplied ("TRANSFERRED FACILITY") (as described in Section 7
+ below); and
+
+ (2) such Transferred Facility supplies, as of the date of the
+ assignment, such Assigned Component, or a similar part, component or
+ system, directly to Ford (in addition to supplying such Assigned
+ Component to Visteon), and such supply to both Ford and Visteon will
+ continue after the date of assignment; then
+
+ Newco will amend such Purchase Order or Long Term Supply agreement prior to
+ assignment to provide that the price payable by Visteon for such Assigned
+ Component under such Purchase Order or Long Term Supply Agreement to be
+ assigned will, during the time period beginning on the date of such
+ assignment and ending on 12/31/08, be the price payable by Ford to such
+ buyer or transferee for such Assigned Component that will be supplied
+ directly by such Transferred Facility to Ford (or the price of such similar
+ part, component or system, if such Assigned Component will not be supplied
+ directly to Ford by the Transferred Facility). (Such price payable by
+ Visteon which matches such price payable by Ford is referred to as the
+ "Matched Ford Price" in the Visteon - Ford PSA.)
+
+3.2 Productivity Price Reductions.
+
+(a) Newco shall reduce the prices for all Ford-Vehicle Components supplied to
+Visteon included in the calculation of Visteon Carryover Frozen Turnover (as
+described below) beginning on the date of this Agreement through December 31,
+2008 by the following percentages (such reductions will be made effective as of
+January 1 of the applicable calendar year as described in Subsection 3.3 below):
+
+ Calendar Year 2005 2006 2007 2008
+ ------------- ---- ---- ---- ----
+ 
+Percentage Reduction *** *** *** ***
+
+For a given calendar year, the aggregate productivity price reduction for all
+Components included in the calculation of Visteon Carryover Frozen Turnover will
+be calculated by applying the applicable Percentage Reduction for such calendar
+year against the "Visteon Carryover Frozen Turnover." The "Visteon Carryover
+Frozen Turnover" shall be equal to the Total Frozen Turnover, less the Target
+Agreement Turnover, less any Components excluded from the calculation of the
+Visteon Carryover Frozen Turnover as described in Section 3.2(b) below. The
+following definitions shall apply to this calculation:
+
+"Total Frozen Turnover" shall be equal to the total projected sales of
+Components by Newco to Visteon using Visteon's budgeted volume, mix and rates
+assumptions for the applicable calendar year.
+
+ 9
+
+"Target Agreement Turnover" means that portion of the Total Frozen Turnover for
+Components to be supplied by Newco to Visteon that will be launched during the
+applicable calendar year where Newco and Visteon have entered into signed Target
+Agreements (or the sourcing document of Visteon that is the equivalent of a Ford
+Target Agreement).
+
+(b) Where Newco and Visteon agree in writing on different productivity price
+reductions than those specified above, such separate agreements shall supersede
+the provisions of Subsection 3.2(a) if such different price reductions replace
+(and are not incremental to) the price reductions required under Subsection
+3.2(a). In these cases, the Components to which such different price reductions
+apply will be excluded from the calculation of Visteon Carryover Frozen
+Turnover. If such different price reductions are incremental to (and do not
+replace) the price reductions required under Subsection 3.2(a), the Components
+to which such incremental price reductions apply will be included in the
+calculation of Visteon Carryover Frozen Turnover and the incremental price
+reductions will apply in addition to those required under Subsection 3.2(a).
+
+3.3 All productivity price reductions will be retroactive to January 1 of the
+applicable year. If the productivity price reductions are not processed prior to
+the end of any calendar quarter during the applicable year, Newco shall pay to
+Visteon a lump sum equal to seventy five percent (75%) of a reasonable estimate
+of the effect of the productivity price reductions based on Newco's shipments of
+Components to Visteon during such calendar quarter. Such amount shall be paid on
+or before the last day of such calendar quarter. The Parties acknowledge that
+once the actual productivity price reductions are determined, they will be
+entered into a system that will result in productivity price reductions
+retroactive to January 1 of the applicable year; therefore, if Newco has made a
+lump sum payment for any calendar quarter and Visteon later receives a
+retroactive price adjustment, Visteon will reimburse Newco any amounts that are
+charged twice to Newco. For the avoidance of doubt, Newco's lump-sum payment of
+75% of such estimated amount will not affect Visteon's right to receive 100% of
+the productivity price reduction due for the applicable calendar year.
+
+3.4 Notwithstanding Section 3.2 or 3.3, in regard to Non-Ford Components
+supplied by a Newco Facility to Visteon, in the event Visteon entered into an
+agreement with its customer (other than Ford), prior to or on the date of this
+Agreement, pursuant to which Visteon is obligated to provide such customer with
+productivity price reductions on parts, components, or systems supplied by
+Visteon to such customer which are, or which incorporate, Components supplied by
+Newco to Visteon, Newco shall provide productivity price reductions to Visteon
+on such Components supplied by Newco only to the extent such agreement is
+expressly identified on Schedule 3.07 (a) of the Contribution Agreement or as
+otherwise agreed upon by Ford in writing in regard to such Components prior to
+the date of this Agreement.
+
+3.5 In the event that a customer of Visteon requests productivity price
+reductions on parts, components or systems supplied by Visteon to such customer
+which are, or which incorporate, Components supplied by Newco to Visteon, Newco
+and Visteon shall discuss in good faith potential mechanisms for achieving
+equivalent productivity prices reductions to Visteon on such Components supplied
+by Newco.
+
+4. DESIGN CHANGES
+
+ Except for any Design Change negotiated by Ford directly with Newco, and
+notwithstanding any term or condition of any Purchase Order, Long Term Supply
+Agreement, or the Global Terms, the Parties will negotiate equitable increases
+or decreases in the prices of Components supplied by Newco to Visteon for
+Visteon-requested Design Changes in good faith. The price of any Design Change
+requested by Ford and negotiated directly with Newco will be flowed through,
+unaltered, to Ford (as required under the Visteon - Ford PSA).
+
+5. PAYMENT TERMS
+
+ 10
+
+ For any Components manufactured by a Newco Facility and supplied by such
+Newco Facility to a Visteon Facility, and for any tooling received at Newco
+Facilities (or a Newco Facility's supplier's facilities) in the United States,
+Newco will be paid in accordance with the following terms during the term of
+this Agreement: ***. In the event that systems issues prevent the Parties from
+implementing such payment terms immediately after the date of this Agreement,
+the Parties will work together in good faith to promptly address the problem
+and, in the interim, promptly implement a mechanism which results, in effect, in
+payment terms as close as possible to such payment terms.
+
+As used in this Section 5, the term "tooling" refers only to tooling owned by
+Visteon or its customer and funded by Visteon in an up-front payment (rather
+than in the piece price) that is used for the production of Components
+manufactured by a Newco Facility and supplied by such Newco Facility to a
+Visteon Facility and which is located in Newco Facilities (or a Newco Facility's
+supplier's facilities) in the United States.
+
+6. RIGHT TO TERMINATE OR NOT RENEW
+
+6.1 Termination or Nonrenewal by Visteon.
+
+ (a) Subject to Section 6.1(b), but notwithstanding any other term or
+ condition of this Agreement or of any Purchase Order or Long Term Supply
+ Agreement, or of any other termination rights Visteon may have, Visteon may
+ not terminate or not renew an Existing Agreement or its purchase from Newco
+ of Components which are Existing Business without Newco's prior written
+ consent, and approval of the North American Sourcing Council (where
+ applicable). Notwithstanding the foregoing in this Section 6.1, if Visteon
+ notifies Newco, in writing, that it desires to terminate or not renew an
+ Existing Agreement or Newco's supply to Visteon of Components which are
+ Existing Business Newco shall, discuss and evaluate Visteon's request in
+ good faith with Visteon.
+
+ (b) Notwithstanding any term or condition of this Agreement, Visteon may,
+ upon advance written notice to Newco, terminate or not renew, in whole or
+ in part, its purchase of a Component which is Existing Business only:
+
+ (1) if the Component is a Non-Ford Component, in accordance with
+ Section 22 (Excusable Delay) of the Global Terms for a failure to
+ perform by Newco as a result of an excusable delay, provided that the
+ excusable delay has resulted in a failure to perform by Newco lasting
+ more than three consecutive months after the date of Newco's notice to
+ Visteon of the excusable delay (as required under Section 22 of the
+ Global Terms);
+
+ (2) as a result of the: (i) cancellation by Ford or another OEM
+ Customer of Visteon of the program for which such Component is
+ supplied; or, (ii) the failure of Visteon to require such Component
+ any longer because the end-item part, component or system into which
+ such Component supplied by Newco is incorporated by Visteon is
+ changed, by the applicable program team of Ford (in regard to a
+ Ford-Vehicle Component) or by another customer of Visteon (in regard
+ to a Non-Ford Component), such that neither such Component supplied by
+ Newco, nor a similar part, component or system, is required in such
+ end-item part, component or system any longer, provided Visteon has
+ acted in good faith toward Newco in regard to such change;
+
+ (3) as a result of the termination of this Agreement under Section 9;
+
+ (4) in regard to a Non-Ford Component supplied by Newco, upon the
+ termination or expiration (for any reason) of the purchase order or
+ other agreement between Visteon and its customer for such Non-Ford
+ Component or for the part, component, or system supplied by Visteon
+ into which such Non-Ford Component is incorporated.
+
+ 11
+
+ Subject to Section 15, nothing in this Agreement shall in any way mitigate
+ or effect any of Visteon's rights to terminate or not renew any Purchase
+ Order, Long Term Supply Agreement, or other agreement other than an
+ Existing Agreement (i.e., a Purchase Order, Long Term Supply Agreement, or
+ other agreement relating to Components other than Existing Business).
+
+ In the event of a termination under Section 6.1(b)(2) above, Newco shall
+ have a right to submit a cancellation claim to Visteon in the same manner,
+ and to the same extent, as provided for under Sec. 29.02 of Ford Motor
+ Company's Production Purchasing Global Terms and Conditions (PPGTC Jan. 1,
+ 2004) (as if Visteon were the "Buyer" and Newco were the "Supplier" under
+ such Global Terms and Conditions).
+
+6.2 Termination or Nonrenewal by Newco.
+
+(a) Notwithstanding any term or condition of this Agreement or of any Purchase
+Order, Long Term Supply Agreement, Sourcing Agreement, or Target Agreement (but
+subject to section 7(c) below), Newco may, at any time, terminate or not renew,
+in whole or in part, any Purchase Order, Long Term Supply Agreement, Sourcing
+Agreement, or Target Agreement for any Components supplied by Newco (whether
+Existing Business or otherwise), or any of its obligations under this Agreement
+relating to such Components, upon prior written notice to Visteon if: (i) Ford
+notifies Visteon in writing to cease purchasing the Components from Newco, and
+prior approval of the termination or non-renewal by the North American Sourcing
+Council is obtained (where applicable) (such notification will not be required
+in regard to Non-Ford Components supplied by Newco, in which case only
+notification by Newco to Visteon will be required); or, (ii) upon the sale,
+exit, closure, or transfer (for any reason) of the Newco Facility supplying such
+Components to Visteon. Newco will provide reasonable advance written notice to
+Visteon of any such termination or non-renewal and, in regard to a termination
+or non-renewal for Non-Ford Components supplied by Newco, will reasonably
+cooperate with Visteon to prevent any disruption or interruption of supply to
+Visteon's customer(s) of such Non-Ford Components.
+
+(b) Newco's rights under this Section 6.2 shall survive termination or
+expiration of this Agreement and will apply in regard to any Purchase Order,
+Long Term Supply Agreement, Sourcing Agreement, or Target Agreement for
+Components supplied by Newco to Visteon unless the Parties specifically agree
+otherwise in writing; however, this right will apply only to Newco and not to
+any third-party buyer or transferee of a Newco Facility.
+
+6.3 In no event will termination or non-renewal by Newco made in accordance with
+this Agreement (including, without limitation, under this Article 6 or Section
+9) be considered a default or breach by Newco under any Existing Agreement or
+other agreement (including, without limitation, any Purchase Order or Long Term
+Supply Agreement) between Newco and Visteon.
+
+7. NEWCO EXITING OF BUSINESSES AND ASSIGNMENT
+
+(a) It is specifically intended by the Parties that Newco be able to freely
+sell, exit, close, or transfer any or all of its facilities or business
+operations. In this regard, notwithstanding any term or condition of this
+Agreement or of any Purchase Order, Long Term Supply Agreement, Sourcing
+Agreement, or Target Agreement, Newco may (but is not obligated to) sell, exit,
+close, or transfer any Newco Facilities at any time.
+
+(b) In addition, Newco may (but is not obligated to) freely assign (without
+Visteon's consent), in whole or in part, any or all of the following: (i) any
+Existing Agreement, Purchase Order, Long Term Supply Agreement, Target
+Agreement, Sourcing Agreement, or other agreement between Newco and Visteon for
+Components (whether Existing Business or otherwise) (A) supplied (or to be
+supplied) by a Newco Facility to be closed, sold, or transferred, or (B) for
+which manufacturing and supply responsibility will be transferred or assigned to
+another supplier or facility by Newco as part of a restructuring of the
+applicable Newco Facility; or, (ii) any rights or obligations of Newco under
+this Agreement relating to such Components. Without limiting the foregoing, for
+
+ 12
+
+the avoidance of doubt, Newco may assign, in whole or in part, its rights and
+obligations under this Agreement relating to such a Component, but retain (or
+assign, in whole or in part, to another party) its rights and obligations under
+this Agreement relating to another such Component.
+
+(c) Each of the following shall apply in regard to any assignment by Newco under
+Section 7(b):
+
+ (i) If Newco assigns any of its rights to supply such Components under this
+ Agreement (as opposed to under any Purchase Order, Long Term Supply
+ Agreement, Target Agreement, or Sourcing Agreement only), Newco must also
+ assign its corresponding obligation to provide productivity price
+ reductions for such Components as provided for in Section 3.2 above for the
+ time period for which the assigned right to supply applies. For example, if
+ Newco assigns the right to supply certain Components for 2006 and 2007, it
+ must also assign the corresponding obligation of Newco to pay Visteon
+ productivity for such Components under this Agreement for 2006 and 2007.
+
+ (ii) If Newco assigns only an Existing Agreement, Purchase Order, Long Term
+ Supply Agreement, Target Agreement, or Sourcing Agreement as described in
+ Section 7(b)(i) above, and does not also assign any of its rights or
+ obligations under this Agreement relating to the Component supplied by
+ Newco under such Existing Agreement, Purchase Order, Long Term Supply
+ Agreement, Target Agreement, or Sourcing Agreement as described in Section
+ 7(b)(ii) above, this PSA shall cease to apply to such Component (and to
+ such Existing Agreement, Purchase Order, Long Term Supply Agreement, Target
+ Agreement, or Sourcing Agreement) as of the date of such assignment,
+ provided such assignment is for a duration equal to or in excess of one
+ year, is otherwise to a bona-fide purchaser, acquirer, or transferee of a
+ Newco Facility or of the Component for which manufacturing and supply
+ responsibility is transferred or assigned as described in Section
+ 7(b)(i)(B) above, or relates to the exit or closure of a Newco Facility.
+
+ (iii) If Newco assigns its rights under an Existing Agreement, Purchase
+ Order, Long Term Supply Agreement, Target Agreement, or Sourcing Agreement
+ as described in Section 7(b)(i) above, and also assigns any of its rights
+ or obligations under this Agreement relating to the Component supplied by
+ Newco under such Existing Agreement, Purchase Order, Long Term Supply
+ Agreement, Target Agreement, or Sourcing Agreement as described in Section
+ 7(b)(ii) above, this PSA shall cease to apply to such Component (or such
+ Existing Agreement, Purchase Order, Long Term Supply Agreement, Target
+ Agreement, or Sourcing Agreement) as of the date of such assignment, except
+ in regard to the specific rights and obligations (and only such specific
+ rights and obligations) assigned, provided such assignment is for a
+ duration equal to or in excess of one year, is otherwise to a bona-fide
+ purchaser, acquirer, or transferee of a Newco Facility or of the Component
+ for which manufacturing and supply responsibility is transferred or
+ assigned as described in Section 7(b)(i)(B) above, or relates to the exit
+ or closure of a Newco Facility.
+
+ For example, if Newco assigns its right to supply a Component for 2006 and
+ 2007 under this Agreement (in addition to assigning the applicable Purchase
+ Order or Long Term Supply Agreement), but it has an obligation under this
+ Agreement to supply such Component for 2008 as well, upon such assignment
+ this PSA will cease to apply to such Component (as well as to the
+ applicable Purchase Order or Long Term Supply Agreement), except in regard
+ to the right to supply assigned (and the corresponding productivity price
+ reduction obligation assigned pursuant to Section 7(c)(i)) only. As such,
+ upon such assignment Newco will have no further obligation to supply such
+ Component for 2008.
+
+(d) In regard to any assignment under Section 7(b), upon Newco's request,
+Visteon will provide to Newco, in a form reasonably satisfactory to Newco, a
+release of Newco of, and covenant not to sue the same for, all claims Visteon
+has or may have against Newco relating to the agreement or rights or obligations
+assigned, to the extent that Newco has assigned responsibility for any such
+claims to the assignee of such agreement or rights or obligations assigned and
+such assignee has assumed such claims and obligations. In this regard, as a
+condition of supplying such release, Visteon shall have the right to request
+that Newco certify, in writing, that, to Newco's
+
+ 13
+
+knowledge, the extent to which Newco has assigned responsibility for any such
+claims to the assignee, and the release and covenant not to sue granted by
+Visteon will not include any claims Visteon may have against Newco that were not
+assigned. Such release and covenant not to sue will not apply to any assignment
+by Newco to any Affiliate of Newco, or any subsidiary or affiliate of Ford, that
+does not have the financial capability to satisfy the claims and obligations
+assumed.
+
+(e) Visteon will cooperate diligently and in good faith with Newco, in regard to
+any sale, exit, closure, transfer, or assignment described in this Section 7.
+
+(f) If Newco assigns, in whole or in part, any Existing Agreement, Purchase
+Order, Long Term Supply Agreement, Target Agreement, Sourcing Agreement, or
+other agreement between Newco and Visteon for Components supplied (or to be
+supplied) by a Newco Facility to be closed, transferred, or sold as described in
+Section 7(b)(i) above, the terms and conditions of such whole or part of such
+Existing Agreement, Purchase Order, Long Term Supply Agreement, Target
+Agreement, Sourcing Agreement, or other agreement assigned shall be as specified
+in the same, without regard to any amendment or supplement to the same provided
+for under this Agreement (subject to Section 14). If Newco assigns any rights or
+obligations of Newco under this Agreement relating to such Components as
+described in Section 7(b)(ii) above, such rights and obligations shall be
+additional and supplemental to the Existing Agreement, Purchase Order, Long Term
+Supply Agreement, Target Agreement, Sourcing Agreement, or other agreement
+between Newco and Visteon for such Components assigned as described in the prior
+sentence.
+
+(g) Upon prior written notice to Visteon, prior to any assignment of a Purchase
+Order, Long Term Supply Agreement, Target Agreement, or Sourcing Agreement,
+Newco may (but is not obligated to) amend the same to provide for a one-year
+renewable term for the same with non-renewal rights of the parties thereunder
+substantially similar to those of the "Buyer" and "Supplier" under Ford's
+Production Purchasing Global Terms and Conditions (PPGTC Jan. 1, 2004) (in
+regard to any such Target Agreement or Sourcing Agreement assigned, such
+amendment would apply to any Purchase Order or Long Term Supply Agreement issued
+pursuant thereto).
+
+(h) Newco's rights under this Section 7 shall survive termination or expiration
+of this Agreement and will apply in regard to any Purchase Order, Long Term
+Supply Agreement, Sourcing Agreement, or Target Agreement for Components
+supplied by Newco to Visteon unless the Parties specifically agree otherwise in
+writing; however, this right will apply only to Newco and not to any third-party
+buyer or transferee of a Newco Facility.
+
+8. VISTEON EXITING OF BUSINESSES AND ASSIGNMENT
+
+Notwithstanding any term or condition of this Agreement or of any Purchase
+Order, Long Term Supply Agreement, Sourcing Agreement, or Target Agreement,
+Visteon may not, without Newco's prior written consent, assign, in whole or in
+part, any: (i) Existing Agreement, Purchase Order, Long Term Supply Agreement,
+Target Agreement, Sourcing Agreement, or other agreement between Newco and
+Visteon for Components supplied (or to be supplied) by Newco to Visteon; or,
+(ii) rights or obligations of Visteon under this Agreement relating to such
+Components. Notwithstanding the foregoing in this Section 8, if Visteon notifies
+Newco, in writing, that it desires to make any such assignment, Newco shall
+discuss and evaluate Visteon's request in good faith with Visteon.
+
+9. DEFAULT
+
+9.1. A Party (a "NON-DEFAULTING PARTY") may give notice to the other Party (the
+"DEFAULTING PARTY"), upon occurrence of any of the following events, any one of
+which will be considered to be an "EVENT OF DEFAULT":
+
+ (a) Material Default by a Party. Any default by the Defaulting Party in
+ the performance of any obligation or in the observance of any
+ restriction in this Agreement, which default may not be cured or is
+ not effectively cured after a period of 30 days after written notice
+ thereof has been
+
+ 14
+
+ given by the Non-Defaulting Party; provided that if such default
+ cannot be cured within 30 days, then the Defaulting Party shall have a
+ reasonable period to cure the default (not to exceed 90 days), during
+ which period the Defaulting Party shall at all times diligently pursue
+ a cure;
+
+ (b) Termination of Existence Initiated by a Party. The Defaulting Party
+ commences any Proceeding to wind up, dissolve, or otherwise terminate
+ its legal existence;
+
+ (c) Termination of Existence Initiated by Another Person. Any proceeding
+ is commenced against the Defaulting Party that seeks or requires the
+ winding up, dissolution, or other termination of its legal existence,
+ unless the proceeding is defended or contested in good faith by the
+ Defaulting Party within 30 days of the commencement of the proceeding
+ in a manner that stays it and such defense or contest is pursued
+ diligently thereafter;
+
+ (d) Bankruptcy. Either (a) the Defaulting Party seeks relief by any
+ proceedings of any nature under any applicable laws for the relief of
+ debtors; or (b) the institution against the Defaulting Party of a
+ proceeding under any applicable bankruptcy or similar law of any
+ jurisdiction in which the Defaulting Party carries on its business,
+ unless the proceeding is defended or contested in good faith by the
+ Defaulting Party within 15 days of the commencement of the proceeding
+ in a manner that stays the proceedings and then only so long as such
+ defense or contest is pursued diligently thereafter;
+
+ (e) Appointment of a Receiver. The appointment of a receiver,
+ receiver-manager, trustee, custodian or like officer for all or a
+ substantial part of the business or assets of the Defaulting Party,
+ unless the appointment is defended or contested in good faith by the
+ Defaulting Party within 30 days of the commencement of the appointment
+ in a manner that stays the appointment and then only so long as such
+ defense or contest is pursued diligently thereafter; or
+
+ (f) Assignment for Benefit of Creditors. The Defaulting Party makes an
+ assignment of a substantial part of its assets for the benefit of its
+ creditors.
+
+9.2. Upon the occurrence of an Event of Default, the Non-Defaulting Party may
+elect one or more of the following remedies:
+
+ (a) Subject to Section 9.4 below, termination of this Agreement, in whole
+ or in part, and any such termination shall not be deemed a waiver or
+ release of, or otherwise prejudice or affect, any rights, remedies or
+ claims, whether for Damages or otherwise, which the Non-Defaulting
+ Party may then possess under this Agreement or which arise as a result
+ of such termination; provided, however, that the Non-Defaulting Party
+ may only elect to terminate this Agreement (in whole or in part) for
+ an Event of Default under Section 9.1(a) above (Default by a Party) if
+ the default by the Defaulting Party under Section 9.1(a) is a material
+ default under this Agreement; and
+
+ (b) Set off and recoupment against sums owed by the Non-Defaulting Party
+ or one of its Affiliates to the Defaulting Party or one of its
+ Affiliates any amounts for which the Non-Defaulting Party determines
+ in good faith that the Defaulting Party or one of its Affiliates is
+ liable to the Non-Defaulting Party or one of its Affiliates under this
+ Agreement or any Purchase Order; and
+
+ (c) Recovery of Damages arising from the Default.
+
+9.3 (a) In addition to any termination rights Newco may have under this
+Agreement or applicable law, Newco may terminate this Agreement in the following
+events: (i) a Change of Control of Visteon occurs; or (ii) all of the Existing
+Agreements are terminated or not renewed in accordance with this Agreement.
+
+ 15
+
+(b) As used in this Section 9.3, the term "CHANGE OF CONTROL" means (i) a
+liquidation or dissolution of Visteon; (ii) the sale, lease, transfer,
+conveyance or other disposition, in one or a series of related transactions, of
+all or substantially all of the assets of Visteon and its subsidiaries, taken as
+a whole; (iii) a merger, consolidation, share exchange, business combination or
+similar extraordinary transaction as a result of which the persons possessing,
+immediately prior to the consummation of such transaction, beneficial ownership
+of the voting securities of Visteon entitled to vote generally in elections of
+directors of Visteon, cease to possess, immediately after consummation of such
+transaction, beneficial ownership of voting securities entitling them to
+exercise at least 50% of the total voting power of all outstanding securities
+entitled to vote generally in elections of directors of Visteon (or, if not
+Visteon, the surviving entity resulting from such transaction); or (iv) a
+transaction or series of transactions (including by way of merger,
+consolidation, sale of stock or otherwise) the result of which is that any
+Person or "group" (as defined in Section 13 of the Securities Exchange Act of
+1934) becomes the "beneficial owner" (as such term is defined in Rule 13d-3 and
+Rule 13d-5 promulgated under the Securities Exchange Act of 1934), directly or
+indirectly, of more than 50% of the voting power of the outstanding voting stock
+of Visteon.
+
+(c) Notwithstanding Section 9.3(a) above, in the event of an occurrence
+described in Section 9.3(b)(ii), (iii), or (iv) above, Newco may not terminate
+an Existing Agreement relating to a Component during the term of this Agreement,
+or terminate this Agreement, as a result of a Change of Control of Visteon
+unless and until it has made a good faith effort to discuss (if Visteon
+requests, in writing, that Newco have such discussion) the potential
+continuation of the applicable Existing Agreement or of this Agreement, with:
+(1) the transferee of all, or substantially all, of the assets of Visteon and
+its Subsidiaries described in Section 9.3(b)(ii); (2) the Person Controlling
+Visteon (if any) as a result of the merger, consolidation, share exchange,
+business combination or similar extraordinary transaction described in Section
+9.3(b)(iii) (for this purpose, "Control" will be as defined in the definition of
+the term "Affiliate" in Section 1.1 above); or, (3) the Person or "group" that
+will become the "beneficial owner" of more than 50% of the voting power of the
+outstanding voting stock of Visteon described in Section 9.3(b)(iii).
+
+9.4 A Non-Defaulting Party intending to terminate this Agreement pursuant to
+this Article 9 as a result of an Event of Default occurring under Subsections
+9.1(a) or (b) shall first notify the Defaulting Party of the grounds for the
+intended termination. If the Defaulting Party fails to remedy such grounds for
+termination within sixty (60) days of such notice (or any longer period of time
+as mutually agreed by the Parties), then the Non-Defaulting Party may terminate
+this Agreement effective upon notice to the Defaulting Party without the need
+for any judicial action.
+
+9.5 The provisions of this Article 9 are without prejudice to any other rights
+or remedies either Party may have by reason of the Event of Default of the other
+Party; provided, however, that the Parties' rights to terminate this Agreement
+shall in all cases be as described in this Article 9.
+
+10. TERM
+
+ The term of this Agreement shall commence on the date of this Agreement and
+continue through December 31, 2008, unless terminated earlier in accordance with
+the terms and conditions of this Agreement.
+
+11. CONFIDENTIALITY
+
+11.1 "Confidential Information" is defined as information that is disclosed in
+connection with this Agreement and which is furnished in the following forms:
+
+ (a) Any information whether or not it is provided in writing or orally,
+ including drawings, documents, financial statements and projections,
+ demonstrations, product and product cycle plans and any other
+ information or machine readable data, of a Party furnished to another
+ Party that is marked "Confidential" or contains a proprietary notice
+ clause or, if disclosed orally, was identified as confidential at the
+ time of oral disclosure;
+
+ 16
+
+ (b) Confidential Information includes also any item of hardware, including
+ samples, devices and any other physical embodiments, if such hardware
+ is delivered to the receiving Party.
+
+ (c) In the event that Confidential Information shall be incorporated into
+ or reflected in other documents, whether separately or jointly
+ generated by the Parties, such other documents shall be deemed
+ Confidential Information subject to the terms of this Agreement.
+
+11.2 The receiving Party shall, for a period beginning with the first date of
+receipt of each respective disclosure and continuing for three years thereafter,
+use the same standard of care it uses to protect its own information of similar
+kind and importance, but not less than reasonable care, to maintain the
+confidentiality of Confidential Information and to limit its disclosure to such
+of its directors, employees, agents, advisors or Affiliates as have a need to
+know such Confidential Information in order that the objectives of this
+Agreement can be achieved. In addition, if Newco is the receiving party, Newco
+shall limit disclosure of Confidential Information of Visteon to only those
+directors, employees, agents, advisors or Affiliates of Ford who have a need to
+know such Confidential Information and are receiving such Confidential
+Information in connection with a legitimate business interest of Newco. The
+receiving Party shall be responsible for the compliance by such directors,
+employees, agents, advisors or Affiliates (including, with respect to Newco,
+Ford) with the provisions of this Agreement. Notwithstanding the foregoing,
+Newco shall be permitted to provide to potential or actual acquirers of all or
+any part of Newco, its business, or any Newco Facilities, such Confidential
+Information (as well as any confidential information of Visteon under any
+Purchase Order, Long Term Supply Agreement, Sourcing Agreement, or Target
+Agreement for any Components) as Newco deems necessary to conduct discussions
+with such potential acquirers or to sell, transfer, exit, or close all or any
+part of Newco, its business, or any Newco Facilities, provided that such
+potential acquirers, or any such purchasers or transferees, enter into a
+confidentiality agreement with Newco substantially comparable to the terms and
+conditions of this Article 11.
+
+11.3 The confidentiality obligations of this Agreement shall not apply to
+confidential information received pursuant to this Agreement which:
+
+ (a) is or becomes publicly known other than through a breach of this
+ Agreement by the receiving Party; or
+
+ (b) is already known to the receiving Party at the time of disclosure as
+ evidenced by the receiving Party's written documentation; or
+
+ (c) is lawfully received by the receiving Party from a third party without
+ breach of this Agreement or breach of any other agreement between the
+ disclosing Party and such third party; or
+
+ (d) is independently developed by employees of the receiving Party who
+ have not had access to or received any Confidential Information under
+ this Agreement; or
+
+ (e) is furnished to a third party by the disclosing Party without
+ restriction on the third party's rights to disclose; or
+
+ (f) is authorized in writing by the disclosing Party to be released from
+ the confidentiality obligations herein.
+
+Specific information shall not be deemed to be within such exceptions merely
+because it is included within general information, which is within such
+exceptions, nor shall a combination of features be deemed to be within such
+exceptions merely because the individual features of the combination are
+separately within such exceptions.
+
+ 17
+
+11.4 Confidential Information shall remain the exclusive property of the
+disclosing Party. The receiving Party agrees that Confidential Information
+disclosed hereunder is being received subject to the disclosing Party's
+ownership rights in such Confidential Information and, further, subject to all
+relevant intellectual and/or proprietary property rights of the disclosing
+Party, including the relevant laws governing patents, trademarks, copyrights,
+semiconductor chip protection, trade secrets and unfair competition.
+
+11.5 Upon the termination of this Agreement, the receiving Party shall, at its
+own expense, promptly return to the disclosing Party all originals and copies of
+the writings and hardware in its possession which contain Confidential
+Information. If any writing or hardware has been destroyed, an adequate response
+to a return request therefor by the disclosing Party will be written notice,
+executed by the receiving Party, that such writing or hardware has been
+destroyed.
+
+11.6 If the receiving Party becomes legally compelled (by oral questions,
+interrogatories, request for information or documents, subpoena, civil
+investigative demand or similar process) to disclose any Confidential
+Information, the receiving Party will provide the disclosing parties with prompt
+written notice so that the disclosing Party may seek a protective order or other
+appropriate remedy and/or waive compliance with the provisions of this
+Agreement. In the event that such protective order or other remedy is not
+obtained, or the disclosing Party waives compliance with the provisions of this
+Agreement, the receiving Party will furnish only that Confidential Information
+which is legally required and will exercise reasonable efforts to obtain
+reliable assurance that confidential treatment will be accorded the Confidential
+Information so disclosed.
+
+12. CONFLICT WITH OTHER AGREEMENTS
+
+Nothing in this Agreement, any Existing Agreement, or in any Purchase Order,
+Long Term Supply Agreement, Target Agreement, or Sourcing Agreement for
+Components or the Global Terms affects, limits, or supersedes in any way any
+Master Transaction Agreement or any rights, obligations, or limitations of
+liability of either of Newco or Visteon under any Master Transaction Agreement,
+including, without limitation, any limitations of liability of Newco or Visteon
+relating to any Components (or parts, components, or materials thereof)
+contained in any Master Transaction Agreement, or any rights relating to
+intellectual property, or responsibility for infringement of intellectual
+property rights, contained in any Master Transaction Agreement. In the event of
+any conflict between the provisions of this Agreement and any Master Transaction
+Agreement, the Master Transaction Agreement shall prevail. This Section 12 will
+survive the termination or expiration of this Agreement. Without limiting the
+generality of the foregoing, the Parties agree that nothing in this Agreement,
+or in any any Purchase Order, Long Term Supply Agreement, Target Agreement,
+Sourcing Agreement, or the Global Terms, shall in any respect limit or restrict
+Visteon's obligations with respect to liabilities retained by Visteon under
+Section 2.04(iii) of the Contribution Agreement and Newco shall have no
+liability to Visteon under this Agreement or under any Purchase Order, Long Term
+Supply Agreement, Target Agreement, Sourcing Agreement, or the Global Terms with
+respect to such liabilities retained.
+
+For the purposes of this Section 12, "Master Transaction Agreements" means the
+following, collectively: All of the agreements referenced in section 8 of the
+Master Agreement by and between Ford and Visteon dated as of September 12, 2005.
+
+13. GENERAL PROVISIONS
+
+13.1 No Agency. This Agreement does not constitute either Party the agent or
+legal representative of the other Party. Neither Party is authorized to create
+any obligation on behalf of the other Party.
+
+13.2 Notices. All notices, requests and other communications to any Party
+hereunder shall be in writing (including facsimile transmission and electronic
+mail ("E-MAIL") transmission, so long as a receipt of such e-mail is requested
+and received) and shall be given,
+
+ 18
+
+ if to Newco, to:
+
+ Automotive Components Holdings, LLC
+
+ c/o Ford Motor Company
+ Office of the Secretary
+ One American Road
+ 11th Floor World Headquarters
+ Dearborn, Michigan 48126
+
+ Attention: Peter J. Sherry, Jr.
+ Facsimile No.: (313) 248-8713
+ E-mail: psherry@ford.com
+
+ with a copy to:
+
+ Automotive Components Holdings, LLC
+ One American Road
+ 320 World Headquarters
+ Dearborn, Michigan 48126
+
+ Attention: Marcia J. Nunn, General Counsel
+ Facsimile No.: (313) 337-3209
+ E-mail: mnunn@ford.com
+
+ if to Visteon, to:
+
+ Visteon Corporation
+ One Village Center Drive
+ Van Buren Township, Michigan 48111
+
+ Attention: John Donofrio, General Counsel
+ Facsimile No.: (734) 710-7132
+ E-mail: jdonofri@visteon.com
+
+or such other address, facsimile number or e-mail address as such Party may
+hereafter specify for the purpose by notice to the other Parties hereto. All
+such notices, requests and other communications shall be deemed received on the
+date of receipt by the recipient thereof if received prior to 5:00 p.m. in the
+place of receipt and such day is a Business Day in the place of receipt.
+Otherwise, any such notice, request or communication shall be deemed not to have
+been received until the next succeeding Business Day in the place of receipt.
+
+13.3 Subsidiaries and Affiliates. Subject to the scope of this Agreement
+described in Recitals A and B, subsidiaries and Affiliates of Newco and Visteon
+are bound by the provisions herein to the extent that such subsidiaries or
+Affiliates produce Components supplied by Newco or its Affiliates (in regard to
+Visteon and its Affiliates) or purchase Components supplied by Newco or its
+Affiliates (in regard to Newco and its Affiliates). Each Party warrants and
+represents to the other Party that it has the authority to bind its Affiliates
+to this Agreement as described in this Section 13.3.
+
+13.4 Amendments and Waivers.
+
+ (a) Any provision of this Agreement may be amended or waived if, but only
+ if, such amendment or waiver is in writing and is signed, in the case
+ of an amendment, by each Party to this Agreement, or in the case of a
+ waiver, by the Party against whom the waiver is to be effective.
+
+ 19
+
+ (b) No failure or delay by any Party in exercising any right, power or
+ privilege hereunder shall operate as a waiver thereof nor shall any
+ single or partial exercise thereof preclude any other or further
+ exercise thereof or the exercise of any other right, power or
+ privilege.
+
+13.5 Entire Agreement. This Agreement contains all Exhibits hereto. Subject to
+Section 12, this Agreement supersedes any prior agreements between the Parties
+concerning the subject matter herein.
+
+13.6 Successors and Assigns. The provisions of this Agreement shall be binding
+upon and inure to the benefit of the Parties hereto and their respective
+successors and permitted assigns; provided that neither Party may assign,
+delegate or otherwise transfer any of its rights or obligations under this
+Agreement without the consent of each other Party hereto, except as expressly
+provided for otherwise in this Agreement.
+
+13.7 Severability. If any term, provision, covenant or restriction of this
+Agreement is held by a court of competent jurisdiction or other authority to be
+invalid, void or unenforceable, the remainder of the terms, provisions,
+covenants and restrictions of this Agreement shall remain in full force and
+effect and shall in no way be affected, impaired or invalidated so long as the
+economic or legal substance of the transactions contemplated hereby is not
+affected in any manner materially adverse to any Party. Upon such a
+determination, the Parties shall negotiate in good faith to modify this
+Agreement so as to effect the original intent of the parties as closely as
+possible in an acceptable manner in order that the transactions contemplated
+hereby be consummated as originally contemplated to the fullest extent possible.
+
+13.8 Governing Law. This Agreement shall be governed by and construed in
+accordance with the law of the State of Michigan, without regard to the
+conflicts of law rules of such state. The Parties exclude the application of the
+1980 United Nations Convention on Contracts for the International Sale of Goods,
+if otherwise applicable.
+
+13.9 Disputes. If a dispute arises between the Parties relating to this
+Agreement, the following shall be the sole and exclusive procedure for enforcing
+the terms hereof; provided, however, that a Party may seek injunctive relief
+from a court where appropriate for the purpose of maintaining the status quo
+while this procedure is being followed:
+
+ (i) The Parties promptly shall hold a meeting of senior executives with
+ decision-making authority to attempt in good faith to negotiate a
+ mutually satisfactory resolution of the dispute; provided that no
+ Party shall be under any obligation whatsoever to reach, accept or
+ agree to any such resolution; provided further, that no such meeting
+ shall be deemed to vitiate or reduce the obligations and liabilities
+ of the parties or be deemed a waiver by a Party hereto of any remedies
+ to which such Party would otherwise be entitled.
+
+ (ii) If the parties are unable to negotiate a mutually satisfactory
+ resolution as provided above, then upon request by either Party, the
+ matter shall be submitted to binding arbitration before a sole
+ arbitrator in accordance with the CPR Rules, including discovery
+ rules, for Non-Administered Arbitration. Within five Business Days
+ after the selection of the arbitrator, each Party shall submit its
+ requested relief to the other Party and to the arbitrator with a view
+ toward settling the matter prior to commencement of discovery. If no
+ settlement is reached, then discovery shall proceed. Upon the
+ conclusion of discovery, each Party shall again submit to the
+ arbitrator its requested relief (which may be modified from the
+ initial submission) and the arbitrator shall select only the entire
+ requested relief submitted by one Party or the other, as the
+ arbitrator deems most appropriate. The arbitrator shall not select one
+ Party's requested relief as to certain claims or counterclaims and the
+ other Party's requested relief as to other claims or counterclaims.
+ Rather, the arbitrator must only select one or the other Party's
+ entire requested relief on all of the asserted claims and
+ counterclaims, and the arbitrator shall enter a final ruling that
+ adopts in whole such requested relief. The arbitrator shall limit
+ his/her final ruling to selecting the entire
+
+ 20
+
+ requested relief he/she considers the most appropriate from the
+ requests submitted by the Parties.
+
+ (iii) Arbitration shall take place in the City of Dearborn, Michigan unless
+ the parties agree otherwise or the arbitrator selected by the Parties
+ orders otherwise. Punitive or exemplary damages shall not be awarded.
+ This Section 13.9 is subject to the Federal Arbitration Act, 28
+ U.S.C.A. Section 1, et seq., or comparable legislation in non-U.S.
+ jurisdictions, and judgment upon the award rendered by the arbitrator
+ may be entered by any court having jurisdiction.
+
+13.10 Counterparts; Effectiveness; Third Party Beneficiaries. This Agreement may
+be signed in counterparts, each of which shall be an original, with the same
+effect as if the signatures thereto and hereto were upon the same instrument.
+This Agreement shall become effective as of the date first set forth above when
+each Party hereto shall have received a counterpart hereof signed by the other
+Party hereto. Until and unless each Party has received a counterpart hereof
+signed by the other Party hereto, this Agreement shall have no effect and no
+party shall have any right or obligation hereunder (whether by virtue of any
+other oral or written agreement or other communication). Except as specifically
+provided for herein, no provision of this Agreement is intended to confer any
+rights, benefits, remedies, obligations or liabilities hereunder upon any Person
+other than the Parties hereto and their respective successors and permitted
+assigns under Section 13.6 or Section 7.
+
+13.11 Right to Audit.
+
+(a) If requested by Visteon, Newco will permit Visteon (which, for purposes of
+this Section 13.11, includes its authorized representatives) to:
+
+ (i) Examine all non-privileged pertinent documents, data and other
+information relating to Newco's obligations under this Agreement, any payment
+made to Newco or any claim by Newco;
+
+ (ii) View any facility or process relating to the Components or this
+Agreement, including those relating to production quality; and
+
+ (iii) Audit any facility or process to determine compliance with the
+requirements of this Agreement.
+
+Any examination under this Section 13.11 will be conducted during normal
+business hours and upon advance written notice to Newco.
+
+(b) If requested by Visteon, Newco will use its best efforts to permit Visteon
+to obtain from the subcontractors of, and vendors to, Newco the information and
+permission to conduct the reviews specified in Section 13.11, regardless of any
+other right Visteon may have to that information or facilities.
+
+(c) Newco will keep all relevant documents, data and other written information
+for at least two years following the termination of this Agreement.
+
+13.12 Agreement or Consent of Newco. In regard to any agreement or consent of
+Newco referenced or required under this Agreement, such agreement or consent
+shall mean the agreement or consent of Newco given after the date of this
+Agreement only (and not prior to the date of this Agreement).
+
+14. CHANGES TO GLOBAL TERMS
+
+ The Parties acknowledge that the Global Terms allow Visteon to amend the
+Global Terms from time to time. In this regard, Visteon may amend the Global
+Terms that apply to Existing Agreements, but only as and to
+
+ 21
+
+the extent that such amendments are intended to apply to its suppliers
+generally. The Parties will discuss in good faith any such amendments.
+
+15. NORTH AMERICAN SOURCING COUNCIL APPROVAL.
+
+ Visteon will, during the term of this Agreement, obtain North American
+Sourcing Council approval for any sourcing (including, without limitation, any
+re-sourcing or de-sourcing) action taken by it if one or more Ford Master
+Agreement Workers' jobs would be impacted by such action, except to the extent:
+(i) Newco notifies Visteon otherwise in writing in regard to a particular
+action; or, (ii) expressly provided for otherwise in Section 6.1 (in regard to
+Visteon's termination rights relating to Existing Business).
+
+IN WITNESS WHEREOF, Newco and Visteon have caused this Agreement to be executed
+in multiple counterparts by their duly authorized representatives.
+
+VISTEON CORPORATION AUTOMOTIVE COMPONENTS HOLDINGS, LLC
+
+By: /s/ James F. Palmer By: /s/ James F. Palmer
+ --------------------------------- ------------------------------------
+Title: Executive Vice President and Title: President
+ Chief Financial Officer
+Date: September 30, 2005 Date: September 30, 2005
+ ------------------------------- ----------------------------------
+
+ 22

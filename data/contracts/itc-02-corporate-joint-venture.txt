@@ -1,0 +1,731 @@
+# ITC Model Contract — International Corporate Joint Venture
+# Source: International Trade Centre (ITC), 'Model Contracts for Small Firms', Geneva 2010
+# via UN Digital Library https://digitallibrary.un.org/record/690490
+
+ITC MODEL CONTRACT FOR
+                                          AN INTERNATIONAL CORPORATE
+                                                 JOINT VENTURE
+
+                             PARTIES:
+
+                             Name (name of company)
+                              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                             Legal form (e.g. limited liability company)
+                              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                             Country of incorporation and (if appropriate) trade register number
+                              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                             Address (place of business, phone, fax, e-mail)
+                              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                             Represented by (name, position, address)
+                              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                             Referred to as “ABC”
+
+                             Name (name of company)
+                              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                             Legal form (e.g. limited liability company)
+                              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                             Country of incorporation and (if appropriate) trade register number
+                              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                             Address (place of business, phone, fax, e-mail)
+                              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                             Represented by (name, position, address)
+                              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                             Referred to as “XYZ”
+
+                             ABC and XYZ are together referred to as “the Parties” and individually as a
+                             “Party”.
+
+                             [Add any further information required e.g. the Parties’ fiscal identities]
+
+Background
+                  A.    ABC and XYZ (the “Parties”) have agreed to form a new jointly owned
+                        company (the “JVC”) which shall be established and carry on Business
+                        in the manner set out in this contract.
+
+                  B.    The Parties have agreed that their relations as shareholders in the JVC
+                        shall be governed by the terms of this contract.
+
+Operative provisions
+
+             1.   Interpretation
+                  1.1   In this contract the following terms shall have the following meanings:
+
+                        “Board” means the Board of directors of the JVC;
+
+                        “Business” means the Business to be carried on by the JVC as [specify
+                        nature of Business] in accordance with the Business Plan as updated by the
+                        Board from time to time;
+
+                        “Closing” means completion of the establishment of the JVC in
+                        accordance with Article 3;
+
+                        “Member of the ABC Group” means ABC and any subsidiary or parent
+                        company for the time being of ABC and any other subsidiary for the
+                        time being of that parent company;
+
+                        “Member of the XYZ Group” means XYZ and any subsidiary or parent
+                        company for the time being of XYZ and any other subsidiary for the time
+                        being of that holding parent;
+
+                        “Shares” means ordinary Shares in the capital of the JVC;
+
+                  [Option: If the JVC is to operate in a specific Territory, add: “Territory” means [specify].]
+
+                  1.2 Any reference to an “Agreed Form” is to the draft form of the relevant
+                  document agreed between the Parties and signed on their behalf for the
+                  purpose of identification before the signature of this contract (with such
+                  amendments, if any, as may subsequently be agreed in writing between the
+                  Parties).
+
+                  1.3 Any reference in this contract to an amount in [specify currency] shall
+                  include its market rate equivalent at the relevant time in any other currency.
+
+             2.   Business of JVC
+                  2.1 The Parties wish to establish the JVC for the purpose of [set out scope of
+                  Business] (the “Business”) [Option, if JVC is to operate solely in a particular Territory,
+                  add: “In the Territory”]. The Business shall be conducted in the best interests
+                  of the JVC in accordance with the then current Business Plan. The initial
+                  Business Plan is annexed to this contract [delete if not annexed].
+
+                             2.2 Each party shall act in good faith towards the other in order to promote
+                             the JVC’s success [Option, add if applicable: “With the objective of meeting the milestone
+                             targets and other goals set out in the Business Plan”]. The Parties confirm their
+                             intention to consult fully on all matters materially affecting the development of
+                             the Business.
+
+                      3.     Establishment of JVC: Conditions precedent
+                             3.1 The Parties [Option: If one party is to have particular responsibility for initial
+                             formation, replace “the Parties” with name of particular party to be responsible e.g.
+                             “ABC”] shall take appropriate steps to arrange for the formation of the JVC in
+                             [specify country]. The JVC shall not trade or carry on Business in any manner
+                             prior to Closing. Closing shall be conditional upon each of the following
+                             conditions (“Conditions Precedent”) having first been satisfied or waived: [set
+                             out any specific conditions precedent e.g.]
+
+                                    3.1.1    [Approval by specified regulatory authority];
+
+                                    3.1.2     ..............................
+
+                             3.2 Each party shall use all reasonable efforts to ensure that the conditions
+                             precedent are fulfilled as soon as possible and shall notify the other promptly
+                             of any difficulties encountered. If the conditions precedent are not fulfilled (or
+                             waived) by [specify date], this contract (other than the provisions of Article 12
+                             (confidentiality) and Article 24 (disputes resolution procedure) shall, unless
+                             otherwise agreed, thereupon automatically cease and terminate and neither
+                             party shall have any claim of any nature whatsoever against the other party.
+
+                      4.     Establishment of JVC: Closing
+                             4.1 Closing shall take place on [specify date] (or, if later, within 7 days after
+                             the fulfilment or waiver of all the conditions precedent) when the following
+                             events and matters set out in this Article 4 shall take place. If not previously
+                             formed under Article 3.1, the Parties shall cause the JVC to be incorporated
+                             with the following characteristics:
+
+                                    4.1.1    The JVC shall be formed in [country] as [specify type of company e.g.
+                                             a private company limited by Shares];
+
+                                    4.1.2    The Articles of association/bylaws of the JVC shall be in the
+                                             Agreed Form [annexed to this contract: Delete if the Articles/bylaws are
+                                             not annexed];
+
+                                    4.1.3    The name of the JVC shall be “[specify]”;
+
+                                    4.1.4    The [registered] office of the JVC shall be at [specify];
+
+                                    4.1.5    The directors of the JVC shall be:
+
+                                    ABC Directors:           [specify]           XYZ Directors:          [specify]
+
+                                                             [           ]                               [            ]
+
+                                                             [           ]                               [            ]
+
+           4.1.6    The first auditors of the JVC shall be [specify].
+
+     4.2 ABC shall subscribe unconditionally for [specify number] Shares in cash at
+     a price of [specify] per share, payment for which shall be made in cleared funds
+     into such bank account as shall be agreed by the Parties (the “JVC Account”).
+     XYZ shall subscribe unconditionally for [specify number] Shares in cash at a
+     price of [specify] per share, payment for which shall be made in cleared funds
+     into the JVC account. The Parties shall procure that the JVC issues credited as
+     fully paid:
+
+          4.2.1     [Specify number] Shares to ABC [to include the initial [specify number
+                    if ABC alone has already set up the company] ordinary Shares in the JVC
+                    subscribed for by ABC upon incorporation)]; and
+
+          4.2.2     [Specify number] Shares to XYZ;
+
+                    and that the names of ABC and XYZ are entered in the register
+                    of members of the JVC as the respective holders of the Shares
+                    subscribed by them [and that share certificates are issued to ABC and
+                    XYZ in respect of such Shares: Delete if share certificates not issued under
+                    local law].
+
+     4.3 [Omit this Article if the Parties do not also provide loans to fund the JVC on
+     Closing as well as share capital.] The Parties shall, in addition, advance loans to
+     the JVC on Closing in [currency] in the following amounts:
+
+          ABC . . . . . . . . . . . . .
+
+          XYZ . . . . . . . . . . . . .
+
+     The terms of these loans, including as to interest, shall be the same for each
+     party or otherwise as agreed between them and the Board from time to time.
+     Any such loans shall be repaid to the Parties at the same time and in the same
+     proportions.
+
+     4.4 The Parties shall cause the following ancillary contracts to be entered
+     into, namely:
+
+          [Specify any additional contracts to be executed on Closing in order to establish the
+          Business of the JVC – for example:
+
+          4.4.1     The asset transfer/sale and purchase contract (in the Agreed Form) between
+                    . . . . . . . . . . and the JVC for the transfer of . . . . . . . . . .;
+
+          4.4.2     The distributorship contract (in the Agreed Form) between . . . . . . . . . .
+                    and the JVC relating to the distribution of . . . . . . . . . .;
+
+          4.4.3     The technology assistance contract (in the Agreed Form) between
+                    . . . . . . . . . . and the JVC for the provision of technical assistance and
+                    licensing of . . . . . . . . . .;
+
+          4.4.4     The supply contract (in the Agreed Form) between . . . . . . . . . . and the
+                    JVC for the supply of . . . . . . . . . .;
+
+          4.4.5     The services contract (in the Agreed Form) between . . . . . . . . . . and the
+                    JVC for the provision of services to the JVC as therein provided;
+
+          4.4.6     The trademark licence(s) (in the Agreed Form) between . . . . . . . . . . and
+                    the JVC for licensing of the use of the . . . . . . . . . . mark.]
+
+                    [Comment: Outline examples of a number of these contracts appear as
+
+                                             schedules to the Long Form JVC Contract.]
+
+                      5.     Capital and further finance
+                             [Comment: This Model Contract contemplates that the Shares of the JVC will be held
+                             50-50 between the two Parties. If there are more than two Parties or the Shares are not
+                             to be held equally, terms will have to be adapted to the circumstances. In some cases, it
+                             may be appropriate to have separate “classes” of Shares (e.g. ABC Shares to be held by
+                             ABC and XYZ Shares to be held by XYZ) with different rights attaching to each class.]
+                             5.1 The JVC shall, in accordance with and following completion of the events
+                             and transactions referred to in Article 4, have an issued share capital of [specify
+                             amount] consisting of [specify number] Shares owned by ABC and [specify number]
+                             Shares owned by XYZ.
+                             5.2 The share capital of the JVC may from time to time be increased by such
+                             sum as shall be mutually agreed but so that in any event, unless otherwise
+                             agreed, the increased share capital of the JVC shall be held in the proportions
+                             of 50% by ABC (or member(s) of the ABC Group) and 50% by XYZ (or
+                             member(s) of the XYZ Group).
+                             5.3 If the JVC shall in the opinion of the Board require further finance,
+                             the JVC shall first approach its own banking sources. If finance cannot be
+                             obtained from the JVC’s own banking sources, neither party shall be obliged
+                             to provide any finance to the JVC. Any finance that the Parties do agree
+                             to provide shall (unless otherwise agreed) be provided by the Parties in
+                             equal proportions (whether by way of subscription of share capital, loans or
+                             otherwise).
+                             5.4 The Parties shall not be obliged to provide guarantees in respect of
+                             any borrowings of the JVC but, if they do so, they shall be given in equal
+                             proportions. If a claim is made against a party under any such guarantee, that
+                             party shall be entitled to a contribution from the other party of such amount
+                             as shall ensure that the aggregate liability is borne in equal proportions.
+
+                      6.     Directors and Management
+                             6.1 The Business and affairs of the JVC shall (subject to the Shareholder
+                             Matters referred to in Article 7.2) be managed by the Board of the JVC. The
+                             Board shall consist of four (4) persons [vary number as appropriate] of which:
+
+                                    6.1.1    ABC shall be entitled to appoint and maintain in office two
+                                             (2) directors (“ABC Directors”) and to remove any director so
+                                             appointed from office (and to appoint another in the place of any
+                                             director so removed); and
+
+                                    6.1.2    XYZ shall be entitled to appoint and maintain in office two
+                                             (2) directors (“XYZ Directors”) and to remove any director so
+                                             appointed from office (and to appoint another in the place of any
+                                             director so removed).
+
+                             6.2 Each appointment and removal by ABC or XYZ of a director pursuant
+                             to its entitlement shall be notified in writing to the other party and the JVC.
+                             ABC and XYZ shall each use their respective votes in the JVC to ensure that
+                             the Board of the JVC is constituted by persons appointed in the manner set
+                             out in this contract.
+
+          6.3 At least 14 days written notice shall be given to each member of the
+          Board of any meeting of the Board, provided always that a shorter period of
+          notice may be given with the written approval of at least one (1) ABC director
+          and at least one (1) XYZ director. Any such notice shall include an agenda
+          identifying in reasonable detail the matters to be discussed at the meeting and
+          shall be accompanied by copies of any relevant papers. The Board shall meet
+          regularly (either telephonically, by video conference or in person) and, unless
+          otherwise agreed, not less than quarterly.
+
+          6.4 The quorum for the transaction of Business at any meeting of the Board
+          shall be at least one (1) ABC director and at least one (1) XYZ director present
+          at the time when the relevant Business is transacted.
+
+          6.5 The chairman shall be appointed from among the [ABC] directors.
+          [alternatively: If preferred, delete the previous sentence and replace with “The appointment
+          of the chairman shall rotate each [year/meeting] between an ABC director and an XYZ
+          director”.] The chairman shall not have a casting vote.
+
+          6.6 At any meeting of the Board, each director shall be entitled to one vote.
+          Any decision of the Board in favour of a resolution, to be valid, shall require
+          the positive vote of at least one (1) ABC director and at least one (1) XYZ
+          director. If the Parties are not represented at any meeting of the Board by an
+          equal number of ABC Directors and XYZ Directors, then one of the directors
+          present nominated by the Party which is represented by the fewer directors
+          shall be entitled at that meeting to such additional vote or votes as shall result
+          in the directors present representing each party having in aggregate an equal
+          number of votes.
+
+     7.   Reserved Matters
+          [Comment: The list of “Reserved Matters” should be reviewed in the light of the scope
+          of authority proposed for the Board. This Article ensures that the JVC cannot in any
+          event take these steps without the approval of both Parties. The list should be adapted
+          to meet the circumstances. Reserved Matters will be particularly important if one party
+          has a minority voting position.]
+
+          7.1 The following matters (“Reserved Matters”) shall require the prior
+          approval of ABC and XYZ:
+
+                7.1.1    Any issue of Shares (or securities convertible into Shares) of the
+                         JVC other than an issue of Shares to ABC and XYZ in equal
+                         proportions as specified in Article 5.2;
+
+                7.1.2    Any alteration to the Articles of association/bylaws of the JVC;
+
+                7.1.3    Any sale of the whole or any substantial part of the JVC;
+
+                7.1.4    Any borrowing by the JVC that would result in the aggregate
+                         borrowings of the JVC being in excess of [specify amount] or such
+                         other amount as the Parties shall from time to time determine;
+
+                7.1.5    Approval of the annual budget and operating plan of the JVC;
+
+                7.1.6    Any expansion of the marketing Territory of the JVC beyond
+                         [specify Territory] or any development of the product line of the
+                         JVC beyond [specify] (as improved or enhanced from time to
+                         time);
+
+                                    7.1.7    Any major reorganization affecting the JVC, including the
+                                             formation of any subsidiary of the JVC;
+
+                                    7.1.8    Any contract or commitment by the JVC having a value or likely
+                                             to involve expenditure by the JVC in excess of [specify amount] (or
+                                             such other limit as the Parties shall from time to time agree);
+
+                                    7.1.9    The appointment (or removal) and the terms of reference of the
+                                             chief executive and the appointment (or removal) of any employee
+                                             whose remuneration is in excess of [specify amount] (or such other
+                                             amount as the Parties shall from time to time agree);
+
+                                    7.1.10 The appointment (or removal) of the auditors of the JVC or any
+                                           significant change in the accounting policies of the JVC;
+
+                                    7.1.11 Any change for a particular year in the dividend policy specified
+                                           in Article 10;
+
+                                    7.1.12 The commencement, settlement or abandonment of litigation or
+                                           admission of liability by the JVC involving a dispute in excess of
+                                           [specify amount] (other than a claim against a Member of the ABC
+                                           Group or a Member of the XYZ Group);
+
+                                    7.1.13 Any payment by the JVC to any Member of the ABC Group or the
+                                           XYZ Group (whether by way of management or administrative
+                                           charges, bonus, licence fees, repayment of loan, dividends or
+                                           otherwise) unless within permitted limits first approved by the
+                                           Board;
+
+                                    7.1.14 Filing by the JVC for receivership, reorganization or liquidation
+                                           under any insolvency laws or any similar action.
+
+                             7.2    Approval for the purposes of Article 7.1 may be given:
+
+                                    7.2.1    In the case of items specified in Articles 7.1.1, 7.1.2 and 7.1.3
+                                             [review list to decide matters requiring approval at shareholder level rather
+                                             than the Board] (“Shareholder Matters”), by ABC and XYZ either
+                                             in writing or by unanimous resolution at a general meeting of the
+                                             shareholders of the JVC or by written resolution;
+
+                                    7.2.2    In the case of the remaining Reserved Matters, by unanimous
+                                             agreement of all the directors either by written resolution or by
+                                             unanimous resolution at a meeting of the Board.
+
+                             7.3 The provisions of Article 7.1 shall apply equally to any matters undertaken
+                             by a subsidiary of the JVC as if references therein to “the JVC” included, where
+                             appropriate, any such subsidiary.
+
+                      8.     General meetings
+                             8.1    General meetings of the Parties as shareholders in the JVC shall take
+                             place in accordance with the applicable provisions of the Articles of association/
+                             bylaws which shall include terms that:
+
+                                    8.1.1    The quorum for transaction of any Business shall require the
+                                             presence of a duly authorized representative of each of the Parties;
+
+                8.1.2    The notice of meeting shall set out an agenda identifying in
+                         reasonable detail the matters to be discussed (unless the Parties
+                         agree otherwise);
+
+                8.1.3    The chairman of the meeting shall be nominated by [specify
+                         ABC or XYZ as appropriate] but shall not have a casting vote.
+
+     9.   Additional contributions of the Parties
+          [Comment: This Article may be appropriate as a framework to set out principal
+          responsibilities of each party towards the JVC in addition, for example, to the specific
+          terms for (i) financial contributions under Articles 4 or 5 or (ii) services, products or
+          technical assistance to be provided under ancillary contracts contemplated by Article 4.4.]
+
+          9.1 It is intended that each party will contribute particular knowledge, skills
+          or services to assist the establishment and success of the JVC. The general
+          responsibilities of each party are set out in this Article 9.
+
+          9.2   The general contributions of ABC towards the JVC shall be:
+
+                [These are examples only. Tailor the description to the circumstances of each
+                JVC.]
+
+                9.2.1    [To provide technical assistance (including through the provision of
+                         training) in the field of . . . . . . . . . on reasonable terms to be agreed with
+                         the JVC through the Board [such technical assistance to be given under the
+                         terms of the technical assistance contract];
+
+                9.2.2    [. . . . . . . . . . . . .].
+
+          9.3   The general contributions of XYZ towards the JVC shall be:
+
+                9.3.1    [To use its contacts, knowledge and distribution network in [country] to
+                         assist the promotion of the JVC’s products];
+
+                9.3.2    [To assist in the recruitment of local staff, facilities and resources for the
+                         operations of the JVC];
+
+                9.3.3    [. . . . . . . . . . . . .].
+
+          9.4 Each party will use all reasonable efforts to provide its contribution
+          to promote the success of the JVC. Each party shall provide its contribution
+          towards the JVC using all such diligence and skill as is reasonable in the
+          circumstances.
+
+          [Alternative: If this is intended as a general statement of goodwill without legal liability,
+          then delete the above Article 9.4 and replace with the following:
+
+          “9.4 Each party will use all reasonable efforts to provide its contribution to promote the
+          success of the JVC. The relationship between the Parties for the JVC will, however, be
+          built on trust and neither party shall (unless otherwise specified in this contract or any
+          other contract between that party and the JVC) have any legal liability to the JVC or
+          the other party in respect of the standard, adequacy or performance of its contribution to
+          the JVC.”]
+
+                      10. Dividend policy
+                             The Parties agree that (unless otherwise agreed under Article 7 in relation to a
+                             particular financial year) the JVC shall distribute by way of dividend not less
+                             than . . . . . . . . . . . [e.g. fifty (50)] % of the audited after tax profit in relation
+                             to each financial year.
+
+                      11. Transfer of Shares
+                             11.1 Unless it is a transfer made with the prior written consent of the other
+                             party, neither ABC nor XYZ shall sell, transfer, pledge, charge, dispose of
+                             or otherwise deal with any right or interest in any of its Shares in the JVC
+                             (including the grant of any option over or in respect of any Shares).
+
+                             11.2 Consent shall not unreasonably be withheld for a transfer by a party to a
+                             member of its own group. Each of ABC and XYZ, respectively, undertakes to
+                             procure that, if any member of its group which holds Shares in the JVC ceases
+                             at any time to be a wholly owned subsidiary of that party, that subsidiary shall
+                             first transfer beneficially all its Shares in the JVC back to the relevant party (or
+                             another member of its group).
+
+                             11.3 No transfer of Shares of the JVC shall in any event be registered or become
+                             effective unless the transferee shall first have entered into a contract undertaking
+                             to be bound by this contract (including this Article 11) to the same extent as the
+                             transferor would have been bound had the transfer not been effected.
+
+                      12. Confidentiality
+                             12.1 Each of the Parties shall at all times use all reasonable efforts to keep
+                             confidential (and to ensure that its employees and agents keep confidential) all
+                             commercial and technical information which it may acquire (i) in relation to
+                             the JVC or (ii) in relation to the clients, Business or affairs of the other party
+                             (or any member of its respective group). Neither party shall use or disclose
+                             any such information except with the consent of the other party or, in the
+                             case of information relating to the JVC, in the ordinary course of advancing
+                             the JVC’s Business. The restriction in this Article 12.1 shall not apply to any
+                             information that is:
+
+                                    12.1.1 Publicly available through no fault of that party;
+
+                                    12.1.2 Already in the possession of that party prior to its disclosure
+                                           without any obligation of confidentiality; or
+
+                                    12.1.3 Required to be disclosed by that party pursuant to any law, stock
+                                           exchange regulation or binding judgment, order or requirement
+                                           of any court or other competent authority.
+
+                             12.2 Each party shall use all its respective powers to ensure (so far as it is able)
+                             that the JVC and its officers, employees and agents observe a similar obligation
+                             of confidence in favour of the Parties to this contract.
+
+                             12.3 The provisions of this Article 12 shall survive any termination of this
+                             contract.
+
+     13. Restrictions on the Parties
+         [Comment: Restrictions on a party’s ability to carry on competing activities may be
+         difficult to enforce in many jurisdictions unless they are specific and reasonable in scope,
+         Territory and duration.]
+
+         13.1 Neither ABC nor XYZ nor any member of its respective group shall
+         (directly or indirectly or solely or jointly with any other person, firm or
+         company) carry on or be engaged in any Competing Business in the Territory
+         during the period of this contract.
+
+         13.2 For this purpose: “Competing Business” means [specify]; and “Territory”
+         means [specify].
+
+         13.3 During the period of this contract [Option, add if appropriate: “And for one
+         (1) year after its termination”], neither party shall attempt to employ or entice
+         away any employee of the other party engaged in any managerial or technical
+         capacity in relation to the operations of the JVC.
+
+     14. Deadlock or termination
+         14.1 In the event of a deadlock, breakdown or other circumstances in which
+         a party wishes to terminate or substantially change the structure of the JVC,
+         the matter shall be referred to the respective chairmen/chief executives of the
+         Parties who shall seek to resolve the matter on an amicable basis.
+
+         14.2 If the matter cannot be settled by agreement in initial discussions, then
+         either party may give notice that it seeks formally to resolve the situation
+         within 90 days. The Parties shall continue to negotiate in good faith with a
+         view to resolving the matter including by one of the following methods:
+
+               14.2.1 The purchase by the JVC of the disaffected party’s Shares on
+                      terms acceptable to the Parties (provided that the purchase by
+                      the JVC can lawfully be made and is financially practicable);
+
+               14.2.2 The purchase by the other party of the disaffected party’s Shares
+                      in the JVC (or the sale of that party’s Shares to one or more third
+                      Parties);
+
+               14.2.3 The sale of the whole of the issued share capital of the JVC to a
+                      third party; or
+
+               14.2.4 Winding up of the JVC.
+
+         14.3 If no such method of settling the dispute has been agreed within 90 days
+         after the notice is given under Article 14.2, a disaffected party may serve
+         notice requiring the JVC to be wound-up. No notice requiring the winding up
+         of the JVC may, however, be served by either party within the initial two (2)
+         year period [vary period as appropriate] after the establishment of the JVC.
+
+         14.4 Upon or as soon as practicable after notice under Article 14.3, the Parties
+         shall use their respective powers and votes to cause the JVC to be placed in
+         liquidation. The Parties shall cooperate to ensure that all existing contracts
+         entered into by the JVC prior to such winding up shall be duly completed subject
+         to such arrangements as the Parties may mutually agree. The Parties shall
+         endeavour to agree an appropriate allocation of the assets of the JVC (including
+         any intellectual property owned by the JVC) prior to any such winding up.
+
+                      15. Supremacy of this contract
+                             15.1 ABC and XYZ shall each use its respective powers (including its votes in
+                             the JVC) and all other means at its disposal to ensure that this contract is duly
+                             observed and performed.
+
+                             15.2 The Parties shall endeavour to ensure that the Articles of association/
+                             bylaws are consistent with the terms of this contract. If there is any conflict
+                             between this contract and the Articles of association/bylaws, this contract
+                             shall prevail as between the Parties and they shall make such changes to
+                             the Articles of association/bylaws as shall be necessary to give effect to this
+                             contract.
+
+                      16. Force majeure
+                             16.1 “Force majeure” means war, emergency, accident, fire, earthquake, flood,
+                             storm, industrial strike or other impediment which the affected party proves
+                             was beyond its control and that it could not reasonably be expected to have
+                             taken the impediment into account at the time of the conclusion of this
+                             contract or to have avoided or overcome it or its consequences.
+
+                             16.2 A party affected by force majeure shall not be deemed to be in breach
+                             of this contract, or otherwise be liable to the other, by reason of any delay
+                             in performance, or the non-performance, of any of its obligations under
+                             this contract to the extent that the delay or non-performance is due to any
+                             force majeure of which it has notified the other party in accordance with
+                             Article 16.3. The time for performance of that obligation shall be extended
+                             accordingly, subject to Article 16.4.
+
+                             16.3 If any force majeure occurs in relation to either party which affects or is
+                             likely to affect the performance of any of its obligations under this contract,
+                             it shall within a reasonable time notify the other party as to the nature of the
+                             circumstances in question and their effect on its ability to perform.
+
+                             16.4 If the performance by either party of any of its obligations under this
+                             contract is prevented or delayed by force majeure for a continuous period in
+                             excess of three [specify any other figure] months, the other party shall be entitled
+                             to terminate this contract by giving written notice to the Party affected by the
+                             force majeure.
+
+                             [Alternative: If preferred, replace Article 16.4 with the following alternative: “16.4 If
+                             the performance by either party of any of its obligations under this contract is prevented
+                             or delayed by force majeure for a continuous period in excess of [six] months, the
+                             Parties shall negotiate in good faith, and use their best endeavours to agree upon such
+                             amendments to this contract or alternative arrangements as may be fair and reasonable
+                             with a view to alleviating its effects, but if they do not agree upon such amendments
+                             or arrangements within a further period of 30 days, the other party shall be entitled
+                             to terminate this contract by giving written notice to the Party affected by the force
+                             majeure”.]
+
+                      17. Change of circumstances (hardship)
+                             [Comment: The Parties should be free to consult each other in the event of a major change
+                             in circumstances − particularly one creating hardship for a particular party. However,
+
+         an SME should only include the option in Article 17.4 (right to refer to the courts/arbitral
+         tribunal to make a revision) if (i) the SME considers that it is not likely to be used against
+         that party’s interests by a party in a stronger tactical position or (ii) the right to refer to
+         a court/tribunal is an established right under the applicable governing law in the event
+         of hardship.]
+
+         17.1 Where the performance of this contract becomes more onerous for one of
+         the Parties, that party is nevertheless bound to perform its obligations subject
+         to the following provisions on change of circumstances (hardship).
+
+         17.2 If, however, after the time of conclusion of this contract, events occur
+         which have not been contemplated by the Parties, and which fundamentally
+         alter the equilibrium of the present contract, thereby placing an excessive
+         burden on one of the Parties in the performance of its contractual obligations
+         (hardship), that party shall be entitled to request revision of this contract
+         provided that:
+
+               17.2.1 The events could not reasonably have been taken into account by
+                      the affected party at the time of conclusion of this contract;
+
+               17.2.2 The events are beyond the control of the affected party; and
+
+               17.2.3 The risk of the events is not one which, according to this contract,
+                      the Party affected should be required to bear.
+
+         17.3 Each party shall in good faith consider any proposed revision seriously
+         put forward by the other party in the interests of the relationship between the
+         Parties. No revision shall, however, be effective unless agreed by both Parties
+         in accordance with Article 22.2 [Option, add when the option in Article 17.4 is
+         included: “Or established pursuant to Article 17.4”.]
+
+         [Option: See comment at beginning of Article 17. Add if wished; otherwise delete:
+
+         “17.4 If the Parties fail to reach agreement on the requested revision within [specify time
+         limit if appropriate], a party may resort to the dispute resolution procedure provided in
+         Article 24. The [court/arbitral tribunal] shall have the power to make any revision to this
+         contract that it finds just and equitable in the circumstances or to terminate this contract
+         at a date and on terms to be fixed.”]
+
+     18. Costs
+         The costs of, and incidental to, the incorporation of the JVC shall be borne
+         and paid by the JVC. Each party shall (unless otherwise agreed) bear its own
+         costs incurred in the preparation, execution and performance of this contract.
+
+     19. No partnership or agency
+         Nothing in this contract shall (i) be deemed to constitute a partnership in
+         law between the Parties, (ii) constitute either party the agent of the other for
+         any purpose or (iii) entitle either party to commit or bind the other (or any
+         member of its respective group) in any manner.
+
+                      20. Assignment and subcontracting
+                             20.1 This contract is personal to the Parties and neither party shall without
+                             the prior written approval of the other:
+
+                                    20.1.1 Assign, mortgage, charge or otherwise transfer or deal in, or
+                                           create any trust over, any of its rights; or
+
+                                    20.1.2 Subcontract or otherwise delegate the whole or any part of its
+                                           rights or obligations under this contract to another person.
+
+                      21. Notices
+                             21.1 Any notice under this contract shall be in writing (which may include
+                             e-mail) and may be served by leaving it or sending it to the address of the other
+                             party as specified in Article 21.2 below, in a manner that ensures receipt of the
+                             notice can be proved.
+
+                             21.2 For the purposes of Article 21.1, notification details are the following,
+                             unless other details have been duly notified in accordance with this Article:
+
+                                    21.1.1 ABC: [specify details];
+
+                                    21.1.2 XYZ: [specify details].
+
+                      22. Entire agreement/variations
+                             22.1 This contract [add where appropriate: “And any other contracts entered into on
+                             Closing pursuant to Article 4”] sets out the entire contract between the Parties
+                             with respect to the JVC. Neither party has entered into this contract in
+                             reliance upon any representation, warranty or undertaking of the other party
+                             that is not expressly set out or referred to in this contract. This Article shall
+                             not exclude any liability for fraudulent misrepresentation. [Option, add where
+                             appropriate: “This contract supersedes [the Confidentiality Undertaking/any Heads of
+                             Agreement or Memorandum of Understanding]”.]
+
+                             22.2 This contract may not be varied except by agreement in writing between
+                             the Parties [Option, where the option in Article 17.4 (reference to court/tribunal) has
+                             been included, add to previous sentence: “Or in accordance with Article 17.4”].
+
+                      23. Effect of invalid or unenforceable provisions
+                             If any provision of this contract is held by any court or other competent
+                             authority to be invalid or unenforceable in whole or in part, this contract
+                             shall continue to be valid as to its other provisions and the remainder of the
+                             affected provision, unless it can be concluded from the circumstances that
+                             (in the absence of the provision found to be null and void) the Parties would
+                             not have concluded this contract. The Parties shall use all reasonable efforts
+                             to replace all provisions found to be null and void by provisions that are valid
+                             under the applicable law and come closest to their original intention.
+
+     24. Dispute resolution procedure
+         24.1 If a dispute arises out of this contract, the Parties shall seek to resolve
+         it on an amicable basis. They shall consider the appointment of a mediator
+         to assist in that resolution. No party shall commence legal or arbitration
+         proceedings unless 30 days’ notice has been given to the other party.
+
+         24.2 Any dispute, controversy or claim arising out of or relating to this contract
+         (including its conclusion, interpretation, performance, breach, termination
+         or invalidity) shall be finally settled under the rules of [specify the arbitration
+         institution] by [specify the number of arbitrators, e.g. sole arbitrator, three arbitrators]
+         appointed in accordance with the said rules. The place of arbitration shall be
+         [specify]. The language of the arbitration shall be [specify].
+
+         [The following are alternatives to a specified arbitral institution under Article 24.2:
+
+         Alternative 1: Ad hoc arbitration
+
+         “24.2 Any dispute, controversy or claim arising out of or relating to this contract,
+         including its conclusion, interpretation, performance, breach, termination or invalidity,
+         shall be finally settled under the rules of UNCITRAL [specify other rules] by [specify the
+         number of arbitrators, e.g. sole arbitrator, three arbitrators] appointed by [specify name of
+         appointing institution or person]. The place of arbitration shall be [specify]. The language
+         of the arbitration shall be [specify].”]
+
+         [Alternative 2: State courts
+
+         “24.2 Any dispute, controversy or claim arising out of or relating to this contract,
+         including its conclusion, interpretation, performance, breach, termination or invalidity,
+         shall be finally settled by the courts of (specify place and country) which will have exclusive
+         jurisdiction.”]
+
+     25. Applicable law
+         [Specify national law] law shall apply to this contract.
+
+         SIGNATURES OF THE PARTIES
+
+         Signed for and on behalf of ABC
+
+         Signatory: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              ..............................................
+
+         Date: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+         Signed for and on behalf of XYZ
+
+         Signatory: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              ..............................................
+
+         Date: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .

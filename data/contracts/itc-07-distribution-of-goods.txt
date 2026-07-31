@@ -1,0 +1,1112 @@
+# ITC Model Contract — International Distribution of Goods
+# Source: International Trade Centre (ITC), 'Model Contracts for Small Firms', Geneva 2010
+# via UN Digital Library https://digitallibrary.un.org/record/690490
+
+ITC MODEL CONTRACT FOR THE
+                                INTERNATIONAL DISTRI BUTION OF GOODS
+
+                             PARTIES:
+
+                             Supplier
+
+                             Name (name of company)
+                              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                             Legal form (e.g. limited liability company)
+                              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                             Country of incorporation and (if appropriate) trade register number
+                              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                             Address (address of place of business of the Supplier, phone, fax, e-mail) . .
+                              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                             Represented by (surname and first name, address, position, legal title of
+                             representation) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                             Distributor
+
+                             Name (name of company)
+                              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                             Legal form (e.g. limited liability company)
+                              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                             Country of incorporation and (if appropriate) trade register number
+                              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                             Address (address of place of business of the Distributor, phone, fax, e-mail)
+                              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                             Represented by (surname and first name, address, position, legal title of
+                             representation) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+                              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+                             collectively “the Parties”
+
+                             [Add any further information required e.g. the Parties’ fiscal identities]
+
+Background
+                  A.    The Supplier carries on business in the [manufacture and – delete if not
+                        applicable] supply of [specify Goods].
+
+                  B.    The Supplier wishes to appoint the Distributor as the Supplier’s
+                        Distributor in the Territory of [specify Territory] (the “Territory”) for the
+                        resale of certain of the Goods [manufactured and – delete if not applicable]
+                        supplied by the Supplier, details of which are set out in schedule 1 (the
+                        “Goods”), and the Distributor is willing to accept such an appointment,
+                        on the terms of this contract.
+
+Operative provisions
+
+             1.   Appointment of the Distributor
+                  1.1 The Supplier appoints the Distributor as the Supplier’s Distributor for
+                  the resale of the Goods in the Territory during the period of this contract (the
+                  “Term”), subject to the following provisions.
+
+                  1.2 The appointment of the Distributor is exclusive/non-exclusive [delete as
+                  appropriate].
+
+                  [Comment: The Parties should take into consideration that in some legal systems
+                  exclusivity may have competition law implications.]
+
+                  1.3 For so long as the appointment of the Distributor remains exclusive the
+                  Supplier shall not:
+
+                        1.3.1   Appoint any other person as its Distributor for the sale of the
+                                Goods in the Territory; or
+
+                        1.3.2   Supply (either by itself or through an agent) any of the Goods to
+                                any other person in the Territory; or
+
+                        1.3.3   Supply any of the Goods to any other person outside the Territory
+                                if the Supplier knows, or ought reasonably to know, that they are
+                                intended for resale in the Territory [– delete if the appointment is not
+                                exclusive.]
+
+                  1.4 The Supplier reserves the right to advertise and sell its products
+                  (including the Goods through its website (currently at www [specify domain
+                  name]) to customers in the Territory [but the Supplier shall pay the Distributor a
+                  commission of [ten (10) % − specify any other figure] of the net sales value received
+                  by the Supplier for any Goods sold through its website to customers in the
+                  Territory [– to be deleted if not appropriate.]
+
+                  1.5   The Distributor shall not:
+
+                        1.5.1   Obtain any of the Goods (or any Goods which compete with the
+                                Goods) for resale from any person other than the Supplier;
+
+                        1.5.2   Be concerned or interested, either directly or indirectly, in the
+                                manufacture or distribution in the Territory of any Goods which
+                                compete with any of the Goods;
+
+                                    1.5.3    Seek customers, establish a warehouse or distribution outlet for
+                                             any of the Goods or otherwise actively market any of the Goods
+                                             outside the Territory; or
+                                    1.5.4    Sell any of the Goods to any person outside the Territory, or
+                                             inside the Territory if the Distributor knows, or ought reasonably
+                                             to know, that the person intends to resell the Goods outside the
+                                             Territory. [Delete if not appropriate.]
+                                             [Comment: The Parties should take into consideration that in some legal
+                                              systems restrictions on sale by a Distributor may not be lawful.]
+                             [Option: “1.6 [The Distributor shall not sell the Goods through any mail order or similar
+                             system, or via the Internet or any other electronic means, to customers either in or outside
+                             the Territory." [delete if not appropriate].]
+                             [Comment: The Parties should take into consideration that in some legal systems a
+                             restriction on sales through the Internet or otherwise may not be lawful.]
+                             [Alternative 1:
+                             “1.6 The Distributor shall be entitled to resell the Goods via the Internet, e-mail or any
+                             other electronic means, provided that any website, e-mail or other electronic means used
+                             for this purpose is not specifically targeted at customers outside the Territory.”]
+                             [Alternative 2:
+                             “1.6 The Distributor shall not sell any of the Goods through a sales’ agent or to a sub-
+                             Distributor in the Territory without the prior written consent of the Supplier, but the
+                             Supplier shall not unreasonably withhold or delay giving such consent." [delete if not
+                             appropriate].]
+
+                      2.     Supply of the Goods
+                             2.1 During The Term the Supplier shall sell and the Distributor shall
+                             purchase the Goods ordered by the Distributor for resale, subject to the Terms
+                             of this contract.
+                             2.2 The specification of the Goods shall be as set out in schedule 1, but
+                             the Supplier reser ves the right to make any change in the specification of the
+                             Goods that is necessary in order for them to conform with any applicable laws,
+                             provided the Supplier promptly informs the Distributor in writing of any such
+                             change that it proposes to make.
+                             2.3 The Distributor shall promptly inform the Supplier of any proposed
+                             change in the specification of the Goods which is necessary in order for them to
+                             conform with any applicable laws in the Territory, in which event the Supplier
+                             shall promptly notify the Distributor in writing whether it is willing to change
+                             the specification and (if so) any resulting change in the price of the Goods.
+                             If the Supplier does not notify the Distributor in writing within a reasonable
+                             time (not exceeding [thirty (30) days – specify any other period]) that it agrees to
+                             the change in the specification, or if it does do so but the Distributor does
+                             not notify the Supplier in writing within a reasonable time (not exceeding
+                             [thirty (30) days – specify any other period]) that it agrees any change in the price
+                             of the Goods proposed by the Supplier, the Goods in question shall cease to
+                             be subject to this contract, and where the Goods in question form all or a
+                             substantial proportion of the Goods covered by this contract, either party may
+                             terminate this contract by giving written notice to the other party.
+
+           [Option: Minimum purchase obligation
+
+           “2.4 In each [year – specify any other period] of the Term the Distributor, unless
+           prevented by force majeure, shall order from the Supplier not less than the minimum
+           quantity of the Goods specified in schedule 2. If the Supplier fails by reason of force
+           majeure or otherwise to supply the Distributor with that quantity of the Goods, the
+           minimum quantity of the Goods for the [year – specify any other period] in question shall
+           be reduced by the quantity of the Goods that the Supplier fails to supply.”.]
+
+           2.5 Subject to the provisions of this contract, the supply of the Goods shall
+           be made on the basis of the terms of sale set out in schedule 4. In the event of
+           any conflict between those terms and the terms of this contract, the terms of
+           this contract shall prevail.
+
+      3.   Procedure for ordering the Goods
+           3.1 The Distributor shall, not less than [fifteen (15) – specify any other period]
+           days before the beginning of each [month – specify any other period], give the
+           Supplier its written order for the Goods to be delivered to the Distributor
+           during that [month – specify any other period].
+
+           3.2 Each order for the Goods must be given in writing and shall be subject to
+           confirmation in writing by the Supplier. The Supplier shall confirm the order
+           in writing to the Distributor within [fifteen (15) days – specify any other period]
+           after it is given, unless the Supplier has a valid reason not to do so. Upon
+           confirmation by the Supplier each order shall be final, but the Supplier may at
+           its discretion accept an amendment to an order within [fifteen (15) days – specify
+           any other period] after it is given.
+
+           [Option: “3.3 [Each order for the Goods shall upon confirmation by the Supplier be
+           deemed to constitute a separate contract, and accordingly any breach by the Supplier in
+           relation to any one order shall not entitle the Distributor to terminate this contract as a
+           whole” [– delete if not appropriate].]
+
+           3.4   The Distributor shall notify the Supplier in writing of:
+
+                 3.4.1    Its estimated orders for the Goods for each [year – specify any other
+                          period] during the Term, within [specify period] months prior to
+                          that [year – specify any other period]; and
+
+                 3.4.2    Any revisions to those estimates, as soon as practicable after they
+                          are made.
+
+           3.5   The Distributor shall be responsible to the Supplier for:
+
+                 3.5.1    Ensuring the accuracy of each order for the Goods given by the
+                          Distributor;
+
+                 3.5.2    Promptly giving the Supplier all necessary information relating
+                          to the Goods which is reasonably requested by the Supplier to
+                          enable the Supplier to fulfil each order in accordance with its
+                          terms; and
+
+                 3.5.3    Obtaining any necessary import licences or other requisite
+                          documents (except those to be provided by the Supplier in
+                          accordance with schedule 4), and otherwise complying with any
+                          applicable laws or regulations concerning the importation of the
+
+                                             Goods into the Territory, and for paying all applicable customs
+                                             duties, taxes and charges in respect of the importation of the
+                                             goods into the Territory and their resale in the Territory (unless
+                                             they are exempt).
+
+                             3.6 Upon confirmation of each order the Supplier shall as soon as is
+                             practicable [and in any event within [specify] days – delete if not appropriate] inform
+                             the Distributor of the Supplier’s estimated delivery date for the Goods.
+
+                             3.7 The Supplier shall [use its reasonable commercial endeavours to – delete if
+                             not appropriate] deliver the Goods on [or within [specify] days of – delete if not
+                             appropriate] the estimated delivery date for each order.
+
+                             3.8    [Option 1: Liquidated damages for delay
+
+                             “If there is any delay in the delivery of the Goods [of more than [specify] days after the
+                             estimated delivery date] then, unless the delay is due to force majeure, the price of
+                             the Goods shall be reduced by [specify monetary amount] for every day of the day until
+                             delivery of the Goods, subject to a maximum of [specify] % of the price.”]
+
+                                    [Option 2: No liability for delay due to Distributor
+
+                             “The Supplier shall have no liability for any delay in delivery of the Goods that is due to
+                             any failure by the Distributor to provide any required information in good time.”]
+
+                             3.9 The Supplier shall use its reasonable commercial endeavours to
+                             manufacture and maintain sufficient stocks of the Goods to fulfil its
+                             obligations under this contract, but may [after consultation with the Distributor –
+                             delete if not appropriate] discontinue the manufacture of all or any of the Goods,
+                             in which case the Supplier will give the Distributor [thirty (30) days’ – specify
+                             any other period] notice in writing of the discontinuation, and the Supplier shall
+                             fulfil all outstanding orders for the Goods in question which are placed by the
+                             Distributor before the date of the notice.
+
+                             3.10 If the Distributor’s orders for the Goods exceed (or it appears from any
+                             estimate or revised estimate given by the Distributor that they will exceed) the
+                             output capacity or available stocks of the Supplier:
+
+                                    3.10.1 The Supplier shall as soon as practicable notify the Distributor;
+
+                                    3.10.2 The Distributor shall be entitled to obtain from any other
+                                           person such quantity of the Goods as the Supplier is unable to
+                                           supply in accordance with the Distributor’s orders until such
+                                           time as the Supplier has given the Distributor written notice
+                                           (together with such supporting evidence as the Distributor may
+                                           reasonably require) that it is able and willing to resume the
+                                           supply of the Goods in accordance with the Distributor’s orders
+                                           and the Distributor has had a reasonable time to terminate any
+                                           alternative supply arrangements which it may have made with
+                                           any other person; and
+
+                                    3.10.3 [That quantity shall be deemed for the purposes of Article 2.4 to have
+                                           been ordered from the Supplier – delete if there is no minimum purchase
+                                           obligation under Article 2.4.]
+
+                             3.11 [Option (where there is a minimum purchase obligation):
+
+                             “Within [sixty (60) days – specify any other period] after the end of each [year –
+                             specify any other period] during the Term the Distributor shall submit to the Supplier a
+
+           written report showing the total quantity of the Goods (or any other Goods of the same
+           description) of which the Distributor has taken delivery from any person (including the
+           Supplier) in that year.”]
+
+      4.   Price of the Goods
+           4.1 Except as otherwise agreed in writing between the Supplier and the
+           Distributor, the prices for all Goods to be supplied under this contract shall
+           be the Supplier’s [Ex works/FOB – specify any other basis] list prices from time to
+           time.
+
+           4.2   The Supplier shall:
+
+                 4.2.1    Supply the Distributor with copies of the Supplier’s [Ex works/
+                          FOB – specify any other basis] price lists for the Goods in force from
+                          time to time; and
+
+                 4.2.2    Give the Distributor not less than [specify period] months’ notice
+                          in writing of any alteration in those prices, and the prices as
+                          so altered shall apply to all Goods delivered on and after the
+                          applicable date of the increase, including outstanding orders.
+
+                          [Alternative to Article 4.2.2: Give the Distributor not less than [specify
+                          period] months’ notice in writing of any alteration in those prices, and the
+                          prices as so altered shall apply to all Goods ordered after the applicable
+                          date of the increase.]
+
+           [Option: Cost related price increase
+
+           “4.3 The Supplier reserves the right to increase the price of the Goods to reflect any
+           material increase in the cost to the Supplier of [manufacturing or – delete if not
+           appropriate] supplying the Goods subject to giving not less than [specify period] notice
+           to the Distributor [provided that the Supplier shall not increase the price of any of the
+           Goods by more than [specify] % in any [year – specify any other period] of the Term –
+           delete if not appropriate], and the prices as so altered shall apply to all Goods ordered
+           after the applicable date of the increase.”]
+
+           [Option: Distributor’s right of termination for price increase
+
+           “4.4 If pursuant to Article 4.2 [or 4.3] the Supplier increases or proposes to increase the
+           price of the Goods [by more than [specify] % in any year [specify any other period]], the
+           Distributor may terminate this contract by giving not less than [specify period] written
+           notice to the Supplier.”]
+
+           [Option: Price comparison
+
+           “4.5 If at any time the Distributor can establish that the price of any of the Goods exceeds
+           the price at which a bona fide third party is supplying Goods of a similar specification
+           in commercially significant quantities and on a regular basis in the Territory of the
+           Distributor, the price of the Goods shall, at the request of the Distributor in writing, be
+           reduced accordingly. If the Supplier does not agree in writing to such a request within a
+           reasonable time (not exceeding [thirty (30) days – specify any other period]), the Goods
+           in question shall cease to be subject to this contract, and where the Goods in question form
+           all or a substantial proportion of the Goods covered by this contract, either party may
+           terminate this contract by giving written notice to the other party.”]
+
+                             4.6 The prices of the Goods are [exclusive/inclusive – delete as appropriate] of any
+                             applicable value added tax or similar tax, for which the Distributor shall be
+                             liable in addition to the price.
+
+                             4.7 If the Supplier agrees to deliver the Goods otherwise than on an [Ex
+                             works/FOB – specify as appropriate] basis, the price is exclusive of the Supplier’s
+                             charges for transport, packaging and insurance up to the point of delivery, for
+                             which the Distributor shall be liable in addition to the price.
+
+                      5.     Payment
+                             5.1 The price of the Goods shall be payable within [thirty (30) days – specify
+                             any other period] of the Supplier’s invoice (which may be submitted at any time
+                             after the Goods are despatched) or as otherwise agreed in writing between the
+                             Parties.
+
+                             5.2 All payments shall be made by transfer to a bank account specified by
+                             the Supplier in writing, without any set-off, deduction or withholding except
+                             for any tax that the Distributor is required by law to deduct or withhold.
+
+                             5.3    [Option 1: Payment in advance
+
+                             “The Supplier may invoice the Distributor for the price of the Goods at any time before
+                             delivery, and the Distributor shall pay the sum due in cleared funds to the bank nominated
+                             by the Supplier on or before delivery.”.]
+
+                                    [Option 2: Other methods of payment
+
+                             “The Supplier may require the Distributor to pay the price of any Goods by [specify
+                             payment method, e.g. payment by documentary collection / payment by irrevocable
+                             documentary credit].”.]
+
+                             5.4 Time for payment of the Goods shall be of the essence of this contract.
+                             [delete if not applicable.]
+
+                             5.5 If the Distributor fails to pay the price for any Goods in accordance with
+                             this contract, the Supplier may (without limiting any other right or remedy):
+
+                                    5.5.1 Cancel or suspend any further delivery to the Distributor under
+                                    any order;
+
+                                    5.5.2 Sell or otherwise dispose of any Goods which are the subject of
+                                    any order by the Distributor, whether or not appropriated to the order,
+                                    and apply the proceeds of sale to the overdue payment; and
+
+                                    5.5.3 Charge the Distributor interest on the outstanding amount (both
+                                    before and after any judgment) at the rate of [specify] % from the due date
+                                    until the outstanding amount is paid in full.
+
+                             [Comment: The Parties should take into consideration that in some legal systems payment
+                             of interest is unlawful, or is subject to a legal maximum rate, or there is provision for
+                             statutory interest on late payments.]
+
+                      6.     Warranties relating to the Goods
+                             6.1 Subject to the following provisions, the Supplier warrants to the
+                             Distributor that:
+
+                 6.1.1    The Supplier has [or at the time of delivery will have – delete if not
+                          appropriate] good title to the Goods supplied under this contract;
+
+                 6.1.2    [The importation of the Goods and the resale of the Goods by the
+                          Distributor [and their use by any customer of the Distributor – delete if
+                          not appropriate] will not infringe the patent, design, copyright, Trademark
+                          or other Intellectual Property rights of any other person – delete if not
+                          appropriate]; and
+
+                 6.1.3    Subject to Article 6.2, the Goods supplied under this contract
+                          [and their use by any customer of the Distributor will comply with any
+                          specification agreed for them and be free from defects in material and
+                          workmanship for a period of [ninety (90) days – specify any other period]
+                          from delivery to the Distributor and comply with all health and
+                          safety and other applicable legal requirements.
+
+           6.2 The Supplier shall be under no liability in respect of any defect in the
+           Goods arising from fair wear and tear, or any wilful damage, negligence,
+           subjection to abnormal working conditions, failure to follow the Supplier’s
+           written instructions, misuse or alteration or repair of the Goods without the
+           Supplier’s approval, or any other act or omission on the part of the Distributor,
+           its employees or agents or any third party.
+
+           [Option: “6.3 In the event of any breach of the Supplier’s warranty under Article 6.1.3
+           the Supplier’s liability shall be limited to:
+
+                 6.3.1    Repair or (if that is not practical) replacement of the product in question;
+                          or
+
+                 6.3.2    Repayment of any part of the price for the product in question which has
+                          been paid” [– delete if not appropriate.]
+
+           [Option: “6.4 [Where the Supplier is not the manufacturer of the Goods, the Supplier
+           shall, without limiting its other obligations, extend to the Distributor the benefit of any
+           warranty given by the manufacturer” [– delete if not appropriate.]
+
+           [Option (in common law systems) “6.5 All other warranties or other terms, express or
+           implied by statue or otherwise, are excluded to the fullest extent permitted by law.”]
+
+      7.   Distribution of the Goods
+           7.1 The Distributor shall use its reasonable commercial endeavours to
+           promote, market and distribute the sale of the Goods throughout the Territory.
+
+           7.2 The Distributor shall use its reasonable commercial endeavours to
+           distribute the sale of the Goods in accordance with a Business Plan for the
+           marketing and sale of the Goods (the “Business Plan”), the first Business Plan
+           being in the form annexed to this contract. The Distributor shall update the
+           Business Plan on an annual basis, and pending any such updating the previous
+           year’s Business Plan shall continue to apply.
+
+           7.3 In connection with the promotion, marketing and sale of the Goods the
+           Distributor shall:
+
+                 7.3.1    Make it clear in all dealings with customers and prospective
+                          customers that it is acting as Distributor of the Goods and not as
+                          the agent of the Supplier;
+
+                                    7.3.2    Comply with all applicable legal requirements;
+                                    7.3.3    (Subject to Article 3.10) maintain a level of stocks of the Goods
+                                             necessary to meet its customers’ requirements;
+                                    7.3.4    Keep all stocks of the Goods which it holds in conditions that are
+                                             appropriate for their storage and provide appropriate security for
+                                             the Goods;
+                                    7.3.5    Insure at its own cost with a reputable insurance company all
+                                             stocks of the Goods held by it against all risks which would
+                                             normally be insured against by a prudent businessman to at
+                                             least their full replacement value, and produce to the Supplier on
+                                             demand full particulars of that insurance and the receipt for the
+                                             then current premium;
+                                    7.3.6    [Provide the Supplier with copies of its up to date price lists – delete if not
+                                             appropriate.]
+                                             [Comment: The Parties should take into consideration that in some legal
+                                             systems such a provision may have competition law implications.]
+                                    7.3.7    Provide the Supplier on request with copies of brochures,
+                                             catalogues, manuals and other marketing materials used by the
+                                             Distributor in relation to the Goods;
+                                    7.3.8    Use in relation to the Goods only advertising, promotional and
+                                             marketing materials which are approved in writing by the Supplier;
+                                    7.3.9    Observe all directions and instructions reasonably given to it by
+                                             the Supplier in relation to the promotion and advertisement of
+                                             the Goods, and not make any written or oral statements as to the
+                                             quality or fitness of the Goods without the prior written approval
+                                             of the Supplier;
+                                    7.3.10 Employ a sufficient number of suitably qualified personnel to
+                                           fulfil its obligations under this contract; and
+                                    7.3.11 Provide an after-sales and maintenance service for customers in
+                                           relation to the Goods to the Supplier’s reasonable satisfaction
+                                           during the Term and for a period of [six (6) months – specify any
+                                           other period] after the termination of this contract.
+                             7.4    The Distributor shall:
+
+                                    7.4.1    Keep full and proper books of account and records showing
+                                             clearly all enquiries, quotations, transactions and proceedings
+                                             relating to the Goods, and allow the Supplier, on reasonable
+                                             notice, access to its accounts and records relating to the Goods
+                                             for the purpose of inspection;
+                                    7.4.2    Provide the Supplier on a monthly basis with a report, in such
+                                             form as the Supplier may reasonably require, of all sales of the
+                                             Goods that it has made in the preceding month and containing
+                                             such other information as the Supplier may reasonably require;
+                                    7.4.3. Inform the Supplier immediately of any changes in the ownership
+                                           or control of the Distributor and of any change in its organization
+                                           or method of doing business which might affect the performance
+                                           of the Distributor’s duties under this contract; and
+
+                 7.4.4    Consult with the Supplier’s representatives from time to time
+                          in order to assess the state of the market in the Territory, and
+                          permit them to inspect any premises used by the Distributor in
+                          connection with the sale of the Goods.
+           7.5 The Distributor shall carry out its obligations in relation to the
+           marketing, promotion and sale of the Goods and the provision of after-sales
+           and maintenance services at its own expense and with all due skill, care and
+           diligence, and shall at all times act towards the Supplier dutifully and in good
+           faith in all matters relating to this contract.
+           7.6   [Option 1: Supplier’s contribution to advertising
+           “The Supplier shall in each [year – specify any other period] of The Term spend not less
+           than [specify amount] on advertising and promoting the Goods in the Territory.”.]
+                 [Option 2: Distributor’s contribution to advertising
+           “During each [year – specify any other period] of the Term the Distributor shall spend
+           not less than the amount specified in the Business Plan for that [year – specify any other
+           period] on advertising and promoting the Goods in the Territory.”.]
+
+      8.   Support and training
+           8.1 The Supplier shall from time to time provide the Distributor [free of
+           charge – delete if not appropriate] with reasonable samples of the Goods, and such
+           brochures, catalogues, manuals and up to date promotional and advertising
+           information concerning the Goods as the Supplier may consider appropriate
+           or as the Distributor may reasonably request, in order to assist the Distributor
+           with the sale of the Goods in the Territory.
+           8.2 The Supplier shall endeavour to answer as soon as practicable any
+           technical enquiries concerning the Goods which are made by the Distributor
+           or its customers, and provide the Distributor with support in dealing with any
+           defective Goods.
+           [Option: “8.3 During the first year of the Term:
+                 8.3.1    The Supplier shall make available to the Distributor (at times to be agreed
+                          and for up to [specify number] working days) the services of a suitably
+                          qualified employee of the Supplier to assist the Distributor in the marketing
+                          of the Goods; and
+                 8.3.2    The Distributor may send to the Supplier’s premises (at times to be agreed
+                          and for up to [specify number] working days) up to [specify number]
+                          suitably qualified employees of the Distributor for training by the Supplier
+                          in relation to the Goods and their marketing – delete if not appropriate.”.]
+           8.4   The Distributor shall:
+                 8.4.1    Reimburse the Supplier for all travelling, accommodation and
+                          other expenses reasonably incurred by any employees of the
+                          Supplier in providing those services; and
+
+                 8.4.2    Remain liable for all salaries and other employment costs of,
+                          and all travelling, accommodation and other expenses incurred
+                          by, employees of the Distributor who are sent to the Supplier’s
+                          premises.” [Delete if not appropriate.]
+
+                      9.     Intellectual Property
+                             9.1 The Supplier grants to the Distributor the exclusive/non-exclusive
+                             [delete as appropriate] right to use in the Territory in relation to the promotion,
+                             marketing and sale of the Goods the Supplier’s Trademarks details of which are
+                             given in schedule 5 and any other Trademarks used by the Supplier in relation
+                             to the Goods at any time during the Term which are notified in writing to
+                             the Distributor (the “Trademarks”) and any patent, copyright, design right or
+                             other Intellectual Property rights (“Intellectual Property”) of the Supplier, to
+                             the extent necessary for the purposes of exercising its rights and performing its
+                             obligations under this contract.
+
+                             9.2 The Distributor shall ensure that each reference to and use of any of the
+                             “Trademarks” by the Distributor in relation to the Goods in any advertising or
+                             marketing material or otherwise is in a manner from time to time approved by
+                             the Supplier and accompanied by an acknowledgement, in a form approved by
+                             the Supplier, that it is a Trademark (or registered Trademark) of the Supplier.
+
+                             9.3    The Distributor shall not:
+
+                                    9.3.1    Modify the Goods or their packaging, except to the extent that
+                                             this is required in accordance with applicable law;
+
+                                    9.3.2    Alter or remove from the Goods any of the Trademarks, or the
+                                             numbers or other means of identification used on or in relation
+                                             to the Goods;
+
+                                    9.3.3    Use any of the Trademarks in any way which might prejudice
+                                             their distinctiveness or validity or the goodwill of the Supplier;
+
+                                    9.3.4    Use in relation to the Goods any Trademarks other than the
+                                             Trademarks without obtaining the prior written consent of the
+                                             Supplier;
+
+                                    9.3.5    Use in the Territory any Trademarks or trade names which so
+                                             resemble any of the Trademarks as to be likely to cause confusion
+                                             or deception;
+
+                                    9.3.6    Use any of the Trademarks as part of the Distributor’s corporate
+                                             or business name; or
+
+                                    9.3.7    Apply for or register as a Trademark or as a domain name in
+                                             the Territory or elsewhere any name or mark which is the same
+                                             as or similar to any of the Trademarks or any domain name of
+                                             the Supplier, but if the Distributor applies for or registers any
+                                             Trademark or domain name in breach of this Article, it shall [hold
+                                             the benefit of the application or the registration on trust for the Supplier
+                                             and − delete if not appropriate] transfer it to the Supplier on demand.
+
+                             9.4 Except as provided in this contract, the Distributor shall have no rights
+                             in respect of any trade names or Trademarks used by the Supplier in relation
+                             to the Goods or of the goodwill associated with them, or any other Intellectual
+                             Property of the Supplier in respect of the Goods.
+
+                             9.5 The Distributor shall, at the request and expense of the Supplier, execute
+                             a “formal licence in respect of the use by the Distributor in the Territory of the
+                             Trademarks or any other Intellectual Property of the Supplier in respect of the
+                             Goods, in a form which the Supplier may reasonably require, provided that
+
+      the provisions of the licence are not more onerous or restrictive than those of
+      this contract, and shall where appropriate assist the Supplier in effecting the
+      registration of any such licence in the Territory.
+
+      9.6 The Distributor shall, at the request and expense of the Supplier, take
+      all steps that the Supplier may reasonably require to assist the Supplier in
+      maintaining the validity and enforceability of the Trademarks or any other
+      Intellectual Property of the Supplier in respect of the Goods.
+
+      9.7 The Distributor shall not do or authorize any third party to do any act
+      which would or might invalidate or be inconsistent with any of the Trademarks
+      or any other Intellectual Property of the Supplier or its licensor in respect of
+      the Goods, and shall not authorize any third party to do so.
+
+      9.8 The Distributor shall promptly and fully notify the Supplier of any
+      actual, threatened or suspected infringement in the Territory of any of the
+      Trademarks or any other Intellectual Property of the Supplier in respect of the
+      Goods which comes to the Distributor’s notice, and of any claim or threatened
+      claim by any third party that the importation of the Goods into the Territory,
+      or their sale in the Territory, infringes the Trademark or other Intellectual
+      Property rights of any other person.
+
+      9.9   In the event of any such infringement or claim:
+
+            9.9.1    The Distributor shall at the request and expense of the Supplier
+                     take all steps reasonably necessary to assist the Supplier in taking
+                     or resisting any proceedings in relation to the infringement or
+                     claim; [and
+
+            9.9.2    The Supplier shall have sole control over any proceedings or negotiations
+                     in connection with the infringement or claim – delete if not appropriate.]
+
+      [Option: Indemnity for Intellectual Property infringement
+
+      “9.10 The Supplier shall indemnify the Distributor against any loss, damages, costs or
+      expenses which are awarded against or incurred by the Distributor as a result of any
+      claim or threatened claim by any third party that the importation of the Goods into the
+      Territory, or their sale in the Territory, or the exercise by the Distributor of any other
+      rights granted by the Supplier under this contract, infringes the Trademark or other
+      Intellectual Property rights of any other person, provided that:
+
+            9.10.1 Except pursuant to a final award, the Distributor shall not pay or accept
+                   any such claim, or compromise any such proceedings, without the consent
+                   of the Supplier;
+
+            9.10.2 The Distributor shall not do anything which could invalidate any
+                   insurance policy or cover which the Distributor may have in relation to
+                   any such claim or threat, [and this indemnity shall not apply to the extent
+                   that the Distributor recovers any sums under any such policy or cover
+                   (which the Distributor shall use its reasonable endeavours to do) – delete
+                   if not appropriate];
+
+            9.10.3 The Distributor shall account to the Supplier for any damages and costs
+                   which are awarded against, or which are agreed to be paid by, any other
+                   person in respect of any such claim or threat; [and]
+            9.10.4 The Distributor shall take any steps which the Supplier may reasonably
+                   require to mitigate or reduce any loss of the Distributor – delete if not
+                   appropriate.”.]
+
+                      10. Confidentiality
+                             10.1 Both parties understand and acknowledge that, by virtue of this
+                             contract, they may both receive or become aware of information belonging
+                             or relating to the other party, its business, Business Plans, affairs or activities,
+                             which information is confidential and proprietary to the other party and/or its
+                             Suppliers and/or customers and in respect of which they are bound by a strict
+                             duty of confidence (“Confidential Information”).
+                             10.2 In consideration of such Confidential Information being disclosed or
+                             otherwise made available to either party for the purposes of the performance
+                             of this contract, each party undertakes that it will not at any time, either
+                             before or after the termination of the present contract, and either directly or
+                             indirectly, disclose, divulge or make unauthorized use of any Confidential
+                             Information, except to the extent to which such confidential information:
+                                    10.2.1 Is publicly known at the time of its disclosure or being made
+                                           available to it;
+                                    10.2.2 After such disclosure or being made available to them, becomes
+                                           publicly known otherwise than through a breach of this
+                                           provision;
+                                    10.2.3 Is required by law, regulation or order of a competent authority
+                                           (including any regulatory or governmental body or securities
+                                           exchange) to be disclosed by the party in question, provided that,
+                                           where practicable, the other party is given reasonable advance
+                                           notice of the intended disclosure.
+                             10.3 Upon the earlier of a request from the other party or the termination of
+                             this contract, each party shall return to the other or destroy all documents
+                             or records in any medium or format containing any Confidential Information
+                             which are in its possession or control and shall not retain any copies of them.
+                             10.4 The provisions of this Article 10 shall continue without limit of time,
+                             notwithstanding the termination of this contract for any reason.
+
+                      11. Liability
+                             11.1 In any case where employees of one party visit the premises of the other
+                             party for the purposes of this contract, the party sending them shall:
+                                    11.1.1 Procure that such employees comply with all security, safety and
+                                           other regulations which are in force at the other party’s premises;
+                                           and
+                                    11.1.2 Indemnify the other party against all liabilities, costs, damages
+                                           and expenses to the extent that the same are caused by any
+                                           negligent act or omission by any such employee at the other
+                                           party’s premises.
+
+                             [Option: Limitation of Supplier’s liability
+                             “11.2 Except in respect of death or personal injury caused by the Supplier’s negligence,
+                             the Supplier shall not be liable to the Distributor by reason of any representation (unless
+                             fraudulent), or any implied warranty, condition or other term, for any loss of profit or
+                             any indirect, special or consequential loss or damage (whether caused by the negligence of
+                             the Supplier, its servants or agents or otherwise) in relation to the supply of the Goods (or
+
+          any failure to supply them) or their resale by the Distributor, or otherwise arising out of
+          or in connection with this contract.”]
+
+          [Comment: The Parties should take into consideration that in some legal systems
+          limitations or exclusions of liability may not be effective, or may be subject to restrictions,
+          and that the wording of such a provision should otherwise reflect the applicable law of
+          the contract.]
+
+      12. Duration and termination
+          12.1 This contract will take effect on the date of its signature by both parties
+          or, if signatures do not occur simultaneously, when the latest signature is given.
+          Unless sooner terminated pursuant to Articles 12.2, 12.3 or 12.4, this contract
+          shall continue for a period of [specify period].
+
+          [Comment: The duration of the contract may be limited for reasons of applicable law (for
+          example, it may need to be limited to 5 years where the EU vertical agreements block
+          exemption is relevant).]
+
+          [Option: Termination for convenience
+
+          “12.2 Either party shall be entitled to terminate this contract at any time by giving not
+          less than [specify period] written notice to the other.”.]
+
+          12.3 The Supplier may (without limiting its rights under Article 5.5) terminate
+          this contract with immediate effect by giving written notice to the Distributor,
+          if the latter fails to pay any sum payable by it under this contract within
+          [specify figure] days of the due date for payment.
+
+          12.4 Either party may (without limiting any other remedy) at any time
+          terminate this contract by giving written notice to the other if:
+
+                12.4.1 The other party commits any breach of this contract and (if
+                       capable of remedy) fails to remedy the breach within [thirty (30) –
+                       specify any other figure] days after being required by written notice
+                       to do so; or
+
+                12.4.2 The other party goes into liquidation, becomes bankrupt, makes
+                       a voluntary arrangement with its creditors or has a receiver or
+                       administrator appointed.
+
+                          Comment: References to events of insolvency will need to be
+                          adapted for the legal system in question.
+
+          12.5 For the purposes of the Article 12.4.1, a breach of any provision of this
+          contract shall be considered capable of remedy if the party in breach can
+          comply with the provision in question in all respects other than as to the time
+          of performance.
+
+          [Comment: In some legal systems it may be desirable not to include a provision for
+          termination on breach, or to include more detailed provisions concerning the rights and
+          remedies of the Parties in this respect.]
+
+          12.6 The termination of this contract for any reason shall not affect:
+
+                12.6.1 Either party’s accrued rights, remedies or liabilities including
+                       payments due at the effective date of termination; or
+
+                12.6.2 The coming into force or the continuance in force of any provision
+
+                                             of this contract which is expressly or by implication intended to
+                                             come into or continue in force on or after termination.
+
+                      13. Consequences of termination
+                             13.1 The following provisions shall take effect upon the termination of this
+                             agreement for any reason.
+
+                             13.2 The Supplier shall be entitled to repurchase from the Distributor all
+                             or part of any stocks of the Goods then held by the Distributor at their
+                             invoice value or the value at which they stand in the books of the Distributor,
+                             whichever is lower, subject to the following provisions:
+
+                                    13.2.1 The Supplier shall be responsible for arranging and for the cost of
+                                           transport and insurance;
+
+                                    13.2.2 The Distributor may sell stocks for which it has accepted orders
+                                           from customers prior to the date of termination, or in respect
+                                           of which the Supplier does not, by giving written notice to the
+                                           Distributor within [specify period] after the date of termination,
+                                           exercise its right to repurchase; and
+
+                                    13.2.3 For those purposes and to the necessary extent, the provisions of
+                                           this contract shall continue in full force and effect.
+
+                             13.3 The Distributor shall at its own expense within [specify period] send to
+                             the Supplier or otherwise dispose of in accordance with the directions of the
+                             Supplier all samples of the Goods and any advertising, promotional or sales
+                             material relating to the Goods then in the possession of the Distributor.
+
+                             13.4 Outstanding unpaid invoices rendered by the Supplier in respect of the
+                             Goods shall become immediately payable by the Distributor and invoices in
+                             respect of goods ordered prior to termination but for which an invoice has not
+                             been submitted shall be payable immediately upon submission of the invoice.
+
+                             13.5 The Distributor shall cease to promote, market or advertise the Goods or
+                             to make any use of the Trademarks or any other Intellectual Property of the
+                             Supplier except for the purpose of selling any goods in respect of which the
+                             Supplier does not exercise its right or repurchase.
+
+                             13.6 The Distributor shall at its own expense join with the Supplier in
+                             procuring the cancellation of any registration effected pursuant to Article 9.5.
+
+                             [Option: Post-term non-compete provision
+
+                             “13.7 The Distributor shall not for a period of [one year – specify any shorter provision]
+                             after termination of this contract be concerned or interested, either directly or indirectly,
+                             in the manufacture or distribution in the Territory of any goods which compete with any
+                             of the Goods.”
+
+                             Comment: The competition law implications of such a provision under any applicable
+                             law will need to be considered. This wording is intended to comply with the EU vertical
+                             agreements block exemption.]
+
+      14. Change of circumstances (hardship)
+          [Comment: The Parties should be free to consult each other in the event of a major change
+          in circumstances − particularly one creating hardship for a particular party. However,
+          an SME should only include the option at the end of Article 14.4 (right to refer to the
+          courts/arbitral tribunal to make a revision or to terminate the contract) if (i) the SME
+          considers that it is not likely to be used against that party’s interests by a party in a
+          stronger tactical position or (ii) the right to refer to a court/tribunal is already an existing
+          right under the applicable governing law in the event of hardship.]
+          14.1 Where the performance of this contract becomes more onerous for one of
+          the Parties, that party is nevertheless bound to perform its obligations subject
+          to the following provisions on change of circumstances (hardship).
+          14.2 If, however, after the time of conclusion of this contract, events occur
+          which have not been contemplated by the Parties and which fundamentally
+          alter the equilibrium of the present contract, thereby placing an excessive
+          burden on one of the Parties in the performance of its contractual obligations
+          (hardship), that party shall be entitled to request revision of this contract
+          provided that:
+                14.2.1 The events could not reasonably have been taken into account by
+                       the affected party at the time of conclusion of this contract;
+                14.2.3 The events are beyond the control of the affected party; and
+                14.2.4 The risk of the events is not one which, according to this contract,
+                       the party affected should be required to bear.
+          14.3 Each party shall in good faith consider any proposed revision seriously
+          put forward by the other party in the interests of the relationship between the
+          Parties.
+          [Option (add if wished; otherwise delete if not applicable or not enforceable under the law
+          governing the contract − see comment at beginning of Article 14):
+          “14.4 If the Parties fail to reach agreement on the requested revision within [specify time
+          limit if appropriate], a party may resort to the dispute resolution procedure provided in
+          Article 23. The [court/arbitral tribunal] shall have the power to make any revision to this
+          contract that it finds just and equitable in the circumstances, or to terminate this contract
+          at a date and on terms to be fixed.”.]
+
+      15. Force majeure
+          15.1 “Force majeure” means war, emergency, accident, fire, earthquake, flood,
+          storm, industrial strike or other impediment which the affected party proves
+          was beyond its control and that it could not reasonably be expected to have
+          taken the impediment into account at the time of the conclusion of this
+          contract or to have avoided or overcome it or its consequences.
+          15.2 A party affected by force majeure shall not be deemed to be in breach
+          of this contract, or otherwise be liable to the other, by reason of any delay
+          in performance, or the non-performance, of any of its obligations under this
+          contract to the extent that the delay or non-performance is due to any force
+          majeure of which it has notified the other party in accordance with Article 15.3.
+          The time for performance of that obligation shall be extended accordingly,
+          subject to Article 15.4.
+
+                             15.3 If any force majeure occurs in relation to either party which affects or is
+                             likely to affect the performance of any of its obligations under this contract, it
+                             shall notify the other party within a reasonable time as to the nature and extent
+                             of the circumstances in question and their effect on its ability to perform.
+
+                             15.4 If the performance by either party of any of its obligations under this
+                             contract is prevented or delayed by force majeure for a continuous period in
+                             excess of three [specify any other figure] months, the other party shall be entitled
+                             to terminate this contract by giving written notice to the party affected by the
+                             force majeure.
+
+                             [Alternative: If preferred, replace 15.4 with the following alternative:
+
+                             “15.4 If the performance by either party of any of its obligations under this contract is
+                             prevented or delayed by force majeure for a continuous period in excess of three [specify
+                             any other figure] months, the Parties shall negotiate in good faith, and use their best
+                             endeavours to agree upon such amendments to this contract or alternative arrangements
+                             as may be fair and reasonable with a view to alleviating its effects, but if they do not agree
+                             upon such amendments or arrangements within a further period of 30 [specify any other
+                             figure] days, the other party shall be entitled to terminate this contract by giving written
+                             notice to the party affected by the force majeure.”.]
+
+                      16. General warranties
+                             16.1 Each party warrants to the other that:
+
+                                    16.1.1 It has the authority to enter into this contract;
+
+                                    16.1.2 The signatory to this contract for and on behalf of that party is
+                                           authorized and fully empowered to execute this contract on that
+                                           party’s behalf;
+
+                                    16.1.3 The entry into and performance of this contract by that party
+                                           will not breach any contractual or other obligation owed by that
+                                           party to any other person, any rights of any other person or any
+                                           other legal provision;
+
+                                    16.1.4 The entry into and performance of this contract by that party
+                                           require no governmental or other approvals or, if any such
+                                           approval is required, it has been obtained; and
+
+                                    16.1.5 It will at all times during the Term of this contract comply with
+                                           the terms of and maintain in force any necessary governmental
+                                           or other approvals, consents, notifications, registrations or other
+                                           legal requirements for the performance by that party of its
+                                           obligations under this contract.
+
+                      17. Entire agreement
+                             17.1 This contract sets out the entire agreement between the Parties. Neither
+                             party has entered into this contract in reliance upon any representation,
+                             warranty or undertaking of the other party that is not expressly set out or
+                             referred to in this contract. This Article shall not exclude any liability for
+                             fraudulent misrepresentation. [Add where relevant: This contract supersedes any
+                             previous agreement or understanding relating its subject matter.]
+
+          17.2 This contract may not be varied except by an agreement of the Parties
+          in writing (which may include e-mail) [Add where Article 14.4 is included: “Or in
+          accordance with Article 14.4”].
+
+      18. Notices and writing
+          18.1 Any notice under this contract shall be in writing (which may include
+          e-mail) and may be served by leaving it or sending it to the address of the other
+          party as specified in Article 18.2 below, in a manner that ensures receipt of the
+          notice can be proved.
+
+          18.2 For the purposes of Article 18.1, notification details are the following,
+          unless other details have been duly notified in accordance with this Article:
+
+               (a) For the Supplier;
+
+               (b) For the Distributor.
+
+      19. No partnership or agency
+          Nothing in this contract shall (i) be deemed to constitute a partnership in
+          law between the Parties, (ii) constitute either party the agent of the other for
+          any purpose or (iii) entitle either party to commit or bind the other (or any
+          member of its respective Group) in any manner.
+
+      20. Assignment and subcontracting
+          20.1 This contract is personal to the Parties and, except to the extent
+          necessary for the collection of outstanding bills through a factoring agent,
+          neither party shall without the prior written approval of the other:
+
+               20.1.1 Assign, mortgage, charge or otherwise transfer or deal in, or
+                      create any trust over, any of its rights; or
+
+               20.1.2 Subcontract or otherwise delegate the whole or any part of its
+                      rights or obligations under this contract to another person.
+
+      21. Effect of invalid or unenforceable Articles
+          21.1 If any provision of this contract is held by any court or other competent
+          authority to be invalid or unenforceable in whole or in part, this contract
+          shall continue to be valid as to its other provisions and the remainder of the
+          affected provision, unless it can be concluded from the circumstances that, in
+          the absence of the provision found to be null and void, the Parties would not
+          have concluded this contract.
+
+          21.2 The Parties shall use all reasonable efforts to replace all provisions found
+          to be null and void by provisions that are valid under the applicable law and
+          come closest to their original intention.
+
+                      [Add where relevant:] 22. Authorizations
+                             22.1 This contract is conditional upon the following authorizations first being
+                             obtained [specify the authorization(s) or other conditions required e.g. of a governmental
+                             or regulatory authority].
+
+                             22.2 The relevant party shall use all reasonable efforts on its part to obtain
+                             such authorizations and shall notify the other party promptly of any difficulty
+                             encountered.
+
+                      23. Dispute resolution procedure
+                             Any dispute, controversy or claim arising out of or relating to this contract,
+                             including its conclusion, interpretation, performance, breach, termination
+                             or invalidity, shall be finally settled under the rules of [specify the arbitration
+                             institution] by [specify the number of arbitrators, e.g. sole arbitrator or, if appropriate,
+                             three arbitrators] appointed in accordance with the said rules. The place of
+                             arbitration shall be [specify]. The language of the arbitration shall be [specify].
+
+                             [The following are alternatives to a specified arbitral institution under Article 23:
+
+                             Alternative 1: Ad hoc arbitration
+
+                             Any dispute, controversy or claim arising out of or relating to this contract, including
+                             its conclusion, interpretation, performance, breach, termination or invalidity, shall
+                             be finally settled under the rules of UNCITRAL [specify other rules] by [specify the
+                             number of arbitrators, e.g. sole arbitrator or, if appropriate, three arbitrators] appointed
+                             by [specify name of appointing institution or person]. The place of arbitration shall be
+                             [specify]. The language of the arbitration shall be [specify].]
+
+                             [Alternative 2: State courts
+
+                             Any dispute, controversy or claim arising out of or relating to this contract, in particular
+                             its conclusion, interpretation, performance, breach, termination or invalidity, shall be
+                             finally settled by the courts of [specify place and country] which will have exclusive
+                             jurisdiction.]
+
+                      24. Language of contract
+                             This contract has been negotiated and concluded in [English]. It may be
+                             translated into any other language for practical purposes, but the [English]
+                             version shall prevail in the event of any doubt.
+
+                      25. Applicable law
+                             [Alternative 1: “Questions relating to this contract which are not settled by the provisions
+                             contained in this contract itself shall be governed by the United Nations Convention
+                             on Contracts for the International Sale of Goods (Vienna Sales Convention of 1980,
+                             hereafter referred to as CISG) as well as the UNIDROIT Principles of International
+                             Commercial Contracts, and to the extent that such questions are not covered by CISG or
+                             the UNIDROIT Principles, by reference to [specify the relevant national law].”]
+
+                             [Alternative 2: “[Specify national law] shall apply to this contract.”]
+
+      Schedule 1: The Goods
+
+      Schedule 2: Minimum purchase quantities
+
+      Schedule 3: Minimum/maximum order quantities
+
+      Schedule 4: Terms of supply
+
+          1.    Quantity of the Goods
+
+          1.1 [Subject to Article 2.4 of this contract – delete if not applicable], the quantity
+          of the Goods to be supplied by the Supplier shall be as set out in each order
+          submitted by the Distributor (if confirmed by the Supplier).
+
+          1.2 [Each order shall be subject to the minimum/maximum quantities specified in
+          schedule 3 – delete if not applicable.]
+
+          1.3 [The Supplier reserves the right to deliver up to [specify] % more or [specify] %
+          less than the quantity ordered without any adjustment in the price, and the quantity so
+          delivered shall be deemed to be the quantity ordered – delete if not applicable.]
+
+          2.    Delivery of the Goods
+
+          The Goods shall be delivered to the Supplier on the following basis (references
+          being to the latest Incoterms of the International Chamber of Commerce at
+          the date of conclusion of this contract): Ex works/FOB [specify sea or air port] /
+          Other (specify).
+
+          [Comment: Delete or fill in as applicable.]
+
+                             3.     Inspection of the Goods
+
+                                     [Option 1: Inspection before delivery]
+
+                             “The Supplier shall [at its own cost – delete if not applicable] arrange for testing and
+                             inspection of the Goods at the Supplier’s premises before shipment [by – specify
+                             body]. [The Supplier shall have no liability for any claim in respect of any defect in the
+                             Goods which would be apparent on inspection and which made after shipment − delete
+                             if not applicable.”]
+
+                                     [Option 2: Inspection after delivery
+
+                             “The Distributor shall, within [seven (7) – specify any other period] days of the arrival of
+                             each delivery of the Goods at the Distributor’s premises, inspect the Goods at its own cost
+                             and notify the Supplier in writing of any defect in goods or any other matter by reason of
+                             which the Distributor alleges that the Goods delivered do not comply with this contract,
+                             and which should be apparent on inspection − delete if not applicable].”]
+
+                             4.     Documents
+
+                             The Supplier shall make available to the Distributor (or shall present to the
+                             bank specified by the Distributor) the following documents:
+
+                             [specify documents e.g. packing list / insurance documents / certificate of origin / certificate
+                             of inspection / customs documents / other documents.]
+
+                             5.     Transfer of risk
+
+                             Risk of damage to or loss of the Goods [and the property in the Goods – delete
+                             if not applicable] shall pass to the Distributor in accordance with the relevant
+                             Incoterms or otherwise at the time of delivery of the Goods.
+
+                             [Option: “6.         Retention of title
+
+                             6.1 Notwithstanding the delivery of and the passing of risk in the Goods, or any other
+                             provision of this contract, the property in the Goods shall not pass to the Distributor until
+                             the Supplier has received payment in full of the price of the Goods.
+
+                             6.2    Until property in the Goods passes to the Distributor:
+
+                                    6.2.1    The Distributor shall hold the Goods on behalf of the Supplier, and shall
+                                             keep the Goods separate from those of the Distributor and third parties
+                                             and properly stored, protected and insured and identified as the Supplier’s
+                                             property;
+
+                                    6.2.2    Provided none of the events referred to in Article 12.4.2 of this contract
+                                             has taken place in relation to the Distributor, the Distributor may resell
+                                             or use up the Goods in the ordinary course of its business (in which case
+                                             property in the Goods will be deemed to pass to the Distributor);
+
+                                    6.2.3    Provided the Goods have not been sold or used up, the Supplier may at
+                                             any time require the Distributor to deliver up to the Supplier the Goods
+                                             for which the Supplier has not received payment in full of the price and, if
+                                             the Distributor fails to do so forthwith, the Supplier may enter upon any
+                                             premises of the Distributor or any third party where the Goods are stored
+                                             and repossess the Goods; and
+
+                                    6.2.4    The Distributor shall not pledge or in any way charge by way of security
+                                             for any indebtedness any of the Goods which remain the property of the
+
+                       Supplier, but if the Distributor does so all money owing by the Distributor
+                       to the Supplier shall become due and payable.”.]
+
+                       [Comment: The Parties should take into consideration that in some legal
+                       systems a retention of title provision is not possible, or may be ineffective in
+                       the case of insolvency of the Distributor, or it may not be possible to enter
+                       the Distributor’s premises or obtain repossession of the Goods without a
+                       court order. A retention of title provision will not be appropriate if the
+                       contract requires payment to be made on or before delivery.]
+
+      Schedule 5: Supplier’s trademarks
+
+          DATE AND SIGNATURE OF THE PARTIES
+
+                           Supplier                                    Distributor
+
+          Date . . . . . . . . . . . . . . . .             . . . . . . . . . . . . . . . . .
+
+          Name . . . . . . . . . . . . . . . .             . . . . . . . . . . . . . . . . .
+
+                          Signature                                     Signature

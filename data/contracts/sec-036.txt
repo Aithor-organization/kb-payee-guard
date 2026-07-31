@@ -1,0 +1,577 @@
+EX-10.61
+2
+dex1061.htm
+POLYSILICON SUPPLY AGREEMENT, DATED DECEMBER 22, 2006
+
+Polysilicon Supply Agreement, dated December 22, 2006
+
+Exhibit 10.61 
+ 
+CONFIDENTIAL TREATMENT REQUESTED – CONFIDENTIAL PORTIONS OF 
+ 
+THIS DOCUMENT HAVE BEEN REDACTED
+AND HAVE BEEN SEPARATELY FILED 
+ 
+WITH THE COMMISSION 
+ 
+EXECUTION COPY 
+ 
+POLYSILICON SUPPLY AGREEMENT 
+ 
+This POLYSILICON SUPPLY AGREEMENT (this “Agreement”) is entered into as of December 22, 2006 (the “Execution
+Date”), by and between SunPower Philippines Manufacturing, Ltd., a company organized under the laws of the Philippines and having its principal office located at #100 East Main Street, Special Export Processing Zone, Laguna Techno Park,
+Binan Laguna, Philippines (“SunPower”), and Woongjin Energy Co., Ltd., a company organized under the laws of Korea and having its principal office located at Naewei Bldg., 3F, 6 Euljiro 2-Ga, Joong-Gu, Seoul, Korea (the
+“JVC”). SunPower and the JVC may be referred to herein individually as a “Party” or collectively as the “Parties.” 
+ 
+RECITALS 
+ 
+A. SunPower Corporation, a Delaware corporation, the JVC and Woongjin
+Coway Co., Ltd., a company organized under the laws of Korea (“Woongjin”), have entered into a Joint Venture Agreement dated as of September 29, 2006 (the “JV Agreement”). 
+ 
+B. Pursuant to the JV Agreement, the purpose of the JVC is the manufacturing, sale and distribution of Ingots (as defined in the JV Agreement).
+
+C. The Parties desire to enter into an agreement pursuant to which SunPower shall supply the JVC with Product (as defined below) for the
+purpose of manufacturing Ingots. 
+ 
+AGREEMENT 
+ 
+NOW, THEREFORE, in furtherance of the foregoing premises and in consideration of the mutual covenants and obligations hereinafter set forth and in the JV Agreement, and based on the consideration set forth in the JV
+Agreement, the receipt and sufficiency of which are hereby acknowledged, the Parties, intending to be legally bound hereby, do agree as follows: 
+ 
+ARTICLE 1 
+ 
+DEFINITIONS 
+ 
+Capitalized terms not specifically defined in this Agreement shall have the meanings assigned to them in the JV Agreement. 
+ 
+1.1 “Agreement” has the meaning ascribed to it in the preamble. 
+ 
+1.2
+“Basket” means, as of any given time, the aggregate weight of any and all Products that are supplied hereunder and that are, at any time after the time of the execution of 
+
+***CONFIDENTIAL MATERIAL REDACTED AND 
+ 
+SEPARATELY FILED WITH THE COMMISSION*** 
+
+this Agreement or the most recent time as of which the amount of the Basket has been reset to zero (0) pursuant to Section 6.6, as applicable, sold
+or otherwise transferred in raw form by the JVC to a third party (i.e., to a Person other than SunPower Corp. or any subsidiary or designee of SunPower Corp.). 
+ 
+1.3 “Business Day” means any weekday Monday through Friday, excluding Korean, Philippine or United States federal holidays. 
+ 
+1.4 “Confidential Information” has the meaning ascribed to it in Section 7. 
+ 
+1.5 “Delivery” has the meaning ascribed to it in Section 3.2. 
+ 
+1.6 “Execution Date” has the meaning ascribed to it in the preamble. 
+ 
+1.7 “Initial Requirements Period” has the meaning ascribed to it in Section 2.2.1. 
+ 
+1.8 “Initial Term” has the meaning ascribed to it in Section 8.1. 
+ 
+1.9 “Minimum Requirements” means, as of any given time, (i) *** percent (***%) of the Maximum Requirements less
+(ii) the amount, if any, of the JVC’s inventory of Product that was supplied to the JVC under this Agreement. 
+ 
+1.10
+“Order” has the meaning ascribed to it in Section 3.1. 
+ 
+1.11 “Party” and/or
+“Parties” has the meaning ascribed to it in the preamble. 
+ 
+1.12 “Payment Factor” means
+(i) four (4) in the case of the first of any payments required to be made pursuant to Section 6.6, (ii) six (6) in the case of the second of any payments required to be made pursuant to Section 6.6, and
+(iii) eight (8) in the case of the third or any later payments required to be made pursuant to Section 6.6. 
+ 
+1.13
+“Product” means polycrystalline silicon (including, without limitation, any reusable scrap polycrystalline silicon). 
+ 
+1.14 “Quarterly Requirement” has the meaning ascribed to it in Section 2.2.1. 
+ 
+1.15
+“Renewal Term” has the meaning ascribed to it in Section 8.1. 
+ 
+1.16
+“Representatives” has the meaning ascribed to it in Section 6.2. 
+ 
+1.17 “Maximum
+Requirements” means, as of any given time, the JVC’s requirements for Product, necessary to fully utilize on a continuous basis all of the JVC’s Ingot pullers that are then operational in the JVC’s Initial Capacity, as
+may be expanded from time to time by the JVC. 
+ 
+1.18 “Requirements Period” has the meaning ascribed to it in
+Section 2.2.1. 
+
+***CONFIDENTIAL MATERIAL REDACTED
+AND 
+ 
+SEPARATELY FILED WITH THE COMMISSION*** 
+
+2 
+
+1.19 “Specifications” means the physical, technical and functional requirements,
+as each of such requirements are set forth on Schedule 1 hereto. 
+ 
+1.20 “SunPower Corp.” shall mean
+SunPower Corporation, a company organized under the laws of the State of Delaware, United States of America, with it principal office located at 3939 North First Street, San Jose, California 95134, United States of America. 
+ 
+ARTICLE 2 
+ 
+SUPPLY, QUANTITY AND
+PRICING OF PRODUCT 
+ 
+2.1 Product. Schedule 1 hereto, as the same may be amended from time to time by the Parties,
+lists the Product to be supplied by SunPower under this Agreement. 
+ 
+2.2 Requirements; Purchase Order; Pricing; Disposition.
+
+2.2.1 Requirements. Commencing on the month during which the JVC’s Ingot manufacturing facility becomes
+operational and until the expiration of the Initial Term (the “Requirements Period”), SunPower shall sell, supply and deliver to the JVC (based on the Confirmed Polysilicon Delivery Schedules), and the JVC shall purchase and
+take from SunPower (based on the Confirmed Polysilicon Delivery Schedules), at least the Minimum Requirements; provided, however, that if SunPower fails to sell, supply and deliver the Minimum Requirements, then the sole remedy shall
+be that set forth below in this Section 2.2.1. The JVC shall deliver to SunPower a binding forecast of its Minimum Requirements for each calendar quarter during such period (the “Quarterly Requirement”) at least ninety
+(90) days prior to the start of such calendar quarter, provided that the first such forecast shall be delivered to SunPower at least fourteen (14) days prior to the date upon which the JVC’s Ingot manufacturing facility becomes
+operational. If, during the period commencing on the month during which the JVC’s Ingot manufacturing facility becomes operational until the sooner of the closing of an IPO and January 1, 2009 (the “Initial Requirements
+Period”), SunPower fails to sell, supply and deliver the Quarterly Requirement and the JVC, using commercially reasonable efforts, is unable to source and acquire from a third party the amount of Product required to satisfy the
+Quarterly Requirement for such calendar quarter, SunPower shall pay to the JVC *** percent (***%) of the JVC’s fixed costs for Ingot pullers that are idle due to SunPower’s failure to sell, supply and deliver the applicable Quarterly
+Requirement. Each month during the Requirements Period, the JVC shall issue a purchase order to SunPower for the Quarterly Requirement in accordance with Section 2.2.3. Notwithstanding any provision of this Agreement to the contrary,
+this Section 2.2.1 sets forth the JVC’s sole and exclusive remedy in the event that SunPower fails to sell, supply and deliver any Quarterly Requirement. 
+ 
+2.2.2 Delivery Schedule and Delivery Offer. Within forty-five (45) days after the beginning of each calendar quarter,
+SunPower shall deliver a binding forecast of the delivery schedule (the “Draft Polysilicon Delivery Schedule”) for the Products (conforming to the Specifications) to the JVC for the following calendar quarter together with an
+offer (on behalf of SunPower Corp.) to purchase all of the Conforming Ingots (which has the meaning assigned to it in the Ingot Supply Agreement) manufactured therefrom and the required delivery schedule for 
+
+***CONFIDENTIAL MATERIAL REDACTED AND 
+ 
+SEPARATELY FILED WITH THE COMMISSION*** 
+
+3 
+
+such Confirming Ingots (the “Draft Ingot Delivery Schedule”). The Draft Polysilicon Delivery Schedule and the Draft Ingot Delivery
+Schedule shall be prepared to allow the JVC to have sufficient time under normal operations, considering the yield rate discussed in Section 5.3 of the Ingot Supply Agreement, to manufacture the Conforming Ingots from the Polysilicon proposed
+to be delivered by SunPower. Sufficiency of the quantity of the Products shall be determined by applying the yield rate discussed in Section 5.3 of the Ingot Supply Agreement. The Draft Polysilicon Delivery Schedule and Draft Ingot Delivery
+Schedule shall contain the scheduled dates for the delivery of the applicable products, the pricing information, and such other information as would be deemed appropriate as determined by SunPower acting on behalf of itself and on behalf of SunPower
+Corp. 
+ 
+2.2.3 Within three (3) Business Days following the receipt of the Draft Polysilicon Delivery Schedule and the Draft Ingot
+Delivery Schedule (collectively, the “Draft Delivery Schedules”), the JVC shall either accept such Draft Delivery Schedules or request modifications or revisions (including clarifications) to such Draft Delivery Schedules. In
+case the JVC accepts the Draft Delivery Schedules, each of such Draft Delivery Schedules shall become confirmed and be referred to as “Confirmed Polysilicon Delivery Schedule” and “Confirmed Ingot Delivery
+Schedules.” In case the JVC requests modifications or revisions (including clarifications), SunPower (on behalf of itself and on behalf of SunPower Corp.) and Woongjin shall engage in good faith discussions to address and resolve the
+issues raised by the JVC within three (3) Business Days thereafter. Upon agreement on the relevant terms of the Draft Delivery Schedules, each such Draft Delivery Schedules shall become confirmed and binding on the Parties (and to the extent
+necessary on SunPower Corp.), and be referred to as “Confirmed Polysilicon Delivery Schedule” and “Confirmed Ingot Delivery Schedules.” SunPower represents and warrants that it has the authority to act
+on behalf of SunPower Corp. in relation to the delivery schedules discussed herein, including the right to bind SunPower Corp. to the Confirmed Ingot Delivery Schedule. Notwithstanding any provision to the contrary, the JVC shall use commercially
+reasonable efforts to accept all delivery schedules discussed herein to the extent of the JVC’s operating capacity. 
+ 
+2.2.4
+Pricing. The Product prices are set forth in Schedule 2 hereto, which shall be in the year of 2007 on the basis of FOB Daejeon and from and including 2008 EXW (as defined in Incoterms 2000) the premises where such Product is produced
+or delivered to SunPower or SunPower Corp., as specified by SunPower or SunPower Corp. in a writing delivered to the JVC, or such other place as may be proposed by SunPower or SunPower Corp. and consented upon by the JVC (which consent shall not be
+unreasonably withheld or delayed by the JVC). Such prices shall be firm and not subject to change unless mutually agreed by the Parties. 
+ 
+2.2.5 Disposition of Product. The JVC agrees that it shall use Product for the sole purpose of growing Ingots at the JVC’s facilities and further agrees that it shall not resell or otherwise distribute Product to any third party
+without first obtaining the consent of SunPower. 
+
+***CONFIDENTIAL MATERIAL REDACTED AND 
+ 
+SEPARATELY FILED WITH THE COMMISSION*** 
+
+4 
+
+2.2.6 Authority of SunPower Corp. to Act. Any act that may be taken hereunder by SunPower may, in
+SunPower Corp.’s sole discretion, be taken instead by SunPower Corp. (on behalf of SunPower), in which case the Parties shall deem such act to have been taken by SunPower for purposes of this Agreement. 
+ 
+ARTICLE 3 
+ 
+DELIVERY
+
+3.1 Delivery. SunPower shall sell and deliver the Products in accordance with the Confirmed Polysilicon Delivery Schedule. If
+the issuance of a purchase order is necessary or desirable for compliance with the laws or is necessary or desirable for the operation and management of SunPower and/or the JVC, the JVC shall timely issue purchase orders (the
+“Order”) for the Polysilicon based on the Confirmed Polysilicon Delivery Schedule, and SunPower shall timely accept such purchase orders. 
+ 
+3.2 SunPower shall ensure that the Products shall be packed in a manner suitable for the applicable method of delivery according to usual and customary commercial and industry practice. Unless otherwise agreed in
+writing between the Parties, all deliveries of Product supplied under this Agreement shall be made in the year of 2007 FOB Daejeon and from and including the year of 2008 EXW (as defined in Incoterms 2000) the premises where such Product is produced
+or delivered to SunPower or SunPower Corp., as specified by SunPower or SunPower Corp. in a writing delivered to the JVC, or such other place as may be agreed by SunPower and the JVC in the applicable purchase order or applicable delivery schedule,
+or such other place as may be proposed by SunPower or SunPower Corp. and consented upon by the JVC (which consent shall not be unreasonably withheld or delayed by the JVC), and such delivery shall constitute “Delivery” for
+purposes of this Agreement. 
+ 
+ARTICLE 4 
+ 
+INVOICE; PAYMENTS 
+ 
+4.1 Invoices. As soon as reasonably practicable after each Delivery
+under this Agreement, SunPower shall issue an invoice to the JVC for the Products that were the subject of the Delivery. Each such invoice shall contain the following information specific to the Delivery: (i) an invoice number for tracking
+purposes; (ii) the applicable Order number (if provided by the JVC); (iii) the quantity of Product shipped; (iv) the date of shipping; (v) the shipping destination; and (vi) the applicable pricing. Invoices may be sent by
+any normally reliable means, including electronically, facsimile, hand delivery or other methods. 
+ 
+4.2 In the event that JVC does not
+dispute the purchase price set forth in an invoice, the JVC shall pay such purchase price within forty-five (45) days after the JVC’s receipt of such invoice. 
+ 
+4.3 In case the JVC disputes the amount billed in any invoice, the JVC shall pay the undisputed portion of the invoice, and the Parties shall engage in good faith discussions to resolve such dispute. If such dispute
+is not resolved within ninety (90) days after the JVC’s 
+
+***CONFIDENTIAL MATERIAL REDACTED AND 
+ 
+SEPARATELY FILED WITH THE COMMISSION*** 
+
+5 
+
+receipt of the invoice, either Party may resolve the dispute by arbitration in accordance with Section 9.6. 
+ 
+4.4 Payments. All payments by the JVC hereunder shall be made in United States dollars by wire transfer of the applicable payment into the bank
+account set out below or to such other bank account notified by SunPower to the JVC in the invoice. 
+ 
+Account Holder’s
+Name: SunPower Philippines Mfg. Ltd. 
+ 
+Bank: Bank of Philippines Islands 
+ 
+Branch: Laguna Technopark Binan, Laguna, Philippines 
+ 
+Bank Account No. (US$): *** 
+ 
+Swift Code: BOPIPHMM 
+ 
+4.5 Each Party shall be responsible for all sales, use, excise, value-added or other
+taxes, tariffs, duties or assessments levied or imposed at any time against it by any Governmental Authority. 
+ 
+ARTICLE 5 
+
+QUALITY; DEFECTS 
+ 
+5.1
+Inspection of Product; Testing. An inspection of each shipment of the Products shall be made by the JVC in accordance with sound business practice upon Delivery. The final inspection of the Products shall be performed by the JVC at its
+manufacturing facility within five (5) days of receipt of the same. In the event that any Product fails to meet the Specifications, the JVC shall notify SunPower in writing within five (5) days of such finding, and SunPower shall remedy
+such damage or defect as set forth in Section 6.2. 
+ 
+5.2 SunPower shall permit the JVC (or an independent quality control auditor
+reasonably acceptable to the JVC) to inspect SunPower’s shipments of Product from time to time on at least five (5) Business Days’ notice to SunPower for the purpose of determining whether the Product meets the Specifications and that
+SunPower is otherwise complying with its obligations under this Agreement. 
+ 
+ARTICLE 6 
+ 
+WARRANTIES; LIMITATION OF LIABILITY 
+ 
+6.1 SunPower represents and warrants that all Products supplied by SunPower under this Agreement shall be (i) free from liens and defects in title that prevent their distribution to or by SunPower and (ii) free from any defects in
+materials and workmanship. SunPower further represents and warrants that the Products sold by SunPower to the JVC shall meet the Specifications. 
+ 
+6.2 Without prejudice to any other rights the JVC may have under this Agreement, if SunPower’s warranty in Section 6.1 is breached, the JVC, at the JVC’s sole option, may by written notice (i) demand and receive a refund
+of the applicable purchase price (or the portion of 
+
+***CONFIDENTIAL MATERIAL REDACTED AND 
+ 
+SEPARATELY FILED WITH THE COMMISSION*** 
+
+6 
+
+the applicable purchase price applicable to the returned Products) upon the return (at SunPower’s sole cost) of all or a portion of the Products which
+fail to conform to SunPower’s warranty in Section 6.1 and/or (ii) demand and receive replacement for the Products which fail to conform to SunPower’s warranty in Section 6.1. 
+ 
+6.3 In case the JVC exercises its right to return all or a portion of the Products pursuant to Section 6.2, SunPower shall immediately repay the
+applicable purchase price (or the portion of the applicable purchase price applicable to the returned Products) by wire transferring such purchase price into a bank account designated by the JVC, and SunPower shall bear and pay all banking charges
+related to such payment. In case the JVC exercises its right to demand replacement pursuant to Section 6.2, Supplier shall, as soon as practicable, deliver (or cause to be delivered) the replacement to the location designated by the JVC, and
+SunPower shall bear and pay all fees and expenses associated with such delivery. 
+ 
+6.4 In case of SunPower’s breach of its obligations
+hereunder, the Confirmed Ingot Delivery Schedule shall be automatically revised to allow the JVC to enjoy additional time as may be necessary to produce and manufacture the Ingots. 
+ 
+6.5 IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER PARTY FOR ANY SPECIAL, EXEMPLARY, PUNITIVE, INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES,
+WHETHER ARISING OUT OF CONTRACT, TORT, STRICT LIABILITY OR OTHERWISE RESULTING FROM OR RELATED TO THIS AGREEMENT (WHETHER OR NOT A PARTY KNEW OR SHOULD HAVE KNOWN OF THE POSSIBILITY OF ANY SUCH DAMAGES). 
+ 
+6.6 Without prejudice to any other rights SunPower may have under this Agreement, notwithstanding anything to the contrary contained in this Agreement,
+if the JVC (without having received written authorization or consent of SunPower) sells or otherwise transfers to a third party (i.e., to a Person other than SunPower Corp. or any subsidiary or designee of SunPower Corp.) any of the Product supplied
+hereunder in its raw form and if as a result of such sale or other transfer the amount of the Basket equals or exceeds five (5) metric tons, then (i) the JVC shall pay to SunPower, within 30 days after the date of such sale or other
+transfer, an amount equal to the product of (A) the Product price then applicable as set forth in Schedule 2, (B) the amount of the Basket as of the time of such sale or other transfer (taking into account such sale or other
+transfer), and (C) the Payment Factor and (ii) the amount of the Basket shall be reset to (and be deemed to be) zero (0) as of immediately after such sale or other transfer. 
+ 
+ARTICLE 7 
+ 
+CONFIDENTIAL INFORMATION 
+ 
+7.1 Confidential Information. The terms and conditions of this Agreement and any information provided by one Party to the other Party which has
+been indicated as confidential shall be deemed confidential information (the “Confidential Information”). 
+
+***CONFIDENTIAL MATERIAL REDACTED AND 
+ 
+SEPARATELY FILED WITH THE COMMISSION*** 
+
+7 
+
+7.2 Restrictions On Use and Disclosure. Once any Confidential Information is provided by a Party
+to the other Party, the receiving Party shall, and shall cause its respective directors, officers, principals, members, employees, consultants, contractors, agents and representatives (collectively, “Representatives”)
+(i) not to deliver, divulge, disclose or communicate, or permit to be delivered, divulged, disclosed or communicated, to any third party, other than its permitted contractors under this Agreement, in any manner, directly or indirectly, any
+Confidential Information of the disclosing Party, (ii) to disclose or give access to, or permit to be disclosed or given access to, any such Confidential Information, only to those of its Representatives that have a need to know such
+Confidential Information, (iii) to ensure that such Representatives are bound in writing to confidentiality obligations applicable to the Confidential Information on terms no less strict than those set forth in this Article 6, and
+(iv) to take all other necessary or advisable actions to preserve the confidentiality and security of the Confidential Information of the disclosing Party. For avoidance of any doubt, the Parties may disclose any Confidential Information,
+including this Agreement, to the credit rating agencies to the extent deemed necessary and requested by such agencies, subject to the restrictions and covenants stated in (iii) and (iv) of this Article 7.2. 
+ 
+7.3 Exclusions. The restrictions contained in Section 7.2 above shall not apply to information of the disclosing Party that
+(i) is or becomes generally known to the public through no fault of the receiving Party including without limitation any acts or omissions of the receiving Party in violation of this Agreement, (ii) is disclosed to the receiving Party
+without obligation of confidentiality by a third person who has a right to make such disclosure and the receiving Party is able to document the independent source, or (iii) was in the possession of the receiving Party at or prior to the time of
+receipt from the disclosing Party, as evidenced by contemporaneous, corroborated written records, without being subject to another confidentiality agreement. 
+ 
+7.4 Compelled Disclosure. If a receiving Party or its Representatives is requested or required to disclose any Confidential Information of the disclosing Party otherwise than in accordance with this Agreement
+by a Governmental Authority or pursuant to any applicable laws, regulations, or judicial orders, including without limitation any disclosures in connection with filings with the U.S. Securities and Exchange Commission, NASDAQ, the Financial
+Supervisory Services of Korea or otherwise, such receiving Party shall provide the disclosing Party with prompt prior written notice of such request or requirement prior to disclosing the Confidential Information. 
+ 
+7.5 Press Releases. Except as permitted under this Article 7, neither Party shall issue any press release or make any public announcement
+which includes or otherwise uses the name of the other Party, or relates to this Agreement or to the performance hereunder in any public statement or document, without the prior review and written approval of the other Party, which approval shall
+not be unreasonably withheld or delayed. Any such review shall be completed as soon as practicable, but in any event within five (5) Business Days of receipt of the proposed statement or document. 
+
+***CONFIDENTIAL MATERIAL REDACTED AND 
+ 
+SEPARATELY FILED WITH THE COMMISSION*** 
+
+8 
+
+ARTICLE 8 
+ 
+TERM AND TERMINATION 
+ 
+8.1 Term. Subject to Section 8.3 below, this
+Agreement shall commence upon the Execution Date and shall remain in full force for five (5) years from the Start-up Date (as defined in the Ingot Supply Agreement), unless earlier terminated pursuant to Section 8.2 below (the
+“Initial Term”). The Initial Term, upon expiration, shall automatically be renewed for an additional five (5) year period (the “Renewal Term”), subject to the Parties’ agreement on new
+quantity, price and other material terms and conditions of the Agreement. The Parties shall commence good faith negotiations of the new terms and conditions for the Renewal Term and shall attempt to agree on the terms and conditions of the Renewal
+Term at least six (6) months prior to the expiration of the Initial Term. Notwithstanding anything to the contrary contained in this Agreement, if the term of Ingot Supply Agreement is reduced pursuant to Section 9.1 of the Ingot Supply
+Agreement, the term of this Agreement would be reduced to coincide with the Ingot Supply Agreement and this Agreement shall automatically terminate on the last day of such reduced term. 
+ 
+8.2 Termination. 
+ 
+8.2.1 Mutual Agreement. This Agreement may be terminated at any time upon mutual agreement of the Parties. 
+ 
+8.2.2 Unilateral For Certain Events. Either Party shall have the right to terminate this Agreement upon termination of the Ingot Supply Agreement or the Ingot IP License Agreement contemplated by the JV Agreement. In addition,
+SunPower shall have the right to terminate this Agreement if the JVC fails to make any payments to SunPower that are required under Article 4 or Section 6.6, and the JVC fails to cure such breach within thirty (30) days after
+the delivery by SunPower to the JVC of notice to cure such breach. 
+ 
+8.2.3 Bankruptcy/Insolvency. If a Party (or its
+creditors or any other eligible party) files for its liquidation, bankruptcy, reorganization, composition, dissolution or other similar proceedings or arrangement, or if such Party is unable to pay any debts as they become due, has explicitly or
+implicitly suspended payment of any debts as they became due (except debts contested in good faith), or if the creditors of the such Party have taken over its management, or if the relevant financial institutions have suspended clearing house
+privileges with regard to such Party, then the other Party shall be entitled to immediately terminate this Agreement. 
+ 
+8.2.4 Effect of Termination. Portion of the Confirmed Polysilicon Delivery Schedule necessary or desirable for the JVC’s compliance with the supply obligations remaining under the Ingot Supply Agreement and the Parties’
+respective obligations with respect thereto shall survive termination of this Agreement. The expiration or termination of this Agreement shall not relieve the Parties of any obligations accruing prior to such termination, and any such termination
+shall be without prejudice to the rights of either Party against the other conferred on it by this Agreement. In addition, the provisions of Article 4, Article 6, Article 7, this Section 
+
+***CONFIDENTIAL MATERIAL REDACTED AND 
+ 
+SEPARATELY FILED WITH THE COMMISSION*** 
+
+9 
+
+8.2.4 and Article 9 shall survive expiration or termination of this Agreement for any reason for as long as necessary to permit their full
+discharge. 
+ 
+8.3 Effectiveness of Agreement. The Parties hereby acknowledge and agree, for the avoidance of doubt and notwithstanding
+anything to the contrary contained in this Agreement, that (i) the provisions of Articles 2, 3, 4, 5, 6 and 7 shall be inoperative (i.e., they will have no force or effect) until the Second
+Funding Date, (ii) the provisions of Articles 8 and 9 shall be operative (i.e., they will have force and effect) from and after the Execution Date, (iii) no Party shall have any rights or obligations under this
+Agreement (other than under Articles 8 and 9) until the Second Funding Date, (iv) upon the Second Funding Date, all of the provisions of this Agreement shall become automatically operative and references to “hereby” in
+this Agreement (other than in Articles 8 and 9) shall be deemed to refer to “on the Second Funding Date,” and (v) in the event the JV Agreement is terminated prior to the Second Funding Date pursuant to Section 14
+of the JV Agreement, this Agreement shall terminate concurrently with the termination of the JV Agreement. 
+ 
+ARTICLE 9 
+ 
+MISCELLANEOUS 
+ 
+9.1 Force
+Majeure. Neither Party shall be responsible for suspension of its performance (other than any obligation to make payments) under this Agreement if such suspension is caused by a shortage of raw materials (in which case, for the avoidance of
+doubt, the remedy provided under Section 2.2.1 shall remain applicable), fire, flood, strikes, riots, terrorism, acts of war, acts of God, or compliance with applicable laws, rules or regulations of any governmental authority or by compliance
+with any order or decisions of any court, board or other governmental authority or by any cause beyond the reasonable control of such Party. 
+ 
+9.2 Independent Contractors. The Parties hereto are independent contractors. Neither Party to this Agreement nor any of its employees, customers or agents, shall be deemed to be the representative, agent or employee of the other
+Party for any purpose whatsoever, nor shall any of them have the right or authority to assume or create an obligation of any kind or nature, express or implied, on behalf of the other, nor to accept service of any legal claims or notices addressed
+to or intended for the other. 
+ 
+9.3 Notices. All notices, demands, requests, consents or other communications hereunder shall be in
+writing and shall be given by personal delivery, by express courier, by registered or certified mail with return receipt requested, or by facsimile, to the Parties at the addresses shown below, or to such other address as may be designated by
+written notice given by either Party to the other Party. Unless conclusively proved otherwise, all notices, demands, requests, consents or other communications hereunder shall be deemed effective upon delivery if personally delivered, five
+(5) days after dispatch if sent by express courier, fourteen (14) days after dispatch if sent by registered or certified mail with return receipt requested, or confirmation of the receipt of the facsimile by the recipient if sent by
+facsimile. 
+
+***CONFIDENTIAL MATERIAL REDACTED AND
+
+SEPARATELY FILED WITH THE COMMISSION*** 
+
+10 
+
+To SunPower: 
+ 
+SunPower Corporation 
+ 
+3939 North First Street 
+ 
+San Jose, California 95134 
+ 
+United States of America 
+ 
+Attention: Chief Executive Officer 
+ 
+ Chief Financial Officer 
+ 
+Facsimile: +1-408-240-5400 
+ 
+With a copy to: 
+ 
+Jones Day 
+ 
+1755 Embarcadero Road 
+ 
+Palo Alto, California 94303 
+ 
+United States of America 
+ 
+Attention: R. Todd Johnson 
+ 
+Facsimile: +1-650-739-3900 
+ 
+To the JVC: 
+ 
+Woongjin
+Energy Co., Ltd. 
+ 
+Naewei Bldg., 3F, 6 Euljiro 2-Ga 
+ 
+Joong-Gu, Seoul, Korea 
+ 
+Attention: Manager of Management Planning Team 
+ 
+Facsimile: 82-2-2172-1242 
+ 
+9.4 Entire Agreement. Subject to the Ingot Supply Agreement, this Agreement (including the Schedules hereto) and the agreements, documents and
+instruments to be executed and delivered pursuant to the JV Agreement are intended to embody the final, complete and exclusive agreement between the Parties with respect to the matters addressed herein; are intended to supersede all prior
+agreements, understandings and representations written or oral, with respect thereto; and may not be contradicted by evidence of any such prior or contemporaneous agreement, understanding or representation, whether written or oral. 
+ 
+9.5 Amendment. This Agreement shall not be modified, amended, canceled or altered in any way, and may not be modified by custom, usage of trade or
+course of dealing, except by an instrument in writing signed by both Parties. All amendments or modifications of this Agreement shall be binding upon the Parties despite any lack of consideration so long as the same shall be in writing and executed
+by the Parties. 
+ 
+9.6 Governing Law and Dispute Resolution. This Agreement, and the rights and obligations of the Parties hereunder,
+shall be interpreted and governed in accordance with the laws of the Republic of Korea, without regard to conflict of laws principles. The United Nations 
+
+***CONFIDENTIAL MATERIAL REDACTED AND 
+ 
+SEPARATELY FILED WITH THE COMMISSION*** 
+
+11 
+
+Convention on Contracts for the International Sale of Goods shall not apply to this Agreement and is expressly excluded. Any disputes incapable of being
+resolved by mutual agreement of the Parties shall be handled in accordance with Section 17.2 of the JV Agreement, mutatis mutandis. 
+ 
+9.7 Export Controls. Neither Party shall commit any act or cause any person to commit any act which would violate any applicable export control laws, rules or regulations, and each Party will take any and all actions within its
+ability to assure compliance with such laws, rules or regulations. The Parties shall not, directly or indirectly, export, re-export or transship the Product and/or technical data for such Product in violation of any applicable export control laws
+promulgated and administrated by the government of any country having jurisdiction over the Parties or the transactions contemplated herein. 
+ 
+9.8 Severability. In the event that any term, condition or provision of this Agreement is held to be or become invalid or be a violation of any applicable law, statute or regulation, the same shall be deemed to be deleted from this
+Agreement and shall be of no force and effect and the Agreement shall remain in full force and effect as if such term, condition or provision had not originally been contained in this Agreement. The validity and enforceability of the other
+provisions shall not be affected thereby. In such case or in the event that this Agreement should have a gap, the Parties hereto shall agree on a valid and enforceable provision completing this Agreement, coming as close as possible to the economic
+intentions of the Parties. In the event of a partial invalidity the Parties agree that this Agreement shall remain in force without the invalid part. This shall also apply if parts of this Agreement are partially invalid. 
+ 
+9.9 Assignment. This Agreement may not be assigned or otherwise transferred by either Party, in whole or in part, whether voluntary, or by
+operation of law, except, with respect to SunPower, in connection with a permitted assignment and transfer under Section 17.7 of the JV Agreement. Subject to the foregoing, this Agreement shall be binding upon and inure to the benefit of the
+Parties and their respective successors and permitted assigns. 
+ 
+9.10 Waiver. The performance of any obligation required of a Party
+hereunder may be waived only by a written waiver signed by the other Party, and such waiver shall be effective only with respect to the specific obligation described. The waiver by either Party of a breach of any provision of this Agreement by the
+other Party shall not operate or be construed as a waiver of any subsequent breach of the same provision or another provision of this Agreement. 
+ 
+9.11 Rules of Construction. The Parties agree that they have been represented by counsel during the negotiation, preparation and execution of this Agreement, and, therefore, waive the application of any law, regulation, holding or
+rule of construction providing that ambiguities in an agreement or other document will be construed against the party drafting such agreement or document. 
+ 
+9.12 Captions. The section headings and captions contained herein are for purposes of reference and convenience only and shall not in any way affect the meaning or interpretation of this Agreement. 
+
+***CONFIDENTIAL MATERIAL REDACTED AND 
+ 
+SEPARATELY FILED WITH THE COMMISSION*** 
+
+12 
+
+9.13 Word Meanings. Words such as herein, hereinafter, hereof and hereunder refer to this
+Agreement as a whole and not merely to a section or paragraph in which such words appear, unless the context otherwise requires. The singular shall include the plural, and each masculine, feminine and neuter references shall include and refer also
+to the others, unless the context otherwise requires. 
+ 
+9.14 English Language. The official language of this Agreement is English.
+All contract interpretations, notices and dispute resolutions shall be in English. Any attachments or amendments to this Agreement shall be in English. Translations of any of these documents shall not be construed as official or original versions of
+such documents. 
+ 
+9.15 Counterparts. This Agreement may be executed in counterparts or duplicate originals, both of which shall be
+regarded as one and the same instrument, and which shall be the official and governing version in the interpretation of this Agreement. 
+ 
+[Signature page follows] 
+
+***CONFIDENTIAL
+MATERIAL REDACTED AND 
+ 
+SEPARATELY FILED WITH THE COMMISSION*** 
+
+13 
+
+IN WITNESS WHEREOF, the Parties hereto have caused this Polysilicon Supply Agreement to be
+executed by their respective duly authorized officers as of the Execution Date. 
+
+ SunPower Philippines Manufacturing, Ltd.
+
+ By:
+
+Name:
+ 
+Title:
+
+ Woongjin Energy Co., Ltd.
+
+ By:
+
+Name:
+ 
+Title:
+
+***CONFIDENTIAL MATERIAL REDACTED AND 
+ 
+SEPARATELY FILED WITH THE COMMISSION*** 
+
+Schedule 1 
+ 
+Product and Specifications 
+ 
+Product: polycrystalline silicon (including, without
+limitation, any reusable scrap polycrystalline silicon) 
+
+ Specifications:
+ Specifications for the Product shall be agreed to between the Parties; provided that such Specifications shall be acceptable to the JVC if and to the extent that they are sufficient
+to meet SunPower’s Ingot specifications. 
+
+***CONFIDENTIAL MATERIAL REDACTED AND 
+ 
+SEPARATELY FILED WITH THE COMMISSION*** 
+
+Schedule 2 
+ 
+Product Pricing 
+ 
+The purchase price per kilogram for Products shall be as set from time to time by
+SunPower or SunPower Corp. in their sole discretion and communicated to the JVC by or on behalf of SunPower or SunPower Corp. 
+ 
+Unless
+changed by SunPower or SunPower Corp. after the Execution Date (with such change being communicated to the JVC by or on behalf of SunPower or SunPower Corp.), the purchase prices per kilogram for the Products will be based on the year in which such
+Products are ordered, in accordance with the following table: 
+
+Year
+
+Poly Price
+
+ 1st Year
+
+ $***
+
+ 2nd Year
+
+ $***
+
+ 3rd Year
+
+ $***
+
+ 4th Year
+
+ $***
+
+ 5th Year
+
+ $***
+
+***CONFIDENTIAL
+MATERIAL REDACTED AND 
+ 
+SEPARATELY FILED WITH THE COMMISSION***

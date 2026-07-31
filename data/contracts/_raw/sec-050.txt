@@ -1,0 +1,3512 @@
+<DOCUMENT>
+<TYPE>EX-10.15
+<SEQUENCE>6
+<FILENAME>d52002_ex10-15.txt
+<DESCRIPTION>DEVELOPMENT, LICENSE AND SUPPLY AGREEMENT
+<TEXT>
+                                                                   Exhibit 10.15
+
+                                                                   29 OCT 1990:1
+
+             ***
+
+             -----------------------------------------------------
+
+                   DEVELOPMENT, LICENSE AND SUPPLY AGREEMENT
+
+             -----------------------------------------------------
+
+                              SCHERING CORPORATION
+
+                                       AND
+
+                                   ENZON, INC.
+
+
+             -----------------------------------------------------
+
+*** Indicates the omission of confidential material pursuant to a request for
+confidential treatment made in accordance with Rule 24b-2 under the Securities
+Exchange Act of 1934, as amended. The confidential material is being filed
+separately with the Secretary to the Securities and Exchange Commission.
+
+
+                                      E-46
+<PAGE>
+
+
+                                      INDEX
+
+                                                                          Page
+                                                                          ----
+Article 1   :     Definitions                                               2
+Article 2   :     Development Program                                       8
+Article 3   :     Manufacture of Commercial Quantities of Agreement
+                      Product; Know-How Transfer                           13
+Article 4   :     Exclusive License                                        18
+Article 5   :     Patent Rights                                            20
+Article 6   :     Payments                                                 23
+Article 7   :     Royalty Terms                                            24
+Article 8   :     Royalty Payment Terms                                    28
+Article 9   :     Term and Termination                                     31
+Article 10  :     Representations and Warranties; Indemnification          33
+Article 11  :     Confidentiality                                          38
+Article 12  :     Governing Law                                            41
+Article 13  :     Assignment or Delegation                                 42
+Article 14  :     Force Majeure                                            43
+Article 15  :     Independent Contractor; Publicity                        44
+Article 16  :     No Inconsistent Obligations                              45
+Article 17  :     Severability; Survival                                   45
+Article 18  :     Captions                                                 46
+Article 19  :     Waiver                                                   46
+Article 20  :     Notice                                                   47
+Article 21  :     Entire Agreement                                         47
+
+                                                                      10/29/90:1
+
+
+                                      E-47
+<PAGE>
+
+
+                                    SCHEDULES
+
+Schedule A-1 - Specifications for Agreement Substance
+         A-2 - Specifications for Bulk Concentrate
+         A-3 - Specifications for Agreement Product
+
+Schedule B   - Development Program
+
+Schedule C   - Patent Rights
+
+Schedule D   - Criteria for Efficacy in Pilot Study
+
+Schedule E   - Supply Agreement
+
+Schedule F   - Press Release
+
+                                                                      10/29/90:1
+
+                                      E-48
+<PAGE>
+
+
+                    DEVELOPMENT, LICENSE AND SUPPLY AGREEMENT
+
+This agreement is made and effective as of November 14, 1990 by and between
+
+                  ENZON, Inc.
+                  40 Cragwood Road
+                  South Plainfield, NJ 07080-2406, a Delaware corporation,
+
+hereinafter referred to as "ENZON",
+and
+
+                  SCHERING Corporation
+                  2000 Galloping Hill Road
+                  Kenilworth, New Jersey 07033, a New Jersey corporation,
+
+hereinafter referred to as SCHERING:
+
+WHEREAS, SCHERING markets a proprietary pharmaceutical alpha interferon product
+(hereinafter "Intron A") in various finished pharmaceutical dosage forms; and
+
+WHEREAS, ENZON has developed a technology for coupling polyethylene glycol
+("PEG") with polypeptides to create longer-acting therapeutic products; and
+
+WHEREAS, SCHERING and ENZON have performed preliminary in vitro testing of a
+compound made from Intron A and PEG and now desire, subject to the terms of this
+Agreement, to further develop, test, conduct clinical trials of, and market the
+resulting product; and
+
+                                                                      10/29/90:1
+
+                                      E-49
+<PAGE>
+
+
+WHEREAS the parties desire to enter into an agreement whereby ENZON shall
+develop, under the terms of this Agreement, a longer-acting product in which
+PEG is coupled with Intron A, develop scale-up and manufacturing procedures, and
+manufacture such product for SCHERING, consistent with all applicable Good
+Manufacturing Practices ("GMP's") and SCHERING shall, subject to the terms and
+conditions of this Agreement, test, clinically develop and market worldwide, the
+resulting Agreement Product as hereinafter defined;
+
+NOW, THEREFORE, in consideration of the mutual premises and covenants set forth
+below, the parties agree as follows:
+
+Article 1 - Definitions
+
+1.1 "Affiliate" shall mean any corporation or business entity controlled by,
+controlling, or under common control with the respective party. For this purpose
+"control" shall mean the direct or indirect beneficial ownership of at least
+fifty percent (50%) of the voting stock of, or at least fifty percent (50%)
+interest in the income of, such corporation or other business entity.
+
+1.2 "Agreement Product" shall mean any pharmaceutical product in which Agreement
+Substance as an active ingredient is coupled with PEG. The specifications for
+the Agreement Product to be developed by SCHERING under this Agreement, in its
+diluted form, will be set forth in Schedule A-3 hereto, which may be amended
+from time-
+
+
+                                    -2-                               10/29/90:1
+
+
+                                      E-50
+<PAGE>
+
+
+to-time, as mutually agreed by the parties hereto, or as needed to conform with
+the IND (hereinafter defined) for Agreement Product. Agreement Product shall be
+supplied to SCHERING by ENZON in the form of Bulk Concentrate, as hereinafter
+defined.
+
+1.3 "Agreement Substance" shall mean alpha interferon, including, without
+limitation, the alpha interferon the specifications for which are set forth in
+Schedule A-1 attached hereto (Specifications for Agreement Substance).
+
+1.4 "Bulk Concentrate" shall mean Agreement Product in bulk concentrated form
+meeting the criteria set forth in Schedule A-2 hereof. (Specifications for Bulk
+Concentrate).
+
+1.5 "Development Program" shall mean all development work undertaken by the
+parties hereto with respect to Agreement Substance or Agreement Product,
+relating to the development program for Agreement Product (Schedule B) hereto,
+including the applicable objectives, protocols and timetables, by phases and
+cumulatively, as well as any modifications to the development program set forth
+[in Schedule B hereto made by Schering] in Schedule B hereto requested by either
+party and accepted by the other party in writing, which acceptance shall not be
+unreasonably withheld.
+
+1.6 "FDA" shall mean the United States Food and Drug Administration or any
+successor agency thereof, as well as any
+
+
+                                      -3-                             10/29/90:1
+
+
+                                      E-51
+<PAGE>
+
+
+foreign equivalent thereof, including, where applicable, price-approval
+authorities.
+
+1.7 "FDA Approval" shall mean written notification of the approval (without
+qualification which would materially adversely affect SCHERING's ability to
+market Agreement Product) from the FDA of a PLA for Agreement Product for which
+SCHERING seeks such approval, which allows SCHERING to commercially sell
+Agreement Product.
+
+1.8   (a)   "Know-How" shall mean all confidential scientific, medical, and
+            technical data, instructions, processes, formulae, unpatented
+            inventions, expert opinion and information, whether written or
+            otherwise, necessary (as set forth in the PLA for Agreement Product)
+            for the development, manufacture, use or sale of Agreement
+            Substance, Bulk Concentrate or Agreement Product. Know-How shall
+            include, without limitation, all biological, chemical,
+            pharmacological, toxicological, pharmaceutical, physical and
+            analytical, research, testing, safety, quality control,
+            manufacturing, marketing, test and clinical data and information
+            necessary (as set forth in the PLA for Agreement Product) for the
+            manufacture, use or sale of Agreement Substance, Bulk Concentrate or
+            Agreement Product. For purposes
+
+
+                                       -4-                            10/29/90:1
+
+
+                                      E-52
+<PAGE>
+
+
+            of this Agreement, Know-How shall not include any Know-How (as
+            defined in this Article 1.8(a)) which SCHERING can clearly
+            demonstrate was developed by SCHERING or its Affiliates without the
+            aid, application or use of any ENZON Existing or Development
+            Know-How (as hereinafter defined) or the participation of any
+            SCHERING employee or consultant who has knowledge of the contents of
+            such ENZON Existing or Development Know-How ("SCHERING Independent
+            Know-How"). Know-How also shall not include any information, data,
+            test result, study result, trial result, expert opinion or analysis
+            related to the pharmacology, toxicology, pharmacokinetics, clinical
+            trials or manufacturing steps to be taken by SCHERING, covered under
+            SCHERING'S PLA (hereinafter referred to as "SCHERING Information").
+            Know-How as defined in this subparagraph (a) is divided into the
+            three categories described below, and the two subcategories
+            described in Articles 4.1 and 4.2 hereof.
+
+      (b)   "ENZON Existing Know-How" shall mean all Know-How owned or
+            controlled by ENZON or its Affiliates on or before April 3, 1990.
+
+
+                                      -5-                            10/29/90:1
+
+
+                                      E-53
+<PAGE>
+
+
+      (c)   "SCHERING Existing Know-How" shall mean all Know-How owned or
+            controlled by SCHERING or its Affiliates on or before April 3, 1990.
+
+      (d)   "Development Know-How" shall mean all Know-How developed by or on
+            behalf of either or both parties and/or their Affiliates under this
+            Agreement.
+
+1.9 "IND" shall mean an Investigational New Drug Application or its foreign
+equivalent, as required to be filed with the FDA.
+
+1.10 "Net Sales" shall mean the proceeds actually received from sales of
+Agreement Product in any country in the Territory by SCHERING or any of its
+Affiliates or sublicensees to independent third party customers in bona fide,
+arm's-length transactions, less:
+
+      (a)   actual allowances for returns, damages or otherwise, and discounts,
+            rebates and allowances to customers, including cash, credit or free
+            goods allowances; and
+
+      (b)   freight or other transportation charges, including insurance,
+            actually allowed or paid on account of the delivery of Agreement
+            Product to purchasers thereof; and
+
+
+                                       -6-                            10/29/90:1
+
+
+                                      E-54
+<PAGE>
+
+
+      (c)   taxes (except income taxes) or duties paid, absorbed or otherwise
+            imposed on the sale, including, without limitation, value added
+            taxes.
+
+1.11 "Patent Rights" shall mean: (a) all claims of any patent applications and
+issued patents arising under this Agreement; and (b) any and all reissues,
+extensions (or other governmental actions which provide exclusive rights to the
+patent holder in the patented subject matter beyond the original patent
+expiration date), substitutions, confirmations, registrations, revalidations,
+additions, continuations, continuations-in-part or divisions of or to any of
+the foregoing which are hereafter granted in the Territory. For purposes of this
+Agreement, Patent Rights shall not include: (1) any patentable invention related
+to the SCHERING Information, or (2) any patentable invention which SCHERING can
+clearly demonstrate was invented or developed by SCHERING or its Affiliates,
+without the aid, application or use of any ENZON Know-How (as hereinafter
+defined) or the participation of any SCHERING employee or consultant who has
+knowledge of the contents of the ENZON Know-How ("SCHERING Independent Patent
+Rights"). The parties shall list Patent Rights as they arise in Schedule C
+hereto, which shall be updated by the parties periodically to reflect changes in
+the status of the Patent Rights.
+
+
+                                       -7-                            10/29/90:1
+
+
+                                      E-55
+<PAGE>
+
+
+1.12 "PLA" shall mean a Product License Application, or its foreign equivalent,
+as required to be filed with the FDA to obtain approval to sell the Agreement
+Product.
+
+1.13 "Territory" shall mean all countries of the world.
+
+1.14 "Valid Claim" shall mean any claim contained in any pending patent
+application or issued patent included within the Patent Rights, which has not
+been abandoned or declared invalid in a non-appealable order, as the case may
+be, and which would be infringed by the manufacture, use or sale of Agreement
+Product in the absence of the licenses granted hereunder.
+
+Article 2 - Development Program
+
+2.1 The parties have agreed upon, and set forth in Schedules A-2 and A-3 hereof,
+specifications and criteria for Bulk Concentrate and Agreement Product.
+
+2.2 The parties have executed a Letter of Agreement dated April 3, 1990, wherein
+ENZON agreed, inter alia, to provide SCHERING with a *** sample batch and
+a *** production batch of Agreement Product in exchange for certain
+payments.
+
+*** Indicates the omission of confidential material pursuant to a request for
+confidential treatment made in accordance with Rule 24b-2 under the Securities
+Exchange Act of 1934, as amended. The confidential material is being filed
+separately with the Secretary to the Securities and Exchange Commission.
+
+                                       -8-                           10/29/90:1
+
+
+                                      E-56
+<PAGE>
+
+
+2.3 The parties have agreed upon, and set forth in Schedule B hereto, a
+Development Program for Agreement Product. ENZON and SCHERING shall use diligent
+efforts to carry out their designated responsibilities under the Development
+Program in a timely fashion, except in those cases where a party has obtained
+the prior written approval of the other to modify a portion of the Development
+Program. The Development Program shall be reviewed from time-to-time as shall
+be agreed by the parties hereto, and the terms thereof may only be changed as
+mutually agreed in writing by the parties hereto or as suggested by the FDA
+(with SCHERING's concurrence), or as ordered by the FDA. ENZON's obligations
+under the Development Program are subject to its receipt of Agreement Substance
+from SCHERING in a timely manner.
+
+2.4 All trials for Agreement Product specified in the Development Program,
+including any toxicological, pre-clinical or clinical trials that may be
+required for drug registrations and approvals in the Territory, shall be the
+responsibility of SCHERING. SCHERING shall use diligent efforts to obtain such
+approvals and shall bear all costs of such trials; provided, however, that the
+manufacture and supply of Agreement Product used in the trials referenced in the
+Development Program shall be the responsibility of ENZON, but at SCHERING's sole
+cost and expense, as set forth in Article 3.1 hereof, and subject to the
+provisions of Article 2.8 and the other provisions of Article 3 hereof.
+
+
+                                       -9-                            10/29/90:1
+
+
+                                      E-57
+<PAGE>
+
+
+2.5 Except as expressly provided otherwise herein, ENZON shall be solely
+responsible for all direct and indirect costs and expenses of its employees,
+agents, consultants, or subcontractors and for materials, plant and equipment
+which ENZON employs or utilizes in carrying out its designated responsibilities
+under the Development Program or in manufacturing Agreement Product for any
+purpose hereunder.
+
+2.6 The parties hereto shall keep each other informed of their progress with
+respect to their respective responsibilities under the Development Program by
+means of a quarterly written summary report in a form to be agreed upon by the
+parties hereto. In addition, SCHERING will have access to ENZON's facilities to
+observe progress of the Development Program, to the extent reasonably necessary
+to successfully complete the Development Program, upon reasonable advance
+notice. Each party hereto shall provide the other party with copies of all
+Know-How in such other party's possession reasonably required in order to
+enable SCHERING to obtain FDA Approval, including, without limitation, the
+obligations of Article 2 hereof. Whenever reasonably feasible, such copies may
+be given directly to the FDA rather than to the other party when in connection
+with obtaining the FDA approval. ENZON shall, at SCHERING's reasonable request,
+take all reasonable steps necessary to allow SCHERING to reference ENZON's Drug
+Master File for Agreement Product; provided, however, that SCHERING shall not
+have the right to have access to, view or have copies of
+
+
+                                      -10-                            10/29/90:1
+
+
+                                      E-58
+<PAGE>
+
+
+ENZON's Drug Master File for Agreement Product. The right of reference and to
+receive Know-How provided in this Article 2.6 shall not entitle SCHERING to use
+or receive ENZON's Know-How for manufacturing the Agreement Product, except as
+expressly permitted hereunder.
+
+2.7 ENZON and SCHERING shall each designate one (1) senior development employee
+as technical liaison to handle all technical matters and communications relating
+to the Development Program.
+
+2.8 SCHERING has provided ENZON with certain Know-How relating to the Agreement
+Substance and shall provide ENZON with any additional Know-How in SCHERING's
+possession as SCHERING and ENZON shall reasonably agree is required in
+connection with ENZON's obligations under the Development Program.
+
+2.9 SCHERING shall supply to ENZON in a timely fashion, at no cost, quantities
+of Agreement Substance necessary to make the Agreement Product called for in the
+Development Program and to manufacture Agreement Product as required under
+Article 2.4 hereof. ENZON agrees to advise SCHERING, at least sixty (60) days in
+advance of the requested delivery thereof, of its requirements for the Agreement
+Substance.
+
+2.10 SCHERING shall use its best efforts (comparable to efforts it uses with
+other products of similar status) to file the
+
+
+                                     -11-                             10/29/90:1
+
+
+                                      E-59
+<PAGE>
+
+
+foreign equivalent of a Product License Application for Agreement Product in at
+least three (3) of the following countries: France, West Germany, Italy, Spain,
+United Kingdom, Japan and Canada, within twelve (12) months after the submission
+of the initial PLA in the United States of America for Agreement Product, and
+similarly file in the remaining countries set forth in this Article 2.10 within
+twenty-four (24) months after such submission.
+
+2.11 ENZON shall deliver to SCHERING in a timely fashion sufficient Agreement
+Product for SCHERING to carry out the activities contemplated by Article 2.4
+hereof.
+
+2.12 ***
+
+2.13 During the term of this Agreement, anything to the contrary contained
+herein notwithstanding, ENZON shall not develop any product containing PEG and
+alpha interferon for itself or with or for any third party, nor shall it enter
+into discussions or negotiations with any such third party concerning any
+product containing PEG and alpha interferon.
+
+*** Indicates the omission of confidential material pursuant to a request for
+confidential treatment made in accordance with Rule 24b-2 under the Securities
+Exchange Act of 1934, as amended. The confidential material is being filed
+separately with the Secretary to the Securities and Exchange Commission.
+
+                                      -12-                            10/29/90:1
+
+                                      E-60
+<PAGE>
+
+
+Article 3 - Manufacture of Commercial Quantities of Agreement Product; Know-How
+Transfer
+
+3.1 SCHERING shall notify ENZON, no later than the date of the first PLA filing,
+that it intends to introduce Agreement Product into commerce. Upon such
+notification, ENZON shall commence preparing to supply commercial quantities of
+Agreement Product to SCHERING under a supply agreement (the "Supply Agreement")
+executed by the parties concurrently with this Agreement and attached hereto as
+Schedule E. SCHERING shall pay ENZON for Agreement Product to be supplied to
+SCHERING for the Development Program and for commercial sales at the price
+established pursuant to the terms of the Supply Agreement.
+
+3.2 The provisions of Article 14 (Force Majeure) of this Agreement and Article
+XIV (Force Majeure) of the Supply Agreement notwithstanding:
+
+      (a)   The parties recognize the importance of an uninterrupted supply of
+            commercial quantities of Agreement Product to SCHERING under the
+            terms and conditions of the Supply Agreement. As soon as it shall
+            become apparent to ENZON that circumstances resulting in any failure
+            or delay in delivery hereunder, beyond the time period for timely
+            delivery set forth in Article III.D. of the Supply
+
+
+                                      -13-                            10/29/90:1
+
+
+                                      E-61
+<PAGE>
+
+
+            Agreement, will continue for more than sixty (60) days, ENZON shall
+            promptly notify SCHERING, in writing, of that fact and shall consult
+            with SCHERING as to the best practical method for assuring SCHERING
+            a source of supply of Agreement Product during the continuance of
+            such circumstances. Provided such failure or delay is not caused by
+            SCHERING's failure to deliver Agreement Substance in a timely manner
+            to ENZON or otherwise by SCHERING's breach of this Agreement, ENZON
+            shall provide SCHERING with all reasonable technical and other
+            assistance in this regard ("Manufacturing Assistance") including
+            disclosure of only such Know-How as may be reasonably necessary (as
+            set forth in the PLA for Agreement Product) for manufacturing or
+            quality control of Agreement Product. Manufacturing Assistance shall
+            include, without limitation: (1) designation by ENZON of a
+            third-party manufacturer acceptable to SCHERING, or (2) assisting
+            SCHERING or any of its Affiliates to manufacture its own
+            requirements of Agreement Product; such assistance by ENZON shall
+            continue only for so long as such circumstances continue. The
+            decision as to whether SCHERING or any of its Affiliates, or a third
+            party source, shall be designated to supply Agreement Product during
+            the
+
+
+                                      -14-                            10/29/90:1
+
+
+                                      E-62
+<PAGE>
+
+
+            time ENZON cannot do so directly, shall be made jointly by the
+            parties, taking into account the best interest of both the parties,
+            including factors such as (without limitation) cost, time required
+            to initiate production of commercial quantities, protection of
+            intellectual property rights, avoiding benefitting competitors,
+            regulatory requirements, quality control, etc.
+
+      (b)   (1) ENZON shall be required to allow any manufacturing program for
+            Agreement Product initiated under this Article 3.2 to continue after
+            ENZON regains its ability to supply Agreement Product to SCHERING
+            hereunder only for so long as may be reasonably necessary for
+            SCHERING and/or any of its Affiliates to fully amortize any
+            incremental capital expenses it may have reasonably incurred under
+            such manufacturing program, using generally accepted accounting
+            principles normally used by SCHERING in keeping its own books and
+            records. Third-party sources designated by ENZON shall be acceptable
+            in view of the then-current health regulations.
+
+            (2) If the failure or delay first mentioned in Article 3.2(a) above
+            is the fault of ENZON and
+
+
+                                      -15-                            10/29/90:1
+
+                                      E-63
+<PAGE>
+
+
+            within its control, any additional cost of Agreement Product under
+            such manufacturing program, whether performed by SCHERING or any of
+            its Affiliates or any such third-party source, over the cost agreed
+            to by SCHERING in the Supply Agreement, will be borne by ENZON;
+            provided ENZON was afforded the opportunity to mitigate or reduce
+            such cost prior to it being incurred by SCHERING and/or any of its
+            Affiliates.
+
+      (c)   ENZON shall have the option, in its sole discretion, to delete
+            Article 3.2 from this Agreement. If ENZON exercises this option and
+            so advises SCHERING in writing (the "Option Notice") as far in
+            advance as possible, taking into account the current inventory of
+            Agreement Product and the time required for SCHERING to arrange for
+            another source of Agreement Product, but in no case less than nine
+            (9) months (or such shorter period as may be mutually agreed upon by
+            the parties hereto) in advance of the effective date of the Option
+            Notice, then Article 3.2 shall be deleted and have no further
+            effect, as of the effective date of the Option Notice; provided,
+            however, that ENZON's obligation to provide Manufacturing Assistance
+            to SCHERING and the provisions of Article 3.2(c)(1) through (4)
+
+
+                                      -16-                            10/29/90:1
+
+
+                                      E-64
+<PAGE>
+
+
+            inclusive shall survive such deletion and continue until SCHERING
+            shall reasonably be capable of manufacturing Agreement Product (in
+            the manner set forth in the PLA for Agreement Product). In such
+            case, as of the effective date of such notice: (1) ENZON shall have
+            no right or obligation to thereafter supply Agreement Product to
+            SCHERING under this Agreement or the Supply Agreement, (2) ENZON
+            shall grant to SCHERING a paid-up license in the Territory, at no
+            additional cost to SCHERING, for the term of this Agreement, of all
+            Know-How necessary (as set forth in the PLA for Agreement Product)
+            and Patent Rights for manufacturing Agreement Product, (3) SCHERING
+            will have no further obligations to purchase Agreement Product from
+            ENZON, and (4) SCHERING shall waive and give up any right or claim
+            to damages or recoupment of expenses or costs which are based on
+            ENZON's failure or delay in supplying Agreement Product and which
+            arose under this Article 3.2; provided, however, ENZON shall
+            continue to be responsible, as set forth in 3.2(b)(1), for any
+            additional cost of Agreement Product manufactured during the nine
+            (9) month period between the date the Option Notice is given and the
+            effective date of the Option Notice. In any event, SCHERING shall be
+            required to pay ENZON
+
+
+                                      -17-                            10/29/90:1
+
+
+                                      E-65
+<PAGE>
+
+
+            royalties on Net Sales under Article 7 hereof in connection with all
+            Agreement Product manufactured under this Agreement.
+
+Article 4 - Ownership of Intellectual Property; Exclusive Licenses
+
+4.1 ENZON shall own the entire right, title and interest in and to the
+Development Know-How related to Agreement Product and/or PEG, whether created
+by SCHERING, by ENZON or jointly by the parties ("ENZON Development Know-How").
+
+4.2 SCHERING shall own the entire right, title and interest in and to the
+Development Know-How covering and related to Agreement Substance, whether
+created by SCHERING, by ENZON or jointly by the parties ("SCHERING Development
+Know-How").
+
+4.3 ENZON shall own the entire right, title and interest in and to all Patent
+Rights related to Agreement Product and/or PEG, whether invented by SCHERING, by
+ENZON, or jointly by the parties hereto ("ENZON Patent Rights").
+
+4.4 SCHERING shall own the entire right, title and interest in and to all Patent
+Rights related to Agreement Substance, whether invented by ENZON, by SCHERING,
+or jointly by the parties hereto (the "SCHERING Patent Rights").
+
+
+                                      -18-                            10/29/90:1
+
+
+                                      E-66
+<PAGE>
+
+
+4.5 For all other Development Know-How and Patent Rights, the party that
+invented or created same shall own the entire right, title and interest therein,
+if the other party is not a joint inventor or creator thereof. If the parties
+jointly invented or created same, they shall be joint owners thereof.
+
+4.6 SCHERING shall own all right, title and interest in and to all SCHERING
+Information.
+
+4.7 Subject to the other terms of this Agreement, ENZON hereby grants to
+SCHERING and SCHERING hereby accepts, exclusive licenses, exclusive even as to
+ENZON, under the ENZON Patent Rights the ENZON Existing Know-How and the ENZON
+Development Know-How, during the term of this Agreement: (1) to use and sell
+Agreement Product in the Territory, with the right to sub1icense SCHERING's
+Affiliates or third parties and (2) to make and have made Agreement Product,
+with the right to sublicense SCHERING's affiliates, under the conditions stated
+in Article 3.2 hereof.
+
+4.8 Subject to the other terms of this Agreement and for the sole purpose of
+ENZON's development and manufacture of Agreement Product for SCHERING, SCHERING
+hereby grants ENZON the right, under the SCHERING Information, the SCHERING
+Patent Rights, the SCHERING Existing Know-How, the SCHERING Development
+Know-How, and the RC License (as hereinafter defined) during the term of this
+Agreement, to use Agreement Substance in the development and manufacture of
+
+
+                                      -19-                            10/29/90:1
+
+
+                                      E-67
+<PAGE>
+
+
+Agreement Product and to manufacture Agreement Product, except under the
+condition referred to in Article 3.2(a)(2) hereof.
+
+4.9 Upon expiration of this Agreement as provided in Article 9.1 hereof, either
+in its entirety or with respect to any country in the Territory, ENZON shall
+disclose to SCHERING and SCHERING and its Affiliates may use, either in the
+Territory or in any such country, without any further payment, for any purpose
+whatsoever related to Agreement Product (but not for any other purpose or other
+product), all ENZON Patent Rights, ENZON Existing Know-How, and ENZON
+Development Know-How.
+
+4.10 No license or right of any sort shall arise under this Agreement, whether
+by implication or estoppel, with respect to U.S. Patent 4,179,337 and its
+foreign counterparts, nor to any patent or patent right with respect to
+Agreement Substance, except as specifically set forth herein.
+
+Article 5 - Patent Rights
+
+5.1 With respect to Patent Rights, it is agreed:
+
+            5.1.1 ENZON shall diligently prosecute, maintain and defend all
+            patent applications and issued patents included within the ENZON
+            Patent Rights. All costs for patent filing, prosecution, and
+            maintenance of such
+
+
+                                      -20-                            10/29/90:1
+
+
+                                      E-68
+<PAGE>
+
+
+            Patent Rights shall be borne by ENZON. If ENZON chooses not to
+            defend such Patent Rights in any country against any third party,
+            then SCHERING may defend such Patent Rights in such country with
+            respect to such third party, at SCHERING's sole cost, and SCHERING
+            will retain for its own benefit any judgment therefrom. If such
+            defense is successful, SCHERING may thereafter deduct its reasonable
+            expenses (including attorney's fees) related to such defense (net of
+            any judgment monies received by SCHERING) from future royalties due
+            in such country under Article 7 hereof.
+
+            5.1.2 ENZON shall notify SCHERING immediately (i) whenever it files
+            a patent application related to the ENZON Patent Rights in any
+            country; and (2) whenever it is considering discontinuance of the
+            prosecution or maintenance of such a patent application. If ENZON
+            shall fail to file a patent application related to the ENZON Patent
+            Rights in any country it shall so notify SCHERING immediately in
+            writing, and if ENZON does not initiate the filing process within
+            ninety (90) days after written request to do so from SCHERING, or if
+            ENZON does not continue prosecution or maintenance of such a patent
+            application related to the ENZON Patent Rights which it has
+            initiated pursuant to Article 5.1.2 above within ninety (90) days
+            after written notice from SCHERING,
+
+
+                                      -21-                            10/29/90:1
+
+
+                                      E-69
+<PAGE>
+
+
+            SCHERING shall have the option to file or continue prosecution in
+            its own name and at SCHERING's cost. In either such case ENZON shall
+            do all acts necessary to assign and vest title to and transfer
+            control of such patent application in that country in a timely
+            fashion to SCHERING for no additional consideration.
+
+            5.1.3 Each party hereto shall notify the other party hereto of its
+            knowledge of any infringement of the Patent Rights within sixty (60)
+            days after becoming aware of such infringement.
+
+            5.1.4 With respect to SCHERING Independent Patent Rights, it is
+            agreed that SCHERING shall, no later than the date of filing of the
+            first patent application for any patentable invention included in
+            the SCHERING Independent Patent Rights, provide to ENZON on a
+            non-confidential basis a statement of the subject matter of such
+            patent application, using good-faith efforts to make such statement
+            as complete as possible without divulging any confidential or
+            proprietary information, it being understood that SCHERING shall not
+            be required to divulge any confidential or proprietary information
+            in such statement. Thereafter, ENZON may request, and SCHERING shall
+            provide, within twenty (20) days after ENZON's request, (under
+            appropriate conditions of confidentiality
+
+
+                                       -22-                           10/29/90:1
+
+
+                                      E-70
+<PAGE>
+
+
+            imposing restrictions on ENZON similar to those SCHERING requires
+            for its other confidential information) a copy of the contents of
+            such patent application.
+
+Article 6 - Payments
+
+6.1 Subject to the terms of this Agreement, SCHERING agrees to make the
+following payments to ENZON in U.S. Dollars as indicated:
+
+      (a)   One hundred and fifty thousand dollars ($150,000) within fifteen
+            (15) days after the date of execution by the last of the parties to
+            sign this Agreement.
+
+      (b)   Four hundred fifty thousand dollars ($450,000) within fifteen (15)
+            days after SCHERING's filing of the first IND in the United States
+            of America for Agreement Product.
+
+      (c)   Two million five hundred thousand dollars ($2,500,000) within
+            fifteen (15) days after confirmation of SCHERING's successful
+            completion ("Successful Completion") of the initial clinical trial
+            demonstrating that Agreement Product meets the criteria set forth in
+            Schedule D attached hereto (Criteria for Efficacy in Pilot Study).
+
+
+                                      -23-                            10/29/90:1
+
+
+                                      E-71
+<PAGE>
+
+
+      (d)   One million dollars ($1,000,000) within fifteen (15) days after
+            SCHERING's submission of the first PLA for Agreement Product in the
+            United States of America.
+
+      (e)   Two million dollars ($2,000,000) within fifteen (15) days after
+            receipt of the first FDA Approval to occur in the United States of
+            America.
+
+      (f)   None of the foregoing payments shall be payable to ENZON more than
+            once under any circumstance.
+
+6.2 If, upon completion of the clinical trial described in Article 6.1(c)
+hereof, Agreement Product does not meet the applicable criteria set forth in
+Schedule D, and SCHERING decides at that time to terminate this Agreement as
+permitted by Article 9.2(b) hereof, ENZON shall promptly refund *** to SCHERING.
+
+Article 7  - Royalty Terms
+
+7.1 Subject to Article 7.2 below, SCHERING shall pay or cause to be paid
+royalties to ENZON on Net Sales as follows:
+
+*** Indicates the omission of confidential material pursuant to a request for
+confidential treatment made in accordance with Rule 24b-2 under the Securities
+Exchange Act of 1934, as amended. The Confidential material is being filed
+separately with the Secretary to the Securities and Exchange Commission.
+
+
+                                      -24-                            10/29/90:1
+
+
+                                      E-72
+<PAGE>
+
+
+      (a)   For as long as SCHERING pays a royalty, under the license agreement
+            dated December 3, 1987, between SCHERING and Research Corporation,
+            in connection with SCHERING's sale of an Agreement Product in any
+            country in the Territory, SCHERING shall pay ENZON a royalty in such
+            country of *** SCHERING shall provide to ENZON reasonable evidence
+            of such payments to Research Corporation at ENZON's request.
+
+      (b)   In each calendar year during the term of this Agreement, in
+            connection with SCHERING's sales of Agreement Product which do not
+            require payment of a royalty under Article 7.1(a) above, if
+            Competition, as defined in Article 7.1(d) below, exists in any such
+            country, SCHERING shall pay ENZON a royalty *** for so long as the
+            sum of Net Sales in all countries in the Territory during such
+            calendar year *** and *** after the sum of Net Sales in all
+            countries in the Territory during such calendar year ***
+
+      (c)   In each calendar year during the term of this Agreement, in
+            connection with SCHERING's sales of
+
+*** Indicates the omission of confidential material pursuant to a request for
+confidential treatment made in accordance with Rule 24b-2 under the Securities
+Exchange Act of 1934, as amended. The Confidential material is being filed
+separately with the Secretary to the Securities and Exchange Commission.
+
+
+                                     -25-                             10/29/90:1
+
+
+                                      E-73
+<PAGE>
+
+
+            Agreement Product which do not require payment of a royalty under
+            Article 7.1(a) above, if Competition does not exist in any such
+            country, SCHERING shall pay ENZON a royalty of *** for so long as
+            the sum of Net Sales in all countries in the Territory during such
+            calendar year does not ***, and *** after the sum of Net Sales in
+            all countries in the Territory during such calendar year ***
+
+      (d)   For purposes of this Article 7, "Competition" shall mean sales by a
+            party or parties, other than SCHERING, its Affiliates, licensees,
+            distributors or agents, in any country of the Territory, of a
+            competitive product which contains alpha interferon (as a
+            significant active ingredient) coupled with PEG to produce a
+            longer-lasting product, ***
+
+*** Indicates the omission of confidential material pursuant to a request for
+confidential treatment made in accordance with Rule 24b-2 under the Securities
+Exchange Act of 1934, as amended. The Confidential material is being filed
+separately with the Secretary to the Securities and Exchange Commission.
+
+
+                                      -26-                            10/29/90:1
+
+
+                                      E-74
+<PAGE>
+
+
+            or countries, there exists no effective patent or know-how
+            protection) and: (1) the sales of such competitive product made by
+            any one party equal *** or, (2) the sales of such competitive
+            product by two or more parties equal, with respect to each such
+            party, *** but, considering the sales of such competitive product
+            made by all such parties in the aggregate, equal ***
+
+
+7.2 If SCHERING shall hereafter be required, in respect of its sale of Agreement
+Product, to pay royalties (hereinafter "Third-Party Royalties") to any third
+party whose patents may be infringed by such sales, SCHERING, in order to
+reimburse itself for any such Third-Party Royalties, may deduct from royalties
+due ENZON hereunder the net amount of any such Third-Party Royalties paid, but
+in no event shall royalty due ENZON for any calendar quarter with respect to
+Agreement Product be thereby reduced by reason of the provisions of this Article
+7.2 to less than one-half of the royalty which would otherwise be due under the
+other provisions of this Article 7. This Article 7.2 shall only apply if such
+infringement is based on PEG coupled with Agreement Substance, and shall not
+apply or be effective in connection with an infringement
+
+*** Indicates the omission of confidential material pursuant to a request for
+confidential treatment made in accordance with Rule 24b-2 under the Securities
+Exchange Act of 1934, as amended. The Confidential material is being filed
+separately with the Secretary to the Securities and Exchange Commission.
+
+
+                                      -27-                            10/29/90:1
+
+
+                                      E-75
+<PAGE>
+
+
+related to Agreement Substance alone. ***
+
+Article 8 - Royalty Payment Terms
+
+8.1 Royalties payable hereunder with respect to Net Sales shall be paid
+quarterly within sixty (60) days after the close of the calendar quarter during
+which proceeds from such Net Sales were received. All royalty payments shall be
+accompanied by SCHERING's statement of Net Sales, together with SCHERING's
+royalty calculations.
+
+8.2 Royalties shall be payable in and remitted in United States dollars, by
+SCHERING or its appropriate Affiliate. If Net Sales are invoiced in other than
+U.S. dollars, such Net Sales shall be converted to U.S. dollars in accordance
+with generally accepted accounting principles (as employed by SCHERING in
+translating its published financial results for SEC reporting purposes) at the
+closing rates of exchange in effect on the last SCHERING business day of the
+month prior to the month in which the invoice was issued. If, due to
+restrictions or prohibitions imposed by national or international authority,
+SCHERING is unable to make the conversions as aforesaid or SCHERING or
+SCHERING's affiliates are
+
+*** Indicates the omission of confidential material pursuant to a request for
+confidential treatment made in accordance with Rule 24b-2 under the Securities
+Exchange Act of 1934, as amended. The confidential material is being filed
+separately with the Secretary to the Securities and Exchange Commission.
+
+                                      -28-                            10/29/90:1
+
+
+                                      E-76
+<PAGE>
+
+
+unable to make any such royalty payment, the parties shall consult with a view
+to finding a prompt and acceptable solution and SCHERING will, from time to
+time, deal with such monies as ENZON may lawfully direct. The parties shall use
+diligent efforts to cause such royalties to be paid, without reduction, and in
+any event SCHERING's ultimate obligation for such payments shall not be
+eliminated.
+
+8.3 If the royalties set forth herein are higher than the maximum royalties
+permitted by the law or regulations in any country in the Territory, the royalty
+payable for sales in such country shall be equal to the maximum permitted
+royalty under such law or regulations. In such case, the parties shall take
+whatever actions are legally permissible to pay the entire amount of such
+royalty above the permitted amount to ENZON, such as by an increase in the
+period of time during which royalties shall be paid by SCHERING hereunder.
+
+8.4 If any taxes, withholding or otherwise, are levied by any taxing authority
+in connection with accrual or payment of any royalties payable under this
+Agreement, SCHERING or its Affiliate shall have the right to pay such taxes to
+the local tax authorities on behalf of ENZON and the payment to ENZON of the net
+amount due after reduction by the amount of such taxes, together with evidence
+of payment of such taxes, shall fully satisfy SCHERING's royalty
+
+
+                                      -29-                           10/29/90:1
+
+
+                                      E-77
+<PAGE>
+
+
+obligations under this Agreement. SCHERING shall give ENZON reasonable notice of
+any such payment.
+
+8.5 Royalties shall be due hereunder and calculated only on the final sale of
+Agreement Product by SCHERING or any SCHERING Affiliate or SCHERING sublicensee
+to independent third parties in arm's-length transactions. No multiple royalties
+shall be payable upon account of the sale of Agreement Product, regardless of
+whether more than one patent exists within the Patent Rights in any country or
+countries in the Territory.
+
+8.6 SCHERING shall keep complete and adequate records with respect to the sale
+of Agreement Product and royalties payable hereunder. ENZON shall have the right
+to have such records of SCHERING inspected and examined, at ENZON's expense, for
+the purpose of determining correctness of royalty payments made hereunder. Such
+inspection and examination shall be made by an independent certified public
+accountant to whom SCHERING shall have no reasonable objection. Such accountant
+shall not disclose to ENZON any information other than that necessary to verify
+the accuracy of reports and payments made pursuant to this Agreement. It is
+understood that such examination with respect to any quarterly accounting period
+hereunder shall take place not later than two (2) years following the expiration
+of the said period. No more than one examination per year shall take place.
+
+
+                                      -30-                            10/29/90:1
+
+
+                                      E-78
+<PAGE>
+
+
+8.7 If, in order to facilitate direct royalty payments by a SCHERING Affiliate,
+it is desirable that a separate license agreement be entered into between ENZON
+and such Affiliate, ENZON agrees to grant such license directly to such
+Affiliate by means of an agreement which shall be consistent with the provisions
+of this Agreement.
+
+Article 9 - Term and Termination
+
+9.1 This Agreement shall be made effective on the date first written above and
+shall continue in effect, unless terminated earlier as expressly provided
+herein, for a term which shall expire, on a country-by-country basis, upon the
+longer of (a) the life in each such country of the last to expire of the ENZON
+Patent Rights for which a Valid Claim exists, including any patent extension (or
+any other governmental action which has the effect of extending the period of
+market exclusivity of the patent owner) which is permitted by law and obtained,
+or (b) fifteen (15) years from the date on which Agreement Product is first
+approved for commercial marketing in each such country ("Term").
+
+9.2 SCHERING shall have the right to terminate this Agreement at any time,
+either in its entirety or on a country-by-country basis:
+
+
+                                      -31-                            10/29/90:1
+
+
+
+                                      E-79
+<PAGE>
+
+
+      (a)   after sixty (60) days' written notice to ENZON, if ENZON has not
+            cured the cause of such right to terminate if based upon this
+            Article 9.2(a), if the Agreement Product resulting from the
+            Development Program shall fail to meet the specifications and
+            criteria set forth in Schedule A-3;
+
+      (b)   after the completion of the clinical trial set forth in Article
+            6.1(c) hereof; provided, however, that if Successful Completion, as
+            defined in Article 6.1(c) hereof shall have taken place, SCHERING's
+            right to terminate under this Article 9.2(b) shall be contingent
+            upon SCHERING's having made the payment set forth in Article 6.1(C)
+            hereof.
+
+In the event of any termination by SCHERING hereunder, SCHERING shall be
+required to make only those payments hereunder which have accrued and are due
+and owing prior to the effective date of such termination.
+
+9.3 Upon the failure of either party hereto to comply with any of its respective
+material obligations contained herein, the other party shall be entitled,
+without prejudice to any other rights conferred on it herein, to terminate this
+Agreement upon not less than sixty (60) days notice of such default given to the
+
+
+                                       -32-                           10/29/90:1
+
+
+                                      E-80
+<PAGE>
+
+
+defaulting party, provided that the party in defau1t has failed to cure such
+default within such sixty (60) day period.
+
+9.4 If either party hereto shall become insolvent or shall make an assignment
+for the benefit of creditors, or proceedings in voluntary or involuntary
+bankruptcy shall be instituted in behalf of or against such party, or a receiver
+or trustee of such party's property shall be appointed, the other party hereto
+may, without other action or notice, forthwith terminate this Agreement.
+
+9.5 Except as otherwise provided herein, in the event of termination under
+Articles 9.2, 9.3 or 9.4, each party shall return to the other party, and no
+longer use for any reason or purpose, all the Know-How belonging solely to the
+other party.
+
+Article 10 - Representations and Warranties; Indemnification
+
+10.1 ENZON hereby represents and warrants that it has sole, full and complete
+right, title and interest in all Patent Rights and ENZON Existing Know-How.
+ENZON further represents and warrants that, to the best of its knowledge as of
+the effective date of this Agreement, the manufacture, use or sale of Agreement
+Product by ENZON will not infringe any third party's patent rights related to
+Agreement Product or PEG. ENZON shall fully indemnify, defend and hold SCHERING
+harmless for all direct damages and expenses, including reasonable attorney's
+fees, (but not for consequential
+
+
+                                      -33-                            10/29/90:1
+
+
+                                      E-81
+<PAGE>
+
+
+damages such as lost or reduced profits, royalties, or similar items) which may
+be incurred by SCHERING for any breach of the warranties contained in this
+Article 10.1, but not if such infringement is related to the Agreement
+Substance.
+
+10.2 Each party hereto represents and warrants that it has the right to enter
+into this Agreement and has no obligation, or knows of no obstacle, which would
+prevent either party from carrying out its obligations and responsibilities
+thereunder, including manufacture, commercialization and/or sale of Agreement
+Product on a world-wide basis.
+
+10.3 SCHERING represents and warrants that the use by ENZON of Agreement
+Substance supplied by Schering to ENZON only in connection with ENZON's
+activities under this Agreement and the Supply Agreement will not infringe the
+patent rights and/or know-how rights of any third party with respect to
+Agreement Substance. SCHERING further represents and warrants that, to the best
+of its knowledge as of the effective date of this Agreement, it has: (a) the
+right to make, have made, use and sell: (1) alpha interferon, and (2) under a
+license agreement with Research Corporation dated December 3, 1987, in
+connection with U.S. Patent 4,179,337 and its foreign counterparts (the "RC
+License"), products combining PEG and alpha interferon; and (b) the right to
+make the grants to ENZON contained in Article 4.8 hereof. SCHERING shall fully
+indemnify, defend and hold ENZON harmless for all direct damages and expenses,
+
+
+                                      -34-                            10/29/90:1
+
+
+                                      E-82
+<PAGE>
+
+
+including reasonable attorney's fees, (but not for consequential damages such as
+lost or reduced profits, royalties, or similar items) which may be incurred by
+ENZON for any breach of the warranties contained in this Article 10.3.
+
+10.4 SCHERING shall indemnify, defend and hold ENZON harmless from and against
+any and all claims, including reasonable attorney's fees, for loss, damages, or
+injury to persons or property by whomsoever raised, arising out of SCHERING's
+negligence in manufacturing, marketing, distribution and sale of Agreement
+Substance or Agreement Product.
+
+10.5 In addition to the warranty set forth in Article 10.1 above, ENZON shall
+indemnify, defend and hold SCHERING harmless from and against any and all
+claims, including reasonable attorney's fees, for loss, damages, or injury to
+persons or property by whomsoever raised, arising out of ENZON's negligence in
+the development, testing or manufacture of Agreement Substance or Agreement
+Product.
+
+10.6 The coverage of Articles 10.4 and 10.5 above shall not be deemed to extend
+to the infringement of any patent right.
+
+10.7  (a)   ENZON shall provide to SCHERING, no later than thirty (30) days
+            after the date first written above, a certificate of insurance
+            evidencing liability
+
+
+                                      -35-                            10/29/90:1
+
+
+
+                                      E-83
+<PAGE>
+
+
+            insurance, including products liability and contractual liability
+            insurance, covering ENZON's obligations under this Agreement, and
+            satisfactory to SCHERING, in the amount of one million dollars
+            ($1,000,000). Such insurance shall be kept valid and in full force
+            by ENZON until the initiation of Phase III clinical trials of
+            Agreement Product by SCHERING hereunder, and ENZON shall provide
+            SCHERING with certificates of renewal or re-issuance as they become
+            available.
+
+      (b)   ENZON shall provide to SCHERING, no later than thirty (30) days
+            after the initiation of Phase III clinical trials of Agreement
+            Product by SCHERING hereunder, a certificate of insurance evidencing
+            liability insurance, including products liability and contractual
+            liability insurance, covering ENZON's obligations under this
+            Agreement, and satisfactory to SCHERING, in the amount of five
+            million dollars ($5,000,000), hereinafter the "Face Amount". Such
+            insurance shall be kept valid and in full force by ENZON during the
+            term of this Agreement, and ENZON shall provide SCHERING with
+            certificates of renewal or re-issuance as they become available;
+            provided, however, that during any period in which the cost to ENZON
+            of the insurance
+
+                                       -36-                           10/29/90:1
+
+
+                                      E-84
+<PAGE>
+
+
+            required under this Article 10.7(b) reasonably shall be greater than
+            one hundred fifty percent (150%) of the adjusted cost ("Adjusted
+            Cost") to ENZON of such insurance during the first full year such
+            insurance was in effect, the Face Amount shall be reduced to an
+            amount which ENZON reasonably can purchase for a sum equal to one
+            hundred fifty percent (150%) of the Adjusted Cost. The Adjusted Cost
+            in each year shall be determined by applying to the prior year's
+            Adjusted Cost (or for the second year such insurance shall be in
+            effect, the prior year's actual cost) the percentage increase or
+            decrease in the U.S. gross national product shown in the final
+            annual Implicit Price Deflator for Gross National Product table
+            produced for the prior calendar year by the Bureau of Economic
+            Analysis of the U.S. Department of Commerce (or any successor agency
+            thereof).
+
+      (c)   Failure to demonstrate such proof of valid, in-force, insurance
+            coverage, or failure to maintain such coverage, shall be grounds for
+            immediate termination of this Agreement by SCHERING.
+
+10.8 The aforesaid obligations of the indemnifying party shall be subject to the
+indemnified party fulfilling the following obligations:
+
+
+                                      -37-                            10/29/90:1
+
+
+                                      E-85
+<PAGE>
+
+
+      (a)   The indemnified party shall bring any claim, action, damage,
+            expense, etc. to the attention of the indemnifying party as soon as
+            reasonably possible;
+
+      (b)   The indemnified party shall fully cooperate with the indemnifying
+            party in the defense of any claims, actions, etc., which defense
+            shall be controlled by the indemnifying party (provided, however,
+            that the indemnified party shall be entitled to counsel at its own
+            expense) ;
+
+      (c)   The indemnified party shall not, except at its own cost, voluntarily
+            make any payment or incur any expense with respect to any claim or
+            suit without the prior written consent of the indemnifying party,
+            which such party shall not be required to give.
+
+Article 11 - Confidentiality
+
+11.1 Both ENZON and SCHERING recognize that Know-How disclosed by each party to
+each other, including ENZON Existing Know-How, ENZON Development Know-How,
+SCHERING Existing Know-How, SCHERING Development Know-How, and any
+jointly-owned Development Know-How, is of proprietary value to and is to be
+considered highly confidential and shall be treated by the parties during the
+term of this
+
+
+                                       -38-                           10/29/90:1
+
+
+                                      E-86
+<PAGE>
+
+
+Agreement (or any extension thereof) and for a period of five (5) years after
+the expiration or any termination thereof in the following manner:
+
+      (a)   SCHERING agrees to keep confidential and not to disclose to others,
+            without the express written permission of ENZON, ENZON Existing
+            Know-How, ENZON Development Know-How, and any jointly-owned
+            Development Know-How.
+
+      (b)   ENZON agrees to keep confidential and not to disclose to others,
+            without the express written permission of SCHERING, SCHERING
+            Existing Know-How, SCHERING Development Know-How, and any
+            jointly-owned Development Know-How.
+
+11.2 Neither party shall be prevented from disclosing any Know-How which:
+
+      (a)   can be demonstrated by written records to have been known to the
+            recipient at the time of receipt, or
+
+      (b)   was subsequently otherwise legally acquired by such party from a
+            third party having an independent right to disclose the Confidential
+            Information, or
+
+
+                                      -39-                            10/29/90:1
+
+
+                                      E-87
+<PAGE>
+
+
+      (c)   which was at the time of disclosure, is now or later becomes
+            publicly known without breach of this Agreement by either party, or
+
+      (d)   which is required to be disclosed by law, regulation, or act of any
+            governmental agency.
+
+
+11.3 Anything to the contrary in Article 11.1. above notwithstanding, SCHERING
+and its Affiliates shall be permitted to disclose Know-How to:
+
+      (a)   regulatory agencies in support of applications to market Agreement
+            Product;
+
+      (b)   clinicians or others in connection with research related to such
+            applications, or to the preparation or filing of such applications,
+            provided, however, that SCHERING shall use diligent efforts to
+            secure signed confidentiality agreements prior to any disclosure
+            under this Article 11.3(b); and
+
+      (c)   distributors as reasonably necessary for purposes of obtaining
+            approval to market Agreement Product or to market or promote
+            Agreement Product, provided, however, that SCHERING shall use
+            diligent efforts to
+
+
+                                     -40-                             10/29/90:1
+
+
+                                      E-88
+<PAGE>
+
+
+            secure signed confidentiality agreements prior to any disclosure
+            under this Article 11.3(c).
+
+11.4 Upon the expiration or any termination of (but not during) this Agreement
+except termination for cause by SCHERING under the terms of Articles 9.3 and 9.4
+hereof), ENZON shall have the right to disclose to potential licensees, under
+appropriate confidentiality restrictions similar to those ENZON normally uses
+for the disclosure of its own valuable proprietary information, summaries of the
+SCHERING Information (but not the underlying data or the tests or analyses
+themselves). These disclosures, however, may not contain any proprietary
+information pertaining to Agreement Substance.
+
+11.5 During the term of this Agreement, SCHERING and its Affiliates may use
+ENZON Patent Rights, ENZON Existing Know-How, and ENZON Development Know-How for
+any purpose whatsoever related to Agreement Product (but not for any other
+purpose or other product) only pursuant to Article 4.7 hereof. This clause 11.5
+shall not be deemed to impose any requirement for ENZON to disclose Know-How
+except as otherwise expressly provided in this Agreement.
+
+Article 12 - Governing Law
+
+This Agreement shall be governed by and interpreted in accordance with the
+substantive law of the State of New Jersey, without regard to its choice of law
+principles.
+
+
+                                      -41-                            10/29/90:1
+
+
+                                      E-89
+<PAGE>
+
+
+Article 13 - Assignment or Delegation
+
+13.1 Except as provided in Article 13.2 below, neither party may without written
+approval of the other:
+
+      (a)   assign this Agreement or transfer its interest or any part thereof
+            under this Agreement to any third party, or
+
+      (b)   designate and cause any third party to perform all or part of its
+            activities hereunder, or to have the benefit of all or part of
+            its rights hereunder, except that ENZON may continue to have that
+            portion of its manufacturing operation which is being performed by
+            other parties as of the date of this Agreement continue to be so
+            performed.
+
+13.2 Either party hereto may assign this Agreement, without the other party's
+consent, to a third party in a transaction in which all the assets of the
+assigning party relating to Agreement Product are sold or assigned; provided
+such third party was not selling a product competitive to the Agreement prior to
+such assignment.
+
+In the event of any such permitted assignment, transfer or designation, the
+assignee, transferee or designee shall assume and be bound by the provisions of
+this Agreement.
+
+
+                                      -42-                            10/29/90:1
+
+
+                                      E-90
+<PAGE>
+
+
+Article 14 - Force Majeure
+
+14.1 Except as otherwise provided in Article 3.2 hereof, neither party hereto
+shall be liable in damages for, nor shall this Agreement be terminable or
+cancellable by reason of, any delay or default in such party's performance
+hereunder if such default or delay is caused by events beyond such party's
+reasonable control, including, but not limited to, acts of God, regulation or
+law or other action or failure to act of any government or agency thereof
+(including, without limitation, any action or inaction of the FDA), war or
+insurrection, civil commotion, destruction of production facilities or materials
+by earthquake, fire, flood or storm, labor disturbances, epidemic, or failure of
+suppliers (including each of SCHERING and ENZON with respect to their obligation
+to supply the other), public utilities or common carriers; provided however,
+that the party seeking relief hereunder shall immediately notify the other party
+of such cause(s) beyond such party's reasonable control.
+
+14.2 Each party shall endeavor to resume its performance hereunder as quickly as
+possible if such performance is delayed or interrupted as set forth in Article
+14.1 above.
+
+Article 15 - Independent Contractor; Publicity
+
+15.1 It is understood that both parties hereto are independent contractors and
+engage in the operation of their own respective
+
+
+                                      -43-                            10/29/90:1
+
+
+
+                                      E-91
+<PAGE>
+
+
+businesses and neither party hereto is to be considered the agent of the other
+party for any purpose whatsoever. Each party shall be fully responsible for its
+own employees and consultants, and the employees of one party shall not be
+deemed to be employees of the other party for any purpose whatsoever.
+
+15.2 Both parties agree not to use or refer to, without the other party's
+written permission, which shall not be unreasonably withheld, the other's name
+or agreements with the other party, or the terms of this Agreement, in any
+public statement, whether oral or written, including, but not limited to,
+communications with the media, or prospectuses; provided, however, that either
+party may, without the consent of the other party, make whatsoever disclosure is
+required by law, and particularly by the Securities and Exchange Act of 1934, as
+amended, the regulations promulgated thereunder, and any applicable NASDAQ
+rule. The parties agree that the press release attached hereto as Schedule F may
+be made public.
+
+15.3 Except as allowed under Article 15.2 above, ENZON shall not, without the
+written permission of SCHERING's Vice-President, Business Development, publish
+or report any information related to Agreement Substance or Agreement Product,
+such approval shall not unreasonably be withheld, and shall be deemed to have
+been given unless notice in writing to the contrary has been given to ENZON
+within sixty (60) days from receipt by SCHERING of a request to approve such
+publication or report.
+
+
+                                      -44-                            10/29/90:1
+
+
+                                      E-92
+<PAGE>
+
+
+Article 16 - No Inconsistent Obligations
+
+Each party hereto represents and warrants that it has no obligations or
+commitments inconsistent with this Agreement and that it knows of no reason the
+Development Program may not proceed as set forth in Schedule B hereto.
+
+Article 17 - Severability; Survival
+
+      (a)   Should any part of this Agreement be held unenforceable or in
+            conflict with the applicable laws or regulations of any
+            jurisdiction, the invalid or unenforceable part or provision shall
+            be replaced with a provision which accomplishes, to the extent
+            possible, the original business purpose of such invalid or
+            unenforceable part or provision in a valid and enforceable manner,
+            and the remainder of this Agreement shall remain binding upon the
+            parties hereto.
+
+      (b)   The terms of this Agreement which by their intent or meaning have
+            validity beyond the term of this Agreement shall survive the
+            termination or expiration of this Agreement.
+
+
+                                      -45-                           10/29/90:1
+
+
+                                      E-93
+<PAGE>
+
+
+Article 18 - Captions
+
+18.1 The captions of this Agreement are solely for the convenience of reference
+and shall not affect its interpretation.
+
+18.2 Schedules A-1, A-2, A-3, B, C, D, E and F are attached to and made a part
+of this Agreement.
+
+Article 19 - Waiver
+
+The failure of either party at any time to times or enforce or require
+performance of any provision of this Agreement shall in no way operate as a
+waiver or affect the right of such party at a later time to enforce the same. No
+waiver by either party of any condition or the breach of any term or agreement
+contained in this Agreement, whether by conduct or otherwise, in any one or more
+instances, shall be deemed to be or shall be construed as a further or
+continuing waiver of any such condition or breach, or a waiver of any other
+condition or of any other breach of any other term contained in this Agreement.
+
+Article 20 - Notice
+
+Any notice, payment, report or other correspondence (hereinafter collectively
+referred to as "Correspondence") required or permitted to be given hereunder
+shall be sent by certified mail, by telefax
+
+
+                                      -46-                            10/29/90:1
+
+
+                                      E-94
+<PAGE>
+
+
+or delivered by hand to the party to whom such Correspondence is required or
+permitted to be given hereunder. Any such Correspondence shall be deemed to be
+received upon receipt as evidenced by the written and dated receipt signed by
+the receiving party or its agent or employee, or as evidenced by telefax
+records.
+
+All Correspondence to ENZON shall be addressed as follows:
+
+                  Enzon, Inc.
+                  40 Cragwood Road
+                  South Plainfield, NJ 07080-2406
+                  Attention: Vice President, Corporate Development
+                  with a copy to: General Counsel, Law Department
+
+All Correspondence to SCHERING shall be addressed as follows:
+
+                  Schering Corporation
+                  2000 Galloping Hill Road
+                  Kenilworth, New Jersey 07033
+                  Attention: Vice President, Business Development
+                  with a copy to: Legal Director, Research and Licensing
+
+Any entity may change the address to which correspondence to it is to be
+addressed by notification as provided herein.
+
+Article 21 - Entire Agreement
+
+This Agreement, including Schedules A through F attached hereto, and the Letter
+Agreement between the parties dated April 3, 1990, (the "Letter Agreement")
+represent the entire understanding between the parties with respect to the
+subject matter hereof, and supersede all other prior agreements, negotiations,
+understandings, representations, statements and writings between the parties
+relating thereto. No modification, alteration, waiver or change in
+
+
+                                      -47-                           10/29/90:1
+
+
+                                      E-95
+<PAGE>
+
+
+any of the terms of this Agreement shall be valid or binding upon the parties
+hereto unless made in writing and duly executed by each of the parties hereto.
+In the event of any conflict between this Agreement and the Letter Agreement,
+this Agreement shall control.
+
+IN WITNESS WHEREOF, this Agreement has been executed by the parties to be
+effective as of the day and year first written above.
+
+                                                        --------------
+                                                        APPROVED AS TO
+                                                          LEGAL FORM
+                                                          [INITIALS]
+                                                        --------------
+
+ENZON, INC.                             SCHERING CORPORATION
+
+
+By: /s/ Abraham                         By: /s/ Donald R.
+   ---------------------------             ---------------------------------
+
+Title: President and CEO                Title: President, Pharmaceuticals
+      ------------------------               -------------------------------
+
+
+                                      -48-                            10/29/90:1
+
+                                      E-96
+<PAGE>
+
+
+                                   APPENDIX I
+
+                 Initial Specifications for Agreement Substance
+
+            TEST                        SPECIFICATION
+            ----                        -------------
+
+            ***
+
+*** Indicates the omission of confidential material pursuant to a request for
+confidential treatment made in accordance with Rule 24b-2 under the Securities
+Exchange Act of 1934, as amended. The Confidential material is being filed
+separately with the Secretary to the Securities and Exchange Commission.
+
+10/25/90
+
+
+                                      E-97
+<PAGE>
+
+
+                                   APPENDIX II
+
+                Additional Specifications for Agreement Substance
+
+            TEST                                   SPECIFICATIONS
+            ----                                   --------------
+
+            ***
+
+*** Indicates the omission of confidential material pursuant to a request for
+confidential treatment made in accordance with Rule 24b-2 under the Securities
+Exchange Act of 1934, as amended. The Confidential material is being filed
+separately with the Secretary to the Securities and Exchange Commission.
+
+10/25/90
+
+
+                                      E-98
+<PAGE>
+
+
+                                  SCHEDULE A-1
+
+                     SPECIFICATIONS FOR AGREEMENT SUBSTANCE
+                     (SCM 30500 Drug Substance in Solution)
+
+                 TEST                                 SPECIFICATION
+                 ----                                 -------------
+
+                 ***
+
+*** Indicates the omission of confidential material pursuant to a request for
+confidential treatment made in accordance with Rule 24b-2 under the Securities
+Exchange Act of 1934, as amended. The Confidential material is being filed
+separately with the Secretary to the Securities and Exchange Commission.
+
+10/19/90
+
+
+
+                                      E-99
+<PAGE>
+
+
+                                  SCHEDULE A-2
+
+                       SPECIFICATIONS FOR BULK CONCENTRATE
+                          (PEG-SCH 30500 in Solution)
+
+
+               TEST                                SPECIFICATION
+               ----                                -------------
+
+               ***
+
+*** Indicates the omission of confidential material pursuant to a request for
+confidential treatment made in accordance with Rule 24b-2 under the Securities
+Exchange Act of 1934, as amended. The Confidential material is being filed
+separately with the Secretary to the Securities and Exchange Commission.
+
+
+10/19/90
+
+
+                                     E-100
+<PAGE>
+
+
+                                  SCHEDULE A-3
+
+                      SPECIFICATIONS FOR AGREEMENT PRODUCT
+                 (Modified PEG-Intron A Solution, 50x10^6 IU/ml.)
+
+             TEST                                SPECIFICATION
+             ----                                -------------
+
+             ***
+
+*** Indicates the omission of confidential material pursuant to a request for
+confidential treatment made in accordance with Rule 24b-2 under the Securities
+Exchange Act of 1934, as amended. The Confidential material is being filed
+separately with the Secretary to the Securities and Exchange Commission.
+
+
+10/19/90
+
+
+                                     E-101
+<PAGE>
+
+
+                                   SCHEDULE B
+
+                            SCH 30500--PEG INJECTION
+                                DEVELOPMENT PLAN
+
+                                              START/
+                                            COMPLETION
+              ACTIVITY                        TARGET             RESPONSIBILITY
+-------------------------------------       -----------          --------------
+
+            ***
+
+*** Indicates the omission of confidential material pursuant to a request for
+confidential treatment made in accordance with Rule 24b-2 under the Securities
+Exchange Act of 1934, as amended. The Confidential material is being filed
+separately with the Secretary to the Securities and Exchange Commission.
+
+
+10/10/90
+
+
+                                     E-102
+<PAGE>
+
+
+                                      -2-
+
+
+                                              START/
+                                            COMPLETION
+              ACTIVITY                        TARGET             RESPONSIBILITY
+-------------------------------------       -----------          --------------
+
+               ***
+
+*** Indicates the omission of confidential material pursuant to a request for
+confidential treatment made in accordance with Rule 24b-2 under the Securities
+Exchange Act of 1934, as amended. The Confidential material is being filed
+separately with the Secretary to the Securities and Exchange Commission.
+
+
+                                     E-103
+<PAGE>
+
+
+                                       -3-
+
+
+                                              START/
+                                            COMPLETION
+              ACTIVITY                        TARGET             RESPONSIBILITY
+-------------------------------------       -----------          --------------
+
+            ***
+
+*** Indicates the omission of confidential material pursuant to a request for
+confidential treatment made in accordance with Rule 24b-2 under the Securities
+Exchange Act of 1934, as amended. The Confidential material is being filed
+separately with the Secretary to the Securities and Exchange Commission.
+
+
+
+                                     E-104
+<PAGE>
+
+
+                             PROJECTED NDA TIMELINE
+
+                                       ***
+
+*** Indicates the omission of confidential material pursuant to a request for
+confidential treatment made in accordance with Rule 24b-2 under the Securities
+Exchange Act of 1934, as amended. The Confidential material is being filed
+separately with the Secretary to the Securities and Exchange Commission.
+
+
+                                     E-105
+<PAGE>
+
+
+                                   SCHEDULE C
+
+                                  PATENT RIGHTS
+
+         (To be updated by the parties as required under Article 1.11.]
+
+                                                                      10/25/90:1
+
+
+                                     E-106
+<PAGE>
+
+
+                                   SCHEDULE D
+
+                       CRITERIA FOR DEMONSTRATING EFFICACY
+                            IN A PILOT CLINICAL STUDY
+
+                                       ***
+
+*** Indicates the omission of confidential material pursuant to a request for
+confidential treatment made in accordance with Rule 24b-2 under the Securities
+Exchange Act of 1934, as amended. The Confidential material is being filed
+separately with the Secretary to the Securities and Exchange Commission.
+
+
+10/10/90
+
+
+                                     E-107
+<PAGE>
+
+
+                                   SCHEDULE E
+
+                                SUPPLY AGREEMENT
+
+                         [omitted no longer in effect]
+
+
+                                     E-108
+<PAGE>
+
+
+                                              Amendment No. 1  December 10, 1991
+
+                                                                       FILE COPY
+
+                              SCHERING CORPORATION           J.M.K. SEP 23 1991
+
+                GALLOPING HILL ROAD [LOGO] KENILWORTH, N.J 07033
+
+                                              CABLES: SCHERING KENILWORTH
+                                              TELEX: 138315
+                                                     138280
+                                              TELEPHONE: (201) 298-4OOO
+
+                           September 16, 1991
+
+
+Enzon, Inc.
+40 Cragwood Road
+South Plainfield, NJ 07080-2406
+
+ATTN: Glenn Kazo
+
+Dear Mr. Kazo:
+
+      Pursuant to Article 1.5 of our Development, License and Supply Agreement
+(the "Agreement"), dated November 14, 1990, this will confirm our agreement to
+amend the Development Plan, as defined in the Agreement, in accord with the
+attached memo from M. Zupon, dated April 29, 1991, and with the amended Schedule
+B to the Agreement, both of which are attached hereto.
+
+      Please indicate your acceptance of the foregoing by signing one copy of
+this letter as indicated below and returning it to us for our files.
+
+                                Very Truly yours,
+
+                                SCHERING CORPORATION            ---------------
+                                                                APPROVED AS TO
+                                                                  LEGAL FORM
+                                By: /s/ William J. Breiner
+                                   --------------------------      [INITIALS]
+                                    William J. Breiner              LAW DEPT
+                                    Vice President              ----------------
+                                    Business Development
+
+Accepted and Agreed:
+
+ENZON, INC.
+
+
+By /s/ Glenn M. Kazo   Glenn M. Kazo
+  ----------------------------------------
+
+Title Vice President Corporate Development
+
+Date 12/10/91
+
+C/ADAG2691
+
+cc: John Caruso, Esq. (Enzon)
+    Karin Cast
+    Ann Martin
+
+
+                                     E-109
+<PAGE>
+
+
+[LOGO] Schering-Plough                                                     Memo
+
+Meeting Attendees                                       Date: April 29, 1991
+
+***
+
+*** Indicates the omission of confidential material pursuant to a request for
+confidential treatment made in accordance with Rule 24b-2 under the Securities
+Exchange Act of 1934, as amended. The confidential material is being filed
+separately with the Secretary to the Securities and Exchange Commission.
+
+                                     E-110
+<PAGE>
+
+
+***
+
+*** Indicates the omission of confidential material pursuant to a request for
+confidential treatment made in accordance with Rule 24b-2 under the Securities
+Exchange Act of 1934, as amended. The confidential material is being filed
+separately with the Secretary to the Securities and Exchange Commission.
+
+
+                                            /s/ Michael A. Zupon
+                                            -----------------------------
+
+MAZ/nf Mtg(2)
+Attachment
+
+
+                                     E-111
+<PAGE>
+
+
+                                 ATTACHMENT VII
+
+                                   SCHEDULE B
+
+***
+
+*** Indicates the omission of confidential material pursuant to a request for
+confidential treatment made in accordance with Rule 24b-2 under the Securities
+Exchange Act of 1934, as amended. The confidential material is being filed
+separately with the Secretary to the Securities and Exchange Commission.
+
+
+                                     E-112
+<PAGE>
+
+                                      -2-
+
+
+***
+
+*** Indicates the omission of confidential material pursuant to a request for
+confidential treatment made in accordance with Rule 24b-2 under the Securities
+Exchange Act of 1934, as amended. The confidential material is being filed
+separately with the Secretary to the Securities and Exchange Commission.
+
+
+                                     E-113
+<PAGE>
+
+                                       -3-
+
+
+***
+
+*** Indicates the omission of confidential material pursuant to a request for
+confidential treatment made in accordance with Rule 24b-2 under the Securities
+Exchange Act of 1934, as amended. The confidential material is being filed
+separately with the Secretary to the Securities and Exchange Commission.
+
+
+                                     E-114
+<PAGE>
+
+
+                                              Amendment No. 2  October 30, 1992
+
+[Amendment No. 2 is no longer in effect and therefore is not included in this
+filing]
+
+
+                                     E-115
+<PAGE>
+
+
+                                                     Amendment No. 3  March 1993
+
+[Amendment No. 3 is no longer in effect and therefore is not included in this
+filing]
+
+
+                                     E-116
+<PAGE>
+
+
+                                                   Amendment No. 4 June 30, 1995
+
+[LOGO] ENZON, Inc.
+       =========================================================================
+
+June 30, 1995
+
+Schering Corporation
+2000 Galloping Hill Road
+Kenilworth, New Jersey 07033
+
+Gentlemen:
+
+      This letter sets forth the terms and conditions under which Schering
+Corporation (hereinafter called "SCHERING") and Enzon, Inc. (hereinafter called
+"ENZON") agree to further amend their Development, License and Supply Agreement
+dated November 14, 1990 (hereinafter the "Agreement"). Except as stated
+otherwise in this letter amendment, capitalized words used herein shall have the
+same meaning as those defined in the Agreement. A "Stock Purchase Agreement"
+between the parties is effective concurrently with this letter amendment. This
+letter amendment is effective June 30, 1995.
+
+      The Agreement shall be amended as follows:
+
+Amendment 1
+
+Under the March 2, 1993 letter amendment to the Agreement, paragraph 6, SCHERING
+decided to continue development of an "Optimal Formulation" and ENZON provided
+SCHERING with several batches of such Optimal Formulation. Additionally,
+SCHERING elected to similarly pursue a second "Optimal Formulation" through the
+filing of an IND. No additional payment is due ENZON pursuant to Article 6.1(b)
+of the Agreement in connection with the second Optimal Formulation and all
+payments required under the March 2, 1993 letter amendment to the Agreement have
+been made by SCHERING.
+
+================================================================================
+          40 Kingsbridge Road Piscataway, NJ 08854-3998 (908) 980-4500
+                              FAX: (908) 980-5911
+
+
+                                     E-117
+<PAGE>
+
+
+Amendment 2
+
+Schedules A-1, A-2, B, C, and D, which were attached to the Agreement and part
+thereof on November 14, 1990, are hereby deleted and replaced by the new
+schedules of that same designation, which are attached to this letter amendment.
+Schedule A-3 is deleted and when SCHERING develops new and final specifications
+they will be put into the Agreement as a new Schedule A-3. Further, new
+Schedules G and H are attached to and made a part of this letter amendment. All
+references below to Schedules, and future interpretation of this letter
+amendment and the Agreement, shall be made with respect to these new Schedules.
+
+Amendment 3
+
+In Article 1.2, delete -- ENZON -- and -- are -- in the fourth line and replace
+them, respectively, with -- SCHERING -- and -- will be --. Add at the end of
+Article 1.4, -- SCHERING may amend the specifications in Schedule A-2 after the
+effective date of this letter amendment if in its reasonable judgment it is
+necessary to do so. ENZON shall not be responsible for such specifications as
+amended unless it chooses to supply Bulk Concentrate pursuant to Article
+3.1, --.
+
+Amendment 4
+
+In Article 1.5, strike the last three lines and insert -- in Schedule B hereto
+made by SCHERING -- .
+
+Amendment 5
+
+In Article 2.3, delete -- ENZON and -- in the second line and delete the last
+sentence in this Article. Further, insert therein
+
+
+                                        2
+
+
+                                     E-118
+<PAGE>
+
+
+-- Neither party will unreasonably withhold consent to changes in the
+Development Program --.
+
+Amendment 6
+
+In Article 2.4, strike the last six lines and insert -- approvals and bear all
+costs of such trials, including the manufacture and supply of Agreement Product
+used in the trials referenced in the Development Program --.
+
+Amendment 7
+
+Delete Article 2.6 and insert the following:
+
+      "The parties hereto shall keep each other informed of their activities
+      hereunder and the status of the Development Program by means of a
+      quarterly written summary report, a form to be agreed upon by such
+      parties. ENZON shall, at SCHERING'S reasonable request, take all
+      reasonable steps necessary to allow SCHERING to reference ENZON'S drug
+      master file for Agreement Product, which exists as of the effective date
+      of this letter amendment, but have no obligation to hereafter add to or
+      modify it, except any obligation which may arise from the exercise by
+      ENZON of it's option rights to supply SCHERING'S United States
+      requirements for Bulk Concentrate under Article 3.1."
+
+Amendment 8
+
+In Article 2.8 strike the last three lines and insert -- any additional Know-How
+in SCHERING'S possession as SCHERING shall determine is required under the
+Development Program --.
+
+                                        3
+
+
+                                     E-119
+<PAGE>
+
+
+Amendment 9
+
+Delete the present Article 2.9. Insert therein -- SCHERING shall supply to ENZON
+in a timely fashion, at no cost, quantities of Agreement Substance necessary to
+make the Bulk Concentrate called for under Article 3.1.--
+
+Amendment 10
+
+Delete Article 2.11.
+
+Amendment 11
+
+***
+
+Amendment 12
+
+Delete Articles 3.1 and 3.2 and insert the following:
+
+      "3.1 SCHERING shall notify ENZON when it receives FDA approval for
+      Agreement Product no later than ten (10) days after such receipt. During
+      the two year period after the date of such FDA approval, ENZON shall have
+      the exclusive option, even as to SCHERING, to elect to manufacture for
+      SCHERING and its Affiliates and their sublicensees all of their
+      requirements for Bulk Concentrate to be sold in the U.S. during the Term
+      of this Agreement. If ENZON elects to supply such Bulk Concentrate, ENZON
+      shall supply, and SCHERING shall purchase, such Bulk Concentrate under the
+      terms and conditions of the "Supply Agreement" attached as Schedule
+
+*** Indicates the omission of confidential material pursuant to a request for
+confidential treatment made in accordance with Rule 24b-2 under the Securities
+Exchange Act of 1934, as amended. The confidential material is being filed
+separately with the Secretary to the Securities and Exchange Commission.
+
+                                       4
+
+
+                                     E-120
+<PAGE>
+
+
+      E to the Agreement. ENZON shall not have to supply, and SCHERING shall not
+      have to accept, Bulk Concentrate before seven months have expired since
+      the giving of such notice."
+
+      "3.2(a) In consideration of the payments made by SCHERING to ENZON under
+      the June 30, 1995 letter amendment, ENZON shall promptly transfer after
+      June 30, 1995 previously undisclosed Know-How, owned and controlled by
+      ENZON as of June 30, 1995, which is necessary to acquire polyethylene
+      glycol("PEG") from third party vendors for conversion to Bulk Concentrate
+      and to manufacture Bulk Concentrate, and to obtain regulatory approvals to
+      manufacture Bulk Concentrate and Agreement Product and to market Agreement
+      Product. This transfer is being made by ENZON for the sole purpose of
+      SCHERING developing, and obtaining FDA approval to manufacture, market and
+      sell the Bulk Concentrate and Agreement Product. SCHERING shall use such
+      Know-How only as necessary for such purposes. It is the intention of the
+      parties that such Know-How not in any way be used for or relied on by
+      SCHERING to independently develop its own technology for combining PEG
+      with polypeptide. Further to the obligations specified in Article 11,
+      SCHERING will not disclose such ENZON Know-How to any party other then a
+      SCHERING Affiliate, a government authority required to approve the
+      registration or sale of Agreement Product, or a vendor producing PEG for
+      SCHERING provided such vendor has an obligation of confidentiality to
+      SCHERING in connection
+
+
+                                        5
+
+                                     E-121
+<PAGE>
+
+
+      therewith. Further, SCHERING shall only disclose or allow access of such
+      ENZON Know-How to only those persons described above in this Article
+      3.2(a) who need such knowledge or access, as strictly interpreted, in
+      connection with the above stated purposes. As stated in Article 1.8(a) in
+      connection with SCHERING Independent Know-How, in the event SCHERING shall
+      develop any idea, invention or technology for combining PEG or any other
+      polyalkyleneoxide with any polypeptide, chemical or other compound the
+      presumption shall be that such development occurred, was based on and
+      originated out of such ENZON Know-How, unless SCHERING can reasonably
+      clearly demonstrate that it was developed by SCHERING or its Affiliates
+      without the aid, application, or use of such ENZON Know-How or the
+      participation of any SCHERING employee or consultant who had knowledge of
+      such Know-How. Further the second last sentence in Article 1.8(a)
+      relating to "SCHERING Information", shall be modified and interpreted to
+      exclude such ENZ0N Know-How or steps taken by SCHERING based on such
+      ENZON Know-How."
+
+      "3.2(b) ENZON shall transfer to SCHERING the Know-How referred to in
+      Article 3.2(a) promptly after June 30, 1995, generally in accordance with
+      the time table set forth in new Schedule G attached to and made a part of
+      the June 30, 1995 letter amendment. It is the intention of the parties
+      that ENZON provide to SCHERING, for example, but not by way of limitation
+      on SCHERING, the "recipe" for making and testing the Agreement Product,
+
+
+                                        6
+
+                                     E-122
+<PAGE>
+
+
+      but not ENZON's thought processes, theories, or reasons that led to such
+      recipe. Further, as an example only, ENZON shall provide SCHERING with its
+      standard operating procedures, batch records and raw material in-process,
+      final release assay protocols and available assay validations used in
+      connection with Agreement Product. However, ENZON shall not transfer to
+      SCHERING any of the information or documentation that led to ENZON's
+      selection or arrangement of the steps or information in these items.
+      Notwithstanding the remainder of this Article 3.2(b), such Know-How
+      shall include all elements of ENZON'S thought processes, theories or
+      reasons or previously referred to steps or information which ENZON relied
+      on in the manufacture of Bulk Concentrate. The foregoing limitations on
+      ENZON'S disclosure of such Know-How to SCHERING shall not apply to any of
+      such Know-How which is necessary to be disclosed to a government agency
+      for approval by that agency to manufacture Bulk Concentrate and / or sell
+      Agreement Product, provided such disclosure is done under confidentiality.
+
+      "3.2(c) Schedule G, entitled "Information Needed and Activities To Be
+      Completed For Transfer Of Know-How", lists particular information and
+      documents which ENZON shall transfer to SCHERING relating to the Know-How
+      described in Article 3.2 (a), but is not all inclusive of such Know-How.
+      In connection with the transfer of such Know-How to SCHERING under Article
+      3.2(b) ENZON will also provide to SCHERING and its Affiliates, and their
+
+
+                                       7
+
+                                     E-123
+<PAGE>
+
+
+      designees with regard to PEG and manufacture of Bulk Concentrate meeting
+      specifications included in Schedule A-2 as of June 30, 1995, reasonable
+      technical assistance in utilizing such Know-How. SCHERING shall pay
+      ENZON's reasonably documented out of pocket expenses for such assistance.
+      Further, upon completion or transfer of such information and documents and
+      of the activities specified in Schedule G, SCHERING shall make the One
+      Million Dollar($1,000,000) payment to ENZON described in "Amendment 15"
+      of the June 30, 1995 letter amendment."
+
+
+Amendment 13
+
+In Article 4.7, in the third line, delete -- licenses -- and insert -- license
+--. Further, delete the last five lines and insert -- during the Term of this
+Agreement, to make, have made, use and sell Bulk Concentrate and Agreement
+Product in the Territory. This license shall include the right to sublicense
+SCHERING'S Affiliates, with respect to making and having made the Bulk
+Concentrate and Agreement Product, third party vendors with respect to the
+manufacture of conforming PEG and its Affiliates or third parties, with respect
+to using and selling Agreement Product. Notwithstanding the exclusive license
+granted under the previous sentence, ENZON shall retain the right to manufacture
+and supply Agreement Product to SCHERING under the terms and conditions covered
+under Article 3.1, if ENZON exercises its option under that Article --.
+
+Amendment 14
+
+In Article 4.8, delete the first two lines on page 20 and insert --
+
+
+                                        8
+
+                                     E-124
+<PAGE>
+
+
+Bulk Concentrate and to manufacture Bulk Concentrate, under the terms and
+conditions specified in Article 3.1 -- . In Article 4.9, in the sixth line, add
+-- Bulk Concentrate or -- before the words -- Agreement Product --.
+
+Amendment 15
+
+In addition to the batches of Bulk Concentrate covered under the March 2, 1993
+amendment to the Agreement sold to SCHERING, ENZON has delivered eleven (11)
+batches of such Bulk Concentrate to SCHERING for total of eight hundred
+eighty-five thousand dollars ($885,000), which SCHERING has paid to ENZON. In
+addition to the payments called for under Article 6.1(a) - (f), SCHERING shall
+also pay ENZON two million dollars ($2,000,000) within twenty(20) days after the
+effective date of this letter amendment and a further additional one million
+dollars ($1,000,000) on the completion of the transfer of Know-How from ENZON to
+SCHERING covered under Article 3.2(c) of this letter amendment.
+
+Amendment 16
+
+Delete the Article 6.1 (C) and add the following
+
+      "(c) One million dollars ($1,000,000) within ten days after dosing the
+first patient enrolled in the Phase 2 Clinical Trial, as that phase is described
+in the Development Program (as per Schedule D(a)) and one million five hundred
+thousand dollars ($1,500,000) within ten days after SCHERING's initiation of
+large scale clinical trials as described in Schedule D(b)."
+
+Amendment 17
+
+In Article 9.2(a), in the third line, after --, -- delete the
+
+
+                                        9
+
+                                     E-125
+<PAGE>
+
+
+ba1ance of Article 9.2(a) and insert the following:
+
+      "if any of the requirements specified in new Schedule H attached hereto
+      and made a part of the June 30, 1995 letter amendment are not met or."
+
+Delete Article 9.2 (b) and insert the following:
+
+      " after completion of the initial clinical trial demonstrating that
+      Agreement Product meets the criteria set forth in Schedule D attached
+      hereto; provided, however, that if such successful completion shall have
+      taken place, SCHERING'S right to terminate under this Article 9.2 (b)
+      shall be contingent upon SCHERING'S having made to ENZON the total
+      payments of *** set forth in Article 6.1(c)."
+
+Amendment 18
+
+In Article 10 add the following new representations and warranties:
+
+      "10.9 As of June 30, 1995, ENZON and it's subsidiaries are each a
+      corporation duly organized and existing in good standing under the laws of
+      the jurisdiction of their incorporation, except, in the case of such
+      subsidiaries, as would not have a Material Adverse Effect(as defined
+      below), and has the requisite corporate power to own its properties and
+      carry on its business as now being conducted. ENZON and it's subsidiaries
+      are each duly qualified to do business and in good standing in every
+      jurisdiction in which the nature of the business conducted or property
+      owned by them makes such
+
+*** Indicates the omission of confidential material pursuant to a request for
+confidential treatment made in accordance with Rule 24b-2 under the Securities
+Exchange Act of 1934, as amended. The Confidential material is being filed
+separately with the Secretary to the Securities and Exchange Commission.
+
+
+                                       10
+
+
+                                     E-126
+<PAGE>
+
+
+      qualification necessary and where the fai1ure so to qualify would have a
+      Material Adverse Effect. "Material Adverse Effect" means any material
+      adverse effect on the operation, properties or financial condition of
+      ENZON and it's subsidiaries taken as a whole."
+
+      "10.10 As of June 30, 1995 ENZON has the requisite corporate power and
+      authority to enter into and perform its obligations under the 1995 letter
+      amendment, the execution and delivery of the June 30, 1995 letter
+      amendment by ENZON and the consummation by it of the transaction
+      contemplated herein have been duly authorized by ENZON's Board of
+      Directors and no further consent or authorization of ENZON's Board of
+      Directors or stockholders is required. The June 30, 1995 letter amendment
+      has been duly executed and delivered by ENZ0N, and constitutes a valid and
+      binding obligation of ENZON enforceable against ENZON in accordance with
+      it's terms, except as such enforceability may be limited by applicable
+      bankruptcy, insolvency, or reorganization, moratorium, liquidation, or
+      similar laws relating to, or effecting generally the enforcement of
+      creditor's rights and remedies or by other equitable principles of general
+      application."
+
+      "10.11 ENZON represents and warrants that the representations and
+      warranties provided in Article 10.1 and 10.2 of the Agreement shall also
+      apply and be binding on ENZON with respect to such Know-How transfer to
+      SCHERING under Article 3.2(b) above and to SCHERING's or
+
+
+                                       11
+
+                                     E-127
+<PAGE>
+
+
+      it's Affiliates as manufacture of Bulk Concentrate or Agreement Product
+      based on the use of such Know-How."
+
+      "10.12 As of June 30, 1995, ENZON represents and warrants that there is no
+      judicial or administrative action or other proceeding pending or, to the
+      best of it's knowledge, threatened, nor to the best of it's knowledge is
+      there any governmental investigation pending or threatened that questions
+      the validity of any of the transactions contemplated under the June 30,
+      1995 letter amendment."
+
+      "10.13 Enzon represents and warrants that with respect to the manufacture
+      of "M-PEG", "SC-PEG", and Bulk Concentrate ENZON will provide to SCHERING
+      all of such Know-How referred to in Article 3.2(a), and the reasonable
+      technical assistance in manufacturing Bulk Concentrate based on such
+      Know-How referred to in Article 3.2(b), and that such transfer would
+      enable a party skilled in the art of manufacture of substances similar to
+      Bulk Concentrate to be able to reproduce Bulk Concentrate meeting the
+      specifications of Schedule A-2 as they exist on the effective date of the
+      June 30, 1995 letter amendment in connection with an eight gram batch
+      thereof."
+
+Amendment 19
+
+In Article 11.5., the fourth and fifth lines, delete -- (but not for any other
+purpose or other product) -- and insert -- (but not in contravention of
+SCHERING'S obligations or the prohibitions
+
+
+                                       12
+
+
+                                     E-128
+<PAGE>
+
+
+covered under Article 3.2) --.
+
+[Amendment 20, 21 and 22 relate to the Supply Agreement between Enzon, Inc. and
+Schering Corporation which is no longer in effect, therefore, these Amendments
+are not included in this filing]
+
+Amendment 23
+
+
+                                       13
+
+                                     E-129
+<PAGE>
+
+
+In Article VI of the Supply Agreement, delete the last sentence and insert -- in
+that case SCHERING shall be free to cancel such purchase order, in addition to
+exercising any other legal remedies which SCHERING may have under the Agreement.
+Further, in connection with ENZON's breach of it's obligations under this Supply
+Agreement, Article 9.3 and Article 14 of the Agreement as they relate to
+SCHERING'S right to terminate the Supply Agreement shall be incorporated by
+reference into this Supply Agreement --.
+
+Amendment 24
+
+      All rights and licenses granted under or pursuant to the Agreement by
+ENZON to SCHERING are, for all purposes of Section 365(n) of Title 11 of the
+U.S. Code ("Title 11"), licenses of rights to intellectual property as defined
+in Title 11. ENZON agreed during the Term to create and maintain current copies
+or, if not amenable to copying, detailed descriptions or other appropriate
+embodiments, to the extent feasible, of all such intellectual property. If a
+case is commenced by or against ENZON under Title 11, then, unless and until
+this Agreement is rejected as provided in Title 11, ENZON (in any capacity,
+including debtor-in-possession) and its successors and assigns (including,
+without limitation, a Title 11 Trustee) shall, as SCHERING may elect in a
+written request, immediately upon such request (i) perform all of the
+obligations provided in the Agreement to be performed by ENZON including, where
+applicable and without limitation, providing to SCHERING portions of such
+intellectual property (including embodiments thereof) held by ENZON and such
+successors and assigns or otherwise available to them or (ii) provide to
+SCHERING all such intellectual property (including all, embodiments thereof)
+held by ENZON and such successors and assigns or otherwise
+
+
+                                      14
+
+
+                                     E-130
+<PAGE>
+
+
+available to them. If a Title 11 case is commenced by or against ENZON, this
+Agreement is rejected as provided in Title 11 and SCHERING elects to retain its
+rights hereunder as provided in Title 11, then ENZON (in any capacity, including
+debtor-in-possession) and its successors and assigns (including, without
+limitation, a Title 11 Trustee) shall provide to SCHERING all such intellectual
+property (including all embodiments thereof) held by ENZON and such successors
+and assigns or otherwise available to them immediately upon SCHERING's written
+request therefor. Whenever ENZON or any of its successors or assigns provides
+to SCHERING any of the intellectual property licensed hereunder (or any
+embodiment thereof) pursuant to this paragraph, SCHERING shall have the right to
+perform the obligation of ENZON hereunder with respect to such intellectual
+property, but neither such provision nor such performance by SCHERING shall
+release ENZON from any such obligation or liability for failing to perform it.
+All rights, powers and remedies of SCHERING provided herein are in addition to
+and not in substitution for any and all other rights, powers and remedies now or
+hereafter existing at law or in equity (including, without limitation, Title 11)
+in the event of the commencement of a Title 11 case by or against ENZON.
+SCHERING, in addition to the rights, powers and remedies expressly provided
+herein, shall be entitled to exercise all other such rights and powers and
+resort to all other such remedies as may now or hereafter exist at law or in
+equity (including, without limitation, Title 11) in such event. The parties
+agree that they intend the foregoing SCHERING's rights to extend to the maximum
+extent permitted by law, including without limitation for purposes of Title 11,
+(i) the right of access to any intellectual property (including all embodiments
+thereof) of ENZON, or any third party with whom ENZON contracts to perform an
+
+
+                                       15
+
+
+                                     E-131
+<PAGE>
+
+
+obligation of ENZON under the Agreement, and in the case of the third party,
+which is necessary for the development, registration and manufacture of Bulk
+Concentrate and Agreement Product and (ii) the right to contract directly with
+any third party as described in (i) in the sentence to complete the contracted
+work.
+
+      Except as expressly set forth above, all other non-conflicting terms and
+conditions of the Agreement shall remain in full force and effect.
+
+Please indicate your acceptance of the foregoing by signing the enclosed copy of
+this letter amendment and returning it to us.
+
+Very truly yours,
+
+ENZON, INC.
+
+By: /s/
+   ---------------------------
+
+Title: President and Chief Executive Officer
+
+ACCEPTED:
+
+SCHERING CORPORAITON            ------------
+                                LEGAL REVIEW
+By: /s/ David Poorvin
+  ---------------------------    [INITIALS]
+                                ------------
+Title: Vice President
+      ------------------------------------
+
+JAC/cam
+
+
+                                       16
+
+
+                                     E-132
+<PAGE>
+
+
+                                  SCHEDULE A-1
+
+                   TEST                      SPECIFICATION
+                   ----                      -------------
+
+                   ***
+
+*** Indicates the omission of confidential material pursuant to a request for
+confidential treatment made in accordance with Rule 24b-2 under the Securities
+Exchange Act of 1934, as amended. The Confidential material is being filed
+separately with the Secretary to the Securities and Exchange Commission.
+
+
+                                     E-133
+<PAGE>
+
+
+                                  SCHEDULE A-2
+
+                   TEST(1)                   SPECIFICATION
+                   -------                   -------------
+
+                   ***
+
+*** Indicates the omission of confidential material pursuant to a request for
+confidential treatment made in accordance with Rule 24b-2 under the Securities
+Exchange Act of 1934, as amended. The Confidential material is being filed
+separately with the Secretary to the Securities and Exchange Commission.
+
+
+                                     E-134
+<PAGE>
+
+
+                                  SCHEDULE B
+
+Activity                Start/Completion Target               Responsibility
+--------                -----------------------               --------------
+
+           ***
+
+*** Indicates the omission of confidential material pursuant to a request for
+confidential treatment made in accordance with Rule 24b-2 under the Securities
+Exchange Act of 1934, as amended. The Confidential material is being filed
+separately with the Secretary to the Securities and Exchange Commission.
+
+
+                                     E-135
+<PAGE>
+
+
+                                  SCHEDULE C
+
+                                 PATENT RIGHTS
+
+                                    DATE                                 DATE
+TITLE       INVENTOR    COUNTRY    FILED    SERIAL NO.    PATENT NO.    ISSUED
+-----       --------    -------    -----    ----------    ----------    ------
+
+       ***
+
+*** Indicates the omission of confidential material pursuant to a request for
+confidential treatment made in accordance with Rule 24b-2 under the Securities
+Exchange Act of 1934, as amended. The Confidential material is being filed
+separately with the Secretary to the Securities and Exchange Commission.
+
+
+                                     E-136
+<PAGE>
+
+
+                                  SCHEDULE D
+
+                                      ***
+
+*** Indicates the omission of confidential material pursuant to a request for
+confidential treatment made in accordance with Rule 24b-2 under the Securities
+Exchange Act of 1934, as amended. The Confidential material is being filed
+separately with the Secretary to the Securities and Exchange Commission.
+
+
+                                     E-137
+<PAGE>
+
+
+                                  SCHEDULE G
+
+                                      ***
+
+*** Indicates the omission of confidential material pursuant to a request for
+confidential treatment made in accordance with Rule 24b-2 under the Securities
+Exchange Act of 1934, as amended. The Confidential material is being filed
+separately with the Secretary to the Securities and Exchange Commission.
+
+
+                                     E-138
+<PAGE>
+
+
+                                  SCHEDULE H
+
+                                      ***
+
+*** Indicates the omission of confidential material pursuant to a request for
+confidential treatment made in accordance with Rule 24b-2 under the Securities
+Exchange Act of 1934, as amended. The Confidential material is being filed
+separately with the Secretary to the Securities and Exchange Commission.
+
+
+                                     E-139
+<PAGE>
+
+
+                                                   Amendment No. 5 June 24, 1999
+
+                               AMENDMENT AGREEMENT
+
+      This "Amendment Agreement" effective as of the last date on the signature
+page hereof, by and between Enzon, Inc. ("ENZON") and Schering Corporation
+("SCHERING") amends and supplements that certain Development, License and
+Supply Agreement between ENZON and SCHERING dated November 14, 1990, as amended
+by: the Letter Amendment effective June 30, 1995, and the amendment letters of
+March 2, 1993, October 30, 1992 and December 10, 1991 (collectively, the
+"Agreement").
+
+      WHEREAS, ENZON has developed technology relating to branched chain PEG and
+holds patent rights relating thereto, the U-PEG Patent Rights (as defined
+below); and
+
+      WHEREAS, SCHERING desires to obtain a license under the U-PEG Patent
+Rights; and
+
+      WHEREAS, the parties further desire to modify certain provisions of the
+Agreement relating to the manufacture of Agreement Product, payment of royalties
+on sales of Agreement Product, and rights under Patent Rights and to use
+Know-How;
+
+      NOW THEREFOR, The parties hereby agree to further amend the Agreement as
+follows:
+
+      Except as expressly defined herein, all capitalized terms shall have the
+meanings set forth in the Agreement, as amended.
+
+1.    Add the following new provisions to Article 1:
+
+      "1.15 "U-PEG Patent Rights" shall mean United States patent number ***
+      together with its foreign counterparts and any reissues, re-examinations,
+      extensions, substitutions, confirmations, registrations, revalidations,
+      additions, continuations, continuations-in-part and divisions of any of
+      the foregoing. U-PEG Patent Rights shall not be included in Patent Rights
+      under the Agreement.
+
+      1.16 "Roche Patent Rights" shall mean United States patent which may be
+      infringed by Agreement Product, together with its foreign counterparts and
+      any reissues, re-examinations, extensions, substitutions, confirmations,
+      registrations, revalidations, additions, continuations,
+      continuations-in-part and divisions of any of the foregoing, which are
+      owned or controlled by F. Hoffmann La Roche Ltd. or its Affiliates
+      (collectively "Roche").
+
+      1.17 "Licensed ENZON Patent Rights" shall mean any ENZON Patent Rights
+      invented by SCHERING, or jointly by SCHERING and ENZON, and owned and/or
+      assigned to ENZON pursuant to Section 4.3 of the Agreement."
+
+2.    Delete Articles 2.9, 3.1 and the Supply Agreement set forth in Schedule E
+      in their entirety.
+
+3.    Delete Article 1.4 and insert in its place the following:
+
+      "1.4 "Bulk Concentrate" shall mean Agreement Product in bulk concentrated
+      form meeting the criteria set forth in Schedule A-2 hereof.
+      (Specifications for Bulk Concentrate). SCHERING may amend the
+      specifications in Schedule A-2 if in its reasonable judgment it is
+      necessary to do so. ENZON shall not be responsible for such specifications
+      as amended."
+
+*** Indicates the omission of confidential material pursuant to a request for
+confidential treatment made in accordance with Rule 24b-2 under the Securities
+Exchange Act of 1934, as amended. The confidential material is being filed
+separately with the Secretary to the Securities and Exchange Commission.
+
+                                     E-140
+<PAGE>
+
+
+4.    Delete Article 2.6 and insert in its place the following:
+
+      "2.6 The parties hereto shall keep each other informed of their activities
+      hereunder and the status of the Development Program by means of a
+      quarterly written summary report in a form to be agreed upon by such
+      parties. ENZON shall, at SCHERING's reasonable request, take all
+      reasonable steps necessary to allow SCHERING to reference ENZON's drug
+      master file for Agreement Product, which exists as of June 30, 1995, but
+      have no obligation to hereafter add to or modify it."
+
+5.    Delete Article 4.7 and insert in its place the following:
+
+      "4.7 Subject to the other terms of this Agreement, ENZON hereby grants to
+      SCHERING and SCHERING hereby accepts, an exclusive license, exclusive even
+      as to ENZON, under the ENZON Patent Rights, the ENZON Existing Know-How
+      and the ENZON Development Know-How, during the term of this Agreement, to
+      make, have made, use, import, export, offer for sale and sell Bulk
+      Concentrate and Agreement Product in the Territory. This license shall
+      include the right to sublicense: (i) SCHERING's Affiliates with respect to
+      making and having made the Bulk Concentrate and Agreement Product, (ii)
+      third party vendors with respect to the manufacture of conforming PEG, and
+      (iii) its Affiliates or third parties with respect to using importing,
+      exporting, offering for sale and selling Agreement Product."
+
+6.    Delete Article 4.8 and insert in its place the following:
+
+      "4.8 Subject to the other terms of this Agreement and for the sole purpose
+      of ENZON's development and manufacture of Agreement Product for SCHERING,
+      SCHERING hereby grants ENZON the right, under the SCHERING Information,
+      the SCHERING Patent Rights, the SCHERING Existing Know-How, the SCHERING
+      Development Know-How, and the RC License (as hereinafter defined) during
+      the term of this Agreement, to use Agreement Substance in the development
+      of Bulk Concentrate and Agreement Product for SCHERING."
+
+7.    Add the following new provision to Article 4:
+
+      "4.11 ENZON hereby grants to SCHERING and SCHERING hereby accepts a
+      non-exclusive license in the Territory under the U-PEG Patent Rights
+      during the term of this Agreement to make, have made, use, import, export,
+      offer for sale and sell pharmaceutical products in which alpha interferon
+      as an active ingredient is coupled with PEG. The licenses granted to
+      SCHERING under this Section 4.11 shall include the right to grant
+      sublicenses to SCHERING's Affiliates and/or to any third party.
+
+      4.12 ENZON hereby grants to SCHERING and its Affiliates, and SCHERING and
+      its Affiliates hereby accept, a non-exclusive license in the Territory
+      under the Licensed ENZON Patent Rights for all purposes during the term of
+      this Agreement. The license granted under this Section 4.12 includes,
+      without limitation, the right to make, have made, use, import, export,
+      offer for sale and sell pharmaceutical products comprising one or more
+      active ingredients coupled with PEG, and the limited right to grant
+      sublicenses to (i) third party contractors in connection with the
+      discovery, development and commercialization of such products by or on
+      behalf of SCHERING or its Affiliates, and/or (ii) SCHERING's, or its
+      Affiliates', third party licensees and/or distributors of such products."
+
+                                     E-141
+<PAGE>
+
+
+8. It is the intent of the parties that ENZON shall be primarily responsible for
+the prosecution, maintenance and defense of the U-PEG Patent Rights, at ENZON's
+expense, and that the provisions of Article 5 of the Agreement which govern the
+performance of such activities with regard to ENZON Patent Rights will also
+control with respect to the U-PEG Patent Rights.
+
+9.    Delete Article 7.1(b) and insert in its place the following:
+
+      "(b)  In each calendar year during the term of this Agreement, in
+            connection with SCHERING's sales of Agreement Product which do not
+            require payment of a royalty under Article 7-1(a) above, if
+            Competition (as defined in Article 7.1(d) below) exists in any such
+            country, SCHERING shall pay ENZON a royalty of ***."
+
+10.   Delete Article 7.1(c) and insert in its place the following:
+
+      "(c)  In each calendar year during the term of this Agreement, in
+            connection with SCHERING's sales of Agreement Product which do not
+            require payment of a royalty under Article 7.1(a) above, if
+            Competition does not exist in any such country, SCHERING shall pay
+            ENZON a royalty of ***."
+
+11.   Delete Article 7.1(d) and insert in its place the following:
+
+      "(d)  For purposes of this Article 7, "Competition" shall mean sales by a
+            party or parties (other than Roche, or SCHERING and its Affiliates,
+            or the licensees, distributors or agents of any of the foregoing) in
+            any country of the Territory, of a competitive product which
+            contains alpha interferon (as a significant active ingredient)
+            coupled with PEG to produce a longer-lasting product, with respect
+            to which product claims are made which are substantially similar to
+            those of Agreement Product, and the promotion, marketing or sale of
+            such competitive product does not infringe any of the Patent Rights
+            or Know-How exclusively licensed to SCHERING hereunder (or for
+            which, because of weak or ineffective intellectual property law in a
+            country or countries, there exists no effective patent of know-how
+            protection) and: (1) the sales of such competitive product made by
+            any one party equal *** or, (2) the sales of such competitive
+            product by two or more parties equal, with respect to such party,
+            *** but, considering the sales of such competitive product made by
+            all such parties in the aggregate, equal ***."
+
+12.   Add new Articles 7.3 and 7.4 as follows:
+
+      "7.3 Notwithstanding the terms of Article 7.2, SCHERING will not be
+      entitled to deduct any amount paid as Third-Party Royalties to F. Hoffmann
+      La Roche Ltd. or its Affiliates ("Roche") as a result of any Roche Patent
+      Rights which may be infringed by SCHERING's sales of Agreement Product.
+      SCHERING shall have the right, in its sole discretion, to negotiate the
+      settlement of any claim or action related to the infringement of
+
+*** Indicates the omission of confidential material pursuant to a request for
+confidential treatment made in accordance with Rule 24b-2 under the Securities
+Exchange Act of 1934, as amended. The Confidential material is being filed
+separately with the Secretary to the Securities and Exchange Commission.
+
+
+                                     E-142
+<PAGE>
+
+
+      any Roche Patent Rights. SCHERING will allow ENZON to participate in such
+      negotiations.
+
+      7.4 ***
+
+13.   Add the following new provision to the end of Article 8.1:
+
+      "SCHERING's obligation to pay royalties on sales of Agreement Product
+      shall expire, unless terminated earlier as expressly provided in Article
+      9, on a country-by-country basis upon the longer of(a) the life in each
+      country of the last to expire of the ENZON Patent Rights for which a Valid
+      Claim exists, including any patent extension (or other governmental action
+      which has the effect of extending the period of market exclusivity of the
+      patent owner) which is permitted by law and obtained, or (b) fifteen (15)
+      years from the date on which Agreement Product is first approved for
+      commercial marketing in each such country."
+
+l4.   Delete Article 9.1 and insert in its place the following:
+
+      "9.1 This Agreement shall be made effective on the date first written
+      above and shall continue in effect, unless terminated earlier as expressly
+      provided herein, for a term which shall expire, on a country-by-country
+      basis, upon the longer of (a) the duration of SCHERING's obligation to pay
+      royalties in each country, as set forth Article 8.1, or (b) the life in
+      each country of the last to expire of the U-PEG Patent Rights and/or
+      Licensed ENZON Patent Rights, including any patent extension (or other
+      governmental action which has the effect of extending the period of market
+      exclusivity of the patent owner) which is permitted by law and obtained
+      ("Term")."
+
+15.   In Article 10.3, in lines three and four, delete the term -- and the
+      Supply Agreement --.
+
+16.   Delete Article 10.7 and insert in its place the following:
+
+      "10.7 During the term of this Agreement Enzon shall maintain an adequate
+      insurance program for liability insurance, including products liability
+      and contractual liability insurance, to cover its obligations under this
+      Agreement."
+
+17. It is the intent of the parties that during and after the term of the
+Agreement SCHERING shall have the right to utilize any Development Know-How
+developed by SCHERING, either alone or jointly with ENZON, as well as any
+Licensed ENZON Patent Rights, SCHERING Independent Know-How and SCHERING
+Existing Know-How, to independently develop and commercialize products in which
+one or more active ingredients, whether proteins (other than Agreement
+
+*** Indicates the omission of confidential material pursuant to a request for
+confidential treatment made in accordance with Rule 24b-2 under the Securities
+Exchange Act of 1934, as amended. The Confidential material is being filed
+separately with the Secretary to the Securities and Exchange Commission.
+
+
+                                     E-143
+<PAGE>
+
+
+Substance) or other compounds, are coupled with PEG ("Other Products"). The
+parties acknowledge and agree (i) that any and all Other Products are outside
+the scope of the Agreement, (ii) that nothing contained in the Agreement or this
+Amendment Agreement shall be construed, either expressly, by estoppel or
+otherwise, as granting or otherwise providing to ENZON any license or other
+rights in or to such Other Products, and (iii) that ENZON will not be entitled
+to any milestone payments or royalties under the Agreement or this Amendment
+Agreement with respect thereto. In order to give effect to the intent of the
+parties the Agreement is hereby amended as follows:
+
+      (a)   Delete Article 2.12 and insert in its place the following:
+
+            "2.12 Nothing herein shall be construed to prevent SCHERING from
+            independently developing its own technology for combining PEG with
+            polypeptides and other compounds for any use whatsoever."
+
+      (b)   Delete Article 3.2(a) and insert in its place the following:
+
+            "3.2(a) In consideration of the payments made by SCHERING to ENZON
+            under the June 30, 1995 letter agreement, ENZON has transferred to
+            SCHERING Know-How, owned and controlled by ENZON as of June 30,
+            1995, which is necessary to acquire PEG from third party vendors for
+            conversion to Bulk Concentrate and to manufacture Bulk Concentrate,
+            and to obtain regulatory approvals to manufacture Bulk Concentrate
+            and Agreement Product, and to market Agreement Product. Further to
+            its obligations specified in Article 11, SCHERING will not disclose
+            such ENZON Know-How to any party other than a SCHERING Affiliate, a
+            government authority required to approve the registration or sale of
+            Agreement Product or other products developed by SCHERING, or a
+            vendor producing PEG for SCHERING provided such vendor has an
+            obligation of confidentiality to SCHERING in connection therewith.
+            Further, SCHERING shall only disclose or allow access of such ENZON
+            Know-How to only those persons described in this Article 3.2(a) who
+            need such knowledge or access, as strictly interpreted, in
+            connection with the above stated purposes.
+
+18.   Add the following new representations and warranties to Article 10:
+
+      "10.14 ENZON represents and warrants (a) that it has the sole, full and
+      complete right, title and interest in the U-PEG Patent Rights, (b) that it
+      has the full right, power and authority to grant the licenses and other
+      rights granted to SCHERING under this Amendment Agreement, and (c) that as
+      of the effective date of this Amendment Agreement there are no claims,
+      judgments or settlements against or owed by ENZON relating to the U-PEG
+      Patent Rights, and to the best of ENZON's knowledge there are no pending
+      or threatened claims or litigation, relating to the U-PEG Patent Rights
+      which have not been disclosed by ENZON to SCHERING, except Civil Action
+      98-5597 commenced by ENZON against Shearwater Polymers, Inc. in the State
+      of Alabama.
+
+      10.15 Each of SCHERING and ENZON represents and warrants that it has the
+      right to enter into this Amendment Agreement and has no obligation, or
+      knows of no obstacle, which would prevent it from carrying out its
+      obligations and responsibilities hereunder.
+
+      10.16 ENZON represents and warrants that the representations and
+      warranties set forth in Article 10.9 remain true and in full force and
+      effect as of the effective date of this Amendment Agreement.
+
+
+                                     E-144
+<PAGE>
+
+
+      10.17 ENZON represents and warrants that as of the effective date of this
+      Amendment Agreement it has the requisite corporate power and authority to
+      enter into and perform its obligations hereunder, that the execution and
+      delivery of this Amendment Agreement by ENZON and the consummation of the
+      transactions contemplated hereunder have been duly authorized by ENZON's
+      Board of Directors and no further consent or authorization of ENZON's
+      Board of Directors or stockholders is required. This Amendment Agreement
+      has been duly executed and delivered by ENZON and constitutes a valid and
+      binding obligation of ENZON, enforceable against ENZON in accordance with
+      its terms, except as such enforceability may be limited by applicable
+      bankruptcy, insolvency, or reorganization, moratorium, liquidation, or
+      similar laws relating to, or affecting generally the enforcement of
+      creditor's rights and remedies or by other equitable principles of general
+      application.
+
+      10.18 ENZON represents and warrants (a) that to the best of ENZON's
+      knowledge based on diligent inquiry, as of the effective date of this
+      Amendment Agreement the U-PEG Patent Rights are free and clear of any
+      liens, charges or encumbrances, and no other person, corporate or private
+      entity, or governmental entity or subdivision thereof, has or shall have
+      any claim of ownership with respect to such U-PEG Patent Rights, (b) that
+      during the Term of the Agreement ENZON will use reasonable diligent
+      efforts not to diminish the rights under the U-PEG Patent Rights granted
+      to SCHERING hereunder, including without limitation, by not committing or
+      permitting any actions or omissions which would cause the breach of any
+      third party agreements relating to the U-PEG Patent Rights, that it will
+      provide SCHERING promptly with notice of any such alleged breach, and that
+      as of the effective date of this Amendment Agreement, ENZON is in
+      compliance in all material respects with all such third party agreements,
+      if any."
+
+19. The parties acknowledge and agree that the licenses under the U-PEG Patent
+Rights granted to SCHERING under this Amendment Agreement are licenses of
+rights to intellectual property and are subject to the provisions set forth in
+Amendment 24 of the Letter of Agreement dated June 30, 1995.
+
+      Except as expressly amended and supplemented hereby, all other terms of
+the Agreement shall remain in full force and effect.
+
+      IN WITNESS WHEREOF, the parties hereto have caused this Amendment
+Agreement to be executed in duplicate by their duly authorized representatives.
+
+                                                               ------------
+                                                               LEGAL REVIEW
+
+                                                                [INITIALS]
+                                                               ------------
+
+ENZON, INC.                              SCHERING CORPORATION
+
+
+BY: /s/ John P. Caruso                   BY: /s/ David Poorvin, Ph.D.
+   ------------------------------           -----------------------------------
+
+NAME: John P. Caruso                     NAME:  David Poorvin, Ph.D.
+     ----------------------------             ---------------------------------
+
+TITLE: VP - Admin & Gen. Counsel         TITLE: Vice President
+      ---------------------------              --------------------------------
+
+DATE: 6/24/99                            DATE:  23 June 1999
+     ----------------------------             ---------------------------------
+
+
+                                     E-145
+<PAGE>
+
+
+                                              Amendment No. 6 September 13, 1999
+
+                                   AMENDMENT
+
+      This "Amendment" effective as of the last date on the signature page
+hereof, by and between Enzon, Inc. ("ENZON") and Schering Corporation
+("SCHERING") amends and supplements that certain Development, License and Supply
+Agreement between ENZON and SCHERING dated November 14, 1990, as amended by:
+the Amendment Agreement effective June 24, 1999, the Letter Amendment effective
+June 30, l995, and the amendment letters of March 2, 1993, October 30, 1992 and
+December 10, 1991 (collectively, the "Agreement").
+
+      WHEREAS, the parties desire to clarify the scope of certain provisions of
+the Agreement relating to (i) non-competition restrictions imposed on ENZON,
+(ii) ENZON's rights under ENZON Patent Rights to which SCHERING may acquire
+title under the terms of the Agreement, and (iii) assignment or change of
+control;
+
+      NOW THEREFOR, The parties hereby agree to further amend the Agreement as
+follows:
+
+      Except as expressly defined herein, all capitalized terms shall have the
+meanings set forth in the Agreement, as amended.
+
+1.    Delete Article 2.13 and insert in its place the following:
+
+      "2.13 During the term of this Agreement, anything to the contrary
+      contained herein notwithstanding, ENZON and its Affiliates shall not
+      develop any product containing PEG and alpha interferon for itself or with
+      or for any third party, nor shall it or its Affiliates enter into
+      discussions or negotiations with any third party concerning any product
+      containing PEG and alpha interferon."
+
+2.    Delete Article 5.1.2 and insert in its place the following:
+
+      "5.1.2 ENZON shall notify SCHERING immediately (1) whenever it files a
+      patent application related to the ENZON Patent Rights in any country; and
+      (2) whenever it is considering discontinuance of the prosecution or
+      maintenance of such a patent application. If ENZON shall fail to file a
+      patent application related to the ENZON Patent Rights in any country it
+      shall notify SCHERING immediately in writing, and (a) if ENZON does not
+      initiate the filing process within ninety (90) days after written request
+      to do so from SCHERING, or (b) if ENZON does not continue prosecution or
+      maintenance of such a patent application related to the ENZON Patent
+      Rights which it has initiated pursuant to the Article 5.1.1 above within
+      ninety (90) days after written notice from SCHERING, SCHERING shall have
+      the option to file or continue prosecution in its own name and at
+      SCHERING's cost. In either such case (a) or (b), ENZON shall do all acts
+      necessary to assign and vest title to and transfer control of such patent
+      application in that country in a timely fashion to SCHERING for no
+      additional consideration. SCHERING hereby covenants that during the term
+      of this Agreement SCHERING and its Affiliates shall not file or initiate
+      any suit or other legal action or proceedings against ENZON with respect
+      to any products, with the exception of products containing both PEG and
+      alpha interferon, for infringement of any patents acquired, or obtained by
+      SCHERING from patent applications filed and/or prosecuted by SCHERING,
+      under this Section 5 1.2 in the
+
+
+                                     E-146
+<PAGE>
+
+
+      Territory, The covenant not to sue set forth in this Section 5.1.2 is
+      personal to ENZON and shall not be transferred or assigned to any third
+      party."
+
+3.    Delete Article 13.2 and insert in its place the following:
+
+      "13.2 Either party hereto may assign this Agreement, without the other
+      party's consent, to a third party in a transaction in which all the assets
+      of the assigning party relating to Agreement Product are sold or assigned;
+      provided such third party was not selling (directly or through an
+      Affiliate) a product competitive to the Agreement Product prior to such
+      assignment.
+
+      In the event of any such permitted assignment, transfer or designation,
+      the assignee, transferee or designee shall assume and be bound by the
+      provisions of this Agreement."
+
+4.    Add new Article 13.3 as follows:
+
+      "13.3 In the event that any assignment pursuant to Section 13.1 or 13.2
+      causes ENZON's rights and obligations hereunder to pass to any third party
+      which itself or through an Affiliate is developing, manufacturing,
+      marketing, distributing or selling a product competitive to the Agreement
+      Product, then SCHERING's obligation under Section 2.6 to keep ENZON
+      informed and provide quarterly reports with respect to the Development
+      Program shall immediately terminate."
+
+      Except as expressly amended and supplemented hereby, all other terms of
+the Agreement shall remain in full force and effect.
+
+      IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be
+executed in duplicate by their duly authorized representatives.
+
+                                                               ------------
+                                                               LEGAL REVIEW
+
+                                                                [INITIALS]
+                                                               ------------
+
+ENZON, INC.                              SCHERING CORPORATION
+
+
+BY: /s/ John Caruso                      BY: /s/ David Poorvin, Ph.D.
+   ------------------------------           -----------------------------------
+
+NAME: John Caruso                        NAME:  David Poorvin, Ph.D.
+     ----------------------------             ---------------------------------
+
+TITLE: VP - Admin & GC                   TITLE: Vice President
+      ---------------------------              --------------------------------
+
+DATE: 9/13/99                            DATE:   8 September 1999
+     ----------------------------             ---------------------------------
+
+
+                                     E-147
+<PAGE>
+
+
+                                                                 Amendment No. 7
+
+                                    AMENDMENT
+
+            WHEREAS, Schering Corporation ("Schering") and Enzon, Inc. ("Enzon")
+are parties to that certain Development, License and Supply Agreement having an
+effective date of November 14, 1999, as amended (the "Agreement"),
+
+            WHEREAS, Schering's parent company is a party to Hoffman-LaRoche
+Inc. v. Schering-Plough Corp., Civil Action No. 00-79 (JAG) pending in the U.S.
+District Court for the District of New Jersey (the "Roche v. Schering case"),
+
+            WHEREAS, Enzon commenced on September 5, 2000 a suit for patent
+infringement against Hoffman-La Roche Inc. and Roche Laboratories Inc. in
+Federal court in New Jersey (the "Enzon v. Roche" case), and
+
+            WHEREAS, Schering and Enzon wish to clarify the effect of the
+Agreement, including paragraph 2.13 thereof, on (i) the grant of a license or
+sublicense under the U-PEG Patent Rights (as defined in the Agreement) to
+Hoffman-LaRoche Inc., Roche Laboratories Inc., or their parents, subsidiaries,
+affiliates, successors, assigns or third parties acting on their behalf
+(collectively, "Roche"); and (ii) the settlement of Roche v. Schering.
+
+            THEREFORE, the Agreement is hereby amended as follows:
+
+      1.    Schering shall have sole authority to negotiate and settle (i) Roche
+            v. Schering; and (ii) the Enzon v. Roche and/or related cases ("the
+            Cases") (including the right to assume control of the Cases in the
+            event Enzon decides to discontinue such cases for any reason) or
+            license Roche under the U-PEG Patent Rights in the field of
+            pegylated alpha interferon; and Enzon shall not settle the Cases
+            with or license Roche or directly or
+
+                                  CONFIDENTIAL
+
+
+                                     E-148
+<PAGE>
+
+
+            impliedly a third party to enable Roche to make, use, sell, offer to
+            sell or import pegylated alpha interferon products under the U-PEG
+            Patent Rights without Schering's written consent (except as provided
+            below).
+
+      2.    If a settlement between Schering and Roche results in withdrawal of
+            PEG-INTRON from the United States market, then Enzon shall have the
+            right to negotiate and settle the Cases with Roche under terms as
+            Enzon sees fit, including the grant of a license to Roche under the
+            U-PEG Patent Rights.
+
+      3.    Schering shall not sublicense Roche under the U-PEG Patent Rights
+            except as part of a settlement that (i) licenses or releases
+            Schering under Roche's U.S. patent(s) covering PEG-INTRON; and (ii)
+            releases Enzon from any counterclaims or demands asserted against
+            Enzon by Roche (on behalf of Roche and not on behalf of a third
+            party) relating to the U-PEG patents or in the field of pegylated
+            alpha interferon products.
+
+      4.    If Schering grants a sublicense under the U-PEG Patent Rights to
+            Roche to settle the Roche v. Schering or Enzon v. Roche or related
+            cases that results in royalties or royalty equivalents from Roche to
+            Schering in connection with a license to Roche under the U-PEG
+            patent rights, such royalties and royalty equivalents that exceed
+            the value of any royalties or royalty equivalents paid by Schering
+            to Roche under a license to Schering under the Roche patents
+            relating to urethane linked pegylated interferon shall be divided
+            equally between Schering and Enzon. A license under the Roche
+            patents for Schering to market PEG-INTRON shall not be considered
+            royalty or royalty equivalents to Schering and is not subject to
+            division with Enzon hereunder. In the event of a dispute between
+            Schering and Enzon regarding whether Schering has received royalties
+            or royalty equivalents from Roche that exceed the value of any
+
+
+                                     E-149
+<PAGE>
+
+
+            royalties or royalty equivalents paid by Schering to Roche, such
+            dispute shall be resolved pursuant to the arbitration provision in
+            the Agreement.
+
+      5.    This Amendment contains the entire agreement of the parties
+            concerning the subject matter set forth herein. Except as expressly
+            amended by this Amendment, all terms of the Agreement and all
+            previous amendments shall remain in full force and effect.
+
+            IN WITNESS WHEREOF, the parties have caused this Amendment to be
+executed in duplicate by their duly authorized representatives.
+
+ENZON, INC.                              SCHERING CORPORATION
+
+
+By:                                      By: /s/
+   ------------------------------           -----------------------------------
+   Authorized Representative                  Authorized Representative
+
+Date:                                    Date:
+     ----------------------------             ---------------------------------
+
+
+                                     E-150
+<PAGE>
+
+
+                                                 Amendment No. 8 August 10, 2001
+
+                                    AMENDMENT
+
+      This "Amendment" effective as of the last date on the signature page
+hereof, by and between Enzon, Inc. ("ENZON") and Schering Corporation
+("SCHERING") amends and supplements that certain Development, License and Supply
+Agreement between ENZON and SCHERING dated November 14, 1990, as amended (the
+"Agreement").
+
+      WHEREAS, the parties desire to clarify the scope of certain provisions of
+the Agreement relating to SCHERING's rights under the ENZON Patent Rights and
+the Licensed ENZON Patent Rights;
+
+      NOW THEREFORE, the parties hereby agree to further amend the Agreement as
+follows:
+
+      Except as expressly defined herein, all capitalized terms shall have the
+meanings set forth in the Agreement, as amended.
+
+1.    Amend Article 1.2 of the Agreement by adding the following new provision
+      to the end of the first sentence of that Article:
+
+      ", whether or not developed by SCHERING under this Agreement."
+
+2.    Add the following new provision to the end of Article 2.13:
+
+      "The parties acknowledge and agree that nothing in this Article 2.13 shall
+      be construed as preventing Enzon from acquiring, through merger,
+      acquisition or other similar transaction, all or substantially all of the
+      business and assets of Shearwater Polymers, Inc. ("Shearwater") or from
+      entering into discussions or negotiations with Shearwater with regard to
+      such an acquisition."
+
+3.    Amend Article 2 of the Agreement by adding the following new provisions:
+
+      "2.14 During the term of this Agreement and subject to receipt of the
+      necessary regulatory approvals, SCHERING shall use commercially
+      reasonable efforts to market, promote, distribute and sell an Agreement
+      Product developed by SCHERING or its Affiliates under this Agreement in
+      the United States, United Kingdom, France, Germany, Italy and Spain and in
+      any other countries where in SCHERING's opinion it is commercially viable
+      to do so. Such commercially reasonable efforts shall be consistent with
+      the usual practice followed by SCHERING in pursuing the commercialization
+      and marketing of its other pharmaceutical products of similar potential,
+      value and status. The parties acknowledge and agree that all business
+      decisions relating to the commercialization of the Agreement Product,
+      including, without limitation, decisions relating to registration, design,
+      manufacture, sale, commercialization, pricing, distribution, marketing and
+      promotion of
+
+                                     E-151
+<PAGE>
+
+
+                                     No. 8
+
+      Agreement Products, shall be within the sole discretion of SCHERING
+      exercised in good faith.
+
+      2.15 SCHERING's obligations with respect to commercialization of Agreement
+      Product under Article 2.14 are expressly conditioned upon the continuing
+      absence of any adverse condition or event which warrants a delay in
+      commercialization of the Agreement Product, including, but not limited to,
+      an adverse condition or event relating to the safety or efficacy of the
+      Agreement Product, or unfavorable labeling, pricing or pricing
+      reimbursement approvals, or lack of regulatory approval, and such
+      obligations shall be delayed or suspended so long as in SCHERING's
+      reasonable opinion any such condition or event exists."
+
+4.    Amend Article 4 of the Agreement by adding the following new provision:
+
+      "4.13 The rights granted to SCHERING under the ENZON Patent Rights in
+      Article 4.7 and the Licensed ENZON Patent Rights in Article 4.12 shall, to
+      the extent not previously granted, additionally include the right to grant
+      a royalty bearing, non-transferable, non-exclusive sublicense, with no
+      right to grant sublicenses to others, to Hoffmann-LaRoche Inc., F.
+      Hoffmann-LaRoche Ltd. and their respective Affiliates (collectively,
+      "Roche") in the Territory (as such term is defined in the Settlement and
+      License Agreement by and between SCHERING and Roche, dated as of August
+      10, 2001 (the "Settlement Agreement") to Commercialize Licensed Roche
+      Product under the Enzon Patent Rights (as such terms are defined in the
+      Settlement Agreement)."
+
+5.    Delete Article 7.1(b) in its entirety and insert in its place the
+      following:
+
+            (b)   In each calendar year during the term of this Agreement, in
+                  connection with Net Sales of Agreement Product which do not
+                  require payment of a royalty under Article 7.1(a) above, if
+                  Competition (as defined in Article 7.1(d) below) exists in any
+                  such country, SCHERING shall pay ENZON a royalty of ***.
+
+6.    Delete Article 7.1(c) in its entirety and insert in its place the
+      following:
+
+            (c)   In each calendar year during the term of this Agreement, in
+                  connection with Net Sales of Agreement Product which do not
+                  require payment of a royalty under Article 7.1(a) above, if
+                  Competition does not exist in any such country, SCHERING shall
+                  pay ENZON a royalty of ***.
+
+7.    Amend Article 7.1 of the Agreement by adding the following new provision:
+
+*** Indicates the omission of confidential material pursuant to a request for
+confidential treatment made in accordance with Rule 24b-2 under the Securities
+Exchange Act of 1934, as amended. The Confidential material is being filed
+separately with the Secretary to the Securities and Exchange Commission.
+
+
+                                     E-152
+<PAGE>
+
+
+            (c)   The parties understand and agree that, except as expressly set
+                  forth in section 4 of the Amendment to the Agreement dated
+                  September 22, 2000, nothing in this Agreement shall give rise
+                  to any right by ENZON to receive or claim entitlement to any
+                  royalty payments from SCHERING and its Affiliates, nor shall
+                  SCHERING or its Affiliates have any obligation to make any
+                  royalty payments to ENZON or its Affiliates, under this
+                  Agreement in connection with any sublicense or other rights
+                  granted by SCHERING in the Territory to Roche under the
+                  Settlement Agreement and/or the commercialization of Agreement
+                  Products by Roche pursuant to such sublicense under the
+                  Settlement Agreement (including, without limitation, the
+                  manufacture of Agreement Products on behalf of Roche by
+                  Shearwater and its Affiliates), provided that royalties on
+                  Agreement Product sold by SCHERING or its Affiliates will
+                  become payable at such time, if any, as Roche becomes an
+                  Affiliate of SCHERING. It is understood and agreed that the
+                  provisions of the immediately preceding sentence shall apply
+                  on a country-by-country basis only for so long as such
+                  sublicense granted by SCHERING to Roche under the Settlement
+                  Agreement remains in effect."
+
+8.    Delete Article 9.2(b) in its entirety.
+
+9.    Amend Article 13 of the Agreement by adding the following new provision:
+
+      "l3.4 Nothing in this Agreement shall preclude Roche from becoming an
+      Affiliate of SCHERING if Roche should otherwise come within the definition
+      of Affiliate set forth in Article 1.1 of the Agreement.
+
+      Except as expressly amended and supplemented hereby, all other terms of
+the Agreement shall remain in full force and effect.
+
+      IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be
+executed in duplicate by their duly authorized representatives.
+
+ENZON, INC.                              SCHERING CORPORATION
+
+
+BY: /s/ Arthur Higgins                   BY:
+   ------------------------------           -----------------------------------
+
+NAME: Arthur Higgins                     NAME:  David Poorvin, Ph.D.
+     ----------------------------             ---------------------------------
+
+TITLE: President and CEO                 TITLE: Vice President
+      ---------------------------              --------------------------------
+
+DATE: August 10, 2001                    DATE:
+     ----------------------------             ---------------------------------
+
+
+                                     E-153
+<PAGE>
+
+
+            (e)   The parties understand and agree that, except as expressly set
+                  forth in section 4 of the Amendment to the Agreement dated
+                  September 22, 2000, nothing in this Agreement shall give rise
+                  to any right by ENZON to receive or claim entitlement to any
+                  royalty payments from SCHERING and its Affiliates, nor shall
+                  SCHERING or its Affiliates have any obligation to make any
+                  royalty payments to ENZON or its Affiliates, under this
+                  Agreement in connection with any sublicense or other rights
+                  granted by SCHERING in the Territory to Roche under the
+                  Settlement Agreement and/or the commercialization of Agreement
+                  Products by Roche pursuant to such sublicense under the
+                  Settlement Agreement (including, without limitation, the
+                  manufacture of Agreement Products on behalf of Roche by
+                  Shearwater and its Affiliates), provided that royalties on
+                  Agreement Product sold by SCHERING or its Affiliates will
+                  become payable at such time, if any, as Roche becomes an
+                  Affiliate of SCHERING. It is understood and agreed that the
+                  provisions of the immediately preceding sentence shall apply
+                  on a country-by-country basis only for so long as such
+                  sublicense granted by SCHERING to Roche under the Settlement
+                  Agreement remains in effect."
+
+8.    Delete Article 9.2(b) in its entirety.
+
+9.    Amend Article 13 of the Agreement by adding the following new provision:
+
+      "13.4 Nothing in this Agreement shall preclude Roche from becoming an
+      Affiliate of SCHERING if Roche should otherwise come within the definition
+      of Affiliate set forth in Article 1.1 of the Agreement.
+
+      Except as expressly amended arid supplemented hereby, all other terms of
+the Agreement shall remain in full force and effect.
+
+      IN WITNESS WHEREOF, the parties hereto have caused this Amendment to be
+executed in duplicate by their duly authorized representatives.
+
+                                                               ------------
+                                                               LEGAL REVIEW
+
+                                                                [INITIALS]
+                                                               ------------
+
+ENZON, INC.                              SCHERING CORPORATION
+
+
+BY:                                      BY: /s/ David Poorvin, Ph.D.
+   ------------------------------           -----------------------------------
+
+NAME:                                    NAME:  David Poorvin, Ph.D.
+     ----------------------------             ---------------------------------
+
+TITLE:                                   TITLE: Vice President
+
+      ---------------------------              --------------------------------
+
+DATE:                                    DATE:  10 August 2001
+     ----------------------------             ---------------------------------
+
+
+                                     E-154
+
+</TEXT>
+</DOCUMENT>

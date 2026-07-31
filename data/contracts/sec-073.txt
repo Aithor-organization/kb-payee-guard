@@ -1,0 +1,5720 @@
+EX-10.14
+8
+dex1014.htm
+LICENSE AND DISTRIBUTION AGREEMENT
+
+LICENSE AND DISTRIBUTION AGREEMENT
+
+Exhibit 10.14 
+ 
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE
+SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+ 
+EYELEVEL INTERACTIVE, LLC 
+
+LICENSE AND DISTRIBUTION AGREEMENT 
+ 
+(FRACTIONAL FRANCHISE OFFERING) 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND
+FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+ 
+TABLE OF CONTENTS 
+
+ 1.
+
+DEFINITIONS
+
+ 1
+
+ 2.
+
+GRANT OF RIGHTS AND LICENSE
+
+ 1
+
+ 3.
+
+[*]
+
+ 2
+
+ 4.
+
+CUSTOMER PROTECTIONS
+
+ 2
+
+ 5.
+
+CUSTOMER RESTRICTIONS
+
+ 3
+
+ 6.
+
+TERM AND RENEWAL
+
+ 3
+
+ 7.
+
+TRAINING AND SUPPORT
+
+ 5
+
+ 8.
+
+COMMENCEMENT OF BUSINESS
+
+ 6
+
+ 9.
+
+ADVERTISING & MARKETING
+
+ 6
+
+ 10.
+
+OPERATING STANDARDS
+
+ 8
+
+ 11.
+
+MINIMUM PERFORMANCE REQUIREMENTS
+
+ 10
+
+ 12.
+
+FEES
+
+ 10
+
+ 13.
+
+EMPLOYEES
+
+ 13
+
+ 14.
+
+RESTRICTIVE COVENANTS
+
+ 13
+
+ 15.
+
+LICENSEE’S OTHER RESPONSIBILITIES
+
+ 15
+
+ 16.
+
+INSPECTION AND AUDIT
+
+ 17
+
+ 17.
+
+INTELLECTUAL PROPERTY
+
+ 18
+
+ 18.
+
+INDEMNITY
+
+ 20
+
+ 19.
+
+TRANSFERS
+
+ 21
+
+ 20.
+
+TERMINATION
+
+ 22
+
+ 21.
+
+POST-TERM OBLIGATIONS
+
+ 23
+
+ 22.
+
+DISPUTE RESOLUTION
+
+ 25
+
+ 23.
+
+REPRESENTATIONS AND ACKNOWLEDGEMENTS
+
+ 25
+
+ 24.
+
+GENERAL PROVISIONS
+
+ 28
+
+i 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ATTACHMENTS 
+
+ ATTACHMENT “A”
+ 
+ Definitions
+
+ ATTACHMENT “B”
+ 
+ Products
+
+ ATTACHMENT “C”
+ 
+ Territory
+
+ ATTACHMENT “D”
+ 
+ Exclusive Customers
+
+ ATTACHMENT “E”
+ 
+ Intellectual Property Usage Guidelines
+
+ ATTACHMENT “F”
+ 
+ Confidentiality and Nonsolicitation Agreement
+
+ ATTACHMENT “G”
+ 
+ Sample General Release
+
+ ATTACHMENT “H”
+ 
+ Software Enhancements
+
+ ATTACHMENT “I”
+ 
+ Master Licensor Agreement
+
+ii 
+
+LICENSE AND DISTRIBUTION AGREEMENT 
+
+This License and Distribution Agreement (this “Agreement”) is entered into this [4th] day of [January], 2011 (the “Effective Date”)
+between EYELEVEL INTERACTIVE, LLC, a Georgia limited liability company (“Licensor”) and Superior Uniform Group, Inc., a Florida corporation (“Licensee” or “Distributor”). Licensor and Distributor
+may be referred to herein as a “Party” or collectively as the “Parties.”’ 
+
+ 1.
+ DEFINITIONS. 
+
+Capitalized
+terms used in this Agreement are defined either in the body of this Agreement or in ATTACHMENT “A”. For capitalized terms that are defined in the body of this Agreement, ATTACHMENT “A” lists the Sections of this
+Agreement in which such terms are defined. 
+
+ 2.
+ GRANT OF RIGHTS AND LICENSE. 
+
+Licensor hereby grants Distributor the right and license to market, promote, sell and distribute all garments offered by Licensor that feature removable panels or other devices that display artwork, text
+or other images through any passive or active means (such as conventional printing or electronically controlled display means) (collectively, the “Products”) using the Intellectual Property solely within the geographic area
+identified in ATTACHMENT “C” (the “Territory”). Products also includes all mechanisms for electronic interaction with the garments, including, but not limited to, scan enabled codes and RFID technology. All
+Products offered by Licensor now or in the future shall be listed in ATTACHMENT “B”, as such list may be amended by Licensor from time to time in accordance with this Agreement. Distributor’s right to market, promote and sell
+Products in certain foreign countries that comprise the Territory is subject to the restrictions of Section 17.5. Except as otherwise provided in this Agreement, the rights and licenses granted to Distributor in this
+Section 2 are non-exclusive, meaning that Licensor and its Authorized Distributors shall have the unrestricted right to market, promote and sell Products and interactive mechanisms using the Intellectual Property in the Territory.
+
+1 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ 3.
+ [*] 
+
+ 4.
+ CUSTOMER PROTECTIONS. 
+
+4.1 Exclusive Rights. Distributor has the exclusive right and license to market and sell Products to Exclusive Customers, meaning
+that during the Term, and renewal term, Licensor shall not: (i) directly solicit or sell Products to any Exclusive Customer; or (ii) knowingly permit any Authorized Distributor to solicit or sell Products to any Exclusive Customer.
+Licensor agrees to take commercially reasonable steps to notify all of its Authorized Distributors of the identity of Exclusive Customers and to include in Licensor’s agreement with each Authorized Distributor a term stating that it is a
+material breach of the Agreement for the Authorized Distributor to solicit business from Distributor’s Exclusive Customers after being notified of the identity of Distributor’s Exclusive Customers. In the event that Licensor learns of an
+Authorized Distributor selling or soliciting to sell Products to one of Distributor’s Exclusive Customers, Licensor shall immediately notify said Authorized Distributor to cease and desist from such solicitation. In the event that said
+Authorized Distributor fails to cease and desist immediately, Licensor will: (i) subject to any applicable franchise relationship or distributor relationship laws, immediately terminate its distribution agreement with such Authorized
+Distributor in accordance with the terms thereof; (ii) cease to provide Products to said Authorized Distributor; and (iii) pursue an infringement action against such Authorized Distributor if the Authorized Distributor continues to offer
+or sell Products following the termination of the distribution agreement. 
+ 
+4.2 Qualification as an Exclusive Customer.
+An “Exclusive Customer” includes both “Tier 1” Exclusive Customers and “Tier 2” Exclusive Customers. A “Tier 1” Exclusive Customer is [*] Distributor’s customers acquired after the Effective
+Date will be added to the list of Exclusive Customers. A “Tier 2” Exclusive Customer is [*] Notwithstanding the foregoing, [*]. 
+ 
+4.3 Loss of “Exclusive Customer” Status. An Exclusive Customer may lose its status as an “Exclusive Customer,” in which case Licensor and its Authorized Distributors shall
+immediately thereafter be permitted to solicit and sell Products to such customer. A Tier I Exclusive Customer will lose its status as an “Exclusive Customer” only in the following situations:[*]. A Tier 2 Exclusive Customer will lose its
+status as an “Exclusive Customer” only in the following situations [*]. 
+ 
+4.4 No Interference by Licensor.
+Licensor agrees that it shall not knowingly interfere with any contractual relationship between Distributor and a Customer by offering to directly sell Products to such Customer. 
+
+2 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ 5.
+ CUSTOMER RESTRICTIONS. 
+
+Except as provided below, Distributor may only market, promote and sell Products to Customers who are the end-users of the Products.
+Distributor may not sell Products to distributors or other businesses for resale. This restriction does not apply to any entity that acts as a distributor of uniforms to an Exclusive Customer, provided that (i) the entity is not established by,
+or established pursuant to instructions or recommendations from, Distributor; (ii) Distributor notifies Licensor of such proposed arrangement and obtains Licensor’s approval, which shall not be unreasonably withheld or delayed; and
+(iii) the distributor shall not be considered a Customer or an Exclusive Customer for purposes of this Agreement. Licensor may require that Distributor obtain written acknowledgements from all Customers that they are purchasing Products for
+their own use and not for resale. Notwithstanding the foregoing, Distributor may, if authorized by a separately executed Manufacturing Agreement between Licensor and Distributor, sell Products to Licensor and Authorized Distributors in accordance
+with the terms of the Manufacturing Agreement. Distributor may not solicit or sell Products to any customer that Licensor identifies as an “exclusive customer” of another Authorized Distributor. Distributor may only sell Products to
+Customers who maintain a place of business that is physically located within the Territory. 
+
+ 6.
+ TERM AND RENEWAL. 
+
+6.1 Generally. The term of this Agreement will begin on the Effective Date and expire three (3) years and 180 days after the
+Effective Date (the “Term”). Distributor may renew this Agreement for additional three (3) year renewal terms as long as Distributor meets the conditions for renewal specified below. Except as provided in Section 21.1,
+Distributor will have no further right to market, promote or sell Products following the expiration of the final renewal term unless Licensor grants Distributor additional distribution rights in Licensor’s sale discretion. 
+
+6.2 Renewal Requirements. In order to renew this Agreement, Distributor must: (i) notify Licensor in writing of
+Distributor’s desire to renew not less than 90 days nor more than 180 days before the expiration of the Term or renewal term, as applicable; (ii) not be in default under this Agreement or any Manufacturing Agreement with Licensor at the
+time Distributor sends the renewal notice or the time the renewal term begins; (iii) sign a Mutual General Release in which Licensor and Distributor release each other from all known or unknown claims arising under this Agreement, except for
+claims under provisions which survive termination of this Agreement; (iv) sign Licensor’s then current form of License and Distribution Agreement that Licensor uses in granting distribution rights to Similarly Situated Authorized
+Distributors as of beginning of the renewal term, except that the provisions of Section 3, Section 4, Section 12 and Section 14 shall be incorporated into each renewal agreement; and (v) take any
+additional action that Licensor reasonably requires. 
+
+3 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+6.3 Interim Term. If this Agreement is not renewed and the Parties continue to
+accept the benefits of this Agreement after it expires, then this Agreement will, after the expiration of the Sell-Off Period described in Section 21.1, be continued on a month-to-month basis (the “Interim Term”) until
+either Party provides the other Party with 30 days’ prior written notice of the Party’s intention to terminate the Interim Term. In such case, each Party’s obligations will remain in full force and effect during the Interim Term as if
+this Agreement had not expired, and all obligations and restrictions imposed on a Party upon the expiration or termination of this Agreement will be deemed to take effect upon the termination of the Interim Term. 
+
+6.4 Insolvency of Licensor or Termination of a Master License Agreement. To protect Distributor from any harm or damages that may
+result (a) in the event that Licensor files a voluntary petition in bankruptcy or any pleading seeking any reorganization, liquidation, dissolution, assignment for the benefit of creditors, composition or other settlement with creditors under
+any law, or Licensor becomes the subject of an involuntary bankruptcy (which mayor may not be enforceable under the Bankruptcy Code) and as a result, Licensor is unable to fulfill its obligations under this Agreement, or (b) from the
+termination of any Master Licensor Agreement (defined below) entered into between Licensor and PANELVISION, LLC (“PANELVISION”) due to Licensor’s uncured material default, PANELVISION and Distributor shall concurrently herewith
+enter into an “Agreement” and a separate “License and Distribution Agreement” that is attached to such Agreement (collectively, the “Master Licensor Agreements”). A true and correct copy of the Master Licensor
+Agreements are attached hereto as Exhibit I. Licensor shall fully support the Master Licensor Agreements, and shall not object or otherwise interfere with the PANELVISION’s or Distributor’s rights and obligations thereunder.
+
+6.5 Rights of Distributor Upon Bankruptcy or Insolvency of Licensor and/or PANELVISION. The provisions of paragraphs
+6.6 through 6.7 shall apply. 
+ 
+6.6 Licensor and Distributor acknowledge and agree that the Intellectual Property defined
+herein constitutes “Intellectual Property” as defined under Section 101 (35A) of the Bankruptcy Code. Licensor and Distributor further acknowledge and agree that the failure by Licensor to perform under this Agreement shall
+constitute a material breach of this Agreement, excusing Distributor from any obligations to perform under this Agreement. Licensor shall, upon written request, provide to Distributor the Intellectual Property which is held by or on behalf of
+Licensor. 
+ 
+6.7 In the event that this Agreement is rejected under Section 365 of the Bankruptcy Code, Distributor
+shall be entitled, at its sole discretion, to elect to retain all of the protections afforded to intellectual property licensees under 11 U.S.C. § 365(n), and to provide such Intellectual Property to any agents or third parties notwithstanding
+any non-disclosure or exclusivity provisions in this Agreement or the Master Licensor Agreement. In the event that Licensor files a voluntary petition in bankruptcy or any pleading seeking any Reorganization, liquidation, dissolution, assignment for
+the benefit of creditors, composition or other settlement with creditors under any law, or Licensor becomes the subject of an involuntary bankruptcy (which may or may not be enforceable under the Bankruptcy Code), Distributor shall be deemed
+
+4 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+to be a licensee under this Agreement and shall have all of the rights and remedies of a licensee hereunder and thereunder for purposes of II U.S.C. § 365(n), including without limitation,
+the right, upon the rejection of this Agreement in any case filed under the Bankruptcy Code with respect to Licensor, to treat this Agreement as terminated, or to retain Distributor’s rights under this Agreement, and under any agreements
+supplemental to this Agreement with respect to such rights (including any embodiment of the rights to the extent protected by applicable non-bankruptcy law), as such rights existed immediately before the Licensor’s bankruptcy case commenced. If
+Distributor elects to retain such licensed rights under this Agreement then Distributor may exercise such licensed rights in accordance with the terms and conditions of this Agreement. Nothing contained herein shall limit any other rights provided
+to Licensee under the Bankruptcy Code, including Section 365(n) thereof. 
+ 
+Except as otherwise permitted by this Section 6 and
+Section 21.1, Distributor has no right to continue to market, promote or sell Products following the expiration of the Term. 
+
+ 7.
+ TRAINING AND SUPPORT. 
+
+7.1 Initial Training Program. For no additional charge, Licensor agrees to provide an initial training program for all of
+Distributor’s officers and employees designated by Distributor who will be involved with the marketing, promotion and/or sale of Products. The initial training program shall be provided at Distributor’s headquarters at a mutually
+convenient time and shall last a minimum of two (2) days. The initial training program shall be designed to educate Distributor’s officers and employees about the features of the Products and related technology. The initial training
+program shall also address the marketing and promotion of Products as well as any other topics that Licensor deems necessary or appropriate in its commercially reasonable judgment. Distributor is solely responsible for all food, lodging and travel
+costs that Distributor’s officers and employees incur while attending the initial training program. 
+ 
+7.2 Periodic
+Training. From time to time, Licensor may conduct refresher or additional training courses for Distributor’s officers and employees designated by Distributor. Attendance at these training programs is mandatory. Licensor will not charge
+Distributor any fee to attend these mandatory training courses. Distributor is solely responsible for all food, lodging and travel costs that Distributor’s officers and employees incur while attending these training courses. 
+
+7.3 Additional Assistance. Upon Distributor’s written request, Licensor or its representative will provide additional
+assistance or training at a mutually convenient time. If Licensor provides the additional assistance or training at a location designated by Distributor, Licensor may charge Distributor a fee of: (i) [*] that a qualified “executive
+level” director or officer provides assistance or training at Distributor’s designated location; or (ii) [*] that any other qualified representative of Licensor provides assistance or training at Distributor’s designated
+location. Notwithstanding the foregoing, Licensor agrees that it will provide [*] of training and/or assistance by one or more “executive level” directors or officers at Distributor’s
+
+5 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+designated location without additional charge, except for the reasonable travel and living expenses associated with providing the assistance or training. Distributor is solely responsible for all
+travel and living expenses that Distributor’s officers and employees incur. The additional assistance fee covers all travel and living expenses incurred by the individual providing the assistance or training. The additional assistance fee will
+be invoiced on a monthly basis for all assistance and training provided during the prior month. The additional assistance fee is due ten (10) days after invoicing. 
+ 
+7.4 General Guidance. Licensor or its representatives will be available at any time during normal business hours to provide Distributor with guidance and recommendations with respect to the
+marketing, promotion and sale of Products. 
+
+ 8.
+ COMMENCEMENT OF BUSINESS. 
+
+Distributor must enter into its first Supply Contract or obtain at least one purchase order for Products within 180 days after the
+Effective Date. If Distributor intends to manufacture Products pursuant to a Manufacturing Agreement but Distributor is not in a position to deliver manufactured Products to Customers in accordance with the terms of the Supply Contract or any
+purchase order before the expiration of the 180 day period, Licensor shall arrange for Distributor to be able to purchase Products from Licensor or another authorized manufacturer at wholesale prices for a reasonable period of time to enable
+Distributor to fulfill such Products orders. Distributor may not begin marketing, promoting or selling Products before: (i) Distributor’s officers and employees complete the initial training program; (ii) Distributor purchases all
+required insurance; and (iii) Distributor obtains all required licenses, permits and other governmental approvals. 
+
+ 9.
+ ADVERTISING & MARKETING. 
+
+9.1 Marketing Fund. Recognizing the value of uniform advertising and promotion to the goodwill and public image of the Marks, Licensor will establish and maintain a marketing fund. Licensor will
+deposit at least 3% of the royalty fees and marketing fees that it receives from Distributor and other Authorized Distributors on an annual basis into the marketing fund. The marketing fund will be used for marketing, advertising, sales promotion
+and promotional materials, public and consumer relations, publicity, and any other programs that Licensor deems necessary or appropriate (“Marketing Campaigns”). Licensor has sole discretion in determining the content, concepts,
+materials, media, endorsements, frequency, placement, location and all other matters pertaining to any Marketing Campaign. Licensor will not use marketing fund fees to defray any of Licensor’s general operating expenses, except for such
+reasonable salaries, administrative costs and overhead as Licensor may incur in activities reasonably related to the administration of the marketing fund and the Marketing Campaigns (which may include, without limitation: conducting market research,
+preparing and conducting television, radio, magazine, billboard, newspaper and other media programs and activities and employing advertising agencies, and paying for the preparation and distribution of marketing materials and financial accountings
+of the operation of the marketing fund). Unless otherwise agreed to by Distributor in 
+
+6 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+its commercially reasonable discretion, Licensor on an annual basis will use reasonable efforts to expend monies from the marketing fund equal to the amount of the annual contribution. Any excess
+amount will be carried over and applied in the following calendar year. Any surplus of funds in the marketing fund may be invested and Licensor may lend money to the marketing fund if there is a deficit. The marketing fund is not a trust and
+Licensor has no fiduciary obligations to Distributor with respect to Licensor’s administration of the marketing fund. Upon request, Licensor will provide Distributor with an accounting of contributions into and disbursements from the marketing
+fund demonstrating compliance with this Section. 
+ 
+9.2 Other Marketing Assistance. Licensor will provide Distributor
+with its suggested marketing plan for the marketing and promotion of Products. On an annual basis, Distributor shall develop a customized marketing plan for the ensuing 12 month period. Licensor must review and approve Distributor’s annual
+marketing plan. Licensor will create and make available to Distributor advertising and other marketing materials. Licensor may make these materials available over the Internet (in which case there will be no fee but Distributor must arrange for
+printing the materials and paying all printing costs). Alternatively, Licensor may sell the advertising or marketing materials directly to Distributor or may enter into relationships with third party suppliers who will create the advertising or
+marketing materials for Distributor’s purchase. Licensor will provide reasonable marketing consulting, guidance and support throughout the Term and any renewal term on an as needed basis. 
+
+9.3 Approval of Advertising Involving Distributor or its Marks. Before Licensor uses them, Distributor must approve all
+advertising, press releases and promotional materials that Licensor creates that displays and/or refers to (i) the Distributor’s name or marks or (ii) the name or marks of the Distributor’s Exclusive or active Customers,
+including any website that Licensor maintains; provided, however, that Distributor’s approval right shall only apply to the section or sections of Licensor’s website that include the name or marks of Distributor and/or Distributor’s
+Exclusive Customers. Distributor will be deemed to have approved the materials if Distributor fails to issue its disapproval within 14 days after receipt. Licensor may not use any advertising or promotional materials that Distributor has
+disapproved. 
+ 
+9.4 Distributor’s Marketing Activities. 
+
+(a) Generally. Distributor must spend, on an annual basis, at least 1.5% of Distributor’s Gross Sales on advertising,
+marketing and promotion of the Products. Licensor must approve all such advertising in accordance with Section 9A(c). Distributor agrees to participate at Distributor’s own expense in all advertising, promotional and marketing
+programs that Licensor and Distributor may mutually agree to from time to time. If Distributor fails to spend at least 1.5% of its Gross Sales during the first year of the Term, the difference between 1.5% of Gross Sales and the actual amount spent
+on advertising during the first year of the Term shall be added to the minimum required advertising expenditure for the second year. If Distributor fails to spend the minimum required amount on advertising during the second or any subsequent year,
+Distributor shall pay to Licensor the difference between the minimum required expenditure on advertising and the actual amount spent on advertising during the applicable year and Licensor shall deposit any such amount into the marketing fund.
+
+7 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+(b) Standards for Advertising. All advertisements and promotions that Distributor
+creates or uses must be completely factual and ethical and comply with all federal, state and local laws. Distributor must ensure that its advertisements and promotional materials do not infringe upon the intellectual property rights of others.
+
+(c) Approval of Advertising. Before Distributor uses them, Licensor must approve all advertising and promotional
+materials that Licensor did not prepare or previously approve (including materials that Licensor prepared or approved and Distributor modifies), including any website that Distributor maintains that displays the Products and/or refers to the Marks.
+Licensor will be deemed to have approved the materials if Licensor fails to issue its disapproval within 14 days after receipt. Distributor may not use any advertising or promotional materials that Licensor has disapproved. Licensor reserves the
+right to disapprove of any method or channel of marketing in its commercially reasonable discretion. Except for any announcements or filings required by the Federal securities laws, Distributor may not engage in any press releases, interviews or
+publicly broadcasted discussions pertaining to the Products without Licensor’s prior approval. 
+ 
+(d) Approval of
+Artwork. Distributor acknowledges and agrees that all artwork to be displayed on the Products for a particular Customer must be reviewed and approved in accordance with Section 10.4. 
+
+(e) Publicity. Notwithstanding anything in this Agreement to the contrary, Distributor may make any public release or announcement
+relating to transactions contemplated hereby and may disclose any terms of this Agreement: (i) that in the judgment of Distributor is required by any federal, state, municipal, county, local, foreign or other statute, law, ordinance, rule or
+regulation (collectively “Laws”) or with any order, writ, injunction, judgment, plan or decree (collectively “Orders”) of any court, arbitrator, department, commission, board, bureau, agency, authority,
+instrumentality or other body, whether federal, state, municipal, county, local, foreign or other or the rules or regulations of any U. S. securities exchange; (ii) as required for financial reporting purposes; and (iii) to its
+accountants, attorneys, and other professional advisors and as otherwise necessary in connection with the ordinary conduct of its business. 
+
+ 10.
+ OPERATING STANDARDS. 
+
+10.1 Generally. Distributor agrees to perform its obligations under this Agreement: (i) in a manner that will promote
+the goodwill of the Marks; and (ii) in full compliance with Licensor’s standards and all other terms of this Agreement and the Operating Procedures. 
+ 
+10.2 Operating Procedures. Licensor and Distributor shall cooperate with one another to develop an initial set of operating procedures (the “Operating Procedures”) within
+360 days after the Effective Date. The Operating Procedures may include policies and procedures for the marketing and sale of Products as well as customer service standards. Distributor agrees to
+
+8 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+comply with the Operating Procedures with respect to the performance of its obligations under this Agreement. The Operating Procedures shall be considered confidential and proprietary and may not
+be disclosed to third parties without Licensor’s prior approval. Licensor can make reasonable modifications to the Operating Procedures at any time. The modifications will become binding 30 days after Licensor sends Distributor notice of the
+modification. All mandatory Operating Procedures (whether they are included now or in the future) become part of this Agreement as if fully set forth herein. To the extent there is any inconsistency between this Agreement and the Operating
+Procedures, this Agreement will control. 
+ 
+10.3 Products. Distributor may offer and sell any or all of the
+Products that are listed in ATTACHMENT “B” from time to time. For purposes of clarity, the Parties agree that Distributor shall not be obligated to offer and sell any Products that Distributor chooses not to offer and sell. Licensor
+must add to ATTACHMENT “B” all Products it authorizes other Similarly Situated Authorized Distributors to sell, and Licensor may not delete from ATTACHMENT “B” any Products that Licensor continues to authorize other
+Similarly Situated Authorized Distributors to sell. Otherwise, Licensor may add, modify or delete Products by unilaterally amending the list of Products in ATTACHMENT “B”, except that Licensor shall permit Distributor to continue to
+sell any deleted Products Distributor has shipped to a Customer within the past six (6) months, or has outstanding orders pending, for a period of 12 months following deletion of the Products. Licensor’s addition, modification or deletion
+of one or more Products shall not constitute a termination of the relationship or this Agreement. Licensor agrees that Distributor shall have the right to market, promote and sell all products that other Similarly Situated Authorized Distributors
+are permitted to market, promote and sell. At any time, Licensor may inspect Distributor’s inventory of Products to ensure they conform to Licensor’s specifications and high quality standards. Distributor shall immediately cease offering
+or selling any Products manufactured by Distributor that Licensor reasonably determines do not meet such specifications or quality standards. 
+ 
+10.4 Approval of Artwork. Distributor agrees to obtain prior approval from Licensor or its designated affiliate of all artwork to be displayed on Products panels. Licensor or its designated
+affiliate may also own various artwork that may be purchased by Customers for display on Product panels. The limited purpose of the review of artwork submitted by Customers is to ensure the marketing campaign system is uniformly administered, to
+ensure the formatting is correct and to enable Licensor or its designated affiliate to manage the schedule for when each marketing campaign will run. In no event does Licensor or its designated affiliate undertake any affirmative obligation or duty
+to ensure the artwork does not infringe on the intellectual property rights of third parties. 
+ 
+10.5 Software. At
+any time, Licensor may develop proprietary software that must be used by Authorized Distributors for purposes of enabling Licensor to administer its distribution system and collect data regarding the marketing and sale of Products. If this occurs,
+Distributor agrees to enter into a license agreement with Licensor (or an affiliate of Licensor) provided that Distributor shall not be required to pay any additional fees for the software license or support. The terms of the license agreement will
+govern the terms pursuant to which Distributor may 
+
+9 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+utilize this software. Licensor also reserves the right to enter into a master software license agreement with a third party licensor and then sublicense the software to Distributor, provided
+that Distributor shall not be required to pay any additional fees for such sublicense. 
+ 
+10.6 Software
+Enhancements. Licensor will develop, test and implement the software enhancements listed in ATTACHMENT “H”. These enhancements, and any additional enhancements developed by Licensor and relating to the distribution of
+Products will be made available for sale by Distributor and will be provided at no additional licensing fee to Distributor during the Term and any renewal term, whether offered by Licensor or any affiliate of Licensor. 
+
+10.7 Customer Complaints. If Distributor receives a customer complaint, Distributor agrees to follow the complaint
+resolution process that Licensor specifies in order to protect the goodwill associated with the Marks. 
+ 
+10.8 Manufacture
+of the Products: The Parties agree that the Distributor may, [*]. 
+ 
+For purposes of this Agreement, “Manufacturing
+Costs” means Distributor’s [*] in accordance with generally accepted accounting principals (GAAP) to manufacture [*]. The manufacturing fee is due and payable on the 15th day of each month for each Product for which the assembly,
+packaging and labeling process was completed during the immediately preceding month. 
+
+ 11.
+ MINIMUM PERFORMANCE REQUIREMENTS. 
+
+Distributor is required to achieve the following minimum sales requirements: (i) $[*] in Gross Sales during the Term of this Agreement; and (ii) an additional $[*] in Gross Sales during each
+year in each renewal term. Licensor shall not be permitted to terminate this Agreement solely due to Distributor’s failure to meet these minimum sales requirements but Licensor may prohibit Distributor from entering into a renewal term if
+Distributor fails to meet these minimum sales requirements. Notwithstanding the foregoing, Distributor may terminate this Agreement upon 30 days advance written notice to Licensor if Distributor does not generate: (i) at least $[*] in Gross
+Sales in the first [*] of the Term; or (ii) at least $[*] in Gross Sales in the first 30 months of the Term. Notwithstanding any other provision in this Agreement, if this Agreement is terminated under this Section 11, Distributor
+is released from all further performance or payment obligations other than payment of any remaining installment of the License Fee for the Term and any obligations that survive the termination or expiration of this Agreement. The Parties agree to
+cooperate in good faith to allow Distributor to withdraw from the business without injury to any of its Customers. 
+
+ 12.
+ FEES. 
+
+12.1 License
+Fee. 
+ 
+(a) Generally. Distributor agrees to pay Licensor a “License Fee” of: (i) $[*] in cash
+plus the issuance to Licensor of 360,000 warrants to acquire Superior Uniform Group, Inc. common stock at the closing price as quoted on NASDAQ or the book value per share, 
+
+10 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+whichever is higher, as of the Effective Date; and (ii) $[*] for each year of each renewal term. The cash portion of the License Fee described in clause “i” shall be paid according
+to the following schedule: (i) $[*] on the Effective Date; and (ii) $[*] when the Distributor achieves $[*] in Gross Sales. The warrants described in clause “i” shall be issued on the Effective Date. The license fees for any
+renewal term shall be paid on the first day of the renewal term and thereafter annually on each anniversary of the first day of the renewal term. Each license fee payment is nonrefundable. 
+
+(b) Preferred Pricing. Licensor agrees that in no case shall Licensor charge any other Similarly Situated Authorized Distributor a
+License Fee: (i) that averages less than $[*] per month over the first 42 months of the term; or (ii) that averages less than $[*] per month over the remaining months of the term and any renewal term. In the event Licensor breaches this
+covenant, Licensor, as Distributor’s sole remedy, shall be obligated to promptly pay to Distributor an amount equal to the difference between the minimum average monthly License Fee described in the preceding sentence and the actual average
+monthly License Fee charged to the Similarly Situated Authorized Distributor for the applicable period of time. 
+ 
+12.2
+Royalty Fee. 
+ 
+(a) Generally. In addition to the License Fee, Distributor shall pay Licensor a monthly
+Royalty Fee equal to [*]% of Gross Sales for the immediately preceding month of operation (the “Earned Royalties”). Notwithstanding the foregoing, Distributor agrees to pay Licensor a “Minimum Guaranteed Royalty Fee” equal
+to: $[*] for the Term of this agreement; (iii) an additional $[*] for each year of each renewal term. Each period referenced in the preceding sentence, including the initial 18 month period, the remainder of the Term, and each renewal term,
+shall be referred to as a “Measuring Period.” Accordingly, within 45 days after the expiration of each Measuring Period, Distributor shall pay Licensor the shortfall, if any, between the applicable “Minimum Guaranteed Royalty
+Fee” for such Measuring Period and the total Earned Royalties paid for such Measuring Period. If the Earned Royalties exceed the Minimum Guaranteed Royalty Fee for any given Measuring Period, the difference between the Earned Royalties and the
+Minimum Guaranteed Royalty Fee shall not be credited against the Minimum Guaranteed Royalty Fee for any subsequent Measuring Period. 
+ 
+(b) Due Date. The Royalty Fee is due and payable on the later of 15 days after the end of the month of operation for which the royalty fee is paid or the first business day thereafter. 
+
+(c) Calculating Gross Sales. The term “Gross Sales” means all gross sums invoiced by Distributor from the sale of all
+Products listed in ATTACHMENT “B”. “Gross Sales” does not include: (i) refunds, credits and allowances actually made or allowed to Customers for returned Products; (ii) customary trade discounts (including
+anticipations) afforded to and actually taken by Customers against payment for Products; (iii) any sales or use taxes that Distributor pays to a government agency based on sales of Products; or (iv) any freight charges billed to the
+Customer. Any Gross Sales that are reported for a given accounting period 
+
+11 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+that are later refunded or credited after the payment of the royalty fee will be credited against future payments owed by Distributor. If in any month Distributor receives revenues from a Product
+sale (or sends an invoice for a Product sale) in a currency other than U.S. Dollars, then at the end of such calendar month, Distributor shall calculate the U.S. Dollar equivalent by applying a conversion rate that is computed using the
+mid-range rates as quoted by Reuters and other sources as published in the Wall Street Journal on the last business day of such calendar month. The U.S. Dollar equivalent calculated in accordance with the preceding sentence shall be used for
+calculating and reporting Gross Sales. 
+ 
+12.3 Other Fees and Payments. Distributor agrees to pay all other fees,
+expense reimbursements and other amounts specified in this Agreement in a timely manner as if fully set forth in this Section 12. Distributor also agrees to promptly pay Licensor an amount equal to all taxes levied or assessed against
+Licensor based upon goods or services that Distributor sells or based upon goods or services that Licensor furnishes to Distributor (other than income taxes and Value Added Taxes that are imposed on Licensor for amounts paid by Distributor under
+this Agreement). 
+ 
+12.4 Late Fee. If any sums due under this Agreement have not been received by Licensor when
+due, then, in addition to those sums, Distributor must pay Licensor interest on the amounts past due at the rate equal to the lesser of: (i) 2% over the prime rate of interest per month, compounded, as established by JP Morgan Chase on the date
+such sums were due; or (ii) the highest rate permitted by applicable law. Notwithstanding the foregoing, Licensor shall not impose a late fee with respect to any sum due that is contested in good faith by Distributor provided that the Parties
+resolve the issue and Distributor pays the agreed upon amount within 45 days after the initial due date. Distributor acknowledges that this Section 12.4 shall not constitute Licensor’s agreement to accept the late payments after
+same are due, or a commitment by Licensor to extend credit to Distributor. 
+ 
+12.5 References to Dollar Amounts.
+All references to dollar amounts in this Agreement shall refer to United States dollars. All amounts that are payable to Licensor under this Agreement shall be paid in U.S. Dollars. 
+
+12.6 Method of Payment. All amounts Distributor must pay to Licensor shall be paid by wire transfer in United States
+Dollars through a financial institution approved by Licensor. Distributor is responsible for all costs associated with each wire transfer. 
+ 
+12.7 Withholdings for Taxes. Except to the extent provided in this Section, any amount that Distributor must pay to Licensor shall be paid without withholding or deduction for or on account
+of any taxes, duties, assessments, fees or other governmental charges imposed or levied by or on behalf of any jurisdiction within the Territory or any political subdivision or taxing authority therein, except that Distributor shall withhold and pay
+by their due date all taxes, if any, which are required to be withheld and paid by Distributor under the applicable law of the jurisdiction from which payment is made by Distributor to Licensor (collectively, the “Local Taxes”). If
+Distributor is required to withhold Local Taxes, Distributor shall provide Licensor 
+
+12 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+with evidence of payment of all Local Taxes withheld and any other documentation that Licensor requires in order to receive the appropriate tax credit. If any Local Taxes withheld by Distributor
+are not creditable by Licensor for U.S. federal income tax purposes, Distributor shall pay to Licensor such additional amounts as may be necessary to ensure that any net payment received by Licensor after such withholding of Local Taxes is equal to
+the amount that Licensor would have received had no such withholding been required. 
+ 
+12.8 Financial Covenants and Letter
+of Credit. During the Term and each renewal term, within 45 days of the end of any calendar quarter and within 60 days of the end of a calendar year, Distributor will provide Licensor with a Consolidated Balance Sheet dated at the end of
+each such period. In the event the net worth of the Distributor falls below $25,000,000, Distributor shall be required to obtain and deliver to Licensor a standby letter of credit issued in favor of Licensor by a financial institution that is
+located in the United States equal to the applicable Minimum Guaranteed Royalty Fee for the then current Measuring Period. Thereafter, if Distributor’s net worth again exceeds $25,000,000 as reflected on a subsequently delivered Consolidated
+Balance Sheet, Distributor may terminate the standby letter of credit (subject to reinstatement if Distributor’s net worth again drops below $25,000,000). 
+ 
+12.9 Application of Payments. Licensor shall have sole discretion to apply any payments from Distributor to any of Distributor’s past due indebtedness or in any other manner Licensor
+feels appropriate, with the exception of disputed amounts. 
+
+ 13.
+ EMPLOYEES. 
+
+Distributor
+shall hire, train, and supervise honest, reliable, competent and courteous employees who will market, promote and sell Products. Distributor must pay all wages, commissions, fringe benefits, worker’s compensation premiums and payroll taxes (and
+other withholdings required by law) due for its employees. These employees are Distributor’s employees and not Licensor’s employees. Distributor may give its employees only the minimum amount of information regarding the Operating
+Procedures that is necessary to enable them to perform their assigned tasks. Distributor must ensure that its employees do not make or retain any copies of the Operating Procedures. Licensor does not control the day to day activities of
+Distributor’s employees or the manner in which they perform their assigned tasks. Licensor also does not control the hiring or firing of Distributor’s employees. 
+
+ 14.
+ RESTRICTIVE COVENANTS. 
+
+14.1 Confidential Information. Each Party agrees: (i) that it will not use the other Party’s Confidential
+Information in any business or capacity other than the marketing, promotion and sale of Products pursuant to this Agreement; (ii) it will maintain the confidentiality of the other Party’s Confidential Information at all times;
+(iii) it will not make unauthorized copies of documents containing any of the other Party’s Confidential Information; (iv) it will take all reasonable steps that the other Party requires from time to time to prevent unauthorized use
+or disclosure of the Confidential Information; and (v) it will stop using the other Party’s Confidential Information immediately upon the expiration, termination or assignment of this
+
+13 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+Agreement (except that if Distributor remains a Party to this Agreement following the assignment of Licensor’s interest to this Agreement, Distributor shall be permitted to continue to use
+the Licensor’s Confidential Information pursuant to the terms of this Agreement). Notwithstanding the foregoing, the Parties acknowledge that they may use and/or disclose the Confidential Information in any manner specifically authorized by
+this Agreement. Without limiting the generality of the foregoing, Distributor agrees that Licensor may disclose the names of its Exclusive Customers to all other Authorized Distributors only for purposes of implementing the protections afforded to
+Distributor in Section 4; provided that Licensor may not identify any of Distributor’s Exclusive Customers as customers of Distributor. 
+ 
+14.2 Confidentiality Agreements. Each Party must ensure that all of its owners, officers, directors, partners, members, employees, independent contractors and other persons associated with
+that Party or its business operations who may have access to the other Party’s Confidential Information sign and deliver to the other Party a Confidentiality Agreement before having access to the other Party’s Confidential Information.
+Each Party must use reasonable efforts to ensure that these individuals comply with the terms of the Confidentiality Agreements and must immediately notify the other Party of any breach that comes to a Party’s attention. Each Party agrees to
+reimburse each Party for all reasonable expenses that the other Party incurs in enforcing a Confidentiality Agreement, including reasonable attorneys’ fees and court costs. 
+
+14.3 No Reverse Engineering. Distributor may not at any time modify, translate, disassemble, reverse compile or otherwise
+reverse engineer the Products without the express written consent of Licensor, which consent may be withheld in Licensor’s sole discretion. The foregoing restriction shall not apply in any situation involving a lawsuit brought by a third party
+against Distributor where such actions are necessary for Distributor to prosecute or defend a claim, provided that (i) Distributor notifies Licensor in writing prior to taking any such actions; and (ii) Distributor may not use any
+information or knowledge obtained through such actions for any purpose other than prosecuting or defending the claim. 
+ 
+14.4
+Unfair Competition During Term. Distributor agrees not to unfairly compete with Licensor and its other Authorized Distributors during the Term or any renewal term by directly or indirectly engaging in any of the following activities
+(“Prohibited Activities”): (i) designing, developing, manufacturing or distributing uniforms or other clothing items (other than the Products distributed under this Agreement and manufactured under a Manufacturing Agreement) that
+feature removable or digital panels and interactivity with respect to the panels (“Competitive Products”); (ii) owning, operating or having any other interest (as an owner, partner, director, officer, employee, manager,
+consultant, shareholder, creditor, representative, agent or in any similar capacity) in any business (other than an Authorized Distributor or manufacturer licensed by Licensor to manufacture Products) that designs, develops, manufactures or
+distributes Competitive Products; (iii) inducing or attempting to induce any customer who has purchased or is considering purchasing Products to purchase Competitive Products from another company that is not an Authorized Distributor; or
+(iv) inducing or attempting to induce any of Licensor’s employees or managers (or the employees or managers of Licensor’s affiliates or Authorized Distributors) to leave their position. Licensor agrees not to
+
+14 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+unfairly compete with Distributor during the Term or any renewal term by directly or indirectly inducing or attempting to induce any of Distributor’s employees or managers (or the employees
+or managers of Distributor’s affiliates) to leave their position. 
+ 
+14.5 Unfair Competition After
+Term. During the Post-Term Restricted Period, Distributor agrees not to engage in any Prohibited Activities. If Distributor engages in a Prohibited Activity during the Post-Term Restricted Period, then the Post-Term Restricted Period
+shall be extended by the period of time during which Distributor engaged in the Prohibited Activity. For purposes of this Section, the “Post-Term Restricted Period” means a period of two (2) years after the expiration,
+termination or assignment of this Agreement; provided, however, that if a court of competent jurisdiction determines that the two-year Post-Term Restricted Period is too long to be enforceable, then the “Post-Term Restricted Period”
+means a period of one (1) year after the termination, expiration or assignment of this Agreement. 
+ 
+14.6 Breach of
+Covenants. The Parties agree that the failure of one Party to comply with the terms of this Section 14 may cause substantial and irreparable damage to the other Party (and in some situations, other Authorized Distributors) for
+which there is no adequate remedy at law. Therefore, the Parties agree that any violation of the terms of this Section 14 will entitle the non-breaching Party to injunctive relief. The non-breaching Party may apply for such injunctive
+relief, without bond, but upon due notice, in addition to such further and other relief as may be available at equity or law, and the breaching Party’s sole remedy, in the event of the entry of such injunction, will be the dissolution of such
+injunction, if warranted, upon hearing duly held (all claims for damages by reason of the wrongful issuance of any such injunction being expressly waived hereby). If a court requires the filing of a bond notwithstanding the preceding sentence, the
+Parties agree that the amount of the bond shall not exceed $1,000. None of the remedies available to the Parties under this Agreement are exclusive of any other, but may be combined with others under this Agreement, or at law or in equity, including
+injunctive relief, specific performance and recovery of monetary damages. 
+ 
+14.7 Corresponding Restrictive
+Covenants. Licensor shall include in all its licenses with other Authorized Distributors the same restrictive covenants as those in Paragraphs 14.3, 14.4, 14.5 and 14.6 herein. 
+
+ 15.
+ LICENSEE’S OTHER RESPONSIBILITIES 
+
+15.1 Product Liability Insurance. Distributor agrees to obtain and maintain throughout the Term, each renewal term and the Sell-Off Period, and for a period of at least two (2) years
+after the sale of the last Product sold pursuant to this Agreement, product liability insurance in the minimum amount of $10,000,000 of primary and umbrella coverage. Distributor agrees to obtain this policy from an insurance carrier that is rated
+“A” or better by Alfred M. Best & Company, Inc. and that is licensed and admitted in the jurisdictions in which Distributor conducts business. The insurance policy must: (i) name Licensor (and Licensor’s members,
+officers, directors, and employees) as additional insured’s; (ii) contain a waiver by the insurance carrier of all subrogation rights against Licensor. The Distributor will provide the Licensor with
+
+15 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+at least 30 days prior written notice of the termination, expiration, cancellation or modification of the policy, except in the case of a termination for failure to pay the premium in which case
+the Distributor will provide the Licensor with a copy of any such notice of termination within three (3) business days of the receipt of the notice by the Distributor. Upon ten (10) days notice, Licensor may increase the minimum liability
+protection amount as of the renewal date of the policy, and require different or additional types of insurance at any time in its commercially reasonable discretion, including excess liability (umbrella) insurance, to reflect inflation,
+identification of special risks, changes in law or standards or liability, higher damage awards or other relevant changes in circumstances. If Distributor fails to maintain any required insurance coverage, Licensor has the right to obtain the
+coverage on Distributor’s behalf (which right shall be at Licensor’s option and in addition to Licensor’s other rights and remedies in this Agreement), and Distributor must promptly sign all applications and other forms and
+instruments required to obtain the insurance and pay to Licensor, within ten (l0) days after invoicing, all costs and premiums that Licensor incurs. Distributor agrees to provide Licensor evidence of coverage upon request, but in no event less
+frequently than on an annual basis. 
+ 
+15.2 Books and Records. Distributor agrees to prepare and maintain at its
+principal place of business complete and accurate books, records, accounts and tax returns pertaining to the marketing, promotion and sale of Products and that are sufficient to enable Licensor to verify Distributor’s compliance with the terms
+of this Agreement. Distributor shall maintain such records for a period of at least three (3) years or such longer period of time required by law. Distributor must maintain, and upon Licensor’s request furnish to Licensor by email, mail or
+facsimile, a written list of all of Distributor’s Customers who purchased Products from Distributor. 
+ 
+15.3
+Reports. No later than the 15th day of each month, Distributor must prepare and provide to Licensor a monthly statement of: (i) Distributor’s Gross Sales for the prior month (calculated in conformity with
+Section 12.2(c), including reasonable detail regarding the method and manner by which Gross Sales were calculated); (ii) the number of Products sold and the prices charged for such Products; and (iii) Distributor’s
+expenditures on advertising required by Section 9.4 that were incurred during the prior month (which shall be accompanied by copies of receipts and/or internal reporting for such expenditures). Within 30 days after each anniversary of
+the Effective Date, Distributor must prepare and provide to Licensor an annual report that includes the following: (i) Distributor’s Gross Sales for the preceding 12 month reporting period (calculated in conformity with
+Section 12.2(c), including reasonable detail regarding the method and manner by which Gross Sales were calculated); (ii) any corrections to Gross Sales previously reported in any monthly report submitted during the preceding 12
+month reporting period, whether due to Customer refunds or for any other reason; (iii) the number of Products sold during the preceding 12 month reporting period and the prices charged for such Products; (iv) a list of all countries into
+which Products were sold during the preceding 12 month reporting period; and (v) Distributor’s expenditures on advertising, marketing and promotion as required by Section 9.4 that were incurred during the preceding 12 month
+reporting period. The annual report shall be certified to be true and correct by Distributor’s Chief Financial Officer. Distributor also agrees to prepare and provide to Licensor all other reports that Licensor reasonably requires in the form
+and manner that Licensor requires. 
+
+16 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+15.4 Referral Fees. If Distributor solicits a prospective customer but is
+unable to service the customer, Distributor may refer the prospective customer to Licensor or another Authorized Distributor to service the customer. Licensor agrees that Distributor shall have a first right of refusal for all referrals from
+Licensor; provided, however, that Distributor must notify Licensor whether it has elected to exercise its right of first refusal with respect to each referral within 14 days after Licensor notifies Distributor in writing of the referral. Likewise,
+Licensor and other Authorized Distributors may refer prospective customers to Distributor. Distributor agrees to use good faith efforts to attempt to establish mutually agreeable referral arrangements with Licensor and/or other Authorized
+Distributors for these purposes, including the payment of referral fees to be determined on a case-by-case basis. If Licensor refers a customer to Distributor, Distributor agrees to pay a quarterly referral fee, for the remainder of the Term and any
+renewal term, equal to 5% of Gross Sales generated by such customer for the immediately preceding three (3) months of operation. The referral fee shall be in addition to the royalty fee applicable to such Gross Sales. Any referral fee shall be
+paid in the same time and manner as the royalty fee. 
+ 
+15.5 Legal Compliance. Distributor must secure and
+maintain in force all required licenses, permits and regulatory approvals for the operation of Distributor’s business. Distributor shall operate and manage its business in full compliance with all applicable laws, ordinances, rules and
+regulations. Without limiting the generality of the foregoing, Distributor agrees not to export, directly or indirectly, any technical data acquired from Licensor in violation of United States export laws or regulations. Distributor must notify
+Licensor in writing within two (2) business days of the beginning of any action, suit, investigation or proceeding, or of the issuance of any order, writ, injunction, disciplinary action, award or decree of any court, agency or other
+governmental instrumentality, which may materially and adversely affect Distributor’s ability to perform its obligations under this Agreement. 
+
+ 16.
+ INSPECTION AND AUDIT. 
+
+16.1 Inspections. To ensure compliance with this Agreement, Licensor and its representatives will have the right to evaluate
+Distributor’s operations and inspect or examine Distributor’s sales and expense records that reasonably relate to the marketing, promotion or sale of Products, but not more than once during any six (6) month period. Licensor’s
+inspection may include monitoring interactions with Customers and potential Customers and contacting Distributor’s employees who are involved with the marketing, promotion and/or sale of Products. Licensor must provide Distributor with at least
+two (2) business days advance notice of any inspection. During the course of Licensor’s inspection, Licensor and its representatives will use reasonable efforts to minimize their interference with the operation of Distributor’s
+business. Distributor agrees to cooperate with Licensor in conducting its inspection. 
+
+17 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+16.2 Audit. Licensor has the right to have an independent audit made of
+Distributor’s sales and expense records that reasonably relate to the marketing, promotion or sale of Products” but not more than once during any 12 month period. Distributor agrees to fully cooperate with Licensor and any third parties
+that Licensor hires to conduct the audit. If an audit reveals an understatement of Gross Sales, Distributor agrees to immediately pay to Licensor any additional royalty fees that Distributor owes together with any late fee payable pursuant to
+Section 12.4. Each audit will be performed at Licensor’s cost and expense unless the audit: (i) is necessitated by Distributor’s failure to provide the information requested or to preserve records or file reports as
+required by this Agreement; or (ii) reveals an understatement of Gross Sales by at least 5% for the audit period, in which case Distributor agrees to reimburse Licensor for the cost of the audit, including, without limitation, reasonable
+accounting and attorneys’ fees and travel and lodging expenses that Licensor or its representatives incur. Any such reimbursement will be due ten (10) days after invoicing. 
+
+ 17.
+ INTELLECTUAL PROPERTY. 
+
+17.1 Ownership and Use of Intellectual Property. Distributor acknowledge that: (i) Distributor’s right to use the Intellectual Property is derived solely from this Agreement; and
+(ii) Distributor’s right to use the Intellectual Property is limited to a license granted by Licensor to market, promote and sell Products during the Term pursuant to, and only in compliance with, this Agreement and the Operating
+Procedures. Distributor may not use any of the Intellectual Property in connection with the marketing, promotion or sale of any unauthorized product or service or in any other manner not expressly authorized by Licensor. Any material unauthorized
+use of the Intellectual Property may constitute an infringement of Licensor’s rights. Distributor agrees to comply with all of Licensor’s Intellectual Property usage guidelines that are attached hereto as ATTACHMENT “E”.
+Licensor reserves the right to modify these guidelines from time to time in its commercially reasonable discretion. This Agreement does not confer to Distributor any goodwill, title or interest in any of the Intellectual Property and Distributor
+will not make any such claim or representation or challenge Licensor’s rights to the Intellectual Property. 
+ 
+17.2
+Maintenance of and Changes to Intellectual Property. Licensor will take reasonable steps to ensure that its affiliates and the owners of the Intellectual Property maintain current, active and in effect all Patents and other
+Intellectual Property concerning the Products. Licensor has the right to modify the Intellectual Property at any time in Licensor’s sole discretion, including by obtaining additional Patents and changing the Marks, the Copyrights or the
+Confidential Information. Distributor is hereby licensed to use all modified or additional Patents, Marks, Copyrights and Confidential Information concerning the Products, under the terms of this Agreement. If Licensor modifies or discontinues use
+of any of the Intellectual Property, then upon Licensor’s notice to Distributor, Distributor must comply with any such instructions from Licensor within 30 days. Licensor will not be liable to Distributor for any expenses, losses or damages
+that Distributor incurs (including the loss of any goodwill associated with a Mark) because of any addition, modification, substitution or discontinuation of the Intellectual Property. Licensor will cooperate in good faith with Distributor if and
+when such change(s) are made that would make any of Distributor’s inventory of Products or marketing 
+
+18 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+materials obsolete or would put Distributor in a position where it could not fulfill any of its contractual arrangements with its Customers. Notwithstanding the foregoing, Licensor agrees that it
+shall not discontinue the use of any Patent unless the Patent is superseded by a new enhanced Patent. 
+ 
+17.3 Use of
+Marks. Distributor may only use the Marks in the manner approved by Licensor. Distributor may not use any Marks in any modified form or as part of any corporate or trade name or with any prefix, suffix, or other modifying words, terms,
+designs or symbols (other than logos licensed to Distributor by this Agreement). Distributor agrees to: (i) prominently display the Marks on or in connection with any media advertising, promotional materials, posters and displays concerning the
+Products in the manner that Licensor prescribes to give notice of trade and service mark registrations and copyrights; and (ii) obtain any fictitious or assumed name registrations required under applicable law. 
+
+17.4 Use of Distributor’s Marks. Licensor may not use the marks of Distributor in any manner without the written
+consent of Distributor. Licensor may not use the marks of any of Distributor’s Customers in any manner without (i) written consent of Distributor or (ii) written consent of the customer pursuant to a separate license agreement between
+Licensor and the customer. 
+ 
+17.5 Foreign Countries. Except as provided in this Section, Distributor may not sell
+Products into a foreign country without Licensor’s prior written approval of such country, which approval may be withheld in Licensor’s commercially reasonable discretion. In order to seek such approval, Distributor must first send
+Licensor a written notice identifying: (i) the country; (ii) the names and addresses of the customers in such country to whom Distributor intends to sell Products; (iii) the quantity and types of Products Distributor intends to sell
+in such country; and (iv) a list of the Marks, Copyrights and Patents, if any, relating to such Products. Distributor agrees, at its sole expense, to conduct all additional due diligence that Licensor reasonably specifies to determine whether
+any of the Intellectual Property associated with the Products or the marketing of the Products infringes on the rights of any third party under the laws of such country. Licensor agrees to cooperate with Distributor in conducting such additional due
+diligence. If it is determined that the Intellectual Property infringes on the rights of any third party under the laws of the country, Distributor may not sell Products into such country. If it is determined that the Intellectual Property does not
+infringe on the rights of any third party under the laws of the country, Licensor may condition its approval of the country on first registering, applying to register, or taking such other actions that may be necessary or desirable to protect and
+perfect Licensor’s (or Licensor’s licensors) interests in the Intellectual Property. Distributor may not register, apply to register or otherwise attempt to secure any rights to the Intellectual Property under its own name or any name
+other than Licensor or the name of a person identified by Licensor. Distributor agrees to cooperate with Licensor in: (i) registering or otherwise protecting the Intellectual Property with any applicable governmental authority within such
+country to the extent required or desirable to fully protect Licensor’s rights under applicable law; and (ii) maintaining or perfecting such registration or other protection of the Intellectual Property. Distributor agrees to promptly
+reimburse Licensor for all costs that Licensor incurs in 
+
+19 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+registering, perfecting or maintaining the registration or other protection of the Intellectual Property in such country. If Distributor sells Products into a foreign country without obtaining
+Licensor’s prior written approval in accordance with the procedures above, Distributor agrees to indemnify the Licensor Indemnified Parties and hold them harmless for, from and against any and all Losses and Expenses incurred by any of them as
+a result of or in connection with such sale, including any related infringement actions. This provision does not apply to any export of the Products by any party outside Distributor’s control; provided, however, that: (i) Distributor
+advises all parties with whom it conducts business that they may not export Products without Distributor’s approval; and (ii) Distributor does not use this exception as a means to circumvent the purpose or intent of this Section.
+
+17.6 Improvements. If Distributor conceives of or develops any improvements or additions to the Products or
+develops any advertising or promotional ideas or materials related to the marketing or promotion of Products (collectively, “Improvements”), Distributor agrees to promptly and fully disclose the Improvements to Licensor without
+disclosing the Improvements to others. Distributor must obtain Licensor’s approval prior to using or implementing any such Improvements, which approval shall not be unreasonably withheld. If Licensor approves an Improvement and wishes to
+license the Improvement to other Authorized Distributors, Licensor and Distributor agree to negotiate commercially reasonable terms pursuant to which Licensor may license the Improvement to other Authorized Distributors. 
+
+17.7 Notification of Infringements and Claims. Distributor must immediately notify Licensor of any: (i) apparent
+infringement of any of the Intellectual Property; (ii) challenge to Distributor’s use of any of the Intellectual Property; or (iii) claim by any person of any rights in any of the Intellectual Property. Distributor may not communicate
+with any person other than Licensor and Licensor’s counsel in connection with any such infringement, challenge or claim. Licensor will have sole discretion to take such action as it deems appropriate. Licensor has the right to exclusively
+control any litigation, Patent and Trademark Office proceeding, or other proceeding arising out of any such infringement, challenge or claim, notwithstanding anything in this Agreement to the contrary. Notwithstanding the foregoing, Licensor agrees
+to take reasonable steps to pursue infringing parties to the extent necessary to protect Distributor’s rights and interests under this Agreement, as determined by Licensor and Distributor. Distributor agrees to execute any and all instruments
+and documents, render such assistance, and do such acts and things as may, in the opinion of Licensor’s counsel, be reasonably necessary or advisable to protect and maintain Licensor’s interest in any such litigation, Patent and Trademark
+Office proceeding or other proceeding, or to otherwise protect and maintain Licensor’s interests in the Intellectual Property. In such event, Licensor agrees to reimburse Distributor for all reasonable out-of-pocket expenses incurred by
+Distributor in providing such assistance. 
+
+ 18.
+ INDEMNITY. 
+
+18.1 By Distributor. Except as otherwise provided in this Agreement, Distributor agrees to indemnify the Licensor
+Indemnified Parties and hold them harmless for, from and against any and all Losses and Expenses incurred by any of them as a result of or in connection 
+
+20 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+with a final and legally enforceable judgment concerning any Claim asserted against them arising from, relating to or caused by the operation of Distributor’s business (including, but not
+limited to, the marketing, promotion and/or sale of Products) and/or Distributor’s breach of any of its obligations or representation under this Agreement and/or Distributor’s sale of Products into a foreign country without obtaining
+Licensor’s prior written approval in accordance with Section 17.5. 
+ 
+18.2 By Licensor. Except as
+otherwise provided in this Agreement, Licensor agrees to indemnify the Distributor Indemnified Parties and hold them harmless for, from and against any and all Losses and Expenses incurred by any of them as a result of or in connection with any
+Claim asserted against them arising from or relating to: (i) any final and legally binding settlement or judgment of a court that is issued against Distributor holding that Distributor’s use of the Intellectual Property in compliance with
+the provisions of this Agreement infringed upon the rights of a third party, unless the judgment relates to Distributor’s sale of Products into a foreign country without Licensor’s prior written approval pursuant to Section 17.5;
+(ii) any injury or harm to any individual caused by Products, unless the injury or harm was caused by the garment associated with the Products rather than the technology; or (iii) harm caused by Licensor’s breach of any of its
+obligations or representation under this Agreement. 
+ 
+18.3 Procedure. A party seeking to be indemnified under
+this Section 18 must promptly notify the indemnifying party in writing of the Claim. The party seeking to be indemnified has the right in its sole discretion to: (i) retain counsel of its own choosing to represent such party in
+connection with the Claim; and (ii) control the response to the Claim and the defense thereof, including the right to enter into an agreement to settle the Claim; provided, however, that a Distributor Indemnified Party may not settle a Claim
+without Licensor’s approval if the settlement may adversely affect Licensor’s rights relating to the ownership and/or use of the Intellectual Property and Licensor may not without Distributor’s consent settle a Claim that
+substantially compromises Distributor’s ability to sell the products. Notwithstanding the foregoing, the indemnifying party may participate in the defense of the Claim at its own expense. The indemnifying party shall: (i) give its full
+cooperation to the party seeking to be indemnified with the defense of the Claim; and (ii) promptly reimburse the party seeking to be indemnified for all of its costs and expenses incurred in defending the Claim, including court costs and
+reasonable attorneys’ fees, within ten (10) days after receipt of an invoice detailing such costs and expenses. 
+
+ 19.
+ TRANSFERS. 
+
+This
+Agreement is fully assignable by Licensor only to an entity authorized to grant and maintain the licenses hereunder and shall inure to the benefit of any assignee(s) or other legal successor(s) to Licensor’s interest in this Agreement, provided
+that Licensor shall, subsequent to any such assignment, remain liable for the performance of its obligations under this Agreement up to the effective date of the assignment. Licensor may also delegate some or all of its obligations under this
+Agreement to one or more persons without assigning the Agreement. Distributor may not assign this Agreement or any of its rights or obligations under 
+
+21 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+this Agreement without the prior written consent of Licensor, which consent shall not be unreasonably withheld. However, Distributor may, without obtaining Licensor’s consent, assign this
+Agreement to a new business entity that it may establish for the purpose of marketing and selling Products provided that (i) Distributor maintains complete ownership and control over the entity and (ii) Distributor guarantees the
+entity’s performance of its obligations under this Agreement. If Licensor approves an assignment of this Agreement or any of Distributor’s rights or obligations under this Agreement (other than an assignment to a controlled entity in
+accordance with the preceding sentence), Licensor may condition the assignment upon satisfaction of reasonable terms and conditions, including, without limitation, execution of a General Release by Distributor and payment of a reasonable transfer
+and training fee. Licensor’s consent to an assignment shall not constitute a waiver of any claims Licensor may have against the transferor, nor shall it be deemed a waiver of Licensor’s right to demand compliance with any of the terms or
+conditions of the License and Distribution Agreement by the transferee. This Agreement shall inure to the benefit of any approved assignee or legal successor(s) to Distributor’s interest in this Agreement. Any unauthorized assignment by either
+Party shall be null and void. 
+
+ 20.
+ TERMINATION. 
+
+20.1
+Termination by Distributor Without Cure Period. Distributor may, in Distributor’s sole discretion, terminate this Agreement upon five (5) days’ written notice in accordance with Section 11. 
+
+20.2 Termination by Licensor Without Cure Period. Licensor may, in Licensor’s sole discretion, terminate this
+Agreement upon five (5) days’ written notice, without opportunity to cure, for any of the following reasons, all of which constitute material events of default under this Agreement: 
+
+(i) if Distributor breaches Section 8 by failing to enter into its first Supply Contract or obtain at least one purchase
+order for Products from a Customer within 180 days after the Effective Date; 
+ 
+(ii) if Distributor becomes insolvent by reason
+of its inability to pay its debts as they become due or Distributor files a voluntary petition in bankruptcy or any pleading seeking any reorganization, liquidation, dissolution or composition or other settlement with creditors under any law, or
+Distributor becomes the subject of an involuntary bankruptcy (which mayor may not be enforceable under title 11 of the United States Code, as amended (the “Bankruptcy Code”) and as a result is unable to continue to conduct its
+business in compliance with this Agreement; 
+ 
+(iii) if Distributor ceases to operate its distribution business; 
+
+(iv) if Distributor fails to pay any amount owed to Licensor (a) within thirty (30) days after receipt of a demand for payment
+or (b) with respect to any amount disputed by Distributor in good faith in accordance with Section 12.4, within 45 days after the original due date; 
+
+22 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+(v) if Distributor makes an assignment of this Agreement or any of its rights or
+obligations under this Agreement that is not authorized by this Agreement; 
+ 
+(vi) if Distributor makes an unauthorized use of
+the Intellectual Property that is capable of being cured and (a) Distributor fails to fully cure said unauthorized use within ten (l0) business days of notice of the alleged unauthorized use or (b) if such default cannot reasonably be
+cured within ten (l0) business days, Distributor takes steps to cure the unauthorized use within ten (l0) business days of notice and fully cures the unauthorized use within 90 days of notice provided, however, that nothing in the preceding language
+is intended to preclude Licensor from terminating this Agreement if Distributor makes a material and unauthorized use of the Intellectual Property that is incapable of being cured; or 
+
+(vii) if Licensor terminates the Manufacturing Agreement between Distributor and Licensor because of Distributor’s default.
+
+20.3 Additional Conditions of Termination. In addition to the termination rights described above, either Party
+may terminate this Agreement upon 30 days’ written notice if the other Party materially breaches this Agreement and fails to cure such material breach within 30 days of notice of the material breach if a default under this Section that is
+capable of being cured cannot reasonably be cured within the 30 day period but the defaulting Party takes reasonable steps to cure the default within the 30 day period, then the cure period shall be extended for a reasonable period of time, but in
+no event more than 90 days after notice of the material breach, subject only to further delays caused by an event of force majeure pursuant to Section 24.6. 
+ 
+20.4 Mutual Agreement to Terminate. If Distributor and Licensor mutually agree in writing to terminate this Agreement, Distributor and Licensor will be deemed to have waived any required
+notice period. 
+
+ 21.
+ POST-TERM OBLIGATIONS. 
+
+21.1 Excess Inventory. Distributor shall have a period of 180 days after the expiration or termination of this Agreement
+(the “Sell-Off Period”) to sell any remaining inventory of Products. For the purposes of this Section, “inventory” shall mean finished goods inventory, raw materials, work-in-process or finished goods in transit to
+Distributor. During the Sell-Off Period, Distributor shall continue to comply with all of the provisions of this Agreement notwithstanding the Agreement’s expiration or termination. Distributor may not acquire any additional inventory of
+Products during the Sell-Off Period, except as required to complete orders placed prior to the date of termination. Within 15 days after the expiration of the Sell-Off Period, Distributor shall: (i) pay Licensor a royalty fee equal to [*]% of
+the Gross Sales generated during the Sell-Off Period; (ii) provide Licensor with a written report of Gross Sales covering the Sell-Off Period; and (iii) provide Licensor with a written report that includes: (a) a list of all of
+Distributor’s 
+
+23 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+remaining inventory of unsold Products, including an itemized listing of each such Products and Distributor’s direct cost to acquire each such Products (or if Distributor manufactures
+Products under a separate written agreement, Distributor’s direct cost to manufacture each such Products); and (b) a notation identifying any Products that are damaged. Licensor shall have the right, but not the obligation, to purchase all
+or any portion of Distributor’s remaining inventory listed in the report for an amount equal to Distributor’s direct costs to acquire, or if applicable, manufacture, the inventory. Licensor shall notify Distributor within ten (l0) days
+after receipt of the report whether it desires to purchase any or all of Distributor’s remaining inventory. Any such purchase shall be completed within 30 days after Licensor notifies Distributor of its intent to purchase the inventory. Any
+remaining Products that are not sold during the Sell-Off Period or purchased by Licensor shall be destroyed or returned to Licensor. Licensor shall not be required to comply with any of its obligations under this Agreement during the Sell-Off Period
+other than any obligations that survive the termination or expiration of this Agreement. Notwithstanding the foregoing, Licensor shall be obligated to repurchase Distributor’s excess inventory remaining after the Sell-Off Period in accordance
+with this Section if this Agreement is terminated by Distributor due to Licensor’s uncured material breach. 
+ 
+21.2
+Additional Obligations of Distributor. Immediately after the termination, expiration or assignment of this Agreement, and subject only to Distributor’s limited rights provided in Section 21.1, Distributor agrees
+to: 
+ 
+(i) immediately pay Licensor all amounts that Distributor owes and that are not disputed by Distributor in good faith
+pursuant to Section 12.4; 
+ 
+(ii) comply with all covenants described in Section 14 that apply after the
+expiration, termination or Transfer of this Agreement; 
+ 
+(iii) cease to use the Intellectual Property; 
+
+(iv) return all written copies of the Operating Procedures, or any portions thereof, as well as all signs, sign faces, brochures,
+advertising and promotional materials, forms, and any other materials bearing or containing any of the Marks and/or Copyrights, unless Licensor allow Distributor to transfer such items to an approved transferee; 
+
+(v) take such action as may be required to cancel all fictitious or assumed names or equivalent registrations relating to
+Distributor’s use of any of the Marks; 
+ 
+(vi) provide Licensor with a list of all of Distributor’s current and former
+Customers who purchased Products; and 
+ 
+(vii) notify (a) all appropriate domain name registrars of the termination of
+Distributor’s right to use any domain names provided by Licensor or using the Marks (or any confusingly similar variation of the Marks) for the marketing, promotion and/or sale of Products (Distributor hereby authorizes these registrars to
+transfer such domain names to Licensor and Distributor authorizes Licensor, and appoints Licensor as Distributor’s attorney-in-fact to direct 
+
+24 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+these registrars to transfer the domain names to Licensor if Distributor fails or refuses to do so); and (b) any regular, classified or other telephone directory listing agencies publishing
+listings or advertising using the Marks to remove the Marks from such listings at the next possible date. 
+
+ 22.
+ DISPUTE RESOLUTION. 
+
+The
+Parties agree to submit any claim, dispute or disagreement, including any matter pertaining to the interpretation of this Agreement or issues relating to the offer and sale of the distribution rights or the relationship between the Parties (a
+“Dispute”) to mediation before a mutually-agreeable mediator prior to arbitration. If the Dispute is not successfully resolved by mediation within 30 days after mediation is concluded or either Party refuses to mediate the Dispute,
+then either Party may submit the Dispute to mandatory and binding arbitration conducted pursuant to the Commercial Arbitration Rules of the American Arbitration Association. The Party filing the arbitration must initially bear the cost of any
+arbitration fees or costs. The arbitrators will not have authority to award exemplary or punitive damages. Notwithstanding the foregoing, any Dispute that involves an alleged breach of Section 14 or Section 17 will not be
+subject to mediation or arbitration unless otherwise agreed to by both Parties, and either Party may immediately file a lawsuit in accordance with this Section with respect to any alleged breach of Section 14 or Section 17.
+All mediation, arbitration and litigation shall take place in the county in which Licensor maintains its principal place of business at the time the Dispute arises (currently, Fulton County, Georgia) and the Parties irrevocably waive any objection
+to such venue. If Licensor or Distributor must enforce this Agreement in a judicial or arbitration proceeding, the substantially prevailing Party will be entitled to reimbursement of its costs and expenses, including reasonable accounting and legal
+fees. LICENSOR AND DISTRIBUTOR IRREVOCABLY WAIVE: (I) TRIAL BY JURY; AND (II) THE RIGHT TO ARBITRATE OR LITIGATE ON A CLASS ACTION BASIS, IN ANY ACTION, PROCEEDING OR COUNTERCLAIM, WHETHER AT LAW OR IN EQUITY, BROUGHT BY EITHER OF THE PARTIES.
+
+ 23.
+ REPRESENTATIONS AND ACKNOWLEDGEMENTS. 
+
+23.1 By Licensor. Licensor hereby represents and warrants to Distributor as follows: 
+ 
+(i) All information provided by Licensor to Distributor to induce Distributor to enter into this Agreement was true and complete in all material respects on and as of the date such information was
+provided and is true and complete in all material respects on and as of the Effective Date. 
+ 
+(ii) Licensor is a limited
+liability company duly organized, validly existing and in good standing under the laws of the state of Georgia. Licensor has the power and authority and all governmental licenses, authorizations, consents and approvals to perform its obligations
+under this Agreement. Licensor is duly qualified as a foreign limited liability company and in good standing under the laws of each jurisdiction where its ownership, lease or operation of property or the conduct of its business requires such
+qualification, except to the extent that the failure to be so qualified would not adversely affect Licensor’s ability to carry out its obligations under or consummate the transactions contemplated by this Agreement. 
+
+25 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+(iii) The execution, delivery and performance by Licensor of this Agreement (a) has
+been duly authorized by all necessary corporate action and (b) does not and will not violate any requirement of applicable law, contravene the terms of its Articles of Organization or Operating Agreement, or conflict with or result in a breach
+of any contractual obligation to which Licensor is party or any order, injunction, writ or decree of any governmental authority to which Licensor or its property is subject. 
+ 
+(iv) This Agreement constitutes the legal, valid and binding obligation of Licensor, enforceable against Licensor in accordance with its terms. 
+
+(v) Licensor has the right and power to grant to Distributor the rights and licenses granted under Section 2 of this Agreement.
+
+(vi) To the best of Licensor’s actual knowledge as of the Effective Date, Distributor’s use of the Marks in
+connection with the distribution of Products within the United States in accordance with the terms of this Agreement does not infringe upon the intellectual property rights of any third party. 
+
+23.2 By Distributor. Distributor hereby represents and warrants to Licensor as follows: 
+
+(i) All information provided by Distributor to Licensor to induce Licensor to enter into this Agreement was true and complete in all
+material respects on and as of the date such information was provided and is true and complete in all material respects on and as of the Effective Date. 
+ 
+(ii) Distributor has conducted an independent investigation of the business contemplated by this Agreement and recognizes that it involves business risks, making the success of the venture largely
+dependent upon Distributor’s own business abilities, efforts and judgments, and the services of its employees. Distributor has not received or relied upon any warranty or guarantee, express or implied, as to the potential volume, profits or
+success of the business contemplated by this Agreement. 
+ 
+(iii) Distributor is aware of the fact that other present or future
+Authorized Distributors may operate under different forms of agreement and consequently that Licensor’s obligations and rights with respect to other Authorized Distributors may differ materially in certain circumstances. 
+
+(iv) Distributor is a corporation duly organized, validly existing and in good standing under the laws of the state of Florida.
+Distributor has the power and authority and all governmental licenses, authorizations, consents and approvals to perform its obligations under this Agreement. Distributor is duly qualified as a foreign corporation and in good standing under
+
+26 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+the laws of each jurisdiction where its ownership, lease or operation of property or the conduct of its business requires such qualification, except to the extent that the failure to be so
+qualified would not adversely affect Distributor’s ability to carry out its obligations under or consummate the transactions contemplated by this Agreement. 
+ 
+(v) The execution, delivery and performance by Distributor of this Agreement (a) has been duly authorized by all necessary corporate action and (b) does not and will not violate any requirement
+of applicable law, contravene the terms of its Articles of Incorporation or By-Laws, or conflict with or result in a breach of any contractual obligation to which Distributor is party or any order, injunction, writ or decree of any governmental
+authority to which Distributor or its property is subject. 
+ 
+(vi) This Agreement constitutes the legal, valid and binding
+obligation of Distributor, enforceable against Distributor in accordance with its terms. 
+ 
+23.3 Franchise Laws.
+The Parties agree that Distributor is a sophisticated purchaser and any controls exerted by Licensor and any assistance provided by Licensor under this Agreement are not significant to Distributor or its method of operation. As such, the Parties do
+not believe or intend for the relationship established by this Agreement to constitute a franchise relationship. Notwithstanding the foregoing, in the event that the relationship is deemed to be a franchise, the Parties represent and acknowledge as
+follows: 
+ 
+(i) The offer and sale of distribution rights qualifies for the “fractional franchise” exemption available
+under federal and various state franchise laws because: (i) Distributor has at least two (2) years of experience operating a business that is substantially similar to the business to be conducted by Distributor pursuant to this Agreement;
+and (ii) after reasonable investigation by Licensor and Distributor, both Parties have a good faith belief that Distributor’s revenues that are anticipated to be generated from the sale of Products will not exceed 20% of Distributor’s
+total revenues during the term of the relationship. 
+ 
+(ii) The offer and sale of distribution rights qualifies for the
+“large franchisee” exemption available under federal franchise law because Distributor has a net worth of at least $5,000,000 and has operated a business for at least five (5) years. 
+
+23.4 Business Opportunity Laws. The Parties acknowledge and agree that the offer and sale of distribution rights does not
+involve a “business opportunity” or “seller assisted marketing plan” (as such terms are defined by various state laws) because: (i) the sale of rights does not enable Distributor to begin operating a new business; and
+(ii) the offer and sale of rights includes the license of a federally registered trademark. Notwithstanding the foregoing, if the sale of distribution rights is construed as the sale of a “business opportunity” or “seller
+assisted marketing plan,” Distributor hereby knowingly and voluntarily waives the protections of such laws to the maximum extent permitted by law. 
+
+27 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ 24.
+ GENERAL PROVISIONS. 
+
+24.1 Governing Law. Except as governed by the United States Trademark Act of 1946 (Lanham Act, 15 U.S.C. §§ 1051,
+et seq.), this Agreement and the relationship of the Parties shall be governed by the laws of the State of Georgia (without reference to its principles of conflicts of law), but any law of the State of Georgia that regulates the offer and sale of
+franchises or business opportunities or governs the relationship of a franchisor and its franchisee will not apply unless its jurisdictional requirements are met independently without reference to this Section. 
+
+24.2 Relationship of the Parties. Distributor agrees that nothing in this Agreement creates a fiduciary relationship
+between Distributor and Licensor or is intended to make either Party a general or special agent, franchisee, franchisor, legal representative, subsidiary, joint venture, partner, employee or servant of the other for any purpose. During the Term and
+each renewal term, Distributor must conspicuously identify itself at Distributor’s base of operations, and in all dealings with third parties, as an independent distributor of the Products under a license granted by Licensor. Distributor agrees
+to place such other notices of independent ownership on such advertising and other materials as Licensor may reasonably require from time to time. Neither Licensor nor Distributor are permitted to make any express or implied agreement, warranty or
+representation, or incur any debt, in the name of or on behalf of the other. In addition, neither Licensor nor Distributor will be obligated by or have any liability under any agreements or representations made by the other that are not expressly
+authorized by this Agreement. 
+ 
+24.3 Severability and Substitution. Each section, subsection, term and provision
+of this Agreement, and any portion thereof, shall be considered severable. If any applicable and binding law imposes mandatory, non-waivable terms or conditions that conflict with a provision of this Agreement, the terms or conditions required by
+such law shall govern to the extent of the inconsistency and supersede the conflicting provision of this Agreement. If a court concludes that any promise or covenant in this Agreement is unreasonable and unenforceable, the court may modify such
+promise or covenant to the minimum extent necessary to make such promise or covenant enforceable. 
+ 
+24.4 Waivers.
+Licensor and Distributor may by written instrument unilaterally waive or reduce any obligation of or restriction upon the other. Any waiver granted by a Party shall be without prejudice to any other rights such Party may have. Licensor and
+Distributor shall not be deemed to have waived or impaired any future right, power or option reserved by this Agreement (including the right to demand exact compliance with every term, condition and covenant in this Agreement or to declare any
+breach of this Agreement to be a default and to terminate the Agreement before the expiration of the Term or any renewal term) by virtue of: (i) any custom or practice of the Parties at variance with the terms of this Agreement; (ii) any
+failure, refusal or neglect of Licensor or Distributor to exercise any right under this Agreement or to insist upon exact compliance by the other with its obligations under this Agreement, including any mandatory specification, standard, or
+procedure; or (iii) any waiver, forbearance, delay, failure or omission by Licensor to exercise any right, power or option, whether of the same, similar or different nature, relating to other Authorized Distributors. 
+
+28 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+24.5 Approvals. Whenever this Agreement requires Licensor’s approval,
+Distributor must make a timely written request for approval, and the approval must be in writing in order to bind Licensor. Licensor shall respond to all of Distributor’s requests for approval reasonably and in good faith except for any
+requests for which this Agreement provides that Licensor may deny the request in Licensor’s sole discretion. Except as otherwise expressly provided in this Agreement, if Licensor fails to disapprove any request for approval within the required
+period of time, Licensor shall be deemed to have approved Distributor’s request. If Licensor denies approval and Distributor seeks legal redress for the denial, the only relief to which Distributor may be entitled is to acquire Licensor’s
+approval. Distributor is not entitled to any other relief or damages for Licensor’s denial of approval. 
+ 
+24.6 Force
+Majeure. Neither Licensor nor Distributor shall be liable for loss or damage or deemed to be in breach of this Agreement if Licensor’s or Distributor’s failure to perform their respective obligations results from any event of force
+majeure. Any delay resulting from an event of force majeure will extend performance accordingly or excuse performance, in whole or in part, as may be reasonable under the circumstances. Notwithstanding the foregoing, Distributor’s inability to
+make any payment owed to Licensor on account of any foreign exchange control or other law shall not be considered an event of force majeure. 
+ 
+24.7 Binding Effect. This Agreement is binding upon the Parties to this Agreement and their respective executors, administrators, heirs, assigns and successors in interest. Nothing in this
+Agreement is intended, nor shall be deemed, to confer any rights or remedies upon any person or legal entity not a party to this Agreement; provided, however, that the additional insureds listed in Section 15.1 and the Distributor
+Indemnified Parties and Licensor Indemnified Parties are intended third party beneficiaries under this Agreement with respect to Section 15.1 and Section 18, respectively. 
+
+24.8 Integration. THIS AGREEMENT CONSTITUTES THE ENTIRE AGREEMENT BETWEEN THE PARTIES AND MAY NOT BE CHANGED (EXCEPT
+LICENSOR MAY UNILATERALLY MODIFY ATTACHMENT B AND ATTACHMENT E) EXCEPT BY A WRITTEN DOCUMENT SIGNED BY BOTH PARTIES. Any e-mail correspondence or other form of informal electronic communication shall not be deemed to modify this
+Agreement unless such communication is signed by both Parties and specifically states that it is intended to modify this Agreement. The attachment(s) are part of this Agreement, which, together with any Amendments or Addenda executed on or after the
+Effective Date, constitutes the entire understanding and agreement of the Parties, and there are no other oral or written understandings or agreements between Licensor and Distributor about the subject matter of this Agreement. Any representations
+not specifically contained in this Agreement made before entering into this Agreement do not survive after the signing of this Agreement. This provision is intended to define the nature and extent of the Parties’ mutual contractual intent,
+there being no mutual intent to enter into contract relations, whether by agreement or by implication, other than 
+
+29 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+as set forth above. The Parties acknowledge that these limitations are intended to achieve the highest possible degree of certainty in the definition of the contract being formed, in recognition
+of the fact that uncertainty creates economic risks for both Parties which, if not addressed as provided in this Agreement, would affect the economic terms of this bargain. 
+ 
+24.9 Covenant of Good Faith. Each Party represents that it has negotiated this Agreement in a manner consistent with the duty of good faith and fair dealing. If applicable law implies a
+covenant of good faith and fair dealing in this Agreement, the Parties agree that the covenant shall not imply any rights or obligations that are inconsistent with a fair construction of the terms of this Agreement; provided, however, that neither
+Party may exercise any discretion granted to such Party under this Agreement in bad faith. 
+ 
+24.10 Rights of Parties are
+Cumulative. The rights of the Parties under this Agreement are cumulative and no exercise or enforcement by either Party of any right or remedy under this Agreement will preclude any other right or remedy available under this Agreement or by
+law. 
+ 
+24.11 Survival. All provisions that expressly or by their nature survive the termination, expiration or
+assignment of this Agreement shall continue in full force and effect subsequent to and notwithstanding its termination, expiration or assignment and until they are satisfied in full or by their nature expire, including, without limitation,
+Section 12, Section 14, Section 16, Section 18, Section 2l, Section 22 and Section 24. 
+ 
+24.12 Construction. The headings in this Agreement are for convenience only and do not define, limit or construe the contents of the sections or subsections. All references to Sections refer
+to the Sections contained in this Agreement unless otherwise specified. All references to days in this Agreement refer to calendar days unless otherwise specified. 
+ 
+24.13 Counterparts. This Agreement may be signed in multiple counterparts, each of which shall be deemed an original and all of which together shall constitute but one and the same document.
+
+24.14 Notice. All notices given under this Agreement must be in writing, delivered by hand, telegram, e-mail or
+first class mail, to the following addresses (which may be changed upon ten (10) business days prior written notice): 
+
+ LICENSEE:
+ 
+ Superior Uniform Group
+
+ 10055 Seminole Blvd.
+
+ Seminole, Florida 33772
+
+ Attention: Michael Benstock
+
+ Phone: (727) 397-9611
+
+ E-mail:mbenstock@sug.biz
+
+ LICENSOR:
+ 
+ EYELEVEL INTERACTIVE, LLC
+
+ 1011 Lake Country Drive,
+
+30 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ Greensboro, Georgia 30642
+
+ Attention: Blair Enfield
+
+ Phone: (404) 234-3939
+
+ E-mail: blairenfield@madeholdings.com
+
+ WITH A COPY TO:
+ 
+ Daniel Warshawsky
+
+ Greenberg Traurig LLP
+
+ 2375 East Camelback Road, Suite 700
+
+ Phoenix, Arizona 85016
+
+Notice shall be considered given
+at the time delivered by hand as evidenced by a receipt signed by the recipient, or received bye-mail as evidenced by an e-mail delivery receipt, or one (1) business day after receipt by telefax, as evidenced by a telefax delivery confirmation,
+or three (3) business days after placed in the mail, postage prepaid, by certified mail with a return receipt requested. The Parties to this Agreement have executed this Agreement effective as of the Effective Date first above written. This
+Agreement shall not be valid or binding on either Party unless and until signed by both Parties. 
+
+ LICENSOR:
+
+ LICENSEE:
+
+ EYELEVEL INTERACTIVE, LLC
+
+ Superior Uniform Group, Inc.
+
+ a Georgia limited liability company
+
+ a Florida corporation
+
+ By:
+
+/s/
+
+ By:
+
+/s/
+
+ Name:
+
+[Mark DeMattei]
+
+ Name:
+
+[Michael Benstucts]
+
+ Its:
+
+[CEO]
+
+ Its:
+
+[CEO]
+
+31 
+
+ATTACHMENT “A” 
+
+TO LICENSE AND DISTRIBUTION AGREEMENT 
+ 
+DEFINITIONS 
+ 
+“Agreement” is defined in the Introductory Paragraph.
+
+“Authorized Distributor” means any individual or Entity, other than Distributor, that Licensor authorizes to market, promote
+and/or sell Products, including Licensor’s affiliates, distributors, licensees, franchisees and independent sales representatives. 
+
+“Claim” or “Claims” means any and all claims, actions, demands, assessments, litigation, or other form of regulatory or
+adjudicatory procedures, claims, demands, assessments, investigations, or formal or informal mqumes. 
+ 
+“Competitive Products”
+is defined in Section 14.4. 
+ 
+“Confidential Information” means, with respect to Licensor’s Confidential
+Information, all of Licensor’s and PANELVISION’s trade secrets and other proprietary information relating to the operation of their businesses or the marketing, promotion and/or sale of Products, including, but not limited to, methods,
+techniques, specifications, procedures, policies, marketing strategies and any information comprising the Operating Procedures. “Confidential Information” means, with respect to Distributor’s Confidential Information, all of
+Distributor’s trade secrets and other proprietary information relating to the operation of its business or the marketing, promotion and/or sale of the Products (other than any information provided by Licensor), including but not limited to,
+methods, techniques, specifications, procedures, policies, marketing strategies, financial information, sales and royalty reports, customer lists and prospect lists. Licensor’s Confidential Information does not include information that:
+(i) becomes publicly known without breach of Distributor’s obligations under this Agreement; (ii) is rightfully acquired by Distributor from a third party that does not have any confidentiality obligation to Licensor; (iii) is
+independently developed by employees of Distributor without knowledge of or reference to such Confidential Information, as evidenced by written documentation or other tangible evidence of Distributor; (iv) is required, in the opinion of
+Distributor’s legal counsel, to be disclosed as a result of or to comply with any Law or Order, provided that Distributor promptly notifies Licensor of any such requirement and, to the extent practicable, allows Licensor a reasonable
+opportunity prior to disclosure to seek a protective order. Distributor’s Confidential Information does not include information which: (i) becomes publicly known without breach of Licensor’s obligations under this Agreement;
+(ii) that is rightfully acquired by Licensor from a third party which does not have any confidentiality obligation to Distributor; (iii) that is independently developed by employees of Licensor without knowledge of or reference to such
+Confidential Information, as evidenced by written documentation or other tangible evidence of Licensor; (iv) that is required, in the opinion of Licensor’s legal counsel, to be disclosed as a result of or to comply with any franchise law
+or governmental order, provided that Licensor promptly notifies Distributor of any such requirement and, to the extent practicable, allows Distributor a reasonable opportunity prior to disclosure to seek a protective order. 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+“Confidentiality Agreement” means Licensor’s form of Confidentiality and
+Nonsolicitation Agreement, the most current form of which is attached to this Agreement as ATTACHMENT “F”. 
+
+“Copyrights” means all works and materials for which Licensor (or Licensor’s affiliates or licensors) or PANELVISION have secured
+common law or registered copyright protection and that Licensor allows Distributor to use, sell or display in connection with the marketing, promotion and/or sale of Products, whether now in existence or created in the future, including, without
+limitation, any photographs, images and holograms used or affixed to the Products that are owned by Licensor (or Licensor’s affiliates or licensors) or PANELVISION. 
+ 
+“Customer” means any individual or Entity that has either signed a Supply Contract with Distributor or issued a purchase order to Distributor for the purchase of Products and includes all
+Exclusive Customers. The term “Customer” may include Licensor and Authorized Distributors if Distributor is granted the right to manufacture Products pursuant to the terms of a separately executed Manufacturing Agreement between Licensor
+and Distributor. 
+ 
+“Dispute” is defined in Section 22. 
+ 
+“Distributor Indemnified Party” means Distributor and each of Distributor’s past, present and future owners, members, officers, directors, employees and agents, as well as
+Distributor’s parent companies, subsidiaries and affiliates, and each of their past, present and future owners, members, officers, directors, employees and agents. 
+ 
+“Distributor” is defined in the Introductory Paragraph. 
+ 
+“Earned
+Royalties” is defined in Section 12.2. 
+ 
+“Effective Date” is defined in the Introductory Paragraph.
+
+“Entity” means a corporation, partnership, limited liability company or other form of association. 
+
+“Exclusive Customer” is defined in Section 4. 
+ 
+“General Release” means Licensor’s current form of general release of all claims against Licensor and Licensor’s affiliates and subsidiaries, and Licensor’s and their
+respective members, officers, directors, agents and employees, in both their corporate and individual capacities. Licensor’s most current form of general release, as of the Effective Date, is attached to this Agreement as ATTACHMENT
+“G”. 
+ 
+“Gross Sales” is defined in Section 12.2. 
+
+“Improvements” is defined in Section 17.6. 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+“Intellectual Property” means, collectively or individually, the Marks, Copyrights,
+Patents and Confidential Information. 
+ 
+“interim Term” is defined in Section 6.3. 
+
+“Laws” is defined in Section 9.4(e). 
+ 
+“Licensor” is defined in the Introductory Paragraph. 
+ 
+“Licensor
+Indemnified Party” means Licensor and each of Licensor’s past, present and future owners, members, officers, directors, employees and agents, as well as Licensor’s parent companies, subsidiaries and affiliates, and each of their
+past, present and future owners, members, officers, directors, employees and agents. 
+ 
+“Local Taxes” is defined in
+Section 12.7. 
+ 
+“Losses and Expenses” means all compensatory, exemplary, and punitive damages; fines and
+penalties; attorneys’ fees; experts’ fees; court costs; costs associated with investigating and defending against Claims; settlement amounts; judgments; compensation for damages to the indemnified party’s reputation and goodwill; and
+all other costs, damages, liabilities and expenses associated with any of the foregoing losses and expenses or incurred by an indemnified party as a result of a Claim. 
+ 
+“Marketing Campaign” is defined in Section 9.1. 
+
+“Marks” means the logotypes, service marks, and trademarks now or hereafter involved in the marketing, promotion and sale of Products,
+including “EYELEVEL MARKETING,” “iPOP,” “WE’VE GOT YOUR BACK,” “MADE BANK,” “USE IT OR LOSE IT,” “SWITCH-IT,” “BE SEEN,” “EYELEVEL INTERACTIVE,” and any other
+trademarks, service marks or trade names that Licensor designates for use by Similarly Situated Authorized Distributors. 
+ 
+“Measuring
+Period” is defined in Section 12.2(a). 
+ 
+“Operating Procedures” is defined in Section 10.2.
+
+“Orders” is defined in Section 9.4(e). 
+ 
+“Party” or “Parties” is defined in the Introductory Paragraph. 
+
+“Patent” means U.S. Pat. No. 7,571,495 (“Billboard Garment”) and any continuation, continuation in part, reexamination
+patent or reissue patent thereof or any other patent that would be infringed by any party not licensed therereunder to make, use, sell or offer to sell any of the Products. 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+“Post-Term Restricted Period” is defined in Section 14.5. 
+
+“Products” is defined in Section 2. 
+ 
+“Prohibited Activities” is defined in Section 14.4. 
+ 
+“Sell
+Off Period” is defined in Section 21.1. 
+ 
+“Similarly Situated Authorized Distributor” means any
+Authorized Distributor: (i) that generates at least $100,000,000 in sales of uniforms on an annual basis; (ii) that is a competitor of Distributor; (iii) where the majority of its revenues received from the sale of uniforms and
+garments to businesses is generated from the sale of uniforms and garments to businesses within the same or related industries as the Exclusive Customers as listed in Exhibit D on the Effective Date; and (iv) that is granted distribution
+rights to a territory that is comparable to the “Territory” granted to Distributor under this Agreement or includes a territory that encompasses any part of the United States or the entire United States. 
+
+“Supply Contract” means a written agreement between Distributor and a Customer pursuant to which the Customer agrees to purchase
+Products from Distributor. 
+ 
+“Term” is defined in Section 6.1. 
+
+“Territory” is defined in Section 2. 
+
+ATTACHMENT “B” 
+
+TO LICENSE AND DISTRIBUTION AGREEMENT 
+ 
+[*] OF ALL TYPES 
+ 
+[*]
+OF ALL TYPES 
+ 
+[*] OF ALL TYPES
+
+[*] OF ALL TYPES 
+
+ALL OF THE ABOVE ITEMS MUST
+FEATURE REMOVABLE PANELS THAT DISPLAY ARTWORK, TEXT 
+ 
+OR OTHER IMAGES THROUGH ANY PASSIVE OR ACTIVE MEANS
+(SUCH AS CONVENTIONAL 
+ 
+PRINTING OR
+ELECTRONICALLY 
+
+ATTACHMENT “C” 
+
+TO LICENSE AND DISTRIBUTION AGREEMENT 
+ 
+TERRITORY 
+ 
+The Territory referenced in the License and Distribution
+Agreement shall consist of the following geographic area: Worldwide 
+
+ATTACHMENT “D” 
+
+TO LICENSE AND DISTRIBUTION FRANCHISE AGREEMENT 
+ 
+EXCLUSIVE CUSTOMERS 
+ 
+TIER I
+
+Number
+
+Customer
+
+ 1
+ 
+ [*]
+
+ 2
+ 
+ [*]
+
+ 3
+ 
+ [*]
+
+ 4
+ 
+ [*]
+
+ 5
+ 
+ [*]
+
+ 6
+ 
+ [*]
+
+ 7
+ 
+ [*]
+
+ 8
+ 
+ [*]
+
+ 9
+ 
+ [*]
+
+ 10
+ 
+ [*]
+
+ 11
+ 
+ [*]
+
+ 12
+ 
+ [*]
+
+ 13
+ 
+ [*]
+
+ 14
+ 
+ [*]
+
+ 15
+ 
+ [*]
+
+ 16
+ 
+ [*]
+
+ 17
+ 
+ [*]
+
+ 18
+ 
+ [*]
+
+ 19
+ 
+ [*]
+
+ 20
+ 
+ [*]
+
+ 21
+ 
+ [*]
+
+ 22
+ 
+ [*]
+
+ 23
+ 
+ [*]
+
+ 24
+ 
+ [*]
+
+ 25
+ 
+ [*]
+
+ 26
+ 
+ [*]
+
+ 27
+ 
+ [*]
+
+ 28
+ 
+ [*]
+
+ 29
+ 
+ [*]
+
+ 30
+ 
+ [*]
+
+ 31
+ 
+ [*]
+
+ 32
+ 
+ [*]
+
+ 33
+ 
+ [*]
+
+ 34
+ 
+ [*]
+
+ 35
+ 
+ [*]
+
+ 36
+ 
+ [*]
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ 37
+ 
+ [*]
+
+ 38
+ 
+ [*]
+
+ 39
+ 
+ [*]
+
+ 40
+ 
+ [*]
+
+ 41
+ 
+ [*]
+
+ 42
+ 
+ [*]
+
+ 43
+ 
+ [*]
+
+ 44
+ 
+ [*]
+
+ 45
+ 
+ [*]
+
+ 46
+ 
+ [*]
+
+ 47
+ 
+ [*]
+
+ 48
+ 
+ [*]
+
+ 49
+ 
+ [*]
+
+ 50
+ 
+ [*]
+
+ 51
+ 
+ [*]
+
+ 52
+ 
+ [*]
+
+ 53
+ 
+ [*]
+
+ 54
+ 
+ [*]
+
+ 55
+ 
+ [*]
+
+ 56
+ 
+ [*]
+
+ 57
+ 
+ [*]
+
+ 58
+ 
+ [*]
+
+ 59
+ 
+ [*]
+
+ 60
+ 
+ [*]
+
+ 61
+ 
+ [*]
+
+ 62
+ 
+ [*]
+
+ 63
+ 
+ [*]
+
+ 64
+ 
+ [*]
+
+ 65
+ 
+ [*]
+
+ 66
+ 
+ [*]
+
+ 67
+ 
+ [*]
+
+ 68
+ 
+ [*]
+
+ 69
+ 
+ [*]
+
+ 70
+ 
+ [*]
+
+ 71
+ 
+ [*]
+
+ 72
+ 
+ [*]
+
+ 73
+ 
+ [*]
+
+ 74
+ 
+ [*]
+
+ 75
+ 
+ [*]
+
+ 76
+ 
+ [*]
+
+ 77
+ 
+ [*]
+
+ 78
+ 
+ [*]
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ 79
+ 
+ [*]
+
+ 80
+ 
+ [*]
+
+ 81
+ 
+ [*]
+
+ 82
+ 
+ [*]
+
+ 83
+ 
+ [*]
+
+ 84
+ 
+ [*]
+
+ 85
+ 
+ [*]
+
+ 86
+ 
+ [*]
+
+ 87
+ 
+ [*]
+
+ 88
+ 
+ [*]
+
+ 89
+ 
+ [*]
+
+ 90
+ 
+ [*]
+
+ 91
+ 
+ [*]
+
+ 92
+ 
+ [*]
+
+ 93
+ 
+ [*]
+
+ 94
+ 
+ [*]
+
+ 95
+ 
+ [*]
+
+ 96
+ 
+ [*]
+
+ 97
+ 
+ [*]
+
+ 98
+ 
+ [*]
+
+ 99
+ 
+ [*]
+
+ 100
+ 
+ [*]
+
+ 101
+ 
+ [*]
+
+ 102
+ 
+ [*]
+
+ 103
+ 
+ [*]
+
+ 104
+ 
+ [*]
+
+ 105
+ 
+ [*]
+
+ 106
+ 
+ [*]
+
+ 107
+ 
+ [*]
+
+ 108
+ 
+ [*]
+
+ 109
+ 
+ [*]
+
+ 110
+ 
+ [*]
+
+ 111
+ 
+ [*]
+
+ 112
+ 
+ [*]
+
+ 113
+ 
+ [*]
+
+ 114
+ 
+ [*]
+
+ 115
+ 
+ [*]
+
+ 116
+ 
+ [*]
+
+ 117
+ 
+ [*]
+
+ 118
+ 
+ [*]
+
+ 119
+ 
+ [*]
+
+ 120
+ 
+ [*]
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ 121
+ 
+ [*]
+
+ 122
+ 
+ [*]
+
+ 123
+ 
+ [*]
+
+ 124
+ 
+ [*]
+
+ 125
+ 
+ [*]
+
+ 126
+ 
+ [*]
+
+ 127
+ 
+ [*]
+
+ 128
+ 
+ [*]
+
+ 129
+ 
+ [*]
+
+ 130
+ 
+ [*]
+
+ 131
+ 
+ [*]
+
+ 132
+ 
+ [*]
+
+ 133
+ 
+ [*]
+
+ 134
+ 
+ [*]
+
+ 135
+ 
+ [*]
+
+ 136
+ 
+ [*]
+
+ 137
+ 
+ [*]
+
+ 138
+ 
+ [*]
+
+ 139
+ 
+ [*]
+
+ 140
+ 
+ [*]
+
+ 141
+ 
+ [*]
+
+ 142
+ 
+ [*]
+
+ 143
+ 
+ [*]
+
+ 144
+ 
+ [*]
+
+ 145
+ 
+ [*]
+
+ 146
+ 
+ [*]
+
+ 147
+ 
+ [*]
+
+ 148
+ 
+ [*]
+
+ 149
+ 
+ [*]
+
+ 150
+ 
+ [*]
+
+ 151
+ 
+ [*]
+
+ 152
+ 
+ [*]
+
+ 153
+ 
+ [*]
+
+ 154
+ 
+ [*]
+
+ 155
+ 
+ [*]
+
+ 156
+ 
+ [*]
+
+ 157
+ 
+ [*]
+
+ 158
+ 
+ [*]
+
+ 159
+ 
+ [*]
+
+ 160
+ 
+ [*]
+
+ 161
+ 
+ [*]
+
+ 162
+ 
+ [*]
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ 163
+ 
+ [*]
+
+ 164
+ 
+ [*]
+
+ 165
+ 
+ [*]
+
+ 166
+ 
+ [*]
+
+ 167
+ 
+ [*]
+
+ 168
+ 
+ [*]
+
+ 169
+ 
+ [*]
+
+ 170
+ 
+ [*]
+
+ 171
+ 
+ [*]
+
+ 172
+ 
+ [*]
+
+ 173
+ 
+ [*]
+
+ 174
+ 
+ [*]
+
+ 175
+ 
+ [*]
+
+ 176
+ 
+ [*]
+
+ 177
+ 
+ [*]
+
+ 178
+ 
+ [*]
+
+ 179
+ 
+ [*]
+
+ 180
+ 
+ [*]
+
+ 181
+ 
+ [*]
+
+ 182
+ 
+ [*]
+
+ 183
+ 
+ [*]
+
+ 184
+ 
+ [*]
+
+ 185
+ 
+ [*]
+
+ 186
+ 
+ [*]
+
+ 187
+ 
+ [*]
+
+ 188
+ 
+ [*]
+
+ 189
+ 
+ [*]
+
+ 190
+ 
+ [*]
+
+ 191
+ 
+ [*]
+
+ 192
+ 
+ [*]
+
+ 193
+ 
+ [*]
+
+ 194
+ 
+ [*]
+
+ 195
+ 
+ [*]
+
+ 196
+ 
+ [*]
+
+ 197
+ 
+ [*]
+
+ 198
+ 
+ [*]
+
+ 199
+ 
+ [*]
+
+ 200
+ 
+ [*]
+
+ 201
+ 
+ [*]
+
+ 202
+ 
+ [*]
+
+ 203
+ 
+ [*]
+
+ 204
+ 
+ [*]
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ 205
+ 
+ [*]
+
+ 206
+ 
+ [*]
+
+ 207
+ 
+ [*]
+
+ 208
+ 
+ [*]
+
+ 209
+ 
+ [*]
+
+ 210
+ 
+ [*]
+
+ 211
+ 
+ [*]
+
+ 212
+ 
+ [*]
+
+ 213
+ 
+ [*]
+
+ 214
+ 
+ [*]
+
+ 215
+ 
+ [*]
+
+ 216
+ 
+ [*]
+
+ 217
+ 
+ [*]
+
+ 218
+ 
+ [*]
+
+ 219
+ 
+ [*]
+
+ 220
+ 
+ [*]
+
+ 221
+ 
+ [*]
+
+ 222
+ 
+ [*]
+
+ 223
+ 
+ [*]
+
+ 224
+ 
+ [*]
+
+ 225
+ 
+ [*]
+
+ 226
+ 
+ [*]
+
+ 227
+ 
+ [*]
+
+ 228
+ 
+ [*]
+
+ 229
+ 
+ [*]
+
+ 230
+ 
+ [*]
+
+ 231
+ 
+ [*]
+
+ 232
+ 
+ [*]
+
+ 233
+ 
+ [*]
+
+ 234
+ 
+ [*]
+
+ 235
+ 
+ [*]
+
+ 236
+ 
+ [*]
+
+ 237
+ 
+ [*]
+
+ 238
+ 
+ [*]
+
+ 239
+ 
+ [*]
+
+ 240
+ 
+ [*]
+
+ 241
+ 
+ [*]
+
+ 242
+ 
+ [*]
+
+ 243
+ 
+ [*]
+
+ 244
+ 
+ [*]
+
+ 245
+ 
+ [*]
+
+ 246
+ 
+ [*]
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ 247
+ 
+ [*]
+
+ 248
+ 
+ [*]
+
+ 249
+ 
+ [*]
+
+ 250
+ 
+ [*]
+
+ 251
+ 
+ [*]
+
+ 252
+ 
+ [*]
+
+ 253
+ 
+ [*]
+
+ 254
+ 
+ [*]
+
+ 255
+ 
+ [*]
+
+ 256
+ 
+ [*]
+
+ 257
+ 
+ [*]
+
+ 258
+ 
+ [*]
+
+ 259
+ 
+ [*]
+
+ 260
+ 
+ [*]
+
+ 261
+ 
+ [*]
+
+ 262
+ 
+ [*]
+
+ 263
+ 
+ [*]
+
+ 264
+ 
+ [*]
+
+ 265
+ 
+ [*]
+
+ 266
+ 
+ [*]
+
+ 267
+ 
+ [*]
+
+ 268
+ 
+ [*]
+
+ 269
+ 
+ [*]
+
+ 270
+ 
+ [*]
+
+ 271
+ 
+ [*]
+
+ 272
+ 
+ [*]
+
+ 273
+ 
+ [*]
+
+ 274
+ 
+ [*]
+
+ 276
+ 
+ [*]
+
+ 277
+ 
+ [*]
+
+ 278
+ 
+ [*]
+
+ 279
+ 
+ [*]
+
+ 280
+ 
+ [*]
+
+ 281
+ 
+ [*]
+
+ 282
+ 
+ [*]
+
+ 283
+ 
+ [*]
+
+ 284
+ 
+ [*]
+
+ 285
+ 
+ [*]
+
+ 286
+ 
+ [*]
+
+ 287
+ 
+ [*]
+
+ 288
+ 
+ [*]
+
+ 289
+ 
+ [*]
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ 290
+ 
+ [*]
+
+ 291
+ 
+ [*]
+
+ 292
+ 
+ [*]
+
+ 293
+ 
+ [*]
+
+ 294
+ 
+ [*]
+
+ 295
+ 
+ [*]
+
+ 296
+ 
+ [*]
+
+ 297
+ 
+ [*]
+
+ 298
+ 
+ [*]
+
+ 299
+ 
+ [*]
+
+ 300
+ 
+ [*]
+
+ 301
+ 
+ [*]
+
+ 302
+ 
+ [*]
+
+ 303
+ 
+ [*]
+
+ 304
+ 
+ [*]
+
+ 305
+ 
+ [*]
+
+ 306
+ 
+ [*]
+
+ 307
+ 
+ [*]
+
+ 308
+ 
+ [*]
+
+ 309
+ 
+ [*]
+
+ 310
+ 
+ [*]
+
+ 311
+ 
+ [*]
+
+ 312
+ 
+ [*]
+
+ 313
+ 
+ [*]
+
+ 314
+ 
+ [*]
+
+ 315
+ 
+ [*]
+
+ 316
+ 
+ [*]
+
+TIER 2
+CUSTOMERS 
+
+ 1
+ 
+ [*]
+
+ 2
+ 
+ [*]
+
+ 3
+ 
+ [*]
+
+ 4
+ 
+ [*]
+
+ 5
+ 
+ [*]
+
+ 6
+ 
+ [*]
+
+ 7
+ 
+ [*]
+
+ 8
+ 
+ [*]
+
+ 9
+ 
+ [*]
+
+ 10
+ 
+ [*]
+
+ 11
+ 
+ [*]
+
+ 12
+ 
+ [*]
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ 13
+ 
+ [*]
+
+ 14
+ 
+ [*]
+
+ 15
+ 
+ [*]
+
+ 16
+ 
+ [*]
+
+ 17
+ 
+ [*]
+
+ 18
+ 
+ [*]
+
+ 19
+ 
+ [*]
+
+ 20
+ 
+ [*]
+
+ 21
+ 
+ [*]
+
+ 22
+ 
+ [*]
+
+ 23
+ 
+ [*]
+
+ 24
+ 
+ [*]
+
+ 25
+ 
+ [*]
+
+ 26
+ 
+ [*]
+
+ 27
+ 
+ [*]
+
+ 28
+ 
+ [*]
+
+ 29
+ 
+ [*]
+
+ 30
+ 
+ [*]
+
+ 31
+ 
+ [*]
+
+ 32
+ 
+ [*]
+
+ 33
+ 
+ [*]
+
+ 34
+ 
+ [*]
+
+ 35
+ 
+ [*]
+
+ 36
+ 
+ [*]
+
+ 37
+ 
+ [*]
+
+ 38
+ 
+ [*]
+
+ 39
+ 
+ [*]
+
+ 40
+ 
+ [*]
+
+ 41
+ 
+ [*]
+
+ 42
+ 
+ [*]
+
+ 43
+ 
+ [*]
+
+ 44
+ 
+ [*]
+
+ 45
+ 
+ [*]
+
+ 46
+ 
+ [*]
+
+ 47
+ 
+ [*]
+
+ 48
+ 
+ [*]
+
+ 49
+ 
+ [*]
+
+ 50
+ 
+ [*]
+
+ 51
+ 
+ [*]
+
+ 52
+ 
+ [*]
+
+ 53
+ 
+ [*]
+
+ 54
+ 
+ [*]
+
+ 55
+ 
+ [*]
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ 56
+ 
+ [*]
+
+ 57
+ 
+ [*]
+
+ 58
+ 
+ [*]
+
+ 59
+ 
+ [*]
+
+ 60
+ 
+ [*]
+
+ 61
+ 
+ [*]
+
+ 62
+ 
+ [*]
+
+ 63
+ 
+ [*]
+
+ 64
+ 
+ [*]
+
+ 65
+ 
+ [*]
+
+ 66
+ 
+ [*]
+
+ 67
+ 
+ [*]
+
+ 68
+ 
+ [*]
+
+ 69
+ 
+ [*]
+
+ 70
+ 
+ [*]
+
+ 71
+ 
+ [*]
+
+ 72
+ 
+ [*]
+
+ 73
+ 
+ [*]
+
+ 74
+ 
+ [*]
+
+ 75
+ 
+ [*]
+
+ 76
+ 
+ [*]
+
+ 77
+ 
+ [*]
+
+ 78
+ 
+ [*]
+
+ 79
+ 
+ [*]
+
+ 80
+ 
+ [*]
+
+ 81
+ 
+ [*]
+
+ 82
+ 
+ [*]
+
+ 83
+ 
+ [*]
+
+ 84
+ 
+ [*]
+
+ 85
+ 
+ [*]
+
+ 86
+ 
+ [*]
+
+ 87
+ 
+ [*]
+
+ 88
+ 
+ [*]
+
+ 89
+ 
+ [*]
+
+ 90
+ 
+ [*]
+
+ 91
+ 
+ [*]
+
+ 92
+ 
+ [*]
+
+ 93
+ 
+ [*]
+
+ 94
+ 
+ [*]
+
+ 95
+ 
+ [*]
+
+ 96
+ 
+ [*]
+
+ 97
+ 
+ [*]
+
+ 98
+ 
+ [*]
+
+ 99
+ 
+ [*]
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ 100
+ 
+ [*]
+
+ 101
+ 
+ [*]
+
+ 102
+ 
+ [*]
+
+ 103
+ 
+ [*]
+
+ 104
+ 
+ [*]
+
+ 105
+ 
+ [*]
+
+ 106
+ 
+ [*]
+
+ 107
+ 
+ [*]
+
+ 108
+ 
+ [*]
+
+ 109
+ 
+ [*]
+
+ 110
+ 
+ [*]
+
+ 111
+ 
+ [*]
+
+ 112
+ 
+ [*]
+
+ 113
+ 
+ [*]
+
+ 114
+ 
+ [*]
+
+ 115
+ 
+ [*]
+
+ 116
+ 
+ [*]
+
+ 117
+ 
+ [*]
+
+ 118
+ 
+ [*]
+
+ 119
+ 
+ [*]
+
+ 120
+ 
+ [*]
+
+ 121
+ 
+ [*]
+
+ 122
+ 
+ [*]
+
+ 123
+ 
+ [*]
+
+ 124
+ 
+ [*]
+
+ 125
+ 
+ [*]
+
+ 126
+ 
+ [*]
+
+ 127
+ 
+ [*]
+
+ 128
+ 
+ [*]
+
+ 129
+ 
+ [*]
+
+ 130
+ 
+ [*]
+
+ 131
+ 
+ [*]
+
+ 132
+ 
+ [*]
+
+ 133
+ 
+ [*]
+
+ 134
+ 
+ [*]
+
+ 135
+ 
+ [*]
+
+ 136
+ 
+ [*]
+
+ 137
+ 
+ [*]
+
+ 138
+ 
+ [*]
+
+ 139
+ 
+ [*]
+
+ 140
+ 
+ [*]
+
+ 141
+ 
+ [*]
+
+ 142
+ 
+ [*]
+
+ 143
+ 
+ [*]
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ 144
+ 
+ [*]
+
+ 145
+ 
+ [*]
+
+ 146
+ 
+ [*]
+
+ 147
+ 
+ [*]
+
+ 148
+ 
+ [*]
+
+ 149
+ 
+ [*]
+
+ 150
+ 
+ [*]
+
+ 151
+ 
+ [*]
+
+ 152
+ 
+ [*]
+
+ 153
+ 
+ [*]
+
+ 154
+ 
+ [*]
+
+ 155
+ 
+ [*]
+
+ 156
+ 
+ [*]
+
+ 157
+ 
+ [*]
+
+ 158
+ 
+ [*]
+
+ 159
+ 
+ [*]
+
+ 160
+ 
+ [*]
+
+ 161
+ 
+ [*]
+
+ 162
+ 
+ [*]
+
+ 163
+ 
+ [*]
+
+ 164
+ 
+ [*]
+
+ 165
+ 
+ [*]
+
+ 166
+ 
+ [*]
+
+ 167
+ 
+ [*]
+
+ 168
+ 
+ [*]
+
+ 169
+ 
+ [*]
+
+ 170
+ 
+ [*]
+
+ 171
+ 
+ [*]
+
+ 172
+ 
+ [*]
+
+ 173
+ 
+ [*]
+
+ 174
+ 
+ [*]
+
+ 175
+ 
+ [*]
+
+ 176
+ 
+ [*]
+
+ 177
+ 
+ [*]
+
+ 178
+ 
+ [*]
+
+ 179
+ 
+ [*]
+
+ 180
+ 
+ [*]
+
+ 181
+ 
+ [*]
+
+ 182
+ 
+ [*]
+
+ 183
+ 
+ [*]
+
+ 184
+ 
+ [*]
+
+ 185
+ 
+ [*]
+
+ 186
+ 
+ [*]
+
+ 187
+ 
+ [*]
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ 188
+ 
+ [*]
+
+ 189
+ 
+ [*]
+
+ 190
+ 
+ [*]
+
+ 191
+ 
+ [*]
+
+ 192
+ 
+ [*]
+
+ 193
+ 
+ [*]
+
+ 194
+ 
+ [*]
+
+ 195
+ 
+ [*]
+
+ 196
+ 
+ [*]
+
+ 198
+ 
+ [*]
+
+ 199
+ 
+ [*]
+
+ 200
+ 
+ [*]
+
+ 201
+ 
+ [*]
+
+ 202
+ 
+ [*]
+
+ 203
+ 
+ [*]
+
+ 204
+ 
+ [*]
+
+ 205
+ 
+ [*]
+
+ 206
+ 
+ [*]
+
+ 207
+ 
+ [*]
+
+ 208
+ 
+ [*]
+
+ 209
+ 
+ [*]
+
+ 210
+ 
+ [*]
+
+ 211
+ 
+ [*]
+
+ 212
+ 
+ [*]
+
+ 213
+ 
+ [*]
+
+ 214
+ 
+ [*]
+
+ 215
+ 
+ [*]
+
+ 216
+ 
+ [*]
+
+ 217
+ 
+ [*]
+
+ 218
+ 
+ [*]
+
+ 219
+ 
+ [*]
+
+ 220
+ 
+ [*]
+
+ 221
+ 
+ [*]
+
+ 222
+ 
+ [*]
+
+ 223
+ 
+ [*]
+
+ 224
+ 
+ [*]
+
+ 225
+ 
+ [*]
+
+ 226
+ 
+ [*]
+
+ 227
+ 
+ [*]
+
+ 228
+ 
+ [*]
+
+ 229
+ 
+ [*]
+
+ 230
+ 
+ [*]
+
+ 231
+ 
+ [*]
+
+ 232
+ 
+ [*]
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ 233
+ 
+ [*]
+
+ 234
+ 
+ [*]
+
+ 235
+ 
+ [*]
+
+ 236
+ 
+ [*]
+
+ 237
+ 
+ [*]
+
+ 238
+ 
+ [*]
+
+ 239
+ 
+ [*]
+
+ 240
+ 
+ [*]
+
+ 241
+ 
+ [*]
+
+ 242
+ 
+ [*]
+
+ 243
+ 
+ [*]
+
+ 244
+ 
+ [*]
+
+ 245
+ 
+ [*]
+
+ 246
+ 
+ [*]
+
+ 247
+ 
+ [*]
+
+ 248
+ 
+ [*]
+
+ 249
+ 
+ [*]
+
+ 250
+ 
+ [*]
+
+ 251
+ 
+ [*]
+
+ 252
+ 
+ [*]
+
+ 253
+ 
+ [*]
+
+ 254
+ 
+ [*]
+
+ 255
+ 
+ [*]
+
+ 256
+ 
+ [*]
+
+ 257
+ 
+ [*]
+
+ 258
+ 
+ [*]
+
+ 259
+ 
+ [*]
+
+ 260
+ 
+ [*]
+
+ 261
+ 
+ [*]
+
+ 262
+ 
+ [*]
+
+ 263
+ 
+ [*]
+
+ 264
+ 
+ [*]
+
+ 265
+ 
+ [*]
+
+ 266
+ 
+ [*]
+
+ 267
+ 
+ [*]
+
+ 268
+ 
+ [*]
+
+ 269
+ 
+ [*]
+
+ 270
+ 
+ [*]
+
+ 271
+ 
+ [*]
+
+ 272
+ 
+ [*]
+
+ 273
+ 
+ [*]
+
+ 274
+ 
+ [*]
+
+ 275
+ 
+ [*]
+
+ 276
+ 
+ [*]
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ 277
+ 
+ [*]
+
+ 278
+ 
+ [*]
+
+ 279
+ 
+ [*]
+
+ 280
+ 
+ [*]
+
+ 281
+ 
+ [*]
+
+ 282
+ 
+ [*]
+
+ 283
+ 
+ [*]
+
+ 284
+ 
+ [*]
+
+ 285
+ 
+ [*]
+
+ 286
+ 
+ [*]
+
+ 287
+ 
+ [*]
+
+ 288
+ 
+ [*]
+
+ 289
+ 
+ [*]
+
+ 290
+ 
+ [*]
+
+ 291
+ 
+ [*]
+
+ 292
+ 
+ [*]
+
+ 293
+ 
+ [*]
+
+ 294
+ 
+ [*]
+
+ 295
+ 
+ [*]
+
+ 296
+ 
+ [*]
+
+ 297
+ 
+ [*]
+
+ 298
+ 
+ [*]
+
+ 299
+ 
+ [*]
+
+ 300
+ 
+ [*]
+
+ 301
+ 
+ [*]
+
+ 302
+ 
+ [*]
+
+ 303
+ 
+ [*]
+
+ 304
+ 
+ [*]
+
+ 305
+ 
+ [*]
+
+ 306
+ 
+ [*]
+
+ 307
+ 
+ [*]
+
+ 308
+ 
+ [*]
+
+ 309
+ 
+ [*]
+
+ 310
+ 
+ [*]
+
+ 311
+ 
+ [*]
+
+ 312
+ 
+ [*]
+
+ 313
+ 
+ [*]
+
+ 314
+ 
+ [*]
+
+ 315
+ 
+ [*]
+
+ 316
+ 
+ [*]
+
+ 317
+ 
+ [*]
+
+ 318
+ 
+ [*]
+
+ 319
+ 
+ [*]
+
+ 320
+ 
+ [*]
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ 321
+ 
+ [*]
+
+ 322
+ 
+ [*]
+
+ 323
+ 
+ [*]
+
+ 324
+ 
+ [*]
+
+ 325
+ 
+ [*]
+
+ 326
+ 
+ [*]
+
+ 327
+ 
+ [*]
+
+ 328
+ 
+ [*]
+
+ 329
+ 
+ [*]
+
+ 330
+ 
+ [*]
+
+ 331
+ 
+ [*]
+
+ 332
+ 
+ [*]
+
+ 333
+ 
+ [*]
+
+ 334
+ 
+ [*]
+
+ 335
+ 
+ [*]
+
+ 336
+ 
+ [*]
+
+ 337
+ 
+ [*]
+
+ 338
+ 
+ [*]
+
+ 339
+ 
+ [*]
+
+ 340
+ 
+ [*]
+
+ 341
+ 
+ [*]
+
+ 342
+ 
+ [*]
+
+ 343
+ 
+ [*]
+
+ 344
+ 
+ [*]
+
+ 345
+ 
+ [*]
+
+ 346
+ 
+ [*]
+
+ 347
+ 
+ [*]
+
+ 348
+ 
+ [*]
+
+ 349
+ 
+ [*]
+
+ 350
+ 
+ [*]
+
+ 351
+ 
+ [*]
+
+ 352
+ 
+ [*]
+
+ 353
+ 
+ [*]
+
+ 354
+ 
+ [*]
+
+ 355
+ 
+ [*]
+
+ 356
+ 
+ [*]
+
+ 357
+ 
+ [*]
+
+ 358
+ 
+ [*]
+
+ 359
+ 
+ [*]
+
+ 360
+ 
+ [*]
+
+ 361
+ 
+ [*]
+
+ 362
+ 
+ [*]
+
+ 363
+ 
+ [*]
+
+ 364
+ 
+ [*]
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ 365
+ 
+ [*]
+
+ 366
+ 
+ [*]
+
+ 367
+ 
+ [*]
+
+ 368
+ 
+ [*]
+
+ 369
+ 
+ [*]
+
+ 370
+ 
+ [*]
+
+ 371
+ 
+ [*]
+
+ 372
+ 
+ [*]
+
+ 373
+ 
+ [*]
+
+ 374
+ 
+ [*]
+
+ 375
+ 
+ [*]
+
+ 376
+ 
+ [*]
+
+ 377
+ 
+ [*]
+
+ 378
+ 
+ [*]
+
+ 379
+ 
+ [*]
+
+ 380
+ 
+ [*]
+
+ 381
+ 
+ [*]
+
+ 382
+ 
+ [*]
+
+ 383
+ 
+ [*]
+
+ 384
+ 
+ [*]
+
+ 385
+ 
+ [*]
+
+ 386
+ 
+ [*]
+
+ 387
+ 
+ [*]
+
+ 388
+ 
+ [*]
+
+ 389
+ 
+ [*]
+
+ 390
+ 
+ [*]
+
+ 391
+ 
+ [*]
+
+ 392
+ 
+ [*]
+
+ 393
+ 
+ [*]
+
+ 394
+ 
+ [*]
+
+ 395
+ 
+ [*]
+
+ 396
+ 
+ [*]
+
+ 397
+ 
+ [*]
+
+ 398
+ 
+ [*]
+
+ 399
+ 
+ [*]
+
+ 400
+ 
+ [*]
+
+ 401
+ 
+ [*]
+
+ 402
+ 
+ [*]
+
+ 403
+ 
+ [*]
+
+ 404
+ 
+ [*]
+
+ 405
+ 
+ [*]
+
+ 406
+ 
+ [*]
+
+ 407
+ 
+ [*]
+
+ 408
+ 
+ [*]
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ 409
+ 
+ [*]
+
+ 410
+ 
+ [*]
+
+ 411
+ 
+ [*]
+
+ 412
+ 
+ [*]
+
+ 413
+ 
+ [*]
+
+ 414
+ 
+ [*]
+
+ 415
+ 
+ [*]
+
+ 416
+ 
+ [*]
+
+ 417
+ 
+ [*]
+
+ 418
+ 
+ [*]
+
+ 419
+ 
+ [*]
+
+ 420
+ 
+ [*]
+
+ 421
+ 
+ [*]
+
+ 422
+ 
+ [*]
+
+ 423
+ 
+ [*]
+
+ 424
+ 
+ [*]
+
+ 425
+ 
+ [*]
+
+ 426
+ 
+ [*]
+
+ 427
+ 
+ [*]
+
+ 428
+ 
+ [*]
+
+ 429
+ 
+ [*]
+
+ 430
+ 
+ [*]
+
+ 431
+ 
+ [*]
+
+ 432
+ 
+ [*]
+
+ 433
+ 
+ [*]
+
+ 434
+ 
+ [*]
+
+ 435
+ 
+ [*]
+
+ 436
+ 
+ [*]
+
+ 437
+ 
+ [*]
+
+ 438
+ 
+ [*]
+
+ 439
+ 
+ [*]
+
+ 440
+ 
+ [*]
+
+ 441
+ 
+ [*]
+
+ 442
+ 
+ [*]
+
+ 443
+ 
+ [*]
+
+ 444
+ 
+ [*]
+
+ 445
+ 
+ [*]
+
+ 446
+ 
+ [*]
+
+ 447
+ 
+ [*]
+
+ 448
+ 
+ [*]
+
+ 449
+ 
+ [*]
+
+ 450
+ 
+ [*]
+
+ 451
+ 
+ [*]
+
+ 452
+ 
+ [*]
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ 453
+ 
+ [*]
+
+ 454
+ 
+ [*]
+
+ 455
+ 
+ [*]
+
+ 456
+ 
+ [*]
+
+ 457
+ 
+ [*]
+
+ 458
+ 
+ [*]
+
+ 459
+ 
+ [*]
+
+ 460
+ 
+ [*]
+
+ 461
+ 
+ [*]
+
+ 462
+ 
+ [*]
+
+ 463
+ 
+ [*]
+
+ 464
+ 
+ [*]
+
+ 465
+ 
+ [*]
+
+ 466
+ 
+ [*]
+
+ 467
+ 
+ [*]
+
+ 468
+ 
+ [*]
+
+ 469
+ 
+ [*]
+
+ 470
+ 
+ [*]
+
+ 471
+ 
+ [*]
+
+ 472
+ 
+ [*]
+
+ 473
+ 
+ [*]
+
+ 474
+ 
+ [*]
+
+ 475
+ 
+ [*]
+
+ 476
+ 
+ [*]
+
+ 477
+ 
+ [*]
+
+ 478
+ 
+ [*]
+
+ 479
+ 
+ [*]
+
+ 480
+ 
+ [*]
+
+ 481
+ 
+ [*]
+
+ 482
+ 
+ [*]
+
+ 483
+ 
+ [*]
+
+ 484
+ 
+ [*]
+
+ 485
+ 
+ [*]
+
+ 486
+ 
+ [*]
+
+ 487
+ 
+ [*]
+
+ 488
+ 
+ [*]
+
+ 489
+ 
+ [*]
+
+ 490
+ 
+ [*]
+
+ 491
+ 
+ [*]
+
+ 492
+ 
+ [*]
+
+ 493
+ 
+ [*]
+
+ 494
+ 
+ [*]
+
+ 495
+ 
+ [*]
+
+ 496
+ 
+ [*]
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ 497
+ 
+ [*]
+
+ 498
+ 
+ [*]
+
+ 499
+ 
+ [*]
+
+ 500
+ 
+ [*]
+
+ 501
+ 
+ [*]
+
+ 502
+ 
+ [*]
+
+ 503
+ 
+ [*]
+
+ 504
+ 
+ [*]
+
+ 505
+ 
+ [*]
+
+ 506
+ 
+ [*]
+
+ 507
+ 
+ [*]
+
+ 508
+ 
+ [*]
+
+ 509
+ 
+ [*]
+
+ 510
+ 
+ [*]
+
+ 511
+ 
+ [*]
+
+ 512
+ 
+ [*]
+
+ 513
+ 
+ [*]
+
+ 514
+ 
+ [*]
+
+ 515
+ 
+ [*]
+
+ 516
+ 
+ [*]
+
+ 517
+ 
+ [*]
+
+ 518
+ 
+ [*]
+
+ 519
+ 
+ [*]
+
+ 520
+ 
+ [*]
+
+ 521
+ 
+ [*]
+
+ 522
+ 
+ [*]
+
+ 523
+ 
+ [*]
+
+ 524
+ 
+ [*]
+
+ 525
+ 
+ [*]
+
+ 526
+ 
+ [*]
+
+ 527
+ 
+ [*]
+
+ 528
+ 
+ [*]
+
+ 529
+ 
+ [*]
+
+ 530
+ 
+ [*]
+
+ 531
+ 
+ [*]
+
+ 532
+ 
+ [*]
+
+ 533
+ 
+ [*]
+
+ 534
+ 
+ [*]
+
+ 535
+ 
+ [*]
+
+ 536
+ 
+ [*]
+
+ 537
+ 
+ [*]
+
+ 538
+ 
+ [*]
+
+ 539
+ 
+ [*]
+
+ 540
+ 
+ [*]
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ 541
+ 
+ [*]
+
+ 542
+ 
+ [*]
+
+ 543
+ 
+ [*]
+
+ 544
+ 
+ [*]
+
+ 545
+ 
+ [*]
+
+ 546
+ 
+ [*]
+
+ 547
+ 
+ [*]
+
+ 548
+ 
+ [*]
+
+ 549
+ 
+ [*]
+
+ 550
+ 
+ [*]
+
+ 551
+ 
+ [*]
+
+ 552
+ 
+ [*]
+
+ 553
+ 
+ [*]
+
+ 554
+ 
+ [*]
+
+ 555
+ 
+ [*]
+
+ 556
+ 
+ [*]
+
+ 557
+ 
+ [*]
+
+ 558
+ 
+ [*]
+
+ 559
+ 
+ [*]
+
+ 560
+ 
+ [*]
+
+ 561
+ 
+ [*]
+
+ 562
+ 
+ [*]
+
+ 563
+ 
+ [*]
+
+ 564
+ 
+ [*]
+
+ 565
+ 
+ [*]
+
+ 566
+ 
+ [*]
+
+ 567
+ 
+ [*]
+
+ 568
+ 
+ [*]
+
+ 569
+ 
+ [*]
+
+ 570
+ 
+ [*]
+
+ 571
+ 
+ [*]
+
+ 572
+ 
+ [*]
+
+ 573
+ 
+ [*]
+
+ 574
+ 
+ [*]
+
+ 575
+ 
+ [*]
+
+ 576
+ 
+ [*]
+
+ 577
+ 
+ [*]
+
+ 578
+ 
+ [*]
+
+ 579
+ 
+ [*]
+
+ 580
+ 
+ [*]
+
+ 581
+ 
+ [*]
+
+ 582
+ 
+ [*]
+
+ 583
+ 
+ [*]
+
+ 584
+ 
+ [*]
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ 585
+ 
+ [*]
+
+ 586
+ 
+ [*]
+
+ 587
+ 
+ [*]
+
+ 588
+ 
+ [*]
+
+ 589
+ 
+ [*]
+
+ATTACHMENT “E” 
+
+TO LICENSE AND DISTRIBUTION FRANCHISE AGREEMENT 
+ 
+INTELLECTUAL PROPERTY USAGE GUIDELINES 
+ 
+[See Attached] 
+ 
+EYELEVEL Interactive Logo Usage Guidelines 
+
+Official EYELEVEL Interactive logos are provided herein for your convenience. To ensure brand consistency, it is very important that you read the specific
+rules and guidelines governing the use of each logo. 
+
+ •
+
+All logo files shown herein are for use with print and Web applications. 
+
+ •
+
+The official corporate colors for the EYELEVEL Interactive logo are PMS 7462C Blue and Warm Red C. 
+
+ •
+
+CMYK settings for print application of PMS 7462C Blue are 96% C, 66% M, 20% Y, 4% K. For PMS Warm Red Care 0% C, 99% M, 100% Y, 0% K.
+
+ •
+
+RGB settings for Web application of PMS 7462C Blue are R: 0, G: 91, B: 144, PMS Warm Red Care R: 237, G: 32, B: 36. 
+
+ •
+
+Hex settings are Blue #005B91 and Red #ED2024. 
+
+ •
+
+Digital files are available as EPS (CMYK - Adobe Illustrator, vector art) and PNG (RGB - transparent background, 72 PPI). 
+
+All EYELEVEL Interactive logos, including the names and logos set forth herein, are trademarks of EYELEVEL Interactive. These logos may not be altered or
+redrawn in any way, including changes in typestyle, proportion, letter spacing, color or placement of the individual elements making up the logo. Changing a key graphic element, however good your intentions may be, detracts from the consistency of
+EYELEVEL Interactive trademarks and logos. 
+ 
+You must follow these usage guidelines: 
+
+ •
+
+A minimum of 0.25 inches of clear space needs to surround the logo to separate it from other elements, such as logos and symbols. This area, referred
+to as the area of non-interference, will preserve the visual impact and legibility of the EYELEVEL Interactive logo. 
+
+ •
+
+No other logos, symbols, words, designs or trademarks should be used in close proximity to or combined with the EYELEVEL Interactive logo.
+
+Below are some, but not all, unacceptable uses of the EYELEVEL Interactive logo. See page 3 for pictured examples of
+incorrect usage. 
+
+ •
+
+Do not add any graphic elements around the logo within the area of non-interference. 
+
+ •
+
+Do not place the logo on a heavily patterned background. 
+
+ •
+
+Do not stretch or distort the logo. 
+
+ •
+
+Do not substitute other typefaces or fonts for the logotype. 
+
+ •
+
+Do not enclose the logo in any shapes. 
+
+ •
+
+Do not change the letterspacing of the logotype or move the logo in relation to the logotype. 
+
+ •
+
+Do not place type within the area of non-interference. 
+
+ •
+
+Do not place images or clip art next to the logo. 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+Contact Information: 
+ 
+If you are interested in using these logos for print and Web applications, have any questions concerning their use or have questions about other EYELEVEL Interactive trademarks please contact: 
+
+MADE Holdings LLC 
+ 
+1011 Lake County Road
+
+Greensboro, GA 30642 
+ 
+Terms and
+Conditions 
+ 
+The logos provided are for non-commercial media use only. The use of these logos or other EYElEVEL Interactive trademarks by any
+person other than the media or for commercial purposes is strictly prohibited unless such use is expressly licensed or approved by EYELEVEL Interactive. 
+ 
+EYELEVEL Interactive 6-pica Logo 
+ 
+The EYELEVEL Interactive logo is a trademark and, as such, must
+be used with the trademark symbol. 
+ 
+EYELEVEL Interactive 3-pica Logo 
+ 
+EYELEVEL 
+ 
+Regular Version 
+ 
+To be used whenever the square around the logo symbol is 0.5 inches or larger. Dashed line represents the area of non-interference. A minimum of 0.25 inches of clear space needs to surround the logo to
+separate it from other elements such as copy, pictures, slogans and other logotypes and symbols. This area will preserve the visual impact and legibility of the El logo. 
+ 
+Suggested uses: 
+ 
+Fine printing, silk-screen printing, signs, high-resolution on-screen
+applications. presentations and high-resolution digital printing. 
+ 
+Small Version 
+ 
+To be used whenever the square around the logo symbol is smaller than 0.5 inches or when quality reproduction of the 6-pica logo is not possible. 
+ 
+Dashed line represents the area of non-interference. Do not place any other design elements inside this area. 
+ 
+(See above.) 
+ 
+Suggested uses: 
+ 
+Promotional printing, embroidery, low-resolution onscreen applications, presentations. Web sites and low-resolution digital printing. 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+Color Settings and Digital Files 
+ 
+The EYELEVEL Interactive logo can be printed or applied on the Web in the provided conversion of the color comparable to PMS 7462C Blue/Warm Red C. The logo must be applied in PMS 7462C Blue/Warm Red C or
+black or reversed to while on a dark background. 
+ 
+It is not acceptable to print or apply the logo on the Web in any colors other than PMS
+7462C Blue/Warm Red C, black or white. 
+ 
+CMYK settings for print application of PMS 7462C Blue: 
+
+96% C, 66% M, 20% Y, 4% K 
+ 
+PMS Warm Red C:
+
+0% C, 99% M, 100% Y, 0% K 
+ 
+RGB
+settings for Web application of PMS 7462C Blue: 
+ 
+R: 0, G: 91,8: 144 
+ 
+PMS Warm Red C: 
+ 
+R:237,G:32.B:36 
+ 
+Hex color settings: #005891 and #ED2024 
+ 
+Digital files are available as: 
+
+ •
+
+EPS (CMYK - Adobe Illustrator, vector art) 
+
+ •
+
+PNG (RGB - transparent background, 72 PPI) 
+
+Custom bitmap sizes can be made upon request. 
+ 
+NOTE: All logos illustrated above are examples
+of correct suggested uses. Please use these examples for direction. 
+
+ATTACHMENT “F” 
+
+TO LICENSE AND DISTRIBUTION AGREEMENT 
+ 
+CONFIDENTIALITY AND NONSOLICITATION AGREEMENT 
+ 
+[See Attached] 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+Confidentiality Agreement 
+
+This Agreement (this “Agreement”) is entered into by the undersigned (“you”) in favor of EYELEVEL INTERACTIVE, LLC, and its
+successors and assigns (“us”), upon the terms and conditions set forth in this Agreement. 
+ 
+1. Definitions. For purposes of
+this Agreement, the following terms have the meanings given to them below: 
+ 
+“Confidential Information” means any and all
+non-public information relating to us, our operations, the Products, or the marketing or distribution of Products that you may obtain in connection with your relationship with Distributor, including, without limitation, trade secrets and other
+proprietary information relating to the operation of our business or the marketing, promotion and/or sale of Products, including, but not limited to, methods, techniques, specifications, procedures, policies, marketing strategies and operating
+procedures. Confidential Information does not include information that: (i) becomes publicly known without breach of your obligations under this Agreement; (ii) is rightfully acquired by you from a third party that does not have any
+confidentiality obligation to us; or (iii) is independently developed by you without knowledge of or reference to such Confidential Information, as evidenced by written documentation or other tangible evidence of Distributor. 
+
+“Distributor” means Superior Uniform Group, Inc. 
+ 
+“Distribution Agreement” means the Distribution Agreement, dated , 2011, between us and Distributor and pertaining to the distribution of Products. 
+
+“Products” means the Products listed in Attachment B to the Distribution Agreement. A list of the Products shall be provided to
+you upon request. 
+ 
+2. Background. You are an owner, officer, director, partner, member, employee or independent contractor of
+Distributor. As a result of this relationship, you may gain access to our Confidential Information. You understand that protecting our Confidential Information is vital to our success and that you could seriously jeopardize our business if you were
+to use or disclose the Confidential Information in an unauthorized manner. In order to avoid such damage, you agree to comply with the terms of this Agreement. 
+ 
+3. Intellectual Property. You agree: (i) you will not use the Confidential Information in any business or capacity other than the business conducted by Distributor pursuant to the Distribution
+Agreement; (ii) you will maintain the confidentiality of the Confidential Information at all times; (iii) you will not make unauthorized copies of documents containing any Confidential Information; (iv) you will take such reasonable
+steps as we may ask of you from time to time to prevent unauthorized use or disclosure of the Confidential Information; and (v) you will stop using the Confidential Information immediately if you are no longer an owner, officer, director,
+partner, member, employee or independent contractor of Distributor. You further agree that you will not use the Confidential Information for any purpose other than the performance of your duties for Distributor. 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+4. Immediate Family Members. You acknowledge that you could circumvent the purpose of this
+Agreement by disclosing Confidential Information to an immediate family member (i.e., spouse, parent, sibling, child, or grandchild). You also acknowledge that it would be difficult for us to prove whether you disclosed the Confidential Information
+to family members. Therefore, you agree that you will be presumed to have violated the terms of this Agreement if any member of your immediate family uses or discloses the Confidential Information in an unauthorized manner. However, you may rebut
+this presumption by furnishing evidence conclusively showing that you did not disclose the Confidential Information to the family member. 
+
+5. Breach. You agree that failure to comply with the terms of this Agreement may cause substantial and irreparable damage to us for which there is
+no adequate remedy at law. Therefore, you agree that any violation of the terms of this Agreement will entitle us to injunctive relief. You agree that we may apply for such injunctive relief, without bond, but upon due notice, in addition to such
+further and other relief as may be available at equity or law, and the sole remedy of yours, in the event of the entry of such injunction, will be the dissolution of such injunction, if warranted, upon hearing duly held (all claims for damages by
+reason of the wrongful issuance of any such injunction being expressly waived hereby). If a court requires the filing of a bond notwithstanding the preceding sentence, the parties agree that the amount of the bond shall not exceed $1,000. None of
+the remedies available to us under this Agreement are exclusive of any other, but may be combined with others under this Agreement, or at law or in equity, including injunctive relief, specific performance and recovery of monetary damages. Any
+claim, defense or cause of action that you may have against us or against Distributor, regardless of cause or origin, cannot be used as a defense against our enforcement of this Agreement. 
+ 
+6. Miscellaneous. 
+ 
+(a) If we hire an attorney or file suit against you
+because you have breached this Agreement and prevail against you, you agree to pay our reasonable attorneys’ fees and costs in doing so. 
+ 
+(b) This Agreement will be governed by, construed and enforced under the laws of the state of Georgia and the courts in that state shall have jurisdiction over any legal proceedings arising out of this
+Agreement. 
+ 
+(c) Each section of this Agreement, including each subsection and portion thereof, is severable. In the event that
+any section, subsection or portion of this Agreement is unenforceable, it shall not affect the enforceability of any other section, subsection or portion; and each party to this Agreement agrees that the court may impose such limitations on the
+terms of this Agreement as it deems in its discretion necessary to make such terms reasonable and enforceable. 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ EXECUTED on the date stated below.
+
+ Date 
+
+ Signature
+
+ Typed or Printed Name
+
+I witnessed the execution of the
+foregoing document this day of , 20 . 
+
+ Date 
+
+ Signature of Witness
+
+ Typed or Printed Name
+
+ATTACHMENT “G” 
+
+TO LICENSE AND DISTRIBUTION AGREEMENT 
+ 
+GENERAL RELEASE 
+ 
+[See Attached] 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+WAIVER AND RELEASE OF CLAIMS 
+
+This Waiver and Release of Claims (the “Release”) is made as of
+ , 20 by
+ , a(n)
+ (“Distributor”) in favor of EYELEVEL INTERACTIVE, LLC, a Georgia limited liability
+company (“Licensor,” and together with Distributor, the “Parties”). 
+ 
+WHEREAS,
+Licensor and Distributor have entered into a License and Distribution Agreement (the “Agreement”) pursuant to which Distributor was granted the right to market, promote, sell and distribute certain Products as defined therein;
+
+WHEREAS, Distributor has notified Licensor of its desire to transfer the Agreement and all rights related thereto to a
+transferee, and Licensor has consented to such transfer; and 
+ 
+WHEREAS, as a condition to Licensor’s consent to the
+transfer, Distributor has agreed to execute this Release upon the terms and conditions stated below. 
+ 
+NOW, THEREFORE,
+in consideration of Licensor’s consent to the transfer, and for other good and valuable consideration, the sufficiency and receipt of which are hereby acknowledged, and intending to be legally bound, Distributor hereby agrees as follows:
+
+1. Representations and Warranties. Distributor represents and warrants that it is duly authorized to enter into this
+Release and to perform the terms and obligations herein contained, and has not assigned, transferred or conveyed, either voluntarily or by operation of law, any of its rights or claims against Licensor or any of the rights, claims or obligations
+being terminated and released hereunder. [ ]
+represents and warrants that he/she is duly authorized to enter into and execute this Release on behalf of Distributor. 
+ 
+2.
+Release. Distributor and its subsidiaries, affiliates, parents, divisions, successors and assigns and all persons or firms claiming by, through, under, or on behalf of any or all of them, hereby release, acquit and forever discharge Licensor,
+any and all of its affiliates, parents, subsidiaries or related companies, divisions and partnerships, and its and their past and present officers, directors, agents, partners, shareholders, employees, representatives, successors and assigns, and
+attorneys, and the spouses of such individuals (collectively, the “Released Parties”), from any and all claims, liabilities, damages, expenses, actions or causes of action which Distributor may now have or has ever had, whether
+known or unknown, past or present, absolute or contingent, suspected or unsuspected, of any nature whatsoever, including without limiting the generality of the foregoing, all claims, liabilities, damages, expenses, actions or causes of action
+directly or indirectly arising out of or relating to the execution and performance of the Agreement and the offer and sale of the distribution rights related thereto. 
+ 
+3. Nondisparagement. Distributor expressly covenants and agrees not to make any false representation of facts, or to defame, disparage, discredit or deprecate any of the Released Parties or
+otherwise communicate with any person or entity in a manner intending to damage any of the Released Parties, their business or their reputation. 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+4. Miscellaneous. 
+
+a. Distributor agrees that it has read and fully understands this Release and that the opportunity has been afforded to Distributor to
+discuss the terms and contents of said Release with legal counsel and/or that such a discussion with legal counsel has occurred. 
+ 
+b. This Release shall be construed and governed by the laws of the State of Georgia. 
+ 
+c. In the event that it shall be necessary for any Party to institute legal action to enforce or for the breach of any of the terms and conditions or provisions of this Release, the prevailing Party in
+such action shall be entitled to recover all of its reasonable costs and attorneys’ fees. 
+ 
+d. All of the provisions of
+this Release shall be binding upon and inure to the benefit of the Parties and their current and future respective directors, officers, partners, attorneys, agents, employees, shareholders and the spouses of such individuals, successors, affiliates,
+and assigns. No other party shall be a third-party beneficiary to this Release. 
+ 
+e. This Release constitutes the entire
+agreement and, as such, supersedes all prior oral and written agreements or understandings between and among the Parties regarding the subject matter hereof. This Release may not be modified except in a writing signed by all of the Parties. This
+Release may be executed in multiple counterparts, each of which shall be deemed an original and all of which together shall constitute but one and the same document. 
+ 
+f. If one or more of the provisions of this Release shall for any reason be held invalid, illegal or unenforceable in any respect, such invalidity, illegality or unenforceability shall not affect or
+impair any other provision of this Release, but this Release shall be construed as if such invalid, illegal or unenforceable provision had not been contained herein. 
+ 
+g. The Parties agree to do such further acts and things and to execute and deliver such additional agreements and instruments as any Party may reasonably require to consummate, evidence, or confirm the
+Release contained herein in the matter contemplated hereby. 
+ 
+[Signature Page Follows] 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+IN WITNESS WHEREOF Distributor has executed this Release as of the date first
+written above. 
+
+ LICENSEE
+
+ , a
+
+ By:
+
+ Name:
+
+ Its:
+
+ STATE OF 
+
+ )
+
+ )
+ 
+ ss.
+
+ County of
+
+ )
+
+The foregoing instrument was acknowledged before me this day of
+ , by
+ . 
+
+ Notary Public
+
+ My commission expires:
+
+ATTACHMENT “H” 
+
+TO LICENSE AND DISTRIBUTION AGREEMENT 
+ 
+SOFTWARE ENHANCEMENTS 
+ 
+[See Attached]
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+EYELEVEL INTERACTIVE™ (EI™) IPOP™ 
+
+System & Technology Development 
+ 
+(01/2010) 
+ 
+First Generation (GEN 1): [*] 
+
+[*]- The basic [*] located on the back or front of its employees’ uniforms. 
+ 
+[*]- Allows a [*]. This interaction will be between a [*]. 
+ 
+There is no data capturing [*].
+Analytics can track [*]. 
+ 
+Second Generation (GEN 2) [*] * 
+ 
+Includes all GEN 1 Features in addition to: 
+ 
+[*] will allow a [*]. This includes the capability
+of delivering [*]. 
+ 
+This interaction will be between [*]. 
+ 
+[*] provides [*]. The [*] platform offers [*] 
+ 
+[*] (works with[*]).[*] is [*]
+technologies. [*]data is collected from all of [*]users and may be [*]. 
+ 
+[*]Tags – uses [*]. This allows a retailer to [*] while
+they are on premise. This feature may also be used for [*] when there is a need for additional [*]. There is additional hardware required for use [*]. 
+ 
+Third Generation (GEN 3) [*] * 
+ 
+Includes all GEN 1 and GEN 2 Features
+in addition to: 
+ 
+[*]- Customized [*]. This allows consumers to [*]. Applications will also be developed to link this information to their [*].
+
+[*] - The [*] that are designed to create [*] that can be [*]. 
+ 
+[*] - As data is collected through the [*] where they can allow [*], and there may be additional [*]. 
+ 
+[*] is used for [*]. For example, [*].[*]may replace the [*]. The [*] logo on [*] and there is a [*]. 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+Fourth Generation (GEN 4) [*] * 
+
+GEN 4 Upgrade (GEN 4U) - Upgrades the [*]. 
+ 
+The GEN 4U will include these new features: 
+ 
+[*] - [*]. 
+
+[*] technology to create [*]. This can be isolated to a specific area such as a [*]. 
+ 
+[*] - Depending on the customer’s application, they will have an option to add [*] to the [*]System. 
+ 
+New Features that are added for both the Gen 3 and the Gen 4U [*]System: 
+ 
+[*] -
+Allows a consumer to [*]. This makes [*]. 
+ 
+[*] - Works similarly to and in conjunction with [*]. This allows for the [*] instantly giving the
+user an option [*]. 
+ 
+Fifth Generation (GEN 5) [*]* 
+ 
+[*] Display 
+ 
+Also works with the GEN 4 Upgrade (GEN 4U) and includes all of the Gen
+4U enhancements. 
+ 
+Includes all GEN 4U Features in addition to: 
+ 
+[*] - The addition of the [*] allows for [*]. 
+ 
+[*] for enhancing the advertising viewer(s)
+experience 
+ 
+Sixth Generation (GEN 6) [*]* 
+ 
+[*] - Allows for an employee to [*] an [*]. This technology includes all of the features in Gen 5 [*] 
+
+ *
+ THESE ARE ESTIMATED ROLLOUT DATES. THEY ARE SUBJECT TO CHANGE BASED ON CONSUMER ADAPTION TO THE TECHNOLOGY. 
+
+ATTACHMENT “I” 
+
+TO LICENSE AND DISTRIBUTION AGREEMENT 
+ 
+MASTER LICENSOR AGREEMENTS 
+
+[See Attached] 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+AGREEMENT 
+
+This Agreement is entered into this [4th] day of January, 2011, between Panelvision, LLC, a Delaware limited liability company (“Panelvision”) and
+Superior Uniform Group, Inc., a Florida Corporation (“Superior”). 
+ 
+Whereas EYELEVEL INTERACTIVE, LLC
+(“EYELEVEL”), a Georgia limited liability company, through one or more intermediate licensees (“Intermediate Licensees”) of Panelvision, is a licensee, with a right to sublicense, of certain Intellectual Property owned by
+Panelvision; 
+ 
+Whereas concurrently with the execution of this Agreement EYELEVEL is entering a License and Distribution
+Agreement with Superior (“License and Distribution Agreement”), pursuant to which EYELEVEL is granting Superior the light and license to use the Intellectual Property in connection with the marketing, promotion and sale of Products;
+
+Whereas EYELEVEL is developing additional Intellectual Property which will be licensed and used by Superior under the License
+and Distribution Agreement and which will be owned by Panelvision and licensed back to EYELEVEL either directly or through Intermediate Licensees; 
+ 
+Whereas EYELEVEL and all the Intermediate Licensees through which EYELEVEL has rights to sublicense the Intellectual Property are currently solvent. 
+
+In order to induce Superior to enter into the Distribution and License Agreement with EYELEVEL, and in consideration of the promises and covenants
+herein, the adequacy and sufficiency of which are acknowledged, the Parties agree as follows; 
+
+ 1.
+ The Whereas clauses herein are incorporated into this Agreement. 
+
+ 2.
+ Except as otherwise defined herein, all terms shall have the same definition as those in the License and Distribution Agreement, a copy of which is attached hereto as
+Exhibit A. 
+
+ 3.
+ Panelvision represents that itself, EYELEVEL and the Intermediate Licensees are all solvent operating entities and that Panelvision is the owner of all the Intellectual
+Property and other assets necessary for Superior to receive the benefits of the License and Distribution Agreement other than the rights to certain intent to use trademark applications that were filed by EYELEVEL and cannot lawfully be assigned to
+Panelvision prior to the filing of an allegation of use. 
+
+ 4.
+ 
+Panelvision shall execute, and is hereby deemed to execute, the License and Distribution Agreement attached hereto as Exhibit A. The License and
+Distribution Agreement shall 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+be effective upon execution by the parties hereto; provided, however, that Panelvision will perform the provisions set forth in the License and Distribution Agreement (and will become
+liable for EYELEVEL’s failure to perform such provisions) only if EYELEVEL loses its right to license the Intellectual Property to Superior. 
+
+ 5.
+ In the event that EYELEVEL files a voluntary petition in bankruptcy or any pleading seeking any reorganization, liquidation, dissolution, assignment for the benefit of
+creditors, composition or other settlement with creditors under any law, or EYELEVEL becomes the subject of an involuntary bankruptcy (which may or may not be enforceable under the Bankruptcy Code) and as a result, EYELEVEL is unable to fulfill its
+obligations under the License and Distribution Agreement, then Panelvision shall perform all obligations as set forth in the License and Distribution Agreement attached hereto as Exhibit A. 
+
+ 6.
+ To the extent that EYELEVEL and Distributor have discharged their obligations under the License and Distribution Agreement, PANELVISION and Distributor shall be deemed
+to have discharged their corresponding obligations under the License and Distribution Agreement that is attached to this Agreement. 
+
+ 7.
+ In the event that any Intermediate Licensee through which EYELEVEL licenses the Intellectual Properly owned by Panelvision files a voluntary petition in bankruptcy or
+any pleading seeking any reorganization, liquidation, dissolution, assignment for the benefit of creditors, composition or other settlement with creditors under any law, or any Intermediate Licensee becomes the subject of an involuntary bankruptcy
+(which may or may not be enforceable under the Bankruptcy Code) and as a result, EYELEVEL is unable to fulfill its obligations under the License and Distribution Agreement, if EYELEVEL’s lights to license the Intellectual Property are impaired,
+then Panelvision shall perform all obligations as set forth in the License and Distribution Agreement attached hereto as Exhibit A 
+
+ 8.
+ In the event that Panelvision sells, assigns or transfers ownership of the Intellectual Property associated with the License and Distribution Agreement to any other
+entity, Panelvision shall require assumption of this Agreement and the License and Distribution Agreement and other related agreements as a condition of such assignment. 
+
+ 9.
+ 
+Panel vision acknowledges and agrees that the Intellectual Property rights licensed to Superior under the License and Distribution Agreement constitute
+“intellectual property” as such term is defined in the Bankruptcy Code, and that Superior is entitled to all of the rights of a licensee of intellectual property under Section 365(n) of the Bankruptcy Code with respect to all of such
+licensed rights, which rights under the Bankruptcy Code include, without limitation, the right, upon the rejection of this Agreement or the License and Distribution Agreement in any case filed under the Bankruptcy Code with respect to Panelvision,
+EYELEVEL and any Intermediate Licensee of the Intellectual Property through which EYELEVEL receives the right to license the Intellectual Property to 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+Superior, to treat this Agreement and/or the License and Distribution Agreement as terminated or to retain Superior’s rights under this Agreement and/or the License and Distribution
+Agreement, and under any agreements supplemental to this Agreement and/or the License and Distribution Agreement, with respect to such rights (including any embodiment of the rights to the extent protected by applicable non-bankruptcy law), as such
+rights existed immediately before the bankruptcy case commenced. If Superior elects to retain such licensed rights under this Agreement and/or the License and 2 Distribution Agreement, then Superior may exercise such licensed rights in accordance
+with the terms and conditions of this Agreement and/or the License and Distribution Agreement. Nothing contained herein shall limit any other rights provided to Superior under the Bankruptcy Code, including Section 365(n) thereof.
+
+ 10.
+ The parties acknowledge that the limited undertakings of Panelvision under this Agreement shall not be construed as a guarantee of EYELEVEL’s obligations under the
+License and Distribution Agreement. 
+
+ 11.
+ The parties acknowledge that any breach of this Agreement by one party will result in the other party suffering great and irreparable harm for which damages is not a
+sufficient remedy. Each party shall be entitled to apply for and receive a immediate injunction, without any necessity of proving damages or any requirement for the posting of a bond, ordering specific performance and enjoining any further breach of
+this Agreement. 
+
+ 12.
+ This Agreement shall be governed by the laws of the State of Georgia, without giving effect to any choice of law or conflict of law provisions. Each party irrevocably
+submits to the exclusive jurisdiction of the courts of proper subject matter jurisdiction sitting in the State of Georgia, solely for the purpose of interpreting this Agreement and adjudicating any dispute arising hereunder.
+
+ 13.
+ This Agreement sets forth the entire agreement and understanding between the parties as to its subject matter, and supersedes all prior agreements and understandings
+between them. Any and all prior agreements and understandings between the parties, whether written or verbal, other than as contained within this executed Agreement, are void and have no force and effect. In order to be binding between the patties,
+any subsequent modifications must be in writing signed by the parties. 
+
+ 14.
+ This Agreement and the license granted herein shall be binding upon and inure to the benefit of the parties and their respective successors and assigns.
+
+ 15.
+ This Agreement may be executed in two or more counterparts, each of which shall constitute an original but all of which when taken together shall constitute one
+agreement. 
+
+ 16.
+ The prevailing party in any action under this Agreement shall be entitled to be reimbursed for all of its reasonable attorneys fees and expenses at all levels of
+proceedings from the non-prevailing party. 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+IN WITNESS HEREOF, the parties have caused this Agreement to be executed by their duly authorized
+officers as of the Effective Date. 
+
+ Panelvision, LLC
+
+ By:
+
+ /s/
+
+ Name:
+
+[Solomon Emett]
+
+ Date:
+
+[Jan. 4th 2011]
+
+ Superior Uniform Group, Inc.
+
+ By:
+
+ /s/
+
+ Name:
+
+[Michael Benstock]
+
+ Date:
+
+[1/4/11]

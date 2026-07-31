@@ -1,0 +1,1990 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>3
+<FILENAME>e14877ex10.txt
+<DESCRIPTION>SALES AND DISTRIBUTIOIN AGREEMENT
+<TEXT>
+                                                                      Exhibit 10
+
+                        SALES AND DISTRIBUTION AGREEMENT
+
+                          (AMPLIGEN INFUSION - CANADA)
+
+THIS AGREEMENT  (this  "Agreement")  is made effective as of December 15th, 1999
+(the "Effective Date"), by and between
+
+            HEMISPHERX BIOPHARMA, INC.,
+            a Pennsylvania corporation,
+
+            having is principal place of business at
+            1617 JFK Boulevard
+            Philadelphia, Pennsylvania 19103 USA
+
+                           ("Hemispherx")
+            - and -
+
+            BIOVAIL LABORATORIES INCORPORATED,
+            a Barbados corporation incorporated under the
+            International Business Companies Act, 1991-24,
+            whose head office is
+            Chelston Park
+            Building 2, Collymore Rock
+            St Michael BH1
+            Barbados, West Indies,
+
+                           ("Biovail")
+
+            (each a "Party" and collectively the "Parties").
+
+WITNESSETH:
+
+WHEREAS  Hemispherx  has  certain  rights  relating  to a  specially  configured
+ribonucleic  acid which is being  developed  for  marketing  under the trademark
+"Ampligen";
+
+WHEREAS  Biovail is in the  business of  Marketing  pharmaceutical  products for
+pharmaceutical and biopharmaceutical companies in Canada;
+
+WHEREAS Biovail desires to Market the Product in Canada;
+
+WHEREAS in  consideration  for Biovail's  commitment  to pay to  Hemispherx  the
+payments specified in this Agreement, and to provide the resources as set out in
+this  Agreement for the  development  and  Marketing of the Product,  Hemispherx
+desires to grant to Biovail the exclusive  distributorship to Market the Product
+in the Territory; and
+
+Hemispherx - Biovail Distribution Agreement Page 1 of 38
+
+
+<PAGE>
+
+WHEREAS the Parties hereto desire to set forth the terms and conditions of such
+Marketing;
+
+
+NOW THEREFORE,  in  consideration of the premises and the covenants and promises
+contained herein, and intending to be legally bound hereby, the Parties agree as
+follows:
+
+1. DEFINITIONS
+
+1.01 For purposes of this Agreement, the following terms, when used with initial
+capital letters, shall have the meaning set forth below. Other terms are defined
+elsewhere  in this  Agreement  and those terms,  when used with initial  capital
+letters,  shall also have the  defined  meanings  whenever  they  appear in this
+Agreement.  As to the terms  defined  and used  herein,  the  singular  shall be
+understood  to include the plural and  vice-versa,  unless the  context  clearly
+indicates to the contrary.
+
+1.02  "Acquisition  Price" means the average of the closing prices of Hemispherx
+shares on the NASDAQ exchange during the 60 trading days  immediately  preceding
+the Agreement Date, namely US $7.00.
+
+1.03  "Adjusted  Share Value" means,  the total value of all  Hemispherx  common
+shares  purchased  from  Hemispherx  by Biovail  pursuant to the  provisions  of
+paragraphs  8.01 and 8.02,  calculated  using the average  closing  price on the
+American Stock Exchange over the sixty trading (60) days  immediately  preceding
+the date on which the Adjusted Share Value is to be calculated.
+
+1.04 "Affiliate  means any corporation,  company,  firm,  partnership,  or other
+entity which Controls, is Controlled by or is under common Control with a Party.
+For the purposes of this  Agreement,  Intelligent  Polymers  Limited,  a Bermuda
+corporation, shall be deemed to be an Affiliate of Biovail. Any entity that buys
+all, or substantially  all, of the assets of Hemispherx,  including the Product,
+shall be deemed to be an Affiliate of Hemispherx.
+
+1.05  "Aggregate  Sales" means,  for any calendar  period,  the aggregate of the
+amounts  invoiced by Biovail or by an Affiliate or Sub-Licensee for Product sold
+to arm's length customers in the Territory (but excluding sales by Biovail to an
+Affiliate or  Sub-Licensee  for resale to purchasers  and excluding the price of
+Product samples sold by Biovail to an Affiliate or Sub-Licensee), net of:
+
+      (a)   any discounts or rebates given or paid to customers;
+
+      (b)   price adjustments to customers'  inventories to address market price
+            declines;
+
+      (c)   charge-backs or rebates  actually allowed and taken on such sales in
+            such  amounts  as are  customary  in the trade and are  specifically
+            related to the Products (excluding cash discounts, except for normal
+            trade discounts for early payment of invoices);
+
+      (d)   trade samples and other free goods given in lieu of discounts;
+
+Hemispherx - Biovail Distribution Agreement Page 2 of 38
+
+<PAGE>
+
+      (e)   duties and taxes on any sale to the extent separately  identified in
+            the invoice for the Product sold;
+
+      (f)   transportation charges separately itemized;
+
+      (g)   credits for product returns;
+
+      (h)   other reasonable  discounts or rebates, or other allowances actually
+            given by Biovail;
+
+      (i)   third party  charges for storage  and  handling of the  Product,  or
+            distribution  of the Product to  treatment  sites or to customers or
+            patients;
+
+      (j)   third  party  charges  for  the  administration  of the  Product  to
+            patients  including  associated  treatment costs, or charges or fees
+            for  the  administration  of  medical  or  administrative   services
+            associated with the use of the Product.
+
+1.06 "Agreement Date" means the date upon which the essential financial terms of
+this Agreement were concluded, namely November 23, 1999.
+
+1.07 "Approved  NDS" means the New Drug  Submission for the Product for which an
+NOC is granted, and includes any approved supplements or amendments thereto.
+
+1.08  "Biovail's  Distribution  Center"  means  Biovail's  facility in Steinbach
+Manitoba,  in the Greater Toronto Area, Ontario, or in the greater Montreal area
+in the Province of Quebec, as designated by Biovail.
+
+1.09  "Ceiling  Price" means  maximum price as  established,  set,  regulated or
+controlled by any provincial or federal  government in Canada,  or by any board,
+agency of any such  government,  for which Biovail can lawfully sell the Product
+in the Territory or in any province or other sub-division or sub-jurisdiction of
+the Territory.
+
+1.10 "CFS" means Chronic Fatigue Syndrome.
+
+1.11  "Control"  means the  ability of any entity  (the  "Controlling"  entity),
+directly or indirectly,  through ownership of securities, by agreement or by any
+other method, to direct the manner in which more than fifty percent (50%) of the
+outstanding voting rights of any other entity (the "Controlled" entity), whether
+or not  represented by  securities,  shall be cast, or the right to receive over
+fifty percent  (50%) of the profits or earnings of, or to otherwise  control the
+management decisions of, such other entity (also a "Controlled" entity).
+
+1.12 "Detail" means a face-to-face  meeting,  in an individual or group setting,
+between a health care professional with prescribing authority and a professional
+representative of Biovail during which a Product presentation of the key Product
+attributes is verbally presented to such targeted
+
+Hemispherx - Biovail Distribution Agreement Page 3 of 38
+
+<PAGE>
+
+prescribing  physician or other health care professional.  (When used as a verb,
+"Detail" or "Detailing" shall mean to engage in a Detail.)
+
+1.13 "Eligible  Patients" means for each  Indication,  the number of individuals
+within the Territory  suffering from or afflicted with that Indication,  as most
+recently determined, estimated or reported by:
+
+      (a)   an appropriate  agency of the Government of Canada, the World Health
+            Organization  or any  comparable or successor  organization,  or any
+            peer-reviewed  article in a reputable  medical  journal,  or if such
+            data or information for the Territory is not available, then by
+
+      (b)   pro-rating  the number of  individuals  suffering  from or afflicted
+            with  that  indication  in the  United  States of  America,  as most
+            recently  reported  by the Center for  Disease  Control in  Atlanta,
+            Georgia,  by the ratio of the general population of the Territory to
+            the general population of the U.S.A.
+
+1.14 "Floor Price" means:
+
+      (a)   with respect to the 400 mg strength of a Unit of the Product,  sixty
+            dollars (US) (USD$60.00); and
+
+      (b)   with respect to any other strength of a Unit of the Product, a price
+            that is  obtained  by  multiplying  the  Floor  Price for the 400 mg
+            strength Unit of the Product by the ratio of that other  strength to
+            400 mg. strength Unit of the Product.
+
+1.15 "Food and Drugs Act" means the Canadian Food and Drugs Act (R.S.C. 1985,
+Chap. F-27), or any successor act, as the same may be amended from time to time,
+and the regulations promulgated thereunder.
+
+1.16 "FTC" means the United States Federal Trade Commission.
+
+1.17 "INDS" means an Investigational New Drug Submission filed with the TPP.
+
+1.18 "Indication"  means any indication for which a Notice of Compliance for the
+Product has been issued.
+
+1.19  "Invested  Costs" means the total amount spent by Biovail,  including both
+external  and  internal,  direct and  indirect,  expenses  and costs,  including
+without  limitation all regulatory,  marketing,  advertising,  promotional,  and
+continuing  health education costs,  field force time, and field force expenses,
+required  to obtain the NOC for the  Product  and to Market  the  Product in the
+Territory, from the Effective Date to the 5th anniversary of the Product Launch,
+provided that such  expenditures  by Biovail are  reasonable  and  appropriately
+allocated in accordance with generally accepted accounting principles.
+
+Hemispherx - Biovail Distribution Agreement Page 4 of 38
+
+<PAGE>
+
+1.20 "Market" means to register, promote,  distribute,  market, advertise and/or
+sell, and Marketing shall have a corresponding meaning.
+
+1.21 "Market Penetration Ratio" means, for any calendar year, the ratio obtained
+by dividing:
+
+      (a)   the number of Treated Patients in that calendar year; by
+
+      (b)   the  aggregate of the Target  Patients for each  Indication  in that
+            calendar year.
+
+1.22 "Marketing Costs" means:
+
+      (a)   all of the out-of-pocket  expenses reasonably incurred by Biovail in
+            applying for and securing an NOC for the Product including all costs
+            of preparing and  prosecuting the INDS and the NDS, and the costs of
+            consultants and advisors used in their  preparation and prosecution;
+            and
+
+      (b)   all out of pocket expenses incurred by Biovail in the pre-marketing,
+            marketing  and   advertising   of  the  Product  during  the  period
+            commencing on the Effective Date,  including without  limitation the
+            costs of medical  meetings,  opinion leader programs and educational
+            programs.
+
+1.23 "Marketing Obligations" means the obligations of Biovail under Article 5 of
+this Agreement.
+
+1.24 "NDA" means a New Drug  Application  filed with the FDA seeking approval to
+market the Product in the USA.
+
+1.25 "NDS" means a New Drug  Submission  filed with the TPP,  and  includes  any
+amendments made to that submission  either before or after the issue of a Notice
+of Compliance.
+
+1.26 "Net Selling Price" means,  for any calendar  period,  the Aggregate  Sales
+divided  by the  number of Units of the  Product  invoiced  by  Biovail or by an
+Affiliate or Sub-Licensee during the same period.
+
+1.27 "Notice of  Compliance"  means the approval that may be issued by TPP under
+the Food and Drugs Act permitting the Marketing of the Product in the Territory,
+and NOC has the same meaning.
+
+1.28 "Optioned Products" means:
+
+      (a)   the RNase L Diagnostic Test; and
+
+      (b)   an oral dosage form,  or any other  strength,  of the Product.
+
+1.29 "Party" means each of Hemispherx and Biovail.
+
+Hemispherx - Biovail Distribution Agreement Page 5 of 38
+
+<PAGE>
+
+1.30  "Patents"  means the patents,  patent  applications  and the patent rights
+listed in Schedule 1.30 hereto,  including any  continuations,  continuations in
+part, divisions,  patents of addition, reissues, renewals or extensions thereof,
+and any other patents, patent applications or patent rights which Hemispherx may
+acquire or under which Hemispherx may be licensed, relating to the Product.
+
+1.31 "Product" means Poly I Poly C 12 U sold in the USA in association  with the
+trade mark  Ampligen  in all forms in which it is or may be  approved in Canada,
+including both lyophilized and liquid forms.
+
+1.32 "Product Launch" means the date of the first commercial shipment of Product
+to an arm's length customer in the Territory.
+
+1.33 "RNase L Diagnostic  Tool" means any diagnostic test or method patented by,
+proprietary  to or  licensed  to  Hemispherx  and  useful  in the  detection  or
+diagnosis of CFS.
+
+1.34 "Target Net Sales"  means the product  obtained by  multiplying  the Target
+Patients by the Treatment Dosing by the Net Selling Price of the Product.
+
+1.35 "Territory" means Canada.
+
+1.36 "Transfer Price" means, for any strength of the Product and in any calendar
+year,  the  greater of the Floor  Price for that  strength  of the  Product  (in
+packaged,  final dosage form) and thirty per cent (30%) of Biovail's anticipated
+selling price for the Product in that calendar year, which  anticipated  selling
+price shall be:
+
+      (a)   for the first calendar year or portion  thereof in which the Product
+            is Marketed in the  Territory,  Biovail's  bona fide estimate of its
+            net selling price for the Product; and
+
+      (b)   for each  subsequent  calendar year,  Biovail's  average net selling
+            price for the  Product in the  Territory  in the  previous  calendar
+            year.
+
+1.37  "TPP"  means the  Therapeutic  Products  Program  of Health  Canada or any
+successor agency having the administrative  authority to regulate or approve the
+testing or marketing of human pharmaceutical or biological  therapeutic products
+in Canada.
+
+1.38 "Trademark" means the trademark Ampligen.
+
+1.39 "Treated  Patients"  means,  for any calendar  year, the number of patients
+obtained by dividing the number of Units of the Product invoiced by Biovail,  or
+by an Affiliate or  Sub-Licensee  of Biovail  during that  calendar  year by the
+Treatment Dosing.
+
+1.40 "Treatment  Dosing" shall mean for any Indication,  52 Units of the Product
+per patient, unless otherwise agreed.
+
+Hemispherx - Biovail Distribution Agreement Page 6 of 38
+
+<PAGE>
+
+1.41 "Target  Penetration  Rate" means, for each full calendar year and for each
+Indication,  the  percentage  set  out in  Schedule  1.41  corresponding  to the
+applicable  full calendar year following the issue of a Notice of Compliance for
+that Indication.
+
+1.42 "Target  Patients"  means in any  calendar  year,  the product  obtained by
+multiplying the number of Eligible Patients for that Indication in that calendar
+year by the Target Penetration Rate for that Indication for that calendar year.
+
+1.43 "Unit"  means a single dose of the Product in any strength for which an NOC
+has been issued.
+
+2. GRANT OF EXCLUSIVE DISTRIBUTORSHIP
+
+2.01 Subject to the terms of this Agreement, Hemispherx hereby grants to Biovail
+the exclusive right to Market the Product in its lyophilized and liquid forms in
+the Territory during the term of this Agreement,  for use in all indications for
+which an NOC for the  Product  in such forms has been  granted by the  Effective
+Date or which may be granted during the Term of the Agreement by the TPP.
+
+2.02 Hemispherx  warrants that it has the right to enter into this Agreement and
+to grant to Biovail the rights granted by this  Agreement.  Hemispherx  warrants
+that no other person has any right to Market the Product in the  Territory,  and
+the Hemispherx  shall not authorize,  permit or allow any other Person to Market
+the Product in the Territory.
+
+2.03 Hemispherx  shall sell any Product  intended for Marketing in the Territory
+only to Biovail,  and Biovail  shall  purchase the Product for  Marketing in the
+Territory  only from  Hemispherx.  Subject only to the  provisions of paragraphs
+13.06 and 13.07 below, Hemispherx shall not sell the Product to any other person
+for Marketing in the Territory during the term of this Agreement.
+
+      Assignment and Sub-Contracting
+
+2.04 Biovail may assign or sub-license  any of its rights and obligations to any
+Affiliate(s),  or  sub-contract  any of its  rights and  obligations  under this
+Agreement to any qualified third party, but Biovail shall not be relieved of its
+obligations  under this Agreement by doing so.  Satisfactory  compliance by such
+Affiliate or third party with the  obligations  of Biovail shall be deemed to be
+satisfactory compliance by Biovail.
+
+      Other Rights of Biovail
+
+2.05 If at any time after the Effective Date Hemispherx or any Affiliate of
+Hemispherx:
+
+      (a) Files a New Drug Submission for an Optioned Product, or
+
+      (b) receives a Notice of Compliance for an Optioned Product; or
+
+Hernispherx - Biovail Distribution Agreement Page 7 of 38
+
+<PAGE>
+
+      (c)   wishes  to  Market  or  authorize  some  other  person  to Market an
+            Optioned Product in the Territory
+
+2.06  Hemispherx  shall deliver to Biovail a notice to negotiate with respect to
+that Optioned Product.
+
+2.07  Biovail may within  sixty (60) days of receipt of the notice to  negotiate
+referred to in paragraph 2.05 advise Hemispherx of the terms under which Biovail
+would Market that  Optioned  Product in the  Territory.  Biovail and  Hemispherx
+shall during the sixty (60) days  following  the delivery of those terms conduct
+good faith  negotiations  for the granting to Biovail of the exclusive  right to
+Market that Optioned Product in the Territory.  Following the expiration of such
+sixty (60) day period,  Hemispherx shall be free to Market the product itself or
+to enter into licenses for the product in question with third parties,  provided
+that the terms of such  licenses  finally  agreed upon are not  materially  less
+favourable to Hemispherx than the terms previously offered by Biovail during the
+course of negotiations with Hemispherx.
+
+2.08 Hemispherx shall not enter into any license with any third parties relating
+to any Optioned Product:
+
+      (a)   during any period of time in which  Hemispherx has the obligation to
+            deliver a notice to negotiate in respect of that Optioned Product.
+
+      (b)   within one sixty (60) days after the  delivery  by  Hemispherx  of a
+            notice to negotiate; or
+
+      (c)   during any period of time during which Hemispherx has the obligation
+            to conduct good faith negotiations with Biovail.
+
+2.09 If  Hemispherx at any time proposes to enter into licenses with one or more
+third  parties for a Optioned  Product,  Hemispherx  shall provide to Biovail at
+least ten (10) days in advance of executing  the  agreement(s)  a summary of the
+terms for the  proposed  license(s).  If Biovail  acting in good faith wishes to
+assert that Biovail's own proposal for that Optioned Product was more favourable
+to Hemispherx  than the terms  proposed for the license with such third parties,
+Biovail  shall so notify  Hemispherx  within that ten (10) day  period,  and the
+parties shall  mutually  agree upon the  appointment  of an expert to assess the
+offers made by Biovail and the third party,  who shall  evaluate the offers made
+by Biovail and the third  party,  and who shall  determine  whether the proposal
+from the third party is more  favourable  to  Hemispherx  than the offer made by
+Biovail.
+
+Hemispherx - Biovail Distribution Agreement Page 8 of 38
+
+<PAGE>
+
+3. MANUFACTURE AND SUPPLY OF THE PRODUCT
+
+      Supply of Product
+
+3.01 Hemispherx shall supply all quantities of the Product  reasonably  required
+by Biovail for Marketing in the  Territory,  in final packaged and labeled form,
+and in accordance with the provisions of this Agreement.
+
+3.02  Hemispherx  shall at all times use diligent  efforts to satisfy  Biovail's
+requirements  for and to fill  all  Biovail's  orders  for  the  Product  in the
+Territory.  In the event of any temporary  shortfall in the  availability of the
+Product,   Hemispherx's   available   supply  of  Product   shall  be  allocated
+proportionately  according to the sales of the Product in the  Territory  and in
+the United States of America during the most recently ended six month period.
+
+3.03 To the extent  that the supply by  Hemispherx  of the Product to Biovail is
+insufficient  to meet all orders  received  by Biovail  for the  Product for any
+period of six months or more, for purposes of paragraphs 13.06 and 13.07 of this
+Agreement, the Parties shall negotiate in good faith an appropriate reduction in
+the Market  Penetration  requirements  of  paragraph  7.06 and in the  Marketing
+Obligations for the relevant time period.
+
+      Product Quality
+
+3.04  Hemispherx  warrants that upon delivery of Product in accordance with this
+Agreement, Biovail shall have good title to the Product and that the Product:
+
+      (a)   shall have been manufactured,  stored and shipped in accordance with
+            all applicable good  manufacturing  practices,  all other applicable
+            laws, rules,  regulations and regulatory requirements in the country
+            of  manufacture  and in the  Territory,  and  shall  conform  to the
+            specifications set forth in the Approved NDS;
+
+      (b)   shall not be  adulterated  or  misbranded  as provided for under any
+            applicable  law,  order or  regulation  in effect in the  country of
+            manufacture and the Territory;
+
+      (c)   shall have a shelf life of at least twenty-four (24) months from the
+            date of shipping to Biovail;
+
+      (d)   shall be labeled,  packaged and shipped in accordance with labeling,
+            packaging and shipping standards mutually agreed upon by the parties
+            and  in  accordance   with  all   applicable   laws  and  regulatory
+            requirements  in the  Territory;  provided  that  where  Biovail  is
+            responsible  under the terms of this  Agreement  for  obtaining  the
+            Notice of Compliance, any requirements for
+
+Hemispherx - Biovail Distribution Agreement Page 9 of 38
+
+<PAGE>
+
+            labeling and packaging of the Product specified in such approvals,
+            and the necessary artwork, have been fully communicated to
+            Hemispherx; and
+
+      (e)   shall comply in all  respects  with the Approved NDS and the product
+            monograph for the Product.
+
+      Inspection and Right of Return of Product.
+
+3.05  Hemispherx  shall  provide to Biovail  within  thirty  (30) days after the
+Effective Date all of the technical data and methodologies necessary for Biovail
+to perform any finished product quality control testing that Biovail may wish to
+conduct on the Product.
+
+3.06  Hemispherx  shall make any  arrangements  necessary for the  conducting of
+finished  product  quality  control  testing  within  sixty  (60) days after the
+Effective Date.  Hemispherx  shall conduct or shall have  conducted,  at its own
+expense, all tests required by the Approved NDS for the Product to determine the
+compliance  of the  Product  with the  requirements  of  paragraph  3.04 of this
+Agreement  and with the Approved  NDS, and shall provide the results of all such
+testing to Biovail.
+
+3.07 Biovail may conduct, but shall not be obliged to conduct,  such tests as it
+deems necessary to determine the compliance of the Product with the requirements
+of the Approved NDS and this  Agreement.  Biovail may notify  Hemispherx  within
+thirty  (30) days of its actual  receipt of each  shipment of the Product of any
+non-compliance  of the Product with the  requirements  of paragraph 3.04 of this
+Agreement revealed by such testing.  If no notice of non-compliance is delivered
+to Hemispherx within such thirty (30) day period, the Product so delivered shall
+be deemed to comply with paragraph 3.04 of this Agreement.
+
+3.08 The  provisions of paragraph 3.07 do not apply to any  deficiencies  in the
+Product that could not  reasonably  be detected  through the diligent use of the
+quality control testing required by the Approved NDS, within thirty (30) days of
+actual  receipt of the  Product by Biovail (a "latent  defect").  Biovail  shall
+notify  Hemispherx of any such  deficiencies  within thirty (30) days after they
+become known to Biovail.
+
+3.09 Within  thirty (30) days after  receipt of any notice  delivered by Biovail
+pursuant to paragraphs 3.07 or 3.08,  Hemispherx and Biovail shall confer on the
+matter, and Hemispherx shall notify Biovail as to whether or not it concurs with
+Biovail's  determination.  If Hemispherx  concurs with Biovail's  determination,
+Biovail shall, at Hemispherx's request and expense,  return the rejected Product
+to  Hemispherx,  and Biovail shall not be  responsible  to pay to Hemispherx the
+Supply Price for such Product.
+
+3.10 If Hemispherx  disagrees with Biovail's  determination under paragraph 3.09
+the matter shall be determined by arbitration in accordance with paragraph 16.13
+of this  Agreement.  If the  arbitrator  concurs with  Biovail's  determination,
+Biovail shall, at Hemispherx's request and expense,  return the rejected Product
+to Hemispherx  and Biovail  shall not be  responsible  to pay to Hemispherx  the
+Supply  Price for such  Product.  If the  arbitrator  concurs  with  Hemispherx,
+Biovail shall be
+
+Hemispherx - Biovail Distribution Agreement Page 10 of 38
+
+<PAGE>
+
+responsible  to pay to  Hemispherx  the  Transfer  Price  for  the  Product,  in
+accordance with the provisions of this Agreement.
+
+3.11 If  Biovail  does not  provide  a notice  of  non-conformance  pursuant  to
+paragraphs 3.07 or 3.08 within thirty (30) days of receipt of shipment,  Biovail
+shall be responsible for maintaining such inventory and shall be required to pay
+to Hemispherx the Supply Price for any Product which becomes  spoiled,  damaged,
+or out of date  ("Unsaleable").  Except  as set forth in this  paragraph  and in
+paragraph 3.04, Hemispherx shall have no obligation to Biovail for breach of any
+of the  warranties  as to the quality of any Product  determined to be defective
+under paragraphs 3.06, 3.08 or 3.09.
+
+3.12 Biovail may, on notice to Hemispherx and at Biovail's sole expense, conduct
+audits  of any  manufacturing  facility  at  which  the  Product  or any  active
+ingredients,  or any intermediates for the Product or any active ingredients are
+manufactured  and the  manufacturing  records  relating to the production of the
+Product at any site(s) at which the Product is manufactured.
+
+4. TECHNICAL AND CLINICAL SUPPORT
+
+4.01  Hemispherx  shall  provide to Biovail,  within  thirty (30) days after the
+Effective  Date and  during the Term of the  Agreement  as  additional  data and
+information becomes available,
+
+      (a)   all data and  results,  including  raw data,  CRFs and full  reports
+            relating  to any Phase I,  Phase II,  Phase III and Phase IV studies
+            performed with Ampligen by or on behalf of Hemispherx  either before
+            or following the Effective Date;
+
+      (b)   all pre-cliical  data,  including all animal  toxicology  studies as
+            well as all  manufacturing  and quality  control data for the active
+            ingredient and the final dosage forms;
+
+      (c)   a copy of the EC application for Regulatory Approval; and
+
+      (d)   any data or information  relating to any change in the manufacturing
+            site, process of manufacture,  or testing  procedures,  and all data
+            and  information  reasonably  required  to enable  Biovail to file a
+            supplementary  new drug  submission,  if  required  by law or deemed
+            necessary by Biovail.
+
+4.02  Hemispherx  shall,  at the  request  of, and on  reasonable  notice  from,
+Biovail,  provide training  regarding the proper  administration  of Ampligen to
+patients  to  employees,  consultants  and  sub-contractors  of  Biovail  or any
+Affiliate of Biovail, at such locations as Biovail may specify.
+
+4.03 Biovail shall  provide to  Hemispherx  during the Term of the Agreement all
+data and results,  including  raw data,  CRFs and full  reports  relating to any
+Phase I, Phase II, Phase III and Phase IV studies conducted by or for Biovail on
+the Product following the Effective Date.
+
+Hemispherx - Biovail Distribution Agreement Page 11 of 38
+
+<PAGE>
+
+5. MARKETING OF THE PRODUCT
+
+      Product Manager
+
+5.01 Within sixty (60) days after the  Effective  Date,  Biovail shall appoint a
+Product  Manager  experienced  in the  marketing of  pharmaceutical  products in
+Canada  as  the  person  primarily  responsible  for  the  co-ordination  of the
+Marketing of the Product in Canada. The Product Manager shall be responsible for
+dealing on a day to day basis with the personnel of Hemispherx  responsible  for
+the Product.  Biovail may, at any time by written notice to Hemispherx,  replace
+that Product Manager without the consent of Hemispherx.  The Product Manager may
+from time to time and in the sole discretion of Biovail delegate certain aspects
+of his/her responsibilities to other employees of Biovail.
+
+      Canadian Pre-marketing Studies
+
+5.02 Biovail  shall use its  commercially  reasonable  best efforts to enlist at
+least 10  physicians  to  assist in  conducting  pre-marketing  studies  for the
+Canadian  Emergency  Release  ("ER")  program.  Biovail  shall  encourage  those
+physicians to enroll a total of at least 40 patients  suffering  from CFS in the
+Canadian  ER  program  within  12  months  after  the date  that all  regulatory
+requirements for the Canadian ER program have been fulfilled.
+
+      Biovail's Marketing Obligations
+
+5.03 Biovail shall introduce the Product within ninety (90) days after the issue
+of an NOC for the  Product,  subject to receipt of  commercial  supplies  of the
+Product from Hemispherx.
+
+5.04 Biovail  shall use  diligent  efforts,  and shall  devote to Marketing  the
+Product such  resources  as are  necessary to create a Market for the Product in
+the  Territory,  including  such  Marketing,  Detailing  and  continuing  health
+education  programs  relating  to  the  Product.   Biovail  shall  conduct  such
+additional  activities as presentations at scientific and medical meetings using
+promotional  materials,  and other personal and  non-personal  efforts.  Biovail
+shall  organize  regular  symposia or scientific  meetings,  directed at opinion
+leaders in all  metropolitan  areas with the  frequency  required  to keep these
+opinion  leaders  informed  about new research  data  generated  relating to the
+Product.
+
+5.05 Subject only to the provisions of this Agreement, Biovail shall control and
+be responsible  for the  distribution  and sale of the Product in the Territory.
+Biovail  shall  be  responsible  for  the  day-to-day  Marketing  decisions  and
+activities  including,  without  limitation,  developing  and  implementing  the
+Marketing  plans for the Product and  developing and  implementing  the tactical
+plans for all advertising, educational, sales and promotional programs.
+
+5.06 Biovail shall have the sole right and  responsibility  for establishing and
+modifying:
+
+      (a) the selling price of the Product in the Territory;
+
+Hemispherx - Biovail Distribution Agreement Page 12 of 38
+
+<PAGE>
+
+      (b)   any terms and conditions relating to or affecting the price at which
+            the Product shall be sold;
+
+      (c)   any discount attributable to payments for the Product;
+
+      (d)   any terms on which credit may be granted or revised, and the billing
+            and collection of accounts receivable relating to the Product.
+
+5.07 Biovail shall consult with Hemispherx before offering any special or out of
+the ordinary discount on the Product.
+
+5.08  Biovail  shall,  on a regular  basis,  Detail the  product to inter  alia,
+specialists such as internists,  infectious disease  specialists,  immunologists
+and  neurologists  in the  Territory  having a primary  interest  in CFS related
+disorders and any other Indication(s).
+
+5.09 Biovail shall during the first 5 years after the Effective Date collaborate
+with patient  advocacy groups to gain the support of such in securing an NOC for
+the  Product  and,  subsequently,  in  encouraging  use  of the  Product  in the
+Territory.
+
+      Marketing Expenses
+
+5.10 During each calendar year  throughout the Term of this  Agreement,  Biovail
+shall expend in the Marketing of the Product:
+
+      (a)   in each of the first three calendars years after the Effective Date,
+            at least 7.5% of the Target Net Sales for that calendar year; and
+
+      (b)   in each  calendar  year  thereafter,  at least 5% of the  Target Net
+            Sales for that calendar year.
+
+      Training and Promotional Materials
+
+5.11  Hemispherx  shall  during the Term of this  Agreement  make  available  to
+Biovail  all  promotional,   advertising,  educational  and  training  materials
+developed  by  Hemispherx  or its  Licensees  for use  with  the  Product  which
+materials may be used by Biovail in developing  promotional materials for use in
+the Territory.
+
+5.12  Biovail  shall  during  the  Term  of this  Agreement  make  available  to
+Hemispherx all  promotional,  advertising,  educational  and training  materials
+developed  by Biovail for use with the Product  which  materials  may be used by
+Hemispherx in developing promotional materials for use outside the Territory.
+
+5.13 Biovail shall comply with all applicable laws and regulations governing the
+sale, promotion and advertising of the Product in the Territory.
+
+Hemispherx - Biovail Distribution Agreement Page 13 of 38
+
+<PAGE>
+
+      Hemispherx's Marketing Support Obligations
+
+5.14 Hemispherx shall sponsor the attendance of Canadian medical opinion leaders
+selected by Biovail to symposia and scientific  meetings organized by Hemispherx
+in the USA at which the Product  will be  discussed,  provided  that the expense
+incurred  by  Hemispherx  shall not  exceed  ten per cent  (10%) of the  expense
+incurred by Hemispherx in sponsoring attendees from the U.S.A.
+
+5.15  Hemispherx  shall keep Biovail  informed of all  Symposia  and  scientific
+meetings organized by Hemispherx or its Licensees anywhere in the world.
+
+5.16  Hemispherx  shall  reimburse to Biovail all  Marketing  Costs  incurred by
+Biovail, up to a maximum of U.S. $500,000.
+
+5.17 Biovail shall submit for payment to Hemispherx all invoices relating to the
+actual  Marketing  Costs  incurred  by  Biovail,  and  which  are to be  paid by
+Hemispherx in accordance  with this  Agreement,  as soon as reasonably  possible
+after such invoices have been received by Biovail.
+
+5.18  Hemispherx  shall at the  request of Biovail pay all such  invoices,  to a
+maximum of five hundred thousand US Dollars (U.S.$500,000.00) within thirty (30)
+days after delivery of the invoice to Hemispherx. Upon the reasonable request of
+Hemispherx   the  Marketing   Costs  for  which  Biovail  seeks  or  has  sought
+reimbursement  may be audited by or on behalf of Hemispherx  in accordance  with
+the provisions of paragraph 8.12 of this Agreement.  No portion of the Marketing
+Costs paid by Hemispherx  shall be refunded to Hemispherx or credited or debited
+against any other  amount  payable by  Hemispherx  to Biovail,  or by Biovail to
+Hemispherx, under this or any other Agreement. All expenses incurred in currency
+other than US dollars  shall be invoiced by Biovail to Hemispherx in US Dollars,
+converted by Biovail at the rate of exchange charged to Biovail by its principal
+Canadian bank for the purchase of US dollars.
+
+6. REGULATORY AFFAIRS
+
+      Pre-NDS Review
+
+6.01 Biovail shall, as soon as reasonably  possible before  conducting any tests
+or studies that Biovail or Hemispherx may wish to conduct in the Territory,  and
+at Biovail's own expense,  prepare and file any INDS that may be required before
+those test and studies can be conducted.
+
+6.02 Within thirty (30) days after the Effective  Date,  Biovail shall request a
+pre-NDS  meeting with the TPP to review the data package  available at that date
+for the Product and to assess its  suitability  and sufficiency for the purposes
+of filing an NDS.  Hemispherx shall at the request of Biovail but at the expense
+of Hemispherx send a qualified representative to attend that pre-NDS meeting and
+to assist Biovail in the  presentation of information  related to the Product to
+the TPP. In addition to that information, the TPP presentation shall address the
+social-economic impact of CFS and shall include a pharmacoeconomic rationale for
+the use of the Product.
+
+Hemispherx - Biovail Distribution Agreement Page 14 of 38
+
+<PAGE>
+
+      The NDS
+
+6.03  Hemispherx  shall  provide  to  Biovail  within  sixty (60) days after the
+Effective Date, all technical  scientific  information  referred to in paragraph
+4.01 then available to Hemispherx, and any other information and data reasonably
+required to enable  Biovail to file an NDS for the Product in the  Territory for
+the treatment of CFS, including:
+
+      (a)   a letter of access  permitting the TPP to access any of Hemispherx's
+            drug  master  files or plant  master  files  relating to the Product
+            filed by or on behalf of Hemispherx for the purpose of reviewing the
+            NDS; and
+
+      (b)   a copy, in  electronic  form, of any NDA(s) filed by or on behalf of
+            Hemispherx, and of any data included in any such NDA(s).
+
+Biovail may use any of that  information  or data for the purpose of  preparing,
+filing and prosecuting an NDS for the Product in the Territory.
+
+6.04 Hemispherx shall file with the TPP, within sixty (60) days after Hemispherx
+is notified by Biovail  that  Biovail is ready to file the NDS for the  Product,
+any drug master files and plant master files  reasonably  required to support an
+NDS for the Product.
+
+6.05 Provided that Hemispherx has complied with its obligations under paragraphs
+6.02, 6.03 and 6.04,  Biovail shall use all reasonable  efforts to file with the
+TPP within six (6) months from the receipt of the relevant  documentation  to be
+provided  by  Hemispherx,  an NDS for  the  Product.  Biovail  shall  be  solely
+responsible  for all costs and  expenses  relating  to such  filing,  including,
+without limitation, all taxes and applicable government fees.
+
+      Other Indications
+
+6.06  Hemispherx  shall  provide to Biovail from time to time during the Term of
+this Agreement,  and within sixty (60) days after such data becomes available to
+Hemispherx,  all  scientific  information  of the type  referred to in paragraph
+4.01(a)  then  available  to  Hemispherx,  and any  other  information  and data
+reasonably  required to enable  Biovail to file a supplement  to the NDS for the
+Product in the Territory for any new  indication for which  Hemispherx  believes
+that the Product may be used, including a letter of access permitting the TPP to
+access any of  Hemispherx's  drug master files or plant master files relating to
+the Product filed by or on behalf of Hemispherx for the purpose of reviewing the
+NDS pursuant to the provisions of paragraph 5.3.
+
+6.07 Provided that Hemispherx has complied with its obligations  under paragraph
+6.06, and further provided that Biovail, acting reasonably, agrees that the data
+provided by Hemispherx  is sufficient to enable  Biovail to file an NDS for that
+new  indication,  Biovail shall use all reasonable  efforts to file with the TPP
+within  three (3) months from the receipt of the  relevant  documentation  to be
+provided by Hemispherx, an NDS for the Product for that new indication.  Biovail
+shall be solely
+
+Hemispherx - Biovail Distribution Agreement Page 15 of 38
+
+<PAGE>
+
+responsible  for all costs and  expenses  relating  to such  filing,  including,
+without limitation, all taxes and applicable government fees.
+
+      Dealings with the TPP and other Regulatory Bodies
+
+6.08 Biovail shall be  responsible  for dealing with the TPP with respect to all
+matters  relating to any NDS filed for the  Product,  manufacturing  compliance,
+packaging,  labeling and quality  assurance  for the Product.  Biovail  shall be
+responsible for all other  regulatory  filings relating to the Product with TPP,
+including all ADE reporting and annual reporting.  All  communications  with the
+TPP or any other drug  regulatory  authority  in the  Territory  relating to the
+Product as Marketed in the Territory shall be confirmed by Biovail in writing to
+Hemispherx, and Biovail shall provide to Hemispherx copies of all documents sent
+to or  received  from the TPP and any other  drug  regulatory  authority  in the
+Territory  regarding the Product.  Biovail shall consult with  Hemispherx on all
+major  decisions  involving  the NDS for the  Product  and on all  responses  to
+deficiency letters delivered by the TPP.
+
+6.09  Hemispherx  shall  be  responsible  for  preparing  all  responses  to any
+deficiency  letters from the TPP regarding that NDS and shall provide such draft
+responses to Biovail for delivery to the TPP.  Biovail shall be responsible  for
+communicating  with the TPP concerning  the Product and any  deficiency  letters
+received concerning the NDS.
+
+6.10 Biovail shall be responsible  for obtaining and maintaining the listings of
+the Product on provincial,  hospital, government and private formularies,  where
+applicable.  Hemispherx  shall  provide  to  Biovail  all  information  and data
+required by Biovail to carry out its obligations under this paragraph.
+
+6.11  Biovail  shall  be  responsible  for  responding  to  all  Product-related
+inquiries, Product quality complaints, and ADE reports received from lay persons
+and/or Health Care  professionals  from within the Territory.  Hemispherx  shall
+provide to Biovail  copies of draft  responses to all  correspondence  and other
+documents relating to any such inquiries, complaints or reports.
+
+6.12 Each Party shall  obtain and  maintain,  at its own cost and  expense,  all
+other licenses,  permits and authorizations  necessary to perform its respective
+duties under this Agreement,  and shall cooperate with the other in applying for
+and obtaining  any  governmental  approvals  necessary to implement the terms of
+this Agreement.
+
+6.13 Biovail  shall,  at its own expense,  apply for any  establishment  license
+necessary to enable it to carry out its obligations under this Agreement.
+
+Hemispherx - Biovail Distribution Agreement Page 16 of 38
+
+<PAGE>
+
+7. QUARTERLY FORECASTS AND ORDERS
+
+      Forecasts
+
+7.01 At least one hundred and twenty (120) days before the anticipated  grant of
+a Notice of  Compliance  for the  Product,  and  within ten (10)  business  days
+following the end of each calendar  quarter  thereafter  during the term of this
+Agreement,  Biovail  shall  supply to  Hemispherx,  a twelve (12) month  rolling
+forecast of Biovail's projected requirements for the Product in the Territory.
+
+7.02 Within sixty (60) days of the later of:
+
+      (a)   the receipt by  Hemispherx of the artwork that Biovail is to provide
+            pursuant to paragraph 3.04(d), and
+
+      (b)   Biovail's initial purchase order,
+
+7.03 Hemispherx  shall supply to Biovail all quantities of the Product  required
+for the Product Launch as specified in Biovail's initial purchase order.
+
+7.04  Biovail  shall  deliver  subsequent  purchase  orders  for the  Product to
+Hemispherx  no less than one hundred and twenty (120) days prior to the required
+date of delivery.  Within ten (10) days of receipt of an order, Hemispherx shall
+send to Biovail a written  confirmation of such order, at which point such order
+shall be binding  upon Biovail and  Hemispherx.  Each order shall state the date
+and location  where  delivery  shall be made.  Hemispherx  shall use  reasonable
+efforts to ensure  dispatch to Biovail of the  requisite  quantity of Product to
+fulfill such orders.  In the event that Biovail's  orders exceed such quantities
+Hemispherx  shall use  reasonable  efforts,  as  prescribed  in Article 2.07, to
+provide the full amount of Biovail's requested quantities of Product and to meet
+Biovail's requested delivery dates.
+
+7.05  All  Product  intended  for use in the ER  program  shall  be  shipped  by
+Hemispherx,  prepaid, to such persons or locations as Biovail may specify in its
+purchase order for the Product.
+
+      Minimum Purchase Requirements
+
+7.06  Provided that  Hemispherx  has complied  with its  obligations  under this
+Agreement,  Biovail  shall,  in each calendar year  throughout  the Term of this
+Agreement,  purchase  quantities of the Product  equivalent to those required to
+achieve a Market Penetration Ratio at least 1.0.
+
+8. PAYMENTS, RECORDS, REPORTS AND AUDITS
+
+      Initial Investment
+
+8.01  Upon  the  execution  of  this  Agreement,  Biovail  shall  purchase  from
+Hemispherx,  and  Hemispherx  shall  sell  to  Biovail,  from  the  treasury  of
+Hemispherx, the number of Hemispherx common shares determined in accordance with
+this paragraph 8.01, for a price of two million, two
+
+Hemispherx - Biovail Distribution Agreement Page 17 of 38
+
+<PAGE>
+
+hundred and fifty  thousand US dollars  (US$2,250,000).  For the purpose of this
+Agreement,  the number of  Hemispherx  common  shares to be  acquired by Biovail
+shall be determined by dividing U.S.$2 Million by the Acquisition Price.
+
+8.02 Within thirty (30) days after the grant of an NOC for the Product,  Biovail
+shall purchase from Hemispherx,  and Hemispherx shall sell to Biovail,  from the
+treasury of  Hemispherx,  the number of Hemispherx  common shares  determined in
+accordance with this paragraph  8.02, for a price of one million,  seven hundred
+and  fifty  thousand  US  dollars  (US  $1,750,000).  For  the  purpose  of this
+Agreement, the number of shares to be acquired by Biovail shall be determined by
+dividing US$0.8 million by the average closing price of Hemispherx shares during
+the 60 days  immediately  preceding  the  date of the  grant  of the NOC for the
+Product.
+
+      Supply Price
+
+8.03 Hemispherx shall invoice Biovail,  for each shipment of Products ordered by
+Biovail  using the Transfer  Price  applicable as of the date of shipment of the
+order by Hemispherx. Biovail shall pay each such invoice within thirty (30) days
+of the date of the invoice.
+
+8.04 Biovail shall be responsible for the payment of any duties, levies or taxes
+applied to the  importation  of the Product  into the  Territory by any relevant
+Canadian tax authority(ies).
+
+8.05 Subject only to the  provisions of paragraph  8.04,  the Transfer Price for
+the Product is F.O.B. the Biovail  Distribution Center specified in the purchase
+order.  Hemispherx shall determine the appropriate carrier to be used to deliver
+the Product to the Biovail Distribution Center. Biovail shall be responsible for
+all costs of shipping  the  Product  from a Biovail  Distribution  Center to its
+customers.
+
+8.06 Biovail shall provide to Hemispherx no later than thirty (30) days from the
+end of each calendar quarter, sales reports for the previous quarter stating the
+number of Units sold,  the  Aggregate  Sales,  and the Net Selling Price for the
+Product as calculated by Biovail.
+
+8.07  Biovail,  if required so to do by any  applicable  tax law, may deduct any
+governmental  withholding  tax  required  to be deducted by it on payment of any
+amounts  required by  paragraph  8.03,  but shall  account to the  relevant  tax
+authorities  for the sum so deducted and provide  Hemispherx  with proof of such
+payment from such authorities.  Biovail shall provide  reasonable  assistance to
+Hemispherx  in securing any benefits  available  to  Hemispherx  with respect to
+governmental tax withholdings by any relevant law or double tax treaty.
+
+8.08  Within  thirty  (30) days of the end of each  calendar  year,  Biovail and
+Hemispherx  shall  review  the  Aggregate  Sales and the Net  Selling  Prices of
+Biovail  or its  Affiliates  for that  calendar  year,  and the  Transfer  Price
+invoiced to Biovail by  Hemispherx  for the  Product  invoiced by Biovail or its
+Affiliates  during that calendar year, and shall calculate the amount,  (if any)
+in addition to the Transfer  Price that Biovail is obliged to pay to Hemispherx,
+based on the actual Net Selling Price for the just ended calendar year,  using a
+first-in, first-out method of allocating Transfer Prices to
+
+Hemispherx - Biovail Distribution Agreement Page 18 of 38
+
+<PAGE>
+
+Products  invoiced  by  Biovail  or its  Affiliates,  and  having  regard to the
+percentage  of Net  Selling  Price to be paid by Biovail as set out in  Schedule
+
+8.08.  Any  overpayment  by  Biovail  shall be  credited  against  any unpaid or
+subsequent  purchase orders, or repaid to Biovail at the option of Biovail.  Any
+underpayment  by Biovail  shall be invoiced by Hemispherx to Biovail and paid by
+Biovail by Hemispherx  within thirty (30) days of the  completion of the review.
+Notwithstanding  the provisions of this paragraph,  no adjustment  shall be made
+which would result in  Hemispherx  being paid,  for each strength of the Product
+sold to Biovail, less than the Floor Price for that strength.
+
+8.09 All sums due Hemispherx  under this  Agreement  shall be paid by Biovail to
+Hernispherx  in  immediately  available  funds by wire transfer to the following
+account or to such other account as Hemispherx may specify in writing.
+
+      Books and Records
+
+8.10  Biovail  shall  keep  books and  records  relating  to this  Agreement  in
+accordance  with its usual  practices  and with  generally  accepted  accounting
+principles consistently applied.  Biovail's books and records shall at a minimum
+document the  quantities  of the Product  invoiced by Biovail in the  Territory,
+prices  charged for the Product,  Aggregate  Sales of the  Product,  and Product
+orders.  The  foregoing  books and records  shall be retained for at least three
+years following the end of the applicable calendar year.
+
+8.11 Within  thirty (30) days after the end of each  calendar  quarter,  Biovail
+shall deliver to Hemispherx a report setting out the sales of the Product during
+that quarter which shall include  gross sales,  Aggregate  Sales and Net Selling
+Price (the "Quarterly Sales Reports").
+
+8.12 If  Hemispherx  reasonably  requests,  Biovail  shall  allow  its books and
+records  containing sales and Product order  information,  and its internal call
+reporting  records,  to be  audited by an  independent  major  certified  public
+accounting  firm selected by  Hemispherx,  and to whom Biovail has no reasonable
+objection.  Such examinations  shall not take place more often than one time per
+Agreement Year,  shall not cover  transactions for more than the preceding three
+years,  and shall not cover  entries in books and records which were the subject
+of a prior audit or which  predate  this  Agreement.  Such auditor must agree to
+sign a confidentiality  agreement  undertaking that it shall not disclose to any
+person,  including  Hemispherx,  any  information  obtained in the course of its
+audit other than information relating solely to the accuracy of the sales, costs
+incurred  by Biovail in meeting its  Marketing  Obligations,  and Product  order
+information  provided by Biovail and the calculation of compensation  payable to
+Hemispherx  hereunder.  Such audit shall be (a)  conducted  in  accordance  with
+generally  accepted auditing  standards;  (b) limited to those books and records
+described  in this Article 8; and (c)  undertaken  for the purposes of verifying
+the accuracy of sales  information  provided by Biovail and the  calculation  of
+compensation payable to Hemispherx  hereunder.  The auditor shall furnish a copy
+of its report to each Party promptly after the completion of any such audit.
+
+8.13 In the event any  examination  or audit of the  records  described  in this
+Article 8 discloses an  underpayment  or  overpayment  of amounts due under this
+Agreement, written notice of such fact,
+
+Hemispherx - Biovail Distribution Agreement Page 19 of 38
+
+<PAGE>
+
+specifying  the  amount  and basis of the  underpayment  or  overpayment,  shall
+promptly be furnished to both Parties by the firm who performed the  examination
+or audit. The Party owing any moneys in connection  therewith shall promptly pay
+such amount to the other  Party.  The costs of any audit  pursuant to  paragraph
+8.12  shall be paid by  Hemispherx  unless  the  audit  discovers  that  Biovail
+undercompensated Hemispherx by five percent (5%) or more in which case the costs
+of the audit shall be borne by Biovail.
+
+9. ADVERSE REACTIONS AND RECALLS
+
+      Adverse Reaction Reporting and Product Complaints
+
+9.01 Each of Biovail and Hemispherx  shall comply with (a) all adverse  reaction
+reporting  systems  in  force in the  Territory,  and (b) the  adverse  reaction
+reporting requirements of the TPP, and FDA, as applicable.
+
+9.02  Biovail  shall  promptly  advise   Hemispherx  of  any  adverse   reaction
+information  that comes to its attention.  Biovail shall submit adverse reaction
+reports to the TPP and  provide a copy of all such  submissions  to  Hemispherx.
+Biovail shall be solely responsible for compiling such adverse event information
+and making any reports  required to the TPP.  Hemispherx shall notify Biovail of
+all adverse  reaction  information  and reports  received by Hemispherx from its
+licensees  outside  the  Territory  and  copies of all  correspondence  with any
+regulatory authority concerning such reports.
+
+9.03 Each of Hemispherx  and Biovail shall  immediately  notify the other of any
+information  it receives  regarding any threatened or pending action by the FDA,
+TPP or other regulatory agency which may affect the safety or efficacy claims of
+the Product or the  continued  marketing of the Product in the  Territory.  Upon
+receipt of any such  information,  Hemispherx  may  consult  with  Biovail in an
+effort to arrive at a  mutually  acceptable  procedure  for  taking  appropriate
+action;  provided,  however, that nothing contained herein shall be construed as
+restricting the ability of Hemispherx or Biovail to make a timely report of such
+matter to any  governmental  agency  or take  other  action  that it deems to be
+appropriate or required by applicable law or regulation.  Each of Hemispherx and
+Biovail shall provide such information regarding the Product to the other.
+
+9.04  Each of the  Parties  shall  throughout  the  duration  of this  Agreement
+maintain records and otherwise  establish  procedures to assure  compliance with
+all regulatory,  professional,  and other legal  requirements which apply to the
+promotion and marketing of the Product in the Territory.
+
+      Recalls
+
+9.05 Biovail shall notify Hemispherx  immediately of any recall or withdrawal of
+the  Product  from  the  market  in  the  Territory  required  by  the  TPP.  At
+Hemispherx's request, Biovail shall perform any recall required and shall obtain
+and receive any Product that has been recalled.
+
+9.06 In the event that either  Party  proposes to recall or withdraw the Product
+from the market for health and safety reasons, the Party desiring such recall or
+withdrawal shall notify the other Party
+
+Hemispherx - Biovail Distribution Agreement Page 20 of 38
+
+<PAGE>
+
+immediately.  Both Parties  shall then meet and discuss such  proposal  with the
+final decision to be made by Biovail.
+
+9.07 In the event that any batches or  shipments of the Product are subject to a
+recall,  Hemispherx shall,  subject to the provisions of paragraph 9.05, conduct
+the recall  and shall  bear the cost and  expense  of any  recall,  except  that
+Biovail  shall bear the cost and expense of any recall shown to have required as
+the  result of any breach by  Biovail  of this  Agreement.  If the recall is not
+attributable  to the fault of one Party  only,  the cost of the recall  shall be
+shared equally by the Parties.
+
+10. INTELLECTUAL PROPERTY
+
+      Ownership of Intellectual Property
+
+10.01  Hemispherx or its Affiliates shall have and retain ownership of and title
+to all  trademarks,  patents  and  other  intellectual  property  rights  in the
+Product,   including   without   limitation  all  inventions,   discoveries  and
+improvements and other  intellectual  property relating to the Product which are
+made,  conceived,  reduced to  practice  or  generated  by the  Parties or their
+respective Affiliates,  including employees, agents and other representatives or
+contractors,  in the course of work performed  under this  Agreement  and/or any
+other agreements  between the Parties relating to the Product.  Hemispherx shall
+own the trademark Ampligen in the Territory.
+
+      Patent and Trademark
+
+10.02  Hemispherx or its Affiliates  shall have the exclusive  right to prepare,
+file,  prosecute  and  maintain  at its or their  own  expense  all  patent  and
+trademark  applications and patents and trademarks relating to the Product,  and
+shall use  reasonable  efforts to file such  applications  as may be required to
+protect the intellectual  property associated with the Product in the Territory.
+Biovail shall  provide  reasonable  assistance  to Hemispherx to facilitate  the
+filing and maintenance of all such patent and trademark applications and patents
+and trademarks, and shall execute all documents which Hemispherx deems necessary
+or desirable therefor.
+
+      Retention of Certain Rights
+
+10.03 Subject to paragraph 10.02 above, each Party shall retain ownership of all
+intellectual property rights in its own trademarks, logos and other intellectual
+property  used in the  Marketing  of the Product and to the extent  necessary to
+permit the other  Party to  lawfully  fulfill  its  obligations  in  relation to
+Marketing the Product in the Territory  pursuant to the terms of this Agreement,
+hereby  grants  to the  other  Party  a  gratuitous,  royalty-free  license  (or
+sublicense,  as the case may be) to use such intellectual  property for the sole
+purpose of so Marketing  the Product in the  Territory  pursuant to the terms of
+this Agreement.
+
+Hemispherx - Biovail Distribution Agreement Page 21 of 38
+
+<PAGE>
+
+      Infringement by Third Parties
+
+10.04 Each Party shall promptly  notify the other following the discovery of any
+infringement  or  unauthorized  use of the other Party's  intellectual  property
+rights  used in the  promotion  of the  Product.  The  Party  whose  rights  are
+infringed shall  determine  within sixty (60) days following such notice whether
+to prosecute the alleged  infringement  and whether to enforce its  intellectual
+property  rights  against the alleged  infringer.  If the Party whose rights are
+infringed  determines to prosecute the  infringement,  that Party shall bear the
+costs and  expenses  of the  prosecution.  Should  the Party  whose  rights  are
+infringed fail to determine whether to prosecute within the sixty day period set
+forth  above,  or  determine  not to  initiate  any action  against  the alleged
+infringer,  the other Party shall have the right to initiate  such action at its
+own  expense,  and in the name of the  other  Party in  advisable.  In the event
+either Party brings an action pursuant to this paragraph  10.04, the other Party
+shall provide the Party bringing such action with  reasonable  assistance at the
+prosecuting  Party's  expense.  Any recovery from any such action shall first be
+applied in  satisfaction  of expenses and legal fees  incurred by the Parties in
+connection  with the action,  and any balance  remaining  from any such recovery
+shall be divided  between the Parties pro rata according to the losses  incurred
+by the Parties by reason of the infringement that was the subject of the action.
+
+      Claims of Infringement
+
+10.05 Either  Party shall notify the other  promptly in the event of the receipt
+of notice of any action, suit or claim alleging infringement of any intellectual
+property  rights  held by a third  party.  Defense of all such  claims  shall be
+subject to Article 12.
+
+10.06 If Hemispherx,  Biovail or any of their respective Affiliates or customers
+shall be sued by a third party for infringement of a patent, or a claim shall be
+made of infringement of a patent because of the manufacture,  use or sale of the
+Product,  or any  regulatory  or other  action is  initiated by a third party to
+delay or affect the sale of the  Product,  then the Party which has been sued or
+becomes aware of such a suit or regulatory or other action shall promptly notify
+the other  Party in writing of the  institution  of such suit or  regulatory  or
+other action.  Hemispherx shall defend at its own expense, and have control over
+any such litigation or suit. Biovail shall have the right to participate in such
+suit or action at its own  expense.  If  Hemispherx  fails to defend  any action
+relating  to or arising  from the  Marketing  of the  Product  in the  Territory
+promptly  and  diligently,  Biovail  may  defend  such  action  in the  name  of
+Hemispherx if necessary, subject to Hemispherx's unqualified right to assume the
+defense and control of any such suit or action at its own expense.
+
+10.07  Either  Hemispherx  or  Biovail  may  at  its  own  expense  conduct  all
+negotiations  for the  settlement of any claim in respect of which it has agreed
+to indemnify the other,  and the defense and settlement of any  litigation  that
+may arise  therefrom,  but shall not at any time make any  admission or take any
+steps which might be prejudicial to the settlement or successful  defense by the
+other of any claim unless and until the other has been notified of the claim and
+has stated its intention not to negotiate or defend the claim.  Hemispherx shall
+not settle or compromise any claim in any manner
+
+Hemispherx - Biovail Distribution Agreement Page 22 of 38
+
+<PAGE>
+
+that impedes or affects  Biovail's ability or right to Market the Product in the
+Territory without the consent of Biovail.
+
+      No Implied License
+
+10.08 Except as specifically provided herein,  nothing in the Agreement does, or
+is  intended  to, or shall be  construed  to create,  confer,  give effect to or
+otherwise  imply in Biovail or anyone  claiming  through  Biovail  any  license,
+right, or property interest in the Product,  the Patents, the Trade Mark, or any
+trade secrets, know how or property relating to the Product.
+
+11. CONFIDENTIALITY
+
+11.01   "Confidential   Information"   means  any  confidential  or  proprietary
+information,   knowledge,   intellectual  property,  pre-clinical  and  clinical
+information  or data,  technical  and/or  non-technical  material  or  property,
+relating to the Product,  its Manufacture,  or Marketing  delivered by one Party
+("Supplier") to the other Party ("Recipient").
+
+11.02  Recipient  will employ the same  degree of care to keep all  Confidential
+Information  confidential  as it employs with respect to its own  information of
+like importance, and will not disclose any Confidential Information to any third
+party,  except to consultants and employees of themselves or Affiliates who need
+or are  entitled  to know such  Confidential  Information  for the  purposes  of
+carrying out the object of this  Agreement,  and who are under an  obligation to
+keep that  information  confidential,  or except as required for the purposes of
+the New Drug  Submission or any amendments  thereto.  Biovail shall not disclose
+any  information  or data provided to Biovail by Hemispherx  for the purposes of
+preparing  the CMC Section of an NDS to any persons  other than  consultants  or
+employees who are  responsible for preparing or submitting that NDS and who need
+to know that information or data.  Biovail shall maintain a written list of such
+employees  and  consultants.  Confidential  Information  may be disclosed to any
+person  referred to in paragraph  2.04,  provided  that the  disclosure  of such
+Confidential   Information   is  governed   by  the  terms  of  an   appropriate
+confidentiality agreement.
+
+11.03 All Confidential  Information shall remain the property of Supplier.  Upon
+the  written  request  of  Supplier  upon  termination  or  expiration  of  this
+Agreement,   all  tangible  Confidential   Information  received  from  Supplier
+(including  all copies  thereof  and  samples)  shall be  promptly  returned  to
+Supplier;  provided  that  Recipient  may provide one (1) copy of such  tangible
+Confidential  Information  to its  General  Counsel to be  retained  in a secure
+location for purposes of identifying its obligations under this Agreement.
+
+11.04 The obligations of  confidentiality  and non-use set forth in this Article
+11 of  this  Agreement  shall  not  apply  to any  portion  of the  Confidential
+Information that:
+
+(a)   is or becomes  public or available to the general  public  otherwise  than
+      through the act or default of Recipient or any Authorized Third Party; or
+
+Hemispherx - Biovail Distribution Agreement Page 23 of 38
+
+<PAGE>
+
+      (b)   is  obtained  by  Recipient  from a third  party who is  lawfully in
+            possession of such Confidential Information and is not subject to an
+            obligation to Supplier of confidentiality or non-use; or
+
+      (c)   is previously known to Recipient prior to disclosure to Recipient by
+            Supplier; or
+
+      (d)   is  furnished  to  others  by  Supplier   without   restrictions  on
+            confidentiality  and  non-use  similar  to those  contained  in this
+            Agreement; or
+
+      (e)   is acquired,  independently  developed,  discovered or arrived at by
+            the party  possessing  the  information,  or which is  independently
+            developed, discovered or arrived at by the Recipient, without use of
+            the Confidential Information received from Hemispherx; or
+
+      (f)   is used by Hemispherx or Biovail in the Marketing of the Product.
+
+11.05 In the event that either Party is  requested  or required (by  deposition,
+interrogatories,  requests for  information  or documents in legal  proceedings,
+subpoena,  civil investigative  demand or other similar process) to disclose any
+of the  Confidential  Information  of the  other  Party,  the Party to whom such
+request or requirement  applies (the  "Mandated  Party") shall provide the other
+Party (the "Protected  Party") with prompt written notice of any such request or
+requirement  so that  Protected  Party  may  seek a  protective  order  or other
+appropriate   remedy  and/or  waive  compliance  with  the  provisions  of  this
+Confidentiality  Agreement.  If, in the absence of a  protective  order or other
+remedy or the receipt of a waiver by Protected  Party, the Mandated Party or its
+representatives  are  nonetheless,  in the  opinion  of their  counsel,  legally
+compelled  to disclose  Confidential  Information  to any tribunal or else stand
+liable for contempt or suffer other censure or penalty,  the Mandated Party may,
+without liability hereunder,  disclose to such tribunal only that portion of the
+Confidential  Information  which such  counsel  advises  the  Mandated  Party is
+legally  required to be disclosed,  provided that Mandated  Party  exercises its
+Commercially   Reasonable  Efforts  to  preserve  the   confidentiality  of  the
+Confidential  Information  and  provides  to the  Protected  Party a copy of any
+written opinion relied on.
+
+11.06  Nothing in this  Agreement  shall be  construed as giving  Recipient  any
+right, title, interest in or ownership of the Confidential Information.
+
+11.07 The provisions of this Article 11 shall survive any  termination or expiry
+of this Agreement.
+
+12. INDEMNIFICATION
+
+12.01  Hemispherx,  together with its successors  and assigns,  hereby agrees to
+indemnify and hold Biovail harmless from and against all losses,  costs, claims,
+actions,  liabilities,  including  liability for death or personal  injury,  and
+expenses  (including  reasonable  attorneys'  fees),  incurred by Biovail  which
+result from or arise in connection with
+
+Hemispherx - Biovail Distribution Agreement Page 24 of 38
+
+<PAGE>
+
+      (a)   the breach of any representation, covenant or warranty of Hemispherx
+            contained in this Agreement;
+
+      (b)   any  product  liability  claim  relating  to the  Product  including
+            without limitation,  any claim based upon any use of Product, or any
+            defect in the Product that was manufactured  by, or for,  Hemispherx
+            or by an Affiliate or licensee thereof; or
+
+      (c)   any act or  omission  of  Hemispherx  or of  Hemispherx's  officers,
+            directors,   employees  or  agents  (including   without  limitation
+            statements  or  representations   that  are  inconsistent  with,  or
+            contrary to the Product labeling), or
+
+      (d)   any claims or  allegations  by a third party that the sale or use of
+            the Product or the use of the Trademark infringes that third party's
+            intellectual property rights,
+
+except  to the  extent  that  any  such  liability,  cost,  loss or  expense  is
+attributable  to  the  negligent  or  intentional   malfeasance  of  Biovail  in
+connection with the performance of its duties and obligations hereunder.
+
+12.02  Biovail,  together  with its  successors  and assigns,  hereby  agrees to
+indenmify  and hold  Hemispherx  harmless  from and  against any and all losses,
+costs, claims, actions,  liabilities,  including liability for death or personal
+injury,  and  expenses  (including   reasonable  attorneys'  fees)  incurred  by
+Hemispherx which result from or arise in connection with
+
+      (a)   the breach by Biovail of any representation, covenant or warranty of
+            Biovail contained in this Agreement;
+
+      (b)   the  Marketing  of the  Product in the  Territory  by  Biovail,  its
+            Affiliates,  and  the  directors,  officers,  employees  and  agents
+            thereof; or
+
+      (c)   any act or omission of Biovail or of Biovail's officers,  directors,
+            employees or agents  (including  without  limitation  statements  or
+            representations  that are  inconsistent  with,  or  contrary  to the
+            product labeling)
+
+12.03  except to the extent that any such  liability,  cost,  loss or expense is
+attributable  to the  negligent or  intentional  malfeasance  of  Hemispherx  in
+connection with the performance of its duties and obligations hereunder.
+
+      Procedure for Indemnification
+
+12.04 Upon receiving notice of any claim or suit under paragraph 12.01, or 12.02
+above, the indemnified Party shall immediately notify the indemnifying Party and
+shall allow the indemnifying  Party and/or its insurer the opportunity  (subject
+to Hemispherx's obligation to assume control of any
+
+Hemispherx - Biovail Distribution Agreement Page 25 of 38
+
+<PAGE>
+
+and all third party  infringement  claims as described  in  paragraph  10.06) to
+assume  direction  and  control of any and all third party  infringement  claim,
+including  without  limitation the settlement  thereof at the sole option of the
+indemnifying  Party or its insurer.  The  indemnified  Party agrees to cooperate
+with  the  indemnifying  Party  in  the  conduct  of any  negotiations,  dispute
+resolution or litigation of any such claim or suit; and the  indemnifying  Party
+shall inform the indemnified  Party of the progress of the claim or suit at such
+time and in such manner as is reasonable under the circumstances.
+
+      Insurance
+
+12.05 During the period of time beginning with the Product Launch and continuing
+for five (5) years after the expiration or termination  of this  Agreement,  the
+Parties shall each maintain in force product liability insurance coverage,  with
+commercially  reasonable  limits adequate to cover their  obligations under this
+Agreement  and  in any  event  not  less  than  five  million  Canadian  dollars
+(Cdn.$5,000,000) for each claim and in the aggregate. A certificate of insurance
+shall be  provided  by each Party to the other  promptly  after the date of this
+Agreement and at each anniversary or renewal date of such insurance.
+
+13. TERM AND TERMINATION
+
+      Term and Renewal
+
+13.01 This Agreement shall become effective immediately,  and, unless terminated
+pursuant to the  provisions of this  Agreement,  shall  continue in effect for a
+period of ten (10) years from the Effective Date.
+
+13.02 The Term of this Agreement  shall be extended for successive  terms of two
+(2) years unless either Biovail or Hemispherx advises the other of its intention
+not to renew the Term at least twelve (12) months before the  expiration of such
+Term.
+
+      Termination by Either Party
+
+13.03 Either Party may terminate this Agreement  immediately upon written notice
+if the Product is withdrawn  from the Territory for a period of more than ninety
+(90) days for serious adverse health or safety reasons.
+
+13.04 Either Party may terminate this Agreement  immediately upon written notice
+if, at any time, the other Party:
+
+      (a)   files in any court a petition in  bankruptcy  or  insolvency  or for
+            reorganization  or for an  arrangement  or for the  appointment of a
+            receiver or trustee of such Party or of its assets;
+
+      (b)   proposes a written  agreement of  composition  for  extension of its
+            debts;
+
+Hemispherx - Biovail Distribution Agreement Page 26 of 38
+
+<PAGE>
+
+      (c)   is  served  with an  involuntary  petition  against  it filed in any
+            insolvency  proceeding,  and such petition is not  dismissed  within
+            sixty (60) days after the filing thereof;
+
+      (d)   proposes or is a party to any dissolution or liquidation; or
+
+      (e)   makes an assignment for the benefit of its creditors.
+
+13.05 Except as otherwise provided in this Agreement, either Party may terminate
+this Agreement if the other Party  materially  breaches any term or provision of
+this  Agreement,  (90) days after giving the breaching  Party written  notice of
+such breach, unless:
+
+      (a)   the  breaching  Party  cures the breach  within such ninety (90) day
+            period; or
+
+      (b)   if a cure of such breach cannot  reasonably be effected  within such
+            (90) day period,  the  breaching  Party  commences  the cure of such
+            breach within such ninety (90) day period and diligently  prosecutes
+            such cure to completion.
+
+      Termination by Hemispherx
+
+13.06 In the event that Biovail fails to meet the minimum purchase  requirements
+of paragraph 7.06 in any calendar  year,  Hemispherx may within ninety (90) days
+of the end of that  calendar  year and upon thirty (30) days  written  notice to
+Biovail treat the provision in paragraph 2.01 of this Agreement granting Biovail
+the exclusive distributorship to Market the Product in the Territory as null and
+void.  Thereafter  Hemispherx  shall have the right to Market the Product in the
+Territory itself, or to appoint a third party as a non-exclusive  distributor of
+the Product in the Territory.
+
+13.07 In the event that Biovail fails to meet its Marketing  Obligations  in any
+calendar  year,  Hemispherx  may  within  ninety  (90)  days  of the end of that
+calendar  year and upon thirty  (30) days  written  notice to Biovail  treat the
+provision in paragraph  2.01 of this  Agreement  granting  Biovail the exclusive
+distributorship  to  Market  the  Product  in the  Territory  as null and  void.
+Thereafter  Hemispherx  shall  have  the  right to  Market  the  Product  in the
+Territory  itself or to appoint a third party as a non-exclusive  distributor of
+the Product in the Territory.
+
+13.08 In the event that Biovail fails to meet its Marketing  Obligations  in any
+calendar year,  and also fails to meet the Market  Penetration  requirements  of
+paragraph  7.06 in that same calendar  year,  Hemispherx  may within ninety (90)
+days of the end of that calendar  year and upon thirty (30) days written  notice
+to Biovail terminate this Agreement.
+
+13.09  Upon  receipt  of  written  notice of an  election  by  Hemispherx  under
+paragraphs  13.06,  13.07 or 13.08,  Biovail may retain its  exclusive  right to
+Market the Product in the Territory,  and this Agreement shall not be terminated
+pursuant to paragraph  13.08,  if within thirty (30) days of the receipt of such
+notice Biovail agrees to
+
+Hemispherx - Biovail Distribution Agreement Page 27 of 38
+
+<PAGE>
+
+      (a)   purchase sufficient Product from Hemispherx to make up the shortfall
+            in its minimum  purchase  requirements  specified in paragraph 7.06;
+            and
+
+      (b)   increase its  Marketing  Obligations  within the  following  six (6)
+            month  period by an amount  sufficient  of overcome  the  deficiency
+            specified  in the written  notice  delivered  pursuant to  paragraph
+            13.08.
+
+13.10  Hemispherx  may terminate  this  Agreement on the 5th  anniversary of the
+Product Launch provided that:
+
+      (a)   Hemispherx  notifies  Biovail  of its  intention  to  terminate  the
+            Agreement  at  least  twelve  (12)  months  in  advance  of  the  S~
+            anniversary of the First Commercial Sale; and
+
+      (b)   Hemispherx  pays to Biovail on or before the 5th  anniversary of the
+            Product  Launch an amount  that will  provide to Biovail a return on
+            investment  of five  hundred per cent (500%) on  Biovail's  Invested
+            Costs.
+
+      Termination by Biovail
+
+13.11  Biovail  may  terminate  this  Agreement  pursuant to the  provisions  of
+paragraph  9.05 of this  Agreement  at any time upon  ninety  (90) days  written
+notice to Hemispherx.
+
+13.12  Biovail  may at any time  within six (6) months  after the  issuance of a
+Notice of Compliance notify Hemispherx that Biovail has been unable to negotiate
+the approval of a  Reimbursement  Price of an amount of least  equivalent to two
+hundred and ten US Dollars  (US$210.00) per Unit in the Provinces of Ontario and
+Quebec Upon the delivery of that notice:
+
+      (a)   the Marketing Obligations of Biovail shall be suspended for a period
+            of six (6) months;
+
+      (b)   Hemispherx  may  review  the  submissions  made  by  Biovail  to the
+            applicable  provincial agencies,  and may itself negotiate with such
+            agencies  in an attempt of obtain the  approval  of a  Reimbursement
+            Price of an amount of least  equivalent  to two  hundred  and ten US
+            Dollars (US$210.00) per Unit in the Provinces of Ontario and Quebec.
+
+13.13 If within that six (6) month period  Hemispherx is unable to negotiate the
+approval of a Ceiling  Price for the 400 mg strength of the Product  (calculated
+by determining the average of the Ceiling Prices approved for the Product in the
+Provinces of Ontario and Quebec) of an amount of least equivalent to two hundred
+and ten US Dollars  (US$210.00)  per Unit in,  Biovail  may on thirty  (30) days
+notice in writing to Hemispherx  terminate  this  Agreement,  unless within that
+thirty (30) day period  Hemispherx agrees to reduce the Floor Price to an amount
+that permits Biovail to achieve and maintain the same  percentage  margin on its
+sales of the Product in the Territory as
+
+Hemispherx - Biovail Distribution Agreement Page 28 of 38
+
+<PAGE>
+
+Biovail  would  achieve  and  maintain  it had  obtained a Ceiling  Price of two
+hundred and ten US Dollars  (US$210.00)  per Unit with a Transfer Price of sixty
+US Dollars (US$60).
+
+13.14  Within  fifteen  (15) days after the  delivery  of a notice by Biovail to
+Hemispherx pursuant to the provisions of paragraph 13.12, Hemispherx shall:
+
+      (a)   pay to Biovail an amount equivalent to US$500,000 minus the total of
+            all Marketing costs which Hemispherx has reimbursed or is obliged to
+            reimburse to Biovail pursuant to the provisions of paragraph 5.18
+
+      (b)   if the  Adjusted  Share  Value on the date of such  delivery is less
+            than 3.5 million US Dollars,  pay to Biovail an amount equivalent to
+            the  difference  between the Adjusted Share Value and 3.5 million US
+            Dollars.
+
+13.15 Any amount  payable by  Hemispherx to Biovail  pursuant to this  paragraph
+13.14 may,  at the option of  Biovail,  be paid in cash,  or by the  delivery to
+Biovail of common shares of Hemispherx  having an equivalent  value,  calculated
+using the same share price used to determine the Adjusted  Share Value  referred
+to above.
+
+13.16 In the event Hemispherx  cannot supply the Product for the Territory for a
+period of ninety (90) consecutive days for any reason other than as contemplated
+by  paragraph  9.05  (serious  adverse  health or safety  reasons) or Article 13
+(force majeure), Biovail may, within thirty (30) days from the expiration of the
+ninety (90) day period  referenced in this  paragraph,  terminate this Agreement
+upon  written  notice  to  Hemispherx.  In the event  Biovail  does not elect to
+terminate this Agreement  pursuant to this paragraph  13.14, the Agreement shall
+remain in full force and effect and Biovail's  Marketing  Obligations  including
+the Annual Sales Forecasts, and other factors as appropriate,  shall be adjusted
+appropriately for the period in which the supply of the Product was interrupted.
+
+      Effect of Expiration and Termination
+
+13.17  Expiration  or  termination  of this  Agreement  for any reason shall not
+release any Party from any  obligation and any liability  which,  at the time of
+such expiration or termination,  has already accrued to the other Party or which
+is attributable  to a period prior to such expiration or termination,  nor shall
+it  preclude  either  Party from  pursuing  all rights and  remedies it may have
+hereunder with respect to any breach of this Agreement.
+
+13.18 The rights and obligations of the Parties set forth in paragraphs 2.04 and
+2.05 and Articles 10 and 12 and this paragraph 13.18 shall survive expiration or
+termination of this Agreement for any reason.
+
+13.19 Upon expiration or termination of this  Agreement,  Biovail shall have the
+right to  continue  to sell the  existing  inventory  of  Product  at  Biovail's
+Distribution  Center in the  Territory  for a period of six (6) months  from the
+effective date of such expiration or termination.
+
+Hemispherx - Biovail Distribution Agreement Page 29 of 38
+
+<PAGE>
+
+13.20 Upon any conversion of the distribution  rights granted to Biovail by this
+Agreement to non-exclusive rights, the Marketing Obligations and sales forecasts
+shall no longer apply or be binding on Biovail.
+
+14. FORCE MAJEURE
+
+14.01  Neither  Party  shall  be  liable  for  failure  to  perform  any  of its
+obligations  hereunder  if such failure is due to strikes,  locks-outs  or other
+labor disturbances,  riots, floods, fires, accidents, wars, embargoes, delays of
+carriers,   inability  to  obtain  materials  from  sources  for  supply,  acts,
+injunctions, or restraints of governments (whether or not now threatened) or any
+other  cause  beyond  the  reasonable  control  of  such  Party,  which  was not
+reasonably  foreseeable  on the date this  Agreement was entered into, and which
+could not reasonably have been avoided (each a "Force Majeure Event").  Upon the
+occurrence of any Force Majeure Event,  the Party whose  performance is affected
+shall  immediately  give written notice of such Force Majeure Event to the other
+Party, and shall  thereafter exert all reasonable  efforts to overcome the Force
+Majeure Event and resume performance of this Agreement. If, despite such efforts
+the Party is unable to overcome the Force Majeure  Event and resume  performance
+of this Agreement within six (6) months following  notification given hereunder,
+then the other Party may terminate this  Agreement  upon  expiration of such six
+(6) month period by written notice to the non-performing Party.
+
+14.02 No Party  shall have the right to avail  itself of this  Article 14 in the
+event the Force Majeure  Event arises from an act or from any  negligence of the
+Party.
+
+14.03 Each Party shall bear its own costs  arising out of or resulting  from the
+occurrence of any Force Majeure Event.
+
+15. REPRESENTATIONS AND WARRANTIES
+
+15.01  Unless  specifically  stated  below,  each Party  hereby  represents  and
+warrants to the other Party as follows:
+
+      (a)   Such Party is duly organized, validly existing and in good standing
+            under the laws of the jurisdiction in which it is organized; has the
+            corporate or other power and authority and the legal right to
+            conduct its business as it is now being conducted; and is in
+            compliance with all requirements of applicable law, except to the
+            extent that any noncompliance would not have a material adverse
+            effect on the properties, business, or financial or other condition
+            of such Party and would not materially adversely affect such Party's
+            ability to perform its obligations under this Agreement.
+
+      (b)   Such Party has the  corporate or other power and  authority  and the
+            legal  right  to  enter  into  this  Agreement  and to  perform  its
+            obligations hereunder and has taken all necessary corporate or other
+            action on its part to authorize the
+
+Hemispherx - Biovail Distribution Agreement Page 30 of 38
+
+<PAGE>
+
+            execution and delivery of this Agreement and the  performance of its
+            obligations  hereunder.  This  Agreement  has been duly executed and
+            delivered on behalf of such Party,  and  constitutes a legal,  valid
+            and binding obligation, enforceable against such Party in accordance
+            with  its  terms,  except  as such  enforcement  may be  limited  by
+            applicable bankruptcy, insolvency,  reorganization,  moratorium, and
+            other similar laws affecting the  enforcement  of creditors'  rights
+            generally  from time to time in effect  and  general  principles  of
+            equity.
+
+      (c)   Such Party shall comply with all applicable  laws and regulations in
+            the  Territory  in  connection  with the  performance  of its duties
+            hereunder.
+
+      (d)   All necessary consents, approvals and authorizations of all
+            governmental authorities and other persons required to be obtained
+            by such Party in connection with this Agreement have been obtained.
+            Hemispherx specifically represents and warrants that all statements
+            and representations made in any promotional, advertising,
+            educational and training materials developed by Hemispherx for use
+            in the United States and provided to Biovail by Hemispherx shall be
+            true and accurate to the best of Hemispherx's knowledge, information
+            and belief;
+
+      (e)   The execution and delivery of this Agreement and the performance of
+            such Party's obligations hereunder shall not conflict with, violate
+            the provisions of, constitute a default or give rise to rights of
+            any entity under (a) the Party's Articles of Incorporation or
+            Bylaws; (b) any requirement of applicable laws or regulations; (c)
+            any judgment, decree or order of any court or governmental or
+            regulatory agency applicable to the Party, its subsidiaries, its
+            Affiliates or their respective assets; or (d) any agreement,
+            commitment or contractual obligation of such Party or of any of its
+            subsidiaries or Affiliates is a party or by which they or their
+            respective assets are bound, except such conflicts that do not
+            materially adversely affect such Party's ability to perform its
+            obligations under this Agreement.
+
+      (f)   Hemispherx specifically represents and warrants that there is no
+            pending or threatened lawsuit or proceeding of any governmental or
+            regulatory authority against or concerning Hemispherx in connection
+            with the respective obligations to be performed hereunder which, if
+            adversely determined, would (a) prohibit the execution, delivery or
+            performance of this Agreement or (b) have a material adverse effect
+            on Hemispherx or on the ability of Hemispherx to consummate the
+            transactions contemplated hereby or to perform its obligations under
+            this Agreement.
+
+
+Hemispherx - Biovail Distribution Agreement Page 31 of 38
+
+<PAGE>
+
+      (g)   Biovail specifically represents that, in entering into this
+            Agreement, Biovail is relying solely upon its independent
+            investigation of Hemispherx's business and its independent
+            consultation with such professional, legal and accounting advisors
+            as it deems necessary, and is not acting in reliance on any
+            statements, instruments, certificates, documents, representations or
+            warranties other than those contained or referred to in this
+            Agreement.
+
+16. MISCELLANEOUS
+
+      Notices
+
+16.01 Except as otherwise  provided  herein,  any notice or other  communication
+sent or delivered  hereunder  shall be in writing and shall be effective if hand
+delivered or if sent by facsimile  transmission or certified or registered mail,
+postage prepaid and addressed as follows.
+
+              if to Hemispherx:
+
+              Hemispherx BioPharma, Inc.
+
+              1617 JFK Boulevard
+
+              Philadelphia, Pennsylvania 19103
+
+              U.S.A.
+
+              Attention:    William A. Carter, M.D.
+              Facsimile:    1 215 988 1739
+
+              if to Biovail:
+
+              Eugene Melnyk, President and CEO
+              Biovail Laboratories Incorporated
+              Chelston Park
+              Building 2, Collymore Rock
+              St Michael
+              Facsimile (246)437-7085
+
+              with a copy to:
+
+              Kenneth C. Cancellara, Q.C.
+              Biovail Corporation International
+              2488 Dunwin Drive
+              Mississauga, Ontario LSL 1J9
+              Facsimile (416)285-6499
+
+or to such address as either Party shall  hereafter  designate by like notice to
+the other  Party.  A notice  shall be  deemed to have been  given on the date of
+receipt by the Party.
+
+Hemispherx - Biovail Distribution Agreement Page 32 of 38
+
+<PAGE>
+
+      Allocation of Costs
+
+16.02  Each of the  Parties  shall  employ,  at its own cost and  expense,  such
+personnel,  computer and communications support,  facilities and expertise as is
+reasonably  necessary for the  performance  of its  responsibilities  under this
+Agreement. Except as otherwise provided by this Agreement, each Party shall bear
+all expenses related to the performance of its obligations under this Agreement,
+including  without  limitation all out-of-pocket  and  administrative  costs and
+expenses.
+
+      Assignment
+
+16.03 Neither  Party may assign this  Agreement or any rights  hereunder  except
+upon prior written consent of the other Party,  which consent may be withheld in
+such other Party's sole discretion.  Notwithstanding the foregoing, either Party
+may assign its rights and obligations to an Affiliate of such Party, although no
+such  assignment  shall  relieve  the Party of its  primary  responsibility  for
+performance  hereunder.  This Agreement  shall be binding upon, and inure to the
+benefit of, the permitted assigns and successors of the Parties hereto.
+
+      Waiver
+
+16.04 The failure of either Party hereto at any time to require  performance  by
+the other Party of any provision of this Agreement shall not affect the right of
+such Party to require future performance of that provision.  Except as otherwise
+provided  herein,  any waiver by either Party of any breach of any  provision of
+this  Agreement must be in writing to be effective and shall not be construed as
+a waiver of any continuing or succeeding breach of such provision or a waiver of
+any other right under this Agreement.
+
+      Entire Agreement
+
+16.05 This Agreement  constitutes the entire understanding of the Parties hereto
+and  supersede all previous  agreements  between the Parties with respect to the
+matters  contained  herein.  No modifications of this Agreement shall be binding
+upon either Party unless approved in writing by an authorized  representative of
+each of the Parties.
+
+      Partial Invalidity
+
+16.06 In case any one or more of the provisions  contained herein shall, for any
+reason,  be held to be invalid,  illegal or unenforceable  in any respect,  such
+invalidity, illegality or unenforceability shall not affect any other provisions
+of this  Agreement,  but this  Agreement  shall be construed as if such invalid,
+illegal or unenforceable provision or provisions had never been contained herein
+unless the  deletion of such  provision  or  provisions  would  result in such a
+material change as to cause consummation of the transactions contemplated hereby
+to be impossible.
+
+Hemispherx - Biovail Distribution Agreement Page 33 of 38
+
+<PAGE>
+
+      Execution in Counterparts
+
+16.07 This  Agreement may be executed in  counterparts,  including  counterparts
+transmitted  by  telecopier  or  facsimile,  each of which shall  constitute  an
+original  and all of which  shall  be  considered  one and the  same  Agreement.
+Counterparts  or facsimile  copies  executed by all parties  shall have the same
+effect as if the  signatures to each  counterpart  or facsimile copy were on the
+same document and copies of such  documents  shall be deemed valid as originals.
+The  parties  agree  that all such  signatures  may be  transferred  to a single
+document.
+
+      Language
+
+16.08  This  Agreement  is in the  English  language,  which  language  shall be
+controlling in all respects.  All communications and notices to be made or given
+pursuant to this Agreement shall be in the English language.
+
+      Publicity
+
+16.09 Hemispherx acknowledges that Biovail is required to disclose publicly that
+it has entered  into this  Agreement  and consents to that  disclosure.  Biovail
+shall  provide a copy of the proposed  release to  Hemispherx  for  Hemispherx's
+approval before its release.  Hemispherx shall provide any comments it wishes to
+make on the proposed release within two (2) business days.
+
+      Remedies Not Exclusive
+
+16.10 The rights and remedies  contained in this  Agreement  are not intended to
+waive or preclude any other  claims,  rights or remedies  which may exist at law
+(whether  statutory  or  otherwise)  or in equity  with  respect to the  matters
+covered hereby.
+
+      Governing Law
+
+16.11 This Agreement shall be construed,  interpreted and enforced in accordance
+with the laws of the State of New  York,  without  regard  to the  choice of law
+principles thereof, unless otherwise provided for in this Agreement.
+
+      Arbitration
+
+16.12  Subject to the  provisions of 16.13,  all disputes  arising in connection
+with the present contract shall be finally settled,  in New York, New York, USA,
+under the  provisions  of the American  Arbitration  Association  by one or more
+arbitrators  appointed in accordance  with the law of the State of New York. The
+parties  commit  themselves  to  accept  and  comply  with the  decision  of the
+arbitrator or arbitrators.
+
+16.13 Any disputes  with respect to the  application  of, or the  compliance  of
+either Party with, any provisions of paragraphs  1.13,  3.02, 3.03, 3.04 (c),(d)
+and (e), 3.05 to 3.12, 4.02, 5.18, 8.03, and
+
+Hemispherx - Biovail Distribution Agreement Page 34 of 38
+
+<PAGE>
+
+8.09 of this Agreement shall be resolved in an arbitration conducted pursuant to
+the provisions of Schedule 16.13.
+
+      IN WITNESS WHEREOF,  and intending to be bound hereby, each of the Parties
+hereto have caused this Agreement to be executed by its duly authorized  officer
+as of the day and year first above written.
+
+HEMISPHERX BIOPHARMA, INC.
+
+
+By:   /s/ William A. Carter
+
+   ----------------------------
+Title:
+
+By:
+
+   ----------------------------
+Title:
+
+BIOVAIL LABORATORIES INCORPORATED
+
+
+By:    /s/ Eugene Melnyk
+
+   ---------------------------- Eugene Melnyk, President
+
+           Hemispherx - Biovail Distribution Agreement Page 35 of 38
+
+<PAGE>
+
+                          SCHEDULE 16.13 - ARBITRATION
+
+Any arbitration conducted pursuant to the provisions of paragraph 16.13 shall be
+conducted in accordance with the following terms.
+
+Either  Party may elect to commence  the  arbitration.  Such  election  shall be
+effective if made by written notice (the  "Arbitration  Notice")  transmitted by
+facsimile  to the other Party hereto and further sent in the manner set forth in
+accordance with the notice  provisions of this Agreement.  The date on which the
+Arbitration Notice is received via facsimile is the notice date ("Notice Date").
+
+The  arbitration  shall be conducted and determined in accordance  with the then
+prevailing commercial arbitration rules of the American Arbitration Association,
+or its  successor,  for  arbitration  of  commercial  disputes,  except that the
+procedure mandated by said rules shall be modified as follows:
+
+A.    A single  arbitrator to be mutually agreed upon by the parties within five
+      (5)  business  days of the  Arbitration  Notice  Date  shall  conduct  the
+      arbitration.  If the parties are unable to agree upon a single  arbitrator
+      within five (5) business day period,  the parties  shall  request that the
+      American Arbitration  Association appoint a single qualified arbitrator in
+      accordance with its procedures.
+
+B.    The location, and any procedural rules the arbitrator wishes to establish,
+      for the arbitration will be determined by the arbitrator within five (5)
+      business days of the appointment of the arbitrator. The arbitrator shall
+      commence the arbitration hearing within fifteen (15) business days of the
+      Notice Date, and the arbitration shall be completed within seven (7) days
+      of the date that it is commenced. The arbitrator shall render a decision
+      in the matter within five (5) days after the arbitration is completed.
+      Such decision shall be final and binding and neither Party shall appeal
+      the decision on any basis to any Court.
+
+C.    Upon any failure, refusal or inability of an arbitrator to act, his or her
+      successor shall be appointed in the same manner as provided for his or her
+      original appointment.
+
+The arbitrator  shall render his decision and award in writing with  counterpart
+copies  to both  parties.  The  arbitrator  shall  have no right to  modify  the
+provisions  of this  Agreement.  The  arbitrator  shall  have the right to award
+interest.  The costs of the  arbitration,  including  the fees and  expenses  of
+counsel,  expert and witness  fees and costs of the  arbitrator  shall be in the
+discretion of the  arbitrator,  who shall have the power to make any award which
+is just in the circumstances.
+
+Hemispherx - Biovail Distribution Agreement Page 36 of 38
+
+<PAGE>
+
+                     Schedule 1.41 - TARGET PENETRATION RATE
+
+      o     Biovail  shall  purchase  product in  quantities  equivalent  to the
+            following annual market penetration targets:
+
+                             Target Penetration Rate
+
+                Year*
+
+                -----
+                Year 1:                 0.9%
+                Year 2:                 3.3%
+                Year 3:                 5.7%
+                Year 4:                 5.5%
+                Year 5:                 4.9%
+                Year 6:                 3.0%
+                Year 7:                 2.2%
+                Year 8:                 1.6%
+                Year 9:                 1.5%
+                Year 10:                1.5%
+
+*  full calendar years following the issuance of an NOC for an Indication
+
+
+Hemispherx - Biovail Distribution Agreement Page 37 of 38
+
+<PAGE>
+
+                           Schedule 8.08 PERCENTAGE OF
+
+                                NET SELLING PRICE
+
+                             TO BE PAID BY BIO VAIL
+
+                Invoiced Volume                Price Expressed in % of Aggregate
+         Sales
+
+         $0 million - 19.9 million:            30%
+         $20.0 million - 29.9 million:         35%
+         $30.0 million - 39.9 million:         40%
+         $40.0 million and beyond:             45%
+
+*All amounts are in US dollars
+
+
+Hemispherx - Biovail Distribution Agreement Page 38 of 38
+
+</TEXT>
+</DOCUMENT>

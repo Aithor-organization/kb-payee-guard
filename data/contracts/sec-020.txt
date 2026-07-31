@@ -1,0 +1,5050 @@
+EX-10.1
+2
+dex101.htm
+SUPPLY AGREEMENT - PEPSI-COLA ADVERTISING AND MARKETING, INC.
+
+Supply Agreement - Pepsi-Cola Advertising and marketing, Inc.
+
+Exhibit 10.1 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+Constar, Inc. 
+ 
+- And - 
+ 
+Pepsi-Cola Advertising and Marketing, Inc. 
+ 
+SUPPLY AGREEMENT 
+ 
+January 1, 2009 - December 31, 2012 
+
+Page 1 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+TABLE OF CONTENTS 
+
+Paragraph/
+ 
+Section
+
+ Page
+
+ 1
+ 
+ Definitions
+ 
+ 3
+
+ 2
+ 
+ Term
+ 
+ 4
+
+ 3
+ 
+ Covenant to Supply and Purchase Containers
+ 
+ 5
+
+ 4
+ 
+ Quantity
+ 
+ 8
+
+ 5
+ 
+ Forecast and Inventory Requirements
+ 
+ 10
+
+ 6
+ 
+ Failure to Buy
+ 
+ 11
+
+ 7
+ 
+ Failure to Supply
+ 
+ 12
+
+ 8
+ 
+ Contract Prices
+ 
+ 13
+
+ 9
+ 
+ Option to Supply Resin
+ 
+ 16
+
+ 10
+ 
+ Delivery and Title
+ 
+ 18
+
+ 11
+ 
+ Payment Terms
+ 
+ 19
+
+ 12
+ 
+ Right of Rejection
+ 
+ 20
+
+ 13
+ 
+ Quality and Technical Support
+ 
+ 20
+
+ 14
+ 
+ Warranty
+ 
+ 21
+
+ 15
+ 
+ Force Majeure
+ 
+ 22
+
+ 16
+ 
+ Patents, Trademarks, Copyrights and Unfair Competition
+ 
+ 23
+
+ 17
+ 
+ Cancellation Upon Default
+ 
+ 24
+
+ 18
+ 
+ Confidentiality
+ 
+ 24
+
+ 19
+ 
+ Interpretation
+ 
+ 24
+
+ 20
+ 
+ Governing Law
+ 
+ 25
+
+ 21
+ 
+ Amendments
+ 
+ 25
+
+ 22
+ 
+ Exhibits
+ 
+ 25
+
+ 23
+ 
+ General
+ 
+ 25
+
+ 24
+ 
+ Notices
+ 
+ 25
+
+ 25
+ 
+ Assignment or Change of Control
+ 
+ 26
+
+ 26
+ 
+ Exclusivity
+ 
+ 26
+
+ 27
+ 
+ Partnership Teams
+ 
+ 26
+
+ 28
+ 
+ Minority Business Expenditures
+ 
+ 27
+
+ 29
+ 
+ No Publicity
+ 
+ 27
+
+ 30
+ 
+ Supplier Code of Conduct
+ 
+ 27
+
+ 31
+ 
+ Survival
+ 
+ 28
+
+ 32
+ 
+ Prior Agreements and Merger
+ 
+ 28
+
+ Schedule A
+ 
+ Container Specifications
+ 
+ 29
+
+ Schedule B
+ 
+ Seller Source and Buyer Filling Locations
+ 
+ 30
+
+ Schedule C
+ 
+ Contract Prices
+ 
+ 34
+
+ Schedule D
+ 
+ Label and Label Application Prices For Containers
+ 
+ 40
+
+ Schedule E
+ 
+ Examples of Determining Price Change Due To Change in Resin Pricing
+ 
+ 41
+
+ Schedule F
+ 
+ Secondary Packaging Information
+ 
+ 42
+
+ Schedule G
+ 
+ [ * * * ] Calculations
+ 
+ 44
+
+ Schedule H
+ 
+ [ * * * ] Factors
+ 
+ 45
+
+ Schedule I
+ 
+ [ * * * ] Calculation
+ 
+ 46
+
+[ * * * ] Confidential treatment requested. 
+
+Page 2 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+SUPPLY AGREEMENT 
+ 
+This agreement (“Agreement”) is made as of the 1st day of January, 2009 between Constar Inc., headquartered at One Crown Way, Philadelphia, PA 19154 (“Seller”), and Pepsi-Cola
+Advertising and Marketing, Inc. (“PCAM”), a Delaware corporation and a wholly owned subsidiary of PepsiCo, Inc., with offices at One Pepsi Way, Somers, NY 10589, for itself, on behalf of its affiliates (the “Affiliates”),
+and for the benefit of those entities that are authorized by PepsiCo, Inc. to manufacture/sell/distribute beverages bearing the trademarks of PepsiCo, Inc. (the “Bottlers”). PCAM, the Affiliates, and the Bottlers are referred to herein
+individually as a “Buyer”, and collectively as the “Buyers”. Seller and PCAM are also referred to herein individually as a “party” and collectively as the “parties”. 
+ 
+WHEREAS, Buyers are manufacturers, and/or sellers, and/or distributors of various liquid refreshment beverages including, but not limited to, carbonated
+soft drink, non-carbonated beverages or bottled water products and wish to purchase polyethylene terephthalate (“PET”) preformed vessels and non-refillable PET containers in which to package such beverages for sale to the
+public; and 
+ 
+WHEREAS, Seller is a manufacturer and seller of PET preformed vessels and non-refillable PET containers and wishes to sell the
+same to the Buyers for the packaging of such beverages; 
+ 
+NOW, THEREFORE, in consideration of the foregoing premises and the covenants
+contained herein, it is agreed as follows: 
+
+ 1.
+ DEFINITIONS 
+
+1.1 The following are the Schedules
+that are attached to and form part of this Agreement: 
+ 
+Schedule A Container Specifications 
+ 
+Schedule B Seller Source and Buyer Filling Locations 
+ 
+Schedule C Contract Prices 
+ 
+Schedule D Label and Label Application Prices for Containers 
+ 
+Schedule E Examples of Determining Price Change Due to Change in Resin Pricing 
+ 
+Schedule F Secondary Packaging Information 
+ 
+Schedule G [ * * * ] Calculations 
+ 
+Schedule H [ * * * ] Factors 
+ 
+Schedule I [ * * * ] Calculation 
+ 
+1.2 As
+used in this Agreement, the following terms shall have the following meanings: 
+
+[ * * * ] Confidential treatment requested. 
+
+Page 3 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+(a) “Affiliate” shall mean any business entity which controls, or is
+controlled by, or is under common control with, a party where control shall mean ownership, either directly or indirectly, of more than fifty percent (50%) of the ownership interests representing the equity, the voting stock, or general
+partnership interest of that business entity. 
+ 
+(b) “Annual Forecast” shall mean the T1 Forecast for each
+Contract Year of this Agreement, as further defined in Section 5.2. 
+ 
+(c) “Commencement Date” means
+January 1, 2009. 
+ 
+(d) “Container” shall mean those PET containers (excluding preforms) which meet the specifications
+referenced in Schedule A annexed hereto, or any revised designs, specifications, and qualifications developed by PCAM during the Term, and which are specifically identified by package size on Schedule B, annexed hereto. 
+ 
+(e) “Contract Prices” are defined in Section 8.1(a). 
+ 
+(f) “Contract Year” shall mean each successive 12-months commencing January 1 and ending on the following December 31 during the term of the Agreement. 
+ 
+(g) “Conversion Costs” shall mean those costs other than resin as outlined in Schedule C and as adjusted pursuant to
+Section 8 hereof. 
+ 
+(h) “Expiration Date” means December 31, 2012. 
+ 
+(i) “Period” shall mean any one of thirteen (13) four-week successive periods during a Contract Year. 
+ 
+(j) “PET Product(s)” shall mean Containers and Preforms. 
+ 
+(k) “Preform” shall mean those preformed PET vessels which, in the Container manufacturing process, are blown into a Container and which are specifically identified by package size on Schedule
+B. 
+ 
+(l) “Reconciliation Dates” mean the 30 days following the end of Period 6 and Period 13 in which all [ * * * ] are
+reconciled. 
+ 
+(m) “Sourcing Cell(s)” means each of Seller’s manufacturing facilities located in [ * * * ]. 
+
+ 2.
+ TERM 
+
+2.1 This Agreement shall be effective as of
+January 1, 2009 and shall remain in effect until the close of business on December 31, 2012 (the “Term”), unless 
+
+[ * * * ] Confidential treatment requested. 
+
+Page 4 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+terminated earlier in accordance with the provisions of Section 3.5, 7.5 or Section 17 hereof. PCAM may, at its sole option and with written notice
+to be received by Seller no later than January 1, 2012, extend the Agreement until December 31, 2013. 
+
+ 3.
+ COVENANT TO SUPPLY AND PURCHASE PET PRODUCTS 
+
+3.1
+Seller agrees to manufacture and sell to Buyers, and Buyers agree to purchase from Seller, PET Products which conform to the specifications and performance standards attached hereto as Schedule A (the “Container
+Specifications”, the “Preform Specifications”) at the Contract Price(s) (as hereinafter defined) and upon the terms and conditions contained in this Agreement. 
+ 
+3.2 
+ 
+(a) Subject to the terms and conditions
+of this Agreement, the Buyers shall purchase from the Seller [ * * * ] of their requirements for the PET Products for those of Buyers’ filling locations (plants) set out in Schedule B. The parties agree that the PET Products
+listed in Schedule B represent the Buyers’ [ * * * ]. The parties agree that in the event of [ * * * ], Seller shall have the right to supply [ * * * ] of comparable weight, design and capacity then currently supplied under this
+Agreement. In the absence of Seller PET Products of comparable weight, design and capacity then currently supplied under this Agreement, [ * * * ]. 
+ 
+(b) Any PET Product that is not covered by Section 3.2(a) shall be [ * * * ], the parties shall discuss timing, estimated volume and cost to determine [ * * * ]. Seller shall, within the period of fifteen (15) days next following
+the close of such discussions, communicate to PCAM its desire and ability to supply such [ * * * ] upon mutually acceptable terms and conditions. 
+ 
+(c) Should PCAM and Seller not agree on terms to supply any such [ * * * ], the Buyers shall [ * * * ]. 
+ 
+(d) Should such [ * * * ]
+and Seller’s Conversion Costs be competitive with the [ * * * ], PCAM will use its commercially reasonable efforts to [ * * * ]. 
+ 
+(e)
+Provided PCAM gives Seller a reasonable period of time in which to secure new molds or make any necessary modifications or adjustments to its production lines, PCAM may revise the design of the PET Products supplied hereunder, and Seller agrees to
+produce the new design and supply such PET Products to the Buyers, subject to [ * * * ]. In the event that a technological development that improves the performance or lowers the cost of PET Products becomes generally available to PCAM from the
+other third party PET Product suppliers, and such development is reasonably available to Seller, Seller agrees to incorporate such development in the PET Products supplied 
+
+[ * * * ] Confidential treatment
+requested. 
+
+Page 5 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+hereunder and to supply such PET Products to the Buyers within the mutually agreed time period. 
+ 
+(f) Any adjustment to the Contract Price resulting from a change in the design of the PET Products specified by PCAM or adoption of new technology shall
+be negotiated in good faith by the parties taking into consideration the cost savings, or expenses associated with the new design (including any license fees), and any capital investment and implementation costs required to produce the PET Products.
+
+3.3 Seller shall provide PCAM with the following information for reporting and tracking purposes: 
+ 
+(a) Seller’s Annual audited Consolidated Financial Statements with Independent Auditor’s Report, within thirty (30) days of issuance (if
+not available through public sources). 
+ 
+(b) A 12 month calendar year supply plan, using Buyer’s reporting template, updated monthly
+for actual shipments and balance of year production. 
+ 
+(c) Weekly inventory, capacity planning and shipment reports, as related to
+production hereunder and as required to assist in scheduling hereunder throughout each Contract Year, using Buyer’s reporting template. 
+ 
+(d) Seller’s procurement spend on behalf of Buyer’s business with minority owned and women owned enterprises, updated quarterly for actual spend. 
+ 
+(e) Freight information, as mutually agreed and commercially reasonable to report, including one or more of order/release, movement and transportation, cost and payment/settlement information. 
+ 
+(f) A schedule of Seller’s blowmolding platforms (e.g. SBO Series I 24/24, SBO Series II 20), injection molding platforms, injection tooling (e.g. 2
+x 96 cavity at 24.0g, 1 x 144 cavity at 13.2g), blow mold inventories (e.g. 42 x 20oz Global Swirl, 24 x 20oz Globe) and labeler personal parts used to support Buyer’s volume, organized by Seller’s physical location. 
+ 
+(g) A schedule of PCAM-reimbursed blow molds, injection molds, applicable mold parts (i.e., carrier, base, etc.), mold machine parts, labeler change
+parts and other downstream equipment change parts, on an annual basis, but not later than January 31 of each Contract Year. 
+ 
+(h) Upon
+PCAM’s reasonable request, Seller’s non-public financial forecasts and financial information, subject to the confidential provisions contained herein, and where not conflicting with Seller’s confidentiality agreements with parties
+outside this Agreement. 
+
+[ * * * ] Confidential treatment requested. 
+
+Page 6 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+3.4 Capital Investments 
+ 
+(a) Seller shall be responsible at its sole cost and expense for maintaining and refurbishing [ * * * ] tooling and parts in use as of the Commencement Date to support PCAM’s Annual Forecast, including but not
+limited to blow molds, injection molds and labeler personal parts. 
+ 
+(b) Seller shall be responsible for procuring [ * * * ] new tooling and
+parts required to support PCAM’s Annual Forecast as configured on the Commencement Date, as well as [ * * * ] new tooling and parts and other capital expenditures required to support new, incremental business, with the exception of capital
+required for new manufacturing lines to expand capacity which shall be subject to mutually-agreed terms. 
+ 
+(c) Seller shall fund capital
+expenditures for equipment, tooling and parts required to support changes in the Annual Forecast as configured on the Commencement Date, which does not accompany incremental volume (for example, a design change to an existing package), throughout
+the Term (the “Equipment”). Subject to Seller’s receiving PCAM’s express written prior consent to proceed with such capital expenditures, PCAM shall [ * * * ] (“Cost of Capital” shall be defined as: compound interest at
+[ * * * ] plus [ * * * ] basis points for payback periods less than or equal to [ * * * ] or [ * * * ] percent for payback periods greater than [ * * * ]); however Seller’s recovery of capital expenditures shall not exceed [ * * * ] months for
+blow molds and labeler personal parts, and [ * * * ] months for injection tooling. Unamortized Seller capital expenditures and unrecovered Seller Cost of Capital shall be due and payable within thirty (30) days of the Expiration Date unless the
+Parties mutually agree otherwise. 
+ 
+(d) If Seller should so purchase and if PCAM should so reimburse, then PCAM shall have the right to the
+disposition of the Equipment as follows: 
+ 
+(i) If the Equipment does not contain Seller’s intellectual property and if Seller no longer
+requires the Equipment to fulfill its supply obligations to the Buyers under this Agreement, then Seller shall, upon PCAM’s written request and at PCAM’s expense, transfer title and possession of the Equipment to any entity designated by
+PCAM and allow PCAM, or its designee, access to the Equipment during Seller’s business hours in order for the Equipment to be removed from Seller’s premises. 
+ 
+(ii) If the Equipment contains Seller’s intellectual property, which Seller shall have specifically described to PCAM in writing prior to placing a purchase order for the Equipment, and if Seller no longer
+requires the Equipment to fulfill its supply obligations to the Buyers under this Agreement, and if the Equipment may be modified to no longer contain Seller’s intellectual property, then PCAM may, at PCAM expense, so modify the Equipment,
+whereupon Seller shall, upon PCAM’s written request and at PCAM’s expense, transfer title and possession of the Equipment to any entity designated by PCAM and allow PCAM, or its designee, access to the Equipment during Seller’s
+business hours in order for the Equipment to be removed from Seller’s premises. 
+
+[ * * * ] Confidential treatment requested. 
+
+Page 7 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+(iii) If the Equipment contains Seller’s intellectual property, which Seller shall have
+specifically described to PCAM in writing prior to placing a purchase order for the Equipment, and if Seller no longer requires the Equipment to fulfill its supply obligations to the Buyers under this Agreement, and if the Equipment cannot be
+modified to no longer contain Seller’s intellectual property, then Seller shall, upon PCAM’s written request, destroy the Equipment and confirm in writing to PCAM that such destruction has taken place. Alternatively, Seller may reimburse
+PCAM for the greater of the salvage value, book value or the fair market value (“FMV”) of the Equipment, but in no event less than twenty five percent (25%) of the original purchase price. If the Parties cannot agree on a FMV for the
+Equipment, PCAM has the right to secure an independent third party valuation of the FMV and the Parties agree to use the valuation provided by such independent third party for determining reimbursement amount. 
+ 
+(e) If requested by PCAM, Seller shall purchase blow molds required to support PCAM business from such vendor and at such pricing as may be designated by
+PCAM. 
+ 
+(f) Subject to a royalty-free license to Seller, or royalty pass-through, mutually acceptable indemnification, performance and
+processing language, Seller agrees to execute the universal base for new molds supporting Buyers’ volume. 
+ 
+(g) Seller shall fund
+capital expenditures required for the expected conversion to a short skirt finish. PCAM shall use commercially reasonable efforts to (i) implement such conversion per a schedule that coincides with Seller’s routine refurbishment schedule
+for impacted injection molds, and (ii) manage the conversion schedule so as to convert the majority of Seller’s impacted molds [ * * * ]. 
+ 
+3.5. On or before the Commencement Date of this Agreement, Seller shall terminate its supply agreement dated September 26, 2003 by and between Constar, Inc., Carolina Canners Inc. and the Independent Bottlers (as defined therein) (the
+“CCI Agreement”). 
+
+ 4.
+ QUANTITY 
+
+4.1 
+ 
+a) As noted above in Section 3.2(a) above, the Buyers shall purchase from Seller [ * * * ] of their requirements for the PET Products for those of
+Buyers’ filling locations (plants) set out in Schedule B. 
+ 
+b) On its part, Seller shall make available for sale to the
+Buyers a quantity of Containers up to [ * * * ], and Preforms up to [ * * * ], of the lower of the applicable Annual Forecast or mutually agreed Revised Forecast, by package, size, and Period as so noted in the applicable Annual or mutually agreed
+Revised Forecast. Seller shall use its commercially reasonable efforts to supply any amounts of Containers in excess of [ * * * ], and Preforms in excess of [ * * * ], of the Annual Forecast or mutually 
+
+[ * * * ] Confidential treatment requested. 
+
+Page 8 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+agreed Revised Forecast requirements by Container and Preform by package size and Period. To the extent that the Seller is unable to supply any portion of
+these excess quantities, Buyer shall have the right to source such Containers and Preforms from alternate sources at Buyers’ expense during the Period in which Seller cannot so supply. Any PET Products purchased from alternate sources as a
+result of Seller’s inability to supply Containers up to [ * * * ], and Preforms up to [ * * * ], of the lower of the applicable Annual Forecast or mutually agreed Revised Forecast, will be credited against the then Annual Forecast or mutually
+agreed Revised Forecast and considered as PET Products supplied by Seller for the purpose of the Buyers’ purchase obligation under this Agreement. Buyers shall receive no credit against the then Annual or mutually agreed Revised Forecast for
+PET Products purchased from alternate sources for (i) the quantity exceeding Containers up to [ * * * ], and Preforms up to [ * * * ] of the lower of the applicable Annual Forecast or mutually agreed Revised Forecast., and (ii) the
+quantity Seller may have agreed to cede to an alternate supplier as part of the Annual or Revised Forecast review and confirmation process. 
+ 
+In recognition of the fact that Buyers’ different PET Products have different demand volatility, the parties may, subject to written mutual consent, allow exceptions to the above [ * * * ] and [ * * * ] requirements for specific PET
+Products for specific time periods. 
+ 
+c) Should PCAM’s Annual Forecast or Revised Forecast exceed the Schedule B estimated
+volume during any Contract Year, PCAM may opt to amend Schedule B by removing some locations and/or PET Product volumes and replace such items with PET Product volumes from a new Buyer filling location(s) of equivalent or higher volume, and
+with materially similar economic value to Seller. Such removal and replacement shall not materially alter the [ * * * ] sold to the Buyers. Seller’s acceptance of such removal and replacement will not be unreasonably withheld, delayed, or
+conditioned. 
+ 
+4.2 It is anticipated that Seller will supply PET Products from its manufacturing facilities (source) specified in
+Schedule B to the corresponding Buyers’ filling locations in the quantity and mix also specified in Schedule B, or an updated Schedule B as agreed to by the parties. However, all PET Products purchased by Buyers from Seller
+during a Contract Year for these locations will be credited towards the Annual Forecast or mutually agreed Revised Forecast. 
+ 
+(a) Any
+changes in Seller’s manufacturing facilities specified in Schedule B to a Buyer’s corresponding identified filling location as listed in Schedule B will be by mutual agreement of the parties; provided, however, that each
+party’s agreement will not be unreasonably withheld, delayed, or conditioned. However, a material change in Seller’s economic value or a Buyer’s cost to procure the subject or affected supply would be reason to withhold such
+agreement. 
+
+[ * * * ] Confidential treatment requested. 
+
+Page 9 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+(b) Any changes in the Buyers’ filling locations as listed in Schedule B will be by
+mutual agreement of both parties; provided, however, that Seller’s agreement will not be unreasonably withheld, delayed, or conditioned. However, a material change in Seller’s economic value or Buyer’s cost to procure the subject or
+impacted supply would be reason to withhold agreement. 
+ 
+(c) In the event a Buyer intends to convert Container requirements to Preform
+requirements during the Term, PCAM shall notify Seller of such intent as soon as commercially reasonable. Upon such conversion of Container requirements to Preform requirements, Seller shall have the right to supply such Preforms at the Contract
+Prices. In the event Seller closes a production location due to a Buyer’s conversion from Container requirements to Preform requirements, [ * * * ]. 
+ 
+(d) In the event of such Container requirement changes due to Buyer plant closure or consolidation, Buyer shall use commercially reasonable efforts to cause Seller to retain, recover or replace such Container volume.
+
+(e) In the event Buyer acquires a Seller customer, Seller shall [ * * * ] during the Term, and any change in pricing for such volume shall
+be [ * * * ] following the closing date of the acquisition. 
+
+ 5.
+ FORECAST AND INVENTORY REQUIREMENTS 
+
+5.1 Preceding
+each Contract Year, PCAM shall use commercially reasonably efforts to estimate the anticipated requirements for each size PET Product during the next Contract Year and report those estimates as they become available. In order to facilitate
+additional capital equipment discussions with Seller, the parties shall meet no later than May 1 of each Contract Year to discuss preliminary forecasts for the following year and the parties will mutually agree to any required capital
+investment for the following Contract Year, in writing, no later than September 1 of each Contract Year. An amended Schedule B will be issued in the event of a significant mutually agreed change in supply. 
+ 
+5.2 On an annual basis, but not later than December 1 of each Contract Year, PCAM shall advise Seller of PCAM’s Annual Forecast, which shall
+include PCAM’s commercially reasonable estimate of the quantity of all PET Products required, by size, Period and location during the next Contract Year. 
+ 
+5.3 In addition to the Annual Forecast, PCAM shall provide Seller with two forecast adjustments (“Revised Forecast”) of Buyers’ requirements by size, Period and location, revised on or about the
+close of Periods four and eight. Seller will confirm in writing within twenty-one (21) days of receipt of a Revised Forecast if it agrees to meet the Revised Forecast. If Seller does not agree to meet a Revised Forecast, the most recent Annual
+forecast or mutually agreed Revised Forecast will remain in force. Seller agrees to request and PCAM agrees to provide the Buyers’ requirements by size and label from 
+
+[ * * * ] Confidential treatment
+requested. 
+
+Page 10 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+each identified location for each 90-day period of the Annual Forecast, or mutually agreed Revised Forecast, so as to maintain a sufficient supply of labels
+for application to Containers as directed by their filling locations. Actual shipping releases will be issued by a Buyer one week in advance of shipment in full truckload quantities. 
+ 
+Seller shall communicate to PCAM any persisting failure of a Buyer’s filling locations to provide 30-day order forecasts and 90-day rolling
+forecasts by size and label, and PCAM shall use commercially reasonable efforts to cause that Buyer’s filling locations to provide such forecasts. 
+ 
+5.4 Subject to PCAM’s fulfillment of Section 5.2 above, Seller shall provide PCAM with a supply plan no later than January 15 of each Contract Year, demonstrating Seller’s ability to meet the
+Annual Forecast by filling location for the Contract Year. 
+ 
+(a) Seller shall maintain at all times a combination of capacity and inventory
+for each Container size equal to [ * * * ] days of each Period’s forecast plus [ * * * ], and for each Preform size equal to [ * * * ] days of each Period’s forecast plus [ * * * ], except where mutually agreed upon by PCAM and Seller.
+
+(b) PCAM shall use commercially reasonable efforts to compare actual PET Product usage with PET Product production rates and the Annual
+Forecast, or a mutually agreed Revised Forecast, so as to enable Seller to maintain a combination of capacity and inventory of no more than [ * * * ] days supply of Containers at [ * * * ] and Preforms at [ * * * ] of forecast; provided, however,
+that prior to and during Periods of peak demand, Seller may be required to build a greater combination of capacity and inventory of certain size PET Products, in order to meet the Buyers’ seasonally adjusted requirements for PET Products. If
+PCAM specifically instructs Seller to build inventory levels greater than the contractually agreed upon levels, the Buyers shall pay Seller any costs associated with the building of that specific inventory upon mutually acceptable terms and
+conditions. 
+ 
+(c) If additional storage space is required to accommodate a greater production inventory beyond [ * * * ] days, Seller shall,
+prior to signing a contract for such additional space, where Seller is being reimbursed by PCAM for such space, consult with and only enter into a contract with the consent of the PCAM. [ * * * ] for any additional rental and handling costs
+necessarily incurred, provided that Seller and PCAM shall cooperate to minimize the quantity of the excess inventory and the cost of acquiring such additional storage space. 
+
+ 6.
+ FAILURE TO BUY 
+
+6.1 For each Contract Year, should
+the Buyers fail to purchase a minimum of [ * * * ] of the Annual Forecast, or mutually agreed Revised Forecast, by Sourcing Cell for 
+
+[ * * * ] Confidential treatment requested. 
+
+Page 11 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+Containers or [ * * * ] of the Annual Forecast, or mutually agreed Revised Forecast, for Preforms for such Contract Year, PCAM agrees to [ * * * ] an [ * * *
+], [ * * * ], provided Seller is unsuccessful in utilizing its assets to produce PET Products for other customers or other PCAM business. To the extent the parties mutually agree that Seller may source Containers from a supply location other than
+the Sourcing Cells, any such supply shall be deemed to have been sourced from a Sourcing Cell as per Schedule B for the purpose of [ * * * ] under this Section 6.1. 
+ 
+6.2 In the event PCAM changes label design or PET Product Specifications, or in the event PCAM discontinues any brand or size of PET Product during the
+Term, the Buyers shall be responsible for any PET Products produced by Seller and labels purchased by Seller prior to notification of the change or discontinuance up to a maximum one month PET Product inventory, unless otherwise agreed to in writing
+or forecasted by PCAM, of the affected Container, and a three month inventory, unless otherwise agreed to in writing or forecasted by PCAM, of the affected label, and [ * * * ] and the subsequent discontinuance of the PET Product by PCAM.
+Seller’s one month PET Product inventory and three month label inventory shall be measured with respect to the most recent Annual Forecast or mutually agreed Revised Forecast upon which Seller relied to plan such inventory. 
+
+ 7.
+ FAILURE TO SUPPLY 
+
+7.1 If, in any Period during the
+Term, Seller fails to supply PET Products required by the Buyers in the Annual Forecast or a mutually agreed Revised Forecast, as the case may be, whether due to Force Majeure, as defined in Section 15.1 hereof, or otherwise, Seller shall
+immediately notify PCAM in writing of the nature, extent and estimated duration of such failure. Upon receipt of such notice, Buyers shall be entitled to purchase suitable PET Products to replace the PET Products not being supplied by Seller from
+another source (a “Third Party Supplier”) without thereby terminating or breaching this Agreement and without any impairment of PCAM’s right of termination under Section 7.5 below. 
+ 
+7.2 With the exception of a failure to supply (a) caused by Force Majeure, and (b) Container volume in excess of [ * * * ] and/or Preform
+volume in excess of [ * * * ] of the applicable forecast confirmed by Seller, Seller shall indemnify and hold harmless the Buyers from and against all reasonable and substantiated costs and expenses incurred by Buyer arising out of Seller’s
+inability to supply PET Products including but not limited to Buyers’ cost in purchasing replacement PET Products at prices including freight which are in excess of those set forth herein. These costs and expenses shall not include lost profits
+of the Buyers. 
+ 
+7.3 Buyer shall take all commercially reasonable steps to minimize the damages and expenses it incurs as a result of
+Seller’s failure to supply PET Products. 
+ 
+7.4 Seller covenants and agrees to utilize its commercially reasonable efforts to assist
+Buyers in purchasing suitable PET Products in the event that Seller is unable to supply the quantity of PET Products required in accordance with the Annual Forecast or Revised 
+
+[ * * * ] Confidential
+treatment requested. 
+
+Page 12 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+Forecast, as the case may be; or Container volume in excess of [ * * * ] and/or Preform volume in excess of [ * * * ] of the applicable forecast that Seller
+is unable to supply. 
+ 
+7.5 In the event that Seller is unable to supply PET Products required by a Buyer in accordance with this Agreement
+for a period which exceeds [ * * * ] consecutive days, excluding all supply interruptions due to Force Majeure events, PCAM shall be entitled to terminate this Agreement with respect to any or all Buyer locations impacted by the supply interruption
+upon [ * * * ] days’ written notice without further financial obligation or damages being payable by Buyers. 
+ 
+7.6 Any PET Products
+secured from alternate sources when permitted by this Section 7 shall be credited against the then Annual Forecast or mutually agreed Revised Forecast and considered as PET Products supplied by Seller for the purpose of volume [ * * * ]
+reconciliations. The parties shall use commercially reasonable efforts to minimize the volume and duration of any such shortfall, and any commitment to other suppliers necessary to cover such shortfall. 
+
+ 8.
+ CONTRACT PRICES 
+
+8.1 
+ 
+(a) The contract prices to be charged to the Buyers under this Agreement are all FOB Seller’s source manufacturing plant provided in Schedule
+B and are set forth in Schedule C attached (the “Contract Prices”) subject to adjustments described in this Section 8. 
+ 
+(b) The Contract Prices contained herein are based upon a [ * * * ], which price shall be used by the Seller in billing the Buyers for the PET Products so as to protect the confidentiality of the actual resin prices
+and which price PCAM may, in its sole discretion, change from time to time. 
+ 
+(i) The actual price of resin will vary and will be set to
+PCAM’s Weighted Average Price of Resin (“WAPR”) from PCAM’s other domestic PET bottle suppliers unless (1) PCAM and Seller agree in writing to a mutually acceptable resin price or pricing mechanism [ * * * ] in which case
+the pricing mechanism of such agreement shall be effective or (2) PCAM invokes its option to supply resin, as detailed in Section 9 below or (3) [ * * * ] in writing, no later than October 15 preceding the first Contract Year and
+no later than September 1 preceding subsequent Contract Years, that [ * * * ]. 
+ 
+(ii) PCAM and Seller agree to meet, at a minimum,
+quarterly to review Seller’s procurement strategy for PET prime resin, and to discuss ways to reduce resin cost. PCAM and Seller shall work together to reach a mutual agreement on the cost and supply arrangement of virgin resin,
+colorants/additives, and recycled resin, all herein referred to as “resin.” Seller shall work with PCAM to understand PCAM’s objectives 
+
+[ * * * ] Confidential treatment requested. 
+
+Page 13 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+and strategies to determine successful mechanisms that will achieve a low cost stable resin supply. Beginning in 2008 and continuing each Contract Year
+thereafter, if both PCAM and Seller have agreed to or shall agree to a resin strategy and associated pricing mechanism for the upcoming Contract Year on or before September 1, PCAM and Seller will sign a letter agreement detailing the
+conditions and pricing for said period of time and these prices will be the final cost charged to Buyer as specified in the letter agreement for the stated period of time. PCAM will still, however, retain the option of setting a different Base Resin
+Price that Seller uses for both confidentiality and PET Product billing purposes, as note above in Section 8.1(a). 
+ 
+(iii) Upon a
+change in resin price as provided in Section 8.1.b.i. above, there shall be an upward or downward adjustment to the Contract Prices calculated using the formula set forth in Schedule E. 
+ 
+(c) Contract Prices are for Containers bulk palletized, stretch wrapped and strapped, and for Preforms in gaylords, as outlined in Schedule F
+hereof. 
+ 
+(d) If Seller is required to provide labeling for the Containers covered under this Agreement, label application prices as set
+forth in Schedule D shall be charged to a Buyer. 
+ 
+(e) PCAM may supply or direct Seller to purchase the quantities of labels
+necessary to produce all or a portion of the Containers covered under this Agreement, and will work with Seller to implement label procurement programs that deliver mutual cost reduction objectives. 
+ 
+(i) Seller agrees to work in good faith with PCAM directed label manufacturer(s). Seller shall provide PCAM-directed labeler manufacturers on the third
+business day of each month with Seller label orders, and Buyer-supplied 30-day order forecasts and 90-day rolling forecasts (if not provided by Buyer directly to labeler manufacturers). 
+ 
+(ii) Seller agrees to work with Buyer to reduce label costs throughout the Term. 
+ 
+(f) Contract Prices may be further adjusted to the extent that state or federal environmental legislation or regulations require or permit the inclusion
+of higher or lower cost plastic content (recycled or otherwise) in the manufacture of the Containers and Preforms, or impose a redemption fee or other recycling charge on the manufacture of plastic beverage Containers. 
+ 
+(g) Seller guarantees that the Conversion Costs outlined in Schedule C will not increase during the Term, except for [ * * * ] as outlined in the
+attached Schedule H. 
+
+[ * * * ] Confidential treatment requested. 
+
+Page 14 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+(h) [ * * * ] consisting of (i) a [ * * * ] of $[ * * * ]/Contract Year throughout the Term,
+payable quarterly on or about Periods 2, 5, 9 and 12, and (ii) formulated adjustments to [ * * * ], if any, in accord with Schedule H. 
+ 
+8.2 Should Seller sell PET Products similar to those supplied to the Buyers hereunder, where “similar” shall mean substantially the same specification (i.e. a CSD bottle or Preform with substantially the same size, weight,
+secondary packaging and resin grade) for and under similar terms and conditions, [ * * * ] under this Agreement to [ * * * ] of the Seller during the Term, [ * * * ]. However, the Seller shall not be so obligated to [ * * * ] if that [ * * * ].
+
+8.3 If there is a dispute as to the amount of any adjustments to which Seller or a Buyer may be entitled under this Agreement, the parties
+shall provide all reasonably necessary information or material to an independent certified public accounting firm acceptable to both parties, and the parties shall abide by the determination of such accounting firm. The parties shall equally share
+the cost of the fees charged by said accounting firm. 
+ 
+8.4 Cost Savings 
+ 
+(a) Any material and pronounced decrease in Seller’s cost structure, as it pertains to manufacture of PET Products for Buyer, solely attributable to
+Seller proprietary technological innovations, including trade secrets and patents issued or pending, shall be shared equally by the parties, provided, however, that [ * * * ] of the said savings will go to Seller until Seller’s development
+costs, capital investment plus Cost of Capital has been [ * * * ] unless an alternate cost sharing arrangement is mutually agreed by the parties. 
+ 
+(b) Light weighting and other cost savings realized through agreed specification changes in the manufacture of PET Products will accrue as follows: 
+ 
+(i) In the event Seller has made capital expenditures to support such lightweighting or other cost savings, unless mutually agreed otherwise by the parties, and in no event longer than the recovery timelines specified
+in 3.4(c) above, [ * * * ] to Seller until such time as Seller has [ * * * ] its capital investment plus Cost of Capital, at which time such lightweighting or other cost savings shall accrue [ * * * ] to the Buyers unless an alternate cost sharing
+arrangement is mutually agreed by the Parties. 
+ 
+(ii) In the event Seller has not made capital expenditures to support such lightweighting
+or other cost savings, [ * * * ] to the Buyers. 
+ 
+(c) The implementation costs, capital investments, savings in the cost of manufacturing
+and the economic life of all cost reduction projects shall be calculated 
+
+[ * * * ] Confidential treatment requested. 
+
+Page 15 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+in accordance with agreed upon standard methods for measuring and assessing capital projects. 
+ 
+8.5 Business Complexity 
+ 
+PCAM and Seller
+agree that business complexity is a cost to both parties, and in the event business complexity materially increases or decreases during the Term, the parties will discuss the financial impact and any appropriate action to be taken, including, a
+price increase or decrease. PCAM and Seller shall work together in good faith to estimate any such price increase/decrease prior to the occurrence of the complexity increase/decrease, and to implement such estimated pricing increase/decrease on or
+about the same timing as the occurrence of the complexity increase/decrease. On or about 6 (six) months after implementing such estimated pricing increase/decrease, PCAM and Seller shall work together in good faith to update and reconcile the
+estimated pricing increase/decrease with Seller’s properly documented and mutually agreed actual cost increase/decrease. The parties agree key factors impacting business complexity include, but are not limited to, [ * * * ]. 
+ 
+8.6 Transfer Pricing 
+ 
+In order to protect
+the confidentiality of the pricing terms in the Agreement, the Buyers and Seller agree that PCAM may designate a price for PET Products, which price would be made available to the Bottlers, the “Transfer Price”. The Transfer Price is one
+that PCAM sets at a premium to the pricing in the Agreement and is expressed in terms of dollars (US) per one thousand units of PET Product. Seller shall remit to PCAM once per calendar month, unless mutually agreed otherwise in writing by PCAM and
+Seller, the dollar difference (if any) between the pricing set out in the Agreement and any Transfer Price then in effect. With regard to all PET Products, Seller shall manufacture for example, “Global Swirl” or “Globe” bottles,
+PCAM shall have full discretion over the setting of the Transfer Price. 
+
+ 9.
+ OPTION TO SUPPLY RESIN 
+
+9.1 Except as provided from
+time to time in any signed letter agreement for resin supply between Seller and PCAM, PCAM may at any time during the Term, [ * * * ], supply Seller the quantities of polyethylene terephthalate (“PET”) prime resin, including recycled
+resin, necessary to produce the Containers covered under this Agreement. 
+ 
+It is further agreed that in any Period where PCAM supplies
+resin, PCAM will endeavor [ * * * ]. In addition, any PCAM-supplied resin as well as any inventory of Containers and Preforms made from such resin, shall be clearly identified as a PCAM-supplied resin in the respective Seller facility. Payment terms
+for any 
+
+[ * * * ] Confidential treatment requested. 
+
+Page 16 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+PCAM-supplied resin will be, at Seller’s full discretion, either (a) net [ * * * ] days from shipment, or (b) net [ * * * ] days from
+month-end summary invoice for resin received during that month. If Seller should default on any payments or not resolve any outstanding issue from [ * * * ] days of shipment, PCAM shall have the right to net any outstanding payment to the resin
+supplier with the PCAM’s PET Product payments for the same amount. In addition, if there is any issue where the resin supplier is unable to ship material because of Seller’s credit conditions, PCAM reserves the right to pay the resin
+suppliers directly by netting the resin cost from the PET Product payment. 
+ 
+9.2 Any resin supplied by PCAM must include the volume, and a
+warranty of quality (sufficient for Seller to meet all of Seller’s warranty provisions, packaging requirements and manufacturing performance criteria), and a [ * * * ] for the PET Products to be supplied hereunder. Subject to the foregoing,
+Seller agrees to accept such [ * * * ], and thereafter the Contract Prices shall be [ * * * ] for the manufacture of the specified PET Products or reflect the [ * * * ]. In the event the resin provided by PCAM does not meet industry standard
+warranties, or does not produce containers that meet Seller’s requirements for meeting PCAM standards or protocols under the current guidelines, Seller will notify PCAM, in writing, of the failure. 
+ 
+The parties agree to discuss in good faith any dispute regarding PCAM-supplied resin. If such discussions and meetings do not resolve the dispute within
+[ * * * ] of written communication of the dispute, then each party shall nominate one senior officer as its representative. These representatives shall meet to attempt to resolve such dispute. All disputes involving resin which are not resolved in
+accordance with the above shall be submitted to a panel of three (3) arbitrators appointed and operating under the Commercial Arbitration Rules of the American Arbitration Association. Each party shall choose one (1) arbitrator, and the
+third arbitrator shall be chosen by the two (2) arbitrators thus selected by the parties. The location of the arbitration hearing shall be New York. The written decision of the arbitrators shall be final and binding and convertible to a court
+judgment in any appropriate jurisdiction. 
+ 
+9.3 Any resin supplied to Seller under the terms outlined above shall be subject to the industry
+standard warranties regarding losses related to efficiency and quality. If after [ * * * ] both PCAM and Seller agree that the resin in question does not meet industry standard warranties, both PCAM and Seller will work together to replace
+PCAM’s resin with a resin that will meet the PCAM standards or protocols under the current guidelines. PCAM and Seller shall take all reasonable steps to eliminate any liabilities, damages and expenses Seller incurs as a result of the failure
+of the resin to meet Seller’s requirements for meeting such PCAM standards or protocols. 
+ 
+9.4 Following receipt of a post consumer
+recycled (“PCR”) PET content target from PCAM, Seller agrees to provide PCAM annually with a detailed plan on how Seller will achieve PCAM’s PCR content target. Pricing for PCR shall be mutually agreed upon. Seller and PCAM shall work
+in good faith to ensure PCAM’s requirements are 
+
+[ * * * ] Confidential treatment requested. 
+
+Page 17 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+met, and shall discuss strategies for managing PCR price in the future understanding the objective is to provide value during the Term. 
+
+ 10.
+ DELIVERY AND TITLE 
+
+10.1 Seller shall, at its sole
+expense, package Containers for delivery in accordance with the specifications set out in Schedule F attached hereto (“Secondary Packaging Information”). 
+ 
+10.2 All of the Contract Prices for the PET Products are FOB Seller’s source manufacturing plant provided in Schedule B, however, that Seller
+shall retain title and risk of loss of all PET Products until an authorized signature is obtained from a Buyer’s location on a bill of lading, except in those cases where a Buyer arranges transportation, in which case, title and risk of loss
+shall pass to that Buyer upon delivery of the PET Products to the carrier at Seller’s loading dock. 
+ 
+10.3 Buyer may, at its option,,
+self-manage freight for any PET Product to be purchased from the Seller hereunder, provided Buyer gives reasonable notice to the Seller allowing any time which might be needed by the Seller to adjust any agreements which Seller may have with its
+transportation vendors covering the providing of freight carriage for such purchases. 
+ 
+10.4 For each supply lane, Seller will use
+commercially reasonable efforts to secure a minimum of three (3) freight rate quotes. Each such quote will include [ * * * ]. Such quotes shall be communicated to PCAM by November 1 for the following Contract Year. Seller will make
+commercially reasonable efforts to provide the Buyers with the most cost effective freight rates, and will provide PCAM with copies of quote detail upon request. 
+ 
+10.5 Pallets, top frames, tier sheets and Preform gaylords are Seller-owned and are returnable and reusable. Upon Seller’s request, PCAM shall use commercially reasonable efforts to cause Buyer’s filling
+locations to store no more than [ * * * ] truckloads of Seller’s returnable packaging material on site, and to return such material in full truckload quantities and in good order, normal wear and tear excepted. In the event Seller’s
+returnable packaging is lost are destroyed Buyer and Seller shall work together in good faith to negotiate a commercial settlement. 
+ 
+10.6
+Seller may allocate volume for a particular supply lane to one or more carriers to achieve an optimal balance of cost and fulfillment level. In the event of allocation to multiple carriers, Seller will communicate a [ * * * ] freight rate quote. For
+each quote, PCAM will indicate acceptance, or intent to self-manage freight arrangements for the lane. 
+
+[ * * * ] Confidential treatment requested. 
+
+Page 18 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+10.7 All rates accepted by PCAM shall apply for one Contract Year unless mutually agreed otherwise.
+Reasons for changing a rate include (a) carrier disqualification for failure to meet committed levels of service, (b) carrier demand for [ * * * ] originally agreed with Seller, where such demand results from a change in Buyer filling
+location practice or protocol, (c) material change in lane requirements, and (d) carrier withdrawal of services. Seller shall re-bid any lane so impacted in accord with Section 10.4 above. 
+ 
+10.8 Buyer shall [ * * * ]. Seller will utilize the [ * * * ] Calculation (Schedule I) as basis for [ * * * ] unless mutually agreed otherwise,
+and will use commercially reasonable efforts to [ * * * ] to such. The amount of [ * * * ] will be based on the [ * * * ], as regionally appropriate for the [ * * * ], as determined by the [ * * * ]. 
+ 
+10.9 In the event Seller closes, sells or otherwise disposes of a supply location during the Term, Seller shall be responsible for [ * * * ] arising from
+such disposal for the balance of the Term, unless mutually agreed otherwise. 
+ 
+10.10 The parties agree to work together to develop and
+implement additional or alternative transportation arrangements in an effort to reduce freight costs throughout the Term. 
+
+ 11.
+ PAYMENT TERMS 
+
+11.1 Seller shall deliver a bill of
+lading to Buyer promptly after each shipment of Containers and/or Preforms delivered to Buyer. Seller is responsible for obtaining an authorized signature on the bill of lading from Buyer, which acknowledges Buyer’s receipt of shipment.
+
+11.2 Each bill of lading shall indicate the name and location to which a shipment of Containers was made and shall indicate any relevant
+bill of lading number. 
+ 
+11.3 Payment for PET Products shall be made by way of a check or by wire transfer on the basis of [ * * * ]
+following the later of the invoice date or receipt of such PET Products by Buyer. If the payment due date (i.e., [ * * * ]) falls on a Saturday, Sunday or holiday, the payment due date shall be the next business day following such Saturday, Sunday
+or holiday. Payment shall be deemed made (i) if by electronic funds transfer (“EFT”), upon confirmation by PepsiCo Financial Shared Services that such EFT has been sent to Seller, or (ii) if by check, on the date such check is
+postmarked. 
+ 
+11.4 For miscellaneous invoices, payments shall be made on the basis of [ * * * ] from the invoice date. 
+
+[ * * * ] Confidential treatment requested. 
+
+Page 19 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+ 12.
+ RIGHT OF REJECTION 
+
+12.1 Buyer may by written
+notice (“Notices of Rejection”) reject any PET Products found not to be in accordance with this Agreement (“Rejected PET Products”). 
+ 
+12.2 The Notice of Rejection shall indicate the reason(s) for rejection and the quantity of rejected PET Products. 
+ 
+12.3 Buyer may return the Rejected PET Products to Seller at Seller’s risk and expense upon approval by Seller’s Quality Assurance and Technical Manager and title to the Rejected PET Products shall revert to Seller at the point
+and time of shipment to Seller. 
+ 
+12.4 Seller shall within a reasonable time either replace the Rejected PET Products with PET Products
+produced in accordance with this Agreement or reimburse Buyer for the Rejected PET Products. 
+ 
+12.5 Seller shall pay all reasonable direct
+expenses incurred by Buyer arising out of or in connection with Rejected PET Products. 
+
+ 13.
+ QUALITY AND TECHNICAL SUPPORT 
+
+13.1 Seller agrees
+that it will provide all PET Products to Buyer in accordance with the specifications and warranty provisions set forth herein, and will maintain an overall quality and service level with respect to the PET Products covered under this Agreement equal
+to or better than that of Buyers’ other suppliers of similar PET Products. 
+ 
+13.2 Seller agrees to provide, at its sole cost and
+expense, reasonable professional, technical and quality support services related to manufacture and use of the PET Products to Buyer on a prompt and timely basis. Seller shall obtain advance written approval from Buyer prior to initiating any fee
+for service work, such as technical analysis or design and development work outside the normal course of business. 
+ 
+13.3 Buyers shall
+provide Seller with an annual defective material report and relevant plant surveys comparing Seller’s quality and service levels with those of Buyers’ other suppliers of comparable PET Products. 
+ 
+13.4 If Seller’s quality or service with respect to a specific type of PET Product is [ * * * ] of PET Products, a reasonable period of time shall
+be granted to Seller to [ * * * ] without holding Seller as being in breach of this Agreement provided that Seller promptly and diligently pursues such performance level improvements. During such time period, PCAM may reduce the quantity of PET
+Products required to be purchased from Seller under this Agreement, without obligation [ * * * ]. 
+
+[ * * * ] Confidential treatment requested. 
+
+Page 20 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+13.5 In the event a specific quality or service issue is not resolved within [ * * * ] days, PCAM
+shall have the right to use an alternate source for the impact PET Products until such time as the issue is resolved to PCAM’s satisfaction. PCAM shall work with Seller during an unresolved quality or service issue to source from Seller’s
+other locations where possible and where a Buyer does not incur a freight penalty. 
+ 
+13.6 Seller shall participate in PCAM’s Bottle
+Audit Process, including but not limited to actively participating in Buyer filling plant audits, completing bottle quality evaluations of audit bottles, performing corrective actions and providing formal reports on corrective actions. [ * * * ].
+
+ 14.
+ WARRANTY 
+
+14.1 ALL WARRANTIES RELATING TO THE
+PRODUCTS ARE EXPRESSED IN THIS AGREEMENT ONLY. THERE ARE NO OTHER WARRANTIES, EXPRESSED OR IMPLIED. 
+ 
+14.2 Seller represents and warrants:
+
+(a) the PET Products it manufactures pursuant to Buyers’ orders will: 
+ 
+(i) conform in all respects to the PET Product Specifications set forth in Schedule A; 
+ 
+(ii) be merchantable and fit for the purpose for which they are intended; namely, a commercially acceptable container for carbonated soft drink,
+non-carbonated beverage or bottled water products; or a preformed PET vessel which, in the Container manufacturing process, is blown into a Container; 
+ 
+(iii) meet PCAM’s applicable shelf life for the mutually agreed period specified in the applicable specification for the specific beverage product; 
+ 
+(b) the PET Products and materials which Seller supplies and uses in connection with the manufacture of the PET Products: 
+ 
+(i) will be free of defects in materials and workmanship; 
+ 
+(ii) are permissible under presently existing regulations under the Federal Food Additives Amendment and any other applicable federal rules and regulations and under applicable state laws; and 
+ 
+(iii) are neither unsafe food additives nor adulterated nor misbranded and the PET Products manufactured from such substances may be introduced into
+interstate commerce within the provisions of the Federal Food, Drug and Cosmetic Act; 
+
+[ * * * ] Confidential treatment requested. 
+
+Page 21 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+(c) each pallet or gaylord of PET Products shall have attached thereto a slip indicating the date and
+shift when such PET Products were produced or such other documentation as is mutually acceptable; and 
+ 
+(d) the PET Products shall be marked
+(i.e., ink jet ink, laser) indicating the date and shift when such PET Products were produced or such other documentation as is mutually acceptable. 
+ 
+14.3 If the PET Products do not conform to the warranties contained in this section, Seller shall use commercially reasonable efforts to replace in a timely manner the nonconforming PET Products. If Seller does not so
+replace the nonconforming PET Products, Seller shall [ * * * ] such defective PET Products, based on [ * * * ]. In addition to either of the foregoing remedies available to a Buyer, [ * * * ], subject to Section 14.4 below, with respect to any
+claim for such nonconforming PET Products, [ * * * ]: 
+ 
+(a) the [ * * * ] of such defective PET Products; 
+ 
+(b) the [ * * * ] of such defective PET Products (as determined by [ * * * ] with respect to such [ * * * ]); 
+ 
+(c) the [ * * * ] of such defective PET Products and their [ * * * ] of the defective PET Products; and 
+ 
+(d) any [ * * * ] under this Agreement, which are [ * * * ] PET Products. 
+ 
+(e) Except for third party claims, Seller shall not be responsible to Buyer [ * * * ], and Seller shall have no liability [ * * * ]. 
+ 
+14.4 Seller agrees to indemnify and hold Buyer harmless from and against any and all costs, losses, liabilities, damages, claims or expenses arising out of third-party claims for property damage or bodily injury
+(including without limitation legal fees and expenses incurred in defending against any such claims) incurred by Buyer and caused in whole or in part by any breach by Seller of the warranties set forth in this section, provided that Buyer gives
+Seller prompt notice of such claim, cooperates in the defense thereof (which shall include such matters as providing Buyer employees for interview, deposition and testimony at trial and production of relevant documents) and grants Seller the right
+to handle, defend or otherwise dispose of such claim as it may determine. 
+
+ 15.
+ FORCE MAJEURE 
+
+15.1 If and to the extent that
+Seller’s or a Buyer’s performance of any of its obligations pursuant to the Agreement is prevented, hindered or delayed due in whole or in part due to fire, flood, earthquake, explosion, elements of nature or acts of God, acts 
+
+[ * * * ] Confidential treatment requested. 
+
+Page 22 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+of war, acts of terrorism, acts of any government, inability to obtain or delay in obtaining government approvals, permits or licenses, riots, civil
+disorders, rebellions or revolutions, strike, lockout or other labor dispute or any other similar cause beyond the reasonable control of such party (the “Affected Party”), then the Affected Party shall be excused for such non-performance,
+hindrance or delay, as applicable, of those obligations affected by such event (the “Force Majeure Event”) for as long as such Force Majeure Event continues and the Affected Party continues to use its best reasonably commercial efforts to
+recommence performance and complies with Section 15.2 below. However the inability of the Seller to obtain raw materials and supplies shall not be deemed to be an event that will excuse either the Seller’s failure to perform or the
+Seller’s delay in performing its obligations under this Agreement unless such inability is in whole or in part due to a Force Majeure Event. 
+ 
+15.2 The Affected Party shall immediately notify the other of the occurrence of the Force Majeure Event and describe in reasonable detail the nature of the Force Majeure Event. During the pendency of any Force Majeure Event, Seller shall
+allocate its available supply among its customers in the same proportion as existed before the occurrence of the Force Majeure Event. Performance of this Agreement shall be resumed as quickly as reasonably possible after the Affected Party has
+notified the other that the Force Majeure Event is remedied. 
+
+ 16.
+ PATENTS, TRADEMARKS, COPYRIGHTS AND UNFAIR COMPETITION 
+
+16.1 Seller guarantees to Buyer that the PET Products manufactured and the use thereof in the form furnished by Seller will not in itself infringe any valid United States patent. In the event of a third party claim of any such patent
+infringement and provided that Seller is promptly notified thereof and given the complete defense, Seller as its only obligation agrees to defend, indemnify and hold Buyer harmless from and against any awards or claims against Buyer as the result of
+such actual or alleged infringement. Upon the institution of any suit or action alleging infringement against Buyer, Seller may, at its sole option: 
+ 
+(a) pay the royalties claimed, or 
+ 
+(b) furnish non-infringing PET Products, provided they are acceptable to Buyer, or 
+
+(c) continue to supply the allegedly infringing PET Products, provided that in such event Seller shall reimburse Buyer for any loss which Buyer
+sustains on account of infringement if in such suit or action it is held that the manufacture or use of such PET Products did infringe a valid United States patent, provided that, notwithstanding Section 14.3 (e) to the contrary, Buyer
+shall not be reimbursed for any incidental or consequential damages arising from such items as loss of profits or opportunity due to patent infringement and in no event shall Seller be responsible for 
+
+[ * * * ] Confidential treatment requested. 
+
+Page 23 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+damages in excess of the cost of the PET Products purchased under this Agreement and the contents thereof. 
+ 
+16.2 Buyer agrees to indemnify and defend Seller from and against any and all court assessed decrees and costs resulting from infringement of any United
+States patent to the extent that such infringement arises from any patent or technology licensed to or by Buyer, or any designs furnished by Buyer or expressly required by Buyer, provided Seller gives prompt notice of the alleged infringement,
+provides reasonable assistance and information necessary to the defense of such claim, and allows Buyer full opportunity to defend or dispose of such claim. 
+
+ 17.
+ CANCELLATION UPON DEFAULT 
+
+17.1 Either party may
+terminate this Agreement upon written notice in the event of a material default of the terms and conditions hereof (including a bankruptcy filing), which remain uncured after thirty (30) days of receiving a written description of the nature of
+the default from the non- breaching party. Buyer shall have no liability for disposal of the capital assets and Seller shall have no further supply obligations should either party cancel under this provision. Nothing in this section shall be
+construed to preclude the Seller or a Buyer from their other respective remedies provided under general contract law. 
+
+ 18.
+ CONFIDENTIALITY 
+
+18.1 Each Buyer and the Seller
+shall keep confidential the terms of this Agreement and all disclosures made by the other containing business or technical information relating to the subject matter hereof, and shall neither disclose such information to anyone else nor use it for
+the receiving entity’s separate benefit. This confidentiality obligation shall not apply to information that the receiving entity can show was already known to it, became available from another who had a right to disclose it, entered the public
+domain without its fault, was subsequently developed independently of the disclosure or is required to be disclosed due to legal process, governmental order, government regulation, or like demand; provided that the party so compelled has given prior
+notice to the other of the process, order, or demand in order to provide the other party with a reasonable opportunity to oppose the same. This confidentiality obligation shall survive the termination or expiration of this Agreement, for any reason,
+for three years. 
+
+ 19.
+ INTERPRETATION 
+
+19.1 When applicable, use of the
+singular form of any word shall mean or apply to the plural, and the neuter form shall mean or apply to the feminine, masculine or plural. The captions in this Agreement, including the headings to sections and paragraphs, are for convenience of
+reference only and shall not affect its interpretation or construction. 
+
+[ * * * ] Confidential treatment requested. 
+
+Page 24 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+ 20.
+ GOVERNING LAW 
+
+20.1 This Agreement shall be
+governed by and enforced in accordance with the laws of the State of New York, without regard to conflict of laws provisions which might provide for the application of the laws of another jurisdiction. 
+
+ 21.
+ AMENDMENTS 
+
+21.1 This Agreement may not be amended,
+except in a writing executed by authorized officers of the parties. All such revisions shall as of their effective date automatically become a part of this Agreement. 
+
+ 22.
+ EXHIBITS 
+
+22.1 All exhibits and schedules or
+attachments to exhibits or schedules referenced in this Agreement as annexed hereto are incorporated herein by reference and made a part hereof. From time to time any exhibit, schedule or attachment may be amended. Once amended, the amended exhibit,
+schedule or attachment incorporating such amendments shall be executed in accordance with Section 22.1 hereof and then annexed to this Agreement. 
+
+ 23.
+ GENERAL 
+
+23.1 If any provision of this Agreement,
+whether a paragraph, sentence or portion thereof, is determined by a court of competent jurisdiction to be null and void or unenforceable, such provision shall be deemed to be severed, and the remaining provisions of this Agreement shall remain in
+full force and effect. Neither Seller nor a Buyer shall be deemed to have waived any right, power, privilege or remedy unless such waiver is in writing and duly executed by it. No failure to exercise, delay in exercising or course of dealing with
+respect to any right, power, privilege or remedy shall operate as a waiver thereof by either Seller or a Buyer or of any other right, power, privilege or remedy. No exercise or partial exercise of any right, power, privilege or remedy shall preclude
+any other or further exercise thereof by either Seller or a Buyer or the exercise of any other right, power, privilege or remedy by either party. 
+
+ 24.
+ NOTICES 
+
+24.1 Any notice required or permitted
+hereunder shall be in writing and shall be sent to the address given below for the party to be notified, unless such party has previously notified the other of a change of address, in which case the notice shall be sent to such changed address:
+
+ Seller:
+ 
+ Constar, Inc.
+
+[ * * * ] Confidential treatment requested. 
+
+Page 25 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+ Attn: President
+
+ One Crown Way
+
+ Philadelphia, PA 19154
+
+ Telephone: 215-552-3700
+ 
+ Facsimile: 215-552-3707
+
+ Buyer:
+ 
+ Pepsi-Cola Advertising and Marketing, Inc.
+
+ Attn: Senior Vice President, Global Procurement
+
+ One Pepsi Way
+
+ Somers, NY 10589-2201
+
+ Telephone: 914-767-6000
+ 
+ Facsimile: 914-767-1350
+
+ 25
+ ASSIGNMENT OR CHANGE OF CONTROL 
+
+25.1 This
+Agreement shall not be assigned by either party without the prior written consent of the other party, which consent shall not be unreasonably withheld or delayed,; provided, however, that either party may freely assign this Agreement to its parent,
+or its parent’s subsidiaries or affiliates without such consent Any assignment of this Agreement in violation of the previous sentence shall be void. In the event this Agreement is assigned in connection with the sale of a substantial portion
+of the business or assets, or a controlling interest of the securities, of the assigning party, the assignment will be void unless the assignee agrees to be bound to this Agreement. To the extent permitted by law, regulation and contract, the
+assigning party agrees to provide ninety (90) days prior written notice to the other party if the assigning party intends to make any such assignment. If a ninety (90) day notice period is not permitted by law, regulation or contract but a
+shorter notice period is permitted, the assigning party agrees to give the maximum notice permitted by law, regulation or contract. 
+
+ 26.
+ EXCLUSIVITY 
+
+26.1 Seller covenants and agrees that
+during the Term hereof it shall not produce, manufacture, distribute, sell or otherwise supply beverages, either directly or indirectly, that compete, either directly or indirectly, with the production, manufacture, distribution or sale of
+carbonated and noncarbonated beverages, isotonic beverages or fruit beverages of Buyer, its division, subsidiaries or affiliates. 
+
+ 27.
+ PARTNERSHIP TEAMS 
+
+27.1 A formalized process will
+be developed to establish partnership teams at both the executive level and the plant-to-plant level of Seller and Buyer. These teams will meet regularly to identify mutual areas where attention should be focused; they will discuss, among other
+things, improving communication and quality improvements, operation enhancements and system-wide reductions. 
+
+[ * * * ] Confidential treatment requested. 
+
+Page 26 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+ 28
+ MINORITY BUSINESS EXPENDITURES 
+
+28.1 To support
+PepsiCo, Inc.’s minority business objectives, PCAM requests that Seller target a minimum of ten percent (10%) of its annual Buyer-related sales value to be made up of work done by minority or women owned companies. The NMSDC, WBENC or
+other accreditation agencies must certify minority/women owned businesses on an annual basis. Minority Owned businesses are defined as a business that is certified to be 51% owned controlled and operated by a US citizen or lawfully permanent
+resident consisting of the following groups: African American, Hispanic American, Native American and Asian American. Women Owned businesses shall mean a business that is certified to be at least 51% owned, controlled and operated by a woman or
+women. 
+ 
+Seller shall report minority business results on a quarterly basis to: Manager, PepsiCo, Inc Minority Business, providing current
+level of second tier spending broken down by minority/women. If less than ten percent (10%), Seller shall provide the process to be enacted to achieve the ten percent (10%) level. 
+ 
+With regard to reporting the above annual sales value, multiple methods are acceptable, however, certain guidelines apply. For example: ABC Company
+provides PepsiCo, Inc. with goods. PepsiCo, Inc. represents ten (10%) of ABC’s system-wide business. ABC’s M/WBE program spent twenty million dollars system-wide; therefore, PepsiCo, Inc.’s portion is two million dollars. However
+Seller must list each minority supplier and what product or service he or she supplies. Seller may report any spending which can be directly related to a product of a PCAM affiliate. 
+ 
+28.2 Seller’s failure to achieve the above-referenced ten percent (10%) value of work done by minority or women owned companies as a percent of
+its annual Buyer-related sales value shall not constitute a default or breach of this Agreement. 
+
+ 29
+ No Publicity 
+
+29.1 Neither Seller or a Buyer shall
+use the name or marks, refer to, or identify the other or any affiliated entities of the other in publicity releases, interviews, promotional or marketing materials, announcements, customer listings, testimonials, or advertising without prior
+written permission from the other party, except that Seller may identify Buyer as a client of Seller. 
+
+ 30.
+ SUPPLIER CODE OF CONDUCT 
+
+30.1 This Agreement shall
+be subject to, and Seller shall adhere to, PepsiCo’s Worldwide Supplier Code of Conduct, which is available at the following website: http://www.pepsico.com/PEP_Citizenship/SupplierCOC/index.cfm, as amended from time to time. 
+
+[ * * * ] Confidential treatment requested. 
+
+Page 27 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+ 31.
+ SURVIVAL 
+
+31.1 The terms and provisions of this
+Agreement that, by their sense and context, are intended to survive the completion or termination of this Agreement shall so survive the completion of performance and termination of this Agreement, including, without limitation, the provisions
+regarding indemnification, confidentiality, and the obligation to make any and all payments due hereunder. 
+
+ 32.
+ PRIOR AGREEMENTS AND MERGER 
+
+32.1 This Agreement
+contains the complete, final and exclusive agreement of Seller and the Buyers with respect to the subject matter hereof other than those stated or referred to herein. This Agreement supersedes any and all other agreements, representations or
+understandings, whether written or oral, prior to or contemporaneous with this Agreement, between the Seller and the Buyers to this Agreement with respect to the subject matter hereof. 
+ 
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement on the dates indicated below but as of January 1, 2009 
+
+ Constar, Inc.
+
+ Pepsi-Cola Advertising and Marketing, Inc.
+
+ Per:
+
+/s/ Michael Hoffman
+
+ Per:
+
+/s/ Dianne Sutter
+
+ Title:
+
+President and CEO
+
+ Title:
+
+VP, Global Procurement
+
+ Date:
+
+10-2-08
+
+ Date:
+
+10-3-08
+
+ Per:
+
+/s/ Russell Lalli
+
+ Title:
+
+Director, Global Procurement
+
+ Date:
+
+10/3/08
+
+ Per:
+
+/s/ Chris Gallucci
+
+ Title:
+
+V.P. Global Procurement
+
+ Date:
+
+10/3/08
+
+ Per:
+
+/s/ Mitchell Adamek
+
+ Title:
+
+S.V.P. and C.P.O., Global Procurement
+
+ Date:
+
+10/8/08
+
+[ * * * ] Confidential treatment requested. 
+
+Page 28 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+SCHEDULE A 
+ 
+CONTAINER SPECIFICATIONS 
+ 
+The Container and Preform Specifications shall be the “Pepsi-Cola North
+America PET Specifications and Qualification Manual”, for the Buyer which was submitted and registered to Seller in care of, but not limited to, the following person(s): 
+ 
+Phil Kraft 
+ 
+Jim Bolton 
+ 
+Dan Ingram 
+ 
+John Prentzas 
+ 
+The Container Specifications sets forth Buyer’s bottle specifications and methodology in regards to its: 
+
+ 1.
+ Bottle Design Guidelines, 
+
+ 2.
+ PET Package Qualification Process, and 
+
+ 3.
+ PET Bottle Specifications and Test Methods 
+
+ 4.
+ PET Preform Specifications and Test Methods 
+
+The Container and Preform
+Specifications will be updated periodically and revisions issued to Seller in care of the position(s) listed above (if appropriate) for Seller’s use in making PET bottles and Preforms for the Buyer. 
+
+[ * * * ] Confidential treatment requested. 
+
+Page 29 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+SCHEDULE B 
+ 
+SELLER SOURCE AND BUYER FILLING LOCATIONS 
+
+2009-2012 Packages
+
+Plant
+
+Pkg Type
+
+Division
+
+Sourcing Cell
+
+Estimated
+ 
+FY Total
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ IB
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ IB
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ IB
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ IB
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ IB
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ IB
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ IB
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ IB
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ IB
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBV
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBV
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBV
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ HDG CONTAINER
+ 
+ [ * * * ]
+
+TOTAL HDG CONTAINER
+
+ [ * * * ]
+
+[ * * * ] Confidential treatment requested. 
+
+Page 30 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+SCHEDULE B 
+ 
+SELLER SOURCE AND BUYER FILLING LOCATIONS (Continued) 
+
+2009-2012 Packages
+
+Plant
+
+Pkg Type
+
+Division
+
+Sourcing Cell
+
+Estimated
+ 
+FY Total
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PAS
+ 
+ ORL CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PAS
+ 
+ ORL CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ ORL CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ ORL CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ ORL CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ ORL CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ ORL CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ ORL CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ ORL CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ ORL CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ ORL CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ ORL CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ ORL CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ ORL CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ ORL CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ ORL CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PAS
+ 
+ ORL CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PAS
+ 
+ ORL CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PAS
+ 
+ ORL CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PAS
+ 
+ ORL CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PAS
+ 
+ ORL CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PAS
+ 
+ ORL CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PAS
+ 
+ ORL CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PAS
+ 
+ ORL CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PAS
+ 
+ ORL CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PAS
+ 
+ ORL CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PAS
+ 
+ ORL CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PAS
+ 
+ ORL CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ ORL CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ ORL CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ ORL CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ ORL CONTAINER
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PBG
+ 
+ ORL CONTAINER
+ 
+ [ * * * ]
+
+TOTAL ORL CONTAINER
+
+ [ * * * ]
+
+[ * * * ] Confidential treatment requested. 
+
+Page 31 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+SCHEDULE B 
+ 
+SELLER SOURCE AND BUYER FILLING LOCATIONS (Continued) 
+
+2009-2012 Packages
+
+Plant
+
+Pkg Type
+
+Division
+
+Sourcing Cell
+
+Estimated
+ 
+FY Total
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ PREFORM
+ 
+ PBG
+ 
+ PREFORM
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ PREFORM
+ 
+ PBG
+ 
+ PREFORM
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ PREFORM
+ 
+ PBG
+ 
+ PREFORM
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ PREFORM
+ 
+ PBG
+ 
+ PREFORM
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ PREFORM
+ 
+ PBG
+ 
+ PREFORM
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ PREFORM
+ 
+ PBG
+ 
+ PREFORM
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ PREFORM
+ 
+ PBG
+ 
+ PREFORM
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ PREFORM
+ 
+ PBG
+ 
+ PREFORM
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ PREFORM
+ 
+ PBG
+ 
+ PREFORM
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ PREFORM
+ 
+ PBG
+ 
+ PREFORM
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ PREFORM
+ 
+ PBG
+ 
+ PREFORM
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ PREFORM
+ 
+ PBG
+ 
+ PREFORM
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ PREFORM
+ 
+ PBG
+ 
+ PREFORM
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ PREFORM
+ 
+ PBG
+ 
+ PREFORM
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ PREFORM
+ 
+ PBG
+ 
+ PREFORM
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ PREFORM
+ 
+ PBG
+ 
+ PREFORM
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ PREFORM
+ 
+ PBG
+ 
+ PREFORM
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ PREFORM
+ 
+ PBG
+ 
+ PREFORM
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ PREFORM
+ 
+ PBG
+ 
+ PREFORM
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ PREFORM
+ 
+ PBG
+ 
+ PREFORM
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ PREFORM
+ 
+ PBG
+ 
+ PREFORM
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ PREFORM
+ 
+ PBG
+ 
+ PREFORM
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ PREFORM
+ 
+ PBG
+ 
+ PREFORM
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ PREFORM
+ 
+ PBG
+ 
+ PREFORM
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ PREFORM
+ 
+ PBG
+ 
+ PREFORM
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ PREFORM
+ 
+ PBG
+ 
+ PREFORM
+ 
+ [ * * * ]
+
+TOTAL PREFORM
+
+ [ * * * ]
+
+[ * * * ] Confidential treatment requested. 
+
+Page 32 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+SCHEDULE B 
+ 
+SELLER SOURCE AND BUYER FILLING LOCATIONS (Continued) 
+
+2009 Periods 1-6 Only
+ 
+Packages
+
+Plant
+
+Pkg Type
+
+Division
+
+Sourcing Cell
+
+Estimated
+ 
+FY Total
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ CCI
+ 
+ NA
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ CCI
+ 
+ NA
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ CCI
+ 
+ NA
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ CCI
+ 
+ NA
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ CCI
+ 
+ NA
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ CCI
+ 
+ NA
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ CCI
+ 
+ NA
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ CCI
+ 
+ NA
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ CCI
+ 
+ NA
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ CCI
+ 
+ NA
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ CCI
+ 
+ NA
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ CCI
+ 
+ NA
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ CCI
+ 
+ NA
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ CCI
+ 
+ NA
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ CCI
+ 
+ NA
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PAS
+ 
+ NA
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PAS
+ 
+ NA
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PAS
+ 
+ NA
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PAS
+ 
+ NA
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PAS
+ 
+ NA
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PAS
+ 
+ NA
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PAS
+ 
+ NA
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PAS
+ 
+ NA
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ CONTAINER
+ 
+ PAS
+ 
+ NA
+ 
+ [ * * * ]
+
+TOTAL 2009 PERIODS 1-6 ONLY
+
+ [ * * * ]
+
+Notes 
+ 
+1. Volume for
+CCI Cheraw, CCI Conway, CCI Granite Falls and PAS Reserve are for 2009 Periods 1-6 only. These locations will be supplied from an alternate supplier from P7 2009 through the duration of the Term. 
+ 
+2. The following packages shall be sourced by an alternate supplier through the duration of the Term unless mutually agreed otherwise: 
+ 
+- [ * * * ] 
+ 
+- [ * * * ]
+
+- [ * * * ] 
+ 
+- [ * * * ] 
+
+[ * * * ] Confidential treatment requested. 
+
+Page 33 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+SCHEDULE C 
+ 
+Contract Prices 
+
+CONTAINERS
+
+CONTRACT YEAR 2009
+
+Size, Type, Finish
+
+Gram
+Weight
+
+Resin
+Price/Lb
+
+Resin
+Cost
+
+Conversion Cost
+
+[ * * * ]
+
+[ * * * ]
+
+Total
+
+ 12oz, Global Swirl 28mm
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+ 12oz, Global Swirl 28mm
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+ 16oz, Global Swirl 28mm
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+ 16.9oz, Citrus 28mm
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+ 16.9oz, Prius 28mm
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+ 16.9oz, Global Swirl 28mm
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+ 20oz, Glisten 28mm
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+ 20oz, Global Swirl 28mm
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+ 20oz, Globe 28mm
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+ 20oz, Global Swirl 28mm
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+ 20oz, Globe 28mm
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+ 20oz, Allied 28mm
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+ 24oz, Glisten 28mm
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+ 24oz, Global Swirl 28mm
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+ 1L, Global Swirl 38mm
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+ 1L, Straight Wall 28mm
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+ 1.5L, Straight Wall 28mm
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+ 2L, Straight Wall 28mm
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+ 3L, Straight Wall 38mm
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+CONTAINERS
+
+CONTRACT YEAR 2010
+
+Size, Type, Finish
+
+Gram
+Weight
+
+Resin
+Price/Lb
+
+Resin
+Cost
+
+Conversion Cost
+
+[ * * * ]
+
+[ * * * ]
+
+Total
+
+12oz, Global Swirl 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+12oz, Global Swirl 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+16oz, Global Swirl 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+16.9oz, Citrus 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+16.9oz, Prius 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+16.9oz, Global Swirl 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+20oz, Glisten 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+20oz, Global Swirl 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+20oz, Globe 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+20oz, Global Swirl 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+20oz, Globe 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+20oz, Allied 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+24oz, Glisten 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+24oz, Global Swirl 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+1L, Global Swirl 38mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+1L, Straight Wall 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+1.5L, Straight Wall 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+2L, Straight Wall 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+[ * * * ] Confidential treatment requested. 
+
+Page 34 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+ 3L, Straight Wall 38mm
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+[ * * * ] Confidential treatment requested. 
+
+Page 35 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+SCHEDULE C 
+ 
+Contract Prices (continued) 
+
+CONTAINERS
+
+CONTRACT YEARS 2011-2012
+
+Size, Type, Finish
+
+Gram
+Weight
+
+Resin
+Price/Lb
+
+Resin
+Cost
+
+Conversion Cost
+
+[ * * * ]
+
+[ * * * ]
+
+Total
+
+12oz, Global Swirl 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+12oz, Global Swirl 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+16oz, Global Swirl 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+16.9oz, Citrus 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+16.9oz, Prius 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+16.9oz, Global Swirl 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+20oz, Glisten 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+20oz, Global Swirl 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+20oz, Globe 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+20oz, Global Swirl 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+20oz, Globe 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+20oz, Allied 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+24oz, Glisten 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+24oz, Global Swirl 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+1L, Global Swirl 38mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+1L, Straight Wall 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+1.5L, Straight Wall 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+2L, Straight Wall 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+3L, Straight Wall 38mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+CONTAINERS
+
+CONTRACT YEARS 2009-2012
+
+Size, Type, Finish
+
+Gram
+Weight
+
+Resin
+Price/Lb
+
+Resin
+Cost
+
+Conversion Cost
+
+[ * * * ]
+
+[ * * * ]
+
+Total
+
+16.9oz, Water, 26.7mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+16.9oz, Non-Carb, 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+16.9oz, CSD, 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+16.9oz, CSD, 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+20oz, Water/Non-Carb, 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+12oz, Water, 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+12oz, CSD, 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+20oz, CSD, 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+20oz, CSD, 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+24oz, Water, 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+24oz, CSD, 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+1L, All, 38mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+1.5L, All, 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+2L, All, 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+2.5L, All, 28mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+3L, All, 38mm
+
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+[ * * * ] Confidential treatment requested. 
+
+Page 36 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+SCHEDULE C 
+ 
+Contract Prices (continued) 
+
+Notes/Additional Pricing 
+
+ •
+
+Contract Prices above are FOB Seller supply location. 
+
+ •
+
+Resin price above is for sample calculation only. Actual resin pricing is subject to change per Section 8. 
+
+ •
+
+Should Buyers’ 2009 total Container volume exceed [ * * * ] Containers, Seller shall [ * * * ] the Buyers $[ * * * ] on all Containers shipped during 2009.
+Such [ * * * ] on or before February 15, 2010. 
+
+ •
+
+Should Buyers’ 2010 total Container volume exceed [ * * * ] Containers, Seller shall [ * * * ] the Buyers $[ * * * ] on all Containers shipped during 2010.
+Such [ * * * ] on or before February 15, 2011. 
+
+ •
+
+Schedule C conversion price for 1.5L is [ * * * ] throughout the Term due to its relatively small volume as of the Commencement Date. In the event 1.5L
+volume meaningful grows during the Term, the parties shall negotiate [ * * * ] in good faith. 
+
+ •
+
+[ * * * ] 
+
+ a.
+ Above PET Product conversion costs including a [ * * * ] assume [ * * * ] equal to [ * * * ]. This [ * * * ] is an estimate only. [ * * * ] are subject to [ * * * ] as a percent of
+[ * * * ]. 
+
+ b.
+ [ * * * ] during a given Contract Year shall be reconciled semi-annually, by PET Product, to Buyers’ actual [ * * * ] as a percent of total CSD volume.
+
+ c.
+ The [ * * * ] shall be $[ * * * ] for PET Products for 16.9oz Containers and $[ * * * ] for PET Products for 20oz Containers. 
+
+ d.
+ The Parties shall mutually agree on colorant charges not specified herein. 
+
+ e.
+ If requested by PCAM, Seller shall purchase [ * * * ] Buyers’ Annual, or mutually agreed Revised, Forecast, as the case may be, from such vendor and at such pricing as may be
+designated by PCAM, in which event [ * * * ] shall be substituted for the above [ * * * ]. 
+
+[ * * * ] Confidential treatment requested. 
+
+Page 37 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+ •
+
+Seller [ * * * ] for Buyers’ requirements from [ * * * ] and at pricing designated by PCAM, except where mutually agreed otherwise. [ * * * ] inclusive of [ *
+* * ] shall be a pass-through. 
+
+ •
+
+Pricing for new packages and products [ * * * ] new Seller or Buyer filling locations to be mutually agreed and determined. 
+
+ •
+
+Conversion values based upon packages with 28mm PCO finish (except 1L and 3L). 
+
+ •
+
+[ * * * ] bottles will have a $[ * * * ] to the conversion value listed above. Costs for other new package designs or initiatives to be mutually agreed prior to
+commercialization based upon a number of factors including but not limited to weight, cycle time, productivity levels, warehousing requirements, line changeovers and capital investment requirements. 
+
+ •
+
+Buyer agrees to [ * * * ] Seller for [ * * * ] pursuant to Section 10.8 above. 
+
+ •
+
+The 2009 Container pricing above assumes Schedule B supply designated “2009 Periods 1-6 Only Packages” (the “2009-Only Supply”)
+will be [ * * * ] million Containers +/- [ * * * ]. 
+
+ •
+
+In the event actual 2009-Only Supply is below [ * * * ] Containers, Buyers shall make Seller a Q1 2010 [ * * * ] per [ * * * ] Containers equal to the product of
+(a) full-year 2009 Containers shipments and (b) [([ * * * ] minus actual 2009 Periods 1-6 Only volume) divided by [ * * * ]] x [ * * * ]. For example if full-year 2009 Container shipments = [ * * * ], and 2009 Periods 1-6
+Only volume = [ * * * ]: 
+
+[ * * * ] minus [ * * * ] = [ * * * ] 
+ 
+[ * * * ] divided by [ * * * ] = [ * * * ] 
+ 
+[ * * * ] x [ * * * ] = [ * * * ] 
+ 
+Buyer [ * * * ] to Seller = [ * * * ] x [ * * * ] = [ * * * ] 
+
+ •
+
+In the event actual 2009-Only Supply is above [ * * * ] Containers, Seller shall make Buyers a Q1 2010 [ * * * ] per [ * * * ] Containers equal to the product of
+(a) full-year 2009 Container shipments and (b) [(Actual 2009 Periods 1-6 Only volume less [ * * * ]) divided by [ * * * ]] x [ * * * ]. For example if full-year 2009 Container shipments = [ * * * ] and 2009 Periods 1-6 Only
+volume = [ * * * ]: 
+
+[ * * * ] minus [ * * * ] = [ * * * ] 
+ 
+[ * * * ] divided by [ * * * ] = [ * * * ] 
+ 
+[ * * * ] x [ * * * ] = [ * * * ] 
+ 
+Seller [ * * * ] to Buyer = [ * * * ] x [ * * * ] = [ * * * ] 
+
+[ * * * ] Confidential treatment requested. 
+
+Page 38 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+ •
+
+In the event tooling constraints preclude Seller from supplying all Containers constituting the 2009-Only Supply, PCAM will use commercially reasonable efforts to
+extend the duration of the 2009-Only Supply beyond P6 2009 if necessary for Seller to supply the targeted [ * * * ] Containers +/- [ * * * ]. 
+
+ •
+
+PepsiAmericas Caribbean shipment have the following non-returnable dunnage charges in addition to the schedules pricing above: 
+
+[ * * * ] Containers [ * * * ] based on [ * * * ] pallets/ocean container 
+ 
+[ * * * ] Containers [ * * * ] based on [ * * * ] pallets/ocean container 
+ 
+[ * * * ] Preforms [ * * * ]
+based on [ * * * ] preforms/gaylord & [ * * * ] gaylords/ocean container 
+ 
+[ * * * ] Preforms [ * * * ] based on [ * * * ]
+preforms/gaylord & [ * * * ] gaylords/ocean container 
+
+ •
+
+Finish for Container and Preforms to be current 1810 PCO or unified industry standard (i.e. 1881) with any royalties or fees on a pass-through basis.
+
+ •
+
+With appropriate indemnification, performance and processing language, Seller agrees to execute the universal base for new molds supporting Buyers’ volume.
+Timing and execution strategy to be mutually agreed. 
+
+[ * * * ] Confidential treatment requested. 
+
+Page 39 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+SCHEDULE D 
+ 
+LABEL AND LABEL APPLICATION PRICES FOR CONTAINERS 
+ 
+(Pricing Per One Thousand Containers)
+
+Size
+
+[ * * * ]
+
+Label
+Application
+
+12oz
+
+ Pepsi Matrix Pricing
+ 
+ [ * * * ]
+
+14oz
+
+ Pepsi Matrix Pricing
+ 
+ [ * * * ]
+
+16oz
+
+ Pepsi Matrix Pricing
+ 
+ [ * * * ]
+
+16.9oz
+
+ Pepsi Matrix Pricing
+ 
+ [ * * * ]
+
+20oz
+
+ Pepsi Matrix Pricing
+ 
+ [ * * * ]
+
+24oz
+
+ Pepsi Matrix Pricing
+ 
+ [ * * * ]
+
+1L
+
+ Pepsi Matrix Pricing
+ 
+ [ * * * ]
+
+1.5L
+
+ Pepsi Matrix Pricing
+ 
+ [ * * * ]
+
+2L
+
+ Pepsi Matrix Pricing
+ 
+ [ * * * ]
+
+3L
+
+ Pepsi Matrix Pricing
+ 
+ [ * * * ]
+
+[ * * * ] Confidential treatment requested. 
+
+Page 40 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+SCHEDULE E 
+ 
+EXAMPLES OF DETERMINING PRICE CHANGE 
+ 
+DUE TO CHANGE IN RESIN PRICING 
+
+An example of the calculation used for determining price changes based on resin cost changes is as follows: 
+ 
+Bottle price change per 1,000 containers = A minus B where, 
+
+ A =
+ 
+ New Actual Resin Cost = [ (Bottle Gram Weight X 1000) ÷ 453.6 ] x (New Resin Cost in Cents/Pound)
+
+ B =
+ 
+ Current Actual Resin Cost = [ (Bottle Gram Weight X 1000) ÷ 453.6 ] x (Current Resin Cost in Cents/Pound)
+
+The above formula is illustrated for a [ * * * ] gram, 2-liter bottle at [ * * * ] resin decrease
+change as follows: 
+
+Price Change per
+ 
+Thousand Containers
+
+ =
+ 
+ A minus B
+
+ where A
+ 
+ =
+ 
+ [ * * * ]
+
+ =
+ 
+ [ * * * ]
+
+ and where B
+ 
+ =
+ 
+ [ * * * ]
+
+ =
+ 
+ [ * * * ]
+
+ so that A minus B
+ 
+ =
+ 
+ [ * * * ]
+
+ =
+ 
+ [ * * * ]
+
+[ * * * ] Confidential treatment requested. 
+
+Page 41 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+SCHEDULE F 
+ 
+SECONDARY PACKAGING INFORMATION 
+ 
+CONTAINERS 
+
+Size
+
+Type
+
+Bottles/ Layer
+
+Layers/
+ 
+Pallet
+
+Bottles/
+ 
+Pallet
+
+# Straps
+
+# Tier Sheets
+
+Stretch
+ 
+Wrap
+
+ 12oz
+ 
+ All
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ 4 to 6
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+ 14oz
+ 
+ All
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ 4 to 6
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+ 16oz
+ 
+ All
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ 4 to 6
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+ 16.9oz
+ 
+ Citrus
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ 4 to 6
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+ 16.9oz
+ 
+ Prius
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ 4 to 6
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+ 16.9oz
+ 
+ Global Swirl & Other
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ 4 to 6
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+ 20oz
+ 
+ Glisten
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ 4 to 6
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+ 20oz
+ 
+ Global Swirl AQF/FS
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ 4 to 6
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+ 20oz
+ 
+ All Other 20oz
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ 4 to 6
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+ 24oz
+ 
+ All
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ 4 to 6
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+ 1L
+ 
+ All
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ 4 to 6
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+ 1.5L
+ 
+ All
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ 4 to 6
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+ 2L
+ 
+ All
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ 4 to 6
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+ 3L
+ 
+ All
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ 4 to 6
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+
+PREFORMS 
+
+Seller
+ 
+ID
+
+Weight
+
+Finish
+
+Preforms/ Gaylords
+
+Gaylords/
+ 
+Truckload
+
+Gaylord Type
+
+Gaylords LxWxH
+
+ NA
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ Bulk Box
+ 
+ 48x40x46
+
+ 1271
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ Bulk Box
+ 
+ 48x40x46
+
+ 1176
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ Bulk Box
+ 
+ 48x40x46
+
+ 1260
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ Bulk Box
+ 
+ 48x40x46
+
+ 1238
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ Bulk Box
+ 
+ 48x40x46
+
+ 1161
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ Bulk Box
+ 
+ 48x40x46
+
+ 1175
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ Bulk Box
+ 
+ 48x40x46
+
+ 1174
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ Bulk Box
+ 
+ 48x40x46
+
+ 1235
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ Bulk Box
+ 
+ 48x40x46
+
+ 1220
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ Bulk Box
+ 
+ 48x40x46
+
+ 1157
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ Bulk Box
+ 
+ 48x40x46
+
+ 1140
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ Bulk Box
+ 
+ 48x40x46
+
+ 1184/1162
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ [ * * * ]
+ 
+ Bulk Box
+ 
+ 48x40x46
+
+ •
+
+All Contract Prices are inclusive of stretch wrap, wood top frame and plastic pallet. 
+
+ •
+
+Plastic Pallet Size = 56” x 44” x 4.5” 
+
+ •
+
+All truckloads contain [ * * * ] pallets unless mutually agreed otherwise. 
+
+ •
+
+Bottles/Pallet for non-PepsiCo, Inc. brand bottles are subject to change based on package and plant configurations. 
+
+ •
+
+Number of straps ranges from 4 to 6 depending on plant and shipping distance. 
+
+ •
+
+Preform weights represent Seller averages across all production sites and are subject to update by mutual agreement. 
+
+[ * * * ] Confidential treatment requested. 
+
+Page 42 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+ •
+
+The parties shall work together to standardize gaylords as well as maximize Preform truckload volumes. 
+
+[ * * * ] Confidential treatment requested. 
+
+Page 43 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+SCHEDULE G 
+ 
+[ * * * ] CALCULATIONS 
+ 
+An example of the calculation used for determining [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+
+ [ * * * ]
+ 
+ [ * * * ]
+
+[ * * * ] Confidential treatment requested. 
+
+Page 44 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+SCHEDULE H 
+ 
+[ * * * ] FACTORS 
+ 
+Buyers shall pay Seller [ * * * ] consisting of a base [ * * * ]
+throughout the Term, plus an additional [ * * * ] (“Additional [ * * * ] Surcharge”) and/or Buyer [ * * * ] (“Buyer [ * * * ]”) for the following [ * * * ]: 
+
+ •
+
+[ * * * ] 
+
+ •
+
+[ * * * ] 
+
+ •
+
+[ * * * ] 
+
+During Q1 2009, Seller
+shall provide PCAM with detail, to PCAM’s satisfaction, of the [ * * * ] for (a) [ * * * ] and (b) [ * * * ]. At Seller’s request, a mutually agreed independent third party shall be retained to validate such [ * * * ], and the
+parties shall equally share the cost of such validation. 
+ 
+At PCAM’s reasonable request, but at minimum once per calendar quarter
+during the Term, Seller shall calculate [ * * * ] during the preceding calendar quarter [ * * * ], and advise PCAM of such. 
+ 
+There shall be
+no [ * * * ]. There shall be no [ * * * ]. 
+ 
+If [ * * * ], Buyers shall pay [ * * * ]. 
+ 
+If [ * * * ], Seller shall pay [ * * * ]. 
+ 
+The parties shall remit estimated [ * * * ] per the mechanisms described above on a quarterly basis. Such estimated remissions in Q1 and Q2 2009 shall be based on a comparison of [ * * * ]. During the subsequent duration of the Term, such
+estimated remissions shall be based on the [ * * * ]. Actual remissions due shall be reconciled to estimated remissions paid, in January 2010, 2011 and 2012, in each case for the preceding 12 months. 
+ 
+PCAM may, at its sole expense, independently audit and/or verify [ * * * ] through a mutually agreed independent third party. 
+
+[ * * * ] Confidential treatment requested. 
+
+Page 45 of 46 
+
+ Supply Agreement
+ 
+ CONFIDENTIAL
+
+SCHEDULE I 
+ 
+[ * * * ] CALCULATION 
+ 
+[ * * * ] CALCULATION APPENDIX 
+ 
+TRUCKLOAD EFFECTIVE <INSERT DATE> 
+ 
+1. [ * * * ] Requirements
+
+a. [ * * * ] factors shall be based on the [ * * * ]. (Said information is currently available [ * * * ].) 
+ 
+b. [ * * * ]. For [ * * * ], the CARRIER, at its discretion, may [ * * * ]. For [ * * * ], a [ * * * ]. When [ * * * ], the CARRIER, at its discretion,
+may [ * * * ]. <Insert Supplier name> will use [ * * * ]. [ * * * ]. 
+ 
+c. This agreement applies to [ * * * ]. In the event the [ * *
+* ]. 
+ 
+d. Disposition of fractions—Whenever [ * * * ]. 
+ 
+e. [ * * * ]. 
+ 
+2. [ * * * ] Schedule: 
+ 
+If the [ * * * ] then the applicable [ * * * ] is: 
+ 
+[ * * * ] 
+ 
+Scale continues at appropriate brackets 
+ 
+SHIPPER reserves the right to change and/or cancel this [ * * * ] appendix at any time. CARRIER will be
+given at least [ * * * ] written notice of any such action. 
+
+ CARRIER:
+
+ SUPPLIER
+
+ By:
+
+ By:
+
+(Signature)
+
+ (Signature)
+
+ Title:
+
+ Title:
+
+[ * * * ] Confidential treatment requested. 
+
+Page 46 of 46

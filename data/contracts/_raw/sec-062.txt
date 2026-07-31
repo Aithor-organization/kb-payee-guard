@@ -1,0 +1,392 @@
+<DOCUMENT>
+<TYPE>EX-10
+<SEQUENCE>3
+<FILENAME>iec10kex10-64.txt
+<DESCRIPTION>EX-10.64 VIVENDI DISTRIBUTION AGREEMENT #4
+<TEXT>
+                                                                   EXHIBIT 10.64
+
+December 20, 2002
+
+Interplay Entertainment Corp.
+16815 Von Karman Avenue
+Irvine, CA  92606
+Attention: Chief Executive Officer
+Attention: Legal Department
+
+         Re:     LETTER AGREEMENT AND AMENDMENT #4 (OEM & BACK-CATALOG) TO VIDEO
+                 GAME DISTRIBUTION AGREEMENT DATED AUGUST 9, 2002.
+
+
+Dear Sir or Madam:
+
+     This letter will serve as the fourth amendment  ("AMENDMENT #4") to confirm
+the  agreements we have reached in connection  with the Video Game  Distribution
+Agreement dated August 9, 2002,  between Vivendi  Universal Games,  Inc. ("VUG")
+and Interplay Entertainment Corp.  ("INTERPLAY"),  as amended by (i) that Letter
+of Intent  dated  August 9, 2002 (the  "LOI"),  (ii) that Letter  Agreement  and
+Amendment  #2 dated  August 29,  2002  ("AMENDMENT  #2"),  and (iii) that Letter
+Agreement and Amendment dated September 12, 2002 ("AMENDMENT #3") (collectively,
+the "NEW DISTRIBUTION  AGREEMENT").  The provisions contained herein shall serve
+to amend the New  Distribution  Agreement only as stated  herein,  and all other
+terms and conditions  contained in those  agreements  shall remain in full force
+and effect.  All capitalized  terms used herein and not otherwise  defined shall
+have the meaning ascribed to them in the New Distribution Agreement.
+
+1.   ADDITION OF OEM RIGHTS TO THE NEW DISTRIBUTION AGREEMENT.
+
+     i.   GRANT OF OEM RIGHTS.  Subject to the terms of this  Amendment  #4, and
+          notwithstanding  anything  to the  contrary  in the  New  Distribution
+          Agreement,  VUG's License  under  SECTION 2.1 of the New  Distribution
+          Agreement shall hereby be modified to include OEM Rights for the Term.
+          "OEM  RIGHTS"  shall  mean the right to  authorize  third  parties  to
+          distribute Partner Products with third-party software (for purposes of
+          being bundled with  third-party  hardware) and/or hardware in the form
+          of a single  combined  product  (which  shall be  deemed  to  include,
+          without  limitation,  a sale of the  Partner  Product  to an  original
+          hardware  purchaser on a one-time basis within a reasonable time after
+          the purchase of such hardware - i.e., "soft bundles") and selling such
+          combined products within the Licensed Territory (as such definition is
+          modified below for OEM Rights  purposes),  and as a premium to augment
+          the   value   of   non-computer   related   products   and   so-called
+          "covermounts",  or as  otherwise  may  be  approved  by  Interplay  in
+          writing.  OEM Rights  transactions shall hereinafter be referred to as
+          "OEM  TRANSACTIONS";   and  OEM  Transactions  that  are  approved  by
+          Interplay in accordance with PARAGRAPH 1.VIII below shall  hereinafter
+          be referred to as "APPROVED OEM TRANSACTIONS".
+
+
+***  Terms  represented  by  this  symbol  are  considered  confidential.  These
+confidential  terms  have been  omitted  pursuant  to a  Confidential  Treatment
+Request filed with the Securities and Exchange  Commission ("SEC") and have been
+filed separately with the SEC.
+
+
+<PAGE>
+
+
+          For purposes of  clarification,  (i) the OEM Rights shall not include,
+          and Interplay hereby expressly reserves,  all rights to distribute the
+          Partner Products for use on any coin-operated or token-operated or pay
+          per  play  arcade,  location  based or other  amusement  devices,  any
+          electronic transmission rights (including,  without limitation, cable,
+          the  internet  and any on-line  services),  and  merchandising  rights
+          (including,  without  limitation,  toys  and  motion  pictures),  (ii)
+          Interplay shall maintain the right to directly authorize Sony (and any
+          other Game  Hardware  Platform  Licensors  with respect to any similar
+          bundling  products which they may create) to distribute and bundle for
+          retail  and  direct-to-consumer  sales  Partner  Products  in its "Jam
+          Packs",  and  Interplay  maintains  the right to receive all  proceeds
+          therefrom,  and (iii) Interplay maintains the right to all proceeds in
+          connection  with and for the  duration of any and all deals  involving
+          OEM Rights that exist as of the date of this Amendment #4.
+
+     ii.  "PARTNER  PRODUCTS"  REDEFINED FOR PURPOSES OF OEM RIGHTS.  Solely for
+          purposes of and with respect to OEM Rights,  the definition of Partner
+          Products is hereby  amended to include all computer  and/or video game
+          software products  developed by or on behalf of Interplay and to which
+          (and to the  extent  to  which  and for the term of  which)  Interplay
+          possesses OEM Rights to such product.  For purposes of  clarification,
+          and subject to the restrictions herein, VUG's OEM Rights shall include
+          rights to Interplay's  "back-catalog"  products, as well as to all new
+          Partner  Products  delivered  under  the New  Distribution  Agreement.
+          Unless  otherwise  required by any OEM deal existing as of the date of
+          this Amendment #4 (e.g., an OEM licensee's  unilateral right to extend
+          the term of their OEM license),  Interplay hereby agrees not to extend
+          the terms of any OEM deals  existing as of the date of this  Amendment
+          #4, without VUG's written consent in VUG's sole discretion.
+
+     iii. INTERPLAY'S  "RESERVED  RIGHTS" AMENDED.  The last sentence of SECTION
+          2.6 of  the  New  Distribution  Agreement  is  hereby  deleted  in its
+          entirety.
+
+     iv.  OEM TERM. For purposes of clarification,  the Term of VUG's OEM Rights
+          license  shall  coincide  with  the  Term  of  the  New   Distribution
+          Agreement.
+
+     v.   OEM  TERRITORY.  Solely for  purposes  of and with  respect to the OEM
+          Rights,   VUG  shall  have  the  right  to  enter  into  Approved  OEM
+          Transactions with third parties located within the Licensed Territory,
+          regardless  of the  geographic  location  of the  distribution  of the
+          bundled Partner Products (subject,  of course, to Interplay's approval
+          rights in PARAGRAPH 1.VIII below, any OEM licenses  existing as of the
+          date of this  Amendment  #4 which  would  prohibit  the  proposed  OEM
+          Transaction in any non-North  American  territory,  and any applicable
+          Third  Party  License   restrictions   and/or  Third  Party   Licensor
+          consents).  For example,  and subject to the terms  herein,  VUG shall
+          have the right to enter into an Approved OEM Transaction with Dell USA
+          for bundled  distribution  of a Partner  Product on a worldwide  basis
+          (subject to any existing  rest-of-world  OEM licenses);  however,  VUG
+          would  not have the right to enter  into such a deal with  Dell-Europe
+          because  the  contract  would not be entered  into  between  VUG and a
+          United States-based entity.
+
+
+***  Terms  represented  by  this  symbol  are  considered  confidential.  These
+confidential  terms  have been  omitted  pursuant  to a  Confidential  Treatment
+Request filed with the Securities and Exchange  Commission ("SEC") and have been
+filed separately with the SEC.
+
+                                       2
+
+
+<PAGE>
+
+
+
+     vi.  LANGUAGE  REQUIRED TO BE  INCLUDED  IN VUG'S OEM DEALS.  VUG shall use
+          commercially  reasonable  good-faith efforts include substantially the
+          following language in all OEM contracts with third parties:  "If VUG's
+          publisher/licensor  discontinues developing,  producing, licensing, or
+          distributing  the licensed  product(s) and requires VUG to do the same
+          or if  VUG's  publisher/licensor  modifies,  replaces  or  adds to the
+          licensed  product(s) at any time, a mutually agreed upon  substitution
+          will be made and if the parties cannot agree to a substitution in good
+          faith this agreement may be terminated."
+
+     vii. OEM DEALS ARE SUBJECT TO INTERPLAY'S  THIRD PARTY  LICENSOR  APPROVAL.
+          For purposes of clarification and without limitation, VUG's OEM Rights
+          shall be subject to all applicable Third Party Licensors'  consents as
+          provided in SECTION 2.8 of the New Distribution Agreement.
+
+     viii.OEM   APPROVAL   PROCEDURE.   With   respect  to  each   proposed  OEM
+          Transaction,  VUG shall  transmit to Interplay for review and approval
+          (which approval  Interplay shall not unreasonably  withhold or delay),
+          in  substantially  in the form attached hereto as ATTACHMENT 1 (or any
+          similar OEM form  customarily  utilized by VUG, subject to Interplay's
+          reasonable  approval thereof) (an "OEM SPEC SHEET"),  a summary of the
+          proposed OEM Transaction  along with such  additional  information and
+          materials as may  reasonably be requested by Interplay to evaluate the
+          proposed  OEM  Transaction.  Interplay  shall use its best  efforts to
+          either  approve  or reject in writing  the  proposed  OEM  Transaction
+          within *** business  days (subject to extension for the length of time
+          it takes  Interplay  to obtain any  applicable  Third  Party  Licensor
+          consent) following receipt of an OEM Spec Sheet; provided, however, in
+          no event shall a proposed OEM Transaction be deemed  approved  without
+          VUG's  receipt of an OEM Spec Sheet  approved in writing by Interplay.
+          In the event an OEM Spec Sheet is so approved by Interplay,  Interplay
+          agrees  to  deliver  to VUG  the  gold  master  disc  of  the  Partner
+          Product(s) named therein (and any required Related Assets specified in
+          the OEM Spec Sheet) in accordance with the provisions of the proposal,
+          and VUG shall  take  commercially  reasonable  efforts  to  negotiate,
+          prepare and execute a definitive agreement (a "BUNDLING AGREEMENT") on
+          such approved terms with such customer.
+
+2.   ADDITION  OF  CERTAIN  "BACK-CATALOG"  PRODUCTS  TO  THE  NEW  DISTRIBUTION
+     AGREEMENT.
+
+     i.   SECTION 3 of  EXHIBIT  B to the New  Distribution  Agreement  shall be
+          modified by adding the following  Partner  Products (the "BACK CATALOG
+          PARTNER PRODUCTS") to the New Distribution Agreement:
+
+
+***  Terms  represented  by  this  symbol  are  considered  confidential.  These
+confidential  terms  have been  omitted  pursuant  to a  Confidential  Treatment
+Request filed with the Securities and Exchange  Commission ("SEC") and have been
+filed separately with the SEC.
+
+                                       3
+
+
+<PAGE>
+
+
+      TITLE        Platform:          Submission  Date(s)         Approved Gold
+                                      for delivery of the        Master Delivery
+                                        Gold Candidate:               Date:
+--------------------------------------------------------------------------------
+
+***                   PC                    N/A                       N/A
+
+
+******                PC                    N/A                       N/A
+
+
+
+***                   PC                    N/A                       N/A
+
+
+
+***                   PC                    N/A                       N/A
+
+
+
+***                   PC                    N/A                       N/A
+
+
+
+***                   PC                    N/A                       N/A
+
+
+
+***                   PC                    N/A                       N/A
+
+
+
+***                   PC                    N/A                       N/A
+
+
+--------------------------------------------------------------------------------
+
+
+     ii.  NO VUG DEVELOPMENT APPROVALS REQUIRED.  VUG acknowledges that the Back
+          Catalog Partner Products have previously been  commercially  released,
+          and shall be deemed to be Approved Gold Masters (and  therefore  shall
+          not be subject to VUG's  approval  rights  under  SECTION 3 of the New
+          Distribution Agreement).
+
+     iii. SELL-OFF  TO  CONTINUE  UNDER  OLD  DISTRIBUTION  AGREEMENT.  VUG  and
+          Interplay agree that VUG shall be entitled to continue to sell off any
+          existing  inventory of the Back Catalog Partner Products which VUG may
+          have in its possession as of December 31, 2002 in accordance  with the
+          sell-off  provisions and under the terms of that certain  Distribution
+          Agreement dated August 23, 2001, as amended, between VUG and Interplay
+          (the "OLD DISTRIBUTION  Agreement").  All newly-manufactured  units of
+          the Back Catalog Partner  Products sold by VUG shall be subject to the
+          New Distribution Agreement, as amended by this Amendment #4.
+
+
+***  Terms  represented  by  this  symbol  are  considered  confidential.  These
+confidential  terms  have been  omitted  pursuant  to a  Confidential  Treatment
+Request filed with the Securities and Exchange  Commission ("SEC") and have been
+filed separately with the SEC.
+
+                                       4
+
+
+<PAGE>
+
+
+     iv.  BACK CATALOG PARTNER  PRODUCTS ARE SUBJECT TO INTERPLAY'S  THIRD PARTY
+          LICENSOR   APPROVAL.   For  purposes  of  clarification   and  without
+          limitation,  VUG's  right  to  distribute  the  Back  Catalog  Partner
+          Products  (as  compilations  or  otherwise)  shall be  subject  to all
+          applicable Third Party Licensors'  consents as provided in SECTION 2.8
+          of the New  Distribution  Agreement.  In the event that any applicable
+          Third Party Licensor's  consent cannot be obtained with respect to any
+          Back Catalog Partner  Products,  Interplay shall  substitute for VUG's
+          benefit another mutually agreeable Interplay  "back-catalog"  product.
+          In addition, Interplay hereby agrees to work in good faith with VUG to
+          add additional  VUG-requested Interplay "back-catalog" products to the
+          Back Catalog Partner Products for distribution by VUG hereunder.
+
+3.   The following provisions shall be added to SECTION 4 of EXHIBIT B:
+
+     "OEM AND BACK-CATALOG  MINIMUM GUARANTEE.  VUG shall,  immediately upon the
+     complete  execution of this  Amendment  #4, pay  Interplay a total  Minimum
+     Guarantee  with  respect  to the OEM Rights  and the Back  Catalog  Partner
+     Products in the amount of ***(the "OEM/BACK-CATALOG MINIMUM GUARANTEE).
+
+     "OEM  DISTRIBUTION  FEE  MODIFIED.  Solely  with  respect to  Approved  OEM
+     Transactions,  VUG's  Distribution  Fee shall be  ***percent  (***%) of Net
+     Sales.  Solely for purposes of the Approved OEM  Transactions,  "Net Sales"
+     shall mean all monies actually received by VUG from OEM Transactions,  less
+     only  ***costs  of the  Partner  Products  duplicated  by VUG.  ***().  For
+     purposes  of  clarification,  VUG shall not take a General  Reserve  or any
+     deductions other than ***in calculating  Interplay Proceeds with respect to
+     Approved OEM Transactions."
+
+     "GENERAL RESERVE MODIFIED FOR "BACK CATALOG PARTNER PRODUCTS".  Solely with
+     respect to Back Catalog Partner Products, in calculating Interplay Proceeds
+     VUG's General  Reserve shall be  ***Percent  (***%),  rather than ***% (and
+     SECTION 3 of EXHIBIT A is hereby modified accordingly."
+
+     The remainder of SECTION 4 of EXHIBIT B shall be unchanged in all aspects.
+
+4.   SECTION 1.3 of EXHIBIT A and SECTION  20.14 are modified as follows  solely
+     with respect to OEM Transactions and Back Catalog
+
+     Partner Products:
+
+     i.   RECOUPMENT.  Notwithstanding  anything  to the  contrary  in  the  New
+          Distribution Agreement,  the OEM/Back-Catalog  Minimum Guarantee shall
+          be recoupable  only from  Interplay  Proceeds with respect to Approved
+          OEM  Transactions and sales of Back Catalog Partner  Products,  and as
+          follows:  unless and until VUG  recoups the  OEM/Back-Catalog  Minimum
+          Guarantee,  VUG shall be entitled  to deduct  ***% from the  Interplay
+          Proceeds with respect to Approved OEM  Transactions  and sales of Back
+          Catalog Partner Products.
+
+
+***  Terms  represented  by  this  symbol  are  considered  confidential.  These
+confidential  terms  have been  omitted  pursuant  to a  Confidential  Treatment
+Request filed with the Securities and Exchange  Commission ("SEC") and have been
+filed separately with the SEC.
+
+
+                                       5
+
+
+<PAGE>
+
+
+     ii.  CROSS-COLLATERALIZATION.  Interplay expressly  acknowledges and agrees
+          that until such time as VUG has fully  recouped  the  OEM/Back-Catalog
+          Minimum  Guarantee,  VUG shall  have the right to  withhold  Interplay
+          Proceeds  with respect to all Approved OEM  Transactions  as a set-off
+          against  VUG's  obligation  to pay  Interplay  Proceeds  in respect of
+          Back-Catalog Partner Products (and vice-versa).
+
+5.   GOOD FAITH EFFORTS.  VUG and Interplay agree to work together in good faith
+     to carry out the intent of this  Amendment  #4, and the parties  shall work
+     together  to  modify  any  remaining  provisions  of the  New  Distribution
+     Agreement to the extent reasonably necessary for purposes of the OEM Rights
+     and Back Catalog Partner Products.
+
+If you agree to the  provisions  set forth in this letter  agreement,  please so
+indicate by signing the  enclosed  copy and  returning  it to me via  facsimile,
+followed by an original copy in the mail. As stated herein, nothing contained in
+this letter shall affect the terms and conditions stated in the New Distribution
+Agreement, except as specifically stated herein.
+
+                                            Sincerely yours,
+
+
+                                            /s/ Phil O'Neil
+                                            -----------------------------------
+                                            Phil O'Neil
+                                            President, Partner Publishing Group
+                                            Vivendi Universal Games, Inc.
+
+I agree to the provisions of this letter agreement.
+
+
+           12/20/02                          /s/ Gary Dawson
+Dated: ________________                     ____________________________________
+                                      Name:  Gary Dawson
+                                     Title:  Chief Operating Officer
+
+
+***  Terms  represented  by  this  symbol  are  considered  confidential.  These
+confidential  terms  have been  omitted  pursuant  to a  Confidential  Treatment
+Request filed with the Securities and Exchange  Commission ("SEC") and have been
+filed separately with the SEC.
+
+                                       6
+
+
+<PAGE>
+
+
+                                  Attachment 1
+
+                                 OEM Spec Sheet
+
+
+
+
+
+
+
+
+
+
+***  Terms  represented  by  this  symbol  are  considered  confidential.  These
+confidential  terms  have been  omitted  pursuant  to a  Confidential  Treatment
+Request filed with the Securities and Exchange  Commission ("SEC") and have been
+filed separately with the SEC.
+
+                                       7
+
+</TEXT>
+</DOCUMENT>

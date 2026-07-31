@@ -1,0 +1,1708 @@
+EX-10.44
+2
+dex1044.htm
+LICENSE, DEVELOPMENT, SUPPLY & DISTRIBUTION AGREEMENT
+
+License, Development, Supply & Distribution Agreement
+
+Exhibit 10.44 
+ 
+** Certain information in this exhibit has been omitted and has been filed separately with the Securities and Exchange Commission pursuant to a confidential treatment request under Rule 24b-2 of the General Rules and Regulations under
+the Securities Exchange Act of 1934. 
+ 
+LICENSE, DEVELOPMENT, SUPPLY AND DISTRIBUTION AGREEMENT 
+ 
+This LICENSE, DEVELOPMENT, SUPPLY AND DISTRIBUTION AGREEMENT (this “Agreement”) is made and entered into as of December 11, 2006
+(“Effective Date”) by and between IMMUNICON CORPORATION, a Delaware corporation, having its principal office at 3401 Masons Mill Road, Suite 100, Huntingdon Valley, PA 19006 and its subsidiaries (collectively, “Immunicon”), and
+DIAGNOSTIC HYBRIDS, INC., an Ohio corporation, having its principal office at 350 West State St., Athens, OH 45701 (“DHI”). 
+
+ 1.
+ BACKGROUND 
+
+1.0 Immunicon has expertise and certain
+proprietary technology relating to cell enrichment, isolation and analysis systems, including fluorescence assay instrumentation, reagents and assays for the isolation and detection and diagnosis of certain disease states of mammalian and other
+cells or cellular components in tissue, blood or other body fluids, and Immunicon has intellectual property including certain patents and know-how pertaining to such proprietary technology. 
+ 
+1.1 DHI has expertise in the development, marketing, distribution, and sales of products used in the detection of certain pathogens in mammalian cells and for the
+diagnosis of certain disease states relating thereto, has certain proprietary technology, including reagents, useful in such products, and has experience in regulatory matters relating to such products, and further DHI desires to obtain a license
+from Immunicon under Immunicon’s aforementioned patents and know-how in order to allow DHI to develop, market, distribute and sell new products, and to sell instrumentation supplied by Immunicon, based upon or utilizing Immunicon’s
+proprietary technologies. 
+ 
+1.2 Immunicon and DHI desire to collaborate in the development of products in the aforementioned areas utilizing their
+respective technologies and expertise, with the intent that such new products shall be developed and manufactured, in part by Immunicon and in part by DHI, and marketed and sold for in vitro diagnostic applications exclusively by DHI in the
+United States and Canada and their respective territories and possessions. In addition, the parties will use their respective best efforts to negotiate commercially reasonable terms and conditions, to be set forth in a separate written agreement,
+with respect to marketing and sale of such products in all other countries in the manner, and subject to the provisions, of Section 7.2.3 below. 
+
+1 
+
+ 2.
+ DEFINITIONS 
+
+As used herein, the following terms shall have
+the respective meanings set forth below: 
+ 
+“Affiliate” of a party means any entity that directly or indirectly controls, is
+controlled by or is under common control with such party. “Control” (and, with correlative meanings, the terms “controlled by” and “under common control with”) means, in the case of a corporation, the ownership of fifty
+percent (50%) or more of the outstanding voting securities thereof or, in the case of any other type of entity, an interest that results in the ability to direct or cause the direction of the management and policies of such party or the power
+to appoint fifty percent (50%) or more of the members of the governing body of the party, or if not meeting the preceding requirement, any company owned or controlled by or owning or controlling a party at the maximum control or ownership right
+permitted in the country where such party exists. 
+ 
+“Bulk Reagents” means quantities of Capture Reagents supplied by Immunicon to
+DHI under this Agreement, including all cartridges and other consumable accessories. 
+ 
+“Bulk Reagent Cost” means Immunicon’s
+fully loaded cost of Bulk Reagents manufactured by Immunicon, determined in accordance with GAAP. 
+ 
+“Calendar Year” means each
+twelve-month period commencing with January 1 and ending with December 31. 
+ 
+“Capture Reagent” means [************]
+having a [*******] and other [*******] capable of acting as a [************] for a Target Entity, such [*******] including, but not limited to, [*******], [******], [*****], [*******], or combinations thereof, and provided to DHI by Immunicon under
+this Agreement. 
+ 
+“Clinical Trial(s)” means human clinical testing as determined by the Management Board meeting regulatory
+requirements and ethical guidelines as may be specified in individual countries where clinical trials of Products will be conducted or where such trials will be used to seek approval under Regulatory Authority requirements to market, use and sell
+Products in such country. 
+ 
+“Clinical Trial Plan” means the pre-investigational device exemption (IDE) submitted to the FDA for
+approval prior to commencing a Clinical Trial for a Product. 
+ 
+“Commercial Period” means the period commencing upon the first date
+of receipt from the FDA of a pre-marketing clearance or approval for a Product. 
+ 
+“Commercialization Plan” means a plan which
+includes the identification of target markets, market sizes, sales and marketing strategies and tactics to achieve Forecasts for Products and Instrument Systems under this Agreement. 
+ 
+“Confidential Information” means (i) any proprietary or confidential information or other material in a tangible form that is marked as
+“confidential” at the time it is delivered to the receiving party thereof, or (ii) proprietary or confidential information disclosed orally that is identified as confidential or proprietary when disclosed and such disclosure is
+confirmed in writing to the receiving party as confidential or proprietary by the disclosing party within thirty (30) days following disclosure. 
+
+2 
+
+“Detection Reagent” means [*******] or [*********] conjugated with [*******], [******],
+[*********] or other labels capable of providing a detectable response to the presence of a Target Entity captured by a Capture Reagent and detected using an Instrument System. 
+ 
+“DHI [******] and [*************]” means all [*******] owned by or licensed [******] which Immunicon [*********] are [**********] in order for
+it to make [********] for use in accordance with this Agreement, which [*********] will be provided by DHI to Immunicon in accordance with this Agreement. 
+ 
+“FDA” means the United States Food and Drug Administration, or any successor body. 
+ 
+“Field” means the in vitro application of Instrument Systems for the diagnosis or monitoring of Target Entities for the Infectious Diseases identified in Exhibit A in humans solely by detection of [*******] or [*********]
+and/or [*********] ([*************]) utilizing Products. For the resolution of doubt but not in limitation, the Field shall not include [********], [*******] or [**********] or [********] conditions; applications or analysis involving [********]
+circulating in blood, [*********], [*********], or [********]; [************], [*******] or [********]; [************], [********] or [******]; [**********] for [*******]; analysis of [****] taken by [*********]; [************], [*******] or
+[*******]; [***********]; [*********] or [**********] for assessing [**********]; applications involving [************] or other [**************] techniques; or applications involving [*************] techniques. 
+ 
+“GAAP” means U.S. generally accepted accounting principles consistently applied. 
+ 
+“Infectious Disease” means a disease state characterized by the presence of one or more viruses or bacteria in, on or from the body of a human
+being. 
+ 
+“Initial Feasibility” means demonstrating proof of principle with respect to the Initial Product(s) in accordance with a
+feasibility plan approved by the Management Board (“Feasibility Plan”), using prototype reagents and existing laboratory tools, including but not limited to the Immunicon CellTracks® Analyzer II. It is anticipated that the Management Board, in determining whether
+Initial Feasibility has been achieved with respect to a Product, will consider such factors as sensitivity, specificity, agreement to predicate device methods, and other key performance characteristics defined as Marketing Essential Characteristics,
+as indicative of potential success in the relevant marketplace for Products. 
+ 
+“Initial Feasibility Period” means the period prior
+to Product Development for conducting targeted research and demonstrating Initial Feasibility. 
+ 
+“Instrument System” or
+“Instrument Systems” means a cell counting device, with non-consumable ancillary accessories and related components and software, that is capable of presenting, characterizing, and counting cells, and providing processed
+diagnostic information sufficient for detecting the [****************] through the use of [*******]. By way of example but not limitation, an Instrument System contemplated at the Effective Date of this Agreement includes the Immunicon
+EasyCount™ System together with related components and software, as 
+
+3 
+
+the same may be improved, modified, updated or superceded from time to time. In addition, if Immunicon has another instrument platform in addition to
+the Easy Count System that may be suitable for use as an Instrument System in the Field utilizing Products, it shall bring the same to the attention of the Management Board, and the Management Board shall determine the suitability of such other
+platform for use as an Instrument System in the Field utilizing Products. If a decision is taken by the Management Board to undertake a Project Plan for the use of such other platform for such purpose, DHI and Immunicon shall negotiate in good faith
+commercially reasonable terms and conditions, to be set forth in a separate written agreement, for the sharing of costs associated with such Project Plan. Immunicon at its sole discretion shall determine the suitability of the Immunicon
+CellTracks® Analyzer II System for use as an
+Instrument System in the Field utilizing Products, and if a decision is taken to undertake a Project Plan for the use of the CellTracks® Analyzer II System for such purpose, DHI and Immunicon shall negotiate in good faith commercially reasonable terms and conditions, to be set forth in a
+separate written agreement, for the sharing of costs associated with such Project Plan. The Instrument System does not include Bulk Reagents. 
+ 
+“Instrument System Cost” means Immunicon’s standard cost of manufacturing an Instrument System, as determined in accordance with GAAP. 
+ 
+“Internal End User” means any Affiliate of DHI that is not in the business of reselling Products and whose use of such Products normally results in such Products’ consumption. 
+ 
+“Inventions” means the Patents and all inventions (patentable or otherwise), developments, designs, applications, improvements, formulae,
+concepts, ideas, Know-How, methods or processes, discoveries and techniques necessary or desirable for the development, manufacture, sale or distribution of or otherwise relating to Products, Bulk Reagents, Detection Reagents or Instrument Systems,
+whether owned as of the date hereof or hereafter acquired or licensed. 
+ 
+“In vitro diagnostic” or “IVD” means
+reagents and/or kits registered for ASR sale, cleared or approved by FDA via 510(K) or PMA process or an equivalent international regulatory process. 
+ 
+“Know-How” means any proprietary information including, without limitation, any trade secret, that is useful in any aspect of the development, use, manufacture or sale of Products or Instrument System and is
+not publicly known, disclosed or published, including, without limitation, all pre-clinical, clinical, chemical, biochemical, toxicological, analytical, manufacturing, process, formulation and scientific research information, whether or not capable
+of precise separate description but that alone or when accumulated give to the one acquiring it an ability to study, test, produce, formulate or market Products or Instrument Systems which one otherwise would not have known to study, test, produce,
+formulate or market in the same way. 
+ 
+“Management Board” means the body comprised of management representatives of Immunicon and
+DHI as described in Section 3 hereof. The responsibilities of the Management Board are set forth in Section 3.2. 
+ 
+“Marketing
+Essential Characteristics” means the set of properties, characteristics, and functional requirements that must be incorporated in or displayed by Products and Instrument Systems when combined to make them commercially acceptable in the market
+in which they are intended to be sold, consistent with the competitive positioning and proposed pricing of the Products and the Instrument Systems. 
+
+4 
+
+“Material Breach” means a failure of a party to perform an express covenant or obligation under
+this Agreement or a breach of a representation or warranty of a party which failure or breach has had or would reasonably be expected to have a material adverse financial consequence to the non-failing or non-breaching party. 
+ 
+“Patents” means (i) all U.S. and foreign patent applications and patents owned or licensed by Immunicon or any of its Affiliates or DHI or
+any of its Affiliates that have application in the Field; (ii) all U.S. and foreign patent applications and patents owned by Immunicon or DHI, or owned jointly by Immunicon and DHI, that claim inventions that have application in the Field and
+which are conceived or reduced to practice as part of a Project Plan; and (iii) all divisions, continuations, continuations-in-part, and substitutions thereof; and all extensions, reissues and re-examinations of any of the foregoing; in each
+case, wherein such patents or applications contain claims that would, but for the respective ownership of, or license to, Immunicon or DHI under clause (i), (ii) or (iii) above or licenses granted under this Agreement, be infringed by
+Immunicon’s or DHI’s respective activities under this Agreement. A list of the current Patents of Immunicon is attached to this Agreement as Schedule 2. 
+ 
+“Product(s)” means a kit consisting of one or more Detection Reagents, Bulk Reagents, consumable cartridges and other disposable items utilizing an Instrument System for the purpose of magnetic separation or
+another separation method for capture of Target Entities for the detection of a viral or bacterial microorganism in a Specimen that causes one or more of the Infectious Diseases identified as such in Exhibit A hereto and which performs to the
+specifications set forth in the Marketing Essential Characteristics therefor as determined by the Management Board, but which in any event shall demonstrate [************] to [************] for such Target Entities commercially available as of the
+Effective Date if such [***********] exist as of the Effective Date. The term “Initial Products” refers to the Products identified in Exhibit A hereto as Initial Products. 
+ 
+“Product Development” means activities conducted as described generally in Section 3 of this Agreement during the period following the
+Initial Feasibility Period, including advancing prototypes and design, transfer to manufacturing and preparing for commercialization of Initial Products and Instrument Systems for the clinical infectious disease market, under Project Plans as
+determined by the Management Board. Product Development activities shall include but not be limited to developing specific and sensitive capture and detection antibodies and/or other reagents for Target Entities for the Infectious Diseases
+identified in Exhibit A hereto, and preparing and submitting Clinical Trial Plans to the FDA for Products that meet the related Marketing Essential Characteristics. 
+ 
+“Project Plan” means the written summary, to be developed jointly by Immunicon and DHI, including the Initial Feasibility, Product Development and Product commercialization activities that are to be
+conducted by the parties as described in Section 3 of this Agreement, in order to develop and commercialize Products and Instrument Systems under this Agreement. A Project Plan shall be developed for each proposed Product and/or Family of
+Products hereunder. A Project Plan shall satisfy the process design control elements of DHI’s and Immunicon’s quality management systems. A Project Plan may be modified only in writing by the Management Board. 
+
+5 
+
+“RAP” means a reagent agreement, reagent rental or similar plan or arrangement wherein Products
+sold by DHI or an Affiliate are increased in price to include an amount to cover the amortized cost of an Instrument System, including maintenance costs, or other equipment (amortized over the useful life thereof) supplied to a customer of DHI or an
+Affiliate under an agreement with the customer to purchase the Product(s) at such increased price in order that the customer may have the use of such Instrument System and/or other equipment. 
+ 
+“Revenue” or “Revenues” means all of the income received by DHI or any of its Affiliates (other than Internal End Users) during a
+given period from the sale of Products to Third Parties, and income received by DHI from use of Products by Internal End Users, whether or not such income is recognized by DHI as revenue in accordance with standard DHI accounting procedures, less
+the following amounts: (i) discounts, including cash discounts, or rebates actually allowed or granted, (ii) credits or allowances actually granted upon claims or returns regardless of the party requesting the return, (iii) taxes or
+other governmental charges levied on or measured by the invoiced amount whether absorbed by the billing or the billed party. In the event that any Product is sold as a combination containing one or more other products, Revenue for such combination
+will be calculated by multiplying actual Revenue by the fraction A/(A+B) where A is the invoice price of the Product if sold separately, and B is the total invoice price of any other product or products in the combination if sold separately by DHI
+or any of its Affiliates (or if such other product or products are not sold separately then the standard costs of the Products and such other product or products shall be used); provided, however, that in no event shall such fraction be less than
+0.85. In the event that any Products are sold to Third Parties pursuant to a RAP, DHI shall reasonably determine that portion of the amount charged under the RAP that is attributable to Products in accordance with standard DHI accounting procedures
+reasonably acceptable to Immunicon, and consistent with GAAP. Revenues shall not include income received by DHI or any of its Affiliates from the sale of Specimen Collection devices or the Specimen Transport medium or Revenues received as a
+commission on the sale of a service or maintenance plan or contract to a customer of an Instrument System. 
+ 
+“Regulatory
+Authority” means all governmental entities, including but not limited to the US Food and Drug Administration (“FDA”), regulating the development, manufacture, sale, shipping or distribution of Products or Instrument Systems in any
+country or groups of countries. 
+ 
+“Regulatory Approval” means any authorization received from a Regulatory Authority to commence
+commercial marketing, sale and distribution of a Product or Instrument System in any country and any other approvals, clearances, registrations, or permits that may be required to manufacture, market, sell and distribute Products, Instrument
+Systems, or any related components of such Products or Instrument Systems. 
+ 
+“Research Use Only” or “RUO” as applied to
+Products or Instrument Systems, means that such Products or Instrument Systems are suitable for use without a Regulatory Approval by an end-user solely for the limited purpose of the end user’s internal research. An ASR-designated reagent shall
+not be considered a RUO reagent. 
+
+6 
+
+“Specimen” means, but is not limited to, a [*********] such as [*****], [********], [*******],
+[*****], [********], [******] or [******] which is subjected to analysis for one or more Target Entities using a Product. 
+ 
+“Specimen
+Collection” and “Specimen Transport” means the collection device and transport medium provided by DHI solely at DHI’s responsibility for processing Specimens prior to analysis by use of Product(s). 
+ 
+“Third Party” means any person or entity other than Immunicon, DHI or their respective Affiliates. 
+ 
+“Transfer Price” means the price charged to DHI by Immunicon for an Instrument System or Bulk Reagents supplied to DHI under this Agreement.
+
+“Target Entity(ies)” means any aspect or component of a biological sample that upon appropriate analysis with Product(s) and
+Instrument Systems, would provide diagnostically relevant information in assessing an Infectious Disease condition. A Target Entity may include, without limitation, cells, cell components, an infectious agent, or combinations thereof and
+specifically includes the Target Entities listed in Exhibit A. 
+
+ 3.
+ PRODUCT DEVELOPMENT 
+
+3.1 Project Plans. Immunicon and
+DHI shall conduct Product Development under Project Plans with the goal of developing Products and Instrument Systems for commercial sale by DHI in accordance with this Agreement. Immunicon and DHI shall each use its reasonable efforts to conduct
+the activities for which it is responsible with respect to Product Development, in accordance with Project Plans and the provisions of this Agreement, in each case within the time schedule set forth therein and herein. Immunicon and DHI will conduct
+such activities in a prudent and skillful manner and in accordance in all material respects with the Project Plan then in effect, and further in accordance with all applicable Federal, state and local laws, rules, regulations and other requirements
+(including, without limitation, Good Laboratory Practices, cGMP, QSR, ISO and the regulations of other non-US Regulatory Authorities). 
+ 
+3.2 Management
+Board. The Management Board shall provide oversight and advice for the conduct of Product Development as follows: 
+ 
+3.2.1 The
+Management Board shall be composed of four (4) management representatives of each of Immunicon and DHI, including the Chief Executive Officer of each, and senior sales and marketing, research and development and finance executives. Each party
+may substitute one or more of its representatives, from time to time in its sole discretion, effective upon notice to the other party of such change. Immunicon shall appoint the chairperson of the Management Board (who shall in any event be the
+Chief Executive Officer of Immunicon or DHI until after the one year anniversary date of the commencement of the Commercial Period) and so inform DHI, including any changes to the designated chairperson. 
+
+7 
+
+3.2.2 The activities of the Management Board with respect to developing, managing and overseeing
+execution of the Project Plan(s) from feasibility through commercialization shall include: 
+
+ (a)
+ Initial Feasibility Period. Provide oversight and guidance during the Initial Feasibility Period, including developing feasibility plans and establishing Marketing Essential
+Characteristics for Products. 
+
+ (b)
+ Product Development Period. Provide oversight and guidance during Product Development, including: 
+
+(i) developing the Project Plan for each Product and the Instrument System, including the Product Development Plan, the Clinical Trial Plan and the
+Commercialization Plan, 
+ 
+(ii) reviewing and approving activities and progress under each Project Plan and approving any modifications to
+Project Plans, 
+ 
+(iii) approving all Clinical Trial Plans and any modifications to Clinical Trial Plans. 
+ 
+(iv) reviewing progress of all Clinical Trials, and reviewing and evaluating data and conclusions developed from Clinical Trials, 
+ 
+(v) reviewing the process for seeking Regulatory Approvals of Products and Instrument Systems, and 
+ 
+(vi) reviewing and authorizing submissions for Regulatory Approval. 
+
+ (c)
+ Commercialization Period. 
+
+(i) review and approve
+Commercialization Plans including Firm Forecasts, and 
+ 
+(ii) consider and adopt any modifications to the Commercialization Plans.
+
+ (d)
+ Additional Responsibilities. Carry out such other activities as the parties may from time to time agree. 
+
+3.2.3 Unless otherwise agreed, the Management Board shall meet no less frequently than quarterly. Each party shall be responsible for its own costs
+incurred in connection with such meetings. The site of the meetings shall alternate between a site chosen by Immunicon and a site chosen by DHI. 
+
+8 
+
+3.2.4 The representatives of DHI to the Management Board, voting together, shall have one vote, and the
+representatives of Immunicon, voting together, shall have one vote. Any approval, determination, decision or other action by the Management Board shall require the approval of the DHI representatives and the Immunicon representatives.
+Notwithstanding the foregoing and except as otherwise provided in Section 6.8.2(d), in the event the DHI representatives to the Management Board and the Immunicon representatives to the Management Board are unable to reach agreement on a Firm
+Forecast (as defined in Section 6.8.1), other than the Firm Forecasts for the first and second forecast years, the Immunicon representatives to the Management Board shall cast the deciding vote on such Firm Forecast. 
+ 
+3.2.5 The chairperson of the Management Board or his/her designee shall prepare and deliver to the members of the Management Board within thirty
+(30) days after the date of a Management Board meeting minutes of such meeting summarizing the matters reviewed and any actions taken and decisions made at such meetings in form and content reasonably acceptable to the parties. 
+ 
+3.3 Project Representative. DHI and Immunicon each shall appoint a person (a “Project Representative”) to oversee the progress of each Project Plan. The
+Project Representative of each party shall be the primary contact between the parties for day-to-day collaboration pursuant to this Agreement. Each party shall notify the other within thirty (30) days after the commencement of each Project Plan
+hereunder of the appointment of its Project Representative and shall notify the other party as soon as practicable upon changing this appointment. 
+ 
+3.4
+Development Responsibilities of Immunicon and DHI. 
+ 
+3.4.1 Immunicon shall develop the Instrument System(s) and Bulk Reagents, and
+DHI shall develop the Detection Reagents and conduct the pre-Clinical Trial and Clinical Trial evaluations of Products, as described more fully in one or more Project Plans. Notwithstanding the foregoing, the parties acknowledge that in order to
+assure optimization of Bulk Reagents and Detection Reagents and integration thereof into Products, the parties must collaborate in certain of their respective development activities with respect thereto, and accordingly each party hereby agrees to
+cooperate and collaborate with the other party to provide such scientific, technical and other resources as it in good faith deems to be necessary to assist the other party in its development responsibilities hereunder. Immunicon shall be allowed to
+utilize its judgment and expertise in such development of Instrument Systems and Bulk Reagents but recognizes that DHI wishes to be informed of all key decisions in advance of their execution and be afforded the opportunity to influence the same.
+DHI shall be allowed to utilize its judgment and expertise in such development of Detection Reagents but recognizes that Immunicon wishes to be informed of all key decisions in advance of their execution and be afforded the opportunity to influence
+the same. 
+ 
+3.4.2 DHI, in consultation with Immunicon and as directed by the Management Board, shall conduct evaluations of Bulk Reagents
+and Detection Reagents for use in Products and evaluate the utilization of same on Instrument Systems, develop Marketing Essential Characteristics and Commercialization Plans, and manage, coordinate, implement and administer Clinical Trials in
+
+9 
+
+accordance with one or more Project Plans subject to the approval of the Management Board. All Clinical Trials of Products and Instrument Systems shall be
+conducted in accordance with all applicable legal and regulatory requirements and under the direction of the Management Board. DHI shall not depart in any material manner from the Clinical Trial Plan for a Clinical Trial that is established by the
+Management Board, without the prior approval of the Management Board. 
+ 
+3.4.3 Immunicon will provide assistance, consultation and advice as
+appropriate and as determined necessary by the Management Board in connection with Clinical Trials for the filing of submissions with Regulatory Authorities by DHI, and with respect to all other aspects of Regulatory Approval processes. To the
+extent that the FDA or any other Regulatory Authority requests information with respect to Immunicon in connection with any regulatory filing, Immunicon shall provide such information promptly at no cost to DHI. Immunicon shall use all reasonable
+efforts to cooperate fully with DHI to comply with and obtain appropriate Regulatory Approvals from Regulatory Authorities necessary for DHI to market, sell and distribute Products and Instrument Systems in accordance with this Agreement. Immunicon
+agrees to provide DHI (and any appropriate Regulatory Authority) reasonable access to its data, records, facilities, employees and consultants in order to assist in the Regulatory Approval process, subject to appropriate protections for
+Immunicon’s Confidential Information. 
+ 
+3.5 Funding/Sharing of Revenue. 
+ 
+3.5.1 In consideration of the license granted to DHI by Immunicon hereunder and for Immunicon’s agreement to the terms and conditions hereof, DHI
+shall pay to Immunicon a non-refundable, non-creditable license fee of $1,500,000 to be paid in the following manner; 
+ 
+(a) an initial
+payment of $500,000 shall be due and payable upon the Effective Date; 
+ 
+(b) provided that this Agreement has not terminated earlier pursuant
+to its terms, a second payment of $1,000,000 shall be due and payable immediately upon the approval by the FDA of a Clinical Trial Plan for the first Initial Product. 
+ 
+3.5.2 In consideration for the performance of Immunicon’s obligations under Section 3.4 hereof, DHI shall pay to Immunicon Two Hundred Thousand Dollars ($200,000) per calendar quarter for the first six
+(6) calendar quarters following the Effective Date, such payment to be due and payable at the commencement of each calendar quarter. Immunicon agrees that it will use its reasonable judgment in accordance with accepted commercial practices in
+the industry to engage individuals of appropriate experience and product development expertise on development of the Initial Products and Instrument System. Product and Instrument System development payments for Products that are not Initial
+Products which are developed under this Agreement after the commencement of the Commercial Period shall be subject to mutual agreement of, and negotiated in good faith by, Immunicon and DHI and set forth in written amendments to this Agreement.
+
+3.5.3 Except as otherwise set forth herein, Immunicon and DHI shall each be responsible for the funding of its own activities and
+responsibilities under this Agreement. 
+
+10 
+
+3.5.4 DHI may purchase from Immunicon up to twenty (20) Instrument Systems prior to the commencement
+of the Commercial Period at a Transfer Price to DHI for each such Instrument System to be determined in good faith by Immunicon, but which shall not be [******] Immunicon’s [*************] of such Instrument System plus [*********]. 
+
+3.5.5 DHI may purchase from Immunicon up to two (2) CellTracks® Analyzer II Systems prior to the commencement of the Commercial Period at a Transfer Price for each such
+CellTracks® Analyzer II System to DHI to be
+determined in good faith by Immunicon, but which shall not be [*******] Immunicon’s [***********] of a comparable CellTracks® Analyzer II System. 
+ 
+3.5.6 Following
+commencement of the Commercial Period, Immunicon and DHI shall share all Revenue from Products as follows: 
+ 
+Within thirty (30) days
+after the end of each calendar quarter during the Commercial Period, DHI shall remit to Immunicon (in order to compensate Immunicon for Bulk Reagents supplied to DHI and a royalty under Immunicon Patents and Know-How) an amount equal to
+(a) forty-one percent (41%) of Revenues during such calendar quarter less (b) the total Bulk Reagent Cost during such quarter for that amount of Bulk Reagents that was incorporated in and/or used to make the Products that generated
+such Revenues. Notwithstanding the foregoing, DHI’s share of Revenues as provided for in the preceding sentence shall be appropriately increased by the parties in the event that, with respect to any Product, technical modifications requiring
+the use of [************] are necessary for meeting the Marketing Essential Characteristics for such Product and such technical modifications have the effect of increasing the projected cost to DHI of producing such Product by more than [****] above
+DHI’s initial projection of such cost. The parties will negotiate and determine in good faith the terms of any such modification of the revenue sharing arrangement. 
+ 
+3.6 Reports and Exchange of Information. 
+ 
+3.6.1 Reports. (a) Immunicon and DHI shall
+report to each other the status of their activities under this Agreement including all relevant findings and all results from the performance of Project Plans in a manner and at such intervals as the parties shall reasonably agree, but no less
+frequently than in a written report every calendar quarter, and provide such report to members of the Management Board no less than one week prior to their scheduled meetings. Each such quarterly written report shall summarize the progress and
+results during the previous quarter in implementing Project Plans and achieving the goals thereof, and shall provide such other related information as Immunicon or DHI shall reasonably request. 
+ 
+(b) DHI shall report the status of efforts to commercialize and commercialization of the Products and Instrument System before and after commencement of
+the Commercial Period, in a manner and at such intervals as the parties shall reasonably agree but no less frequently than in a written report every calendar quarter, and provide such report to members of the Management Board no less than one week
+prior to their scheduled meetings. Each such quarterly written report shall summarize the progress of DHI’s commercialization efforts during the previous quarter toward achieving commercialization goals established in the Project Plans. DHI
+also shall provide such other related information as Immunicon shall reasonably request. 
+
+11 
+
+3.6.2 Access to Facilities. Each party agrees to permit personnel of the other party to visit the
+facilities that are utilized in connection with the production, quality assurance, research and development of Products and Instrument Systems, at mutually agreed upon times, during normal business hours to observe the activities being conducted.
+
+3.6.3 Audit Rights. Each party shall have the right, upon reasonable notice to the other party and during regular business hours,
+to inspect and audit the books and records of such other party to assure compliance with the provisions of this Agreement including, without limitation, compliance with Sections 3.5.4, 3.5.5, 3.5.6, and 6.2. The parties acknowledge that the
+provisions of this section granting certain audit rights shall in no way relieve either party of any of its obligations under this Agreement, nor shall such provisions require either party to conduct any such audits. 
+
+ 4.
+ PRE-COMMERCIALIZATION ACTIVITIES 
+
+4.1 Marketing
+Essential Characteristics. DHI shall, in consultation with Immunicon, define the Marketing Essential Characteristics for Products, Instrument Systems, and related components and materials and shall apprise Immunicon of any changes therein. In
+the event of disagreement regarding Marketing Essential Characteristic definitions, the Management Board shall decide the matter and such decision shall be final. 
+ 
+4.2 Regulatory Approval Submissions. DHI shall, with the consultation of Immunicon and at DHI’s sole expense, have the responsibility for submissions in connection with Regulatory Approvals for any Product or Instrument System
+and determine when any regulatory filing for such Products and Instrument System should be submitted to a Regulatory Authority. Prior to any submission to any Regulatory Authority, DHI shall consult with, and provide a final draft copy of the
+proposed submission to Immunicon, which shall, within thirty (30) days after receipt of the draft, provide any written comments to DHI. DHI shall consider in good faith and consult with Immunicon regarding any such comments, but DHI shall have
+final decision making authority with respect to all regulatory filings. Necessary filings required for Regulatory Approvals shall be filed within sixty (60) days after completion of the relevant Clinical Trials. 
+ 
+4.3 Supplemental Submissions. DHI shall consult with Immunicon concerning all supplemental or additional regulatory and other governmental submissions related to
+Products and Instrument Systems, and all components and materials related thereto, and provide Immunicon with access to such submissions prior to filing the same. 
+ 
+4.4 Ownership of Regulatory Approvals. All documents filed with Regulatory Authorities shall be prepared and submitted by and in the name of DHI or one of its Affiliates, and DHI shall own all such Regulatory Approvals unless
+otherwise required by applicable law. 
+ 
+4.5 Filling and Packaging. At DHI’s own cost and expense, including, without limitation, the cost and
+expense of validation, DHI shall make ready a facility (either owned by DHI or an Affiliate 
+
+12 
+
+thereof or by a Third Party) for producing and packaging Products consistent with the Firm Forecast as approved by the Management Board. 
+
+ 5.
+ COMMERCIAL ACTIVITIES 
+
+5.1 Manufacturing and Supply
+Arrangement. Except as expressly provided elsewhere in this Agreement, Immunicon shall manufacture (or cause to be manufactured) and supply DHI with DHI’s requirements of Bulk Reagents, Instrument Systems and components and materials
+related thereto, and DHI shall source such requirements exclusively from Immunicon, as follows: 
+ 
+5.1.1 (a) Prior to the commencement
+of the Commercial Period and if approved by the Management Board in a Project Plan, Immunicon will manufacture and supply DHI with DHI’s requirements for Bulk Reagents for DHI to create finished Products, in amounts reasonably requested by DHI
+from time to time in connection with DHI’s validation of finishing and packaging facilities, and marketing activities, as well as the performance by DHI of its obligations hereunder with respect to making appropriate regulatory filings under
+Article 4. The Bulk Reagents shall meet the specifications as set forth in Schedule 5.1.1 hereto, as may be amended from time to time by mutual agreement of the parties (the “Reagent Specifications”). 
+ 
+(b) From and after the commencement of the Commercial Period, Immunicon shall manufacture and supply DHI with DHI’s requirements for Bulk Reagents
+for DHI to produce finished Products, as ordered by DHI and meeting the Reagent Specifications, and for Instrument Systems in accordance with the terms and conditions of the Distribution Agreement, attached hereto as Exhibit B and incorporated
+herein by reference (the “Distribution Agreement”). The Distribution Agreement shall be entered into between DHI and Immunicon immediately upon commencement of the Commercial Period. 
+ 
+(c) Prior to the commencement of the Commercial Period, DHI shall manufacture and supply all of its requirements for Detection Reagents in order for DHI
+to create finished Products as required for validation of finishing and packaging facilities, for marketing activities and the performance by DHI of its obligations with respect to making appropriate regulatory filings under Article 4. The Detection
+Reagents shall meet the appropriate specifications as set forth in the Reagent Specifications. 
+ 
+(d) From and after the commencement of the
+Commercial Period, DHI shall manufacture and supply Detection Reagents meeting the Reagent Specifications to satisfy its entire requirements to produce finished Products. 
+ 
+5.1.2 Transfer Pricing for Bulk Reagents. DHI shall pay to Immunicon an amount equal to the Bulk Reagent Cost for that amount of Bulk Reagent shipped to DHI that meets the Reagent Specifications within thirty
+(30) days after receipt by DHI of the invoice therefor, except that prior to the commencement of the Commercial Period Immunicon will ship to DHI reasonable amounts as determined solely by Immunicon (not to exceed, in the aggregate, $[*******]
+worth of Bulk Reagent at Bulk Reagent Cost) of Bulk Reagent [*******] in order for DHI to make ready and validate its facility for producing and packaging Products pursuant to Section 4.5. 
+
+13 
+
+ 6.
+ DISTRIBUTION OF INSTRUMENT SYSTEMS 
+
+From and after the
+commencement of the Commercial Period and until this Agreement expires or is terminated as provided herein, DHI shall act as Immunicon’s distributor for Instrument Systems, pursuant to the terms and conditions of this Agreement and as set forth
+in the Distribution Agreement. To the extent any of the terms and conditions of the Distribution Agreement may be inconsistent, or are in conflict with, the terms and conditions of the body of this Agreement, the latter shall govern and prevail.
+
+6.1 Sales and Training Costs. DHI shall be responsible for all expenses which it may incur in carrying out sales and training with respect to
+Products and Instrument Systems hereunder including, without limitation, all travel expenses (including meals and lodging) and those expenses associated with the training of its employees and officers at the facilities of DHI and elsewhere related
+to the Instrument Systems. Immunicon shall be responsible for providing appropriate training to DHI, as determined by Immunicon, to enable DHI to train customers in use of Products and Instrument Systems. 
+ 
+6.2 Promotional Efforts; Materials. DHI shall be responsible for all expenses which it may incur in marketing, selling and promoting Instrument Systems, to
+include but not limited to, (i) selling aids, (ii) promotional materials and (iii) distribution related items. In any event, Immunicon shall have the right to review materials relating to DHI’s promotional efforts with respect to
+Instrument Systems. 
+ 
+6.3 Instrument System Specifications; Validation. The Instrument Systems supplied to DHI shall meet applicable specifications
+for such Instrument Systems as agreed to by the Management Board and as may be amended from time to time by the Management Board. References in this Agreement to the applicable specifications for the Instrument Systems shall refer to such
+specifications as agreed to by the Management Board, as amended from time to time. Immunicon shall perform all software development and validation of Instrument Systems and all testing and quality assurance release functions for Instrument Systems
+generally as well as the software contained therein; provided that the quality assurance release criteria shall be subject to approval by the Management Board and the application thereof shall be subject to the audit and inspection rights of DHI.
+
+6.4 Pricing to Customers. DHI shall set the pricing for sales to its customers of Instrument Systems supplied to DHI by Immunicon pursuant to the
+Distribution Agreement. 
+ 
+6.5 Customer Support; Warranty and Service; Service Contracts. 
+ 
+6.5.1 Immunicon shall provide to those customers of DHI who purchase, lease or otherwise acquire an Instrument System in the ordinary course of business
+from DHI and which has been supplied by Immunicon under the Distribution Agreement of Exhibit B, with a warranty covering parts and labor for, or replacement of, the Instrument System, which warranty shall run for a period of twelve (12) months
+after the date such system is installed at an end user site (such period, the “Initial Warranty Period”), which means that in the event that such system fails to 
+
+14 
+
+operate in accordance with the applicable specifications for the Instrument System during the Initial Warranty Period Immunicon shall be responsible for
+paying cost of repairs and/or replacement of parts or the entirety of the Instrument System. In the event that during the Initial Warranty Period for any Instrument System a customer utilizing such system reports a problem with such system to DHI,
+DHI shall use its best reasonable efforts to notify Immunicon of such problem within two business days of its receipt of the report of such problem. 
+ 
+6.5.2 (a) Immunicon shall have sole responsibility for repair or replacement of any Instrument System within the Initial Warranty Period or thereafter. Immunicon shall receive all revenue from servicing or repair of
+Instrument Systems, whether or not such repair or service is performed under warranty or under a service contract, or similar service or maintenance plan. All revenue received by DHI from sale of service contracts or similar service or maintenance
+plans on Instrument Systems shall be remitted to Immunicon within thirty (30) days of the receipt of such revenue by DHI, [**********************]. [*************************]. In the event DHI includes a service contract or similar service or
+maintenance plan as a component of a transaction involving an Instrument System that is placed under a RAP or similar arrangement, [*****************] or similar [******************] shall [******************] for [****************] and shall be
+[***********] in full as provided above, provided that DHI shall be [******************] of such [*************] or similar arrangement that is attributable to the service contract or similar service or maintenance plan. 
+ 
+(b) The service contracts to be offered by Immunicon to DHI’s Instrument System customers will be for a term of [********]. After the
+Initial Warranty Period the price of such service contracts will be [**********] for the [******] and [********]. After DHI has completed its first [********] of Instrument Sales, Immunicon and DHI will evaluate whether the price of the service
+contracts is commercially reasonable in light of the historical and estimated future cost to Immunicon of providing service under such contracts, and will adjust the price if and to the extent appropriate based on such evaluation. 
+ 
+(c) In order to minimize downtime during operation of Instrument Systems by customers, DHI shall use its best commercially reasonable
+efforts to encourage at least [*************] of its purchasers of Instrument Systems and customers of Instrument Systems placed under a RAP or similar arrangement to purchase service contracts or substantially equivalent service or maintenance
+plans covering such Instrument Systems or to include the price of such service contracts or substantially equivalent service or maintenance plans in the RAP or similar arrangement. If fewer than [***********] of DHI’s purchasers of Instrument
+Systems and customers of Instrument Systems placed under a RAP or similar arrangement over any twenty-four month period purchase service contracts or substantially equivalent service or maintenance plans or include service contracts or substantially
+equivalent service or maintenance plans in their RAP or similar arrangement covering their Instrument Systems, then Immunicon will thereafter have the right to [**********************], and DHI shall no longer [***********************]. In the event
+the circumstances of the immediately preceding sentence are triggered, DHI shall provide to Immunicon within [********] following the closing of each transaction with customers of Instrument Systems the [*******************] to enable Immunicon to
+[*************] regarding such service contract or substantially equivalent service or maintenance plan. 
+
+15 
+
+6.6 Forecasting; Supply Process. In order to expedite the supply process, DHI will be responsible for forecasting
+Instrument System requirements on which Immunicon’s manufacturing plans will be based in accordance with the provisions set forth in Section 6.8. 
+ 
+6.7 Limitation of Use of Instrument Systems. DHI acknowledges and agrees that Instrument Systems shall be limited to accepting and utilizing Products (as such term is defined in this Agreement). DHI acknowledges that Immunicon has a
+legitimate interest in protecting its intellectual property rights related to, and the quality and integrity of, Instrument Systems, and in furtherance thereof DHI shall not, and shall not authorize or permit any Third Party, including but not
+limited to any customer of DHI or any other acquirer of an Instrument System from DHI, to utilize any reagents, assays, or similar products other than Products in connection with an Instrument System, or to modify any aspect of an Instrument System
+to accept or utilize any reagents, assays, or similar products other than Products. 
+ 
+6.8 Sales Forecasts 
+ 
+6.8.1 Strategic Forecast. Prior to commencement of the Commercial Period, DHI shall develop and submit to the Management Board for its review and
+approval an initial three (3) year strategic forecast (the “Strategic Forecast”) and a twelve-month forecast for sales of Products and Instrument Systems (each, a Twelve-Month Forecast”). The first Twelve-Month Forecast will
+cover a twelve-month period commencing as of the first day of the first full month following the commencement of the Commercial Period. Upon approval by the Management Board (with such modifications as may be agreed to by the Management Board), the
+Twelve-Month Forecast for the first forecast year will be deemed to be a Firm Forecast for purposes of Section 6.8.2 below. The Strategic Forecast will be updated annually with the next succeeding year (each such year, a “Forecast
+Year”) being deemed a Firm Forecast for purposes of Section 6.8.2. DHI will develop and submit to the Management Board for its review and approval a revised Strategic Forecast and an updated Twelve-Month Forecast at least ninety
+(90) days prior to the commencement of each Forecast Year. Forecasted Revenues for new Products will be reflected in the Twelve-Month Forecast and will then be rolled into the three year Strategic Forecast; provided, however, that the parties
+recognize that such new Products may be subject to delays with respect to their anticipated commercial launch due to factors that were unanticipated by the parties when the Firm Forecast containing such new Products was created, which factors may
+include but not limited to unanticipated Product development delays and delays in obtaining Regulatory Approvals. Accordingly, the parties agree that they will make reasonable adjustments to any Firm Forecast which may be subject to such
+unanticipated new Product delays as provided in the immediately preceding sentence. Each Twelve-Month Forecast shall reflect a good faith effort to forecast reasonably anticipated sales for the relevant time period or periods, taking into account
+all relevant factors including, without limitation, actual sales in prior periods, performance of the Products and the Instrument Systems, competition, and pricing. 
+
+16 
+
+6.8.2 Failure of DHI to Achieve Revenue Forecasts. (a) If Revenue does not equal or exceed
+Minimum Performance (as defined below) in the third, fourth or fifth Forecast Years, DHI will owe to Immunicon, in addition to Immunicon’s share of Revenue calculated in accordance with Section 3.5.6, the amount set forth in the following
+table: 
+
+Forecast Year
+
+Minimum Performance by DHI
+
+Additional Amount Owing to
+ 
+Immunicon by DHI
+
+ [***]
+ 
+ [***] of forecasted Revenue in Firm Forecast
+ 
+ [***] percent of the forecasted Revenue in the Firm Forecast for each [***] percent below [***]% of such forecasted Revenue up to a maximum additional amount of [***] percent of the
+forecasted Revenue in the Firm Forecast.
+
+ [***]
+
+[***] of forecasted Revenue in
+ 
+Firm
+Forecast
+
+ [***] percent of the forecasted Revenue in the Firm Forecast for each [***] percent below [***]% of such forecasted Revenue up to a maximum additional amount of [***] percent of the
+forecasted Revenue in the Firm Forecast.
+
+ [***]
+ 
+ [***] of forecasted Revenue in Firm Forecast
+ 
+ [***] percent of the forecasted Revenue in the Firm Forecast for each [***] percent below [***]% of such forecasted Revenue up to a maximum additional amount of [***] percent of the
+forecasted Revenue in the Firm Forecast.
+
+(b) In the event this Agreement terminates prior to the end of the [***] Forecast
+Year, no additional amount shall be owing by DHI to Immunicon pursuant to Section 6.8.2 for the Forecast Year in which this Agreement terminates or for any future Forecast Year. If this Agreement extends beyond the [***] Forecast Year and
+Revenue for the [***] Forecast Year or any Forecast Year thereafter does not equal or exceed [***]% of forecasted Revenue for such Forecast Year as established by the applicable Firm Forecast, then DHI will owe to Immunicon, in addition to its share
+of Revenue calculated in accordance with Section 3.5.6, an amount equal to [***] percent ([***]%) of the difference between [***]% of such forecasted Revenue and actual Revenue for such Forecast Year. Any such additional amount will be due and
+payable thirty (30) days after the final determination of Revenue for such Forecast Year. 
+ 
+(c) Any additional amount
+owing by DHI to Immunicon pursuant to this Section 6.8.2 shall be due and payable thirty (30) days after the final determination of Revenue for the Forecast Year for which such payment is owing. When calculating the difference between
+Minimum Performance for a Forecast Year and DHI actual Revenue for such Forecast Year, DHI shall be given credit for any Revenue that DHI can reasonably establish was not recognized in such Forecast 
+
+17 
+
+Year because of the failure of Immunicon to meet and fill orders for Bulk Reagents or Instrument Systems or to deliver such items to DHI or its Affiliates in
+accordance with this Agreement. Any Revenue that DHI is given credit for pursuant to the preceding sentence shall not be recognized again by DHI in any subsequent Forecast Year for purposes of Section 6.8.2. 
+ 
+(d) Any other provision of Section 6.8.2 to the contrary notwithstanding, if Revenue payable to Immunicon under Section 3.5.6
+and this Section 6.8.2 for any Forecast Year equals or exceed $[*****] DHI shall have no obligation to make any payment to Immunicon under this Section 6.8.2 for any subsequent Forecast Year and the representatives of Immunicon to the
+Management Board will no longer have the right to cast the deciding vote on the Firm Forecast for any such subsequent Forecast Year; provided, however, that if Revenue payable to Immunicon in any Forecast Year thereafter is less than $[*********],
+DHI’s obligation to make payment to Immunicon under this Section 6.8.2 shall be reinstated for such Forecast Year and for any subsequent Forecast Year in which the Revenue payable to Immunicon is less than $[**********], and the
+representatives of Immunicon to the Management Board will again have the right to cast the deciding vote on the Firm Forecast for the subsequent Forecast Year and thereafter for as long as the Revenue payable to Immunicon remains less than
+$[*********] in any Forecast Year. 
+ 
+6.9 Orders and Order Forecasts 
+ 
+6.9.1 Forecasts. At least thirty (30) days prior to the beginning of each and every three-month period (a “Quarter”), commencing with the first three-month period that is included in the first
+Firm Forecast, DHI shall provide Immunicon with a written forecast (the “Quarterly Forecast”) of DHI’s expected requirements for Bulk Reagents and Instrument Systems for each of the next four Quarters, the first Quarter of which shall
+be approved by the Management Board and shall be binding upon both parties with respect to Bulk Reagents only and the remaining three Quarters shall be provided for planning purposes only and shall not be binding upon either party. 
+ 
+6.9.2 Limits on Product Orders. Immunicon shall use commercially reasonable efforts but shall otherwise not be required to fill any orders of DHI
+for Bulk Reagents or Instrument Systems for any Quarter to the extent the amount of Bulk Reagents or Instrument Systems ordered for such Quarter exceeds [***]% of the amount of Bulk Reagents or Instrument Systems ordered by DHI during the
+immediately preceding Quarter to the extent Immunicon was required to fill the products so ordered by DHI during such preceding Quarter. 
+ 
+6.9.3 Orders. DHI shall place any binding orders for quantities of Bulk Reagents, by written or electronic purchase order (or by any other means agreed to by the parties) to Immunicon, which shall be placed at least thirty
+(30) days prior to the desired date of delivery. Immunicon shall not be obligated to accept and fill orders that exceed (but only to the extent of such excess) the Quarterly Forecast by over [***]%. 
+ 
+6.9.4 Conflicts. To the extent of any conflict or inconsistency between this Agreement and any purchase order, purchase order release,
+confirmation, acceptance or any similar document, including the Distribution Agreement, the terms of this Agreement shall govern and control. 
+
+18 
+
+6.9.5 Country Forecast. During the Commercial Period, DHI shall develop and provide to Immunicon
+an annual forecast (the “Country Forecast”), for each country where Products and Instrument Systems are anticipated to be sold, ninety (90) days prior to the commencement of the each Calendar Year (commencing with the first full
+Calendar Year during which Products and Instrument Systems are approved for sale in such country) which forecast will also set forth the number of units and sales of each Product and of Instrument Systems that are forecasted to be sold during such
+Calendar Year. 
+ 
+6.10 Delivery and Inventory 
+ 
+6.10.1 Delivery. All charges for packing, hauling, storage, bar coding, and transportation to point of delivery are included in the Transfer Prices unless otherwise agreed to by the parties. All shipments must be accompanied by a
+packing slip that describes the articles, states the purchase order number and shows the shipment’s destination. Immunicon agrees to promptly forward the original bill of lading or other shipping receipt for each shipment in accordance with
+DHI’s instructions. Immunicon further agrees to promptly render, after delivery of goods or performance of services, correct and complete invoices to DHI, and to accept payment by check or at DHI’s discretion, other cash equivalent
+(including electronic transfer of funds). 
+ 
+6.10.2 Shipment. The risk of loss with respect to Bulk Reagents and Instrument Systems
+shall transfer to DHI upon leaving Immunicon’s facilities, or upon leaving the facilities of any contract manufacturer of Bulk Reagents or Instrument Systems for Immunicon, as the case may be. Immunicon will pack all Bulk Reagents and
+Instrument Systems ordered hereunder in a manner suitable for shipment and sufficient to withstand the effects of shipping, including handling during loading and unloading. 
+ 
+6.11 Improvements and Changes to Bulk Reagents, Instrument Systems and Detection Reagents 
+ 
+Immunicon
+will notify the Management Board and consult with DHI regarding any significant changes or modifications to the method or process of manufacture or production of any Bulk Reagents or Instrument Systems. In the event of any such changes or
+modifications, DHI shall establish an appropriate qualification protocol, and DHI and Immunicon shall determine an appropriate inventory level for all pre-change Bulk Reagents or Instrument Systems, as the case may be, in order to cover on-going
+requirements during the qualification process. DHI will notify the Management Board and consult with Immunicon regarding any significant changes or modifications to the method or process of manufacture or production of any Detection Reagents. In the
+event of any such changes or modifications, Immunicon shall establish an appropriate qualification protocol, and DHI and Immunicon shall determine an appropriate inventory level for all pre-change Detection Reagents, in order to cover on-going
+requirements during the qualification process. 
+ 
+6.12 Quality Inspections/Testing 
+ 
+6.12.1 Inspections. (a) DHI shall have the right, upon reasonable notice to Immunicon and during regular business hours, to inspect and audit
+the facilities being used by Immunicon (or any 
+
+19 
+
+third party) for production and storage of Bulk Reagents or Instrument Systems to assure compliance by Immunicon (and its suppliers) with GMP and applicable
+FDA and other rules and regulations and with other provisions of this Agreement. Immunicon shall within thirty (30) days remedy or cause the remedy of any deficiencies which may be noted in any such audit or, if any such deficiencies can not
+reasonably be remedied within such thirty (30) day period, present to DHI a written plan to remedy such deficiencies as soon as possible; and the failure by Immunicon to remedy or cause the remedy of any such deficiencies within such thirty day
+period or to present such a plan within such thirty (30) day period and then use its commercially reasonable efforts to remedy or cause the remedy of such deficiencies in accordance with such written plan, as the case may be, shall be deemed a
+Material Breach of this Agreement. Immunicon acknowledges that the provisions of this Section granting DHI certain audit rights shall in no way relieve Immunicon of any of its obligations under this Agreement, nor shall such provisions require DHI
+to conduct any such audits. 
+ 
+(b) Immunicon shall have the right, upon reasonable notice to DHI and during regular business hours, to
+inspect and audit the facilities being used by DHI for finishing and filling the Products and the storage of such Products, and the production and storage of Detection Reagents, to assure compliance by DHI with GMP and applicable FDA and other rules
+and regulations and with other provisions of this Agreement. DHI shall within thirty (30) days remedy or cause the remedy of any deficiencies which may be noted in any such audit or, if any such deficiencies can not reasonably be remedied
+within such thirty (30) day period, present to Immunicon a written plan to remedy such deficiencies as soon as possible; and the failure by DHI to remedy or cause the remedy of any such deficiencies within such thirty (30) day period or to
+present such a plan within such thirty (30) day period and then use its commercially reasonable efforts to remedy or cause the remedy of such deficiencies in accordance with such written plan, as the case may be, shall be deemed a Material
+Breach of this Agreement. DHI acknowledges that the provisions of this section granting Immunicon certain audit rights shall in no way relieve DHI of any of its obligations under this Agreement, nor shall such provisions require Immunicon to conduct
+any such audits. 
+ 
+6.12.2 Bulk Reagent and Instrument System Quality. Immunicon represents that any Bulk Reagents or Instrument
+Systems provided to DHI hereunder shall conform in all respects to applicable specifications and shall be free from defects in design, material and workmanship. Immunicon shall replace at its own cost and expense, including reimbursement of freight
+and disposition costs incurred by DHI or any DHI customer of Instrument Systems, any Bulk Reagents or Instrument Systems that fail to conform with applicable specifications or has any such defects. DHI shall notify Immunicon of the existence and
+nature of any non-conformance or defect and Immunicon shall have a reasonable opportunity, not to exceed ten (10) days from receipt of notification, to inspect such defective Bulk Reagents or Instrument Systems, as the case may be, and provide
+DHI or the Instrument System customer with detailed written instructions to return or dispose of such defective Bulk Reagents or Instrument Systems, as the case may be. DHI shall have no obligation to pay for any Bulk Reagents or Instrument Systems,
+as the case may be, that is subject to such a claim of non-conformance or defect. If Immunicon fails to so inspect and instruct DHI as to the disposition of such defective Bulk Reagents or Instrument Systems, as the case may be, DHI may dispose of
+such defective Bulk Reagents or Instrument Systems as it sees fit and Immunicon shall promptly (1) reimburse DHI for all direct, out-of-pocket costs incurred by DHI in such disposition, and (2) replace such defective Bulk Reagents or
+Instrument Systems at its own cost and expense. 
+
+20 
+
+6.12.3 Independent Testing of Bulk Reagents and Instrument Systems. If, after Immunicon’s
+inspections of such Bulk Reagents or Instrument Systems, as the case may be, the parties disagree as to whether the Bulk Reagents or Instrument Systems conform to applicable specifications or whether the Bulk Reagents or Instrument Systems have a
+defect, either party may deliver the item to a validated, independent third-party laboratory, mutually and reasonably acceptable to both parties, for analytical testing to confirm such item’s conformance to the applicable specifications or the
+presence or absence of defects. All costs associated with such third-party testing shall be at DHI’s expense unless the tested item is deemed by such third-party to be defective or not in conformance with the applicable specifications, in which
+case all such costs, including reimbursement of freight and disposition costs, shall be promptly paid by Immunicon. No inspection or testing of or payment for Bulk Reagents or Instrument Systems, as the case may be, by DHI or any third-party agent
+of DHI shall constitute acceptance by DHI thereof, nor shall any such inspection or testing be in lieu or substitution of any obligation of Immunicon for testing, inspection and quality control as provided in the applicable specifications or under
+applicable local, state, or federal laws, rules, regulations, standards, codes or statutes. 
+ 
+6.12.4 Detection Reagents and Product
+Quality. DHI represents that any Detection Reagents or Products manufactured hereunder shall conform in all respects to applicable specifications and shall be free from defects in design, material and workmanship. DHI shall replace at its own
+cost and expense, including reimbursement of freight and disposition costs incurred by Immunicon or any customer of Products, any Detection Reagent or Product that fails to conform to applicable specifications or has any such defects. Immunicon
+shall notify DHI of the existence and nature of any non-conformance or defect of which Immunicon becomes aware, and DHI shall have a reasonable opportunity, not to exceed ten (10) days from receipt of notification, to inspect such defective
+Detection Reagents or Products, as the case may be, and provide Immunicon or such customer with detailed written instructions to return or dispose of such defective Detection Reagents or Products, as the case may be. DHI may dispose of such
+defective Detection Reagents or Products as it sees fit at its own cost and expense and, if Immunicon has incurred any direct, out-of-pocket expenses in connection therewith, shall promptly reimburse Immunicon for all direct, out-of-pocket costs
+incurred by Immunicon with respect to any such defective Detection Reagents or Products in such disposition. 
+ 
+6.12.5 Independent Testing
+of Detection Reagents and Products. If, after DHI’s inspection of such Detection Reagents or Products, as the case may be, the parties disagree as to whether any Detection Reagents or Products conform to the applicable specifications or
+whether such Detection Reagents or Products have a defect, either party may deliver the item to a validated, independent third-party laboratory, mutually and reasonably acceptable to both parties, for analytical testing to confirm such item’s
+conformance to the applicable specifications or the presence or absence of defects. All costs associated with such third-party testing shall be at Immunicon’s expense unless the tested item is deemed by such third-party to be defective or not
+in compliance with the applicable specifications, in which case all such costs, including reimbursement of freight and disposition costs, shall be promptly paid by DHI. No inspection or testing of or payment for Detection Reagents or Products, as
+the case may be, by Immunicon or any third-party agent of 
+
+21 
+
+Immunicon shall constitute acceptance by Immunicon thereof, nor shall any such inspection or testing be in lieu or substitution of any obligation of DHI for
+testing, inspection and quality control as provided in the applicable specifications or under applicable local, state, or federal laws, rules, regulations, standards, codes or statutes. 
+ 
+6.12.6 Corrective Action. In the event any governmental agency having jurisdiction shall request or order, or if DHI shall determine to undertake
+such request or order, any corrective action with respect to any Product or Instrument System, as the case may be, including any recall, corrective action or market action, and the cause or basis of such recall or action is attributable to any
+cause, fact or condition other than a breach by DHI of any of its warranties, guarantees, representations, obligations or covenants contained herein, then Immunicon shall be liable, and shall reimburse DHI for the reasonable costs of such action
+including the cost of any Product or Instrument System, as the case may be, that is so recalled whether or not any specific unit of Bulk Reagents or Instrument Systems shall be established to be in breach of any warranty by Immunicon hereunder. If
+any such corrective action is taken as result of a breach by DHI of any of its warranties, guarantees, representations, obligations or covenants contained herein, DHI shall reimburse Immunicon for its costs. 
+ 
+6.13 Supply Assurances; Failure To Supply; Force Majeure 
+ 
+6.13.1 Supply Assurances; Failure to Supply. The parties recognize that the availability of adequate quantities of Bulk Reagents, Detection Reagents, Instrument Systems and Products, consistent with the forecasts as required under
+Sections 6.8.1 and 6.9.1 of this Agreement, is essential for the commercial success of Products. The parties therefore agree as follows: 
+ 
+(a) Immunicon shall maintain an inventory of Bulk Reagents and Instrument Systems sufficient to satisfy the Quarterly Forecasts for such items, as approved by the Management Board, for at least [*********]. DHI shall
+maintain an inventory of Detection Reagents and Products to satisfy the next succeeding [*********] period in each Firm Forecast, as approved by the Management Board. 
+ 
+(b) Immunicon shall use its best reasonable commercial efforts to supply adequate quantities of Bulk Reagents and Instrument Systems to
+meet market demand for Products and Instrument Systems, pursuant to its rights and obligations hereunder. If Immunicon, for more than [*********] consecutive days during the term of this Agreement, for reason other than Material Breach of this
+Agreement by DHI or the inability or failure of DHI to supply sufficient DHI [******] and [******] [********], is unable to meet at least [********] ([***]%) of the applicable Firm Forecast with respect to Bulk Reagents or Instrument Systems,
+applicable to such [********] day period, then upon [********] days written notice from DHI, DHI shall be free to make or have made Bulk Reagents or Instrument Systems, unless Immunicon thereafter is able to fully resume its supply obligations
+hereunder, whereupon DHI shall be required to source its requirements of Bulk Reagents for Products and Instrument Systems exclusively from Immunicon commencing with the [***********] date of such resumption. In furtherance of the foregoing, if this
+paragraph becomes operable and only during such time (but in no event for a period surviving the termination or expiration of this Agreement), Immunicon shall use its best efforts to give DHI access to any [*****************************] that,
+absent which, Bulk Reagents, Products or 
+
+22 
+
+Instrument Systems, as the case may be, would [*************] or any other [************************], as well as to provide all technical and proprietary
+materials, information, know-how and techniques necessary or helpful for DHI to produce or arrange an alternative supplier of Bulk Reagents and Instrument Systems, and provide advice and consultation in connection therewith. The percentage of
+Revenue due to DHI under Section 3.5.6 during any such shortfall period shall be increased by [****]%. 
+ 
+(c) DHI shall
+use its best reasonable commercial efforts to supply adequate quantities of Products and to distribute sufficient Instrument Systems to meet market demand for same, pursuant to its rights and obligations hereunder. If DHI, for more than [******]
+([***]) consecutive days during the term of this Agreement, for reason other than Material Breach of this Agreement by Immunicon or the inability or failure of Immunicon to supply sufficient Bulk Reagents or Instrument Systems, is unable to meet at
+least [**************] ([***]%) of the applicable Firm Forecast with respect to Products, applicable to such [*****] ([***]) day period, then upon [*******] ([***]) days written notice from Immunicon, if such failure to supply market demand involves
+Products, Immunicon shall be free to make or have made Detection Reagents and Products, or utilize an alternative supplier to make or have made Detection Reagent and Products, in order to meet the shortfall in supply of Products and to supply or to
+utilize a Third Party to supply Instrument Systems to purchasers of such Products. In furtherance of the foregoing, if this paragraph becomes operable and only during such time (but in no event for a period surviving the termination or expiration of
+this Agreement), DHI shall use its best efforts to give Immunicon access to any [*******************] that, absent which, any component of Detection Reagents or Products would [************************], as well as to provide all technical and
+proprietary materials, information, know-how and techniques necessary or helpful for Immunicon to produce or arrange an alternative manufacturer of Detection Reagents and Products during such shortfall period, and to provide advice and consultation
+in connection therewith. The percentage of Revenue due to Immunicon under Section 3.5.6 during any such shortfall period shall be increased by [***]%. 
+ 
+(d) During the period that Immunicon has undertaken to meet the foregoing supply shortfalls under section 6.13.1(c), DHI shall have no obligation to purchase Bulk Reagents from Immunicon necessary to manufacture
+Products. If DHI thereafter is able to fully resume its supply obligations hereunder, DHI shall resume its obligations under this Agreement to purchase Bulk Reagents from Immunicon, and DHI shall again have the exclusive right to distribute Products
+and Instrument Systems under this Agreement commencing with the [***********] of such resumption. 
+ 
+6.13.2 Force Majeure Events. If
+either party is prevented from performing any of its obligations hereunder due to any cause which is beyond the non-performing party’s reasonable control, including fire, explosion, flood, or other acts of God; acts, regulations, or laws of any
+government; war or civil commotion; strike, lock-out or labor disturbances; or failure of public utilities or common carriers (a “Force Majeure Event”), such non-performing party shall not be liable for breach of this Agreement with
+respect to such non-performance to the extent any such non-performance is due to a Force Majeure Event. Such non-performance will be excused for three months or as long as such event shall be continuing (whichever occurs sooner), provided that the
+non-performing party gives immediate written notice to the other party of the Force Majeure Event. 
+
+23 
+
+Such non-performing party shall exercise all reasonable efforts to eliminate the Force Majeure Event and to resume
+performance of its affected obligations as soon as practicable. 
+ 
+6.14 Product Labeling; Artwork 
+ 
+DHI, subject to approval of the Management Board, shall have the right to determine the appearance and text of any labeling and packaging used in
+connection with any Product. 
+ 
+6.15 Bulk Reagent and Instrument System Representations and Warranties 
+ 
+6.15.1 Immunicon represents and warrants to DHI that all Bulk Reagents or Instrument Systems, as the case may be, supplied in connection with this
+Agreement shall be of merchantable quality, free from defects in material and workmanship and shall be manufactured and provided in accordance and conformity with the applicable specifications and in compliance with this Agreement. Immunicon
+represents and warrants that it shall comply with all present and future statutes, laws, ordinances and regulations relating to the manufacture and supply of Bulk Reagents and Instrument Systems, including, without limitation, those enforced by the
+United States Food and Drug Administration (including compliance with good manufacturing practices) and International Standards Organization Rules. 
+ 
+6.15.2 DHI represents and warrants to Immunicon that all Detection Reagents and Products shall be of merchantable quality, free from defects in material and workmanship and shall be manufactured and provided in accordance and conformity
+with the applicable specifications and in compliance with this Agreement. DHI represents and warrants that it shall comply with all present and future statutes, laws, ordinances and regulations relating to the manufacture and supply of Detection
+Reagents and Products, including, without limitation, those enforced by the United States Food and Drug Administration (including compliance with good manufacturing practices) and International Standards Organization Rules. 
+ 
+6.16 Compliance 
+ 
+In the performance of this
+Agreement, the parties agree to comply with the applicable provisions of any law and all executive orders, rules and regulations issued thereunder, whether now or hereafter in force, and any provisions, representations or agreements required thereby
+to be included in this Agreement are hereby incorporated by reference. If any Bulk Reagents or Instrument Systems, as the case may be, are ordered or contracted for sale by DHI under U.S. government contracts, Immunicon agrees that all applicable
+federal statutes and regulations applying to DHI as a U.S. government contractor are accepted and binding upon Immunicon insofar as Immunicon may be deemed a subcontractor and DHI shall give Immunicon prior notice of its entering into any such
+government contracts and the terms thereof to enable Immunicon to take such steps to comply with such statutes and regulations. 
+ 
+6.17 Taxes
+
+If DHI is required under applicable law to withhold any amount otherwise payable to Immunicon under this Agreement, it shall promptly pay
+such amount to the appropriate 
+
+24 
+
+governmental authority on behalf of Immunicon, and DHI shall furnish Immunicon with proof of payment of such tax, together with official or other appropriate
+evidence issued by the appropriate governmental authority, sufficient to enable Immunicon to support a claim for income tax credit with respect of any sum so withhold. Any such tax required to be withheld shall be an expense of and borne by
+Immunicon. 
+
+ 7.
+ INTELLECTUAL PROPERTY/LICENSE 
+
+7.1 Ownership of
+Inventions 
+ 
+All right, title, and interest in and to any intellectual property rights of either party hereto existing as of the date of
+this Agreement, will be retained by the current holder. All right, title, and interest in and to Inventions invented solely by Immunicon personnel, as determined by U.S. Patent Law, during the term of this Agreement shall be owned by Immunicon. All
+right, title, and interest in and to Inventions invented solely by DHI personnel, as determined by U.S. Patent Law, during the term of this Agreement shall be owned by DHI. Title to all Inventions made jointly by employees or agents of Immunicon, on
+the one hand, and employees or agents of DHI, on the other hand, shall be jointly owned by Immunicon and DHI as tenants in common. 
+ 
+7.2 License
+Grants 
+ 
+7.2.1 Immunicon hereby grants to DHI and its Affiliates during the Term of this Agreement, an exclusive right
+and license in the United States of America and Canada and their respective territories and possessions, under Immunicon Inventions to make, have made, use, sell, and have sold Products and Instrument Systems within the Field, subject to the
+limitations and terms and conditions set forth elsewhere in this Agreement. DHI shall not have the right to sublicense the aforementioned rights and licenses to Third Parties except as may be approved in writing by Immunicon. For the resolution of
+doubt, the grant of this license shall have no effect on Immunicon’s rights outside the Field. 
+ 
+7.2.2 DHI hereby grants
+to Immunicon and its Affiliates during the Term of this Agreement a fully paid up, non-royalty bearing, exclusive right and license in the United States of America and Canada and their respective territories and possessions, under all intellectual
+property and other proprietary rights owned by or licensed to DHI, to use and have used [******] and [********] for the development, manufacture and supply of Bulk Reagents for use with the Products within the Field, subject to the limitations and
+terms and conditions set forth elsewhere in this Agreement. Immunicon shall not have the right to sublicense the aforementioned rights and license to Third Parties except as may be approved in writing by DHI. For the resolution of doubt, the grant
+of this license shall have no effect on DHI’s rights outside the Field. 
+ 
+7.2.3 (a) Each party acknowledges that it
+desires to grant additional rights and licenses to those granted as provided in Sections 7.2.1 and 7.2.2 above, under its respective intellectual property and other proprietary rights as described in this Agreement, to the other party in order that
+Instrument Systems and Products may be commercialized in countries 
+
+25 
+
+outside the United States and Canada and their respective territories and possessions (the “Extended Territory”). Accordingly, the parties agree to
+use their respective best efforts to negotiate commercially reasonable terms and conditions for the grant of such additional rights and licenses in the Extended Territory, such negotiations to commence within a reasonable period of time following
+the end of the Initial Feasibility Period. 
+ 
+(b) The parties recognize that at the Effective Date of this Agreement they
+cannot determine the conditions and circumstances, or the form of agreement, under which such additional rights in the Extended Territory may be granted, including but not limited to potential success of additional anticipated products, costs of
+development of such additional products and anticipated revenue therefrom. Notwithstanding the foregoing, Immunicon agrees that it will accept a license fee of no more than an additional $[******] in total under any and all such Extended Territory
+agreements for the grant to DHI of exclusive rights to make, have made, use, sell and have sold Products and Instrument Systems in the Extended Territory. All other terms and conditions of such Extended Territory agreement shall be negotiated in
+good faith between the parties. Each of the parties further agrees that for a period of [*****] ([***]) months following the commencement of the Commercial Period that it will not grant or negotiate to grant to any Third Party any such rights and
+licenses in the Extended Territory; provided, however, that a party shall not be subject to such restriction in the event the other party is in Material Breach of this Agreement. 
+ 
+7.3 Third Party Licenses 
+ 
+Immunicon shall be responsible for and shall bear all costs, fees,
+royalties, or other payments associated with obtaining any license from a Third Party that upon reasonable advice of Immunicon’s counsel is required to develop, manufacture, use or commercialize Bulk Reagents or Instrument Systems in accordance
+with this Agreement. DHI shall be responsible for and shall bear all costs, fees, royalties, or other payments associated with obtaining any license from a Third Party that upon reasonable advice of DHI’s counsel is required to develop,
+manufacture, use or commercialize Detection Reagents in accordance with this Agreement or to develop, manufacture and use [********] and [**********] and to supply them to Immunicon as contemplated by this Agreement, and to commercialize [*********]
+and [***********] as components of Bulk Reagents and Products. DHI has informed Immunicon [**********************************************************************************************************
+*********************************************************************************************************** *******************************************]. 
+ 
+[********************************************************************************************************** ************************]; provided, however, that anything in this Section 7.3 or elsewhere in this Agreement to the contrary
+notwithstanding, neither DHI nor Immunicon shall be required to obtain any license from a Third Party if the costs, fees, royalties and other payments under such license and any and all other required Third Party licenses would exceed, in the
+aggregate, [***]% of the revenues to be received by DHI and/or Immunicon from the sale of the Product or Product component for which such licenses are required. 
+
+26 
+
+ 8.
+ PATENTS 
+
+8.1 Prosecution. Each party shall promptly
+report to the other all Inventions in the Field whether or not such Inventions are patentable. DHI and Immunicon shall jointly select Inventions jointly made for which they wish to file patent applications or perfect other intellectual property
+rights therein. Upon such selection, Immunicon shall, using patent counsel of its choice, reasonably acceptable to DHI, take all necessary steps to file, prosecute and maintain, the requested patent protection on such joint Inventions. Either party
+shall have the right upon thirty (30) days prior written notice to the other party, at its sole cost and expense, to file and prosecute a patent application or maintain a patent covering all or a part of any jointly-held Invention in any
+country which such other party does not select as set forth above, unless upon receipt of such notice and before the end of the notice period, such other party selects such country. 
+ 
+8.2 Each party shall provide to the other copies of all applications covering joint Inventions, all prior art searches relating to such patent applications, and all correspondence to and from the United States Patent
+and Trademark Office relating to the same. Upon request, the party prosecuting a patent application shall make available to the other party all related correspondence with other patent offices. 
+ 
+8.3 Each party shall promptly inform the other party of all patent applications filed on its Inventions in the Field and shall provide to such other party copies of all
+such applications, all prior art searches relating to such patent applications, and all correspondence to and from the United States Patent and Trademark Office relating to the same. Upon the request of either party, the other party shall make
+available to the requesting party related correspondence with other patent offices. 
+ 
+8.4 Assuming Prosecution for Joint Inventions 
+ 
+In the event that a party wishes to discontinue or abandon prosecution of any patent or patent application on any joint Invention, or elects to cease
+paying maintenance fees of any resulting patent, it shall promptly inform the other party; such other party shall then be entitled to continue the prosecution of any such application, pay any expense or cost, and take any other action necessary to
+continue the prosecution of such patent application or keep any resulting patent in force on behalf of the parties. In the event that any Product or Instrument System subsequently released into the stream of commerce comes within the scope of any
+patent whose prosecution or maintenance has been so assumed, then the party that elected to discontinue or abandon prosecution or maintenance shall refund to the other party the costs borne by the other party in taking such actions with respect to
+the patent(s) in question. 
+ 
+8.5 Costs. All patent attorney fees and all patent registration, patent filing, patent translation and patent
+maintenance fees, costs and expenses with respect to the Patents and the Inventions solely owned by a party shall be borne by that party. All such fees, costs, and expenses with respect to Patents and the Inventions owned jointly by the parties
+shall be shared equally by the parties. 
+ 
+8.6 In all events concerning patent prosecution of the application under this Section, DHI and Immunicon shall
+cooperate with each other. 
+
+27 
+
+ 9.
+ THIRD PARTY INFRINGEMENT 
+
+9.1 Enforcement. If either
+party becomes aware that any of the Patents are being or have been infringed by any Third Party, such party shall promptly notify the other party hereto in writing describing the facts relating thereto in reasonable detail. Except as provided below,
+Immunicon shall have the initial right, but not the obligation, to institute, prosecute and control any action, suit or proceeding (an “Action”) with respect to such infringement, including any declaratory judgment action, at its expense,
+using counsel of its choice. DHI shall cooperate with Immunicon and provide such non-monetary assistance as Immunicon may reasonably request in connection with any such Action. Any recovery of damages by Immunicon for any such Action shall be
+applied first in satisfaction of any costs incurred by Immunicon relating to the Action (including attorneys’ and expert fees) and the balance remaining from any recovery shall be recovered by Immunicon. Notwithstanding the foregoing, with
+respect to any infringement relating to any intellectual property or other proprietary right in or to [******] and [********] or Patents owned or licensed by DHI, including but not limited to infringement of any patent relating solely to [********]
+and [**********], DHI shall have the right to institute, prosecute and control any Action with respect to such infringement, including any declaratory judgment action, at its expense, using counsel of its choice. Immunicon shall cooperate with DHI
+and provide such non-monetary assistance as DHI may reasonably request in connection with any such Action. Any recovery of damages by DHI for any such Action shall be applied first in satisfaction of any costs incurred by DHI relating to the Action
+(including attorneys’ and expert fees) and the balance remaining from any recovery shall be recovered by DHI. 
+ 
+9.2 Joint Enforcement. In the
+event that a party initiates an Action pursuant to Section 9.1 above, the other party shall have the right to intervene in such Action and the initiating party shall not oppose such intervention, provided that (i) the intervening party
+notifies the court of its intention to intervene within one hundred twenty (120) days of its receipt of notice of the commencement of such Action, and (ii) the intervening party shares equally with the initiating party the total costs
+incurred by the initiating party (including, without limitation, attorneys’ and expert fees) of conducting such Action. The parties shall cooperate and provide each other such assistance as either may reasonably request in connection with any
+such Action, provided, the initiating party shall retain the control of the conduct and settlement of any such Action. Any recovery of damages for any such suit shall be applied first in satisfaction of any actual out-of-pocket costs and expenses
+incurred by either of the parties relating to the Action (including, without limitation, attorneys’ and expert fees), and the balance remaining from any recovery shall be divided into fifty (50%) percent to each party. 
+ 
+9.3 Enforcement by DHI. In the event that Immunicon fails to initiate or defend any Action involving the Patents in the Field within [****************] ([***])
+days of receiving notice of any alleged infringement, DHI may, at its option, initiate and control such an Action (including Actions for past infringements), and Immunicon shall cooperate with DHI and provide such non-monetary assistance as DHI may
+reasonably request in connection with any such Action. Any recovery of damages by DHI for any such suit shall be applied first in satisfaction of any costs incurred by DHI relating to the Action (including attorneys’ and expert fees), and the
+balance remaining from any recovery shall be divided as follows: (a) DHI shall recover [******] percent ([***]%) of such remaining balance, and (b) Immunicon shall be entitled to [****]% of such remaining balance. In addition to the
+foregoing, DHI shall have the right to be included as a co-plaintiff or named plaintiff in any litigation involving Inventions in the Field for the purpose of calculating and obtaining damages due under the law or in equity adequate to compensate
+DHI for its losses. 
+
+28 
+
+9.4 Costs. The costs of litigation referred to in this Section 9 shall include but not be limited to such
+out-of-pocket expenses as court costs and court fees, reasonable travel expenses, reasonable charges for the professional services of outside counsel and experts, and shall exclude only the time that regular employees of DHI or Immunicon devote to
+such litigation. 
+ 
+9.5 Assistance. Immunicon agrees that in the event that DHI chooses to prosecute an action for infringement of a Patent under
+Section 9.3 herein but cannot do so in its own name, to sign and give to, within thirty (30) days after request by DHI, all necessary documents in order for DHI to prosecute such infringement in the name of Immunicon. Immunicon also agrees
+to cooperate with DHI, at DHI expense for out-of-pocket costs, in the prosecution of such infringement. 
+
+ 10.
+ THIRD PARTY CLAIM OF INFRINGEMENT 
+
+10.1 If a claim of patent
+infringement or misappropriation or wrongful use of a trade secret or other proprietary right is brought against a party hereto in any country by reason of any act conducted in the furtherance of this Agreement, or if a party becomes aware of any
+potentially-infringing patent or other proprietary right owned by a Third Party in any country, such party shall promptly give notice thereof to the other party and provide it with all information in its possession regarding such claim or potential
+infringement. 
+ 
+10.2 Each party shall indemnify, defend and hold harmless the other party against any damages, costs, expenses and liabilities (including
+reasonable attorneys’ fees and expenses) arising out of a claim of patent infringement or misappropriation or wrongful use of a trade secret or other proprietary right based on the manufacture, use, or anticipated sale of any Product that
+embodies the indemnifying party’s Invention. The indemnifying party shall conduct the defense of any such suit for infringement, misappropriation, or misuse at its expense. The indemnified party may participate in such defense, at its option
+and expense, and shall furnish to the indemnifying party such assistance as it may reasonably need and request from time to time for the conduct of the defense of such suit. Neither party shall dispose of or settle any such claim in any manner which
+may compromise or affect the validity of any of the other party’s Inventions , without that party’s prior written consent, which shall not be unreasonably withheld. No indemnification of any claim for infringement, misappropriation, or
+misuse shall apply under this Section 10.2 where the claim arises out of the manufacture, use, or anticipated sale of products embodying joint Inventions. 
+
+ 11.
+ PATENT MARKING 
+
+DHI shall mark Products with
+appropriate patent numbers or indicia at Immunicon’s instruction and election, as, when and where DHI may reasonably accommodate same, given packaging, printing schedules and other factors, in those countries where such markings have notice
+value as against infringing persons. 
+
+29 
+
+ 12.
+ CONFIDENTIALITY AND PUBLICATION 
+
+12.1 Confidential
+Information. All Confidential Information disclosed by one party to the other shall not be used by the receiving party except in connection with the activities contemplated by this Agreement, shall be maintained in confidence by the receiving
+party, and shall not be disclosed by the receiving party to any other person, firm or agency, governmental or private, without the prior written consent of the disclosing party, except to the extent Confidential Information is: 
+ 
+(1) known by or in possession of the receiving party at the time of its receipt as documented in written records; 
+ 
+(2) independently developed outside the scope of this Agreement by employees of the receiving party having no access to or knowledge of the Confidential
+Information disclosed hereunder as documented in written records; 
+ 
+(3) in the public domain at the time of its receipt or thereafter
+becomes part of the public domain through no fault of the receiving party; 
+ 
+(4) received without an obligation of confidentiality from a
+Third Party having the right to disclose such information; 
+ 
+(5) required to be disclosed to governmental agencies, or disclosure is
+otherwise required by law, regulation or governmental or court order or the requirements of any securities exchange upon which a party’s securities are traded (so long as the receiving party provides notice of such disclosure, seeks to obtain
+protective orders or other available confidentiality treatment and, in the case of disclosures to the SEC, seeks confidential treatment to the extent reasonably requested by the disclosing party); 
+ 
+(6) released from the restrictions of this Section by the express written consent of the disclosing party; or 
+ 
+(7) disclosed to agents, consultants, assignees, sublicensees or subcontractors of DHI or Immunicon or their Affiliates which have a need to know such
+information in connection with the performance of this Agreement, provided that such persons are or agree to be subject to the provisions of this Section or substantially similar provisions. 
+ 
+12.2 Publication. Prior to public disclosure or submission for publication of a manuscript or other work describing the result of any aspect of scientific or
+clinical activity or collaboration between DHI and Immunicon relating to any activity under the terms of this Agreement, the party disclosing or submitting such a manuscript (“Disclosing Party”) shall send the other party (“Responding
+Party”) a copy of the manuscript to be submitted and shall allow the Responding Party not less than thirty (30) calendar days in which to determine whether the manuscript contains subject matter for which patent protection should be sought
+prior to publication of such manuscript for the purpose of protecting an invention of commercial value to the Responding Party, or whether the manuscript contains confidential information belonging to the Responding Party, or whether the manuscript
+contains information that should not yet be revealed for other business reasons. After the expiration of such thirty (30) calendar day period, if the Responding Party has not objected, the Disclosing Party may submit such manuscript for
+publication and publish or otherwise disclose to 
+
+30 
+
+the public such research results. If the Responding Party believes the subject matter of the manuscript contains confidential information or a patentable
+invention of commercial value to the Responding Party or should not yet be otherwise revealed, then prior to the expiration of such thirty (30) calendar day period, the Responding Party shall notify the Disclosing Party in writing of its
+determination. Upon receipt of such written notice from the Responding party, the Disclosing Party shall delay public disclosure of such information or submission of the manuscript for an additional period of sixty (60) calendar days to permit
+preparation and filing of a patent application on the disclosed subject matter or for such other period and for such other reasons as the parties shall mutually agree. The Disclosing Party shall thereafter be free to publish or disclose such
+information, except that the Disclosing Party may not disclose any Confidential Information of the Responding Party without the prior written consent of the Responding Party. 
+
+ 13.
+ TERM AND TERMINATION 
+
+13.1 Term. Unless earlier
+terminated pursuant to a right of termination provided elsewhere in this Agreement, the Term of this Agreement shall commence on the Effective Date and shall remain in effect for a period ending on the fifth anniversary of the date of commencement
+of the Commercial Period (the “Original Term”). Thereafter, either party may elect to extend the Original Term for one additional five (5) year period (the “Extended Term”) by giving written notice of such extension to the
+other party at least ninety (90) days prior to the expiration of the Original Term; provided, however, that neither DHI nor Immunicon shall have the right to elect to extend the Original Term if it is in Material Breach of the Agreement at the
+time it makes such election. The Original Term together with the Extended Term, if any, is herein referred to as the “Term.” 
+ 
+13.2 Termination
+by Mutual Agreement. This Agreement may be terminated at any time upon the mutual agreement of the parties in writing. 
+ 
+13.3 Termination for
+Breach. In the event of a Material Breach by either party, then the other party may terminate this Agreement by giving such party notice of such Material Breach. The party receiving such notice shall have ninety (90) days from the date of
+receipt thereof to cure such Material Breach. If such Material Breach is not curable or is not cured within such ninety (90) day period, then the non-breaching party shall have the right to terminate this Agreement effective as of the end of
+such period. In the event such Material Breach is cured during such period, such notice shall be of no force or effect and this Agreement shall not be terminated. 
+ 
+13.4 Early Termination. This Agreement shall automatically terminate in the event the Commercial Period does not commence on or before July 1, 2009. 
+ 
+13.5 Termination by Either Party. Either DHI or Immunicon, not earlier than eighteen (18) months after the Effective Date may terminate this Agreement upon written notice to the other party, for any reason
+or for no reason; provided, however, that neither party make exercise its right to terminate this Agreement under this Section 13.5 if a Clinical Trial Plan for the first Initial Product has been submitted to the FDA and the payment provided
+for in Section 3.5.1(b) has been made. In the event of termination of this Agreement in accordance with this Section 13.5, the provisions of Section 13.6 (c) shall apply. 
+
+31 
+
+13.6 Effect of Termination. 
+ 
+(a) Termination under Sections 13.2 or 13.4. Following expiration of the Term or the termination of this Agreement pursuant to
+Section 13.2 or Section 13.4, neither DHI nor Immunicon shall have any rights under the licenses granted to them in Section 7.2 and such licenses shall thereafter be null and void, and all rights granted to each party by the other
+party shall immediately upon such termination revert to the granting party without the necessity of any further written agreement. 
+ 
+(b) Termination under Section 13.3. In the event of termination of this Agreement pursuant to Section 13.3, the breaching party shall have no rights under the license granted to it in Section 7.2 and such license shall
+thereafter be null and void, and all rights granted hereunder to such breaching party by the other party hereto shall immediately upon such termination revert to the granting party without the necessity of any further written instrument. The
+non-breaching party shall have the right, by giving written notice to the breaching party within thirty (30) days of the effective date of such termination, to retain the license granted to it pursuant to Section 7.2 for the remainder of
+the Original Term or then applicable Extended Term. In the event that the non-breaching party elects to retain such license it shall pay to the other party an amount equal to [***] percent ([***]%) of the net revenues (calculated in accordance with
+the calculation applicable to Revenue hereunder) from the sale of products or the performance of services by the non-breaching party utilizing such right and license. If Immunicon is the non-breaching party and elects to retain the license granted
+to it in Section 7.2 as provided for in the preceding sentence, DHI will use commercially reasonable efforts (which shall in no event include the payment of any transfer or other fee other than the royalty provided above) to license, provide
+access or to transfer to Immunicon [***********************************************************] as well as any [****************************************************************] in the possession of DHI or any of its Affiliates necessary or useful
+for Immunicon to make, use, import/export, market and sell Products and Instrument Systems. If DHI is the non-breaching party and elects to retain the license granted to it in Section 7.2, Immunicon will use commercially reasonable efforts to
+continue to supply Instrument Systems and Bulk Reagents to DHI under the terms and conditions of this Agreement and the Distribution Agreement. If Immunicon is unable to supply Instrument Systems or Bulk Reagents to DHI pursuant to the immediately
+preceding sentence, then DHI shall be free to make or have made Bulk Reagents or Instrument Systems. In such case, Immunicon shall use commercially reasonable efforts (which shall in no event include the payment of any transfer or other fee other
+than the royalty provided above) to license, provide access or transfer to DHI any product registrations or Regulatory Approvals that may be registered in the name of Immunicon or any of its Affiliates as well as any trademarks, licenses and all
+intellectual property and technology, know-how, software, permits, approvals, relevant manufacturing information and other information in the possession of Immunicon or any of its Affiliates necessary or useful for DHI to make, have made, use,
+import/export, market and sell Instrument Systems and Products and to make, have made and use Bulk Reagents in the manufacture of Products as contemplated by this Agreement. The breaching party will also provide advice and consultation to the
+non-breaching party with respect to its use of the technology and other property of the breaching party pursuant to this paragraph. 
+
+32 
+
+(c) Termination under Section 13.5. In the event of termination of this
+Agreement pursuant to Section 13.5, the right and license granted to the terminating party under Section 7.2 shall thereafter be null and void, and shall immediately upon such termination revert to the granting party without the necessity
+of any further written instrument; provided, however, that the non-terminating party shall have the right, upon giving written notice to the terminating party within thirty (30) days following the receipt of notice of termination from the
+terminating party in accordance with Section 13.5, to retain the right and license granted to it pursuant to Section 7.2, subject to and as modified by this Section 13.6(c), by electing in such written notice one of the following
+options: 
+ 
+(i) If the non-terminating party is DHI, DHI may elect to retain the exclusive right and license granted under
+Section 7.2.1, in which case such exclusive right and license shall continue for a period of [****] ([***]) [****] from the commencement of the Commercial Period (the “DHI Exclusivity Period”), after which period, unless DHI elects
+one of the additional options set forth in this paragraph, such right and license shall be null and void, and shall immediately revert to Immunicon without the necessity of any further written instrument. In the event that DHI elects to retain such
+exclusive right and license, DHI shall pay to Immunicon during the DHI Exclusivity Period a royalty in an amount equal to forty one percent (41%) of Revenues (as defined below) until the total amount of royalty paid equals [********]
+($[*********]), at which time the royalty payable will be reduced to an amount equal to [******] percent ([***]%) of Revenues. Such royalty shall be due and payable within thirty (30) days after the end of each calendar quarter. Prior to the
+end of the DHI Exclusivity Period, DHI may elect, by written notice to Immunicon given at least ninety (90) days prior to the last day of the DHI Exclusivity Period, either (A) to maintain such exclusive right and license, in which case
+DHI shall pay to Immunicon a one-time lump-sum payment of [*************] ($[********]) within thirty (30) days after the last day of the DHI Exclusivity Period in addition to continuing to pay to Immunicon a royalty of [*****] percent ([***]%)
+of Revenues payable as above, in which case such exclusive right and license shall continue until the last to expire of the [******] included in [************] or so long as a license is required by DHI to utilize the [************] to make, have
+made, use, import/export, market and sell [***********] and to make, have made and use [***********] in the manufacture of [*********], or (B) to convert such exclusive right and license to a non-exclusive right and license by paying to
+Immunicon a lump-sum payment of [*********] ($[*****]) within thirty (30) days after the last day of the DHI Exclusivity Period and thereafter paying to Immunicon a royalty equal to [***] percent ([**]%) of Revenues. Such non-exclusive right
+and license shall continue until the last to expire of the [********] included in [************] or so long as a license is required by DHI to utilize the [***********] to make, have made, use, import/export, market and sell [*************] and to
+make, have made and use [***********] in the manufacture of [*******]. Any royalty payable under this paragraph (i) shall be due and payable within thirty (30) days after the end of each calendar quarter. 
+ 
+(ii) If the non-terminating party is DHI, DHI may elect to convert the exclusive right and license granted under Section 7.2.1 to a
+non-exclusive license, in which case such non-exclusive right and license shall continue until the last to expire of the [********] included in [**********] or so long as a license is required by DHI to utilize the [************]] to make, have
+made, use, import/export, market and sell [*************] and to make, have made and use [*********] in the manufacture of [******]. In the event that DHI elects such non-exclusive right and license, 
+
+33 
+
+DHI shall pay to Immunicon a lump-sum payment of [**********] dollars ($[*******]) within thirty (30) days after the Agreement termination date and a
+royalty equal to [***] percent ([***]%) of Revenues. Any royalty payable under this paragraph (ii) shall be due and payable within thirty (30) days after the end of each calendar quarter following the Agreement termination date.
+
+(iii) If the non-terminating party is Immunicon, Immunicon may elect to retain the exclusive right and license granted
+under Section 7.2.2, in which case such exclusive right and license will continue for a period of [***] ([***]) [***] from the commencement of the Commercial Period (the “Immunicon Exclusivity Period”), after which period, unless
+Immunicon elects one of the additional options set forth in this paragraph, such right and license shall thereafter be null and void, and shall immediately revert to DHI without the necessity of any further written instrument. In the event that
+Immunicon elects to retain such exclusive right and license, Immunicon shall pay to DHI during the Immunicon Exclusivity Period a royalty in an amount equal to [*****] percent ([***]%) of Revenues until the total amount of royalty paid equals
+[*********] ($[*****]), at which time the royalty payable will be reduced to an amount equal to [******] percent ([***]%) of Revenues. Prior to the end of the Immunicon Exclusivity Period, Immunicon may elect, by written notice to DHI given at least
+ninety (90) days prior to the lat day of such period, either (A) to maintain such exclusive right and license, in which case Immunicon shall pay to DHI a lump-sum payment of [***************] ($[********]) within thirty (30) days
+after the last day of the Immunicon Exclusivity Period in addition to continuing to pay to DHI a royalty equal to [*****] percent ([***]%) of Revenues, in which case such exclusive right and license shall continue for [**********] of the
+intellectual property and other proprietary rights owned by or licensed to DHI related to [*********] and [**********], or (B) to convert such exclusive right and license to a non-exclusive right and license by paying to DHI a lump-sum payment
+of [***********] ($[*****]) within thirty (30) days after the last day of the Immunicon Exclusivity Period and thereafter paying to DHI a royalty equal to [***] percent ([***]%) of Revenues. Such non-exclusive right and license shall continue
+for [*********] of the intellectual property and other proprietary rights owned by or licensed to DHI related to [*********] and [**********]. Any royalty payable under this paragraph (iii) shall be due and payable within thirty (30) days
+after the end of each calendar quarter. 
+ 
+(iv) If the non-terminating party is Immunicon, Immunicon may elect to convert the
+exclusive right and license granted under Section 7.2.2 to a non-exclusive license, in which case such non-exclusive right and license shall continue for [*********] of the intellectual property and other proprietary rights owned by or licensed
+to DHI related to [***********] and [********]. In the event that Immunicon elects a non-exclusive right and license, Immunicon shall pay to DHI a lump-sum payment of [***********] ($[*****]) within thirty (30) days after the Agreement
+termination date and a royalty equal to [****] percent ([***]%) of Revenues. Any royalty payable under this paragraph (iv) shall be due and payable within thirty (30) days after the end of each calendar quarter following the Agreement
+termination date. 
+ 
+(d) In the event the terminating party under Section 13.5 is Immunicon and DHI elects to retain a
+right and license under Sections 13.6 (c) (i) or (ii), Immunicon will use commercially reasonable efforts (which shall in no event include the payment of any transfer or other fee other than the royalty provided above) to license, provide
+access or transfer to DHI [******************************************] as well as any 
+
+34 
+
+[*********************************************************************] necessary or useful for DHI to make or have made, use, import/export, market and sell
+Instrument Systems and Products and to make and use Bulk Reagents in the manufacture of Products. In the event the terminating party under Section 13.5 is DHI and Immunicon elects to retain a right and license under Sections 13.6(c)(iii) or
+(iv), DHI will use commercially reasonable efforts (which shall in no event include the payment of any transfer or other fee other than the royalty provided above) to license, provide access or to transfer to Immunicon [***************************]
+as well as any [********], [********], [************], [***********] and all other [*****************] in the possession of DHI or any of its Affiliates necessary or useful for Immunicon to make or have made, use, import/export, market and sell
+Products and Instrument Systems. The terminating party will also provide advice and consultation to the non-terminating party with respect to its use of the technology and other property of the terminating party pursuant to this Section. The
+provisions of Section 7.3 of the Agreement shall continue to be applicable to technology rights licensed by DHI. 
+ 
+(e)
+For purposes of Section 13.6(d) and notwithstanding the definitions given to such terms in Section 2 of this Agreement, the following terms shall have the respective meanings set forth below: 
+ 
+(i) “Product(s)” shall have the meaning given to that term in Section 2 of this Agreement, except that it shall include all
+Products, including the Products listed as “Additional Products” in Exhibit A hereto, whether or not any such Product shall have been approved by the Management Board prior to the time of termination of this Agreement. When reference is
+made in Section 13.6(d) to a right and license granted to a party under Section 7.2.1 or Section 7.2.1 of this Agreement, the term “Products” as used in such Section 7.2.1 or Section 7.2.2, as the case may be,
+shall be deemed to refer to the definition of the term “Products” provided for in the immediately preceding sentence. 
+ 
+(ii) “Revenues” shall have the meaning given to such term in Section 2 of this Agreement, except that (i) when such term is used in Section 13.6(d) in reference to amounts received by Immunicon all references to DHI
+and/or its Affiliates in such Section 2 definition of “Revenues” shall be deemed to refer to Immunicon and/or its Affiliates and (ii) all references to “Products” in such Section 2 definition of
+“Revenues” shall be deemed to refer to Products as defined in this Section 13.6(e). 
+ 
+(f) During the DHI
+Exclusivity Period, Immunicon shall not manufacture, promote, market, sell or distribute, or license any of its intellectual property so that a Third Party may manufacture, promote, market, sell or distribute, any Products (as defined in
+Section 13.6(e)) or Instrument Systems (whether or not previously approved by the Management Board) for use in the Field. During the Immunicon Exclusivity Period, DHI shall not manufacture, promote, market, sell or distribute, or license any of
+its intellectual property so that a Third Party may manufacture, promote, market, sell or distribute, any Products (as defined in Section 13.6(e)) for use in the Field. 
+ 
+(g) Termination of this Agreement for any reason shall not release any party hereto from any liability (or obligation assumed and
+substantially undertaken but not yet accrued) which, at the time of such termination, has already accrued to the other party or which is attributable to a period 
+
+35 
+
+prior to such termination, nor preclude either party from pursuing any rights and remedies it may have hereunder at law or in equity which accrued or are
+based upon any event occurring prior to such termination, subject to any limitations on damages expressly set forth herein. 
+
+ 14.
+ DISPUTE RESOLUTION 
+
+14.1 Any dispute, except a dispute
+involving infringement of Third Party intellectual property rights or any intellectual property rights owned or controlled by a party, shall be submitted to arbitration, which shall be exclusive, final, binding, and conducted by three arbitrators in
+accordance with the rules of the American Arbitration Association (“AAA”) applicable to commercial disputes. The decision of the arbitrators shall be final and in writing setting forth the award and the reasons therefor. All hearings in
+the arbitration shall be held in Wilmington, Delaware and the arbitrators shall apply the substantive law of Delaware (except where the law conflicts with this clause) except that the interpretation and enforcement of this arbitration provision
+shall be governed by the Federal Arbitration Act. The arbitrators shall be neutral, independent, disinterested, impartial and shall abide by the Code of Ethics for Arbitrators in Commercial Disputes approved by the AAA. Within thirty (30) days
+of initiation of arbitration, the parties shall reach agreement upon and thereafter follow procedures assuring that the arbitration will be concluded and the award rendered within no more than three (3) months from selection of the arbitrators.
+Failing such agreement, the AAA will design and the parties will follow procedures that meet such a time schedule. Each party has the right before or, if the arbitrators cannot hear the matter within an acceptable period, during the arbitration to
+seek and obtain from the appropriate court provisional remedies such as attachment, preliminary injunction, replevin, etc., to avoid irreparable harm, maintain the status quo or preserve the subject matter of the arbitration. Depositions shall not
+be permitted in any arbitration unless the arbitrators decide otherwise upon good cause shown by a party. Each party shall bear its own fees and expenses, including attorneys’ fees. The fees and expenses of the arbitrators and the cost of the
+arbitration shall be borne equally by the parties. THE ARBITRATORS SHALL NOT AWARD ANY PARTY PUNITIVE, EXEMPLARY, MULTIPLIED OR CONSEQUENTIAL DAMAGES, AND EACH PARTY HEREBY IRREVOCABLY WAIVES ANY RIGHT TO SEEK SUCH DAMAGES. NO PARTY MAY SEEK OR
+OBTAIN PREJUDGMENT INTEREST OR ATTORNEYS’ FEES OF COSTS. Any decision of the arbitrators may be entered as a judgment in any court of competent jurisdiction and may be enforced as such in accordance with the provisions of the award. This
+agreement to arbitrate shall be specifically enforceable by the parties. 
+ 
+14.2 Any dispute involving infringement of Third Party intellectual property
+rights or any intellectual property rights owned or controlled by a party, will be resolved exclusively in the Federal courts located in the State of Delaware. Each of the parties hereby expressly submits to the personal jurisdiction of the
+foregoing courts located in Delaware and waives any objection or defense based on personal jurisdiction or venue that might otherwise be asserted to proceedings in such courts. The parties further hereby irrevocably waive, to the fullest extent
+permitted by law, all rights to trial by jury in any action, proceeding or counterclaim (whether in contract, statute, tort (including negligence) or otherwise) relating to or arising from the Agreement. In any litigation, each party shall bear its
+own fees and expenses, including attorneys’ fees. 
+
+36 
+
+ 15.
+ REPRESENTATIONS, INDEMNIFICATION, NON-COMPETITION 
+
+15.1
+Representations of Immunicon. Immunicon represents and warrants to DHI that: 
+ 
+15.1.1 The execution, delivery and
+performance of this Agreement by Immunicon will not, with or without notice, the passage of time or both, result in any violation of, be in conflict with, or constitute a default under, any contract, obligation or commitment to which Immunicon is a
+party or by which it is bound, or to Immunicon’s knowledge, any statute, rule or governmental regulation applicable to Immunicon. 
+ 
+15.1.2 Immunicon has all requisite legal and corporate power and authority to enter into this Agreement and to carry out and perform its obligations under the terms of this Agreement. All corporate action on the part
+of Immunicon and its employees, agents, officers, directors and stockholders necessary for the performance of Immunicon’s obligations hereunder has been taken. This Agreement constitutes a valid and binding obligation of Immunicon, enforceable
+in accordance with its terms, except as (i) the enforceability hereof may be limited by bankruptcy, insolvency, moratorium or other similar laws affecting the enforcement of creditors’ rights and remedies generally, (ii) the
+availability of equitable remedies (e.g., specific performance, injunctive relief, and other equitable remedies) may be limited by equitable principles of general applicability, and (iii) that no representation is made regarding the effect of
+laws relating to competition, antitrust or misuse. 
+ 
+15.1.3 Immunicon, as of the Effective Date, is not a party to any
+material contract (other than this Agreement) with a Third Party with respect to the Field. 
+ 
+15.2 Representations of DHI. DHI represents and
+warrants to Immunicon that: 
+ 
+15.2.1 The execution, delivery and performance of this Agreement by DHI will not, with or
+without notice, the passage of time or both, result in any violation of, be in conflict with, or constitute a default under any contract, obligation or commitment to which DHI is a party or by which it is bound, or to DHI’s knowledge, any
+statute, rule or governmental regulation applicable to DHI. 
+ 
+15.2.2 DHI has all requisite legal and corporate power and
+authority to enter into this Agreement and to carry out and perform its obligations under the terms of this Agreement. All corporate action on the part of DHI and its employees, agents, officers and directors necessary for the performance of its
+obligations hereunder has been taken. This Agreement constitutes a valid and binding obligation of each such party, enforceable in accordance with its terms, except as (i) the enforceability hereof may be limited by applicable bankruptcy laws
+and other similar laws affecting creditors’ rights and remedies generally, (ii) the availability of equitable remedies (e.g. specific performance, injunctive relief and other equitable remedies) may be limited by equitable principles of
+general applicability, and (iii) that no representation is made regarding the effects of laws relating to competition, antitrust or misuse. 
+
+37 
+
+15.2.3 DHI, as of the Effective Date, is not a party to any material contract (other than this Agreement)
+with a Third Party with respect to the manufacture or sale of Products or Instrument Systems in the Field. 
+ 
+15.3 Indemnification by DHI. DHI shall
+at all times, during the term of this Agreement and thereafter, indemnify and hold harmless Immunicon and its Affiliates, stockholders, directors, officers, agents and employees from any claim, proceeding, loss, expense, and liability of any kind
+whatsoever (including but not limited to those resulting from death, personal injury, illness or property damage and including reasonable legal expenses and attorneys’ fees) (collectively, “Damages”) arising out of or resulting from
+(a) the material inaccuracy of any representation or the breach of any warranty, covenant or agreement made by DHI in this Agreement or (b) the negligence or willful misconduct of DHI or any of its employees or agents in connection with
+activities undertaken by DHI under this Agreement; provided, however that there shall be apportionment in accordance with responsibility when such indemnity obligation derives in part from acts of DHI and in part from acts of Immunicon
+(and the parties hereby agree to split all third party product liability or personal injury claims arising from the sale, use or distribution of any Product or Instrument System that meets the applicable specifications and is not otherwise defective
+as agreed to by the parties and if the parties are unable to reach such agreement then such matter shall be determined in accordance with the arbitration procedures set forth herein and the arbitrators shall make such determination in accordance
+with the relative fault of the parties); provided, further, however, Immunicon shall bear all Damages which arise out of or result from the sale, use or distribution of any Product or Instrument System that does not meet the applicable
+specifications or is otherwise defective or not consistent with any warranty as to Bulk Reagents or Instrument Systems made by Immunicon hereunder. 
+ 
+15.4
+Indemnification by Immunicon. Immunicon shall at all times, during the term of this Agreement and thereafter, indemnify and hold harmless DHI and its Affiliates, stockholders, directors, officers, agents and employees from any claim,
+proceeding, loss, expense, and liability of any kind whatsoever (including but not limited to those resulting from death, personal injury, illness or property damage and including reasonable legal expenses and attorneys’ fees) arising out of or
+resulting from (a) the material inaccuracy of any representation or the breach of any warranty, covenant or agreement made by Immunicon in this Agreement or (b) the negligence or willful misconduct of Immunicon or any of its employees or
+agents in connection with activities undertaken by Immunicon pursuant to this Agreement; provided, however, that there shall be apportionment in accordance with responsibility when such indemnity obligation derives in part from acts of
+DHI and in part from acts of Immunicon in the manner provided for in Section 15.3. 
+ 
+15.5 Claims. In any claim for indemnification (an
+“Indemnity Claim”), the indemnified party agrees to give the indemnifying party prompt written notice of any matter upon which such indemnified party intends to base such a claim under this Agreement. The indemnifying party shall have the
+right to participate jointly with the indemnified party in the indemnified party’s defense, settlement or other disposition of any Indemnity Claim. With respect to any Indemnity Claim relating solely to the payment of money damages and which
+could not result in the indemnified party’s becoming subject to injunctive or other equitable relief or otherwise adversely affect the business of the indemnified party in any manner, and as to which the indemnifying party shall have
+acknowledged in writing the obligation to indemnify the indemnified party hereunder, the 
+
+38 
+
+indemnifying party shall have the sole right to defend, settle or otherwise dispose of such Indemnity Claim, on such terms as the indemnifying party, in its
+sole discretion, shall deem appropriate; provided that the indemnifying party shall provide reasonable evidence of its ability to pay any damages claimed and with respect to any such settlement shall obtain the written release of the indemnified
+party from the Indemnity Claim. The indemnifying party shall obtain the written consent of the indemnified party prior to ceasing to defend, settling or otherwise disposing of any Indemnity Claim if as a result thereof the indemnified party would
+become subject to injunctive or other equitable relief or the business of the indemnified party would be adversely affected in any manner. In the event that any such indemnity obligation shall be apportioned between the parties, Immunicon shall have
+the right to control the Indemnity Claim, subject to the participation and involvement of DHI, but no settlement of any such Indemnity Claim shall be made without the consent of both Immunicon and DHI. 
+ 
+15.6 Non-Competition. During the Term, except pursuant to the terms of this Agreement, neither DHI nor Immunicon shall manufacture, promote, market, sell or
+distribute, or license any of its intellectual property so that [**********] may manufacture, promote, market, sell or distribute in the United States of American and Canada and their respective territories and possessions, any [*********] or
+[**********] or any [***************] (as defined below) for use in the Field. In the event of the termination of this Agreement pursuant to Section 13.3, the breaching party shall continue to be subject to the restrictions of the preceding
+sentence for a period of [************] following the termination of this Agreement. For purposes of this Section 15.6, a “*********” refers to a testing system, including instruments, software, and consumable or disposable items,
+that can be used to test for any of the [**********] identified in [********] and which incorporates and uses [**********] and [************] and [************] for [*********]. For avoidance of doubt, a fluorescent or light microscope is
+specifically excluded from the definition of an [*************] or [************] and kits of the type currently included in DHI’s product catalog as of the Effective Date are excluded from the non-competition provisions of this
+Section 15.6 and the [***********] shall be deemed an [***********] for purposes of this Section 15.6 only. 
+
+ 16.
+ MISCELLANEOUS 
+
+16.1 Notices. Any notice to be given
+hereunder by DHI to Immunicon or by Immunicon to DHI shall be in writing and delivered personally, or sent by national overnight delivery service or postage pre-paid registered or certified U.S. mail, and shall be deemed given: when delivered, if by
+personal delivery or overnight delivery service; or upon if so sent by U.S. mail, three business days after deposit in the mail, and shall be addressed: 
+ 
+If to DHI, to DHI’s address set forth above, to the attention of the Chief Executive Officer; with a copy to Chief Financial Officer. 
+ 
+If to
+Immunicon, to Immunicon’s address set forth above, to the attention of the Chief Executive Officer; with a copy to: Chief Counsel; 
+ 
+or to such other
+address as any party shall hereafter designate by notice given in accordance with this Section. 
+
+39 
+
+16.2 Payment of Expenses. Except as expressly set forth herein, all costs and expenses related to this Agreement
+and the related transactions, including the fees and expenses of legal counsel, accountants, brokers and other representatives and consultants, shall be borne by the party incurring such costs and expenses, whether or not such transactions are
+consummated. 
+ 
+16.3 Assignment. Neither this Agreement nor any of the rights, interests or obligations hereunder may be assigned by either party
+without the prior written consent of the other party which consent shall not be unreasonably withheld; except that either party without the consent of the other party may assign this Agreement and all of such rights, interests and obligations to a
+Third Party who acquires all or substantially all of the business and assets, and assumes all or substantially all of the obligations and liabilities, of the assigning party, including all of the obligations and liabilities of the assigning party
+under this Agreement; provided, however, that any such assignee shall provide written acknowledgment to the non-assigning party to this Agreement at the time of such assignment of the foregoing assumption of all of the obligations and liabilities of
+the assigning party under this Agreement in a form substantially as set forth in Exhibit C. 
+ 
+16.4 Public Statements and Press Releases. The parties
+hereto covenant and agree that, except as otherwise expressly set forth in this Agreement, each will not, from and after the Effective Date, make, issue or release any public announcement, press release, statement or acknowledgment of the existence
+of, or reveal publicly the terms, conditions and status of, the transactions contemplated herein, without the prior written consent of the other party as to the content and time of release of and the media in which such statement or announcement is
+to be made; provided, however, that in the case of announcements, statements, acknowledgments or revelations which either party is required by law or regulation to make, issue or release, the making, issuing or releasing of any such
+announcement, statement, acknowledgment or revelation by the party so required to do so by law shall not constitute a breach of this Agreement so long as the issuing or releasing party, to the extent reasonably possible, gives the other party an
+opportunity to review and comment on any such written announcement or statement prior to its release. 
+ 
+16.5 Modifications and Amendments. This
+Agreement shall not be modified or otherwise amended except pursuant to an instrument in writing executed by each of the parties hereto. 
+ 
+16.6
+Headings. The Article and Section headings contained in this Agreement are for reference purposes only and shall not affect in any way the meaning and interpretation of this Agreement. 
+ 
+16.7 Waiver. The failure of either party to require the performance of any provision of this Agreement, or the waiver of either party of any breach of any
+provision of this Agreement, shall not prevent a subsequent exercise or enforcement of such provision or be deemed a waiver of any subsequent breach of the same or any other provision of this Agreement. 
+ 
+16.8 Counterparts. This Agreement may be executed in one or more counterparts, each of which shall be deemed an original, but all of which together shall
+constitute one and the same instrument. 
+ 
+16.9 Invalidity. In the event that any one or more of the provisions (or any part thereof) of this
+Agreement or in any other instrument referred to herein, shall, for any reason, be held to be invalid, 
+
+40 
+
+illegal or unenforceable in any respect, then to the maximum extent permitted by law, such invalidity, illegality or unenforceability shall not affect any
+other provision of this Agreement or any other such instrument. 
+ 
+16.10 Construction/Governing Law. The parties have participated jointly in the
+negotiation and drafting of this Agreement. In the event an ambiguity or question of intent or interpretation arises, this Agreement shall be construed as if drafted jointly by the parties and no presumption or burden of proof shall arise favoring
+or disfavoring any party by virtue of the authorship of any of the provisions of this Agreement. This Agreement shall be governed by and interpreted in accordance with the laws of the State of Delaware, without giving effect to conflicts of law or
+choice of law provisions. 
+ 
+16.11 Incorporation of Exhibits and Schedules. The Exhibits, Schedules and other instruments referred to in this
+Agreement are incorporated herein by reference and made a part hereof. In the event of any conflict between the provisions of any such Exhibit, Schedule or other instrument and those of the body of this Agreement, the provisions of the body of this
+Agreement shall govern and prevail. 
+ 
+16.12 Entire Agreement. It is the desire and intent of the parties to provide certainty as to their future
+rights and remedies against each other by defining the extent of their undertakings herein. This Agreement constitutes and sets forth the entire agreement and understanding between the parties with respect to the subject matter hereof and is
+intended to define the full extent of the legally enforceable undertakings of the parties hereto, and no promise, agreement or representation, written or oral, which is not set forth explicitly in this Agreement is intended by either party to be
+legally binding. Each party acknowledges that in deciding to enter into this Agreement and to consummate the transactions contemplated hereby it has not relied upon any statements, promises or representations, written or oral, express or implied,
+other than those explicitly set forth in this Agreement. This Agreement supersedes all previous understandings, agreements and representations between the parties, written or oral, with respect to the subject matter hereof. 
+ 
+16.13 Survival of Certain Provisions. In addition to any other provisions of this Agreement that expressly survive termination of this Agreement, to the extent
+applicable the following Sections shall survive termination of this Agreement along with any remedies for the breach thereof: Section 7.1 (Ownership of IP), accrued rights under Section 8 (Patents), 9 (Third Party Infringement), 10
+(Infringement), 11 (Marking), 12 (Confidentiality), 14 (Dispute Resolution), 15.1 and 15.2 (Representations), 15.3 and 15.4 (Indemnification) and 15.5 (Claims). 
+ 
+16.14 No Agency. Nothing in this Agreement shall be construed to make the relationship of the parties herein a joint venture, an association, or a partnership, or to make the parties agents of one another. This Agreement shall not be
+construed to authorize the parties to act as agents of one another as to any matter set forth herein or to make any representations to any third parties indicating or implying the existence of any such agency relationship, and the status of the
+parties shall be that of independent contractors for all purposes hereunder. 
+ 
+16.15 Rights Upon Insolvency. All rights and licenses granted under or
+pursuant to this Agreement by one party (“Licensor”) to the other party (“Licensee”) are, for all purposes of Section 365(n) of 
+
+41 
+
+Title 11 of the U.S. Code (“Title 11”), licenses of rights to intellectual property as defined in Title 11. Each party agrees during the term of
+this Agreement to create and maintain current copies or, if not amenable to copying, detailed descriptions or other appropriate embodiments, of all such Inventions. If a case is commenced by or against any party hereto under Title 11, then, unless
+and until this Agreement is rejected as provided in Title 11, such party (in any capacity, including debtor-in-possession) and its successors and assigns (including, without limitation, a Title 11 trustee) shall either perform all of the obligations
+provided in this Agreement to be performed by such party or provide to the other party all such intellectual property (including all embodiments thereof) held by such party and such successors and assigns, as the other party may elect in a written
+request, immediately upon such request. If a Title 11 case is commenced by or against a party, this Agreement is rejected as provided in Title 11 and the other party elects to retain its rights hereunder as provided in Title 11, then such party (in
+any capacity, including debtor-in-possession) and its successors and assigns (including, without limitation, a Title 11 trustee) shall provide to the other party all such intellectual property (including all embodiments thereof) held by such party
+and such successors and assigns immediately upon the other party’s written request therefor. All rights, powers and remedies of any party, as a Licensee hereunder, provided herein are in addition to and not in substitution for any and all other
+rights, powers and remedies now or hereafter existing at law or in equity (including, without limitation, Title 11) in the event of the commencement of a Title 11 case by or against the other party. Licensee, in addition to the rights, powers and
+remedies expressly provided herein, shall be entitled to exercise all other such rights and powers and resort to all other such remedies as may now or hereafter exist at law or in equity (including Title 11) in such event. 
+ 
+IN WITNESS WHEREOF, the parties hereto, intending to be legally bound, have each caused this Agreement to be duly executed as of the date first above
+written. 
+
+ IMMUNICON CORPORATION
+
+ By
+ 
+ /s/ Byron D. Hewett
+
+ Byron D. Hewett
+
+ President and CEO
+
+ DIAGNOSTIC HYBRIDS, INC.
+
+ By
+ 
+ /s/ David R. Scholl
+
+ David R. Scholl
+
+ President and CEO
+
+42 
+
+EXHIBIT A 
+ 
+Initial Products 
+ 
+The following Initial Products will be developed for the following Target Entities and Infectious Diseases:
+
+Respiratory Viruses: 
+
+ •
+
+Launch Menu Target Entity Focus 
+
+ •
+
+[*********] 
+
+ •
+
+[*********] 
+
+ •
+
+[*********] 
+
+ •
+
+[*********] 
+
+ •
+
+Potential Product Descriptions for these Launch Menu Target Entities: 
+
+ •
+
+Single Target Entity Products 
+
+ •
+
+[***********] 
+
+ •
+
+[***********] 
+
+ •
+
+Combination Target Entity Products ([*********]) 
+
+ •
+
+[**********] 
+
+ •
+
+[**********] 
+
+ •
+
+[**********] 
+
+Sexually
+Transmitted Disease/[**********]: 
+
+ •
+
+Launch Menu Target Entity Focus 
+
+ •
+
+[************] 
+
+ •
+
+[************] 
+
+ •
+
+Potential Product Descriptions for these Launch Menu Target Entities: 
+
+ •
+
+Single Target Entity Products 
+
+ •
+
+[********] 
+
+ •
+
+[********] 
+
+ •
+
+Combination Target Entity Products ([*********]) 
+
+ •
+
+[************] 
+
+ •
+
+[************] 
+
+Additional Products
+
+Immunicon and DHI currently contemplate the Product Development and commercialization under a Commercialization Plan approved by the Management
+Board of Additional Products for the Target Entities and Infectious Diseases described below. These Additional Products would be added to the Products subject to the Agreement. 
+
+43 
+
+Family Menu of Additional Products 
+ 
+Respiratory Viruses: 
+
+ •
+
+Family Menu Target Entity Focus 
+
+ •
+
+[************] 
+
+ •
+
+[************] 
+
+ •
+
+[************] 
+
+ •
+
+[************] 
+
+Sexually
+Transmitted Disease/[********]: 
+
+ •
+
+Family Menu Target Entity Focus 
+
+ •
+
+[*********] 
+
+ •
+
+[*********] 
+
+ •
+
+[*********] 
+
+Emerging Opportunity Menu of
+Additional Products 
+ 
+Respiratory Viruses: 
+
+ •
+
+Emerging Opportunity Target Entity Focus 
+
+ •
+
+[*******] 
+
+ •
+
+[*******] 
+
+ •
+
+[*******] 
+
+ •
+
+[*******] 
+
+ •
+
+[*******] 
+
+Sexually Transmitted
+Disease/[*********]: 
+
+ •
+
+Emerging Opportunity Target Entity Focus 
+
+ •
+
+[***********] 
+
+Procedures for Introducing
+Additional Products 
+ 
+DHI currently intends to develop Detection Reagents for one or more of the Additional Products identified in
+the Family Menu or the Emerging Opportunities Menu above. If DHI is successful in developing at least [***] Detection Reagent for an Additional Product and has demonstrated such success to Immunicon, it may thereafter propose from time to time to
+the Management Board that one or more of the Additional Products identified in the Family Menu and/or the Emerging Opportunity Menu above be developed and commercialized as a Product or Products under the Agreement. DHI will give written notice (the
+“DHI Proposal”) to the Management Board of its desire to develop and commercialize an Additional Product, which notice shall include a forecast of estimated revenue from the sale of such Additional Product for the first three years of the
+Additional Product’s Commercial Period. If the Management Board then decides to develop a Project Plan for such Additional Product, DHI and Immunicon will negotiate in good faith commercially reasonable terms and conditions for the sharing of
+costs associated with such Project Plan within sixty days (60) following the decision of the Management Board to develop the Project Plan. Immunicon will not seek [***********] for the development and commercialization of the Additional
+Products. 
+
+44 
+
+If DHI and Immunicon reach agreement on the terms and conditions for sharing the costs associated with a
+Additional Product Project Plan and a decision is made to pursue the development and commercialization of such Additional Product, the Management Board will follow substantially the same procedures as would be applicable if such Additional Product
+was an Initial Product including the determination of Initial Feasibility, conducting Product Development and the development of a Commercialization Plan, and including forecast sales of such Additional Product in the applicable strategic forecast
+and twelve-month forecast. 
+ 
+If, within [*********] of the Effective Date, DHI has not developed a Detection Reagent for at least [***]
+Additional Product and submitted a DHI Proposal to the Management Board, the provisions of this Exhibit A with respect to the development of Additional Products shall no longer be effective. 
+
+45 
+
+Exhibit B 
+ 
+Distribution Agreement (Distribution Agreement”) with respect to Distribution of Immunicon Corporation (“Immunicon”) Instrument Systems by Diagnostic Hybrids, Inc. (“Distributor”)
+
+ 1.
+ Instrument Systems. The Instrument System(s) of Immunicon which are the subject of this Distribution Agreement are defined in and described in detail in the agreement
+(“Master Agreement”) to which this Distribution Agreement is annexed as Exhibit B, and shall additionally include upgraded or improved Instrument Systems that may become available from Immunicon during the term of this Distribution
+Agreement. All Instrument Systems shall conform to Immunicon’s standard specifications, as may be set forth in the Master Agreement. All shipping cartons and packaging material shall conform to applicable laws and specifications. This
+Distribution Agreement shall be executed by the parties as of the commencement of the Commercial Period (as defined in the Master Agreement). Capitalized terms used in this Distribution Agreement without definition shall have the meanings given to
+them in the Master Agreement. 
+
+ 2.
+ Distribution Rights/No Agency. Immunicon grants to Distributor the exclusive right to distribute the Instrument Systems in the United States of America and Canada
+(including their respective territories) (the “Primary Territory”), subject to the terms and conditions of the Master Agreement. Distributor shall be permitted to distribute the Instrument Systems through a third party subcontractor only
+with the prior written consent of Immunicon, such consent not to be unreasonably withheld, and any such subcontractor shall in any event agree in writing to be bound to the terms and conditions of this Distribution Agreement and the relevant terms
+and conditions of the Master Agreement to the same extent as Distributor hereunder. It is understood and agreed that Distributor is an independent contractor for all purposes under this Distribution Agreement and is not, and shall not be construed
+to be, an agent of Immunicon for any purpose. Distributor shall not hold itself out to third parties or represent itself as the agent of Immunicon for any purpose, or hold itself out to Third Parties as having the authority to enter into or incur on
+behalf of Immunicon, any contractual obligation, expense, or liability whatsoever. It is specifically understood and agreed that employees or agents of Distributor are not eligible to participate in or to exercise rights under any of
+Immunicon’s compensation or benefit plans that Immunicon provides for its employees. 
+
+ 3.
+ Pricing. The prices to Distributor for Instrument Systems to be distributed under this Distribution Agreement shall be as set forth in Appendix A hereto. No minimum
+orders shall be required with respect to volume or cost, except as may be otherwise set forth in Appendix A or in the Master Agreement, in which case such minimums shall apply. The prices determined as set forth in Appendix A shall include all
+packaging and shipping costs. 
+
+46 
+
+ 4.
+ Payment Terms. Payment terms shall be net thirty (30) days from the receipt of a valid invoice by Distributor. Immunicon may charge one and one half percent per
+month interest on the total amount due on any unpaid invoices more than thirty (30) days past due. 
+
+ 5.
+ Shipping. Immunicon shall ship all Instrument Systems FOB shipping point. 
+
+ 6.
+ Information Exchange. Upon the request of Distributor, Immunicon shall use reasonable efforts to implement full electronic data interchange for receipt of purchase
+orders and transmission of invoices. 
+
+ 7.
+ Term. The term of this Distribution Agreement shall be concurrent with the Master Agreement, and, unless otherwise provided in the Master Agreement, shall expire or
+terminate upon the expiration or termination of the Master Agreement. All terms and conditions of the Master Agreement applicable to the purchase, sale and distribution of Instrument Systems are hereby incorporated in this Distribution Agreement by
+reference. 
+
+ 8.
+ Breach. A material breach by Distributor or Immunicon of any of the terms and conditions of this Distribution Agreement, which breach is not cured by the
+breaching party within ninety (90) days of its receipt of written notice of the breach, shall be deemed a Material Breach of the Master Agreement and the non-breaching party shall have the rights provided for in Section 13.3 of the Master
+Agreement. 
+
+ 9.
+ Warranties. Immunicon will honor the terms and conditions of any warranties which may be given by Immunicon on Instrument Systems. A copy of any such warranties is
+attached hereto as Appendix B and incorporated herein by reference. The terms and conditions of any such warranties shall survive the termination of this Distribution Agreement. 
+
+ 10.
+ Trademarks/Intellectual Property. Immunicon’s trademarks, brands, and goodwill associated with Instrument Systems and all other intellectual property and other
+proprietary rights therein shall remain the sole property of Immunicon. Except as otherwise provided in the Master Agreement, no right or license under any intellectual property or other proprietary rights of Immunicon, or in or to any underlying
+technology embodied in Instrument Systems, or their use, is granted or is to be implied under this Agreement. 
+
+ 11.
+ Promotion. Distributor shall use its commercially reasonable efforts to sell the Instrument Systems in the Primary Territory, and shall do so in accordance with any
+commercially reasonable restrictions or conditions that may be imposed by Immunicon on the use of the Instrument Systems (provided such conditions are not inconsistent with the Master Agreement) and communicated in writing to Distributor and/or as
+may be specified by Immunicon in Appendix A or in the Master Agreement. All activities of Distributor shall be conducted in accordance with applicable law and regulation, and in conformance with representations and warranties made by Immunicon in
+its advertising, product labeling and literature. 
+
+ 12.
+ 
+Confidentiality. The parties expressly agree to hold as confidential any information (“Confidential Information”) which is provided by one
+party to the other hereunder and 
+
+47 
+
+designated in writing as confidential by the disclosing party at the time of disclosure thereof. In the event Confidential Information is exchanged according
+to these guidelines, such Confidential Information shall be retained by the receiving party in confidence for a period of five (5) years from the date of disclosure. The transmittal of such Confidential Information is and shall be upon the
+express condition that the Confidential Information is to be used solely to effectuate this Distribution Agreement and the Master Agreement; and the receiving party shall not use, publish, or disclose such Confidential Information, in whole or in
+part, for any purpose other than that stated herein or therein. Notwithstanding the foregoing, the above restrictions on disclosure and use shall not apply to any Confidential Information which the receiving party can show by competent evidence was
+known to it at the time of receipt, or which may be obtained from a Third Party who is not bound by an obligation of confidentiality to the disclosing party, or which is in the public domain at the time of disclosure to the receiving party or
+thereafter becomes in the public domain through no fault of the receiving party. 
+
+ 13.
+ Entire Agreement. Except for the Master Agreement, this Distribution Agreement constitutes the entire agreement and understanding of the parties with respect to the
+matters set forth herein. Any and all understandings and expectations for and from either party are of no effect unless expressly set forth herein. Any amendment of this Distribution Agreement must be in writing and executed by both parties hereto.
+
+ 14.
+ Assignment, Succession and Waiver. This Distribution Agreement and any part thereof is not assignable by either party without first obtaining the express written
+consent of the other party, except that Immunicon or Distributor may assign this Distribution Agreement without such consent to a purchaser of all or substantially all of its assets and business who assumes substantially all of its liabilities,
+including its obligations under the Master Agreement and this Agreement, under the same terms and conditions applicable to the assignment of the Master Agreement. Any such permitted assignment shall not constitute a modification or amendment of the
+terms and conditions of the Master Agreement, all of which terms and conditions shall remain in effect notwithstanding any such assignment. This Distribution Agreement shall be binding upon and shall inure to the benefit of the parties and their
+respective successors and assigns. No express waiver or any prior breach of this Distribution Agreement shall constitute a waiver of any subsequent breach hereof and no such waiver shall be implied. In the event that any provision of this
+Distribution Agreement conflicts or is inconsistent with the terms of the Master Agreement, the terms of the Master Agreement shall control. 
+
+Appendix A to Distribution Agreement 
+ 
+The Transfer Price of the Instrument Systems to DHI will be a price that yields a
+gross margin of [***]% to Immunicon. Immunicon will provide DHI from time to time upon its request documentation sufficient to support Immunicon’s calculation of the Transfer Price of the Instrument Systems. Appendix A will set forth the
+procedure by which Immunicon will determine and 
+
+48 
+
+communicate the Transfer Price to DHI. Once so determined, the Transfer Price will remain in effect for a period of twelve months before it is revised,
+if necessary. 
+ 
+Notwithstanding the foregoing, the Transfer Price of an Instrument System shall not exceed $[******] per unit, irrespective of the gross
+margin to Immunicon, unless the Management Board approves material modifications to the first commercialized version of the Instrument System (the “Original System”) or authorizes the use of an Instrument System that is materially
+different from the Original System, in which case Immunicon and DHI will review whether the costs associated with the development and manufacture of the modified or materially different Instrument System are significantly greater than those
+associated with the Original System, and if such costs are significantly greater, the $[*****] cap on price of the Instrument System shall no longer be applicable. 
+ 
+Appendix B 
+ 
+Warranties 
+ 
+To be agreed by the parties at time of execution of the Distribution Agreement. 
+
+49 
+
+Schedule 2 
+ 
+Schedule 2 – Patents 
+
+Patent Number
+
+Issue Date
+
+Appl. Number
+
+Filing
+ 
+Date
+
+Title
+
+Inventors
+
+[*******]
+
+ [*******]
+ 
+ [*******]
+ 
+ [*******]
+ 
+ [*******]
+ 
+ [*******]
+
+[*******]
+
+ [*******]
+ 
+ [*******]
+ 
+ [*******]
+ 
+ [*******]
+ 
+ [*******]
+
+[*******]
+
+ [*******]
+ 
+ [*******]
+ 
+ [*******]
+ 
+ [*******]
+ 
+ [*******]
+
+[*******]
+
+ [*******]
+ 
+ [*******]
+ 
+ [*******]
+ 
+ [*******]
+ 
+ [*******]
+
+Schedule 5.1.1 - Specifications 
+ 
+Bulk Reagent Specifications 
+ 
+To be determined by the parties 
+
+50 
+
+EXHIBIT C 
+ 
+This is to certify that [Acquirer], being the successor to all or substantially all of the business and assets of the [assigning party], and to all or substantially all of the obligations and liabilities of the [assigning party], hereby
+irrevocably assumes, subject to the right of Acquirer to exercise all of the rights and benefits of the assigning party thereunder, all of the obligations and liabilities of the [assigning party] under the certain agreement entitled “License,
+Development, Supply and Distribution Agreement, by and between Immunicon Corporation and DHI and having an Effective Date as provided therein of
+ , including the same as may be amended from time to time by written agreement of the parties thereto (the
+“Agreement”); and further provided that the Acquirer hereby agrees to abide by all of the terms and conditions of the Agreement applicable to the assigning party subject to its right to exercise the rights of the assigning party under the
+Agreement. 
+
+51

@@ -1,0 +1,923 @@
+EX-10.25
+2
+dex1025.txt
+DURECT SUPPLY AGREEMENT
+
+ Exhibit 10.25
+
+ DURECT SUPPLY AGREEMENT
+
+ This Supply Agreement is made and entered into on and as of October 1st,
+2000, by and between the Pharmaceutical Group division of Mallinckrodt Inc.
+("Mallinckrodt") and DURECT Corporation ("DURECT").
+
+ WHEREAS, DURECT has need of a certain narcotic compound known as Sufentanil
+ ----------
+Base (hereinafter "Product") and is desirous of having Product manufactured by
+----
+Mallinckrodt and of purchasing a substantial portion of its needs for Product
+from Mallinckrodt, on the conditions set forth herein; and
+
+ WHEREAS, Mallinckrodt is capable and desirous of undertaking the supply of
+Product for DURECT in accordance with the terms and conditions set forth herein;
+
+ NOW, THEREFORE, in consideration of the promises, covenants and
+representations of the parties set forth herein, and other good and sufficient
+consideration receipt of which is hereby acknowledged, DURECT and Mallinckrodt
+agree as follows:
+
+ 1. Supply of Product.
+ -----------------
+
+ (a) For the consideration provided herein and in accordance with all
+ terms, conditions, representations and warranties set forth
+ herein, and for the term hereof, subject to the terms and
+ conditions of this Agreement, Mallinckrodt will provide DURECT
+ with such amounts of Product as DURECT shall request from time
+ to time. Subject to Sections 5(a) and 7(d), DURECT, for its
+ part, agrees that it will purchase at least [* * *] of its
+ requirements for Product from Mallinckrodt hereunder during every
+ Contract Year during the term hereof. For purposes of the
+ immediately preceding sentence, "Contract Year" shall mean and
+ refer to each consecutive twelve (12) month period during the
+ term hereof beginning with the twelve month period commencing on
+ October 1st, 2000 and ending on September 30th, 2001. All
+
+ -1-
+
+* Material has been omitted pursuant to a request for confidential treatment,
+ and such material has been filed separately with the SEC.
+
+ Product supplied hereunder shall be manufactured by Mallinckrodt
+ strictly in accordance with current Good Manufacturing Practices
+ ("cGMP") as determined by the Food and Drug Administration
+ ("FDA") using the manufacturing process described in
+ Mallinckrodt's batch records.
+
+ (b) The specifications for Product (including, without limitation,
+ specifications for all components and raw materials, whether
+ active or inactive) are described on Exhibit A attached hereto.
+
+ 2. Raw Materials.
+ -------------
+
+ Subject to the provisions of Section 4 below, all raw materials and
+ other resources required in connection with the production of Product
+ to be supplied hereunder shall be provided by Mallinckrodt at its cost
+ and expense.
+
+ 3. Quality Control.
+ ---------------
+
+ (a) Mallinckrodt will take all steps reasonably necessary to ensure
+ that it has the facilities, equipment, instrumentation, resources
+ and trained personnel to provide all raw materials, in-process
+ and product assays, analysis and other testing as compliance with
+ cGMP standards may require in connection with Mallinckrodt's
+ supply of Product hereunder. Mallinckrodt shall provide a
+ complete Certificate of Analysis and a Material Safety Data Sheet
+ for each lot of Product supplied hereunder at the time of
+ shipment.
+
+ (b) Mallinckrodt shall maintain complete and accurate documentation
+ of all validation data, stability testing data, batch records,
+ quality control and laboratory testing and any other data
+ required under cGMP or other FDA requirements (including without
+ limitation regulations of the DEA), the requirements of other
+ regulatory authorities of European countries listed in Exhibit B
+ and the procedures set forth in any Drug Master File ("DMF") in
+ connection with the supply of Product hereunder.
+
+ -2-
+
+* Material has been omitted pursuant to a request for confidential treatment,
+ and such material has been filed separately with the SEC.
+
+ (c) Mallinckrodt agrees that it will not engage in any act which
+ causes any packaged and labeled Product produced by Mallinckrodt
+ to become adulterated or misbranded within the meaning of the
+ federal Food, Drug and Cosmetic Act, as amended.
+
+ (d) Mallinckrodt shall test or cause to be tested each Lot of Product
+ before delivery of such Lot to DURECT. Mallinckrodt shall retain
+ a sample from each Lot of Product shipped to DURECT as required
+ by FDA regulations.
+
+ (e) Prior to commencing the supply of Product under this Agreement,
+ Mallinckrodt agrees to have and to maintain during the term of
+ this Agreement a DMF for the Product in accordance with the
+ requirements of the FDA. Mallinckrodt hereby grants DURECT the
+ right to reference Mallinckrodt's DMF and equivalent documents
+ for the Product in DURECT's IND, NDA and any other applicable
+ regulatory filings for products incorporating the Product.
+
+ -3-
+
+* Material has been omitted pursuant to a request for confidential treatment,
+ and such material has been filed separately with the SEC.
+
+ 4. Pricing.
+ -------
+
+ (a) For each gram of Product supplied hereunder produced in
+ accordance with the requirements hereof, DURECT shall pay
+ Mallinckrodt in accordance with the following, in any [* * *]:
+
+ (i) [* * *]
+
+ (ii) [* * *]
+
+ (iii) [* * *]
+
+ (iv) [* * *]
+
+ (v) [* * *]
+
+ -4-
+
+* Material has been omitted pursuant to a request for confidential treatment,
+ and such material has been filed separately with the SEC.
+
+ The Product Price set forth in the immediately preceding sentence
+ shall be firm through [* * *], the date of [* * *] being
+ hereinafter referred to as the "Adjustment Date". From and after
+ the Adjustment Date, the Product Price shall be adjusted upward
+ (if applicable) [* * *] (all of which costs are hereinafter
+ referred to as "Product Costs"), in accordance with the following
+ procedures. Within sixty (60) days prior to the end of each
+ Contract Year hereunder during the term hereof, Mallinckrodt will
+ notify DURECT in writing of the amount by which its Product Costs
+ hereunder have increased during the immediately preceding
+ Contract Year period and the adjusted Product Price to be charged
+ for the Contract Year just commenced as a consequence of such
+ increases ("Annual Adjustment Notice"). The amount of any
+ increase in the Product Price as set forth in any Annual
+ Adjustment Notice shall be effective for all Product invoiced by
+ Mallinckrodt to DURECT in accordance herewith during the Contract
+ Year for which such Annual Adjustment Notice is issued.
+ Mallinckrodt agrees that DURECT can hire within sixty (60) days
+ of any Annual Adjustment Notice, at its own expense, an
+ independent third party, approved by Mallinckrodt, to audit
+ Mallinckrodt's books and records to determine whether
+ Mallinckrodt's increase in the Product Price complies with the
+ terms of this Agreement.
+
+ (b) At the time of shipment by Mallinckrodt to DURECT of any lot of
+ Product hereunder, Mallinckrodt shall submit to DURECT an invoice
+ setting forth the total amount of Product being shipped to DURECT
+ and the amount due to Mallinckrodt under subsection (a) set forth
+ immediately above with respect to such volume of Product. Each
+ such invoice shall also contain the required certificates under
+ Section 3(a) and a certification that the Product for which
+ DURECT is being billed has been produced fully in conformance
+ with applicable specifications, cGMP and the requirements hereof.
+ Any such invoice shall be payable by DURECT within thirty (30)
+ days after DURECT's receipt of such invoice.
+
+ (c) Mallinckrodt agrees that in the event that the price for Product
+ charged by Mallinckrodt to any other United States pharmaceutical
+ customer is more
+
+ -5-
+
+* Material has been omitted pursuant to a request for confidential treatment,
+ and such material has been filed separately with the SEC.
+
+ favorable for the same quantity of like grade and quality than
+ the Product Price to DURECT hereunder, and there are no terms or
+ conditions that would reasonably compensate Mallinckrodt for
+ offering such more favorable pricing for Product to the other
+ party, then the Product Price to DURECT shall be adjusted to the
+ price offered to such third party commencing from the date that
+ Mallinckrodt offers such price to the other party.
+
+ 5. Forecasts, Order Placement and Delivery.
+ ---------------------------------------
+
+ (a) DURECT agrees to supply Mallinckrodt, on a quarterly basis, and
+ beginning October 1, 2000, a rolling forecast of its requirements
+ for Product during the next twenty four (24) months. The
+ forecast for the next [* * *] is considered to be firm and
+ binding meaning DURECT must take and pay for Product ordered.
+ The forecast for the next [* * *] is non-binding and will be
+ used by Mallinckrodt for production planning. At any time, if
+ DURECT forecasts Product according to the procedure above and
+ Mallinckrodt is unable to ship Product that is part of any firm
+ and binding portion of a forecast within [* * *] of any agreed
+ upon date or dates of shipment, then DURECT will be permitted to
+ purchase from another supplier that amount of Product that was
+ not shipped by Mallinckrodt within [* * *] days of an agreed
+ upon date for shipment.
+
+ (b) Product shall be ordered by DURECT only in writing.
+ Mallinckrodt will not accept verbal orders of any kind for the
+ production of Product. Any written work order will contain the
+ following information: (i) the precise quantity of Product
+ desired, (ii) dates by which the ordered Product must be ready
+ for release by DURECT's quality assurance function and shipment,
+ (iii) the anticipated shipping destination for any Product and
+ (iv) such other information as DURECT wishes to provide or that
+ Mallinckrodt might find reasonably necessary or useful in
+ completing a specific work order. All work or purchase orders
+ must be submitted by DURECT to Mallinckrodt in writing at least
+ thirty (30) days in advance of the anticipated date of delivery
+ by Mallinckrodt.
+
+ -6-
+
+* Material has been omitted pursuant to a request for confidential treatment,
+ and such material has been filed separately with the SEC.
+
+ (c) Product shall be delivered F.O.B. destination as specified by
+ DURECT in its purchase order on the delivery date specified in
+ the purchase order. Title to Product and risk of loss shall
+ remain with Mallinckrodt until delivery to the specified
+ destination. Mallinckrodt shall be responsible for selection of
+ carrier. Product shall be shipped via overnight delivery unless
+ destination location makes this not feasible. Mallinckrodt is
+ responsible for all transportation and insurance charges.
+
+ 6. Acceptance and Rejection and Recalls.
+ ------------------------------------
+
+ (a) If DURECT reasonably determines that any Product is defective in
+ material or workmanship, not in conformance with applicable
+ specifications, is adulterated or misbranded, or is otherwise not
+ in conformity with this Supply Agreement (Product meeting any or
+ all of such circumstances hereinafter referred to as a "Defective
+ Product"), then DURECT, in addition to any other rights it may
+ have under this Supply Agreement, may reject and return any such
+ Products to Mallinckrodt. At the time of any such rejection,
+ DURECT shall provide Mallinckrodt with a written notice
+ describing in detail the circumstances surrounding the rejection
+ and DURECT's reasons therefor. If DURECT rejects any such
+ Products it will, at Mallinckrodt's option, either return them to
+ Mallinckrodt or destroy or dispose of them in the least expensive
+ and most environmentally sound manner. In any event,
+ Mallinckrodt shall be responsible for the costs of any such
+ return, destruction or disposal. It is understood that DURECT's
+ sole remedies hereunder in the event of a Defective Product it
+ has rejected will either be (i) the replacement by Mallinckrodt
+ of rejected Products that have either been returned or destroyed
+ with Products that are not Defective Products, provided that such
+ replacement is made as soon as practicable or (ii) a full refund
+ of any amount paid hereunder by DURECT for such Defective
+ Products.
+
+ (b) Any Product received by DURECT from Mallinckrodt that has not
+ been rejected by DURECT within sixty (60) days after receipt
+ shall be deemed to have been accepted.
+
+ -7-
+
+* Material has been omitted pursuant to a request for confidential treatment,
+ and such material has been filed separately with the SEC.
+
+ (c) If DURECT reasonably decides to or is required to initiate a
+ product recall, withdrawal or field correction with respect to,
+ or if there is any governmental seizure of, its products
+ containing any Product supplied hereunder which action is due, in
+ whole or in part, to (i) a failure of any of the Product
+ manufactured by Mallinckrodt hereunder to conform to applicable
+ specifications (including, without limitation, it being
+ adulterated or misbranded), or any warranty or other requirement
+ set forth in this Supply Agreement, (ii) the failure by
+ Mallinckrodt to comply in all material respects with any
+ applicable law, rule, regulation, standard, court order or decree
+ or (iii) the negligent or intentional wrongful act or omission of
+ Mallinckrodt in connection with the production of Product
+ hereunder, DURECT will notify Mallinckrodt promptly of the
+ details regarding such action, including providing copies of all
+ relevant documentation concerning such action. Mallinckrodt will
+ assist DURECT in investigating any such situation and all
+ regulatory contacts that are made and all activities concerning
+ seizure, recall, withdrawal or field correction will be jointly
+ coordinated by DURECT and Mallinckrodt.
+
+ (d) If any such recall, withdrawal, field correction or seizure
+ occurs due solely to (i) a failure of any Product sold by
+ Mallinckrodt hereunder to conform to applicable specifications
+ (including, without limitation, it being adulterated or
+ misbranded) or any warranty or other requirement set forth in
+ this Supply Agreement, (ii) the failure by Mallinckrodt to comply
+ in all material respects with any applicable law, rule,
+ regulation, standard, court order or decree or (iii) the
+ negligent or intentional wrongful act or omission of Mallinckrodt
+ in connection with the production of Product hereunder, then
+ Mallinckrodt shall bear the full cost and expense of any such
+ seizure, recall, withdrawal or field correction. If any such
+ recall, withdrawal, field correction or seizure occurs due solely
+ to (i) any pharmaceutical product manufactured, sold or
+ distributed by DURECT that contains Product failing to conform to
+ its applicable specifications (including, without limitation, it
+ being adulterated or misbranded) or otherwise being defective,
+ (ii) the failure of DURECT to comply in all material respects
+ with any applicable law, rule,
+
+ -8-
+
+* Material has been omitted pursuant to a request for confidential treatment,
+ and such material has been filed separately with the SEC.
+
+ regulation, standard, court order or decree or (iii) the
+ negligent or intentional wrongful act or omission of DURECT, then
+ DURECT shall bear the full cost and expense of any such seizure,
+ recall, withdrawal or field correction. If both Mallinckrodt and
+ DURECT contribute to the cause of a seizure, recall, withdrawal
+ or field correction, the cost and expenses thereof will be shared
+ in proportion to each party's contribution to the problem.
+
+ 7. Regulatory Compliance.
+ ---------------------
+
+ (a) Mallinckrodt will comply in all material respects with all
+ federal, state and local laws, regulations and standards
+ applicable to production by Mallinckrodt and its performance of
+ its obligations hereunder.
+
+ (b) Mallinckrodt will promptly furnish DURECT with pertinent portions
+ of all FDA inspection reports and related correspondence directly
+ related to and affecting its performance hereunder as and when
+ such reports and correspondence become available to Mallinckrodt.
+
+ (c) Mallinckrodt will notify DURECT immediately of any warning
+ (including any FDA Form 483), citation, indictment, claim,
+ lawsuit or proceeding issued or instituted by any federal, state
+ or local governmental entity or agency against Mallinckrodt or
+ any of its affiliates or of any revocation of any license or
+ permit issued to Mallinckrodt or any of its affiliates, to the
+ extent that any such occurrence relates directly to
+ Mallinckrodt's performance hereunder.
+
+ (d) Both party's obligations hereunder are subject to obtaining and
+ maintaining the necessary DEA quota. Mallinckrodt shall promptly
+ apply for, and use best efforts to obtain, an increase in its DEA
+ quota for the manufacture of the Product sufficient to process
+ any order for Product hereunder and DURECT shall cooperate with
+ Mallinckrodt in its efforts to obtain such an increase.
+
+ 8. Certain Representations and Warranties of Mallinckrodt.
+ ------------------------------------------------------
+
+ -9-
+
+* Material has been omitted pursuant to a request for confidential treatment,
+ and such material has been filed separately with the SEC.
+
+ (a) Mallinckrodt represents and warrants that all Product sold
+ hereunder will (i) be produced in compliance with cGMPs
+ applicable to the Product, and (ii) will meet all specifications.
+
+ (b) Mallinckrodt represents and warrants that there is no claim,
+ suit, proceeding or investigation pending or, to the knowledge of
+ Mallinckrodt, threatened against Mallinckrodt or any of its
+ affiliates which might prevent or interfere with Mallinckrodt's
+ performance under this Supply Agreement.
+
+ (c) Mallinckrodt represents and warrants to DURECT that Product sold
+ hereunder by Mallinckrodt will not be:
+
+ (i) in violation of Sections 5 or 12 of the Federal Trade
+ Commission Act or improperly labeled under applicable
+ Federal Trade Commission Trade Practice Rules, as and to
+ the extent applicable hereunder,
+
+ (ii) adulterated or misbranded within the meaning of the federal
+ Food, Drug and Cosmetic Act, as amended, or within the
+ meaning of any applicable state or municipal law in which
+ the definitions of adulteration and misbranding are
+ substantially identical with those contained in the federal
+ Food, Drug and Cosmetic Act, or articles which may not
+ under the provisions of Sections 404 or 505 of said Act be
+ introduced into interstate commerce or which may not under
+ substantially similar provisions of any state or municipal
+ law be introduced into commerce,
+
+ (iii) manufactured or sold in violation of the federal Controlled
+ Substances Act, as amended, or any applicable state law,
+
+ (iv) manufactured or sold in violation of any of the provisions
+ of the Fair Labor Standards Act of 1938, as amended,
+
+ -10-
+
+* Material has been omitted pursuant to a request for confidential treatment,
+ and such material has been filed separately with the SEC.
+
+ (v) manufactured in violation of any applicable federal, state
+ or local environmental law or regulation, or
+
+ (vi) manufactured in violation of any agreement (commercial or
+ otherwise), judgment, order or decree to which Mallinckrodt
+ is a party.
+
+ (d) Mallinckrodt certifies that neither it nor any of its affiliates
+ nor any member of their staff has been disqualified or debarred
+ by the FDA for any purpose.
+
+ (e) Mallinckrodt warrants and represents that neither it nor any of
+ its affiliates nor any member of their staff have been charged
+ with or convicted under federal law for conduct relating to the
+ development or approval, or otherwise relating to the regulation
+ of any drug product under the Generic Drug Enforcement Act of
+ 1992 or any other relevant statute, law or regulation.
+
+ -11-
+
+* Material has been omitted pursuant to a request for confidential treatment,
+ and such material has been filed separately with the SEC.
+
+ (f) EXCEPT AS SET FORTH HEREIN ABOVE, MALLINCKRODT MAKES NO OTHER
+ WARRANTY OR REPRESENTATION, EXPRESS OR IMPLIED, CONCERNING ITS
+ PERFORMANCE OR THE PRODUCT SUPPLIED HEREUNDER, INCLUDING ANY
+ WARRANTY OF MERCHANTIBILITY OR FITNESS FOR A PARTICULAR PURPOSE
+ WITH RESPECT TO "PRODUCT". EXCEPT FOR THE OBLIGATIONS OF THE
+ PARTIES UNDER SECTION 6(d) HEREOF, UNDER NO CIRCUMSTANCES WILL
+ EITHER MALLINCKRODT OR DURECT BE LIABLE HEREUNDER FOR
+ CONSEQUENTIAL, INDIRECT, EXEMPLARY OR SPECIAL DAMAGES OR ANY KIND
+ (INCLUDING, WITHOUT LIMITATION, LOST PROFITS), WHETHER OR NOT IN
+ ANY PARTICULAR CIRCUMSTANCE SUCH DAMAGES ARE FORESEEABLE AND
+ WHETHER OR NOT THE OTHER PARTY HAS BEEN ADVISED OF THE
+ POSSIBILITY OF SUCH DAMAGES.
+
+ 9. Manufacturing Changes.
+ ---------------------
+
+ Mallinckrodt shall report to DURECT any significant changes related to
+ the Product DMF that would required an NDA supplement from DURECT.
+ Mallinckrodt will supply DURECT unmodified Product for a maximum of
+ eighteen (18) months after DURECT is informed in writing of a
+ significant DMF change requiring prior approval.
+
+ 10. Facility Access.
+ ---------------
+
+ DURECT, through its employees, consultants or other representatives,
+ will have the right during normal business hours and upon advance
+ arrangement with Mallinckrodt to inspect Mallinckrodt's manufacturing
+ operations to determine whether or not Mallinckrodt is complying in
+ all respects with its obligations hereunder. Without limiting the
+ foregoing, Mallinckrodt shall permit representatives of DURECT (i) to
+ inspect Mallinckrodt's manufacturing and other facilities applicable
+ to the performance of this agreement and (ii) to review
+
+ -12-
+
+* Material has been omitted pursuant to a request for confidential treatment,
+ and such material has been filed separately with the SEC.
+
+ Mallinckrodt's standard operating procedures for the manufacture of
+ the Product, and (iii) Mallinckrodt's testing procedures and testing
+ records relative to the manufacture of Product. DURECT warrants that
+ all such inspections and audits shall be carried out in a manner
+ calculated not to unreasonably interfere with Mallinckrodt's conduct
+ of business and to insure the continued confidentiality of
+ Mallinckrodt's business and technical information. Further, DURECT
+ agrees to comply with all of Mallinckrodt's safety and security
+ requirements and audit policies during any visits to the Mallinckrodt
+ facilities.
+
+ Mallinckrodt shall notify DURECT as soon as possible in writing in the
+ event any action is taken or threatened by the FDA, the DEA or any
+ other regulatory agency relating to the manufacture of the Product,
+ including any inspection report, or any review resulting in the
+ issuance of a Form 483, or a warning letter.
+
+ 11. Force Majeure.
+ -------------
+
+ Neither party to this Supply Agreement shall be liable for or be in
+ breach of any provision hereof for any failure or delay on its part to
+ perform any obligation (other than the obligation to make payments
+ when due) under any provision of this Supply Agreement because of an
+ event of "force majeure", including, but not limited to, any act of
+ God, fire, flood, explosion, unusually severe weather, war,
+ insurrection, riot, sabotage, labor unrest, strikes or work stoppages
+ or any other cause whatsoever, whether similar or dissimilar to those
+ enumerated herein, beyond any reasonable possibility of control of
+ such party, if and only if the party affected shall have used all
+ reasonable efforts under the circumstances to avoid such occurrence
+ and to remedy it promptly if it shall have occurred. If an event of
+ force majeure causes a failure or delay in performance hereunder by
+ Mallinckrodt for more than one hundred eighty (180) continuous days,
+ DURECT, at its option, may (i) terminate this Supply Agreement
+ effective upon written notice to Mallinckrodt or (ii) may extend the
+ delivery or performance period by the amount of time during which such
+ delivery or performance was omitted or delayed.
+
+ -13-
+
+* Material has been omitted pursuant to a request for confidential treatment,
+ and such material has been filed separately with the SEC.
+
+ 12. Relationship of Parties.
+ -----------------------
+
+ For all purposes hereof, Mallinckrodt shall be deemed to be an
+ independent contractor and this Supply Agreement shall not create an
+ agency, partnership, joint venture, or employer/employee relationship
+ between DURECT and Mallinckrodt, and nothing hereunder shall be deemed
+ to authorize either party hereto to act for, represent or bind the
+ other or any of its affiliates except as expressly provided in this
+ Supply Agreement.
+
+ 13. Confidentiality.
+ ---------------
+
+ (a) DURECT and Mallinckrodt shall maintain in confidence and not use
+ or disclose to any third party, except as is specifically
+ contemplated herein or is otherwise necessary to perform their
+ respective obligations under this Supply Agreement, and then only
+ on a confidential basis satisfactory to both parties, any
+ information, including without limitation the terms of this
+ Agreement, business and technical information, experience or data
+ regarding any facility, programs, laboratories, processes,
+ products, costs, equipment operation or customers, in any case
+ relating to the manufacture or sale of Product hereunder. The
+ foregoing obligations of confidentiality and non-use shall
+ survive the termination or expiration of this Supply Agreement
+ for a period of five (5) years. Nothing herein shall prevent
+ either party from disclosing any information required by statute
+ or governmental regulations to be disclosed publicly pursuant to
+ security regulations or in a judicial or administrative
+ proceeding after all reasonable legal remedies for limiting
+ disclosure and/or maintaining such information in confidence have
+ been practically exhausted or from using information which (i)
+ has been published or has become part of the public domain other
+ than by acts, omissions or fault of such party, (ii) was lawfully
+ received by such party from a third party free of any obligation
+ of confidence to such third party, (iii) or a party can
+ demonstrate from its records was already in its possession prior
+ to receipt thereof, directly or indirectly, from the other party.
+ The party asserting the applicability of one of the exclusions
+ from the obligation of
+
+ -14-
+
+* Material has been omitted pursuant to a request for confidential treatment,
+ and such material has been filed separately with the SEC.
+
+ confidentiality set forth in the immediately preceding sentence
+ shall have the burden of proving the applicability of any such
+ exclusion in any particular circumstance.
+
+ (b) Each party acknowledges that any breach by it of the
+ confidentiality obligations set forth in this Section 13 would
+ cause the other party irreparable harm for which compensation by
+ monetary damages would be inadequate and, therefore, the party
+ that has been harmed by any such breach shall have the right to
+ an injunction or decree for specific performance, in addition to
+ any other rights and remedies such party may have at law or in
+ equity.
+
+ 14. Indemnification.
+ ---------------
+
+ (a) Subject to the provisions of Section 8(f) hereof, Mallinckrodt
+ (on behalf of itself and its affiliates) hereby agrees to
+ indemnify, defend and hold harmless DURECT and its affiliates
+ from and against any and all demands, claims, actions, causes of
+ action, assessments, losses, damages, injuries, liabilities,
+ costs and expenses, including without limitation, interest,
+ penalties and reasonable attorneys' fees and expenses
+ (collectively "Damages") asserted against, resulting to, imposed
+ upon or incurred by DURECT or its affiliates, directly or
+ indirectly related to, arising out of or resulting from:
+
+ (i) any breach or failure of any of the representations,
+ warranties and covenants of Mallinckrodt contained herein,
+ including (without limitation) any breach or failure by
+ Mallinckrodt to perform any obligations contained herein,
+ and
+
+ (ii) any failure of Mallinckrodt to observe or comply in all
+ material respects with any laws, rules or regulations
+ directly related to Mallinckrodt's performance hereunder.
+
+ (b) Subject to the provisions of Section 8(f) hereof, DURECT hereby
+ agrees to indemnify, defend and hold harmless Mallinckrodt and
+ any of its affiliates
+
+ -15-
+
+* Material has been omitted pursuant to a request for confidential treatment,
+ and such material has been filed separately with the SEC.
+
+ from and against any and all Damages asserted against, resulting
+ to, imposed upon or incurred by Mallinckrodt, directly or
+ indirectly related to, arising out of or resulting from:
+
+ (i) any breach or failure of any of the representations,
+ warranties and covenants of DURECT contained herein,
+
+ (ii) any failure of DURECT to observe or comply in all material
+ respects with any laws, rules or regulations directly
+ related to DURECT's performance hereunder, and
+
+ (iii) DURECT's or DURECT's agents', distributors' or customers'
+ use, processing, transportation, possession, disposal or
+ sale of any dosage product manufactured by DURECT, whether
+ containing Product or not, and whether used alone or in
+ combination with any other material.
+
+ 15. Term and Termination.
+ --------------------
+
+ (a) Unless sooner terminated in accordance herewith , the initial
+ term of this Supply Agreement shall be for a period of four (4)
+ years commencing on October 1st , 2000 and ending on September
+ 30th, 2004, and shall automatically be renewed for additional one
+ (1) year terms thereafter unless either party shall give written
+ notice to the other, at least one (1) year prior to the end of
+ the initial term or any renewal term, that it does not wish the
+ Supply Agreement to be renewed for an additional one (1) year
+ period.
+
+ (b) In addition to any other right of termination specifically
+ provided for hereunder, this Supply Agreement may be terminated
+ by either party for cause upon thirty (30) days written notice to
+ the other. For purposes of the preceding sentence, "cause" shall
+ mean (without limitation):
+
+ (i) any material breach of this Agreement by a party which shall
+ go uncorrected for a period of thirty (30) days after
+ written notice of such
+
+ -16-
+
+* Material has been omitted pursuant to a request for confidential treatment,
+ and such material has been filed separately with the SEC.
+
+ breach has been given to the defaulting party, including
+ Sections 3a, 3b, and 7c,
+
+ (ii) the institution by a party of voluntary proceedings in
+ bankruptcy or under any insolvency law or law for the
+ relief of debtors,
+
+ (iii) the making by a party of an assignment for the benefit of
+ creditors or any dissolution or liquidation,
+
+ (iv) the filing of an involuntary petition under any bankruptcy
+ or insolvency law against a party, unless such petition is
+ dismissed or set aside within sixty (60) days from the date
+ of its filing, or
+
+ (v) the appointment of a receiver or trustee for the assets or
+ business of a party, unless such appointment is dismissed
+ or set aside within sixty (60) days from the date of such
+ appointment.
+
+ (c) This Agreement may be terminated by DURECT upon 60 days' written
+ notice at any time upon DURECT's reasonable determination that
+ the price charged by Mallinckrodt for Product hereunder is higher
+ than the prevailing price for Product from Mallinckrodt to other
+ United States Pharmaceutical customers for similar quantities of
+ like grade and quality Product or in the event that DURECT, at
+ its sole discretion, ceases to develop or commercialize any
+ products incorporating the Product.
+
+ (d) The representations and warranties of the parties hereunder,
+ covenants which by their terms have effect after the termination
+ or expiration hereof, and the parties' indemnification and
+ confidentiality obligations shall survive termination or
+ expiration of this Supply Agreement.
+
+ -17-
+
+* Material has been omitted pursuant to a request for confidential treatment,
+ and such material has been filed separately with the SEC.
+
+ (e) In the event of any termination of this Supply Agreement, for
+ whatever reason, and notwithstanding the effective date of any
+ termination, Mallinckrodt shall complete any orders for Product
+ that were made by DURECT and accepted by Mallinckrodt prior to
+ such date, and DURECT shall pay Mallinckrodt for any Product
+ produced in accordance with such orders at the then applicable
+ Product Price in effect on the effective date of termination
+ hereunder. In addition, provided that a firm order is delivered by
+ DURECT no later than thirty (30) days after the effective date of
+ any termination, Mallinckrodt shall supply to DURECT at the
+ Product Price in effect on the effective date of termination the
+ quantity of Product as specified by DURECT in said firm order to
+ be delivered no later than twelve (12) months after Mallinckrodt's
+ receipt of the order from DURECT.
+
+ 16. Remedies Cumulative.
+ -------------------
+
+ Except as and when expressly stated, the remedies provided in this Supply
+ Agreement shall be cumulative and shall not preclude assertion by any
+ party hereto of any other rights (whether legal or equitable in nature)
+ or the seeking of any other remedies against any other party hereto.
+
+ -18-
+
+* Material has been omitted pursuant to a request for confidential treatment,
+ and such material has been filed separately with the SEC.
+
+ 17. Binding Effect and Assignment.
+ -----------------------------
+
+ This Supply Agreement shall inure to the benefit of and be binding upon
+ the parties hereto, their successors and assigns; provided, however, that
+ neither party shall, without the prior written consent of the other
+ party, assign or transfer any of its rights, benefits, obligations, or
+ other interest under this Supply Agreement to any other party, except
+ that, without seeking the consent of the other party, either Mallinckrodt
+ or DURECT may assign this Supply Agreement to any entity or person it
+ controls, it is controlled by or is under common control with, and that,
+ without seeking the consent of the party, either party may transfer this
+ Agreement to an acquirer of all or substantially all of the assets and
+ business to which this Agreement relates, except that no such assignment
+ without consent shall be permitted if a DURECT acquirer is a direct
+ competitor of Mallinckrodt in the supply of bulk material to which
+ Mallinckrodt reasonably objects in writing within thirty (30) days after
+ written notice from DURECT of the intended acquisition.
+
+ 18. Notice.
+ ------
+
+ All notices, consents, approvals or other notifications required to be
+ sent by one party to the other party hereunder shall be in writing and
+ shall be deemed served upon the other party if delivered by hand or sent
+ by United States registered or certified mail, postage prepaid, with
+ return receipt requested, or by facsimile, air courier or telex,
+ addressed to such other party at the address set out below, or the last
+ address of such party as shall have been communicated to the other party.
+ If a party changes its address, written notice shall be given promptly to
+ the other party of the new address. Notice shall be deemed given on the
+ day it is sent (in the case of delivery by method other than hand
+ delivery) or the date of delivery (in the case of delivery by hand) in
+ accordance with the provisions of this paragraph. The addresses for
+ notices are as follows:
+
+ -19-
+
+* Material has been omitted pursuant to a request for confidential treatment,
+ and such material has been filed separately with the SEC.
+
+ If to Mallinckrodt:
+
+ Mallinckrodt Inc.
+ c/o Pharmaceuticals Group
+ 675 McDonnell Boulevard
+ Hazelwood, Missouri 63042
+ Attn: Michael J. Collins
+ President
+ Pharmaceuticals
+
+ with a copy to:
+
+ Mallinckrodt Inc.
+ 675 McDonnell Boulevard
+ Hazelwood, Missouri 63042
+ Attn: C. Stephen Kriegh
+ Staff Vice President
+
+ If to DURECT:
+
+ DURECT Corp.
+ 10240 Bubb Road
+ Cupertino, CA 95014
+ Attn: General Counsel
+
+ -20-
+
+* Material has been omitted pursuant to a request for confidential treatment,
+ and such material has been filed separately with the SEC.
+
+ 19. Governing Law and Jurisdiction.
+ -------------------------------
+
+ This Agreement shall be governed by and construed in accordance with
+ the laws of the State of New York, without reference to its conflict
+ of laws provisions that might apply to the law of another
+ jurisdiction.
+
+ 20. Waiver.
+ ------
+
+ The failure by any party to exercise any of its rights hereunder or to
+ enforce any of the terms or conditions of this Supply Agreement on any
+ occasion shall not constitute or be deemed a waiver of that party's
+ rights thereafter to exercise any rights hereunder or to enforce each
+ and every term and condition of this Supply Agreement.
+
+ 21. Modifications.
+ -------------
+
+ This Supply Agreement may not be amended or modified except by a
+ writing specifically referring to this Supply Agreement and executed
+ by duly authorized representatives of both parties. The obligations
+ of the parties are governed by the terms and conditions of this Supply
+ Agreement and none of the general terms and conditions of any DURECT
+ purchase order or any Mallinckrodt acknowledgment or any substantially
+ similar documents of either party will in any case be controlling or
+ supersede the provisions hereof.
+
+ 22. Severability.
+ ------------
+
+ A determination that any portion of this Supply Agreement is
+ unenforceable or invalid shall not affect the enforceability or
+ validity of any of the remaining portions hereof or of this Supply
+ Agreement as a whole. In the event that any part of any of the
+ covenants, sections or provisions herein may be determined by a court
+ of law or equity to be overly broad or against applicable precedent or
+ public policy, thereby making such covenants, sections or provisions
+ invalid or unenforceable, the parties shall attempt to reach agreement
+ with respect to a valid and enforceable substitute
+
+ -21-
+
+* Material has been omitted pursuant to a request for confidential treatment,
+ and such material has been filed separately with the SEC.
+
+ for the deleted provisions, which shall be as close in its intent and
+ effect as possible to the deleted portions.
+
+ 23. Headings.
+ --------
+
+ The parties agree that the section and article headings are inserted
+ only for ease of reference, shall not be construed as part of this
+ Supply Agreement, and shall have no effect upon the construction or
+ interpretation of any part hereof.
+
+ 24. Counterparts.
+ ------------
+
+ This Supply Agreement may be executed in several counterparts, and
+ each executed counterpart shall be considered an original of this
+ Supply Agreement.
+
+ 25. Entire Agreement.
+ ----------------
+
+ This Supply Agreement represents the entire agreement and
+ understanding of the parties hereto with respect to its subject matter
+ and supersedes any and all prior agreements, understanding or
+ discussions, whether written or oral, between the parties.
+
+ IN WITNESS WHEREOF, the parties hereto have caused this Supply Agreement to
+be executed as of the day and year first above written.
+
+ MALLINCKRODT INC.
+DURECT CORPORATION Pharmaceuticals Group
+
+By: /s/ James B. Brown By: /s/ Michael J. Collins
+ ------------------ -----------------------
+ James E. Brown Michael J. Collins, Senior Vice President
+ President and CEO & President, Pharmaceuticals Group
+
+ -22-
+
+* Material has been omitted pursuant to a request for confidential treatment,
+ and such material has been filed separately with the SEC.
+
+ EXHIBIT A
+
+ PRODUCT SPECIFICATIONS
+
+Appearance [* * *]
+
+Identification [* * *]
+
+Water [* * *]
+
+Assay by Titration [* * *]
+
+Assay by HPLC [* * *]
+
+OVI [* * *]
+
+Ethanol [* * *]
+
+Sulphated Ash [* * *]
+
+Heavy Metals (Pb) [* * *]
+
+ -1-
+
+* Material has been omitted pursuant to a request for confidential treatment,
+ and such material has been filed separately with the SEC.
+
+ EXHIBIT B
+
+ [* * *]
+ ------------------
+
+[* * *]
+[* * *]
+[* * *]
+[* * *]
+[* * *]
+[* * *]
+[* * *]
+[* * *]
+
+ -2-
+
+* Material has been omitted pursuant to a request for confidential treatment,
+ and such material has been filed separately with the SEC.

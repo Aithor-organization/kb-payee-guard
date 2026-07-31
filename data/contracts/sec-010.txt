@@ -1,0 +1,1533 @@
+EX-10.W
+14
+b45002ssexv10ww.txt
+NEWBURY PARK WAFER SUPPLY AND SERVICES AGREEMENT
+
+ Exhibit 10.w
+
+WHENEVER CONFIDENTIAL INFORMATION IS OMITTED HEREIN (SUCH OMISSIONS ARE DENOTED
+BY AN ASTERISK), SUCH CONFIDENTIAL INFORMATION HAS BEEN SUBMITTED SEPARATELY TO
+THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO A REQUEST FOR CONFIDENTIAL
+TREATMENT.
+================================================================================
+
+ NEWBURY PARK
+ WAFER SUPPLY AND SERVICES AGREEMENT
+
+ among:
+
+ ALPHA INDUSTRIES, INC.
+ a Delaware corporation;
+
+ and
+
+ CONEXANT SYSTEMS, INC.
+ a Delaware corporation;
+
+ ---------------------------------
+ Dated as of June 25th, 2002
+ ---------------------------------
+
+================================================================================
+
+ TABLE OF CONTENTS
+
+ PAGE
+ 
+1. DEFINITIONS........................................................................................ 1
+
+ 1.1 "Buyer Spin-off"............................................................................ 1
+ 1.2 "Buyer Subsidiary".......................................................................... 1
+ 1.3 "Competitor"................................................................................ 1
+ 1.4 "Confidential Information................................................................... 1
+ 1.5 "Cycle Time"................................................................................ 1
+ 1.6 "Delivery Note"............................................................................. 2
+ 1.7 "Engineering Wafers"........................................................................ 2
+ 1.8 "Final Test Services........................................................................ 2
+ 1.9 "Party"..................................................................................... 2
+ 1.10 "Pizza Mask Wafers" ........................................................................ 2
+ 1.11 "Photomasks................................................................................. 2
+ 1.12 "Post Probe Processing Services"............................................................ 2
+ 1.13 "Price"..................................................................................... 2
+ 1.14 "Probe Services"............................................................................ 2
+ 1.15 "Process Technology"........................................................................ 2
+ 1.16 "Production Wafers"......................................................................... 2
+ 1.17 "Purchase Order"............................................................................ 2
+ 1.18 "Quality Specifications".................................................................... 2
+ 1.19 "Risk Production"........................................................................... 2
+ 1.20 "Services".................................................................................. 2
+ 1.21 "Specifications"............................................................................ 2
+ 1.22 "Supplier Fab".............................................................................. 3
+ 1.23 "Wafers".................................................................................... 3
+
+2. PURCHASE AND SUPPLY OBLIGATIONS.................................................................... 3
+
+ 2.1 Buyer Purchases............................................................................. 3
+ 2.2 Supplier Supply Obligations................................................................. 3
+
+3. WAFER AND SERVICES PURCHASES ...................................................................... 5
+
+ 3.1 Scope....................................................................................... 5
+ 3.2 Process Technologies........................................................................ 5
+ 3.3 Wafer Forecasts............................................................................. 5
+ 3.4 Purchase Orders............................................................................. 5
+ 3.5 Acceptance and Acknowledgement.............................................................. 6
+ 3.6 Wafer Lots; Expedited Services.............................................................. 6
+ 3.7 Pizza Mask Wafers........................................................................... 6
+
+ -i-
+
+ TABLE OF CONTENTS
+ (CONTINUED)
+
+ PAGE
+ 
+ 3.8 Cancellation and Modifications to Orders ................................................... 6
+ 3.9 Materials................................................................................... 7
+ 3.10 Inactive Material........................................................................... 7
+ 3.11 Risk Production............................................................................. 7
+ 3.12 Rework...................................................................................... 8
+ 3.13 NRE Services................................................................................ 8
+ 3.14 Final Test and Probe Services............................................................... 8
+
+4. DELIVERY AND LOGISTICS ............................................................................. 9
+
+ 4.1 Delivery.................................................................................... 9
+ 4.2 Wafers...................................................................................... 9
+ 4.3 Product Logistics........................................................................... 9
+
+5. PRICING AND PAYMENTS ............................................................................... 9
+
+ 5.1 Pricing and Invoices........................................................................ 9
+ 5.2 Costs....................................................................................... 10
+ 5.3 Taxes....................................................................................... 10
+
+6 . TRACKING; REPORTING; AND AUDITS .................................................................... 10
+
+ 6.1 Wafer Tracking.............................................................................. 10
+ 6.2 Reporting Requirements ..................................................................... 10
+
+7 . WARRANTY AND DISCLAIMER ............................................................................ 10
+
+ 7.1 Wafer Warranty ............................................................................. 10
+ 7.2 Services Warranty........................................................................... 11
+ 7.3 Disclaimers................................................................................. 11
+
+8 . INDEMNIFICATION..................................................................................... 11
+
+ 8.1 Indemnification Obligations ................................................................ 11
+ 8.2 Conditions.................................................................................. 12
+ 8.3 Sole and Exclusive Remedy................................................................... 12
+
+9. CONFIDENTIALITY..................................................................................... 12
+
+ 9.1 Confidentiality Obligations................................................................. 12
+ 9.2 Exceptions.................................................................................. 13
+ 9.3 Confidentiality of this Supply Agreement ................................................... 13
+ 9.4 Injunctive Relief........................................................................... 13
+
+10. LIMITATIONS OF LIABILITY............................................................................ 13
+
+ 10.1 Disclaimer.................................................................................. 13
+
+ -ii-
+
+ TABLE OF CONTENTS
+ (CONTINUED)
+
+ PAGE
+ 
+ 10.2 Liability Limitation........................................................................ 13
+ 10.3 Basis of Bargain............................................................................ 14
+
+11. TERM; TERMINATION................................................................................... 14
+
+ 11.1 Term........................................................................................ 14
+ 11.2 Termination................................................................................. 14
+ 11.3 Termination for Non-Payment................................................................. 14
+ 11.4 Termination of Buyer Spin-off Agreements.................................................... 14
+ 11.5 Effect of Termination....................................................................... 15
+
+12. GENERAL............................................................................................. 15
+
+ 12.1 Agency...................................................................................... 15
+ 12.2 Governing Law; Venue and Jurisdiction....................................................... 15
+ 12.3 Dispute Resolution and Escalation........................................................... 15
+ 12.4 Third-Party Beneficiaries................................................................... 16
+ 12.5 Compliance with Law......................................................................... 16
+ 12.6 Force Majeure............................................................................... 16
+ 12.7 Amendment; Later Agreement.................................................................. 16
+ 12.8 Assignment.................................................................................. 16
+ 12.9 Notices..................................................................................... 17
+ 12.10 Waiver...................................................................................... 17
+ 12.11 Severability................................................................................ 17
+ 12.12 Counterparts and Facsimile.................................................................. 17
+ 12.13 Rules of Construction....................................................................... 18
+ 12.14 Entire Agreement............................................................................ 18
+
+EXHIBIT A - PRICING........................................................................................... 20
+EXHIBIT B - QUALITY SPECIFICATIONS ........................................................................... 21
+EXHIBIT C - NEW PROCESS TECHNOLOGY PROCEDURES ................................................................ 22
+EXHIBIT D - WAFER CYCLE TIMES ................................................................................ 23
+EXHIBIT E - FINAL TEST AND PROBE SERVICES SUPPORT ............................................................ 24
+EXHIBIT F - DELIVERY AND LOGISTICS ........................................................................... 25
+EXHIBIT G - REPORTS........................................................................................... 26
+
+ -iii-
+
+ NEWBURY PARK WAFER SUPPLY AND SERVICES AGREEMENT
+
+ THIS WAFER SUPPLY AND SERVICES AGREEMENT (the "SUPPLY AGREEMENT") is
+entered into as of June 25th 2002 (the "EFFECTIVE DATE") by and between CONEXANT
+SYSTEMS, INC., a Delaware corporation ("BUYER") and ALPHA INDUSTRIES, INC., a
+Delaware corporation ("SUPPLIER").
+
+ RECITALS
+
+ A. Buyer desires, on the terms and conditions of this Supply
+Agreement, to purchase from Supplier semiconductor wafers and related foundry,
+manufacturing, probe, and other services.
+
+ B. Supplier is willing to supply such wafers and services to Buyer on
+the terms and conditions of this Supply Agreement.
+
+ NOW, THEREFORE, in consideration of the mutual covenants and agreements
+contained in this Supply Agreement, the Parties agree as follows:
+
+ AGREEMENT
+
+1. DEFINITIONS. Capitalized terms not expressly defined elsewhere in this
+Supply Agreement have the following meanings:
+
+ 1.1 "BUYER SPIN-OFF" means any entity (including, without limitation,
+Mindspeed) that is a successor of any portion of the business of Buyer resulting
+from a spin-off or divestiture of such business, regardless of whether or not
+Buyer retains an equity or ownership interest in such entity.
+
+ 1.2 "BUYER SUBSIDIARY" means any entity that at any time during the
+term of this Supply Agreement controls, is controlled by, or is under common
+control with Buyer, where control means direct or indirect ownership of fifty
+percent (50%) or more of the outstanding voting stock or other equity interests
+ordinarily having voting rights.
+
+ 1.3 "COMPETITOR" means a business entity which derives a material
+portion of its revenue (over the most recent three (3) year period) from sales
+of similar products in similar markets, as compared with the products and
+markets of a Party.
+
+ 1.4 "CONFIDENTIAL INFORMATION" shall mean (i) for information
+disclosed after the Effective Date, all non-public information disclosed by one
+Party to the other Party pursuant to this Supply Agreement that is identified as
+"confidential" or marked with a similar legend at the time of such disclosure
+or, if disclosed other than in writing, identified as confidential at the time
+of disclosure and confirmed in writing within thirty (30) days, (ii) for
+information currently in the possession of the other Party as of the Effective
+Date, all non-public information that a reasonable person would have understood
+to be confidential, regardless of the form or manner of disclosure, (iii) any
+information obtained by one Party's employees or agents while on the premises of
+the other Party, which, under the circumstances, a reasonable person would have
+understood to be confidential, and (iv) any specifications or technical
+information related to Buyer's products (e.g., structure, design, layout) and
+Supplier's process technologies that are known to, or otherwise in the
+possession of, the other Party as of the Effective Date.
+
+ 1.5 "CYCLE TIME" means, with respect to a Wafer, Supplier's standard
+production cycle measured from the start of Wafer manufacture through shipment.
+
+ 1.
+
+ 1.6 "DELIVERY NOTE" means the delivery instructions provided by Buyer
+to Supplier for Wafers ordered by Buyer.
+
+ 1.7 "ENGINEERING WAFERS" means non-production Wafers manufactured by
+Supplier for qualification or testing and may include Pizza Mask Wafers.
+
+ 1.8 "FINAL TEST SERVICES" means the testing of circuits at the
+packaged level to meet the Specifications.
+
+ 1.9 "PARTY" means either Buyer or Supplier, as the context requires,
+and "Parties" means Buyer and Supplier collectively.
+
+ 1.10 "PIZZA MASK WAFERS" means multiple device designs on a single
+wafer.
+
+ 1.11 "PHOTOMASKS" means precision photographic quartz or glass plates
+containing microscopic images of integrated circuits for use as master images to
+transfer circuit patterns onto semiconductor wafers during the fabrication of
+integrated circuits and other semiconductor products.
+
+ 1.12 "POST PROBE PROCESSING SERVICES" means (i) grinding of Wafers to
+appropriate thickness; (ii) scribing of Wafers to commence die formation; (iii)
+die singulation; (iv) breaking dies along scribed markings; and (v) final
+singulation of each die.
+
+ 1.13 "PRICE" is defined in Exhibit A.
+
+ 1.14 "PROBE SERVICES" means electrical testing of individual
+semiconductor wafers on a substrate.
+
+ 1.15 "PROCESS TECHNOLOGY" means the systematic techniques, methods, or
+approaches used to manufacture, or test semiconductor chips or assemblies.
+
+ 1.16 "PRODUCTION WAFERS" means Wafers manufactured by Supplier after
+successful qualification and approval for mass production.
+
+ 1.17 "PURCHASE ORDER" means a written order for the purchase of a
+specified quantity of Wafers or Services submitted by Buyer to Supplier.
+
+ 1.18 "QUALITY SPECIFICATIONS" means the Wafer quality standards and
+criteria set forth in Exhibit B, as may they be modified by written agreement of
+the Parties from time to time.
+
+ 1.19 "RISK PRODUCTION" means Wafers specifically identified by Buyer
+in a Purchase Order as "Risk Production" that are to be manufactured by Supplier
+pursuant to Buyer's Specifications, but for which compliance with the Quality
+Specifications is specifically waived. "Risk Production" may include the
+following: unverified mask sets, unverified process changes, no supporting
+qualification data, and known design rule violations.
+
+ 1.20 "SERVICES" means Final Test Services, Post Probe Processing
+Services, Probe Services, or such other services described in this Supply
+Agreement, as applicable.
+
+ 1.21 "SPECIFICATIONS" means the technical specifications for the
+Wafers mutually agreed to in writing by the Parties, as they may be modified
+from time to time upon written agreement of the Parties.
+
+ 2.
+
+ 1.22 "SUPPLIER FAB" means the Newbury Park Wafer fabrication facility
+or other fabrication facilities owned or operated by Supplier.
+
+ 1.23 "WAFERS" means semiconductor wafers to be processed by Supplier
+including Engineering Wafers, Production Wafers, Pizza Mask Wafers, and Risk
+Production.
+
+2. PURCHASE AND SUPPLY OBLIGATIONS.
+
+ 2.1 BUYER PURCHASES.
+
+ (a) BUYER PURCHASE ORDERS. During the term of this Supply
+Agreement, Buyer may submit Purchase Orders to Supplier for the purchase of
+Wafers and Services, as further described herein.
+
+ (b) PURCHASES FOR CERTAIN ENTITIES. Supplier agrees that Buyer,
+as agent, may, at any time at the prices and in accordance with the terms and
+conditions established under this Supply Agreement, place orders for Wafers or
+Services on behalf of (i) third parties that are mutually agreed to by the
+Parties; (ii) Buyer Subsidiaries; (iii) Buyer Spin-Offs (excluding
+SpecialtySemi); and (iv) third parties for which Buyer has an obligation,
+existing as of the Effective Date, to provide Wafers. Notwithstanding the
+foregoing and for the avoidance of doubt, Supplier hereby acknowledges and
+agrees that Buyer may, at any time at the prices and in accordance with the
+terms and conditions of this Supply Agreement, place orders for Wafers or
+Services on behalf of Rockwell, SiRF, Mindspeed and Lumero. If Buyer places an
+order on behalf of a third party, Supplier will, at Buyer's direction, ship
+products ordered on behalf of such third party directly to such third party's
+facilities, as applicable. Supplier may invoice Buyer or such third party for
+such orders, it being understood that the applicable third party may pay the
+invoiced amount directly to Supplier, however, Buyer, as agent for such third
+party, shall remain jointly and severally liable for any such payments due to
+Supplier. Notwithstanding the foregoing, however, if any such third party is
+reasonably determined to be a Competitor of Supplier or its affiliates, Supplier
+may, upon six (6) months written notice to Buyer, refuse to fulfill orders for
+such third party; provided that Supplier will continue to manufacture, supply
+and provide to Buyer, in accordance with the Wafer purchase procedures in
+Section 3, any Wafers ordered for such third party for delivery prior to the
+expiration of such six (6) month period.
+
+ (c) BUYER SPIN-OFFS. The Parties acknowledge and agree that each
+Buyer Spin-off will have the right to enter into a supply agreement with
+Supplier on terms and conditions substantially similar to the terms and
+conditions set forth in this Supply Agreement and Supplier agrees to enter into
+such agreement upon Buyer Spin-off's request. Such Buyer Spin-off's purchases
+are subject to the Buyer Spin-off credit requirements set forth in Section
+5.1 (c).
+
+ 2.2 SUPPLIER SUPPLY OBLIGATIONS.
+
+ (a) SUPPLY OBLIGATIONS. Supplier shall use its reasonable
+commercial efforts to accept and fulfill all Purchase Orders submitted by Buyer
+for Wafers and Services that are within the forecasts submitted by Buyer.
+Subject to the availability of required materials, Supplier shall also use
+reasonable commercial efforts to accept and fulfill Purchase Orders for Wafers
+and Services insofar as not exceeding 120% of Buyer's forecasts; provided that
+in no event shall Supplier be required to reallocate capacity committed to other
+customers to accept and fulfill such Purchase Orders.
+
+ (b) MANUFACTURING PROCEDURES. The Wafers will be manufactured and
+produced in accordance with and pursuant to the most current version of
+Supplier's Process Change Notice, Specification Number NPF-0570.
+
+ 3.
+
+ (c) NOTICE REQUIREMENTS. If at any time Supplier believes or
+becomes aware that it may fail to comply in a material manner with its supply
+obligations under this Supply Agreement, or if Supplier believes or becomes
+aware that Buyer's forecasts or Purchase Orders for Wafers and Services, when
+taken in the aggregate, will exceed the maximum capacity or capability of the
+Supplier Fab, then Supplier will promptly notify Buyer in writing. However,
+without reduction of this commitment, Supplier shall have no monetary liability
+for its failure to do so. In addition, Supplier shall, on a quarterly basis,
+provide Buyer with an assessment of known and existing capacity issues at the
+Supplier Fab, any capacity issues anticipated over the next fifteen (15) month
+period, and the plan to remedy such issues.
+
+ (d) DISCONTINUANCE OF WAFER PROCESS. Subject to the restrictions
+in this Section 2.2(d), Supplier may terminate the use of any Wafer process at
+the Supplier Fab designated as an "End-of-Life-Process." At least eighteen (18)
+months prior to the date the discontinuance of such process will commence,
+Supplier shall provide Buyer with written notice of its intent to terminate such
+Wafer process. Buyer may identify a suitably qualified alternative supplier of
+Wafers (the "FOLLOW-ON SUPPLIER"), which selection shall be subject to
+Supplier's approval (which shall not be unreasonably withheld or delayed). Upon
+selection of a qualified alternative supplier, Supplier shall prepare a
+transition plan specifically designed to ensure that there is minimal
+interruption in Buyer's supply of Wafers arising in the transfer of production
+to the Follow-On Supplier and obtain Buyer's written approval of such transition
+plan (which shall not be unreasonably withheld or delayed); however, failure to
+obtain Buyer's written approval shall not serve as grounds to extend the
+eighteen (18) month notice described in this Section 2.2(d). Supplier will at
+Buyer's expense, pre-approved by Buyer (which shall not be unreasonably withheld
+or delayed), work with Buyer to perform the transition in accordance with the
+Buyer-approved plan and will take all commercially reasonable steps to ensure a
+smooth transition. In addition, Buyer will have the right, until the expiration
+of eighteen (18) months from the date of Supplier's notice of discontinuance, to
+submit Purchase Orders for Wafers to be manufactured or tested with such Wafer
+process within such eighteen (18) month period. Supplier will manufacture,
+supply, and provide to Buyer, in accordance with the Wafer purchase procedures
+in Section 3, any such Wafers that are ordered for delivery prior to the
+expiration of such eighteen (18) month period. Buyer acknowledges that all such
+Purchase Orders placed during months seven (7) to eighteen (18) of the eighteen
+(18) month notice period for Wafers manufactured or tested with an
+End-of-Life-Process (i) are non-cancelable and except for non conforming
+products are non-returnable and (ii) unless mutually agreed otherwise, will not
+exceed the total quantity of such Wafers manufactured or tested with such
+End-of-Life-Process ordered during the eighteen (18) month period immediately
+prior to the end-of-life notice provided under this section. The foregoing
+obligations are in addition to Supplier's other obligations under this Supply
+Agreement.
+
+ (e) CLOSING OF SUPPLIER FAB. Supplier shall notify Buyer at least
+eighteen (18) months prior to the date that Supplier intends to commence any
+closure, in whole or in part, of the Supplier Fab. If Buyer elects to do so,
+Buyer may identify a suitably qualified alternative supplier of Wafers (the
+"FOLLOW-ON SUPPLIER"), and subject to Supplier's approval (which shall not be
+unreasonably withheld or delayed), Supplier shall prepare a transition plan
+specifically designed to ensure that there is minimal interruption in Buyer's
+supply of Wafers arising in the transfer of production to the Follow-On Supplier
+and obtain Buyer's written approval of such transition plan (which shall not be
+unreasonably withheld or delayed); however, failure to obtain Buyer's written
+approval shall not serve as grounds to extend the eighteen (18) month notice
+described in this Section 2.2(e). Supplier will seek to perform the transfer of
+Wafer processing technology in accordance with the Buyer-approved plan and will
+at Buyer's expense take all commercially reasonable steps to ensure a smooth
+transition of the Wafer processing. Buyer shall reimburse Supplier for
+Supplier's reasonable direct and indirect expenses incurred by Supplier, and
+pre-approved by Buyer, in transitioning such technology to the designated
+foundry. Buyer will have the right, until the expiration of such eighteen (18)
+month period, to continue to submit
+
+ 4.
+
+Purchase Orders for Wafers to Supplier to be manufactured or tested within such
+eighteen (18) month period. Supplier will continue to manufacture, supply, and
+provide to Buyer, in accordance with the Wafer purchase procedures in Section 3,
+any such Wafers that are ordered. Buyer acknowledges that all such Purchase
+Orders placed during months seven (7) to eighteen (18) of the eighteen (18)
+month notice period for Wafers manufactured or tested at the Supplier Fab which
+is the subject of the closure notice (i) are non-cancelable and except for
+non-conforming products are non-returnable and (ii) unless mutually agreed
+otherwise, will not exceed the total quantity of such Wafers manufactured or
+tested ordered during the eighteen (18) month period immediately prior to the
+closure notice provided under this section. The foregoing obligations are in
+addition to Supplier's other obligations under this Supply Agreement.
+
+3. WAFER AND SERVICES PURCHASES.
+
+ 3.1 SCOPE. Upon receipt of an applicable Purchase Order, Supplier
+shall provide management, planning and procurement of Wafers and Services for
+Buyer. If Probe Services or Final Test Services are ordered, all equipment and
+test programs for such Services shall be provided and maintained by Buyer,
+provided that Supplier shall be responsible for providing test floor and labor
+for such Services. Post Probe Processing Services shall be ordered on a separate
+Purchase Order.
+
+ 3.2 PROCESS TECHNOLOGIES.
+
+ (a) DEVELOPED AND QUALIFIED. Buyer will have the right to
+purchase Wafers manufactured and Services provided through the use of any
+Process Technologies developed and qualified for full-scale production at the
+Supplier Fab as of the Effective Date under the terms and conditions of this
+Supply Agreement.
+
+ (b) NEW TECHNOLOGIES NOT IN DEVELOPMENT. Buyer will not be
+entitled under this Supply Agreement to purchase Wafers manufactured and
+Services provided through the use of Process Technologies that are not not
+developed or qualified for full-scale production at the Supplier Fab as of the
+Effective Date. Supplier and Buyer may mutually agree on the terms and
+conditions of the development of such Process Technologies and the supply of
+Wafers and Services by Supplier to Buyer utilized such Process Technologies in a
+separate agreement.
+
+ 3.3 WAFER FORECASTS. On or about the last day of each calendar month
+during the term of this Supply Agreement, Buyer will provide to Supplier a
+rolling forecast, covering a minimum period of twelve (12) months, of Buyer's
+expected order volumes for Wafers and Services. Buyer's forecasts are for
+planning purposes only and will not bind Buyer in any respect. Each such
+forecast will include, as applicable: (i) the number of Wafers by Process
+Technology and probe platform; (ii) the number of hours by probe platform; and
+(iii) the number of hours by tester platform. Only a written Purchase Order
+delivered in accordance with Section 3.4 will bind Buyer to purchase specified
+volumes of Wafers or Services. Buyer may change or update the forecasts
+delivered hereunder at any time upon notice to Supplier.
+
+ 3.4 PURCHASE ORDERS. All Purchase Orders will conform to the Cycle
+Times, lead times and other pertinent details itemized in the Exhibits. Wafers
+delivered more than thirty (30) days before scheduled date(s) may be returned to
+Supplier. Partial shipments are permitted. Buyer will submit Purchase Orders to
+Supplier to cover Buyer's expected purchases of Wafers and Services. Each
+Purchase Order for Wafers and Services will specify, as appropriate, the
+applicable Purchase Order number, Wafer part number and revision level,
+quantity, additional component parts required by Buyer, testers to be used,
+price, delivery date, ship-to address, and other applicable information as
+determined by Buyer. Supplier
+
+ 5.
+
+will not commence manufacturing of the Wafers or providing of Services until
+Buyer has issued a Purchase Order.
+
+ 3.5 ACCEPTANCE AND ACKNOWLEDGEMENT. Subject to the limitations set
+forth in Section 2.2(a), within three (3) business days after receipt, Supplier
+shall use reasonable commercial efforts to accept all Buyer orders for Wafers
+and Services in accordance with the delivery dates specified therein. Within
+three (3) business days after receipt of each Purchase Order, Supplier will
+acknowledge such Purchase Order in writing by fax, e-mail notice, or electronic
+data interchange ("EDI") to Buyer's purchasing agent identified on the face of
+the Purchase Order. Such acknowledgement shall include Supplier's committed
+delivery date for the order; provided that, in establishing such delivery date,
+Supplier shall use commercially reasonable efforts to comply with the delivery
+dates specified in Buyer's Purchase Order and to meet or reduce the Wafer Cycle
+Times set forth in Exhibit D. The Wafer process Cycle Times set forth in Exhibit
+D shall be updated quarterly, upon mutual agreement of the Parties. If at any
+time during the production of such Wafers or the providing of Services, Supplier
+becomes aware that the delivery may be delayed by more than one (1) business
+day, Supplier shall promptly provide Buyer with written notice of such delivery
+date change or any applicable quantity change.
+
+ 3.6 WAFER LOTS; EXPEDITED SERVICES. Unless otherwise agreed to in
+writing by the Parties, Production Wafers shall be ordered by Buyer and
+delivered by Supplier in lots of twenty (20) Wafers and Engineering Wafers shall
+be ordered by Buyer and delivered by Supplier in lots of five ( 5 ) to twenty
+(20) Wafers. At Buyer's request and to the greatest extent possible consistent
+with Supplier's normal production and operational requirements and without undue
+impact to Supplier's other production, Supplier will use reasonable commercial
+efforts to provide priority processing of Production Wafer lots, Engineering
+Wafer lots, and Risk Production. Notwithstanding the foregoing, Supplier shall
+have no liability for failure to actually provide priority processing. Supplier
+shall provide up to one (1) priority lot to be processed at any one time at no
+additional cost to Buyer (herein, the "Allowable Expedited Lot"). If the number
+of Allowable Expedited Lots requested by Buyer at any given time is exceeded,
+Buyer will be required to pay any additional costs, as mutually agreed by the
+Parties, for any such additional lots for which priority processing is actually
+provided by Supplier.
+
+ 3.7 PIZZA MASK WAFERS. Buyer may submit Purchase Orders for Pizza
+Mask Wafers, and Supplier shall fulfill such orders, provided that (i) the only
+testing of Pizza Mask Wafers required to be performed by Supplier will be
+parametric testing; and (ii) Supplier will deliver Pizza Mask Wafers in wafer
+form.
+
+ 3.8 CANCELLATION AND MODIFICATIONS TO ORDERS. Buyer may cancel,
+modify or reschedule a Purchase Order as set forth in this Section 3.8.
+
+ (a) CANCELLATION BEFORE PROCESS START. For each Purchase Order
+for which processing of the Wafers or performance of the Services has not yet
+been started, Buyer may cancel or modify a Purchase Order without penalty by
+delivering to Supplier a written notice of cancellation or modification not less
+than four (4) business days before the start of processing or performance. Such
+cancellation shall be without charge or penalty, except that Buyer shall be
+obligated to purchase and pay for any materials acquired in respect of
+Supplier's anticipated production or Services for Buyer under the cancelled
+order(s), as set forth in Section 3.9.
+
+ (b) RESCHEDULING. For each Purchase Order, Buyer may reschedule
+the delivery one or more times without penalty by delivering to Supplier a
+written notice rescheduling such delivery at least thirty (30) days prior to the
+originally scheduled delivery date. The maximum time a delivery may be delayed
+is ninety (90) days beyond its originally scheduled delivery date.
+
+ 6.
+
+ (c) CANCELLATIONS AFTER PROCESS START. If Buyer cancels a
+Purchase Order for Wafers after the date the processing of such Wafers has been
+started, then as Buyer's sole liability, and Supplier's sole remedy, for such
+cancellation, Buyer will pay to Supplier, an amount equal to the purchase price
+for such cancelled Wafers prorated for the amount of processing completed at the
+time of notice of cancellation, as set forth in Exhibit A.
+
+ (d) CANCELLATION FOR LATE DELIVERY. Notwithstanding any of the
+foregoing, Buyer may cancel any Purchase Order, in whole or in part and without
+penalty, if Supplier does not deliver the Wafers within six (6) weeks after
+Supplier's committed delivery date; provided that there are no extenuating
+circumstances causing the delay (e.g., a Lot is dropped and scrapped in line,
+the Supplier Fab goes down, or a materials issues). If extenuating circumstances
+may or are causing such a delay, Supplier shall notify Buyer in writing of such
+extenuating circumstances, along with the projected delivery date for the
+delayed Wafers, and the parties shall cooperate in good faith to identify and
+implement a mutually agreeable resolution including, without limitation,
+Supplier providing priority processing of such Wafers at no additional charge to
+Buyer. In the event that extenuating circumstances scraps a Lot in line,
+Supplier shall notify Buyer in writing of such event and Buyer may, at Buyer's
+discretion, either approve the restart of the Lot or cancel the Lot without
+penalty.
+
+ 3.9 MATERIALS. Except as otherwise specified in Section 3.1,
+Supplier shall be responsible for procuring all materials required to
+manufacture the quantity of Wafers and to provide the Services ordered by Buyer.
+When purchasing such materials, Supplier shall, at a minimum, procure quantities
+of materials in such volume to cover shrinkage and scrap associated with the
+fabrication process. Supplier will use commercial efforts to plan its
+procurement of epitaxial wafers and other production materials consistent with
+the first four (4) months of the Buyer's forecast. Supplier agrees to use
+reasonable commercial efforts to exercise prudent materials resource planning to
+not procure such materials in advance of the time reasonably required to meet
+projected production requirements and to mitigate Buyer's materials liability
+hereunder.
+
+ 3.10 INACTIVE MATERIAL. Material purchased to support Buyer forecasts,
+as set forth in Section 3.9, which is not consumed within four (4) months of the
+material's anticipated time of utilization will be considered "INACTIVE
+MATERIAL". Thereafter, Supplier may invoice Buyer for Supplier's cost of all
+Inactive Material, and Buyer shall pay such invoice within thirty (30) days of
+its receipt. Upon such payment, the Inactive Material will then be segregated as
+Buyer furnished material and if later consumed by Buyer will be credited towards
+the purchase price. Subject to payment, Inactive Material not consumed within
+three hundred and sixty (360) days of receipt will, at Buyer's option, be
+scrapped, processed for reclamation, or delivered to Buyer.
+
+ 3.11 RISK PRODUCTION. At Buyer's request and subject to an applicable
+Purchase Order and the orderly operation of Supplier's production, Supplier
+shall consider Buyer's request to provide Risk Production to Buyer. With all
+Purchase Orders for Risk Production, Buyer shall provide a written statement
+setting forth the risk factors or any special circumstances related to the Risk
+Production and specifying the lot size and quantity of Risk Production to be
+provided. Supplier's acknowledgement, including Supplier modification to such
+written statement, if any, will be included as part of a Purchase Order for Risk
+Production and shall be deemed an acknowledgement of such risks or
+circumstances. Supplier shall use reasonable commercial efforts to provide
+processing of Risk Production consistent with its ongoing operations and other
+business. Risk Production is offered as a Service hereunder. Without limitation,
+Supplier extends no warranties of any kind, express or implied, beyond
+Supplier's undertaking to use reasonable commercial efforts in the course of the
+fabrication of Risk Production. Without limitation, compliance with the Quality
+Specifications and Section 7.1 and Section 7.2 shall not apply to Risk
+Production.
+
+ 7.
+
+ 3.12 REWORK. Upon Buyer's request and as accepted in Supplier's
+acknowledgement, Supplier shall provide Wafer rework services for Buyer. Buyer
+shall pay Supplier for rework in accordance with the pricing set forth in
+Exhibit A; provided that Supplier remains solely responsible for any and all
+rework required for Wafers that do not conform to the Specifications or do not
+meet the Quality Specifications.
+
+ 3.13 NRE SERVICES. At Buyer's request and as accepted in Supplier's
+acknowledgement, Supplier shall provide non-recurring engineering services for
+new Wafers. The Parties shall negotiate in good faith the terms and conditions
+and any applicable costs associated with such engineering services.
+
+ 3.14 FINAL TEST AND PROBE SERVICES. Supplier agrees to provide Final
+Test Services and Probe Services support on Buyer owned testers located at the
+Newbury Park Wafer fabrication facility on May 1, 2002. Consistent with
+Supplier's practices as of May 1, 2002, or as otherwise agreed by the Parties,
+Supplier will provide the required floor space, required operators, production
+control services (e.g., WIP reports and lot travelers) and quality services
+(e.g., incoming and outgoing inspections). Supplier will also coordinate
+calibration activities at Buyer's expense. The Final Test Services and Probe
+Services are described in more detail in Exhibit E.
+
+ (a) COSTS. These Final Test Services and Probe Services will be
+provided at the following agreed charges, intended to approximate Supplier's
+costs in providing such Services. The minimum charge per quarter is $162,500.
+The minimum charge includes one set of operators (i.e., 4 people, 1 per shift)
+of $40,000 per quarter, the fixed facility charge of $60,000 per quarter, and a
+fixed rate of $62,500 per quarter for general support. As of the Effective Date,
+Buyer and Supplier agree that the Services will include two (2) sets of
+operators, resulting in an initial operators' charge of $80,000 per quarter for
+labor, or a total initial charge of $202,500 per quarter for Final Test Services
+and Probe Services.
+
+ (b) CHANGE IN SUPPORT LEVELS. The parties anticipate that a set
+of operators can maintain an average of three (3) testers across all four (4)
+shifts. With ninety (90) days written notice, Buyer can request Supplier to
+increase or decrease the number of sets of operators, and Supplier shall make
+reasonable commercial efforts to respond to such requests. In the event that
+Buyer reduces its requirement for operators with less than one hundred and
+eighty (180) days' notice, provided Supplier cannot successfully reassign any
+surplus operator to another appropriate position without prejudice to Supplier's
+staffing practices and requirements, Buyer will be responsible for, and shall
+promptly reimburse Supplier for, Supplier's severance costs (including without
+limitation any salary and benefit continuation for a period of four (4) weeks
+plus one (1) week for every year of service and operator level outplacement
+services) pertaining to any such terminated operator. Supplier agrees that it
+will not give preferential treatment to any such terminated employee, as
+compared to the manner in which Supplier would handle termination of other
+comparably situated employees. The general overhead charge stated above (i.e.,
+$162,500) will support up to three (3) sets of operators. If Buyer would like to
+increase the number of operators over three (3) sets of operators, the Parties
+shall mutually agree on an equitably increased general overhead charge.
+
+ (c) TERMINATION. The minimum length of the Final Test Service and
+Probe Service support will be twelve (12) months from the Effective Date. With
+ninety (90) days written notice, Buyer may terminate or continue the Services
+for another six (6) months (to eighteen (18) months total). If Buyer requests
+the extension, Supplier must continue to provide the Services through such
+eighteen (18)-month term. Conditional upon Buyer exercising its first extension
+rights, ninety (90) days prior to the end of the eighteen (18) months, Buyer
+must notify Supplier whether the Services will be renewed for another six
+(6)-month period (to twenty-four (24) months total). If Buyer requests the
+extension, Supplier must
+
+ 8.
+
+continue to provide the service through such twenty-four (24)-month term. Ninety
+(90) days prior to the end of the twenty-four (24) months, Buyer and Supplier
+may mutually agree to extend the Services. Any agreement in extending Services
+beyond twenty-four (24) months, must be mutually agreed to between Supplier and
+Buyer. Once the service has been terminated, Buyer shall remove all its
+equipment from the Supplier Fab in a prompt manner and at Buyer's expense; all
+such activities shall be conducted in accordance with Supplier's reasonable
+requirements, and coordinated in a manner not to disrupt Supplier's activities.
+Buyer shall repair all damage to Supplier's premises caused by such removal.
+
+ (d) TAXES. Buyer shall be responsible for the prompt and timely
+payment of all taxes arising with respect to its test equipment located at
+Supplier's premises under this Agreement.
+
+4. DELIVERY AND LOGISTICS.
+
+ 4.1 DELIVERY. All Wafers delivered to Buyer shall be delivered F.O.B.
+the Supplier Fab. Title to and risk of loss of the Wafers will pass to Buyer
+upon delivery of the Wafers to the carrier.
+
+ 4.2 WAFERS. Supplier shall process all deliveries of those Wafers
+that have completed the manufacturing processes, and wafers provided by Buyer
+for Services, in accordance with the shipping instructions included in the
+Delivery Note or otherwise communicated to Supplier in writing. In the absence
+of any such instructions, Supplier will determine the method of shipment and
+select the carrier. Buyer will pay, or reimburse Supplier for, all shipping and
+handling charges. If Supplier is required to pay such charges to the carrier,
+Supplier will include such charges as a line item in an invoice to Buyer and
+Buyer will pay such amount in accordance with Section 5.1. Supplier shall use
+commercially reasonable efforts to complete all such processing within one (1)
+business day from the receipt of the Delivery Note. All Wafers shipped by
+Supplier to Buyer under this Supply Agreement will be accompanied by appropriate
+documentation regarding shipping location, lot identification numbers, Buyer
+product number, quantity shipped, customer name, shipping date, and purchase
+order number. At Buyer's request and insofar as consistent with Supplier's
+capabilities and established business practices, shipped Wafers may also include
+relevant testing data in either hard or soft copy, and may be accompanied by an
+exception report to the extent that one exists.
+
+ 4.3 PRODUCT LOGISTICS. Supplier will provide work-in-process
+management Services for Buyer as further described in Exhibit F. Supplier shall
+use reasonable commercial efforts to complete these transactions in a timely
+manner.
+
+5. PRICING AND PAYMENTS.
+
+ 5.1 PRICING AND INVOICES.
+
+ (a) WAFERS. Supplier will invoice Buyer for Wafers at the
+applicable Wafer price calculated pursuant to Exhibit A in effect on the date of
+Supplier's acceptance of the Purchase Order. Each such invoice shall be dated on
+or after the date such Wafers are shipped and shall itemize the Wafers delivered
+and any applicable shipping charges pursuant to Section 4.2. Buyer will pay any
+amounts due on such invoices within thirty (30) days of receipt of the invoice.
+
+ (b) SERVICES. Supplier will invoice Buyer for Services upon
+completion the applicable Service. Pricing for such Services shall be in
+accordance with Exhibit A. All invoices for Services shall itemize the Services
+actually performed, materials, material burden, and costs associated with any
+changes approved in writing by Buyer. Buyer will pay any amounts due on such
+invoices within thirty (30) days of receipt of the invoice.
+
+ 9.
+
+ (c) CREDIT REQUIREMENTS. If based on a then-current credit report
+of a Buyer Spin-off, Supplier has an issue with the credit of such Buyer
+Spin-off, Supplier shall notify such Buyer Spin-off in writing of such issue
+and Buyer Spin-off shall have a period of sixty (60) days to resolve the credit
+issue. If such issue is not resolved within such sixty (60) day period, Supplier
+reserves the right to limit Buyer Spin-off's purchases to a reasonable amount,
+such amount to be based on a then-current credit report of the Buyer Spin-off
+and mutually agreed to by Supplier and Buyer Spin-off. The foregoing shall apply
+to Buyer Spin-off, notwithstanding Buyer Spin-off entering into a separate
+agreement with Supplier and assuming the rights and obligations of "Buyer"
+hereunder. In addition, in the event Buyer (i.e., Conexant Systems, Inc.) does
+not make timely payment on Supplier's invoices and such issue is not resolved
+within sixty (60) days' of receipt of Supplier's written notice of such payment
+delays, Supplier reserves the right to limit Buyer's purchases to a reasonable
+amount, such amount to be based on a then-current credit report of Buyer and
+mutually agreed to by Supplier and Buyer.
+
+ 5.2 COSTS. Except as otherwise provided herein or agreed to in
+writing by the Parties, each Party will be solely responsible for the costs and
+expenses it incurs in performing its obligations under this Supply Agreement.
+
+ 5.3 TAXES. Buyer will be responsible for payment of any and all taxes
+or related governmental charges ("TAXES") imposed on or arising from Buyer's
+purchase of Wafers or Services under this Supply Agreement, excluding any Taxes
+on the net income or net worth of Supplier. Taxes shall be specifically
+identified by Supplier as a separate line item on Supplier's invoices provided
+pursuant to Section 5.1. Upon Buyer's request, Supplier will provide Buyer with
+copies of official receipts for the payment of any such Taxes, and any other
+information and documents Buyer may reasonably request in order to verify the
+payment of such amounts to the appropriate governmental entity.
+
+6. TRACKING; REPORTING; AND AUDITS.
+
+ 6.1 WAFER TRACKING. All Wafers manufactured and delivered by Supplier
+to Buyer shall have backward and forward traceability sufficient to enable
+Supplier to identify (i) the processes and materials used in the manufacture of
+such Wafers; (ii) the batches or lots of such materials; and (iii) other Wafers
+in the same or sequential lots. Such information shall be provided to Buyer,
+upon Buyer's request.
+
+ 6.2 REPORTING REQUIREMENTS. Supplier shall provide Buyer with the
+reports specified in Exhibit G, in accordance with frequency or schedule set
+forth therein. All such reports shall be in writing and provided to Buyer in the
+form (e.g., electronic form) specified in Exhibit G, or otherwise mutually
+agreed to in writing by the Parties.
+
+7. WARRANTY AND DISCLAIMER.
+
+ 7.1 WAFER WARRANTY. For a period of ninety (90) days from the date of
+delivery (the "Wafer Warranty Period"), Supplier warrants that the Wafers
+delivered hereunder will conform to the applicable Specifications, will be
+manufactured in accordance with the Quality Specifications, and will be free
+from defects in material, manufacturing and workmanship. Supplier shall, at
+Buyer's option, promptly provide replacement Wafers for such defective Wafers or
+credit Buyer's account for the amount paid by Buyer for such defective Wafers.
+This warranty shall not apply to any Wafers which, after delivery to Buyer, have
+been (i) repaired or altered (except by, or under the direction, of Supplier) or
+(ii) damaged or subjected to abuse or misuse. Warranty claims hereunder shall be
+made by Buyer by making a written warranty claim within the Wafer Warranty
+Period. Except as otherwise instructed by Supplier, Buyer shall return all
+defective Wafers to Supplier for inspection. Before returning Wafers, Buyer
+shall request and obtain a
+
+ 10.
+
+Return Material Authorization ("RMA") number from Supplier, and will display
+such RMA number on the packaging of such returned Wafers. Replacement Wafers
+will be warranted in accordance with this Section 7.1. THE FOREGOING REPRESENTS
+BUYER'S SOLE REMEDY AND SUPPLIER'S SOLE LIABILITY IN THE EVENT OF A BREACH OF
+THE WAFER WARRANTY IN THIS SECTION 7.1.
+
+ 7.2 SERVICES WARRANTY. For a period of ninety (90) days from
+completion of performance of the applicable Service (the "Services Warranty
+Period"), Supplier warrants that such Services will be provided in accordance
+with performance metrics mutually agreed by the Parties including, without
+limitation, quality, yield, and Cycle. Time and, in any event, in a professional
+and workmanlike manner. If, during the Services Warranty Period, Supplier is
+notified in writing of any breach of this warranty, then Supplier shall, at
+Buyer's option and as Supplier's sole liability with respect to such breach of
+warranty, promptly re-perform such Services or credit Buyer for such Services.
+Re-performed Services will be warranted in accordance with this Section 7.2. THE
+FOREGOING REPRESENTS BUYER'S SOLE REMEDY AND SUPPLIER'S SOLE LIABILITY IN THE
+EVENT OF A BREACH OF THE SERVICES WARRANTY IN THIS SECTION 7.2.
+
+ 7.3 DISCLAIMERS. EXCEPT FOR THE EXPRESS WARRANTIES SET FORTH IN THIS
+SUPPLY AGREEMENT, NEITHER PARTY MAKES ANY REPRESENTATIONS OR WARRANTIES, EXPRESS
+OR IMPLIED OR OTHERWISE, IN CONNECTION WITH THIS SUPPLY AGREEMENT OR ANY WAFERS
+OR SERVICES PROVIDED UNDER THIS SUPPLY AGREEMENT, AND EACH PARTY SPECIFICALLY
+DISCLAIMS THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR
+PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+8. INDEMNIFICATION.
+
+ 8.1 INDEMNIFICATION OBLIGATIONS.
+
+ (a) BUYER INDEMNITY. Buyer will defend at its own expense any
+claim, suit, or action (collectively, "CLAIMS") asserted or brought against
+Supplier by a third party to the extent that such Claim is based on a claim that
+Supplier's compliance with Buyer's specifications or designs in the production
+or sale of Wafers required the infringement of any United States patent or mask
+work or misappropriation of any trade secret (a "BUYER INFRINGEMENT CLAIM").
+Buyer will pay such damages awarded against Supplier by a court of competent
+jurisdiction, or agreed to in a monetary settlement of any such Claim by Buyer,
+to the extent that such damages are directly attributable to a Buyer
+Infringement Claim. Buyer's indemnification obligation will not apply to Buyer
+Infringement Claims that result from or are attributable to (a) any
+modifications, combinations, or improvements made to the design or specification
+as furnished to Supplier by Buyer (except for modifications, combinations and
+improvements requested by Buyer); or (b) use of the design or specification by
+Supplier for any purpose other than providing Wafers or Services to Buyer, if
+such claim under (a) or (b) would not have arisen but for such modification,
+combination, improvement or use.
+
+ (b) SUPPLIER INDEMNITY. Supplier will defend at its own expense
+any Claims asserted or brought against Buyer by a third party to the extent that
+such Claim is based on a claim that Supplier's technology, equipment, or methods
+used to manufacture the Wafers or to provide the Services infringes any United
+States patent or mask work or misappropriates any trade secret (a "SUPPLIER
+INFRINGEMENT CLAIM"). Supplier will pay such damages awarded against Buyer by a
+court of competent jurisdiction, or agreed to in a monetary settlement of any
+such Claim by Supplier, to the extent that such damages are directly
+attributable to a Supplier Infringement Claim. Supplier's indemnification
+obligation will not apply to Supplier Infringement Claims that result from or
+are attributable to (a) compliance with
+
+ 11.
+
+Buyer's designs or specifications; (b) any modifications, combinations, or
+improvements made to the Wafers after delivery to Buyer; or (c) use of the
+Wafers or Services for any unintended purpose, if such claim under (a), (b), or
+(c) would not have arisen but for such compliance, modification, combination,
+improvement or use. In the event the Wafers or Services are deemed to infringe
+and their manufacture, use or sale is enjoined, Supplier shall, at its option,
+either (i) arrange for Buyer to have the right to continue using the Wafers or
+receiving the Services, or (ii) provide replacement Wafers or Services with
+non-infringing comparable wafers or services meeting Buyer's requirements. If
+neither of the foregoing in (i) or (ii) are commercially practicable, then
+Supplier shall accept return of the Wafers, discontinue the Services, and refund
+Buyer's purchase price in respect of the Wafers and/or Services, as the case may
+be.
+
+ 8.2 CONDITIONS. The obligations of the indemnifying Party (the
+"INDEMNIFYING PARTY") under Section 8.1 with respect to a Buyer Infringement
+Claim or Supplier Infringement Claim (as applicable) (an "INFRINGEMENT CLAIM")
+are subject to the following conditions: (a) the indemnified Party (the
+"INDEMNIFIED PARTY") must promptly notify the Indemnifying Party in writing of
+such Infringement Claim; (b) the Indemnifying Party must have sole control of
+the defense and settlement of the Infringement Claim; and (c) the Indemnified
+Party must fully cooperate with and provide reasonable assistance to the
+Indemnifying Party in the defense and settlement of such Infringement Claim
+(which includes furnishing to the Indemnifying Party all evidence in the
+possession of the Indemnified Party that is relevant to such Infringement
+Claim). Solely to the extent a proposed settlement or stipulated judgment
+adversely affects the Indemnified Party, the Indemnifying Party will not accept
+such settlement or stipulated judgment of any Buyer Infringement Claim or
+Supplier Infringement Claim (as applicable) without the prior written consent of
+the Indemnified Party, which consent will not be unreasonably withheld. The
+Indemnifying Party will have no liability under this Section 8 for any costs,
+losses, liabilities, or damages resulting from the willful acts of the
+Indemnified Party or any settlement or compromise incurred or made by the
+Indemnified Party without the Indemnifying Party's prior written consent. The
+Indemnified Party will have the right to participate, at its own expense, in the
+defense or settlement of the Infringement Claim.
+
+ 8.3 SOLE AND EXCLUSIVE REMEDY. THIS SECTION 8 STATES THE INDEMNIFYING
+PARTY'S ENTIRE LIABILITY AND THE INDEMNIFIED PARTY'S SOLE REMEDY WITH RESPECT TO
+THE INFRINGEMENT, VIOLATION OR MISAPPROPRIATION OF ANY INTELLECTUAL PROPERTY
+RIGHTS OF ANY THIRD PARTY ARISING FROM OR RELATING TO THIS SUPPLY AGREEMENT.
+Each Party's obligations under this Section 8 are subject to the limitations of
+liability set forth in Section 10.
+
+9. CONFIDENTIALITY.
+
+ 9.1 CONFIDENTIALITY OBLIGATIONS. The receiving Party ("RECIPIENT")
+will hold the Confidential Information of the disclosing Party ("PROVIDER") in
+confidence and, except as set forth herein or allowed under Section 9.2, will
+not disclose, provide, or otherwise make available such Confidential Information
+to any person other than Recipient's employees and independent contractors who
+need to have access to such Confidential Information in order for the Recipient
+to exercise its rights or perform its obligations under this Supply Agreement.
+The Recipient will inform each such employee and independent contractor of the
+Recipient's confidentiality obligations under this Supply Agreement, and will
+ensure that each such employee and independent contractor has signed a
+non-disclosure agreement containing terms no less restrictive than the terms of
+this Section 9. Each Party will be liable for any breach of this Section 9.1 by
+any of its employees or independent contractors. The Recipient will use the
+Provider's Confidential Information solely to exercise its rights or perform its
+obligations under this Supply Agreement and for no other purpose. The Recipient
+will protect the confidentiality of the Provider's confidential Information
+using at least the same efforts Recipient uses to protect its own
+
+ 12.
+
+confidential and proprietary information of similar nature, but in no event less
+than reasonable efforts. The Recipient will return the Provider's Confidential
+Information to the Provider promptly upon the Provider's request or termination
+of this Supply Agreement; provided that, if the Recipient has continuing rights
+or obligations or liabilities under this Supply Agreement, the Recipient may
+retain a copy of any Provider Confidential Information reasonably required to
+exercise its rights or perform such obligations solely for the period of time
+required to meet such obligations. Supplier acknowledges and agrees that Buyer
+may disclose the Confidential Information of Supplier to Buyer Subsidiaries and
+employees of such Buyer Subsidiaries, in accordance with the restrictions set
+forth above and Buyer will be liable for any breach of this Section 9.1 by such
+Buyer Subsidiaries or its employees.
+
+ 9.2 EXCEPTIONS. Disclosure of Confidential Information will be
+permitted to the extent required to comply with a valid order of a court or
+governmental authority with jurisdiction over the Recipient, provided that the
+Provider has been given timely notice of such requirement and that the Recipient
+must cooperate with the Provider to limit the scope and effect of such order.
+The Recipient's obligations under Section 9.1 with respect to any Confidential
+Information of the Provider will terminate if and when the Recipient can prove
+by clear and convincing evidence that such Confidential Information (i) was
+rightfully in possession of the Recipient, without restriction, prior to
+disclosure; (ii) was rightfully received by the Recipient without restriction
+from a third party not owing a duty of confidentiality to the Provider; (iii) is
+generally available to the public without fault of the Recipient; or (iv) is
+independently created by the Recipient.
+
+ 9.3 CONFIDENTIALITY OF THIS SUPPLY AGREEMENT. Neither Party will
+disclose any terms of this Supply Agreement to anyone other than (i) its
+attorneys, accountants, and other professional advisors under a duty of
+confidentiality; (ii) its subsidiaries, spin-offs, and, in the event of a merger
+or acquisition, prospective successor, all of the foregoing under a duty of
+confidentiality; and (iii) as required by law or pursuant to a mutually
+agreeable press release.
+
+ 9.4 INJUNCTIVE RELIEF. Each Party acknowledges and agrees that the
+other Party would suffer irreparable harm for which monetary damages would be an
+inadequate remedy if there were a breach of obligations under Section 9.1. Each
+Party further acknowledges and agrees that equitable relief, including
+injunctive relief, may be appropriate to protect the other Party's rights and
+interests if such a breach were to arise, were threatened, or were asserted.
+
+10. LIMITATIONS OF LIABILITY.
+
+ 10.1 DISCLAIMER. EXCEPT AS OTHERWISE EXPRESSLY PROVIDED IN THIS SUPPLY
+AGREEMENT, IN NO EVENT WILL EITHER PARTY BE LIABLE TO THE OTHER PARTY FOR LOST
+PROFITS OR FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR EXEMPLARY
+DAMAGES ARISING FROM THE SUBJECT MATTER OF THIS SUPPLY AGREEMENT, REGARDLESS OF
+THE TYPE OF CLAIM AND EVEN IF THAT PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF
+SUCH DAMAGES.
+
+ 10.2 LIABILITY LIMITATION. IN NO EVENT WILL EITHER PARTY'S AGGREGATE,
+CUMULATIVE LIABILITY TO THE OTHER ARISING OUT OF OR RELATING TO THIS SUPPLY
+AGREEMENT, INCLUDING ANY APPLICABLE PENALTIES, EXCEED THE GREATEST OF: (a)
+$250,000 OR (b) THE AGGREGATE OF ALL AMOUNTS PAID AND/OR OWED TO SUPPLIER
+PURSUANT TO THIS SUPPLY AGREEMENT DURING THE PRECEEDING 12-MONTH PERIOD. THIS
+LIMITATION ON LIABILITY IS CUMULATIVE WITH ALL PAYMENTS BEING AGGREGATED TO
+DETERMINE SATISFACTION OF THE LIMIT. THE EXISTENCE OF ONE OR MORE CLAIMS OR
+SUITS WILL NOT ENLARGE THE LIMIT.
+
+ 13.
+
+ 10.3 BASIS OF BARGAIN. EACH PARTY ACKNOWLEDGES THAT THE MUTUAL
+LIMITATIONS OF LIABILITY CONTAINED IN THIS SECTION 10 REFLECT THE ALLOCATION OF
+RISK SET FORTH IN THIS SUPPLY AGREEMENT AND THAT EACH PARTY WOULD NOT ENTER INTO
+THIS SUPPLY AGREEMENT WITHOUT THESE LIMITATIONS ON LIABILITY.
+
+11. TERM; TERMINATION.
+
+ 11.1 TERM. This Supply Agreement will take effect on the Effective
+Date and will remain in effect for a period of three (3) years from the
+Effective Date (the "INITIAL TERM"), unless earlier terminated in accordance
+with this Section 11. Following the Initial Term, this Supply Agreement may be
+renewed for additional one-year renewal terms (each a "RENEWAL TERM"), upon
+mutual agreement of the Parties.
+
+ 11.2 TERMINATION. This Supply Agreement, or any Purchase Order issued
+hereunder, may be terminated as follows:
+
+ (a) immediately upon written agreement of the Parties;
+
+ (b) immediately upon the expiration of the ninety (90) day cure
+period, if a Party materially breaches any provision of this Supply Agreement
+and such breach is not cured within ninety (90) days after written notice of
+such breach is furnished by the non-breaching Party;
+
+ (c) during the continuance of any material breach, by either
+Party, at its discretion immediately upon providing written notice to the other
+Party, if within any period of twelve (12) months there are three (3) or more
+material breaches or failures by the other Party that would constitute grounds
+for termination pursuant to this Section 11.2 (without giving effect to cure
+periods), regardless of whether such breaches or failures were cured within the
+applicable cure periods; or
+
+ (d) immediately upon written notice by either Party, at its
+discretion, if (i) the other Party becomes insolvent, admits in writing its
+inability to pay its debts as they become due, or files or has filed against it
+any proceeding in bankruptcy or for reorganization under any federal bankruptcy
+law or similar state law, or has any receiver appointed for all or a substantial
+part of such Party's assets or business, or makes any assignment for the benefit
+of its creditors, or enters into any other proceeding for debt relief, and such
+proceeding is not dismissed within sixty (60) days of filing; (ii) the other
+Party dissolves, liquidates, or institutes any proceedings for the liquidation
+or winding up of its business or for the termination of its corporate charter;
+or (iii) the other Party ceases to conduct its business in the ordinary course.
+
+ 11.3 TERMINATION FOR NON-PAYMENT. In addition to its other rights
+under this Section 11, Supplier may suspend performance of its obligations under
+this Agreement if Buyer is more than thirty (30) days late in payment of any
+undisputed invoices. Upon Buyer's payment of such invoices, Supplier shall
+promptly resume performance of its obligations hereunder.
+
+ 11.4 TERMINATION OF BUYER SPIN-OFF AGREEMENTS. In addition to the
+termination rights set forth in Section 11.2, Supplier shall have the right to
+terminate without cause a Buyer Spin-off Agreement entered into pursuant to
+Section 2.1(c) upon six (6) months prior written notice to such Buyer Spin-off
+in the event such Buyer Spin-off is merged with or acquired by an entity that is
+reasonably deemed to be a Competitor of Supplier; provided that Supplier will
+continue to manufacture, supply, and provide to Buyer Spin-off, in accordance
+with the Wafer purchase procedures of such Buyer Spin-off Agreement, any Wafers
+ordered by such Buyer Spin-off for delivery prior to the expiration of such six
+(6) month
+
+ 14.
+
+period. This provision shall be incorporated in the Buyer Spin-off Agreements
+and shall apply to Buyer Spin-offs, notwithstanding such Buyer Spin-offs
+assuming the rights and obligations of "Buyer" under this Agreement.
+
+ 11.5 EFFECT OF TERMINATION. The rights and obligations under Sections
+1 (Definitions), 3.14 (Final Test and Probe Services), 5 (Pricing and
+Payments), 7 (Warranty and Disclaimer), 8 (Indemnification), 9
+(Confidentiality), 10 (Limitations of Liability), 11.5 (Effect of Termination),
+and 12 (General) will survive termination or expiration of this Supply
+Agreement for any reason.
+
+12. GENERAL.
+
+ 12.1 AGENCY. Under this Supply Agreement (i) each Party will be deemed
+to be an independent contractor and not an agent, joint venturer, or
+representative of the other Party; (ii) neither Party may create any obligations
+or responsibilities on behalf of or in the name of the other Party; and (iii)
+neither Party will hold itself out to be a partner, employee, franchisee,
+representative, servant, or agent of the other Party.
+
+ 12.2 GOVERNING LAW; VENUE AND JURISDICTION. This Supply Agreement will
+be governed by, subject to, and construed in accordance with the internal laws
+of the State of California, as such laws apply to contracts between California
+residents performed entirely within California. Venue for any dispute however
+arising under this Supply Agreement shall be in Orange County, California and
+both Parties hereby consent to jurisdiction of the State and Federal Courts in
+Orange County, California. The Parties agree that the United Nations Convention
+on Contracts for the International Sale of Goods will not apply to this Supply
+Agreement.
+
+ 12.3 DISPUTE RESOLUTION AND ESCALATION.
+
+ (a) In the event that any dispute, claim or controversy
+(collectively, a "DISPUTE") arises out of or relates to any provision of this
+Supply Agreement or the breach, performance or validity of invalidity thereof,
+an appropriate authorized manager of Buyer and an appropriate authorized manager
+of Supplier shall attempt a good faith resolution of such Dispute within thirty
+(30) days after either Party notifies the other Party of such Dispute. If such
+Dispute is not resolved within thirty (30) days of such notification, such
+Dispute will be referred for resolution to Supplier's President and Buyer's
+Chief Executive Office. Should they be unable to resolve such Dispute within
+thirty (30) days following such referral to them, or within such other time as
+they may agree, Supplier and Buyer shall submit such Dispute to binding
+arbitration, initiated and conducted in accordance with the then-existing
+American Arbitration Association Commercial Arbitration Rules, before a single
+arbitrator selected jointly by Supplier and Buyer. If Supplier and Buyer cannot
+agree upon the identity of an arbitrator within ten (10) days after the
+arbitration process is initiated, then the arbitration shall be conducted before
+three (3) arbitrators, one (1) selected by Buyer and, one (1) selected by
+Supplier, and the third selected by the first two. The arbitration shall be
+conducted in the County of Orange, California and shall be governed by the
+United States Arbitration Act, 9 USC Sections 116, and judgment upon the award
+may be entered by any court having jurisdiction thereof. The arbitrator(s) shall
+have case management authority and shall resolve the Dispute in a final award
+within one hundred eighty (180) days from the commencement of the arbitration
+action, subject to any extension of time thereof allowed by the arbitrators upon
+good cause shown. There shall be no appeal from the arbitral award, except for
+fraud committed by an arbitrator in carrying out his or her duties under the
+aforesaid rules; otherwise the Parties irrevocably waive their rights to
+judicial review of any Dispute arising out of or related to this Supply
+Agreement. Notwithstanding the foregoing, either Party may pursue immediate
+equitable relief in the event of a breach of Section 9 or an alleged violation
+or misappropriation of the intellectual property rights of either Party.
+
+ 15.
+
+ (b) During any period in which the Parties are resolving a
+Dispute pursuant to this Section 12.3, the Parties shall continue to provide the
+Wafers and Services pursuant to the terms of this Supply Agreement; provided,
+however, that if the Parties jointly determine that any such Wafers or Services
+shall be suspended during the period in which the Parties are resolving a
+Dispute, then the deadlines and time periods in which such Wafers or Services
+are to be provided pursuant to this Supply Agreement (as described herein) shall
+be extended for the same amount of time as the Wafers or Services were
+suspended.
+
+ 12.4 THIRD-PARTY BENEFICIARIES. Except for Buyer Spin-offs, there are
+no third party beneficiaries of this Supply Agreement. Except for the rights of
+Buyer Spin-offs to purchase Wafers from Supplier at the pricing established
+under this Supply Agreement, no provision of this Supply Agreement, express or
+implied, is intended or will be construed to confer upon or give to any customer
+or other person other than the Parties any rights, remedies, or other benefits
+under or by reason of this Supply Agreement.
+
+ 12.5 COMPLIANCE WITH LAW. The Parties will at all times comply with
+all applicable foreign, U.S., state, and local laws, rules and regulations
+relating to the execution, delivery and performance of this Supply Agreement.
+Each Party agrees that it will not export or reexport, resell, ship, provide, or
+divert or cause to be exported or reexported, resold, shipped, provided, or
+diverted directly or indirectly any software, documentation, or technical data,
+nor any Wafer or Service, to any country or to any person or entity for which
+the government (or any agency thereof) of the United States, or any foreign
+sovereign government with competent jurisdiction requires an export license or
+other governmental approval without first obtaining such license or approval.
+
+ 12.6 FORCE MAJEURE. Neither Party shall be liable for failure or delay
+in performance of its obligations under this Supply Agreement to the extent such
+failure or delay is due to causes beyond its reasonable control including,
+without limitation, an act of God, act of a public enemy, war or national
+emergency, rebellion, insurrection, riot, epidemic, quarantine restriction,
+fire, flood, explosion, storm, earthquake, or other catastrophe. If a Party's
+performance under this Supply Agreement is affected by a force majeure event,
+such Party shall give prompt written notice of such event to the other Party and
+shall at all times use its reasonable commercial efforts to mitigate the impact
+of the force majeure event on its performance under this Supply Agreement.
+
+ 12.7 AMENDMENT; LATER AGREEMENT. This Supply Agreement may not be
+amended, modified, or supplemented by the Parties in any manner, except by an
+instrument in writing signed by Buyer and Supplier and specifically reciting
+that it amends this Supply Agreement. No purchase order or acknowledgement will
+amend this Supply Agreement. All matters designated herein as subject to
+agreement of the Parties must be agreed upon in a writing signed by authorized
+representatives of both Parties for such agreement to be effective.
+
+ 12.8 ASSIGNMENT. Except as otherwise expressly provided in this Supply
+Agreement, neither Party shall assign or transfer this Supply Agreement or all
+or any part of its rights or obligations hereunder, by operation of law or
+otherwise, without the prior written consent of the other Party which shall not
+be unreasonably refused or delayed. Notwithstanding the foregoing and provided
+such entity is not a Competitor of the other Party, either Party may assign this
+Supply Agreement in whole or in part (i) to any subsidiary of such Party; (ii)
+to a successor of such Party in the event of a merger or acquisition of such
+Party; or (iii) to a successor of any portion of the business of such Party
+resulting from a divestiture of such business, and constituting the Supplier Fab
+in the case of Supplier, or constituting substantially all of Buyer's
+business(es) purchasing the Wafers and Services in the case of Buyer, and the
+other Party's consent to any of the foregoing assignments will not be required.
+Any unauthorized assignment or transfer
+
+ 16.
+
+shall be null and void. This Supply Agreement shall be binding upon and inure
+solely to the benefit of each Party and its successors and permitted assigns.
+
+ 12.9 NOTICES. Any notice, consent, approval, or other communication
+intended to have legal effect to be given under this Supply Agreement (other
+than a purchase order or invoice) must be in writing and will be delivered (as
+elected by the Party giving such notice): (i) personally; (ii) by postage
+prepaid registered or certified airmail, return receipt requested; (iii) by
+express courier service providing proof of delivery; or (iv) by facsimile with a
+confirmation copy deposited prepaid with an express courier service providing
+proof of delivery. Unless otherwise provided herein, all notices will be deemed
+to have been duly given on: (y) the date of receipt (or if delivery is refused,
+the date of such refusal) if delivered personally, by mail, or by express
+courier; or (z) one (1) business day after receipt by telecopy if the telecopy
+was accompanied by the mailing of the notice courier service. Each Party may
+change its address for purposes hereof on not less than three (3) days' prior
+notice to the other Party. Notice hereunder will be sent to the following
+addresses:
+
+ If to Buyer, to: If to Supplier, to:
+
+ Conexant Systems, Inc. Alpha Industries, Inc.
+ 4311 Jamboree Road 25 Computer Drive
+ Newport Beach, CA 92660-3095 Haverhill, MA 01832-1236
+ Attn: Chief Executive Officer Attn: President
+
+ With a copy:
+
+ If to Buyer, to: If to Supplier, to:
+
+ Conexant Systems, Inc. Alpha Industries, Inc.
+ 4311 Jamboree Road 25 Computer Drive
+ Newport Beach, CA 92660-3095 Haverhill, MA 01832-1236
+ Attn: General Counsel Attn: General Counsel
+
+ 12.10 WAIVER. If a Party fails to insist on performance of any of the
+terms and conditions, or fails to exercise any of its rights or privileges of
+this Supply Agreement, such failure will not constitute a waiver of such terms,
+conditions, rights, or privileges.
+
+ 12.11 SEVERABILITY. If the application of any provision or provisions
+of this Supply Agreement to any particular facts or circumstances is held to be
+invalid or unenforceable by any court of competent jurisdiction, then: (i) the
+validity and enforceability of such provision or provisions as applied to any
+other particular facts or circumstances and the validity of other provisions of
+this Supply Agreement will not in any way be affected or impaired thereby; and
+(ii) such provision or provisions will be reformed without further action by the
+Parties and only to the extent necessary to make such provision or provisions
+valid and enforceable when applied to such particular facts and circumstances.
+
+ 12.12 COUNTERPARTS AND FACSIMILE. This Supply Agreement may be executed
+in any number of counterparts, each of which when so executed and delivered will
+be deemed an original, and such counterparts together will constitute one and
+the same instrument. The Parties intend that each Party will receive a duplicate
+original of the counterpart copy or copies executed by it. For purposes hereof,
+a facsimile copy of this Supply Agreement, including the signature pages hereto,
+will be deemed to be an original.
+
+ 17.
+
+ 12.13 RULES OF CONSTRUCTION. As used in this Supply Agreement, all
+terms used in the singular will be deemed to include the plural, and vice versa,
+as the context may require. The words "hereof," "herein," and "hereunder" refer
+to this Supply Agreement as a whole, including the attached exhibits, as the
+same may from time to time be amended or supplemented, and not to any
+subdivision in this Supply Agreement. When used in this Supply Agreement, unless
+otherwise expressly stated, "including" means "including, without limitation"
+and "discretion" means sole discretion. Unless otherwise expressly stated, when
+a Party's approval or consent is required under this Supply Agreement, such
+Party may grant or withhold its approval or consent in its discretion.
+References to "Section" or "Exhibit" will be to the applicable section or
+exhibit of this Supply Agreement. Descriptive headings are inserted for
+convenience only and will not be utilized in interpreting the Supply Agreement.
+This Supply Agreement has been negotiated by the Parties and reviewed by their
+respective counsel and will be fairly interpreted in accordance with its terms
+and without any strict construction in favor of or against either Party.
+
+ 12.14 ENTIRE AGREEMENT. As to the subject matter hereof: (i) this
+Supply Agreement, including its exhibits, sets forth the entire agreement
+between Buyer and Supplier; (ii) no promise, inducement, understanding, or
+agreement not expressly contained herein has been made; and (iii) this Supply
+Agreement merges and supersedes any and all previous agreements, understandings,
+and negotiations between the Parties. The terms and conditions of this Agreement
+supersede any terms or conditions in any purchase order, form acknowledgement or
+other instrument issued by either Party in connection with this Agreement which
+add to or differ from this Agreement and such additional or differing terms and
+conditions shall have no force or effect.
+
+ 18.
+
+ IN WITNESS WHEREOF, the Parties have executed this Supply Agreement
+as of the Effective Date by the undersigned duly authorized representatives of
+each Party.
+
+BUYER: SUPPLIER:
+
+CONEXANT SYSTEMS, INC. ALPHA INDUSTRIES, INC.
+
+By: /s/ Dennis E, O'Reilly By: /s/ Paul E . Vincent
+ ----------------------------- ------------------------------
+Name: Dennis E, O'Reilly Name: Paul E . Vincent
+
+Title: Senior Vice President, Title: Vice President,
+ General Counsel and Chief Financial Officer,
+ Secretary Treasurer and Secretary
+
+ 19.
+
+ EXHIBIT A - PRICING
+
+GAAS WAFER PRICE THROUGH PCM PASS
+
+---------------------------------------------------
+PROCESS PRICE
+---------------------------------------------------
+ 
+CMD [CONFIDENTIAL TREATMENT REQUESTED]/*/
+---------------------------------------------------
+HDG2 [CONFIDENTIAL TREATMENT REQUESTED]/*/
+---------------------------------------------------
+HBT-DG [CONFIDENTIAL TREATMENT REQUESTED]/*/
+---------------------------------------------------
+
+POST PROBE PROCESSING CHARGE (BY PART NUMBER)
+* Includes parametric test, Grind, ink, and scribe and break
+
+----------------------------------------------------------------------
+ PART NUMBER MASK NUMBER COST PER WAFER
+----------------------------------------------------------------------
+ 
+CX60057 N/A [CONFIDENTIAL TREATMENT REQUESTED]/*/
+----------------------------------------------------------------------
+CX60077 60077 [CONFIDENTIAL TREATMENT REQUESTED]/*/
+----------------------------------------------------------------------
+CX60077-IB 60077 [CONFIDENTIAL TREATMENT REQUESTED]/*/
+----------------------------------------------------------------------
+CX60083 60103 [CONFIDENTIAL TREATMENT REQUESTED]/*/
+----------------------------------------------------------------------
+CX60087 60087 [CONFIDENTIAL TREATMENT REQUESTED]/*/
+----------------------------------------------------------------------
+R1901 40065 [CONFIDENTIAL TREATMENT REQUESTED]/*/
+----------------------------------------------------------------------
+R1902A24 60044 [CONFIDENTIAL TREATMENT REQUESTED]/*/
+----------------------------------------------------------------------
+R1902A6 60044 [CONFIDENTIAL TREATMENT REQUESTED]/*/
+----------------------------------------------------------------------
+R1903A24 60017,60072 [CONFIDENTIAL TREATMENT REQUESTED]/*/
+----------------------------------------------------------------------
+R1904 40068 [CONFIDENTIAL TREATMENT REQUESTED]/*/
+----------------------------------------------------------------------
+R1905 60061 [CONFIDENTIAL TREATMENT REQUESTED]/*/
+----------------------------------------------------------------------
+R1906 60062 [CONFIDENTIAL TREATMENT REQUESTED]/*/
+----------------------------------------------------------------------
+R1910 60066 [CONFIDENTIAL TREATMENT REQUESTED]/*/
+----------------------------------------------------------------------
+R1911 60017,60072 [CONFIDENTIAL TREATMENT REQUESTED]/*/
+----------------------------------------------------------------------
+R1912 60017,60072 [CONFIDENTIAL TREATMENT REQUESTED]/*/
+----------------------------------------------------------------------
+RS706 60078 [CONFIDENTIAL TREATMENT REQUESTED]/*/
+----------------------------------------------------------------------
+RS711 60079 [CONFIDENTIAL TREATMENT REQUESTED]/*/
+----------------------------------------------------------------------
+
+PRORATED WAFER CANCELLATION COST
+
+---------------------------------------------------------------------------------------------
+ Raw Material Cost Per Step Completed
+---------------------------------------------------------------------------------------------
+ 
+CMD [CONFIDENTIAL TREATMENT REQUESTED]/*/ [CONFIDENTIAL TREATMENT REQUESTED]/*/
+---------------------------------------------------------------------------------------------
+HDG2 [CONFIDENTIAL TREATMENT REQUESTED]/*/ [CONFIDENTIAL TREATMENT REQUESTED]/*/
+---------------------------------------------------------------------------------------------
+HBT-DG [CONFIDENTIAL TREATMENT REQUESTED]/*/ [CONFIDENTIAL TREATMENT REQUESTED]/*/
+---------------------------------------------------------------------------------------------
+
+ EXHIBIT B - QUALITY SPECIFICATIONS
+
+Level I
+NP-M-0001 Newbury Park Quality Manual
+
+Level II
+NP-01084 Epi Wafer Specification
+
+Level II
+NP-01065 Wafer Visual Inspection Standard
+
+Level II
+NP-CP-4009 HBT Quality Plan
+
+Level II
+NP-01064 Specification for Handling, Packaging and Storage of GaAs Products
+
+ EXHIBIT C - NEW PROCESS TECHNOLOGY PROCEDURES
+
+NP-01422 HBT3-DG Design Guide
+
+NP-01247 HBT3-DG Design Rule Specification
+
+ EXHIBIT D - WAFER CYCLE TIMES
+
+The following sets forth the average wafer cycle times:
+
+Digital Wafer Fabrication = 12 weeks
+
+Post Probe Processing = 2 weeks
+
+ EXHIBIT E - FINAL TEST AND PROBE SERVICES SUPPORT
+
+QUALITY ASSURANCE (EFFECTIVELY 1 PERSON OF SUPPORT):
+
+Incoming Package inspection / First Article Inspection on New Products
+
+Outgoing package inspection post test and Shipping Inspection
+
+Wafer Lot acceptance post Fab (GaAs)
+
+Wafer outgoing inspection post scribe, break
+
+Die Visual inspection
+
+Logistical coordination of Test equipment calibration for Buyer owner equipment
+
+Documentation review & Approval TECO, DMS & STR
+
+PRODUCTION CONTROL ACTIVITIES:(EFFECTIVELY 1 PERSON FOR SUPPORT) RECEIVING:
+
+Receive parts, prepare receiving log sheet, verify for package count and damage,
+deliver to recipient.
+
+PRODUCTION CONTROL:
+
+Receive parts from Receiving, Match paperwork to Purchase Order.
+
+Prepare Promis lot follower and submit parts and lot follower to Test.
+
+Place Lot Holds and perform Lot splits to support shipment requirements as
+directed.
+
+Maintain and report Engineering Held inventory.
+
+PRODUCTION PLANNING:
+
+Participate in scheduling and delivery requirements meetings with Buyer.
+
+Provide delivery commitments based on capacity and indicated priorities.
+
+WIP monitoring to assure on time delivery commitments.
+
+Development of Promis Prods for new products.
+
+Focal point for problem resolution related to Purchase orders, work orders,
+actual parts received mismatches.
+
+Co-ordinate procedure changes to meet Buyer requirements.
+
+INDUSTRIAL ENGINEERING : (VARIABLE SUPPORT AS REQUIRED)
+
+Layout support
+
+WIP movement plans
+
+Staffing analysis
+
+Capacity modeling only to support OEE improvement
+
+ EXHIBIT F - DELIVERY AND LOGISTICS
+
+SERVICES SUPPLIED TO BUYER
+
+ Supplier receives Purchase Order from Buyer
+
+ Supplier receives Product with detailed Work Order instructions for
+ requested Services
+
+ Supplier creates Lot Follower in PROMIS for WIP tracking
+
+ Supplier performs Services requested
+
+ Supplier performs Quality Assurance checks
+
+ Supplier prepares Notice to Ship to Buyer
+
+ Supplier ships product to Buyer
+
+GOODS SUPPLIED TO BUYER
+
+ Supplier receives Purchase Order from Buyer
+
+ Supplier creates Lot Follower in PROMIS for WIP tracking
+
+ Supplier Fabricates Wafers
+
+ Supplier performs Quality Assurance checks
+
+ Supplier prepares Notice to Ship to Buyer
+
+ Supplier ships Wafers to Buyer
+
+ 25.
+
+ EXHIBIT G - REPORTS
+
+Supplier shall prepare and provide the following reports to Buyer.
+
+Monthly Yield Reports (demonstrated) - fab line yield, probe, assembly,
+test - as applicable
+
+Monthly Cycle-Time Report (demonstrated) -
+
+Monthly Queue-Time Report (demonstrated) - can be combined with Cycle-Time
+report if easier
+
+Monthly On-Time Delivery Report (demonstrated) -
+
+Weekly WIP Report(snapshot)-
+
+Monthly Diebank Inventory report (snapshot) -
+
+Monthly Raw Material Inventory Report (snapshot) - (substrates, tape/reel
+material, trays, etc)
+
+ 26.

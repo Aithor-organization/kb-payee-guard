@@ -1,0 +1,394 @@
+EX-10.1
+2
+loop_ex101.htm
+MASTER TERM AND CONDITIONS SUPPLY AGREEMENT
+
+loop_ex101.htm
+EXHIBIT 10.1
+
+MASTER TERMS & CONDITIONS SUPPLY AGREEMENT (“MTC”)
+
+This LOOP PET supply agreement (the “Agreement”) is made as of November 14, 2018 between:
+
+ (1) Certain Members of the Coca-Cola Cross Enterprise Procurement Group who may enter into “Supply Agreements” (as defined below) with Supplier (each a "Customer" and collectively, "Customers")
+
+And
+
+ (2) Loop Industries, Inc., a company organised and existing under the laws of Nevada, whose registered office is at 480 rue Fernand Poitras, Terrebonne, QC J6Y 1Y4, Canada (“LOOP” or “SUPPLIER”) on behalf of itself and its affiliates and manufacturing facilities designated as authorized producers of Product (each a “LOOP Affiliate”, or collectively “LOOP Affiliates”);
+
+(Customer and LOOP are hereinafter referred to collectively as the Parties and individually as a Party).
+
+RECITALS:
+
+ A. LOOP has developed an innovative technology to produce polyethylene terephthalate (PET) from the depolymerization of PET-containing feedstock (the “Product”).
+
+ B. Customers wish to purchase said Products from LOOP or LOOP Affiliates.
+
+ C. SUPPLIER and Customers may in the future enter into supply agreements, or Customers may submit to SUPPLIER orders, referencing and incorporating these MTCs (“Supply Agreements”).
+
+ D. SUPPLIER and Customers, through the Coca-Cola Cross Enterprise Procurement Group initiative (“CEPG”), wish to acknowledge and agree to these MTCs in anticipation of Loop or Loop Affiliates and Customers entering into Supply Agreements.
+
+ E. The CEPG was created among authorized bottlers and other businesses affiliated with The Coca-Cola Company (“TCCC”) for the principal purpose of collaboration in the procurement of products by and for the members of the CEPG, and members of the CEPG may from time to time lead in the procurement of products from SUPPLIER for certain Customers.
+
+ F. SUPPLIER acknowledges and agrees to these MTCs.
+
+NOW THEREFORE, IN CONSIDERATION of the promises and obligations contained in these MTCs or any Supply Agreements, and in consideration of SUPPLIER and Customers potentially entering into Supply Agreements in the future, the parties agree as follows with respect to any Supply Agreement:
+
+[***] Confidential treatment has been requested for the bracketed portions. The confidential redacted portion has been omitted and filed separately with the Securities and Exchange Commission.
+
+Classified - Confidential
+
+ 1
+
+1. Supply Agreement
+
+These MTCs will be incorporated into any Supply Agreements and the term of these MTCs shall be that of the applicable Supply Agreement. These MTCs, together with any Supply Agreement referencing and incorporating these MTCs, constitute the entire agreement between SUPPLIER and Customer with respect to the supply of Products (as defined below). Unless the context requires otherwise, each reference to “Supply Agreement” in these MTCs includes these MTCs. 
+
+2. SUPPLIER's Affiliates and Authorized Facilities
+
+The Supply Agreement applies to the supply of Products by SUPPLIER and Loop Affiliates that are listed in Exhibit A (“Listed Affiliates”). By the execution of these MTCs, SUPPLIER represents that Listed Affiliates consent to and intend to be bound by these MTCs. By the execution or acceptance of a Supply Agreement, SUPPLIER represents that Listed Affiliates consent to and intend to be bound by the Supply Agreement. Each reference to "SUPPLIER" in these MTCs and each Supply Agreement will include the Listed Affiliates that enters into a Supply Agreement with Customers or Customer Affiliates. Products under the Supply Agreement may only be manufactured by SUPPLIER and its Listed Affiliates at facilities that are authorized by TCCC (“Authorized Facilities”) at the time of actual manufacture and delivery. Customers hereby consent to the manufacturing of Products by the Listed Affiliates. 
+
+3. Customer’s Affiliates and CEPG’s Role
+
+3.1. Customer’s Affiliates
+
+Customers, their principals, subsidiaries, business units, participating affiliates, and designees receiving or using Products identified in a Supply Agreement (“Customer Affiliates”) will be entitled to place Orders (as defined in Section 6 below). Each reference to “Customer(s)” or “Customer Affiliate(s)” in these MTCs and the Supply Agreement will include such entities and units unless the context suggests otherwise. 
+
+3.2. CEPG’s Role
+
+SUPPLIER acknowledges that: (i) the CEPG was created for the principal purpose of collaboration in the procurement of products by and for members of the CEPG, including the procurement of Products; (ii) a member of the CEPG will execute these MTCs as an acknowledgement of its role as a lead in the procurement of Products for Customers; (iii) the CEPG is not a separate legal entity, but rather a contractual relationship among its members; and (iv) each Customer entering into a Supply Agreement with a SUPPLIER will be solely responsible for said Customer’s obligations under the Supply Agreement.
+
+[***] Confidential treatment has been requested for the bracketed portions. The confidential redacted portion has been omitted and filed separately with the Securities and Exchange Commission.
+
+Classified - Confidential
+
+ 2
+
+4. Territory
+
+The Supply Agreement will apply to the sale of Products in the countries or other geographic regions specified in the Supply Agreement (“Territory”).
+
+5. Orders
+
+5.1. Sales Subject to Orders
+
+Sales will be subject to written orders issued by the Customer to the SUPPLIER ("Orders") pursuant to Section 6 hereunder.
+
+5.2. Quantities and Dates
+
+Orders will specify quantities, delivery dates and points of delivery. Any Order that (i) specify quantities in excess of the forecasts mutually agreed between a SUPPLIER and a Customer (the process for and substance of such forecasts, if any, to be set forth in the individual Supply Agreement), or (ii) specify delivery dates sooner than the lead times mutually agreed between a SUPPLIER and a Customer in an individual Supply Agreement, if any, are subject to confirmation by that SUPPLIER.
+
+5.3. Time 
+
+Time is of the essence in all Orders. SUPPLIERs will promptly advise Customers of any delay or anticipated delay in delivery or performance.
+
+5.4. Terms and Conditions
+
+5.4.1. Supersede Preprinted Terms in Other Documents
+
+These MTCs supersede any preprinted or standard terms that may appear on any Orders, invoices, acknowledgements, quotations or similar documents exchanged between a SUPPLIER and a Customer.
+
+5.4.2. Superseded by Supply Agreement
+
+Any terms or conditions contained in a Supply Agreement that directly conflict with these MTCs, including without limitation those identified as “Modifications to the Master Terms and Conditions”, will supersede these MTCs to the extent of said conflict. 
+
+6. General Pricing.
+
+6.1. Pricing Schedule
+
+Prices applicable to Orders will be as set forth in the applicable Supply Agreement (“Prices”).
+
+[***] Confidential treatment has been requested for the bracketed portions. The confidential redacted portion has been omitted and filed separately with the Securities and Exchange Commission.
+
+Classified - Confidential
+
+ 3
+
+6.2. Default Terms
+
+Unless otherwise stated in the Supply Agreement, all Prices are [***] (Incoterms 2010).
+
+The transfer of risks and transfer of title shall take place at the place of delivery in accordance with the [***] (Incoterms 2010).
+
+6 Forecast Purchase Orders and Volumes
+
+6.3. Process for Forecasts and Placement of Purchase Orders for each Customer Affiliate and corresponding Loop Affiliate SUPPLIER.
+
+Customer Affiliate shall issue an initial Forecast Supply Schedule (“FSS”) [***] indicating the volume of Product required. Customer Affiliate shall send an updated FSS every quarter indicating a rolling 12-month forecast of the Product volume. 
+
+6.3.1. LOOP Affiliate shall respond to the FSS issued by Customer Affiliate within [***] Business Days confirming: 1) the Product volume; 2) the Product receipt date; and 3) the Product price; in order for an FSS to be deemed accepted. 
+
+6.3.2. Customer Affiliate shall place orders for Product by issuing Orders on the fifth of each month for Orders to be delivered no less than [***] days from the receipt of any such Orders. LOOP Affiliate shall confirm the Order within [***] Business Days of receipt of any Order.
+
+6.3.3. Customer Affiliate shall issue all FSS’s and Purchase Orders via email to: [***] from the relevant Customer Affiliate. Customer Affiliate may request telephone discussions with LOOP AFFILIATE by emailing a request to: [***].
+
+6.4. Volume purchase– Supply Agreement
+
+6.4.1. [***]
+
+7. Quality
+
+7.1. Process for each Customer Affiliate and corresponding Loop Affiliate SUPPLIER to address non-conforming Product.
+
+7.1.1. Customer Affiliates shall notify LOOP Affiliate of any non-conformity within [***] business days after receipt of the Product in the event of a defect discovered by Customer.
+
+7.1.2. LOOP Affiliate shall, within [***] business days of receipt of such a notification from a Customer Affiliate, notify Customer Affiliate in writing whether LOOP Affiliate agrees to such non-conformity.
+
+[***] Confidential treatment has been requested for the bracketed portions. The confidential redacted portion has been omitted and filed separately with the Securities and Exchange Commission.
+
+Classified - Confidential
+
+ 4
+
+7.1.3. LOOP Affiliate will [***] from (i) the receipt of the notification or, (ii) if there is a disagreement between the Parties as to the non-conformity, from the date on which the independent expert laboratory referred to below will have established the non-conformity of such Product and made the results of the tests showing such non-conformity known to the Parties.
+
+7.1.4. Should LOOP Affiliate disagree on the non-conformity of a batch of Product, the Parties will, within [***] of such LOOP Affiliate notification, appoint an independent expert laboratory (appointed by mutual agreement between the Parties, which agreement shall not be unreasonably withheld, conditioned or delayed) who shall determine whether such Product is non-conforming. The independent expert laboratory’s decision shall be conclusive and binding on the Parties. The cost of such analysis will be borne by the Party in error.
+
+8. Price and Invoicing
+
+8.1. Price 
+
+8.1.1. [***]
+
+Unless the contract documents specify otherwise, payment terms are [***] days from receipt of an invoice.
+
+9. Loop Logo
+
+9.1. Placement on Packaging
+
+9.1.1. [***]
+
+10. Customs Authorization
+
+10.1.1. Customers and Customer Affiliates shall obtain all the necessary customs authorizations required to import the Products in the territories where they are to be delivered. 
+
+11. Representations and Warranties
+
+11.1. General representations and warranties
+
+11.1.1. Each Party warrants to the other that:
+
+11.1.1.1. CEPG represents that its member Customers are validly existing and in good standing under applicable laws;
+
+[***] Confidential treatment has been requested for the bracketed portions. The confidential redacted portion has been omitted and filed separately with the Securities and Exchange Commission.
+
+Classified - Confidential
+
+ 5
+
+11.1.1.2. CEPG represents that its member Customers have the legal right and authority to perform the obligations under these MTC’s and any Supply Agreement in accordance with their terms and these obligations will constitute valid and binding obligations of that Party once included in a fully executed Supply Agreement between a Customer and a Supplier; and
+
+11.2. Specific representations and warranties in respect of LOOP
+
+11.2.1. LOOP represents and warrants the following to Customers and Customer Affiliates that the Products:
+
+11.2.1.1. comply with approved specifications;
+
+11.2.1.2. are of good quality, free from defects and any third-party rights;
+
+11.2.1.3. are manufactured in accordance with good manufacturing practices and in compliance with applicable law.
+
+12. Intellectual Property
+
+12.1. Intellectual property rights
+
+12.1.1. All intellectual property rights supplied by a Party for the manufacture of the Products are the exclusive property of that Party and the other Party does not acquire (nor does any third party), by its activity or the performance of its obligations hereunder, any ownership or any license or any other right whatsoever on these intellectual property rights.
+
+12.1.2. Nothing in this Agreement shall be construed as a license, assignment or an obligation for any Party or its affiliates to grant a license or assign any of its intellectual property rights to the other Party.
+
+12.1.3. Each Party shall not use the other Party’s intellectual property rights, including its name and logo in any internal or external publication or any advertisement, material or otherwise, without such Party’s prior written consent, [***].
+
+13. Confidentiality
+
+13.1. Mutual Undertaking
+
+13.1.1. Throughout the term of this Agreement and for [***] years following its expiration or termination, the Parties agree to keep all Confidential Information disclosed by the other Party in connection with these MTC’s and applicable Supply Agreement confidential.
+
+[***] Confidential treatment has been requested for the bracketed portions. The confidential redacted portion has been omitted and filed separately with the Securities and Exchange Commission.
+
+Classified - Confidential
+
+ 6
+
+13.1.2. For the purpose of this article, the term “Confidential Information” shall mean the terms of these MTC’s and any applicable Supply Agreement, as well as all technical, commercial, marketing, industrial, financial and other information, lawfully belonging to or held by one of the Parties, which is communicated in any form whatsoever (written, orally, graphic, computerised or otherwise) to the other Party within the scope of this Agreement, whether before or after the date of this Agreement.
+
+13.1.3. In particular, each Party undertakes:
+
+ · not to use the Confidential Information for any purposes other than to perform its obligations under a Supply Agreement;
+
+ · to communicate the Confidential Information only to those of its staff members who are directly and necessarily involved in the performance of a Supply Agreement and to make the necessary arrangements (in the form of contracts or otherwise) to ensure that such staff members strictly comply with this confidentiality undertaking individually; and
+
+ · to take all reasonable steps in order to protect the Confidential Information against theft, copies and all unauthorised uses and/or disclosures.
+
+13.1.4. Notwithstanding the foregoing, each Party shall be entitled to communicate to its investors, financial, legal and other advisors, the existence of these MTC’s, and each Party shall be entitled to communicate the existence of the applicable Supply Agreement as otherwise required by law.
+
+13.1.5. Confidential Information shall not be considered as confidential if a Party can demonstrate that:
+
+ · it was in the public domain at the date of its disclosure or has come into the public domain at a later time, without any fault of the Party that received the Confidential Information (this Party will then only be allowed to disclose Confidential Information which is in the public domain); or
+
+ · it was already known to the receiving Party at the date on which it was received (without any fault on the part of the receiving Party); or
+
+ · it was disclosed on request of an administrative authority or under applicable laws and regulations, an enforceable settlement or a court decision. This provision applies only to the Confidential Information that must be disclosed to fulfil the obligation. In such a case, the disclosing Party shall inform the other Party accordingly and use all legal means to avoid such disclosure. The disclosure shall be limited to what is strictly necessary to comply with the administrative request, laws or court decision; or
+
+ · it was developed independently by the receiving party without reference to the Confidential Information.
+
+[***] Confidential treatment has been requested for the bracketed portions. The confidential redacted portion has been omitted and filed separately with the Securities and Exchange Commission.
+
+Classified - Confidential
+
+ 7
+
+14. Term
+
+14.1. Effective date 
+
+14.1.1. These MTC’s shall remain in full force and effect until five years from [***] (the “Term”) [***].
+
+[***]
+
+Notwithstanding the foregoing, these MTC’s are subject to Corporate technical approval, including but not limited to Science Regulatory Affairs physical and sensory testing including preform production and bottle blowing. 
+
+14.1.2. These MTC’s and/any Supply Agreement or Order may be terminated, without any penalty or further liability for the party exercising that termination right on the basis set forth below:
+
+14.1.2.1. breach by the other Party of a material requirement (or compliance to Specifications – Specifications as per Exhibit B in a contract document) not cured within [***] following notice of breach by the non-breaching Party;
+
+14.1.2.2. a Force Majeure event, which prevents performance of the contract documents for more than [***];
+
+14.1.2.3. the other Party becomes bankrupt/insolvent or enters into administration or is unable to pay its debts as they fall due or threatens to do any of those acts or events.
+
+15. Force Majeure
+
+15.1. Definition
+
+15.1.1. A “Force Majeure Event” means riot, war, rebellion, fire, flood, act of God, terrorism, act of governmental authorities affecting the industry of a Party generally, or any other event similarly beyond the control of a Party to this contract, which makes it impossible for the affected party to comply with the terms of the relevant contract, but excluding any:
+
+15.1.1.1. failure of equipment to operate;
+
+15.1.1.2. a sub-contractor (including sub-supplier) failure, not itself caused by a Force Majeure Event;
+
+[***] Confidential treatment has been requested for the bracketed portions. The confidential redacted portion has been omitted and filed separately with the Securities and Exchange Commission.
+
+Classified - Confidential
+
+ 8
+
+15.1.1.3. change in economic conditions or costs; and 
+
+15.1.1.4. labour disruption. 
+
+15.1.2. A Party affected by a Force Majeure Event will not be liable for any non-compliance with the contract documents to the extent caused by the Force Majeure Event, provided that the affected Party promptly notifies the other Party of the event and uses commercially reasonable efforts to mitigate the situation.
+
+16. Liability
+
+16.1. Neither Party shall be responsible for any indirect or consequential damage or loss, which the other suffers as a result of the performance, breach or non-performance by such Party of this Agreement. 
+
+17. Subcontracting and Assignment
+
+17.1. LOOP shall be entitled to subcontract or assign all or part of its obligations under these MTC’s to manufacturing facilities designated as authorized producers of Product, without the prior approval of Customer. 
+
+17.2. [***].
+
+18. Compliance with the Law
+
+18.1. In performing its obligations, each Party shall comply at all times with all applicable laws and regulations in the territories in which such obligations are to be performed.
+
+19. Independent Parties
+
+19.1. These MTC’s do not consist of, amount to or create an association, a company or a joint-venture (whether de facto or by agreement) between the Parties or a power of attorney from either Party to the other or an agency agreement or an employment contract.
+
+20. Miscellaneous
+
+20.1. Waiver
+
+20.1.1. Any waiver by a Party to claim a non-compliance with the provisions of these MTC’s or a corresponding Supply Agreement by the other Party shall be made in writing, signed by the Party which is entitled to the benefit of such waived provisions and shall refer to the provisions of these MTC’s the benefit of which is waived.
+
+[***] Confidential treatment has been requested for the bracketed portions. The confidential redacted portion has been omitted and filed separately with the Securities and Exchange Commission.
+
+Classified - Confidential
+
+ 9
+
+20.1.2. No waiver shall be deemed to or shall constitute a waiver of another non-compliance with the same provision or a waiver of any other provisions of these MTC’s or a corresponding Supply Agreement. No default or delay by one Party to exercise the rights entrusted to it by the law in accordance with these MTC’s or a corresponding Supply Agreement can be deemed to be a waiver to claim such rights at a later stage and a partial exercise of such rights does not prevent such Party from exercising the totality of such rights or any other rights at a later stage.
+
+20.2. Severability
+
+20.2.1. If any provision of these MTC’s or a corresponding Supply Agreement are held to be invalid in whole or in part, the validity of the remaining provisions of the MTC’s and Supply Agreement shall not be affected. In such event, the Parties shall, if possible, substitute for such invalid provision a valid provision corresponding to the spirit and purpose thereof.
+
+20.3. Notices
+
+20.3.1. Any notice to be given by any Party to any other Party under these MTC’s or a corresponding Supply Agreement in the context of the Project, shall be in writing and shall be served (i) by email, (ii) by hand delivery against acknowledgement of receipt or (ii) by express courier (Fedex, DHL, etc.) or registered letter with an acknowledgement of receipt, sent to the address mentioned in these MTC’s or a corresponding Supply Agreement (or to such other address as may be notified from time to time by a Party).
+
+20.3.2. The notices are deemed to be validly served as at (i) the date of email transmission, (ii) the date of the hand delivery against acknowledgement of receipt or (ii) the date of first presentation of the express courier or registered letter.
+
+20.4. Counterparts
+
+20.4.1. These MTC’s may be executed in any number of counterparts each of which when executed by one or more of the parties hereto shall constitute an original but all of which shall constitute one and the same instrument.
+
+20.5. Applicable law
+
+20.5.1. These MTC’s and any Supply Agreements executed between a Customer and a SUPPLIER are governed by the laws of the Province of Ontario and the federal laws of Canada applicable therein and any disputes between the Parties arising out of this Agreement and/or any Supply Agreement shall be settled by the applicable courts in the Province of Ontario. 
+
+[***].
+
+SIGNATURE PAGE FOLLOWS
+
+[***] Confidential treatment has been requested for the bracketed portions. The confidential redacted portion has been omitted and filed separately with the Securities and Exchange Commission.
+
+Classified - Confidential
+
+ 10
+
+IN WITNESS THEREOF, these MTC’s have been signed in two (2) originals on the dates indicated below.
+
+LOOP INDUSTRIES, INC.
+ 
+CEPG 
+
+By:
+ /s/ Daniel Solomita 
+By:
+ /s/ Bruce Eliott 
+
+Name:
+ 
+Daniel Solomita 
+ 
+ame: 
+ 
+Bruce Eliott
+
+Title: 
+ 
+CEO 
+ 
+Title: 
+ 
+MD Plastics Packaging
+
+Date: November 23, 2018 
+
+[***] Confidential treatment has been requested for the bracketed portions. The confidential redacted portion has been omitted and filed separately with the Securities and Exchange Commission.
+
+Classified - Confidential
+
+ 11
+
+EXHIBIT A
+
+[***] 
+
+[***] Confidential treatment has been requested for the bracketed portions. The confidential redacted portion has been omitted and filed separately with the Securities and Exchange Commission.
+
+Classified - Confidential
+
+ 12
+
+EXHIBIT B
+
+[***]
+
+[***] Confidential treatment has been requested for the bracketed portions. The confidential redacted portion has been omitted and filed separately with the Securities and Exchange Commission.
+
+Classified - Confidential
+
+13

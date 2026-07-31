@@ -1,0 +1,1242 @@
+EX-10.50
+5
+dex1050.htm
+MASTER SUPPLY AGREEMENT, DATE JUNE 13, 2003
+
+Master Supply Agreement, date June 13, 2003
+
+EXHIBIT 10.50 
+
+MASTER SUPPLY AGREEMENT 
+
+Contract Number:
+
+MRYMDT003
+
+Effective Date:
+
+13-Jun-03
+
+Parties:
+
+“Medtronic”
+
+“Supplier”
+
+Legal Name:
+
+Medtronic, Inc.
+
+Memry Corporation
+
+Address:
+
+710 Medtronic Parkway
+ 
+Minneapolis, MN 55432
+
+3 Berkshire Blvd.
+ 
+Bethel, CT 06801
+
+Type of Entity:
+
+Minnesota corporation
+
+Delaware Corporation
+
+RECITALS
+
+ A.
+ 
+ Supplier manufactures and/or supplies “Products”, (as defined below), and 
+
+ B.
+ 
+ Medtronic is a manufacturer of medical devices and wishes to purchase Products for use in its devices; 
+
+TERMS OF AGREEMENT 
+
+For good, valuable and sufficient consideration, Medtronic and Supplier have entered into this Agreement as of the Effective Date, subject to the following terms and
+conditions: 
+
+ 1.
+ 
+ DEFINITIONS 
+
+Capitalized terms used in this Agreement will have the following meanings: 
+
+ A.
+ 
+ “Agreement” means this Agreement and all its attachments. 
+
+ B.
+ 
+ “Commercial Phase” shall mean, for each and every Product, the time from and after First Commercial Release of a Medtronic device using any Product.
+
+ C.
+ 
+ “Confidential Information” is defined in section 4, below. 
+
+ D.
+ 
+ “Effective Date” is as specified at the beginning of this Agreement. 
+
+ E.
+ 
+ “Facility” means a Medtronic facility, business unit or division, which elects to participate in this Agreement by execution of a Facility Supply Agreement.
+
+ F.
+ 
+ “Facility Supply Agreement” means an attachment to this Agreement (in substantially the form attached as Exhibit A and Exhibit B) which may be executed on behalf of
+Supplier and a Facility from time to time during the term of this Agreement covering Products to be supplied to such Facility. 
+
+ G.
+ 
+ “First Commercial Release” shall mean the first sale of a Medtronic device in a country where the Medtronic device is approved for sale and general distribution by the
+government. 
+
+Memry Master Supply Agreement
+
+ Page 1 of 13
+
+ H.
+ 
+ “Investigational Phase” shall mean, for each and every Product, the time from the Effective Date to the First Commercial Release of each Medtronic device using any
+Product. 
+
+ I.
+ 
+ “Part Family” shall have the meaning given in a Facility Supply Agreement. 
+
+ J.
+ 
+ “Part Number” shall have the meaning given in a Facility Supply Agreement. 
+
+ K.
+ 
+ “Product” means products described in Facility Supply Agreements, as such may from time to time be amended by written agreement of the parties. 
+
+ L.
+ 
+ “Specifications” means all applicable specifications and protocols relative to the design, physical characteristics, function, performance, manufacture, packaging and
+quality of the Products. 
+
+ M.
+ 
+ “Primary Source Requirement” means the requirement that Supplier shall manufacture for Medtronic no less than fifty percent (50%) of all purchased Products in each Part
+Family listed in the applicable Facility Supply Agreement; provided that Medtronic will have the right to terminate the Primary Source Requirement at any time after the occurrence of: (i) a material breach by Supplier of any term or provision of
+this Agreement or any Facility Supply Agreement, which breach is not cured within 30 days after notice is given thereof; (ii) a Chronic Late Event; or (iii) a Chronic Quality Event. Products that Medtronic produces itself shall be excluded from the
+Primary Source Requirement. 
+
+ N.
+ 
+ “Chronic Late Event” means the failure of Supplier to supply the quantity of Products ordered in accordance with the scheduled delivery dates set forth on two or more
+occasions in any particular calendar quarter, except where such failure is attributable to an event described in Section 3.H. 
+
+ O.
+ 
+ “Chronic Quality Event” means the rejection by Medtronic or any Facility in accordance with Section 3.F of more than 5% of all Product in any particular Part Family
+shipped in any particular quarter. 
+
+ 2.
+ 
+ SALE AND PURCHASE OF PRODUCT 
+
+ A.
+ 
+ Sale of Products. During the term of this Agreement, Supplier will sell and supply the Products listed in each Facility Supply Agreement, and Medtronic will purchase the
+Products listed in each Facility Supply Agreement, all pursuant to the terms and conditions set forth herein. Additional Products may be added to a Facility Supply Agreement by mutual agreement of the parties in writing. 
+
+ B.
+ 
+ Forecasting; Binding Commitments. For Products ordered under this Agreement during the Investigational Phase, there will be no forecasts and no binding commitment of
+Medtronic to purchase unless and until purchase orders are sent to and acknowledged by Supplier as described below. Unless otherwise noted in a Facility Supply Agreement, after the First Commercial Release of a Product, each participating Facility
+shall issue to Supplier a twelve (12) month rolling forecast of its requirements for Product (“Forecast”), which Forecast shall, unless otherwise specified in a Facility Supply Agreement, comply with the requirements set forth in this
+Section 2.B. This Forecast will be updated no less often than monthly as provided for in Section 2.C, and Medtronic will use commercially reasonable efforts to level load (i.e., allocate annual demand equally across all 12 months of the Forecast)
+the Forecast. The first three (3) months of the Forecast will be provided by specific Part Number and is a firm 
+
+Memry Master Supply Agreement
+
+ Page 2 of 13
+
+commitment to purchase those volumes of each such Part Number. The following nine (9) months of the Forecast will be provided by Part Family only. In each
+such successive monthly update of the Forecast, each Facility may decrease the total amount of Products in each Part Family provided that: 
+
+ (i) the aggregate decrease for such Part Family for a particular month from the point at which such month is month six (6) in a Forecast until the time that same month becomes month
+three (3) of a Forecast shall not exceed twenty percent (20%) of the amount forecast for such Part Family for such month when it was month six (6) of the Forecast; 
+
+ (ii) the aggregate decrease for such Part Family for a particular month from the point at which such month is month nine (9) in a Forecast until the time that same month becomes
+month six (6) of a Forecast shall not exceed thirty-five percent (35%) of the amount forecast for such Part Family for such month when it was month nine (9) of the Forecast; and 
+
+ (iii) the aggregate decrease for such Part Family for a particular month from the point at which such month is month twelve (12) in a Forecast until the time that same month becomes
+month nine (9) of a Forecast shall not exceed thirty-five percent (35%) of the amount forecast for such Part Family for such month when it was month twelve (12) of the Forecast. 
+
+ C.
+ 
+ Orders. 
+
+ (1)
+ 
+ Products will be ordered via standard Medtronic purchase orders, which may be submitted via mail, fax or, if mutually agreed by the parties, electronic data interchange (EDI).
+Supplier will acknowledge receipt of orders within (5) business days. Orders will be deemed accepted upon Supplier’s acknowledgement of same, unless Supplier provides notice of rejection in the aforesaid acknowledgement. Supplier may not reject
+purchase orders within any particular Part Family unless the amount so ordered exceeds any of (i) 150% of the greatest forecast for such Part Family received in the 10th, 11th or 12th months prior to the month of the order, (ii) 135% of the greatest forecast for such Part Family received in the 9th, 8th, or 7th months prior to the date of order, or (iii) 120% of the greatest forecast for such Part
+Family received in the 6th, 5th or 4th months prior to the date of order. Each purchase order
+accepted (or deemed accepted) by Supplier shall give rise to a contract between Medtronic and Supplier for the purchase and sale of the Products ordered and shall be subject to and governed by the terms of this Agreement and any the particular
+Facility Supply Agreement. 
+
+ (2)
+ 
+ Ten (10) days prior to the start of each month, each Facility or Medtronic will issue to Supplier purchase orders for the next upcoming month, along with the revised rolling
+forecast described in Section 2.B. In the event that a Forecast is not received by the aforementioned time period, the then current forecast will automatically roll and extend one month in equal volume to the previous month 12 volume.
+
+ D.
+ 
+ Prices. 
+
+ (1)
+ 
+ Pricing. The prices for Products are set out in the applicable Facility Supply Agreements. 
+
+ (2)
+
+Favored-customer pricing and terms. Excluding United States Government contracts, if Supplier offers a product comparable in quality and design to any
+Product covered by this Agreement to any third party at pricing or terms more 
+
+Memry Master Supply Agreement
+
+ Page 3 of 13
+
+favorable (based on comparable quantities) than this Agreement, Supplier will promptly notify Medtronic and extend the more favorable pricing or terms to
+Medtronic. 
+
+ (3)
+ 
+ Cost reductions. On an ongoing basis, Supplier will use reasonable commercial efforts to reduce the cost of Products (subject to the provisions of subsection 3.B relative to
+design and process changes) and commits to work with Medtronic suggestions in development of a cost reduction plan for each participating Facility on an ongoing basis; provided, however, that (i) the foregoing shall not require Supplier to bear any
+material internal development costs not underwritten by Medtronic, and (ii) any cost reductions so achieved by virtue of Medtronic’s suggestions shall reduce the costs of the Product by the actual amount of any such savings.
+
+ E.
+ 
+ Payment Terms. Except as otherwise specified in an applicable Facility Supply Agreement, payment shall be due net 30 days from the date of delivery plus five (5) days, or
+from the date of receipt of correct invoice, whichever date is later. Medtronic shall be entitled to a two percent (2%) discount off payments remitted within ten (10) calendar days from the date of delivery of the Product, or from the date of
+receipt of correct invoice, whichever date is later. 
+
+ F.
+ 
+ Delivery. Supplier will ship Products for delivery as specified in Medtronic purchase orders. Unless otherwise specified in an applicable purchase order, delivery of Products
+will be F.O.B. Supplier’s facility of manufacture and freight collect, and title and risk of loss will pass from Supplier to Medtronic when Products are tendered for shipment on behalf of Medtronic. Unless otherwise specified in an applicable
+purchase order, Supplier shall deliver Products using Medtronic’s preferred shipping vendors and shall use the Medtronic account number with such vendors when shipping Products. Supplier shall verify with Medtronic that a shipping vendor is a
+preferred Medtronic shipping vendor before shipping Products with such vendor. 
+
+Medtronic shall not be obliged to accept any deliveries tendered before the agreed date and may return the Product to the Supplier at the Supplier’s sole risk and expense if delivered more than five (5) days
+early, except where product shipments are based upon acceptable overage amounts if so specified in the applicable Facility Supply Agreement. Alternatively Medtronic may elect to retain such Products and keep them at the risk of the Supplier and pay
+the price thereof in accordance with this Agreement upon receipt of an invoice effective at the specified date of delivery. 
+
+ G.
+ 
+ Allocation. Should Supplier be unable to supply the specified quantities or to meet the specified delivery date, Medtronic will be a preferred customer for delivery of what
+Product is available and in no case will receive less than a pro rata share based on volume purchased over the past year. No such preferred allocation will relieve Supplier of any liability hereunder for breach. 
+
+ H.
+ 
+ Alternative Supply. It is understood that nothing in this Agreement will prevent Medtronic from developing products similar to the Products covered by this Agreement or from
+sourcing such products or the Products from another vendor, provided that Medtronic complies with the Primary Source Requirement. 
+
+ I.
+ 
+ Third Party Fabricators. If requested by Medtronic, Supplier will ship Product to third party fabricators identified by Medtronic. Supplier will invoice the cost of Product
+(at the prices specified herein) to Medtronic. 
+
+Memry Master Supply Agreement
+
+ Page 4 of 13
+
+ J.
+ 
+ New Product Development and Prototypes. In the event Medtronic, desires to engage Supplier for consultation, design assistance, prototype development or any other form of
+development assistance prior to the time of the First Commercial Release and related to the use of shape memory alloys, or components made therefrom, Supplier shall provide such assistance on a “most favored” basis.
+
+Such guidelines will be in effect until
+Medtronic has achieved a “design freeze”, is about to enter clinical trials, has received CE mark approval, or has determined the product is ready for commercial release. Alternatively, Medtronic may advise Supplier that the development
+program, as defined between the parties, is concluded. Any on-going involvement Supplier may have beyond this development stage shall be negotiated separately. 
+
+ 3.
+ 
+ PRODUCTION 
+
+ A.
+ 
+ Compliance with Specifications. Supplier will manufacture the Products in strict accordance with the applicable Specifications. 
+
+ B.
+ 
+ Changes. 
+
+ (1)
+ 
+ If Supplier finds it necessary or desirable to change the Specifications for any Product, or to change the design or production processes affecting the form, fit, function,
+performance or chemical composition of any Product, Supplier will give Medtronic notice and not implement any such change without Medtronic’s prior written consent. 
+
+ (2)
+ 
+ If Medtronic similarly finds it necessary or desirable to change the applicable Specifications for any Product, then it will so notify Supplier. Supplier will use commercially
+reasonable efforts to make any such changes at such an adjusted purchase price as Medtronic and Supplier may agree to in writing pursuant to good faith negotiations, it being agreed and understood that the starting point for such negotiations shall
+be the changes to Supplier’s costs caused by the changes. 
+
+ (3)
+ 
+ Any agreed changes to the Specifications will be reduced to writing. 
+
+ C.
+ 
+ Packaging and Labeling. All Products will be packaged and labeled in accordance with the applicable Facility Supply Agreement and any applicable Specifications. All Product
+shall be packaged in a commercially reasonable manner. Supplier shall have the packaging approved by Medtronic and such approval shall not be unreasonably withheld. 
+
+ D.
+ 
+ Quality. Unless otherwise specifically agreed in writing by Medtronic, all Products supplied under this Agreement will be manufactured in accordance with all applicable laws
+and regulations, including: (1) all applicable standards of the International Standards Organization (ISO) and applicable ISO-certified processes and all applicable FDA GMP requirements and (2) all other quality standards and quality assurance plans
+referenced in the Specifications. 
+
+ E.
+ 
+ Compliance. Supplier represents and warrants that the Product delivered to Medtronic will not: (1) be adulterated or misbranded within the meaning of the United States Food,
+Drug, and Cosmetic Act, or (2) be in violation of any governmental statutes, orders, ordinances or regulations. 
+
+ F.
+ 
+ Non-conforming Product. 
+
+Memry Master Supply Agreement
+
+ Page 5 of 13
+
+ (1)
+ 
+ Medtronic will have the right to reject any Product which does not meet the applicable Specifications, within 90 days after actual delivery for all parameters that can be tested at
+the time of receipt. For parameters that cannot be tested at that time, Supplier’s warranty will address any non-conforming products. 
+
+ (2)
+ 
+ In the event that any Product does not meet applicable Specifications and Medtronic has notified Supplier, Supplier will replace such Product free of charge and Supplier shall cover
+expenses (including freight and customs clearance, if any) incurred by Medtronic in connection with (a) shipment of replacement Product to the same location and (b) shipment of the nonconforming Product back to Supplier (if so requested by
+Supplier). In the event of a rejection of defective Product, Supplier will make best efforts to ship replacement Product within thirty (30) days of its receipt of a rejection notice from Medtronic. 
+
+ G.
+ 
+ Approvals. Medtronic will be responsible for obtaining any regulatory approvals for the Products. Supplier will provide reasonably necessary assistance to Medtronic in
+obtaining those approvals. 
+
+ H.
+ 
+ Excused Performance. A party’s obligations hereunder, including any delays in deliveries hereunder, will be excused only to the degree affected by and after reasonable
+efforts to avoid strikes, riots, war, invasion, acts of God, fire, explosion, floods, delay of common carrier, acts of government agencies or instrumentalities, judicial action, and other contingencies beyond the reasonable control of the party.
+Medtronic may terminate a purchase order for any affected Product if Supplier remains unable to provide such Product more than sixty (60) days after the scheduled date of delivery. 
+
+ I.
+ 
+ Subcontracting. Supplier may not subcontract any of its obligations under this Agreement without the prior written consent of Medtronic, not to be reasonably
+withheld. 
+
+ 4.
+ 
+ CONFIDENTIALITY AND PUBLICITY 
+
+ A.
+ 
+ Confidential Information. “Confidential Information” will mean all data, information and know-how disclosed by one party (“Discloser”) to the other party
+(“Recipient”) during the term of this Agreement regarding technology, designs, know-how, computer programs, products, markets and business plans relating to the subject matter of this Agreement (but will not include information excluded by
+subsection 4.C, below). Disclosures may be made in any manner, including through written documents, magnetic media, electronic transmissions, verbal disclosures, visual presentations, and facility tours. The obligations of this Agreement will apply
+to all information which the Recipient knows or has reason to know or believe that the Discloser considers to be Confidential Information. 
+
+ B.
+ 
+ Obligations. Each party agrees it shall make no use of Confidential Information of the other party except for the purpose of this Agreement. Such Confidential Information
+will not be disclosed to third parties without written permission of the owner. 
+
+ C.
+
+Exclusions. These obligations will not apply to a party’s information to the extent that it (1) was already legally in the possession and control of the
+Recipient prior to its receipt from the Discloser; (2) is independently developed by the Recipient without use of the Discloser’s Confidential Information; (3) is or becomes a matter of public knowledge through no fault of Recipient, (4) is
+disclosed to a third party by Discloser without a duty of confidentiality on the third party; (5) is disclosed under operation of law; (6) is 
+
+Memry Master Supply Agreement
+
+ Page 6 of 13
+
+disclosed by Recipient with Discloser’s prior written approval or (7) is lawfully obtained from a third party under no obligation of confidentiality to
+the Discloser. 
+
+ D.
+ 
+ Publicity. Neither party may make any public announcement about or advertise the existence of this Agreement or divulge its terms and conditions other than with the prior
+written agreement of the other party or as is required to be disclosed by law. 
+
+ 5.
+ 
+ WARRANTY 
+
+ A.
+ 
+ Product Warranty. Supplier warrants that each Product sold to Medtronic under this Agreement will conform with the Specifications and that the Product will be free from
+defects in materials and workmanship. 
+
+ B.
+ 
+ Warranty of Non-Infringement, Indemnity. Supplier warrants and represents to the best of its knowledge and belief that the manufacturing methods used for making Product
+infringes no patent or other intellectual property right of any third party. This does not apply to the extent the manufacturing method or design for a Product is specified by Medtronic, or to the extent the infringement arises out of the
+combination of the Product with other products not supplied by Supplier. 
+
+ C.
+ 
+ Disclaimer. THE ONLY WARRANTY GIVEN BY THE SUPPLIER WITH RESPECT TO THE PRODUCT IS EXPLICITLY STATED IN THIS AGREEMENT. SUPPLIER MAKES NO OTHER WARRANTY AND HEREBY EXPRESSLY
+DISCLAIMS ALL OTHER REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED. NO IMPLIED WARRANTY OF MERCHANTABILITY, NO IMPLIED WARRANTY OF FITNESS FOR ANY PARTICULAR PURPOSE, AND NO IMPLIED WARRANTY ARISING BY USAGE OF TRADE, COURSE OF
+DEALING OR COURSE OF PERFORMANCE IS MADE BY SUPPLIER. NO REPRESENTATIVE OF SUPPLIER IS AUTHORIZED TO GIVE OR MAKE ANY OTHER REPRESENTATION OR WARRANTY, OR TO MODIFY THE FOREGOING WARRANTY IN ANY WAY. 
+
+ D.
+ 
+ Compliance with Law. Medtronic will not be liable for, and Supplier assumes responsibility for and will defend, indemnify and save harmless Medtronic and its affiliates from,
+all personal injury and property damages that occur during production (i.e. the formulation, fabrication, or manufacturing) of a Product or for claims based on violations of federal, state or local laws (including those applicable to employee or
+environmental protection) in connection with such production (e.g., a claim based on Supplier’s violations of environmental standards or standards dealing with providing a safe place to work or the maintenance of hazardous materials).
+
+ E.
+ 
+ Conflicts. Supplier represents and warrants to Medtronic that it has not entered into any agreement which conflicts with the terms of this Agreement and that it will not do
+so during the term of this Agreement. 
+
+ F.
+
+Medtronic Responsibility for Products Liability. Medtronic agrees to indemnify and hold harmless Supplier, its officers, agents, employees and authorized
+representatives from and against any and all costs or damages arising out of or related to any claim or lawsuit alleging personal injury or death to any person as a result of the use of any Medtronic device in which Product is used, as long as
+Product conforms to the Specifications and is free from defects in materials and workmanship. Medtronic will defend, manage and assume all costs of any lawsuit or claim related to this indemnification and Medtronic shall have the sole control of the
+defense and settlement of any such claim. Supplier will notify Medtronic promptly after Supplier becomes aware 
+
+Memry Master Supply Agreement
+
+ Page 7 of 13
+
+of any claim by any third party with respect to which Supplier would be entitled to indemnification hereunder. Supplier will not settle or offer to settle
+any such claim or lawsuit without Medtronic’s prior written approval and the indemnity provided for in this Section 5.F shall not apply to amounts paid in settlement of any indemnifiable costs or damages if such settlement is effected without
+the consent of Medtronic. 
+
+ G.
+ 
+ Limitation of Remedies. IN NO EVENT WILL EITHER PARTY BE LIABLE TO THE OTHER FOR ANY CONSEQUENTIAL, INDIRECT, INCIDENTAL, EXEMPLARY OR SPECIAL DAMAGES OF ANY KIND.
+
+ H.
+ 
+ Representation. Each party hereto represents and warrants to the other that: (a) each party has the power and authority to execute and deliver this Agreement and each
+Facility Supply Agreement and to perform its obligations hereunder and thereunder, (b) this Agreement and each Facility Supply Agreement has been duly authorized by all requisite corporate action, executed and delivered by such party, and
+constitutes the legal, valid and binding obligation of such party, enforceable in accordance with their terms, subject, as to the enforcement of remedies, to the discretion of the courts in awarding equitable relief and to applicable bankruptcy,
+reorganization, insolvency, moratorium and similar laws affecting the rights of creditors generally, and (c) the execution and delivery by such party of this Agreement and each Facility Supply Agreement and the performance by such party of its
+obligations hereunder and thereunder will not violate or conflict with, result in a breach of or constitute (with due notice or lapse of time or both) a default under, any provision of the Articles of Incorporation or By-laws of such party, as
+amended from time to time hereafter, or any indenture, agreement or other instrument to which such party is now or hereafter a party or by which such party or any of such party’s properties or assets is now or hereafter bound.
+
+ 6.
+ 
+ INTELLECTUAL PROPERTY RIGHTS 
+
+ A.
+ 
+ Medtronic Intellectual Property. 
+
+ (1)
+ 
+ If Medtronic makes any know-how, trade secret or other intellectual property of Medtronic available to Supplier relative to the design or production of a Product, Supplier will be
+deemed to receive a non-exclusive, non-transferable, revocable implied license under such intellectual property, Supplier acknowledges that such license is a “personal license” expressly limited to only such intellectual property of
+Medtronic as is required for Supplier to produce and have produced the Products for supply to Medtronic. All such intellectual property will remain the property of Medtronic and will be subject to the confidentiality provisions of this Agreement. In
+no case will Supplier use any such intellectual property for the benefit of any third party. 
+
+Supplier shall not have the right to sublicense any of its license rights hereunder. The license granted under this Section 6.A shall continue until the
+date that this Agreement expires or is terminated, at which time said license shall terminate. Upon termination of said license, Supplier shall return to Medtronic all documentation in its possession containing or concerning any of the intellectual
+property described in this Section 6.A. 
+
+ (2)
+ 
+ No other license. No other license under any patents, know-how, trade secrets or other intellectual property of Medtronic is granted, and none is to be implied.
+
+Memry Master Supply Agreement
+
+ Page 8 of 13
+
+ B.
+ 
+ Supplier Intellectual Property. 
+
+ (1)
+ 
+ Agreement to Grant License. Supplier agrees to grant Medtronic a worldwide, non- transferable, paid-up non-exclusive license under all applicable intellectual property and
+know how (including manufacturing processes) owned or otherwise licensable by Supplier to enable Medtronic to make, use, offer for sale, sell and import Products, in the event,and only in the event, that prior to the expiration of the term hereof,
+Supplier is unable to provide specified quantities of Product under this Agreement, due to Supplier business failure, sustained business interruption or similar event, except in instance of the sale of all or substantially all of Supplier’s
+assets to other than a direct competitor of Medtronic for the Products. . In no event shall the foregoing license, if and when granted, permit Medtronic to make, use, offer for sale, sell or import any product or service other than Products nor
+permit Medtronic to have Products made by any third party. 
+
+ (2)
+ 
+ Supplier Insolvency. Supplier agrees and acknowledges that the license to Medtronic in the intellectual property of Supplier shall at all times include at least each
+applicable (A) trade secret; (B) invention, process, design, or plant protected under 35 U.S.C. §101 et seq., (C) patent application; (D) plant variety; (E) work of authorship protected under U.S. Copyright Law (17 U.S.C. §101 et
+seq.); or (F) mask work protected under applicable U.S. Copyright Law (17 U.S.C. §101 et seq.) that is employed in the production of Products. In the event that a bankruptcy petition is filed by or on behalf of Supplier and Supplier,
+or a custodian or trustee acting on behalf of Supplier, rejects this Agreement, Medtronic shall be permitted to elect to retain such license pursuant to §365(n) of the federal bankruptcy code (11 U.S.C. §101 et seq.).
+
+ (3)
+ 
+ Any Invention (as defined below) conceived, reduced to practice or otherwise made, developed or acquired by one or more employees or agents of Supplier based on or derived in any
+respect from any Confidential Information of Medtronic, by one or more employees or agents of Medtronic, or jointly by one or more employees or agents of both Supplier and Medtronic in connection with the performance of this Agreement, and which are
+in the Field of Use, shall be the exclusive property of Medtronic. Supplier agrees to disclose to and assign to Medtronic all Inventions in the Field of Use and shall execute any and all documentation reasonably requested by Medtronic in connection
+therewith. The decision of whether to file a patent application, and the filing of any such patent application, in respect of such Invention shall remain solely with Medtronic. 
+
+ (4)
+ 
+ “Invention” means U.S. and foreign patents and patent applications, know-how, trade secrets, inventions, discoveries and technical information including but not limited to
+information embodied in drawings, designs, copyrights, copyright applications, trademarks and trademark applications, material specifications, processing instructions, formulas, equipment specifications, product specifications, confidential data,
+computer software, electronic files, research notebooks, invention disclosures, research and development reports and the like related thereto and all amendments, modifications, and improvements to any of the foregoing; and “Field of Use”
+means medical devices for implantation into the human body which are functional substitutes for, or which are similar in function to, any of the Products identified in any Facility Supply Agreement, as modified from time to time provided that the
+Field of Use does not include any methods or processes for making such medical devices nor the materials from which such medical devices are made. 
+
+Memry Master Supply Agreement
+
+ Page 9 of 13
+
+ (5)
+ 
+ No other License. No other license under any patents, know-how, trade secrets or other intellectual property of Supplier is granted, and none is to be implied
+
+ 7.
+ 
+ CONTINUATION 
+
+If Supplier elects to exit the business of making a Product, except in connection with the sale of all or substantially all of its assets, Supplier will
+give Medtronic notice twelve (12) months before such exit. Upon receipt of such notice, Medtronic will have an option, exercisable within 3 months thereafter, to invoke the license and technology transfer specified under paragraph 6.B. above for
+such Product, and Medtronic and any applicable Facility will be entitled to submit a purchase order for Products in a quantity not in excess of the amount of Product purchased by Medtronic or the Facility during the previous twelve months, which
+purchase order may not be rejected by Supplier. 
+
+ 8.
+ 
+ TERM AND TERMINATION 
+
+ A.
+ 
+ Term. This Agreement shall become effective on the date first set forth above and unless earlier terminated in accordance with the terms herein, shall continue in force for
+three (3) years. This Agreement shall renew for additional two (2) year renewal terms if Medtronic notifies Supplier in writing at least one (1) year prior to the scheduled expiration date of the initial term or any renewal term of Medtronic’s
+intention to renew the Agreement, provided, Supplier shall have thirty (30) days from the date of Medtronic’s renewal notice to reject Medtronic’s renewal, in which case this Agreement shall expire on the scheduled expiration date.
+
+ B.
+ 
+ Termination. This Agreement may be terminated as follows: 
+
+ (1)
+ 
+ By either party for a material breach. Notice of default must be given, including specific charges of default and reasonable requirements to cure. The party in default will have 30
+days after notice to cure. If the defaulting party fails to cure within that time, or if it cannot reasonably be expected that the defaulting party will achieve a cure within 30 days after the 30-day period, despite taking substantial steps to do
+so, the party giving notice may terminate this Agreement immediately. 
+
+ (2)
+ 
+ By Medtronic at any time after the occurrence of a Chronic Quality Event or a Chronic Late Event. 
+
+ (3)
+ 
+ The bankruptcy, liquidation, dissolution of either party will entitle the other party to terminate this Agreement by notice, such termination to take effect immediately.
+
+ (4)
+ 
+ Medtronic may terminate upon at least three (3) months’ advanced written notice to Supplier in the event of a Change in Control Event (as defined below), provided that such
+notice is given within 180 days of Supplier’s giving notice of the Change in Control Event. 
+
+ (5)
+ 
+ If Supplier (including its permitted assigns) elects to exit the business of making Product, Supplier shall give Medtronic written notice at least twelve (12) months before such
+exit, in which case Medtronic may terminate this Agreement effective at the end of the twelve month notice period, or effective on any earlier date specified in a written notice given at least three (3) months in advance of such termination date.
+
+Memry Master Supply Agreement
+
+ Page 10 of 13
+
+ (6)
+ 
+ Medtronic may terminate this Agreement on the date that is one (1) year prior to the scheduled expiration date of the initial term for any reason or no reason by providing notice to
+Supplier to such effect prior to such date. 
+
+ C.
+ 
+ Termination of Purchase Orders. Either party will have the right to terminate a purchase order in the event the other party fails to cure a material breach with respect to
+the purchase order within thirty days after notice. Medtronic will have the right to terminate any purchase order for safety or regulatory reasons. 
+
+ D.
+ 
+ Survival. All provisions which are continuing in nature, including but not limited to those involving confidential information, will survive termination of this Agreement.
+
+ 9.
+ 
+ MISCELLANEOUS 
+
+ A.
+ 
+ Change in Control Event. In the event that Supplier is, or public disclosure is made by Supplier of any proposal for Supplier to be merged, sold, combined or consolidated
+with another company which is a competitor to Medtronic, (including, but not limited to: Boston Scientific Corporation and its affiliates and any successor to, or assignee of, all or substantially all of its assets relating to its vascular business,
+Johnson & Johnson and its affiliates and any successor to, or assignee of, all or substantially all of its assets relating to its vascular business and Guidant Corporation and its Affiliates and any successor to, or assignee of, all or
+substantially all of its assets relating to its vascular business), Supplier shall, subject to applicable laws, provide Medtronic written notice identifying in detail the nature of such Change in Control Event (including but not limited to the
+identification of parties involved or otherwise affected by such Change in Control Event) as soon as reasonably possible after Supplier learns of such Change in Control Event or such public disclosure is made, as the case may be.
+
+ B.
+ 
+ Competitive Products. In the event that Supplier designs, manufactures, or sells Competitive Products (as defined below) for other customers, then the following provisions,
+in addition to all other terms and conditions herein, shall apply at all times: 
+
+ (1)
+ 
+ Supplier shall not disclose to such customers, shall take all possible steps to prevent disclosure to such customers of, and shall not in any fashion incorporate into any
+Competitive Product, any Medtronic information, ideas, inventions, documentation, processes, in whatever form (whether written, oral, or electronic) that relate in any way to the Products. 
+
+“Competitive Products” shall mean products, components of/for
+products, or assemblies of/for products which are competitive directly or indirectly with, or are otherwise functional substitutes for, the Products. 
+
+ C.
+ 
+ Assignment. This Agreement may not be assigned by either party, without the prior written consent of the other party, except to (1) a direct or indirect wholly-owned
+subsidiary, (2) any third party who will acquire, by sale of assets or otherwise (including merger), all or substantially all of the assets of such party or in the case of Medtronic, all or substantially all of its vascular business assets or (3)
+any majority-owned or majority-controlled entity of the party. No such assignment will relieve the assigning party of its obligations hereunder. 
+
+ D.
+
+Notices. All notices, requests or other communication required or permitted to be given under this Agreement will be in writing and will be delivered in
+person (including express courier, such as Federal Express) or sent by certified or registered mail, postage and certification prepaid, to Medtronic or Supplier, at the address first above written. Any 
+
+Memry Master Supply Agreement
+
+ Page 11 of 13
+
+notice given as aforesaid will be deemed given and effective upon actual delivery. Any party may change its address for notice by notice given in accordance
+herewith. 
+
+ E.
+ 
+ Consents. Any approval, authorization or consent required by this Agreement must be in writing, duly signed by an authorized representative of the granting party.
+
+ F.
+ 
+ No Joint Venture. Nothing contained in this Agreement will be deemed to create a joint venture, partnership, agency or similar endeavor between the parties hereto. Each party
+will act solely as an independent contractor and neither part will have any power or authority to direct or indirectly bind or act on behalf of the other. 
+
+ G.
+ 
+ Governing Law and Venue. This Agreement will be construed in accordance with and governed by the laws of the State of Minnesota, USA, without reference to its conflict of
+laws principles. Any actions brought under this Agreement will be subject to the jurisdiction of the federal and state courts for Minnesota. 
+
+ H.
+ 
+ Dispute Escalation. The parties will in good faith endeavor to resolve any disputes or differences of interpretation of this Agreement amicably, through dialog and
+cooperation. In the event a dispute or difference is not promptly resolved at operational levels of the two organizations, the parties will escalate it for a good faith effort to achieve an amicable resolution at a senior business management level.
+
+ I.
+ 
+ Merger. This Agreement and any Facility Supply Agreement(s) (including accompanying purchase orders) represent the complete agreement of the parties relative to the covered
+subjects and supersedes and controls any prior representations or agreements relative to those subjects. 
+
+ J.
+ 
+ Waiver; Amendment. No waiver by either party of any default of the other party will be held to be a waiver of any other or subsequent default. No term or condition of this
+Agreement or any Facility Supply Agreement may be amended except in a writing executed by each party hereto or thereto. 
+
+ K.
+ 
+ Severability. If any provision contained or referred to in the Agreement shall be determined to be legally invalid or unenforceable, such provision shall be ineffective to
+the extent of such invalidity or unenforceability without affecting the remaining provisions of the Agreement which shall continue to be valid and enforceable to the fullest extent permitted by law. 
+
+ L.
+ 
+ Order of Precedence. In order of priority, the terms of any order will be defined by the terms of (a) this Agreement, (b) the Facility Supply Agreement, (c) the typed
+portions of Medtronic’s purchase order, (d) the typed portions of Supplier’s acceptance and (e) the printed terms of Medtronic’s order. 
+
+ M.
+ 
+ Business Reviews. Periodic Facility business reviews will be held in conjunction with Medtronic and Supplier, on a periodic basis as agreed to, to discuss the following
+issues: 
+
+ (1)
+ 
+ General Business Update 
+
+ (2)
+ 
+ Quality Performance, any Corrective Actions, and Goal Setting 
+
+ (3)
+ 
+ Delivery Performance and any Corrective Actions 
+
+ (4)
+ 
+ Engineering Support Issues including review of existing and planned projects 
+
+ (5)
+ 
+ Cost Review including Cost Adjustments and Cost Reduction Goal Setting 
+
+Memry Master Supply Agreement
+
+ Page 12 of 13
+
+The parties have caused this Agreement to be executed as of the Effective Date. 
+
+Memry Corporation
+ 
+(“Supplier”)
+
+MEDTRONIC, INC.
+ 
+(“Medtronic”)
+
+By:
+
+/s/ James G. Binch
+
+By:
+
+/s/ Roger Chapman
+
+Type/Print Name:
+
+James G. Binch
+
+Type/Print Name:
+
+Roger Chapman
+
+Title:
+
+Chairman & CEO
+
+Title:
+
+VP SANTA ROSA OPERATIONS
+
+Memry Master Supply Agreement
+
+ Page 13 of 13
+
+EXHIBIT A 
+
+Contract No. MRYMDT003 
+
+FACILITY SUPPLY AGREEMENT 
+
+This Facility Supply Agreement is made pursuant and subject to the terms and conditions of the Master Supply Agreement (the “Master Agreement”) dated June 13,
+2003 between Medtronic Inc., a Minnesota corporation (“Medtronic”), and Memry Corporation, a Delaware corporation (“Supplier”). 
+
+Medtronic Facility: Medtronic AVE 
+
+Term: Beginning on June 13, 2003 and continued in force for three years, as per the Master Supply Agreement dated June 13, 2003 by and between Medtronic, Inc. and
+Memry Corporation. 
+
+Products: See Exhibit A1. 
+
+Prices: To be developed on a separate letter agreement. 
+
+Specifications: See Exhibit A1 (the specifications in this exhibit are incorporated
+into this Agreement by reference) 
+
+Initial Forecast: See Exhibit A2
+
+Right of First Refusal: Supplier is hereby granted the Right of First
+Refusal for all future iterations of Products as listed herein, during the term of the Agreement. Supplier will be awarded the prototype development and production rights for same contingent upon its ability to meet the quality and comparable price
+of any alternate Supplier. 
+
+This Facility Supply Agreement is executed as of
+the 13th day of June, 2003. 
+
+(“Supplier”)
+
+Medtronic
+“Facility”
+
+By:
+
+ /s/ James G. Binch
+
+By:
+
+ /s/ Roger Chapman
+
+Type/Print Name:
+
+ James G. Binch
+
+Type/Print Name:
+
+ Roger Chapman
+
+Title:
+
+ Chairman & CEO
+
+Title:
+
+ VP Operations—Santa Rosa
+
+EXHIBIT A1 
+
+Product Description 
+
+AVE Nitinol Tubing 
+
+Tube BB 67x86x60 
+
+MPN # 10287w 
+
+Tube BB 67X80.4X60 
+
+MPN # 10290w 
+
+Tube BB 156.6x184x60 
+
+MPN # 10278w 
+
+AneuRx Stent Rings 
+
+Talent
+Stent Rings—Including, but not limited to, Singles, Doubles, and Tapered Rings 
+
+Flat Springs 
+
+Flat Springs 
+
+Guide Cores 
+
+WM0507—Thoracic, no tip 
+ 
+MPN 10019e 
+ 
+WM1748—Thoracic .032 
+ 
+MPN 10552e 
+ 
+WM1749—Abdominal .032 
+ 
+MPN 10553E
+
+WM105914—Abdominal Roughened flex. tip 
+ 
+MPN 10731E
+
+Specifications: 
+
+Attached as Exhibit A3 to Facility Agreement
+
+Additional Products may be added to this Exhibit A by written
+addendum signed by 
+ 
+an authorized representative of each party. 
+
+EXHIBIT A2 
+
+ Jul
+
+ Aug
+
+ Sep
+
+ Oct
+
+ Nov
+
+ Dec
+
+ Jan
+
+ Feb
+
+ Mar
+
+ Apr
+
+ May
+
+ Jun
+
+AneuRx
+
+ 23,000
+ 
+ 23,000
+ 
+ 23,000
+ 
+ 20,000
+ 
+ 20,000
+ 
+ 20,000
+ 
+ 12,000
+ 
+ 12,000
+ 
+ 12,000
+ 
+ 1,000
+ 
+ 1,000
+ 
+ 1,000
+
+Talent-Non Patient
+ 
+Specific
+
+350 equivalents daily
+
+ 7700
+ 
+ 7700
+ 
+ 7700
+ 
+ 7700
+ 
+ 7700
+ 
+ 7700
+ 
+ 7700
+ 
+ 7700
+ 
+ 7700
+ 
+ 7700
+ 
+ 7700
+ 
+ 7700
+
+WM0539
+ 
+Flat Springs
+
+monthly avg = 195
+
+ 254
+ 
+ 198
+ 
+ 205
+ 
+ 212
+ 
+ 164
+ 
+ 176
+ 
+ 139
+ 
+ 218
+ 
+ 218
+ 
+ 192
+ 
+ 215
+ 
+ 145
+
+WM1748
+
+Core Wire, Thoracic
+
+monthly avg = 478
+
+ 815
+ 
+ 490
+ 
+ 610
+ 
+ 545
+ 
+ 410
+ 
+ 450
+ 
+ 285
+ 
+ 400
+ 
+ 510
+ 
+ 395
+ 
+ 410
+ 
+ 415
+
+WM1749
+
+Core Wire, Abdominal
+
+monthly avg = 573
+
+ 1520
+ 
+ 650
+ 
+ 755
+ 
+ 625
+ 
+ 450
+ 
+ 435
+ 
+ 295
+ 
+ 445
+ 
+ 500
+ 
+ 405
+ 
+ 375
+ 
+ 425
+
+WM105914
+
+Core Wire, Flex Tip
+
+monthly avg = 627
+
+ 365
+ 
+ 240
+ 
+ 310
+ 
+ 435
+ 
+ 490
+ 
+ 610
+ 
+ 560
+ 
+ 850
+ 
+ 1085
+ 
+ 845
+ 
+ 875
+ 
+ 855
+
+Initial Forecast for
+all above AVE Tubing Products will be submitted to Supplier once products are entered into the BOM System. This forecast, once provided, will constitute the Initial Forecast and will be subject to all terms and conditions under this Agreement.
+
+EXHIBIT B 
+
+Contract No. MRYMDT003 
+
+FACILITY SUPPLY AGREEMENT 
+
+This Facility Supply Agreement is made pursuant and subject to the terms and conditions of the Master Supply Agreement (the “Master Agreement”) dated June 13,
+2003 between Medtronic Inc., a Minnesota corporation (“Medtronic”), and Memry Corporation, a Delaware corporation (“Supplier”). 
+
+Medtronic Facility: Medtronic AVE Massachusetts 
+
+Term: Beginning on June 13, 2003 and continued in force for three years, as per the Master Supply Agreement dated June 13, 2003 by and between Medtronic, Inc. and
+Memry Corporation. 
+
+Products: See Exhibit B1. 
+
+Prices: To be developed on a separate letter agreement. 
+
+Specifications: See Exhibit B1 (the specifications in this exhibit are incorporated
+into this Agreement by reference) 
+
+Initial Forecast: See Exhibit B2
+
+Right of First Refusal: Supplier is hereby granted the Right of First
+Refusal for all future iterations of Products as listed herein, during the term of the Agreement. Supplier will be awarded the prototype development and production rights for same contingent upon its ability to meet the quality and comparable price
+of any alternate Supplier. 
+
+This Facility Supply Agreement is executed as of
+the 13th day of June, 2003. 
+
+(“Supplier”)
+
+Medtronic
+“Facility”
+
+By:
+
+ /s/ James G. Binch
+
+By:
+
+ /s/ John Mazzola
+
+Type/Print Name:
+
+ James G. Binch
+
+Type/Print Name:
+
+ John Mazzola
+
+Title:
+
+ Chairman & CEO
+
+Title:
+
+ Site VP
+
+EXHIBIT B1 
+
+Product Description 
+ 
+MC1038-06 Rev K Hypotube, Straight Nitinol 
+ 
+RM00890 Rev 02 173cm Nitinol Hypotube 
+
+Specifications: 
+
+Attached as Exhibit B3 to Facility Agreement 
+
+Forecasting; Binding Commitments. 
+
+Medtronic AVE Massachusetts shall issue to Supplier a twelve (12) month rolling forecast of its requirements for Product (“Forecast”). This Forecast will be
+updated no less often than monthly as provided for in Section 2.C of the Master Supply Agreement, and Medtronic will use commercially reasonable efforts to level load (i.e., allocate annual demand equally across all 12 months of the Forecast) the
+Forecast. The first three (3) months of the Forecast will be a firm commitment to purchase those volumes of each such Part Number. In each such successive monthly update of the Forecast, Medtronic may decrease the total amount of Products provided
+that: 
+
+(i) the aggregate decrease for such Part Family for a
+particular month from the point at which such month is month six (6) in a Forecast until the time that same month becomes month three (3) of a Forecast shall not exceed twenty percent (20%) of the amount forecast for such Part Family for such month
+when it was month six (6) of the Forecast; 
+
+(ii) the aggregate
+decrease for such Part Family for a particular month from the point at which such month is month nine (9) in a Forecast until the time that same month becomes month six (6) of a Forecast shall not exceed twenty-five percent (25%) of the amount
+forecast for such Part Family for such month when it was month nine (9) of the Forecast; and 
+
+(iii) the aggregate decrease for such Part Family for a particular month from the point at which such month is month twelve (12) in a Forecast until the time that same month becomes month nine (9) of a Forecast shall
+not exceed thirty percent (30%) of the amount forecast for such Part Family for such month when it was month twelve (12) of the Forecast. 
+
+Firm orders for first three months of RM00890 will be provided in the form of a purchase order and future requirements beyond 3 months will be included in the forecasts
+for MC1038-06 until this is moved into a production part. 
+
+Additional Products may be added to this Exhibit B by written addendum signed by an 
+ 
+authorized representative of each party.
+
+EXHIBIT B2 
+
+Initial Forecast: 
+
+7/18 & 7/25 thru 8/22 thru 9/26 thru 10/24 thru 11/21 thru 12/26 thru 1/23/04 thru 2/20 thru 3/26 thru 4/30 thru 5/27 
+
+# days in
+ 
+fiscal month
+
+ 21
+ 
+ 20
+ 
+ 24
+ 
+ 20
+ 
+ 20
+ 
+ 20
+ 
+ 19
+ 
+ 20
+ 
+ 25
+ 
+ 20
+ 
+ 20
+ 
+ 25
+
+ July
+
+ Aug
+
+ Sept
+
+ Oct
+
+ Nov
+
+ Dec
+
+ Jan
+
+ Feb
+
+ Mar
+
+ Apr
+
+ May
+
+ June
+
+MC1038-06
+
+ 2,000
+ 
+ 4,400
+ 
+ 5,500
+ 
+ 4,000
+ 
+ 5,000
+ 
+ 4,000
+ 
+ 4,000
+ 
+ 4,000
+ 
+ 5,000
+ 
+ 4,000
+ 
+ 4,000
+ 
+ 5,000
+
+ 1
+ 
+ 2
+ 
+ 3
+ 
+ 4
+ 
+ 5
+ 
+ 6
+ 
+ 7
+ 
+ 8
+ 
+ 9
+ 
+ 10
+ 
+ 11
+ 
+ 12
+
+Tubes will be shipped
+throughout the month on a weekly basis

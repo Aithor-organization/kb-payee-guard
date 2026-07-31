@@ -1,0 +1,1795 @@
+EX-10.42
+2
+dex1042.htm
+SUPPLY AGREEMENT, DATED JANUARY 17, 2007
+
+Supply Agreement, dated January 17, 2007
+
+Exhibit 10.42 
+ 
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS,
+HAS BEEN OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE
+COMMISSION PURSUANT TO RULE 24b-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS
+AMENDED. 
+
+ CONFIDENTIAL
+
+SUPPLY AGREEMENT 
+ 
+This Supply Agreement is made as of January 17, 2007 (the “Effective Date”) between SANYO Electric Co., Ltd. (hereinafter “SANYO”) and HOKU SCIENTIFIC, INC. (hereinafter “HOKU”).
+
+RECITALS 
+ 
+Whereas, HOKU desires to
+supply polysilicon to SANYO for SANYO’s manufacture and/or sale of high performance solar photovoltaic cells beginning January 1, 2009 for a continuous period of seven (7) years, through and including December 31, 2015;
+
+Whereas, in exchange for HOKU’s agreement to allocate the supply of polysilicon, SANYO desires to provide HOKU with a firm order for polysilicon upon
+the terms and conditions provided herein. 
+ 
+NOW, THEREFORE, in furtherance of the foregoing Recitals and in consideration of the mutual covenants and
+obligations set forth in this Agreement, the parties hereby agree as follows: 
+ 
+1. Definitions. The following terms used in this Agreement (defined
+below) shall have the meanings set forth below: 
+ 
+1.1. “Agreement” shall mean this Supply Agreement and all appendices annexed to
+this Agreement as the same may be amended from time to time by the mutual written agreement of the parties hereto in accordance with the provisions hereof. 
+ 
+1.2. “Business Day” shall mean a day on which commercial banks are generally open to conduct their regular business in Los Angeles, California USA. 
+ 
+1.3. “Escrow Agreement” shall mean the Escrow Agreement between HOKU, SANYO and an escrow agent that is mutually acceptable to HOKU and SANYO,
+substantially in the form of Exhibit A attached hereto. 
+ 
+1.4. “Escrow Agent” shall mean an entity or financial institution
+mutually agreed upon by the parties hereto to administer the Escrow Agreement. 
+ 
+1.5. “Escrow” shall mean the escrow account
+established with the Escrow Agent in the United States of America pursuant to the Escrow Agreement. 
+ 
+1.6. “HOKU Facility” shall
+mean HOKU’s manufacturing facility used to manufacture Products that is owned by HOKU or HOKU Materials and located in the United States of America. 
+ 
+1.7. “HOKU Materials” shall mean a subsidiary or affiliate of HOKU that is formed specifically to manufacture the Products. 
+ 
+1.8. “Minimum Annual Quantity of Product” shall mean [*] ([*]) metric tons ([*] kilograms) of Product (as defined below) in each of the calendar years 2010 to 2015.
+It shall mean [*] ([*]) metric tons ([*] kilograms) of Product (as defined below) in the calendar year 2009. 
+ 
+1.9. “Minimum Monthly Quantity of Product” shall mean [*] metric tons ([*] kilograms) of Product (as defined below). 
+
+SANYO Initials & Date:
+
+HOKU Initials & Date:
+
+Page 1 of 34 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF
+THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ CONFIDENTIAL
+
+1.10. “Product(s)” shall mean the raw polysilicon in chunk form manufactured by HOKU at the
+HOKU Facility, or in the case of Alternative Products pursuant to Section 3.3, manufactured by a third party and sold to SANYO pursuant to this Agreement, of which specifications are specifically described in Appendix 2. 
+ 
+1.11. “Term” shall mean the period during which this Agreement is in effect, as more specifically set forth in Section 9.1 of this
+Agreement. 
+ 
+2. Ordering. Each year, starting from January 1, 2009 until December 31, 2015 (the “Shipment Period”), SANYO agrees
+to purchase from HOKU, and HOKU agrees to sell to SANYO, the Minimum Annual Quantity of Product at the prices set forth on Appendix 1 to this Agreement (the “Pricing Schedule”). This Agreement constitutes a firm order from SANYO for the
+sum of [*] metric tons of Product that cannot be cancelled during the Shipment Period, unless otherwise expressly provided in this Agreement. For the avoidance of doubt, SANYO’s failure to purchase the Minimum Annual Quantity of
+Product due to HOKU’s failure to ship Products in accordance with the terms or other breach of this Agreement by HOKU shall not constitute a breach of this Agreement by SANYO. This Agreement constitutes a firm commitment by HOKU to supply the
+sum of [*] metric tons of Product that cannot be canceled during the Shipment Period, unless otherwise expressly provided in this Agreement. 
+ 
+3. Supply Obligations. 
+ 
+3.1. HOKU shall deliver each year during the Shipment Period pursuant to this Agreement the Minimum
+Annual Quantity of Product and any additional quantities of Product that may be agreed by the parties in writing from time to time. 
+ 
+3.2.
+Notwithstanding Section 3.1 above, HOKU shall deliver to SANYO the Minimum Monthly Quantity of Product on the first Business Day of each month from January 2009 through December 2015. If HOKU is not able to deliver the Minimum Monthly Quantity
+of Product on the first Business Day of any month because of capacity constraints, HOKU shall immediately notify SANYO of such in writing. Notwithstanding anything herein to the contrary, SANYO shall have first priority with respect to any supply of
+Product and HOKU shall not deliver any Product to any other entity or person in any applicable monthly period unless HOKU has delivered to SANYO at least the Minimum Monthly Quantity of Product for such applicable monthly period. 
+ 
+3.3. HOKU intends to manufacture Products at the HOKU Facility; provided, however, that HOKU may deliver to SANYO Products that are manufactured by a
+third party other than HOKU (the “Alternative Products”). The Alternative Products shall conform to the warranties of HOKU to SANYO hereunder, and the quality, price, delivery and any other terms and conditions of the Alternative Products
+shall be no less favorable than the terms and conditions set forth in this Agreement. Delivery of the Alternative Products shall not release or mitigate HOKU’s liabilities and obligations hereunder except that delivery of the Alternative
+Products is deemed to be delivery of Products, and SANYO shall have the same rights and HOKU shall have the same obligations as set forth hereunder with respect to any Alternative Products. HOKU shall notify SANYO in writing prior to the delivery of
+Alternative Products. 
+ 
+4. Shipping & Delivery. 
+ 
+4.1. The first delivery of Products from HOKU shall occur in January 2009. 
+
+SANYO Initials & Date:
+
+HOKU Initials & Date:
+
+Page 2 of 34 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF
+THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ CONFIDENTIAL
+
+4.2. Subject to Article 3 above, shipments of Products shall be made from the HOKU Facility on a
+monthly basis in accordance with a shipment schedule that shall be provided by HOKU each month (the “Shipment Schedule”). The Shipment Schedule shall be submitted by HOKU on or before the 10th Business Day of each month, and shall include
+rolling forecasts of scheduled quantity, price and delivery date of Products for the following six (6) months. The first Shipment Schedule shall be submitted by HOKU to SANYO on or before October 31, 2008. The forecasts for the first three
+(3) months in each Shipment Schedule shall be fixed (the “Fixed Schedule”). HOKU and SANYO shall have regular discussions regarding the Shipment Schedule and Fixed Schedule. In the event that HOKU fails to deliver Products in
+accordance with the Fixed Period, SANYO may cause HOKU at HOKU’s own responsibility, cost and expense to deliver Products to the locations designated by SANYO by rail or boat means of shipment. 
+ 
+4.3. If HOKU does not fulfill its obligations in any applicable monthly period with respect to supplying the Minimum Monthly Quantity of Product or in
+any applicable annual period to supply the Minimum Annual Quantity of Product, HOKU shall reduce the applicable price set forth in the Pricing Schedule (the “Product Price”) for the relevant Products as liquidated damages but not as a
+penalty. Such price reduction shall be made at the rate of [*] ([*]) of the applicable Product Price of the respective Products for each week or part thereof until the date when such deficiency is shipped. Without
+limiting SANYO’s right to terminate this Agreement pursuant to Section 9.2 and receive its deposit pursuant to Section 9.5, such liquidated damages should not equal more than [*] of the purchase price for the applicable
+Product. 
+ 
+4.4. HOKU shall not be responsible for loading the Products on any vehicle provided by SANYO or for clearing the Products for
+export, unless otherwise agreed, and SANYO shall bear all costs and risks involved in loading and transporting the Products from the HOKU Facility to the location designated by SANYO except in case of Section 4.2, as set forth in
+Section 5.4 below. Title to the Products shall transfer EXW ex works the HOKU Facility. 
+ 
+5. Payments. 
+ 
+5.1. Within fifteen (15) Business Days after execution of this Agreement, SANYO shall provide HOKU an advance initial deposit of Two Million U.S.
+Dollars ($2,000,000) (the “Initial Deposit”); provided, however, that if the Escrow Agreement is not executed within fifteen (15) Business Days after the date of this Agreement, SANYO shall not be obligated to provide the Initial
+Deposit, and shall not pay any penalty, delinquency charges or interest in arrears to HOKU for failure to do so until the Escrow Agreement has been executed. 
+ 
+5.2. Main Deposit. 
+ 
+5.2.1. Establishment of Escrow. Within fifteen (15) Business Days
+after execution of this Agreement, SANYO and HOKU shall enter into the Escrow Agreement with the Escrow Agent, and SANYO shall pay to the Escrow Agent, by wire transfer of immediately available funds, an amount equal to the Main Deposit (as defined
+below) to be held by the Escrow Agent pursuant to the Escrow Agreement. The Main Deposit shall be held and delivered by the Escrow Agent to HOKU in accordance with the terms and conditions of this Agreement and the Escrow Agreement. For the
+avoidance of doubt, the funds of the Main Deposit remaining in the account of the Escrow Agent shall remain the property of SANYO until such time as such funds have been delivered to HOKU under the terms of this Agreement and the Escrow Agreement.
+
+SANYO Initials & Date:
+
+HOKU Initials & Date:
+
+Page 3 of 34 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF
+THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ CONFIDENTIAL
+
+5.2.2. SANYO shall pay in cash to HOKU through the Escrow Agent the sum of One Hundred Nine Million
+Three Hundred Thousand U.S. Dollars ($109,300,000) (the “Main Deposit”) as an advance deposit for Products to be delivered under this Agreement in four installments as follows: 
+ 
+(a) the first installment shall be in the amount equal to [*] ([*]) of the Main Deposit and shall be released from Escrow to
+HOKU within fifteen (15) Business Days after HOKU and SANYO confirm in writing Success of the [*] Test [*] (as defined in Section 5.2.4). 
+ 
+(b) the second installment shall be in the amount equal to [*] ([*]) of the Main Deposit and shall be released from Escrow
+to HOKU within fifteen (15) Business Days after HOKU and SANYO confirm in writing Success of the [*] Test [*] (as defined in Section 5.2.5). 
+ 
+(c) the third installment shall be in the amount equal to [*] ([*]) of the Main Deposit and shall be released from Escrow to
+HOKU within fifteen (15) Business Days after HOKU and SANYO confirm in writing Success of the [*] Test [*] (as defined in Section 5.2.4). 
+ 
+(d) the fourth installment shall be in the amount equal to [*] ([*]) of the Main Deposit and shall be released from Escrow
+to HOKU within fifteen (15) Business Days after SANYO confirms in writing that the Products delivered in the shipment meet the specifications set forth in Appendix 2 attached hereto warranted by HOKU pursuant to Section 7.1 of this
+Agreement Notwithstanding anything herein to the contrary, to satisfy the conditions set forth in this Section 5.2.2(d), HOKU shall be required to deliver at least [*] ([*]) metric tons of Products to SANYO and such
+Products shall include only Products manufactured at the HOKU Facility and shall not include any Alternative Products. 
+ 
+5.2.3. As a further
+condition to Escrow Agent’s release of any portion of the Main Deposit from Escrow, as of the date of the proposed release, HOKU shall submit to the Escrow Agent, with a copy to SANYO, a certificate, in substantially the form of Appendix 4
+attached hereto, signed by an executive officer of HOKU that certifies that (i) HOKU has obtained all inspections, certifications, licenses, permits and other governmental approvals and authorizations (“Authorizations”) necessary as
+of the current stage of development of the HOKU Facility that would be known by a reasonably prudent company engaged in the business of manufacture and sale of polysilicon in the United States of America; (ii) To the best of HOKU’s
+knowledge, such Authorizations are in full force and effect; and (iii) HOKU is not aware of any reason that HOKU will not obtain in the ordinary course of business all Authorizations required for the completion and operation of the HOKU
+Facility. 
+ 
+5.2.4. For purposes of this Agreement, “Success of the [*] Test [*]” shall mean that the
+[*] Test [*] set forth in Appendix 3 attached hereto meets all criteria set forth in item A-1 in Appendix 3 attached hereto, and .”Success of the [*] Test [*]” shall mean the
+[*] Test [*] set forth in Appendix 3 attached hereto meets all criteria set forth in item A-2 in Appendix 3 attached hereto. 
+ 
+5.2.5. For purposes of this Agreement, “Success of the [*] Test [*]” shall mean that the [*] Test [*] set forth in Appendix 3 attached hereto meets all
+specifications set forth in item B in Appendix 3 attached hereto. 
+
+SANYO Initials & Date:
+
+HOKU Initials & Date:
+
+Page 4 of 34 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF
+THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ CONFIDENTIAL
+
+5.2.6. The sum of the Initial Deposit and Main Deposit shall be the “Total Deposit”. The
+Total Deposit is equal to 30% of the total purchase price for this Agreement, excluding taxes, duties, shipping, insurance, and other fees, costs and expenses. 
+ 
+5.2.7. SANYO, at its option and expense, shall have the right to attend , and subject to the sentence immediately below, shall have the right to have one or more of its designated representatives attend, the
+[*] Tests [*] and [*], and [*] Test [*] (as described in appendix 3 attached hereto). HOKU shall provide a written notice to SANYO no less than twenty (20) Business Days
+prior to the applicable test and at least ten (10) Business Days prior to any re-test. Any third party that SANYO requests to view any such test must not be a competitor to HOKU, and must sign a confidentiality and non-compete agreement prior
+to participating in the applicable test. The [*] Test [*] and [*], and [*] Test [*] shall be performed pursuant to the processes set forth in Appendix 3. 
+ 
+5.2.8. If HOKU believes that the criteria required for it to receive any of the four installment payments as described in Sections 5.2.2(a) through
+5.2.2(d) above (other than the receipt of written confirmation from SANYO) has been met, HOKU shall so advise SANYO in writing (the “Confirmation Notice”). Within thirty (30) Business Days following the date of SANYO’s receipt of
+such Confirmation Notice relating to any such installment payment, SANYO shall either (i) provide to HOKU the written confirmation of the achievement of the criteria relating to such payment or (ii) provide to HOKU, in reasonable detail,
+the reasons that it has concluded that such criteria have not been met. The parties agree that neither party may withhold unreasonably any written confirmation of such party referenced in items 5.2.2(a) through 5.2.2(d). 
+ 
+5.2.9. If, with respect to any of the four installments described in Sections 5.2.2(a) through 5.2.2(d), respectively, of this Agreement, (i) SANYO
+provides written notice to HOKU pursuant to Section 5.2.8(ii) above or otherwise fails to provide written confirmation of the achievement of the applicable criteria within fifteen (15) Business Days from receipt of a written reminder
+notice from HOKU and (ii) HOKU disputes the applicable findings or conclusions of SANYO, then HOKU may elect (by providing written notice to the Escrow Agent and SANYO) to resolve the controversy pursuant to the arbitration provisions of
+Section 14.4 below. Such written reminder notice shall be sent by HOKU no earlier than thirty one (31) Business Days after SANYO’s receipt of the Confirmation Notice. If such an arbitration results in a finding that the criteria
+required in connection with any such installment (other than the delivery of written confirmation by SANYO) had been achieved or that SANYO otherwise unreasonably withheld delivery of its applicable confirmation, then HOKU shall be entitled to
+receive the applicable funds in accordance with the Escrow Agreement and any other damages awarded in arbitration pursuant to the terms and conditions of this Agreement. Notwithstanding anything to the contrary herein, it shall be a condition to any
+release of Escrow Funds to HOKU under the Escrow Agreement that HOKU shall have granted SANYO the security interest described in Section 6.1 below. SANYO shall have a reasonable basis for refusing to execute any test or specification
+confirmation under Sections 5.2.2(a) through 5.2.2(d) hereunder (as applicable) if HOKU shall not have granted SANYO such security interest. 
+ 
+5.3. HOKU shall invoice SANYO at or after the time of each shipment of Products to SANYO. Taxes, customs and duties, if any, shall be identified as separate items on HOKU invoices. All invoices shall be sent to SANYO’s location
+indicated in the applicable order. Payment terms for all invoiced amounts hereunder shall be sixty (60) days from the date of SANYO’s receipt of Products and HOKU’s invoice (the “Due Date”). All payments hereunder shall be
+made in U.S. Dollars. Total Deposit shall be credited against each shipment hereunder once the aggregate volume of Product shipped under this Agreement is equal to [*] ([*]) metric tons, whereupon the Total Deposit shall
+be credited pro rata with each shipment. 
+
+SANYO Initials & Date:
+
+HOKU Initials & Date:
+
+Page 5 of 34 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF
+THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ CONFIDENTIAL
+
+5.4. The prices for the Products do not include any excise, sales, use, import, export or other
+taxes, which taxes shall be invoiced to and paid by SANYO, provided that SANYO is legally or contractually obligated to pay such taxes. HOKU and SANYO shall work together to eliminate the possibility of taxes, but if there are any assessed, HOKU
+shall promptly remit to SANYO in full any such taxes paid by SANYO which are refunded to HOKU in whole or in part. SANYO shall be responsible for all transportation charges, duties and charges for shipping and handling except in case of
+Section 4.2; thus, the price for the Products shall not include any such charges except in case of Section 4.2. 
+ 
+5.5. Late
+payments for outstanding balances shall accrue interest at the lesser of eighteen percent (18%) per annum or the maximum rate allowed by the applicable law. 
+ 
+5.6. HOKU shall solely use the Total Deposit from SANYO for HOKU’s polysilicon business or production of Product related to this Supply Agreement. Such polysilicon business to reside within HOKU Materials.
+
+6. Security Interest. 
+ 
+6.1. Subject to
+receipt of the Initial Deposit and the Main Deposit, HOKU hereby grants to SANYO a security interest, which shall be subordinated in accordance with Section 6.3 below, in all of the tangible and intangible assets related to HOKU Materials (the
+“Collateral”). In connection with the foregoing, (a) HOKU shall enter into or cause the applicable subsidiary or affiliate to enter into customary collateral documentation reasonably requested by SANYO in order to provide SANYO with
+perfected security interests and liens on the Collateral, including, without limitation, deeds of trust with respect to the real property and fixtures comprising the HOKU Facility and a security agreement with respect to the Collateral consisting of
+personal property, (b) HOKU shall cause to be delivered such other items in connection with the Collateral and such documentation as reasonably requested by SANYO, including, without limitation, Uniform Commercial Code financing statements,
+other items necessary to perfect SANYO’s security interests and liens, opinions of counsel as to matters reasonably requested by SANYO, including the enforceability of the Collateral documents and the creation and perfection of the security
+interests and liens created thereby, and title insurance policies with respect to the Collateral consisting of real property. Any cost for obtaining the title insurance shall be borne by HOKU. 
+ 
+6.2. HOKU shall pledge to SANYO all of the equity interests in HOKU Materials owned by HOKU, and such equity interests shall constitute Collateral for
+the obligations of HOKU under this Agreement. 
+ 
+6.3. SANYO acknowledges and agrees that the security interests and liens in the Collateral
+will be expressly subordinated to HOKU’s third-party lenders (the “Senior Lenders”) that provide debt financing for the construction of the HOKU Facility. SANYO shall enter into subordination agreements with the Senior Lenders on
+terms and conditions acceptable to SANYO and the Senior Lenders. 
+ 
+6.4. HOKU shall grant the security interest described in Section 6.1
+to SANYO prior to the release of funds from Escrow. 
+ 
+6.5. The security interest granted hereby shall continue so long as HOKU continues to
+maintain any amount of the Total Deposit, and only to the extent of such remaining amount of the Total Deposit being held by HOKU, which has not been credited against the shipment of Products pursuant to this Agreement. Notwithstanding anything to
+the contrary contained in this Agreement, the Collateral consisting of real property shall secure only the obligations of HOKU to refund any portion of the Total Deposit to SANYO in accordance with the terms of this Agreement or the Escrow
+Agreement. 
+
+SANYO Initials & Date:
+
+HOKU Initials & Date:
+
+Page 6 of 34 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF
+THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ CONFIDENTIAL
+
+7. Product Quality Guarantee. 
+ 
+7.1. HOKU warrants to SANYO for a period of ninety (90) days from the date the Product leaves the HOKU Facility, that the Products shall meet the specifications set forth on Appendix 2 to this Agreement (the
+“Product Specifications”). Provided that SANYO complies with the return goods policy described in Article 8 below, HOKU shall, upon SANYO’s prompt written notification to HOKU, replace non-conforming Products with conforming Products,
+and if HOKU is unable to do so, HOKU shall refund SANYO for non-conforming Products within thirty (30) days after HOKU’s receipt of such returned Products. No employee, agent or representative of HOKU has the authority to bind HOKU to any
+oral representation or warranty concerning Products. Any oral representation or warranty made prior to the purchase of any Product and not set forth in writing and signed by a duly authorized officer of HOKU shall not be enforceable by SANYO. HOKU
+makes no warranty and shall have no obligation with respect to damage caused by or resulting from misuse, neglect or unauthorized alterations to the Products for which SANYO is responsible. 
+ 
+7.2. HOKU EXPRESSLY DISCLAIMS ALL OTHER WARRANTIES NOT EXPLICITLY DESCRIBED IN THIS AGREEMENT, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING THE
+WARRANTIES OF MERCHANTABILITY, AND FITNESS FOR A PARTICULAR PURPOSE. HOKU’s sole responsibility and SANYO’s exclusive remedy for any claim arising out of HOKU’s breach of the warranties set forth in Section 7.1 above is a refund
+or replacement, as described above. 
+ 
+7.3. Except as otherwise expressly set forth herein, HOKU disclaims any obligation to defend or
+indemnify SANYO, its past, present and future subsidiaries, affiliates, and their respective officers, agents, or employees, from and against any claims, demands, actions, proceedings, losses, damages, liabilities, costs or expenses, including
+without limitation, reasonable attorney fees, which may arise out of HOKU’s acts or omissions or the sale or use of the Products provided to SANYO by HOKU. 
+ 
+8. Return Goods Policy. After receipt of the Products and during the ninety (90) day warranty period described in Section 7.1, SANYO may inspect the Products to confirm no shortfall and conformity of Products to the
+warranties set forth in Section 7.1. Should SANYO find any shortfall or non-conformity in the delivered Products as a result of such inspection, HOKU shall, at SANYO’s sole discretion, fulfill such shortfalls and/or replace the
+non-conforming Products with conforming Products or refund to SANYO for such non-conforming Products pursuant to Section 7.1. To assure prompt handling, SANYO must obtain and HOKU must issue, upon SANYO’s written notice to HOKU, a return
+goods authorization number and SANYO shall reference this number on return shipping documents. Returns of Products made without the authorization number shall be returned to SANYO, freight collect. HOKU reserves the right to reverse any credit
+issued to SANYO: (i) for any Product not returned after authorization and request by HOKU; or (ii) if, upon return, such Product is reasonably determined by HOKU not to be non-conforming based on legitimate evidence supporting such
+determination which may be reasonably acceptable to SANYO. 
+ 
+9. Term and Termination. 
+ 
+9.1. The term of this Agreement shall begin on the Effective Date and, unless previously terminated as hereinafter set forth, shall remain in full force
+and effect until December 31, 2015. 
+ 
+9.2. Each party hereto may, at its discretion, upon written notice to the other party, and in
+addition to its rights and remedies provided under this Agreement and at law or in equity, terminate this Agreement in the event of any of the following: 
+
+SANYO Initials & Date:
+
+HOKU Initials & Date:
+
+Page 7 of 34 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF
+THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ CONFIDENTIAL
+
+9.2.1. Upon a material breach of the other party of any provision in this Agreement, and failure of
+the other party to cure such material breach within fifteen (15) Business Days after the written notice thereof. 
+ 
+9.2.2. For purposes
+of this Agreement, and notwithstanding anything to the contrary in the preceding sentence, a material breach by SANYO hereunder shall include, but not be limited to, SANYO failing to make a payment pursuant to this Agreement ninety (90) days
+from SANYO’s receipt of Products and HOKU’s invoice. 
+ 
+9.2.3. For purposes of this Agreement, a material breach by HOKU hereunder
+shall include, but not be limited to, any of: 
+
+ (a)
+ Beginning in March 2009, HOKU failing to deliver the Minimum Monthly Quantity of Product in any month; 
+
+ (b)
+ HOKU failing to deliver the Minimum Annual Quantity of Product in any year; 
+
+ (c)
+ HOKU being unable to complete successfully [*] Tests [*], [*] Test [*], and [*] Test [*], as
+described in Sections 5.2.4 and 5.2.5, within [*] months after the date of this Agreement; 
+
+ (d)
+ HOKU being unable to complete successfully the [*] Test [*], as described in Appendix 5, within [*] months after the date of this
+Agreement; 
+
+ (e)
+ HOKU being unable to complete successfully the shipment described in Section 5.2.2(d) prior to March 31, 2009; 
+
+ (f)
+ HOKU’s repetitive failure to deliver Products conforming to the warranties set forth in Section 7.1; 
+
+ (g)
+ Occurrence of any payment by SANYO Indemnitees (as defined in Section 13.1) with respect to Losses (as defined in Section 13.1) not reimbursed by HOKU;
+
+ (h)
+ HOKU’s breach of Article 13.1 of this Agreement; or 
+
+ (i)
+ HOKU’s breach of Article 14.5 of this Agreement. 
+
+9.2.4. Upon the voluntary or involuntary initiation of bankruptcy or insolvency proceedings against the other party (in the case of HOKU, including HOKU Materials); provided, that for an involuntary bankruptcy or insolvency proceeding, the
+party subject to the proceeding shall have sixty (60) Business Days within which to dissolve the proceeding or demonstrate to the terminating party’s satisfaction the lack of grounds for the initiation of such proceeding; 
+ 
+9.2.5. Upon entering into an assignment for the benefit of creditors against the other party; 
+ 
+9.2.6. Upon initiation of dissolution, liquidation or winding-up proceedings of the other party; or 
+ 
+9.2.7. In accordance with the provisions of Article 12 below. 
+
+SANYO Initials & Date:
+
+HOKU Initials & Date:
+
+Page 8 of 34 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF
+THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ CONFIDENTIAL
+
+9.3. HOKU shall have the right to terminate this Agreement if (A) SANYO fails to make either
+(i) the Initial Deposit pursuant to Section 5.1, or (ii) the Main Deposit pursuant to Section 5.2 hereof; or (B) the terms of this Agreement make it difficult for HOKU to secure financing sufficient to procure the HOKU
+Facility and equipment necessary to manufacture one thousand five hundred (1,500) metric tons of Products per annum. Notwithstanding the above, before terminating the Agreement pursuant to clause (B) above, HOKU shall first discuss and
+request SANYO to make the necessary changes to this Agreement needed to move forward with financing. For the avoidance of doubt, SANYO has no obligation to make any such changes to this Agreement. 
+ 
+9.4. Either party may terminate this Agreement upon the written notice to the other party if: 
+ 
+(a) the Escrow Agreement shall not be executed within fifteen (15) Business Days after the date of this Agreement; 
+ 
+(b) HOKU is unable to secure financing within six (6) months after the date of this Agreement sufficient to procure the HOKU Facility and equipment
+necessary to manufacture one thousand five hundred (1,500) metric tons of Product per annum; or 
+ 
+(c) the Escrow Agreement shall be
+terminated prior to release of the full amount of the Main Deposit to HOKU. 
+ 
+9.5. Upon expiration or termination of this Agreement for any
+reason, except for a termination of this Agreement by HOKU pursuant to Section 9.2.4, 9.2.5, or 9.2.6, HOKU shall refund to SANYO the entire amount of the Total Deposit less any part of the Total Deposit applied to the purchase price of the
+Products pursuant to Section 5.3 hereof within thirty (30) Business Days after the expiration or termination hereof. Without limiting the foregoing, in case the Main Deposit or any part thereof is still in the account of the Escrow Agent
+at the time of any such the expiration or termination hereof, HOKU shall authorize the Escrow Agent to refund the Main Deposit to SANYO. For the avoidance of doubt, in case this Agreement is terminated before HOKU applies any part of the Total
+Deposit to the purchase price of Products pursuant to Section 5.3 hereof, and except in the case of a termination of this Agreement by HOKU pursuant to Section 9.2.4, 9.2.5, or 9.2.6, HOKU shall be able to execute the Off-Set as described
+in Section 11 prior to refunding to SANYO the remaining amount of the Total Deposit. 
+ 
+9.6. Upon the expiration or termination of this
+Agreement howsoever arising and subject always to the provisions of Section 9.7 below, the following Sections shall survive such expiration or termination: Article 1 (Definitions); Section 4.3 (Shipping & Delivery); Article 7
+(Product Quality Guarantee); Article 8 (Return Goods Policy); Section 9.5, 9.6 and 9.7 (Term and Termination); Article 10 (Liability); Article 11 (Right to Off-Set); Article 13 (Indemnification); and Article 14 (General Provisions). 
+
+9.7. Upon expiration or termination of this Agreement for any reason, all outstanding deliveries of Products fixed in the Fixed Schedule prior to such
+expiration or termination shall be completed by HOKU and for this purpose and to that extent, the provisions of this Agreement shall continue in full force and effect. 
+ 
+10. Liability. 
+ 
+10.1. IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR INDIRECT, SPECIAL, INCIDENTAL OR
+CONSEQUENTIAL DAMAGES OR FOR EXEMPLARY OR PUNITIVE 
+
+SANYO Initials & Date:
+
+HOKU Initials & Date:
+
+Page 9 of 34 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF
+THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ CONFIDENTIAL
+
+DAMAGES, EVEN IF SANYO OR HOKU HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
+ 
+10.2. EXCEPT FOR REFUND OF THE TOTAL DEPOSIT PURSUANT TO SECTION 9.5 ABOVE, EITHER PARTY’S TOTAL LIABILITY TO THE OTHER FOR ANY KIND OF LOSS, DAMAGE
+OR LIABILITY ARISING UNDER OR IN CONNECTION WITH THIS AGREEMENT, UNDER ANY THEORY OF LIABILITY, SHALL NOT EXCEED FIFTY SIX MILLION US DOLLARS ($56,000,000); PROVIDED, HOWEVER, THAT SUCH MAXIMUM LIABILITY SHALL NOT INCLUDE LIQUIDATED DAMAGES PROVIDED
+IN SECTION 4.3 ABOVE. 
+ 
+11. Right to Off-Set. THE PARTIES ACKNOWLEDGE AND AGREE THAT, IN THE EVENT THAT SANYO IS LATE IN MAKING ANY PAYMENTS TO HOKU
+FOR PRODUCTS THAT HAVE BEEN SHIPPED BY HOKU, HOKU RESERVES THE RIGHT TO OFF-SET THE AMOUNT OF THE TOTAL DEPOSIT BY CREDITING TO HOKU’S ACCOUNT THE AMOUNT OF THE TOTAL DEPOSIT THAT IS EQUAL TO THE PAST DUE AMOUNT, INCLUDING ANY INTEREST PAYABLE
+THEREON PURSUANT TO THIS AGREEMENT; PROVIDED, HOWEVER, THAT HOKU SHALL NOTIFY SANYO IN WRITING PRIOR TO SUCH OFF-SET. FOR THE AVOIDANCE OF DOUBT, THE INTEREST PAYABLE SET FORTH ABOVE SHALL ACCRUE FROM THE DUE DATE TO THE DATE WHEN HOKU EXERCISES THE
+RIGHT TO OFF-SET. IN CASE OF SUCH SET-OFF BY HOKU, SANYO SHALL BE REQUIRED TO REPLENISH WITHIN THIRTY (30) BUSINESS DAYS AFTER SANYO’S RECEIPT OF SUCH NOTIFICATION ANY ADDITIONAL DEPOSIT IN ORDER TO RETURN THE TOTAL DEPOSIT TO THE LEVEL IT
+SHOULD BE AS DESCRIBED IN SECTION 5.3. 
+ 
+12. Force Majeure. Neither party shall be liable to the other party for failure of or delay in performance
+of any obligation under this Agreement, directly or indirectly, owing to acts of God, war, war-like condition, embargoes, riots, strikes and other events beyond its reasonable control. If such failure or delay occurs, the affected party (i.e., the
+party that is unable to perform) shall notify the other party of the occurrence thereof as soon as possible, and the parties shall discuss the best way to resolve the event of force majeure. If the conditions of force majeure apply for a period of
+more than two (2) consecutive calendar months, the non-affected party shall be entitled to terminate this Agreement by written notice to the other party. 
+ 
+13. Indemnification. 
+ 
+13.1. HOKU shall indemnify, defend and hold harmless SANYO, its respective past, present and future
+subsidiaries, affiliates, and each of their past, present and future constituent members, partners, officers, shareholders, directors, agents, employees, attorneys, retailers and customers and each of their respective successors and assigns
+(“SANYO Indemnitees”) from any claims, demands, actions, proceedings, losses, damages, liabilities, costs and expenses, including without limitation, reasonable attorney fees, (the “Losses”) which may arise out of or in
+connection with any infringement by the Products of the patent rights, trademark rights, copyrights or other intellectual property rights belonging to any third party. 
+ 
+13.2. Any such indemnification set forth in Section 13.1 shall be pursuant to the following provisions: 
+ 
+13.2.1. SANYO shall give a prompt written notice to HOKU of any assertion of liability by a third party which might give rise to a claim for indemnification, which notice shall state the nature and basis of the assertion and the amount
+thereof, to the extent known; provided, however, that no delay 
+
+SANYO Initials & Date:
+
+HOKU Initials & Date:
+
+Page 10 of 34 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF
+THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ CONFIDENTIAL
+
+on the part of SANYO in giving notice shall relieve HOKU of any obligation to indemnify unless (and then solely to the extent that) HOKU is prejudiced by
+such delay. SANYO shall take reasonable steps to mitigate indemnifiable liabilities and damages upon and after becoming aware of any event which could reasonably be expected to give rise to any liabilities and damages that are indemnifiable
+hereunder. 
+ 
+13.2.2. If any action, suit or proceeding (the “Legal Action”) is brought against any of SANYO Indemnitees with
+respect to which HOKU may have an obligation to indemnify, the Legal Action shall be defended by HOKU and such defense shall include all proceedings and appeals which counsel for SANYO Indemnitees shall reasonably deem appropriate; provided,
+however, that SANYO Indemnitees shall be entitled to participate in the defense of (but not control) any Legal Action, the defense of which is assumed by HOKU, with its own counsel and at its own expense; provided, however, that if HOKU does not
+assume control of such defense within a reasonable time, SANYO may assume control of such defense at the cost and expense of HOKU. 
+ 
+13.2.3.
+In any Legal Action initiated by a third party and defended by HOKU (a) applicable SANYO Indemnitees shall have the right to be represented by advisory counsel and accountants, at their own expense, (b) HOKU shall keep applicable SANYO
+Indemnitees fully informed as to the status of such Legal Action at all stages thereof, whether or not such SANYO Indemnitees are represented by their own counsel, (c) HOKU shall make available to applicable SANYO Indemnitees, and their
+attorneys, accountants and other representatives, all books and records of HOKU relating to such Legal Action, and (d) the parties shall render to each other such assistance as may be reasonably required in order to ensure the proper and
+adequate defense of the Legal Action. 
+ 
+13.3. HOKU’s obligation to indemnify SANYO as set forth above shall not apply to any claim set
+forth in a written notice provided by SANYO pursuant to Section 13.2.1 that is sent to HOKU more than five (5) years after the termination or expiration of this Agreement. 
+ 
+13.4 HOKU warrants that the manufacture, sale and/or use of Products shall not infringe any patent rights, trademark rights, copyrights or other
+intellectual property rights belonging to any third party. 
+ 
+14. General Provisions. 
+ 
+14.1. HOKU shall use commercially reasonable efforts to contract with [*] based in [*] (“[*]”) for
+engineering and design services related to the [*] process that shall be used at the HOKU Facility. 
+ 
+14.2. HOKU shall allow
+SANYO visitation rights for and between the time of signing and first delivery of Products upon reasonable advanced notice and at mutually agreeable times. HOKU shall provide SANYO with monthly written progress reports in reasonable detail on the
+polysilicon business that include a summary record of sources of cash in and uses of cash out and discuss them with SANYO; provided that HOKU shall not be required to provide the monthly written progress reports after HOKU has completed the first
+delivery of Products. 
+ 
+14.3. This Agreement shall be construed under and governed by the laws of the State of California, U.S.A.
+
+14.4. The parties agree that any controversy between the parties hereto involving any claim arising out of or relating to this Agreement
+shall be finally settled by arbitration in Santa Clara County, California, in accordance with the then current Commercial Arbitration Rules of the American Arbitration 
+
+SANYO Initials & Date:
+
+HOKU Initials & Date:
+
+Page 11 of 34 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF
+THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ CONFIDENTIAL
+
+Association, and judgment upon the award rendered by the arbitrators may be entered in any court having jurisdiction thereof. 
+ 
+14.5. This Agreement, in whole or in part, may not be assigned to a third party without prior written consent of the other party, except that HOKU may
+assign this Agreement to HOKU Materials with the prior written notice to SANYO; provided, however, that HOKU shall be jointly and severally liable with HOKU Materials for HOKU Materials’ breach of HOKU’s obligations hereunder. Merger or
+acquisition of a party hereto with a third party shall not be considered an assignment of this Agreement. This Agreement may be assigned by a party in connection with the sale of all or substantially all of such party’s assets. If this
+Agreement is assigned effectively to the third party, this Agreement shall bind upon successors and assigns of the parties hereto. Further, if HOKU assigns this Supply Agreement to any other party, HOKU shall be required to assign the Escrow
+Agreement to the same party. 
+ 
+14.6. HOKU shall maintain greater than [*] equity interest in HOKU Materials during the term of
+this Agreement and shall otherwise control HOKU Materials. HOKU shall obtain written approval from SANYO to reduce its equity interest in HOKU Materials to a level less than or equal to [*]. 
+ 
+14.7. Except as provided elsewhere in this Agreement, a notice is effective only if the party giving or making the notice has complied with this
+Section 14.7 and if the addressee has received the notice. A notice is deemed to have been received as follows: 
+ 
+(a) If a notice is
+delivered in person, or sent by registered or certified mail, or nationally or internationally recognized overnight courier, upon receipt as indicated by the date on the signed receipt; 
+ 
+(b) If a notice is sent by facsimile, upon receipt by the party giving the notice of an acknowledgment or transmission report generated by the machine
+from which the facsimile was sent indicating that the facsimile was sent in its entirety to the addressee’s facsimile number; or 
+ 
+(c)
+If a notice is sent by e-mail, upon receipt by the party giving the notice of an acknowledgement or transmission report indicating that the e-mail was sent in its entirety to the addressee’s e-mail address. 
+ 
+Each party giving a notice shall address the notice to the appropriate person at the receiving party at the address listed below or to a changed address as the party
+shall have specified by prior written notice: 
+ 
+SANYO: 
+ 
+SANYO
+Electric Co., Ltd. 
+ 
+15-2 Nishikiminami-machi 
+ 
+Kaizuka City,
+Osaka, 597-0094, Japan 
+ 
+Attn: Mr. Yasuyoshi Kawanishi, General Manager 
+ 
+E-mail: [*] 
+ 
+Facsimile: [*] 
+ 
+HOKU: 
+ 
+HOKU SCIENTIFIC, INC. 
+ 
+1075 Opakapaka Street 
+ 
+Kapolei, Hawaii 96707, USA 
+ 
+Attn: Mr. Dustin Shindo, CEO 
+ 
+E-mail: [*] 
+ 
+Facsimile: +1 (808) 682-7807 
+
+SANYO Initials & Date:
+
+HOKU Initials & Date:
+
+Page 12 of 34 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF
+THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ CONFIDENTIAL
+
+14.8. The waiver by either party of the remedy for the other party’s breach of or its rights
+under this Agreement shall not constitute a waiver of the remedy for any other similar or subsequent breach of any rights hereunder. 
+ 
+14.9.
+If any provision of this Agreement is or becomes, at any time or for any reason, unenforceable or invalid, no other provision of this Agreement shall be affected thereby, and the remaining provisions of this Agreement shall continue with the same
+force and effect as if such unenforceable or invalid provisions had not been inserted in this Agreement. 
+ 
+14.10. No changes, modifications
+or alterations to this Agreement shall be valid unless reduced to writing and duly signed by respective authorized representatives of the parties hereto. 
+ 
+14.11. No employment, agency, trust, partnership or joint venture is created by, or shall be founded upon, this Agreement. Each party further acknowledges that neither it nor any party acting on its behalf shall have
+any right, power or authority, implied or express, to obligate the other party in any way. 
+ 
+14.12. Neither party shall make any
+announcement or press release regarding this Agreement or any terms thereof without the other party’s prior written consent. Notwithstanding the foregoing, either party may publicly disclose the material terms of this Agreement through any
+channel if such information is required to be disclosed pursuant to the United States Securities Act of 1933, as amended, the United States Securities Exchange Act of 1934, as amended, a rule of stock exchange, a governmental authority, or other
+applicable law; provided, however, that the party being required to disclose the material terms of this Agreement shall provide the reasonable advance notice to the other party, and shall use commercially reasonable efforts to obtain confidential
+treatment from the applicable governing entity for all pricing, volume and technical information set forth in this Agreement. 
+ 
+14.13. This
+Agreement constitutes the entire agreement between the parties and supersedes all prior proposal(s) and discussions, relative to the subject matter of this Agreement and neither of the parties shall be bound by any conditions, definitions,
+warranties, understandings or representations with respect to such subject matter other than as expressly provided herein. No oral explanation or oral information by either party hereto shall alter the meaning or interpretation of this Agreement.
+
+14.14. The headings are inserted for convenience of reference only and shall not affect the interpretation and or construction of this
+Agreement. 
+ 
+14.15. Words expressed in the singular include the plural and vice-versa. 
+ 
+[This space intentionally left blank.] 
+
+SANYO Initials & Date:
+
+HOKU Initials & Date:
+
+Page 13 of 34 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF
+THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ CONFIDENTIAL
+
+IN WITNESS WHEREOF, the parties have executed this Supply Agreement as of the date first set forth above. 
+
+ SANYO:
+
+ HOKU:
+
+ SANYO Electric Co., Ltd.
+
+ HOKU SCIENTIFIC, INC.
+
+ By:
+
+ By:
+
+ Name:
+ 
+ Tadao Shimada
+
+ Name:
+ 
+ Dustin Shindo
+
+ Title:
+ 
+ Senior Vice President
+
+ Title:
+ 
+ Chairman & CEO
+
+ Authorized Signatory
+
+ Authorized Signatory
+
+SANYO Initials & Date:
+
+HOKU Initials & Date:
+
+Signature Page to Supply Agreement 
+ 
+(Page 14 of 34) 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF
+THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ CONFIDENTIAL
+
+APPENDIX 1 
+ 
+PRICING SCHEDULE 
+
+PLANNED DELIVERY PERIOD
+
+ QUANTITY
+ 
+ PRICE / KG
+
+JANUARY 1, 2009 – DECEMBER 31, 2009
+
+ [*] MT
+ 
+ $
+ [*]
+
+JANUARY 1, 2010 – DECEMBER 31, 2010
+
+ [*] MT
+ 
+ $
+ [*]
+
+JANUARY 1, 2011 – DECEMBER 31, 2011
+
+ [*] MT
+ 
+ $
+ [*]
+
+JANUARY 1, 2012 – DECEMBER 31, 2012
+
+ [*] MT
+ 
+ $
+ [*]
+
+JANUARY 1, 2013 – DECEMBER 31, 2013
+
+ [*] MT
+ 
+ $
+ [*]
+
+JANUARY 1, 2014 – DECEMBER 31, 2014
+
+ [*] MT
+ 
+ $
+ [*]
+
+JANUARY 1, 2015 – DECEMBER 31, 2015
+
+ [*] MT
+ 
+ $
+ [*]
+
+TOTAL
+
+ [*] MT
+
+If there is uncertainty in price between the delivery period and the total quantity for that period based on the
+table above, the price assigned to the quantity shall prevail. For example, the first [*] MT shall be invoiced at $[*], regardless of when it is shipped (early or late). 
+
+SANYO Initials & Date:
+
+HOKU Initials & Date:
+
+Appendix 1 to Supply Agreement 
+ 
+(Page 15 of 34) 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF
+THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ CONFIDENTIAL
+
+APPENDIX 2 
+ 
+PRODUCT SPECIFICATIONS 
+ 
+PRODUCT CODE: CAS # 7440-21-3
+
+1. Description 
+ 
+Solar grade polycrystalline silicon
+used for applications in the photovoltaic industry meeting specifications below. Such specifications shall only apply to polysilicon shipped by HOKU to SANYO beginning January 1, 2009. 
+ 
+2. Bulk & Surface Impurity Specifications 
+
+Type
+
+Bulk elements
+
+ Value
+ 
+ Unit
+
+Acceptors
+
+ Boron /Aluminum (B + Al)
+ 
+ [*]
+ 
+ [*]
+
+Donors
+
+ Phosphorus /Arsenic (P + As)
+ 
+ [*]
+ 
+ [*]
+
+Carbon Levels (first 6 months)
+
+ Carbon (C)
+ 
+ [*]
+ 
+ [*]
+
+Carbon Levels (after 6 months)
+
+ Carbon (C)
+ 
+ [*]
+ 
+ [*]
+
+Total Metals
+
+ (Fe, Cu, Ni, Cr, Zn, Na)
+ 
+ [*]
+ 
+ [*]
+
+3. Size Specifications 
+ 
+Nominal Chunk Size: 
+
+ [*] mm
+ 
+ approximately [*] by weight
+
+ [*] mm
+ 
+ approximately [*] by weight
+
+ [*] mm
+ 
+ approximately [*] by weight
+
+4. Certification & Elemental Analysis 
+ 
+Certification purified to the following analysis: 
+ 
+ASTM F 1723 
+ 
+ASTM F 1389 
+ 
+ASTM F 1391 
+ 
+5. Packaging 
+ 
+Double-packaged in polyethylene bags, weighed, and
+bar-coded for tracking purposes. 
+
+SANYO Initials & Date:
+
+HOKU Initials & Date:
+
+APPENDIX 2 
+ 
+PAGE 16 OF 34 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF
+THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ CONFIDENTIAL
+
+APPENDIX 3 
+ 
+[*][Pages 17-18 omitted] 
+
+SANYO Initials & Date:
+
+HOKU Initials & Date:
+
+Appendix 3 to Supply Agreement 
+ 
+(Page 17 of 34) 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF
+THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ CONFIDENTIAL
+
+[*][Pages 17-18 omitted] 
+
+SANYO Initials & Date:
+
+HOKU Initials & Date:
+
+Appendix 3 to Supply Agreement 
+ 
+(Page 18 of 34) 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF
+THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ CONFIDENTIAL
+
+[*] TEST [*] SIGN OFF SHEET 
+ 
+HOKU CONFIRMATION OF A SUCCESSFUL 
+ 
+[*] TEST [*] DEMONSTRATION 
+ 
+The parties have jointly executed and witnessed successful demonstration
+of the [*] Test [*]. 
+ 
+Date(s) of [*] Test [*]:
+
+Location of [*] Test [*]:
+
+Number of [*] used in the [*] Test [*]:
+
+ITEMS FOR APPROVAL: 
+
+ [*] Yes/No
+
+ HOKU Initials and Date: 
+
+ SANYO Initials and Date: 
+
+ [*] Yes/No
+
+ HOKU Initials and Date: 
+
+ SANYO Initials and Date: 
+
+ [*] Yes/No
+
+ HOKU Initials and Date: 
+
+ SANYO Initials and Date: 
+
+Successful [*] Test [*] completed? Yes / No
+
+ HOKU Initials and Date: 
+
+ SANYO Initials and Date: 
+
+ SANYO:
+
+ HOKU:
+
+ SANYO Electric Co., Ltd.
+
+ HOKU SCIENTIFIC, INC.
+
+ By:
+
+ By:
+
+ Name:
+
+ Name:
+
+ Title:
+
+ Title:
+
+ Authorized Signatory
+
+ Authorized Signatory
+
+ Date:
+
+ Date:
+
+SANYO Initials & Date:
+
+HOKU Initials & Date:
+
+Appendix 3 to Supply Agreement 
+ 
+(Page 19 of 34) 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF
+THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ CONFIDENTIAL
+
+[*] TEST [*] SIGN OFF SHEET 
+ 
+HOKU CONFIRMATION OF A SUCCESSFUL 
+ 
+[*] TEST [*] DEMONSTRATION 
+ 
+The parties have jointly executed and witnessed successful demonstration
+of the [*] Test [*]. 
+ 
+Date(s) of [*] Test [*]:
+
+Location of [*] Test [*]:
+
+Number of [*] used in the [*] Test [*]:
+
+ITEMS FOR APPROVAL: 
+
+ [*] Yes/No
+
+ HOKU Initials and Date: 
+
+ SANYO Initials and Date: 
+
+ [*] Yes/No
+
+ HOKU Initials and Date: 
+
+ SANYO Initials and Date: 
+
+ [*] Yes/No
+
+ HOKU Initials and Date: 
+
+ SANYO Initials and Date: 
+
+ Successful [*] Test [*] completed? Yes / No
+
+ HOKU Initials and Date: 
+
+ SANYO Initials and Date:
+
+ SANYO:
+
+ HOKU:
+
+ SANYO Electric Co., Ltd.
+
+ HOKU SCIENTIFIC, INC.
+
+ By:
+
+ By:
+
+ Name:
+
+ Name:
+
+ Title:
+
+ Title:
+
+ Authorized Signatory
+
+ Authorized Signatory
+
+ Date:
+
+ Date:
+
+SANYO Initials & Date:
+
+HOKU Initials & Date:
+
+Appendix 3 to Supply Agreement 
+ 
+(Page 20 of 34) 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF
+THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ CONFIDENTIAL
+
+[*] TEST [*] SIGN OFF SHEET 
+ 
+HOKU CONFIRMATION OF A SUCCESSFUL 
+ 
+[*] TEST [*] DEMONSTRATION 
+ 
+The parties have jointly executed and witnessed successful demonstration
+of the [*] Test [*]. 
+ 
+Date(s) of [*] Test [*]:
+
+Location of [*] Test [*]:
+
+Number of [*] used in the [*] Test [*]:
+
+ITEMS FOR APPROVAL: 
+
+ [*] Yes/No
+
+ HOKU Initials and Date: 
+
+ SANYO Initials and Date: 
+
+ [*]
+
+ HOKU Initials and Date: 
+
+ Acceptable?: Yes/No
+
+ SANYO Initials and Date: 
+
+ [*]
+
+ HOKU Initials and Date: 
+
+ Acceptable?: Yes/No
+
+ SANYO Initials and Date: 
+
+ [*]
+
+ HOKU Initials and Date: 
+
+ Acceptable?: Yes/No
+
+ SANYO Initials and Date: 
+
+ [*]
+
+ HOKU Initials and Date: 
+
+ Acceptable?: Yes/No
+
+ SANYO Initials and Date: 
+
+Successful [*] Test [*] completed? Yes / No
+
+ HOKU Initials and Date: 
+
+ SANYO Initials and Date:
+
+ SANYO:
+
+ HOKU:
+
+ SANYO Electric Co., Ltd.
+
+ HOKU SCIENTIFIC, INC.
+
+ By:
+
+ By:
+
+ Name:
+
+ Name:
+
+ Title:
+
+ Title:
+
+ Authorized Signatory
+
+ Authorized Signatory
+
+ Date:
+
+ Date:
+
+SANYO Initials & Date:
+
+HOKU Initials & Date:
+
+Appendix 3 to Supply Agreement 
+ 
+(Page 21 of 34) 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF
+THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ CONFIDENTIAL
+
+APPENDIX 4 
+ 
+OFFICER’S CERTIFICATE OF GOVERNMENT AUTHORIZATIONS 
+ 
+Pursuant to Section 5.2.3 of the Supply Agreement (the “Supply Agreement”) dated January 17, 2007 between HOKU SCIENTIFIC, INC., (“HOKU”)
+and SANYO ELECTRIC CO., LTD., the person signing below hereby certifies that the following statements are true and correct as of [date]. 
+
+ i.
+ I am the [executive officer title] of HOKU. 
+
+ ii.
+ HOKU has obtained all inspections, certifications, licenses, permits and other governmental approvals and authorizations (“Authorizations”) necessary as of the
+current stage of development of the HOKU Facility that would be known by a reasonably prudent company engaged in the business of manufacture and sale of polysilicon in the United States of America; 
+
+ iii.
+ To the best of HOKU’s knowledge, such Authorizations are in full force and effect; and 
+
+ iv.
+ HOKU is not aware of any reason that HOKU will not obtain in the ordinary course of business all Authorizations required for the completion and operation of the HOKU
+Facility. 
+
+All capitalized terms not otherwise defined herein have the meaning set forth in the Supply Agreement. 
+ 
+In witness whereof, I hereby certify to the truth of the above statements. 
+
+ By:
+
+ Name:
+
+ Title:
+
+ Date:
+
+SANYO Initials & Date:
+
+HOKU Initials & Date:
+
+Appendix 4 to Supply Agreement 
+ 
+(Page 22 of 34) 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF
+THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ CONFIDENTIAL
+
+APPENDIX 5 
+ 
+[*] [Page 23 omitted] 
+
+SANYO Initials & Date:
+
+HOKU Initials & Date:
+
+Appendix 5 to Supply Agreement 
+ 
+(Page 23 of 34) 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF
+THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ CONFIDENTIAL
+
+[*] TEST [*] SIGN OFF SHEET 
+ 
+HOKU CONFIRMATION OF A SUCCESSFUL 
+ 
+[*] TEST [*] DEMONSTRATION 
+ 
+The parties have jointly executed and witnessed successful demonstration
+of the [*] Test [*]. 
+ 
+Date(s) of [*] Test [*]: 
+ 
+Location of [*] Test [*]: 
+ 
+ITEMS FOR
+APPROVAL: 
+
+ [*] Yes/No
+
+ HOKU Initials and Date: 
+
+ SANYO Initials and Date:
+
+ SANYO:
+
+ HOKU:
+
+ SANYO Electric Co., Ltd.
+
+ HOKU SCIENTIFIC, INC.
+
+ By:
+
+ By:
+
+ Name:
+
+ Name:
+
+ Title:
+
+ Title:
+
+ Authorized Signatory
+
+ Authorized Signatory
+
+ Date:
+
+ Date:
+
+SANYO Initials & Date:
+
+HOKU Initials & Date:
+
+Appendix 5 to Supply Agreement 
+ 
+(Page 24 of 34) 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF
+THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ CONFIDENTIAL
+
+EXHIBIT A 
+ 
+ESCROW AGREEMENT 
+ 
+(ATTACHED)
+
+SANYO Initials & Date:
+
+HOKU Initials & Date:
+
+Exhibit A to Supply Agreement 
+ 
+(Page 25 of 34) 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF
+THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ CONFIDENTIAL
+
+ESCROW AGREEMENT 
+ 
+This ESCROW AGREEMENT (this “Agreement”) is entered into as of January 17, 2007 (the “Effective Date”), by and among HOKU SCIENTIFIC, INC., a Delaware corporation (hereinafter
+“HOKU”), SANYO Electric Co., Ltd. (hereinafter “SANYO”), (collectively, the “Parties”), and Bank of Hawaii, as Escrow Agent (the “Escrow Agent”). 
+ 
+BACKGROUND 
+ 
+On January 17, 2007, the Parties hereto entered into a Supply Agreement
+(“Supply Agreement”), pursuant to which HOKU has agreed to sell Product (as defined in the Supply Agreement) to SANYO over a fixed period of time. Pursuant to the terms of the Supply Agreement, SANYO is obligated to make an advance deposit
+to HOKU upon HOKU’s satisfaction of certain conditions precedent. 
+ 
+The execution and delivery of this Agreement by the Parties is required as a
+condition to HOKU’s completing the transactions contemplated by the Supply Agreement. Each term utilized but not otherwise defined herein shall have the meaning given to such term in the Supply Agreement. 
+ 
+Escrow Agent is not a party to the Supply Agreement. Therefore, Escrow Agent has no duties or obligations under said Supply Agreement. 
+ 
+TERMS 
+ 
+NOW, THEREFORE, in consideration of the mutual
+covenants contained herein and intending to be legally bound, the parties hereto agree as follows: 
+ 
+1. Escrow Account. 
+ 
+1.1. Escrow Funds. 
+ 
+1.1.1. The Escrow
+Funds, initially in an amount equal to One Hundred Nine Million Three Hundred Thousand U.S. Dollars ($109,300,000) (the “Escrow Funds”), shall be deposited with and held by the Escrow Agent in a separate account located in the United
+States (the “Escrow Account”) for the benefit of HOKU and SANYO, as provided in this Agreement. The Escrow Agent shall not make any payment or distribution from the Escrow Account except as, and in the manner, expressly provided in this
+Agreement; provided, however, that the Escrow Funds shall remain the property of SANYO until such time as such funds are required under the terms of this Agreement to be delivered to HOKU, at which time the portion of such Escrow Funds required to
+be delivered to HOKU shall become the property of HOKU. 
+ 
+1.1.2. Concurrently with the execution of this Agreement, SANYO has delivered the
+Escrow Funds to the Escrow Agent pursuant to Section 5.2.1 of the Supply Agreement. 
+ 
+1.1.3. The Escrow Agent shall maintain the Escrow
+Account reflecting (i) the amount of the Escrow Funds deposited with Escrow Agent as of the date of this Agreement, plus (ii) all amounts earned or realized on any cash or Permitted Investments (as defined below), minus (iii) all
+amounts distributed pursuant to Section 1.3 of this Agreement. 
+ 
+1.1.4. Except as expressly provided in Section 1.1.1 or elsewhere
+herein, none of the Parties shall have any right, title or interest in or possession of the Escrow Funds. Therefore, (i) none of the Parties shall have the ability to pledge, convey, hypothecate or grant a security interest in any portion of
+the Escrow Funds unless and until such funds have been disbursed to such party in accordance with this Agreement and (ii) until disbursed pursuant to this Agreement, the Escrow Agent shall be in sole 
+
+SANYO Initials & Date:
+
+HOKU Initials & Date:
+
+Exhibit A to Supply Agreement 
+ 
+(Page 26 of 34) 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF
+THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ CONFIDENTIAL
+
+possession of the Escrow Funds and agrees not to acknowledge requests that it act as, and nothing contained in this Agreement shall be deemed to constitute
+the Escrow Agent as, custodian for any party for purposes of perfecting a security interest therein. Accordingly, the Parties agree that no person or entity shall have any right to have or to hold any of the Escrow Funds as collateral for any
+obligation and shall not be able to obtain a security interest in any assets (tangible or intangible) contained in or relating to the Escrow Account. 
+ 
+1.2. Investments. 
+ 
+1.2.1. All amounts earned or received with respect to cash or any Permitted
+Investments shall be subject to the terms of this Agreement, and shall become part of the Escrow Funds. Any cash held in the Escrow Account shall, pending disbursement, be invested in Permitted Investments. For purposes of this Agreement,
+“Permitted Investments” shall mean (i) U.S. Treasuries in accordance with written instructions of HOKU and SANYO; (ii) U.S. Federal Agencies in accordance with written instructions of HOKU and SANYO; and (iii) Money Market
+Funds in accordance with written instructions of HOKU and SANYO (a “Joint Direction”). 
+ 
+1.2.2. The Escrow Agent may purchase or
+sell to itself or any affiliate, as principal or agent. Such investment, if registerable, shall be registered in the name of the Escrow Agent for the benefit of the Parties and held by the Escrow Agent. The Escrow Agent shall be entitled to sell or
+redeem any such investments as necessary to make any payments or distributions required under this Agreement. The Escrow Agent may act as purchaser or agent in the making or disposing of any investments. The Escrow Agent shall have no responsibility
+or liability for any diminution of the Funds held in the Escrow Account which may result from any investment made pursuant to this Escrow Agreement, including any losses on any investment required to be liquidated prior to maturity in order to make
+a payment or distribution required hereunder. 
+ 
+1.2.3. Such investments will be made as soon as possible following the availability of such
+funds to the Escrow Agent for investment, taking into consideration the regulations and requirements (including cut-off times) of the Federal Reserve wire system, the investment provider and the Escrow Agent, and compliance with standard operating
+procedures of such parties. 
+ 
+1.2.4. Investments designation may be changed through written instructions jointly by HOKU and SANYO to the
+Escrow Agent, substantially in the form of a letter specifying other Permitted Investments meeting the requirements of the Escrow Agreement. Such change in the designation will become effective upon receipt by the Escrow Agent. 
+ 
+1.2.5. As and when any cash is needed for a payment under this Agreement, the Escrow Agent shall cause a sufficient amount of the Permitted Investments
+to be converted into cash. Escrow Agent shall convert such Permitted Investments as specified by HOKU and SANYO or, if HOKU and SANYO shall fail to so specify within five Business Days of a request therefor, as determined by Escrow Agent in its sole
+discretion. 
+ 
+1.2.6. Any and all interest, dividends and other income (including capital gains) (“Income”) earned on the Escrow
+Funds shall not be included as part of the Escrow Funds and shall remain as the sole property of SANYO. The Escrow Agent shall distribute to SANYO such income or gains quarterly during the term of this Agreement. Any losses from the Permitted
+Investments shall first be offset from Income and then deducted from the Escrow Funds. All Parties hereto shall file all tax returns consistent with such treatment. Escrow Agent shall not be responsible for any tax reporting hereunder. 
+
+SANYO Initials & Date:
+
+HOKU Initials & Date:
+
+Exhibit A to Supply Agreement 
+ 
+(Page 27 of 34) 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF
+THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ CONFIDENTIAL
+
+1.3. Claim Procedure. 
+ 
+1.3.1. Within fifteen (15) Business Days after HOKU’s delivery to the Escrow Agent of the written confirmation of each of HOKU and SANYO of the
+Success of the [*] Test [*] (as defined in the Supply Agreement) pursuant to Section 5.2.2(a) of the Supply Agreement and a signed copy of the Officer’s Certificate and Government Authorizations by HOKU (as
+provided in Appendix 4 of the Supply Agreement), the Escrow Agent shall disburse to HOKU [*] ([*]) of the original amount of the Escrow Funds. 
+ 
+1.3.2. Within fifteen (15) Business Days after HOKU’s delivery to the Escrow Agent of the written confirmation of each of HOKU and SANYO of the Success of the [*] Test [*] (as
+defined in the Supply Agreement) pursuant to Section 5.2.2(b) of the Supply Agreement and a signed copy of the Officer’s Certificate and Government Authorizations by HOKU (as provided in Appendix 4 of the Supply Agreement), the Escrow
+Agent shall disburse to HOKU [*] ([*]) of the original amount of the Escrow Funds. 
+ 
+1.3.3. Within fifteen
+(15) Business Days after HOKU’s delivery to the Escrow Agent of the written confirmation of each of HOKU and SANYO of the Success of the [*] Test [*] (as defined in the Supply Agreement) pursuant to
+Section 5.2.2(c) of the Supply Agreement, and a signed copy of the Officer’s Certificate and Government Authorizations by HOKU (as provided in Appendix 4 of the Supply Agreement), the Escrow Agent shall disburse to HOKU [*]
+([*]) of the original amount of the Escrow Funds. 
+ 
+1.3.4. Within fifteen (15) Business Days after HOKU’s delivery
+to the Escrow Agent of the written confirmation of each of HOKU and SANYO that the Products (as defined in the Supply Agreement) meet specifications set forth in Appendix 2 attached to the Supply Agreement warranted by HOKU pursuant to
+Section 7.1 of the Supply Agreement pursuant to Section 5.2.2(d) of the Supply Agreement and a signed copy of the Officer’s Certificate and Government Authorizations by HOKU (as provided in Appendix 4 of the Supply Agreement), the
+Escrow Agent shall disburse to HOKU [*] ([*]) of the original amount of the Escrow Funds. It shall be a condition to any release of Escrow Funds to HOKU hereunder that HOKU shall have granted SANYO the security interest
+described in Section 6.1 of the Supply Agreement. SANYO shall have a reasonable basis for refusing to execute any test or specification confirmation under Sections 1.3.1-1.3.4 hereunder (as applicable) if HOKU shall not have granted SANYO such
+security interest. 
+ 
+1.3.5. If, with respect to any of the four installments described in Sections 1.3.1—1.3.4, respectively, of this
+Agreement, (i) SANYO provides written notice to HOKU pursuant to Section 5.2.8(ii) of the Supply Agreement or otherwise fails to provide written confirmation of the achievement of the applicable criteria and (ii) HOKU disputes the
+applicable findings or conclusions of SANYO, then HOKU may elect (by providing written notice to the Escrow Agent and SANYO) to resolve the controversy pursuant to the arbitration provisions of Section 14.4 of the Supply Agreement. If such an
+arbitration results in a finding that the criteria required in connection with any such installment (other than the delivery of written confirmation by SANYO) had been achieved or that SANYO otherwise unreasonably withheld delivery of its applicable
+confirmation, then the Escrow Agent shall immediately deliver to HOKU the amount of such installment out of the Escrow Funds. Notwithstanding anything to the contrary herein, it shall be a condition to any release of Escrow Funds to HOKU hereunder
+that HOKU shall have granted SANYO the security interest described in Section 6.1 of the Supply Agreement. SANYO shall have a reasonable basis for refusing to execute any test or specification confirmation under Sections 1.3.1-1.3.4 hereunder
+(as applicable) if HOKU shall not have granted SANYO such security interest. 
+
+SANYO Initials & Date:
+
+HOKU Initials & Date:
+
+Exhibit A to Supply Agreement 
+ 
+(Page 28 of 34) 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF
+THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ CONFIDENTIAL
+
+1.3.6. Distributions of the Escrow Funds shall be made in cash to the extent available in the Escrow
+Account, including cash derived from the liquidation of Permitted Investments in accordance with Section 1.2 hereof. 
+ 
+1.3.7. Joint
+Direction. Notwithstanding any other provision of this Escrow Agreement, the Escrow Agent shall promptly deliver all or any part of the Escrow Funds in accordance with the terms of a Joint Direction, unless a final order of a court of competent
+jurisdiction prohibits the Escrow Agent from complying with the terms thereof. Any amount distributed pursuant to this Section 1.3.7 shall be deducted from the Escrow Account. 
+ 
+1.3.8. Release to SANYO. The Escrow Agent shall release the entire amount of the Escrow Funds to SANYO within fifteen (15) Business Days
+after SANYO’s delivery to the Escrow Agent of the written confirmation of each of HOKU and SANYO that the Escrow Funds are to be released to SANYO pursuant to Section 9.5 of the Supply Agreement. In the event that HOKU fails to provide
+written confirmation of the release of the Escrow Funds to SANYO pursuant to Section 9.5 of the Supply Agreement, then SANYO may elect (by providing written notice to the Escrow Agent and HOKU) to resolve the controversy pursuant to the
+arbitration provisions of Section 14.4 of the Supply Agreement. If such an arbitration results in a finding that Section 9.5 requires the Escrow Funds to be released to SANYO, then the Escrow Agent shall immediately deliver to SANYO such
+Escrow Funds. Notwithstanding anything herein to the contrary, the Escrow Agent shall not release any portion of the Escrow Funds pursuant to this Section 1.3.8 unless it has received (a) the written confirmation executed by both HOKU and
+SANYO as required by this Section 1.3.8, (b) a final written arbitral order obtained in accordance with Section 14.4 of the Supply Agreement providing that Section 9.5 requires the Escrow Funds to be released to SANYO, or
+(c) upon a joint direction pursuant to Section 1.3.7 above. 
+ 
+1.4. Distributions and Termination of Escrow. 
+ 
+1.4.1. This Agreement shall terminate on the earlier to occur of (i) after disbursement to HOKU or SANYO of the Escrow Funds pursuant to
+Section 1.3 above, as applicable; (ii) the date which is thirty-six months from the date of signing of the Escrow Agreement (the “Final Distribution Date”); and (iii) upon receipt of a Joint Direction ordering such
+distribution. The date when this Agreement terminates shall be the “Termination Date”. 
+ 
+1.4.2. On the Final Distribution Date,
+this Agreement shall terminate and the Escrow Agent shall distribute to SANYO the then remaining balance of the Escrow Account. 
+ 
+2. The Escrow
+Agent. 
+ 
+2.1. Acceptance of Appointment as Escrow Agent. The Escrow Agent, by signing this Agreement, accepts the appointment as
+Escrow Agent and agrees to hold and distribute all Escrow Funds in accordance with the terms of this Agreement. 
+ 
+2.2. Liability of
+Agent. The Escrow Agent shall be obligated to perform only the duties described in this Agreement. The Escrow Agent may rely on any instrument or signature believed by it to be genuine and to have been signed or presented by the proper party or
+parties duly authorized to do so. The Escrow Agent shall not be liable for any action taken or omitted by it in good faith and believed by it to be authorized, nor for any action taken or omitted by it in accordance with advice of counsel, and shall
+not be liable for any mistake of fact or error of judgment or for any acts or omissions of any kind unless caused by its willful misconduct or gross negligence. Each party (other than the Escrow Agent) agrees jointly and severally, to indemnify the
+Escrow Agent and to hold it harmless against any and all liabilities, including reasonable attorneys’ fees, incurred by it as a consequence of that party’s action, and the parties 
+
+SANYO Initials & Date:
+
+HOKU Initials & Date:
+
+Exhibit A to Supply Agreement 
+ 
+(Page 29 of 34) 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF
+THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ CONFIDENTIAL
+
+(other than the Escrow Agent) agree jointly and severally to indemnify the Escrow Agent and to hold it harmless against any and all liabilities, including
+reasonable attorneys’ fees, incurred by it which are not a consequence of any party’s action, except in either case for the Escrow Agent’s own willful misconduct or gross negligence. The indemnity contained in this Section 2.2
+shall survive the termination of this Agreement and the resignation or removal of the Escrow Agent. 
+ 
+2.3. Advice of Counsel. The
+Escrow Agent shall be entitled to consult with counsel of its choice with respect to the interpretation of the provisions hereof, and any other legal matters relating hereto, and shall be fully protected in taking any action or omitting to take any
+action in good faith in accordance with the advice of such counsel. 
+ 
+2.4. Fees of Escrow Agent. The Escrow Agent shall serve
+hereunder in consideration of the fees described on Schedule A attached hereto and the reimbursement of any expenses and other charges reasonably incurred by the Escrow Agent in connection with the performance of its duties hereunder. Except as
+provided in Sections 2.2 and 2.7, all such fees, expenses and other charges of the Escrow Agent (the “Escrow Agent Fees and Expenses”) shall be paid by SANYO and deducted from the interest income prior to distribution of interest income to
+SANYO. This Section 2.4 shall survive the termination of this Agreement and the resignation or removal of the Escrow Agent. Legal fees incurred by the Escrow Agent to establish this Agreement shall be paid by the Escrow Agent. 
+ 
+2.5. Statements. The Escrow Agent shall mail to HOKU and SANYO a written accounting of all transactions relating to the Escrow Account not less
+frequently than quarterly. 
+ 
+2.6. Successor. If the Escrow Agent at any time resigns, refuses to act or is removed pursuant to a
+Joint Direction, then a successor Escrow Agent shall be jointly selected by HOKU and SANYO, or if HOKU and SANYO cannot agree, the successor Escrow Agent shall be selected by HOKU. Any successor Escrow Agent shall be a national banking association
+which has a net worth in excess of $1,000,000,000 and has a principal place of business located in the State of California. 
+ 
+2.7.
+Conflict. In the event of any conflicting or inconsistent claims or demands being made in connection with the subject matter of this Agreement, or in the event that the Escrow Agent is in doubt as to what action it should take hereunder, the
+Escrow Agent may, at its option, refuse to comply with any claims or demands on it, or refuse to take any other action hereunder so long as such disagreement continues or such doubt exists, and in any such event, the Escrow Agent shall not be or
+become liable in any way or to any person for its failure or refusal to act, and the Escrow Agent shall be entitled to continue to refrain from acting until (i) the rights of all parties have been fully and finally adjudicated by a court of
+competent jurisdiction and the Escrow Agent has received a copy of such adjudication, or (ii) all differences shall have been settled and all doubt resolved by agreement among all of the parties, and the Escrow Agent shall have been notified
+thereof in writing signed by all such parties. In addition to the foregoing rights, in the event the Escrow Agent has any doubt as to the course of action it should take under this Agreement, the Escrow Agent is hereby authorized to petition any
+court of competent jurisdiction for instructions or to interplead the Escrow Funds into such court. The parties agree to the jurisdiction of the court selected by the Escrow Agent over their persons as well as the Escrow Funds, waive personal
+service of process, and agree that service of process by certified or registered mail, return receipt requested, to the addresses provided in or pursuant to Section 3.6 for each party shall constitute adequate service. The parties to the
+Agreement hereby agree, jointly and severally, to indemnify and hold the Escrow Agent harmless from any liability or losses occasioned thereby and to pay any and all of its fees, costs, expenses, and counsel fees and expenses incurred in any such
+action and agree that, on such petition or interpleader action, the Escrow Agent, its servants, agents employees or officers will be relieved of further liability. 
+
+SANYO Initials & Date:
+
+HOKU Initials & Date:
+
+Exhibit A to Supply Agreement 
+ 
+(Page 30 of 34) 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF
+THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ CONFIDENTIAL
+
+2.8. Resignation of Escrow Agent. The Escrow Agent may resign for any reason, upon 30 days
+written notice to the HOKU and SANYO. Upon expiration of such 30 day notice period, the Escrow Agent may deliver all cash and other property in its possession, after the payment of all fees and expenses of the Escrow Agent, under this Agreement to
+any successor Escrow Agent appointed jointly by HOKU and SANYO, or if no successor Escrow Agent has been so appointed, to any court of competent jurisdiction in the State of California. SANYO hereby agrees to pay any and all of the Escrow
+Agent’s fees, costs, expenses, and counsel fees and expenses incurred in any such petition or action required to be filed by Escrow Agent. Upon either such delivery, the Escrow Agent shall be released from any and all liability under this
+Agreement. A termination under this Section shall in no way affect reimbursement of expenses, indemnity and fees. The Escrow Agent shall have the right to deduct from the Escrow Funds to be transferred to any successor agent any unpaid fees and
+expenses. 
+ 
+3. Miscellaneous. 
+ 
+3.1.
+Successors; Heirs and Assigns. The provisions of this Escrow Agreement shall be binding upon and shall inure to the benefit of the parties hereto and their respective successors, heirs and assigns; provided, however, that no party may assign,
+delegate or otherwise transfer any of its rights or obligations under this Agreement without the consent of the other parties hereto, except that HOKU may assign this Agreement to HOKU Materials with written notice to the other parties. 
+
+3.2. Survival. All agreements, representations and warranties made in this Agreement or in any document delivered pursuant to this Agreement
+shall survive the execution and delivery of this Agreement and the delivery of any such documents. 
+ 
+3.3. Governing Law. This
+Agreement shall be governed by and construed in accordance with the laws of the State of California, without giving effect to principles of conflicts of laws. 
+ 
+3.4. Counterparts; Headings. This Agreement may be executed in one or more counterparts, each of which shall be deemed an original, but such counterparts shall together constitute but one and the same
+agreement. The Article and Section headings in this Agreement are inserted for convenience of reference only and shall not constitute a part of this Agreement. 
+ 
+3.5. Entire Agreement. This Agreement and the Supply Agreement and the schedules, exhibits and documents referred to herein and therein contain the entire understanding of the parties with respect to the
+subject matter hereof and supersede all prior negotiations, agreements and undertakings among the parties with respect to such subject matter. There are no restrictions, promises, warranties, covenants or undertakings other than those expressly set
+forth herein and therein. 
+ 
+3.6. Notices. All notices, requests, demands and other communications hereunder shall be in writing, and
+shall be deemed to have been duly given if delivered by overnight courier, sent by mail to the respective parties or personally delivered addressed as follows: 
+ 
+If to SANYO: 
+ 
+SANYO Electric Co., Ltd. 
+ 
+15-2
+Nishikiminami-machi 
+ 
+Kaizuka City, Osaka, 597-0094, Japan 
+ 
+Attn: Mr. Yasuyoshi Kawanishi, General Manager 
+ 
+E-mail: [*] 
+
+SANYO Initials & Date:
+
+HOKU Initials & Date:
+
+Exhibit A to Supply Agreement 
+ 
+(Page 31 of 34) 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF
+THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ CONFIDENTIAL
+
+Facsimile: [*] 
+ 
+If to HOKU: 
+ 
+HOKU SCIENTIFIC, INC. 
+ 
+1075 Opakapaka
+Street 
+ 
+Kapolei, Hawaii 96707, USA 
+ 
+Attn: Mr. Dustin
+Shindo, CEO 
+ 
+E-mail: [*] 
+ 
+Facsimile: +1
+(808) 682-7807 
+ 
+If to Escrow Agent: 
+ 
+Bank of Hawaii
+
+111 South King Street 
+ 
+Honolulu, HI 96813, USA 
+ 
+Attn.: Kamani B. Kuala’au 
+ 
+E-mail: [*] 
+ 
+Facsimile: [*] 
+ 
+or to such other address as such party may
+designate by written notice to the other parties hereto. Any such notices, requests, demands or other communications shall be deemed to have been duly given when received if delivered personally or, if mailed, on the date five (5) days after
+the date so deposited in the mails, postage prepaid, return receipt requested or on the day following the day sent if sent by prepaid overnight delivery service. Notices, requests and other communications hereunder may be delivered by electronic
+facsimile transmission (fax) if confirmation by sender is made within three (3) Business Days by mail or personal delivery. All periods of notice shall be measured from the date of deemed delivery thereof. 
+ 
+3.7. Amendment or Modification of this Agreement. This Agreement may be amended or modified at any time with the written agreement of Escrow
+Agent, HOKU and SANYO. 
+ 
+3.8. Severability. Any provision of this Agreement which is prohibited or unenforceable in any jurisdiction
+shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions of this Escrow Agreement or affecting the validity or enforceability of such provision in any other
+jurisdiction. 
+ 
+[This space intentionally left blank.] 
+
+SANYO Initials & Date:
+
+HOKU Initials & Date:
+
+Exhibit A to Supply Agreement 
+ 
+(Page 32 of 34) 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF
+THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ CONFIDENTIAL
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed on the day and year first written
+above. 
+
+ SANYO:
+
+ HOKU:
+
+ SANYO Electric Co., Ltd.
+
+ HOKU SCIENTIFIC, INC.
+
+ By:
+
+ By:
+
+ Name:
+ 
+ Tadao Shimada
+
+ Name:
+ 
+ Dustin Shindo
+
+ Title:
+ 
+ Senior Vice President
+
+ Title:
+ 
+ Chairman & CEO
+
+ Authorized Signatory
+
+ Authorized Signatory
+
+ ESCROW AGENT:
+
+ By:
+
+ Name:
+ 
+ Kamani B. Kuala’au
+
+ Title:
+ 
+ Assistant Vice President
+
+ Authorized Signatory
+
+ By:
+
+ Name:
+ 
+ David D.W. Chung
+
+ Title:
+ 
+ Vice President
+
+ Authorized Signatory
+
+SANYO Initials & Date:
+
+HOKU Initials & Date:
+
+Exhibit A to Supply Agreement 
+ 
+(Page 33 of 34) 
+
+[*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED
+IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED AND FILED
+SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE 24b-2 OF
+THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+ CONFIDENTIAL
+
+SCHEDULE A 
+ 
+ESCROW FEE SCHEDULE 
+
+SANYO Initials & Date:
+
+HOKU Initials & Date:
+
+Exhibit A to Supply Agreement 
+ 
+(Page 34 of 34)

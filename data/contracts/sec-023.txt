@@ -1,0 +1,536 @@
+EX-10.12
+4
+c73700exv10w12.txt
+EX-10.12 REAGENT SUPPLY AGREEMENT
+
+ EXHIBIT 10.12
+
+ REAGENT SUPPLY AGREEMENT
+
+ THIS AGREEMENT (the "Reagent Supply Agreement") is made as of the 1st
+day of January, 2003 Agreement Effective Date") by and between SurModics, Inc.,
+a corporation under the laws of the State of Minnesota ("Supplier") and Cordis
+Corporation, a corporation under the laws of the State of Florida ("Customer").
+
+RECITALS:
+
+ A. Supplier and Customer are parties to a certain Adjusted License
+Agreement ("Adjusted License Agreement"), dated January 1, 2003.
+
+ B. Supplier has previous sold to Customer commercial quantities of a
+product described on Attachment A hereto ("Reagent") which has been tested and
+determined by Customer to meet the standards described on Attachment B hereto
+("Reagent Specifications"), Reagent meeting the Reagent Specifications
+hereinafter referred to as the "Conforming Reagent."
+
+ C. Customer desires Supplier to sell to it Conforming Reagent and
+Supplier is willing to do so upon the terms and conditions hereinafter set
+forth.
+
+ NOW, THEREFORE, in consideration of the mutual covenants and agreements
+set forth below and for other good and valuable consideration, the receipt and
+sufficiency of which is hereby acknowledged by each of the parties hereto, the
+parties hereto agree as follows:
+
+ 1. Reagent to be Purchased. Customer agrees to purchase and pay for
+whatever amount of Conforming Reagent (and only Conforming Reagent) is delivered
+by Supplier up to the greater of the amount Customer orders and the "Aggregate
+Amount" as computed from time-to-time. The Aggregate Amount shall equal the sum
+of: (i) the amount described on Attachment C for each month (the "Monthly Target
+Production"); plus (ii) a reserve amount (the "Reserve Amount") which shall (at
+any time) equal **. Customer may prospectively amend the Monthly Target
+Production effective as of the first day of the fourth month following the
+giving of written notice of such change by Customer, which notice is duly
+executed by an authorized officer of Customer; provided, however, that Customer
+may not by such amendments increase the Monthly Target Production by more than
+**. Customer may request to purchase more than the Aggregate Amount as exists
+from time-to-time, and Supplier will make a reasonable business effort to comply
+with such request.
+
+ 2. Price; Payment. The purchase price of Conforming Reagent shall be as
+determined on Attachment C-2 hereof. The purchase price shall be paid in full
+within forty-five (45) days after delivery **. Delivery shall be made when
+Reagent is shipped F.O.B. Supplier's ** Minnesota facility addressed as Customer
+shall direct from time-to-time and shipped at Customer's expense via whatever
+common carrier Customer may
+
+ ** CONFIDENTIAL TREATMENT REQUESTED
+
+direct from time-to-time. Title and risk of loss shall pass to Customer upon
+delivery to such common carrier.
+
+ 3. Conforming Reagent. The parties acknowledge that Customer will
+be utilizing the Reagent in a medical product, and that Customer will be
+responsible to the purchasers and users of such medical products for the safety
+and efficacy of the Reagent in such medical products. While it is the intent
+that Supplier will provide Reagent which meets the Reagent Specifications (and
+Supplier represents it will exercise reasonable commercial efforts to do so), it
+is acknowledged that Supplier does not so warrant and that Customer will itself
+inspect all Reagent delivered to it and make an independent and thorough
+determination as to whether the Reagent meets the Reagent Specifications.
+Customer agrees that it will reject any Reagent which does not meet the Reagent
+Specifications. The parties agree to the following protocol as respects
+Customer's acceptance of Reagent delivered to it:
+
+ a. Customer agrees to exercise ** to determine whether Reagent is
+ Conforming Reagent within thirty 30 days of delivery. If
+ Customer has not given written notice that a particular
+ shipment of Reagent is not Conforming Reagent within 45 days
+ of delivery thereof, such Reagent shall be deemed to be
+ Conforming Reagent for all purposes of this Reagent Supply
+ Agreement.
+
+ b. If Customer determines a quantity of Reagent is not Conforming
+ Reagent, it shall immediately notify Supplier in writing of
+ its determination and the particularities of non-conformance
+ with the Reagent Specifications, and promptly, at Supplier's
+ request, return the subject Reagent, which return shall be
+ made F.O.B. the site to which Supplier shipped such Reagent,
+ and which return shall be shipped via the same common carrier
+ by which the subject Reagent was shipped to Customer.
+
+ c. Customer and Supplier acknowledge that the production of
+ Conforming Reagent is important to their respective
+ businesses. Therefore, within thirty (30) calendar days after
+ the issuance of a notice that Reagent does not conform to the
+ Reagent Specifications, Customer agrees to have present at
+ Supplier's production site (or at another location mutually
+ agreed upon by the parties) at least two agents of Customer,
+ skilled in the subject matter, to consult with Supplier's
+ personnel with a view to promptly resolving the
+ non-conformance. Given the importance to each party of
+ producing Conforming Reagent, each party agrees to provide at
+ its expense two full-time equivalent personnel at Supplier's
+ site, dedicated solely to the remedy of any alleged
+ non-conformance until both parties agree that such dedicated
+ personnel are no longer required.
+
+ d. If Supplier disagrees with Customer's determination of
+ non-conformance with respect to any Reagent, and if the
+ personnel described in the preceding subparagraph cannot
+ resolve the matter within sixty (60) days of the issuance of
+ the notice referenced in the preceding subparagraph (c), the
+ parties agree to immediately submit the matter to mandatory,
+ binding arbitration according to the
+
+ rules set forth in the Adjusted License Agreement between the
+ parties, executed concurrently herewith.
+
+ e. [intentionally omitted]
+
+ 4. Customer's Right to Produce Reagent. The parties acknowledge
+that Customer's obligations in the marketplace require that Customer assure to
+its own satisfaction a supply of Conforming Reagent (or an acceptable
+alternative) for the purpose of application thereof to Licensed Products (as
+defined in the Adjusted License Agreement). The parties acknowledge that
+production of Reagent by Supplier involves proprietary information of Supplier,
+which Supplier is not required to provide to Customer hereunder or under the
+Adjusted License Agreement **.
+
+ a. **.
+
+ b. **.
+
+ c. **.
+
+ 5. Disclaimer of Warranties; Indemnification. SUPPLIER HEREBY
+DISCLAIMS ANY AND ALL WARRANTIES, EXPRESS OR IMPLIED, REGARDING THE REAGENT (OR
+OTHER PRODUCTS OR SERVICES SOLD HEREUNDER), MERCHANTABILITY, NON-INFRINGEMENT,
+AND FITNESS FOR A PARTICULAR PURPOSE, INCLUDING WITHOUT LIMITATION WARRANTIES
+ARISING FROM COURSE OF DEALING AND USAGE OF TRADE. SUPPLIER SHALL NOT BE LIABLE
+FOR INCIDENTAL, CONSEQUENTIAL, SPECIAL, EXTRAORDINARY OR PUNITIVE DAMAGES OF ANY
+DESCRIPTION, WHETHER FOR DAMAGE TO REPUTATION OR GOODWILL, LOST PROFITS, CLAIMS
+OF THIRD PARTIES OR OTHERWISE, RESULTING FROM ANY CAUSE WHATSOEVER (INCLUDING,
+WITHOUT LIMITATION, PRODUCT RECALL) WHETHER SUCH ASSERTED DAMAGE PURPORTS TO BE
+BASED ON WARRANTY OR GUARANTY, INDEMNITY OR OTHER CONTRACT, CONTRIBUTION,
+NEGLIGENCE, OTHER TORT OR OTHERWISE.
+
+ a. Subject to the provisions of Paragraph 3 above, Customer
+ acknowledges that it is purchasing the Reagent from Supplier
+ strictly on an "AS IS" basis without any warranties or
+ representations (expressed or implied) of any sort, type or
+ kind whatsoever.
+
+ b. Customer agrees to indemnify, defend and hold harmless
+ Supplier (and its officers, directors, employees and agents)
+ from and against any and all losses, costs, expenses
+ (including all attorneys' fees), damages, liabilities, claims,
+ suits, cause of action and judgments in any manner incurred,
+ sustained or asserted against Supplier arising out of or in
+ any way directly or indirectly related to the Reagent or its
+ use. The indemnity set forth in the preceding sentence shall
+ not apply with respect to any particular Reagent which at the
+ time of shipment
+
+ Supplier had current conscious awareness that Reagent was not
+ Conforming Reagent and with respect to which Supplier did not
+ so notify Customer in writing.
+
+ 5A. Storage of Critical Documentation. Supplier shall arrange for
+storage at a location at least ten (10) miles distant from its own manufacturing
+facilities, and approved by Customer, copies of all documentation, design
+documentation, and manufacturing documentation necessary to permit Supplier to
+manufacture Reagent at a separate facility in the event that its existing
+facilities and/or documentation are destroyed or rendered inoperable for any
+reason and shall update such documentation at least annually. Such documentation
+shall be generated and maintained in a medium and process acceptable to
+Customer.
+
+ 6. Miscellaneous.
+
+ a. This Reagent Supply Agreement is made in and shall be
+ interpreted and enforced in accordance with the laws of the
+ State of Illinois.
+
+ b. This Reagent Supply Agreement may be executed in several
+ counterparts and shall be effective when there are attached
+ together execution pages containing the signatures of each of
+ the parties hereto, each of which counterparts shall be deemed
+ to be an original, but all of which shall constitute one and
+ the same instrument.
+
+ c. This Reagent Supply Agreement and the documents executed
+ contemporaneously herewith contain the full agreement of the
+ parties respecting the subject matter and may not be modified,
+ altered or changed in any way except by written agreement
+ executed by both parties. There shall be no merger relating to
+ this Reagent Supply Agreement, and it shall remain fully
+ enforceable in accordance with its terms, not withstanding the
+ occurrence of any other events.
+
+ cc. This Reagent Supply Agreement may not be terminated except by
+ joint written agreement of the parties.
+
+ d. This Reagent Supply Agreement shall be binding upon and inure
+ to the benefit of the respective successors, assigns and legal
+ representatives of the parties hereto.
+
+ e. If any amount owing Supplier herein is not paid when due, each
+ unpaid amount shall bear interest after its due date (which in
+ the case of Reagent is forty-five (45) days after delivery) at
+ the rate of three percent (3%) above the so-called Reference
+ Rate then applicable as quoted by U.S. Bank, National
+ Association (or if lower, the maximum allowable pursuant to
+ applicable usury laws) and, in any action to collect amounts
+ owing, Supplier shall be entitled to recover all of its costs
+ and expenses incurred, including attorneys' fees. Customer
+ agrees to pay any amounts owing hereunder without asserting
+ any defense, counterclaim, off-set or credit (excepting only
+ the amounts of a claim which has been reduced to final
+ judgment).
+
+ f. If any one or more of the provisions or portions of this
+ Reagent Supply Agreement is determined to be illegal or
+ unenforceable, the remainder of this Reagent Supply Agreement
+ shall not be affected thereby and shall remain and continue to
+ be valid and effective.
+
+ g. [Intentionally omitted.]
+
+ h. Notices or communications by either party to the other shall
+ be deemed given when either personally served or three days
+ after deposited in the United States Mail, first class and
+ certified mail, postage pre-paid, to each party at the
+ following addresses:
+
+ If to Supplier: If to Customer:
+
+ SurModics, Inc. Cordis Corporation
+ 9924 West 74th Street 14201 NW 60th Avenue
+ Eden Prairie, MN 55344 Miami Lakes, FL 33014
+ Attention: President Attention: President
+
+ With a Copy to:
+
+ Johnson & Johnson
+ Office of General Counsel
+ 1 Johnson & Johnson Plaza
+ New Brunswick, NJ 08933
+
+ And With a Copy to:
+
+ Vice President, Operations
+ Cordis Corporation
+ 14201 NW 60th Avenue
+ Miami Lakes, FL 33014
+
+ Either party may change the address to which such notices or
+ communications will prospectively be sent, by notice given in
+ the fashion determined above.
+
+ i. The relationship between the parties is that of independent
+ contractors, and neither party is authorized to act as an
+ agent for the other party as to any matter.
+
+ j. No waiver of either party's obligation to perform its duties
+ under this Reagent Supply Agreement shall be valid unless in
+ writing and signed by the waiving party.
+
+ k. This Reagent Supply Agreement shall be interpreted without
+ regard to any presumption or rule requiring construction
+ against the party drafting this Reagent Supply Agreement.
+
+ l. The rights and remedies set forth herein are cumulative and
+ shall be in addition to any and all other rights, powers and
+ remedies available under law or in equity. The exercise of any
+ right to remedy hereunder or under applicable law shall not in
+ any way constitute a cure or prejudice either party and the
+ exercise of any other rights available hereunder or under
+ applicable law.
+
+ m. Attached hereto as Attachment E are Approved Supplier
+ Requirements which Customer desires Supplier to implement.
+ Supplier acknowledges that if Supplier does not implement the
+ Approved Supplier Requirements to a degree satisfactory
+ to Customer, that Customer may choose to purchase less Reagent
+ from Supplier than Customer might otherwise purchase.
+
+ n. Neither Cordis or SurModics will originate any news release,
+ promotional material or press statements concerning the
+ existence of this Agreement or the terms herein without the
+ prior written consent of the other party (excepting as
+ required by law and in that case with adequate prior notice to
+ the other party seeking consent and comments).
+
+ IN WITNESS WHEREOF, the parties hereto have caused this Reagent Supply
+Agreement to be executed as of the date heretofore written.
+
+SURMODICS, INC. CORDIS CORPORATION
+
+By By
+ ------------------------------ ------------------------------
+ Its Its
+ ---------------------------- ----------------------------
+
+ SCHEDULE OF ATTACHMENTS
+
+A. Description of Reagent
+B. Reagent Specifications
+C. Monthly Target Production
+C-2. Reagent Pricing
+D. **
+E. Approved Supplier Requirements
+
+ ATTACHMENT A
+
+ DESCRIPTION OF REAGENT
+
+ Reagent shall mean the materials of the same type and nature provided
+by Supplier to Customer during the months of October and November, 2002, being
+the compounds referred to as CPO1 and CPO2, and sometimes together known as
+PEVA/PBMA.
+
+ ** CONFIDENTIAL TREATMENT REQUESTED
+
+ ATTACHMENT B
+
+ REAGENT SPECIFICATIONS
+
+ Reagent Specifications shall mean the specifications pursuant to which
+Customer accepted Reagent provided by Supplier during the months of October and
+November, 2002, except as the parties may otherwise hereinafter agree by written
+document executed by authorized personnel of each of Supplier and Customer. Such
+Specifications in effect for the Reagent Supply during October and November,
+2002 are described as follows:
+
+ 1. **.
+
+ 2. **.
+
+ ** CONFIDENTIAL TREATMENT REQUESTED
+
+ ATTACHMENT C
+
+ **
+ TARGET PRODUCTION
+ IN KILOGRAMS
+
+ ** TARGET PRODUCTION (IN KILOGRAMS)
+
+------------------------------- ---------------------------- ----------------------------
+
+------------------------------- ---------------------------- ----------------------------
+
+------------------------------- ---------------------------- ----------------------------
+
+------------------------------- ---------------------------- ----------------------------
+
+------------------------------- ---------------------------- ----------------------------
+
+------------------------------- ---------------------------- ----------------------------
+
+------------------------------- ---------------------------- ----------------------------
+
+------------------------------- ---------------------------- ----------------------------
+
+------------------------------- ---------------------------- ----------------------------
+
+------------------------------- ---------------------------- ----------------------------
+
+------------------------------- ---------------------------- ----------------------------
+
+------------------------------- ---------------------------- ----------------------------
+
+------------------------------- ---------------------------- ----------------------------
+
+------------------------------- ---------------------------- ----------------------------
+
+------------------------------- ---------------------------- ----------------------------
+
+------------------------------- ---------------------------- ----------------------------
+
+**.
+
+ ** CONFIDENTIAL TREATMENT REQUESTED
+
+ ATTACHMENT C-2
+ REAGENT PRICING
+
+The purchase price of Conforming Reagent shall be as follows in respect of
+amounts of Conforming Reagent delivered during each such calendar years **:
+
+ --------------------------- --------------------------
+
+ --------------------------- --------------------------
+
+ --------------------------- --------------------------
+
+ --------------------------- --------------------------
+
+ --------------------------- --------------------------
+
+ --------------------------- --------------------------
+
+ --------------------------- --------------------------
+
+ --------------------------- --------------------------
+
+ --------------------------- --------------------------
+
+**.
+
+ ** CONFIDENTIAL TREATMENT REQUESTED
+
+ ATTACHMENT D
+
+**.
+
+ ** CONFIDENTIAL TREATMENT REQUESTED
+
+ ATTACHMENT E
+
+ APPROVED SUPPLIER REQUIREMENTS
+
+The following requirements must be achieved and maintained as part of the
+Supplier Quality approval process for SurModics to become and remain an Approved
+Supplier for Reagents
+
+QUALITY SYSTEM REQUIREMENTS
+
+Assessment: Cordis will perform a Quality System Audit of SurModics' quality
+systems to determine that the requirements of this Exhibit have been satisfied.
+Once the Cordis auditor has performed the audit with satisfactory results, he
+shall notify SurModics in writing that the supplier approval process is
+complete. Minor deficiencies or non-conformances identified during these audits
+that are not indicative of a lack of control will not preclude SurModics from
+supplier approval. However, such observations will be brought to the attention
+of SurModics and Cordis and SurModics will identify actions that shall be taken
+to correct these items and agree upon a time schedule in which these actions
+shall be implemented.
+
+1. SurModics shall attain a general state of compliance with the FDA and
+ international medical device and if applicable, pharmaceutical
+ requirements.
+
+2. SurModics shall have, or shall develop, quality systems which comply
+ with current GMP QSR (CFR 820), ISO9000 and EN46001, as determined by
+ Cordis and or FDA or EC Notified Body assessment. However, the
+ development of appropriate quality systems shall occur in a timely
+ fashion so as to permit commercialization of Reagents as soon as other
+ factors permit.
+
+3. Written requirements, including but not limited to specifications,
+ drawings, test methods and procedures, shall be utilized by SurModics
+ for all Reagents manufactured for Cordis. All requirements shall be
+ mutually agreed upon by SurModics and Cordis.
+
+4. SurModics shall not make any changes to components, processes, systems
+ (e.g. quality, measurement, testing) or suppliers used to produce, test
+ and or release Reagents manufactured for Cordis without prior written
+ approval from Cordis Quality Assurance management.
+
+5. SurModics shall establish and implement a system that ensures Device
+ History Records (DHR) for each batch, lot, or unit are created to
+ demonstrate that the Reagent is manufactured in accordance with the
+ written processes, methods and procedures of SurModics' quality system,
+ including material/reagent specifications.
+
+ a. DHR's shall contain adequate information to provide
+ traceability of all components and manufacturing aids (if any)
+ used in the manufacture of a finished Reagent.
+
+ ** CONFIDENTIAL TREATMENT REQUESTED
+
+ b. DHR's shall contain adequate information to identify the
+ processing methods and personnel involved in the manufacture
+ of a finished Reagent.
+
+ c. DHR's shall contain adequate information to demonstrate that
+ the manufactured Reagent was evaluated (tested and/or
+ inspected) and found to meet the Reagent Specification.
+
+6. SurModics shall establish written specifications for purchased
+ materials and components and shall implement a system to ensure that
+ the materials and components supplied meet these specifications.
+
+7. SurModics shall obtain written agreements with suitable suppliers for
+ all components, materials and services used in the manufacture of
+ Reagents and that no changes in the goods or services supplied shall be
+ made without adequate notification to SurModics.
+
+8. SurModics shall have a system for assisting Cordis with handling
+ customer complaints. In the event SurModics receives a complaint in the
+ form of a written Claim or a corrective action request:
+
+ a. All complaints involving Reagents supplied to Cordis will be
+ initially reported to Cordis customer service. SurModics will
+ be promptly informed if the complaint involves a product
+ supplied by SurModics, and within seven (7) calendar days,
+ provide a written preliminary investigation report to Cordis
+ Quality Assurance. This preliminary report will include an
+ initial assessment of device reporting under MDR or Vigilance
+ reporting requirements.
+
+ b. SurModics shall cooperate fully and promptly in the
+ investigation of complaints involving supplied Reagents. All
+ complaints should be investigated and a written response
+ provided to Cordis Quality Assurance within thirty (30) days
+ of receipt. All correspondence with the complainant will be
+ handled by Cordis, unless other arrangements are made by
+ SurModics with Cordis on a case-by-case basis.
+
+ c. Cordis will be responsible for filing any device report under
+ MDR or Vigilance reporting requirements.
+
+9. If either party reasonably believes a problem exists that affects the
+ safety, efficacy or reliability of the Reagents, the problem and all
+ known facts shall be brought to the attention of both company's Quality
+ Assurance management as soon as possible, but within 48 hours of the
+ identification of the problem. In the event that a field action is
+ contemplated, Cordis and SurModics shall work together to determine
+ whether a field action should take place; however, the final decision
+ to implement a field action shall be made by the Cordis Quality
+ Management. Cordis shall be responsible for implementing
+
+ ** CONFIDENTIAL TREATMENT REQUESTED
+
+ any field action, including informing customers and defining the
+ logistics of the field action. SurModics shall cooperate fully in the
+ implementation of any field action.
+
+10. SurModics shall establish a document retention procedure to ensure that
+ all documents required to meet the quality requirements herein set
+ forth. Such documents shall be retained for a minimum of five (5) years
+ from the date of Reagent Manufacture.
+
+ ** CONFIDENTIAL TREATMENT REQUESTED

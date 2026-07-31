@@ -1,0 +1,1107 @@
+<DOCUMENT>
+<TYPE>EX-10.30
+<SEQUENCE>3
+<FILENAME>file002.txt
+<DESCRIPTION>SUPPLY CONTRACT WITH MONARCH
+<TEXT>
+<PAGE>
+
+NOTE: PORTIONS OF THIS EXHIBIT INDICATED BY "[*]" ARE SUBJECT TO A CONFIDENTIAL
+TREATMENT REQUEST, AND HAVE BEEN OMITTED FROM THIS EXHIBIT. COMPLETE, UNREDACTED
+COPIES OF THIS EXHIBIT HAVE BEEN FILED WITH THE SECURITIES AND EXCHANGE
+COMMISSION AS PART OF THIS COMPANY'S CONFIDENTIAL TREATMENT REQUEST.
+
+                                                                   EXHIBIT 10.30
+
+                                SUPPLY AGREEMENT
+                                ----------------
+
+This Supply Agreement (the "Agreement") is made effective as of the 14th day of
+September, 2001, (the "Effective Date"), by and between AIRSPAN NETWORKS INC., a
+corporation organised under the laws of Washington, with its principal place of
+business at 13450 West Sunrise Boulevard, Suite 430, Sunrise, Florida, 33323,
+U.S.A. ("ANI"), and MONARCH COMMUNICATIONS LIMITED a company organised under the
+laws of Nigeria with its principal office at Orbital House, No 180, Awolowo
+Road, Ikoyi, Lagos, Nigeria ("Purchaser").
+
+                                   WITNESSETH:
+
+WHEREAS, ANI is engaged in the design and manufacture of various
+telecommunications product lines including, among others, those ANI products
+more completely described in Exhibit A hereto (the ANI products described in
+Exhibit A of this Agreement, as from time to time amended in accordance with the
+provisions of this Agreement, are hereinafter called the "ANI Products"); and
+
+WHEREAS, Purchaser is engaged in the operation of telecommunications systems;
+and
+
+WHEREAS, during the Term (as defined below) of this Agreement, ANI desires to
+supply to Purchaser, and Purchaser wishes to acquire from ANI, the ANI Products
+on the terms and conditions contained in this Agreement.
+
+NOW, THEREFORE, in consideration of the mutual promises herein contained, it is
+hereby agreed as follows:
+
+1.       SCOPE.
+
+
+         1.1.This Agreement shall remain in effect for a period of 3 years from
+the Effective Date (the "Term").
+
+         1.2. During the Term, in accordance with each purchase order issued by
+Purchaser and accepted by ANI, ANI shall:
+
+               a. Engineer, sell, and deliver that equipment so specified in the
+               order ("Equipment" being defined as the hardware component
+
+SUPPLY AGREEMENT - PAGE 1
+<PAGE>
+
+               of each product being offered under the terms and conditions of
+               this Agreement);
+
+               b. Grant to Purchaser a non-transferable, non-exclusive, paid-up
+               licence to use the Software (as defined in Section 10.1) during
+               the useful life of the associated Equipment on the terms and
+               conditions set forth in the Software Licence, Section 10; and
+
+               c. Test, install and commission the Equipment and/or Software and
+               integrate the Equipment and/or Software in accordance with ANI's
+               specification therefor with third party equipment agreed upon by
+               both parties (the "Installation Services") if such services are
+               included in the price of the Equipment or Software or if such
+               services are ordered separately.
+
+               d. Train Monarch staff to enable them engineer, operate and
+               maintain the system. In this regard, training shall be provided
+               by ANI for all facets of the Hardware and Software components of
+               the ANI Products as follows:
+
+               i.   Installation: on-the-job training will be provided to a
+                    limited number of Purchaser's engineers during the provision
+                    of Installation Services by ANI ;
+
+               ii.  Post Installation [Operation and Maintenance]: training will
+                    be provided by ANI at the times and location(s) agreed upon
+                    by the parties at the rates set forth in Exhibit B, the
+                    Price List.
+
+          1.3. ANI will also cooperate with Purchaser to develop Purchaser's
+               post project operations management strategy , which will
+               incorporate manning levels and skills requirements. The parties
+               will develop a draft proposal by 30 September 2001 for review by
+               Purchaser.
+
+          1.4  ANI will make spare parts available for purchase by Purchaser for
+               a period of ten years from the date of Shipment of the
+               corresponding Equipment.
+
+2.       ORDERING PROCEDURE.
+
+          2.1 The following procedures shall be followed with respect to each
+          purchase order issued by Purchaser:
+
+          a. During the Term, Purchaser will inform ANI of its intent to
+          purchase Equipment and Installation Services, and license Software, by
+          sending
+
+
+SUPPLY AGREEMENT - PAGE 2
+
+<PAGE>
+
+          to ANI a written order. This written order (the "Purchase Order") will
+          state the type of Equipment, System, or Installation Services that
+          Purchaser wants to purchase and the Software Purchaser wants to
+          licence as well as the price of the ordered items (the "Contract
+          Price").
+
+          b. Each Purchase Order shall specifically incorporate by reference the
+          terms and conditions of this Agreement, and no additional or different
+          terms and conditions stated in a Purchase Order, any letter, or
+          otherwise shall be binding unless expressly referred and agreed to by
+          both parties in writing. In the event of a conflict between the terms
+          and conditions of this Agreement and of any Purchase Order issued
+          hereunder, or if the Purchase Order does not reference the terms and
+          conditions of this Agreement, the terms and conditions of this
+          Agreement shall prevail.
+
+          2.2 TYPE APPROVAL
+
+          ANI shall provide to the Purchaser a copy of the Nigerian
+          Communications Commission Type Approval Certificate, which allows the
+          products on order to be used in Nigeria.
+
+     3.   EQUIPMENT FOR MONARCH NIGERIA PROJECT
+
+          3.1. ANI has agreed to provide and Monarch has agreed to provide
+          equipment, software and services set forth in the Schedule of
+          Equipment for the initial order for the Monarch Nigeria Project
+          attached to this Agreement as Exhibit B. and incorporated herein as
+          part of the agreement at the price detailed and on the terms and
+          conditions specified in Exhibit B. The parties agree that the terms
+          and conditions specified in Exhibit B. shall govern the supply and
+          purchase of the equipment, software and services listed therein for
+          the initial order.
+
+          3.2. CONTRACT PRICE.
+
+          3.2.1. The Contract Price for each item of Equipment, Installation
+          Services, or Software is as specified in Exhibit B and shall be paid
+          to ANI in US Dollars (USD or US$).
+
+          3.2.2. The Contract Price for Equipment and Software includes:
+
+               a.   The price of the Equipment;
+
+               b.   The fee for the licensing of the Software;
+
+SUPPLY AGREEMENT - PAGE 3
+<PAGE>
+
+               c.   The charges for the warranty of the Equipment and Software
+                    in accordance with Section 7;
+
+               d.   Transportation and insurance charges in accordance with
+                    ANI's Contract Price set forth in Section 3.2.4 and ANI's
+                    delivery obligations set forth in Section 5.1;
+
+               e.   Charges for training Monarch staff in accordance with
+                    Paragraph 1.2(d).i and 1.2(d).ii; and
+
+               3.2.3. The Contract Price for Installation Services includes:
+
+     a.   The price for installation and commissioning the Equipment and
+          Software including the integration of the Equipment and/or Software in
+          accordance with ANI's specification therefor with third party
+          equipment as agreed upon by both parties. ANI shall provide all
+          necessary tools and test equipment required for the installation,
+          testing and commissioning of the Equipment and Software. Commissioning
+          includes successful completion of the Commissioning tests agreed upon
+          by the parties and set forth in Exhibit C.
+
+     b.   ANI's Contract Price for Installation and Commissioning is quoted
+          separately for: (i) infrastructure (i.e. ACs and CTs); and (ii)
+          Subscriber Terminal (STs).
+
+     3.2.4. All prices quoted in Exhibit B are CIP, Lagos Port Nigeria .
+
+4.   PAYMENT TERMS.
+
+     4.1 If a Purchase Order is accepted by ANI, ANI will issue an invoice (the
+     "Invoice") to Purchaser within fifteen (15) business days of ANI's receipt
+     of the written Purchase Order from Purchaser. The Invoice specifically
+     shall identify the Equipment, Software, or Systems so ordered, and the
+     Contract Price of such items. Installation Services shall separately be
+     invoiced within fifteen (15) business days of ANI's receipt of a written
+     Purchase Order for same. The Invoice also shall state the total amount due
+     to ANI from Purchaser.
+
+     4.2 The Purchaser shall open a confirmed irrevocable documentary Letter of
+     Credit in favour of ANI with a bank acceptable to ANI in respect of
+     payments for Equipment and Software listed in Appendix A and such
+     installation services to be provided by ANI under this agreement. The
+     Letter of Credit shall be in an amount equal to the value of the total
+     Contract Price (equipment and installation) and shall have a validity
+     period of 180 Days.
+
+SUPPLY AGREEMENT - PAGE 4
+
+
+<PAGE>
+
+         4.2.1. Draw down on the Letter of Credit shall be as follows:
+
+          a.   Ten [10] percent of the total value of the contract price as down
+               payment for which ANI shall issue a Bank Bond in favour of the
+               Purchaser.
+
+          b.   Fifty [50] percent of the value of the Equipment and Software
+               ordered shall be paid to ANI fifty (50) days after the date of
+               Delivery on the presentation of the following documents
+                    i.   ANI attested Invoice;
+                    ii.  Final Invoice;
+                    iii. Airwaybill of lading
+                    iv.  Packing List.
+                    v.   Clean report of finding.
+
+          c.   The balance of forty [40] percent of the value of the Equipment
+               and Software in the Purchase Order shall be paid one hundred and
+               fifty (150) days after the date of Delivery.
+
+          4.2.2. The balance of the 90% of installation charges shall be paid as
+                 follows:
+
+                 o    50% on the start of installation; and
+
+                 o    40% on completion of installation.
+
+<PAGE>
+
+
+         4.3      In the case of payment by wire (or telegraphic) transfer, the
+                  funds due must be received in ANI's designated bank. The
+                  transfer instructions are:
+
+                  Bank:                   Bank of America Inc.
+
+                  Address:                10th Floor, 1 Financial Plaza,
+                                          Fort Lauderdale,
+                                          FL 33394
+                                          U.S.A.
+
+                  Sort Code:              063100277
+
+                  Account Name:           Airspan Networks Inc.
+
+                  Account No:             0034 4784 5294
+
+                  Further Instructions:   Reference (Purchaser's name)
+                                          P.O. No. _______,
+                                          Payment of Invoice No. _________.
+
+5.   DELIVERY, TITLE, AND RISK OF LOSS.
+
+     5.1. ANI shall make arrangements for the delivery of all Equipment and
+          Software ordered by Purchaser as detailed in Exhibit B, CIP Lagos Port
+          Nigeria as per Incoterms 2000 ("Delivery"); upon which Purchaser will
+          make arrangements for their collection from the Port. ANI agrees to
+          use a reputable freight forwarder which it shall identify to the
+          Purchaser prior to shipment; and the parties shall agree upon the mode
+          of shipment and the carrier.
+
+          In this Agreement, "Incoterms" means the most recent international
+          rules for the interpretation of trade terms published by the
+          International Chamber of Commerce as in force at the date when this
+          Agreement is made. Unless the context otherwise requires, any term or
+          expression which is defined in or given a particular meaning by the
+          provisions of the Incoterms shall have the same meaning in this
+          Agreement, but if there is any conflict between the provisions of the
+          Incoterms and this Agreement, the latter shall prevail.
+
+     5.2. All risk of loss or damage to the Equipment and Software will pass to
+          Purchaser upon Delivery.
+
+SUPPLY AGREEMENT - PAGE 6
+<PAGE>
+
+     5.3. Title to the Equipment shall pass to Purchaser on Delivery.
+
+     5.4. The Software shall at all times remain the exclusive property of ANI.
+
+     5.5. ANI shall not make partial deliveries of Purchaser's orders unless the
+          Purchaser has been advised and has agreed in writing to accept such
+          partial delivery in respect of any particular order, such agreement
+          not to be unreasonable withheld or delayed
+
+     5.6. ANI will use reasonable efforts to meet Purchaser's requested delivery
+          schedules for Equipment and Software, but ANI reserves the right to
+          refuse, cancel, or delay delivery to Purchaser when Purchaser's credit
+          is impaired, when Purchaser is delinquent in payments or fails to meet
+          other credit or financial requirements reasonably established by ANI,
+          and agreed by the parties in writing. Should orders for Equipment and
+          Software exceed ANI's available inventory, ANI will disclose its
+          available inventory and make deliveries on a basis discussed and
+          agreed with the Purchaser. ANI shall not be liable for any indirect,
+          consequential, or special losses or damages (including, but not
+          limited to, loss of income or profit and loss of data) that may be
+          suffered by the Purchaser or by any other person for failure to
+          deliver or for any delay or error in delivery of Equipment or Software
+          for any reason whatsoever.
+
+     5.7. In the event that the actual date of Shipment is later than the agreed
+          upon date of Shipment for an accepted Purchase Order or part thereof,
+          Purchaser may levy a penalty of two percent (2%) per week of the
+          Contract Price of the Equipment and/or Software directly affected by
+          the delay up to a maximum amount of twelve percent (12%) of the
+          Contract Price of such affected Equipment or Software. Such penalty
+          must be invoiced by the Purchaser within thirty (30) days of the
+          actual date of Shipment and ANI will pay such invoices within thirty
+          days of receipt or will set-off such amounts against amounts due and
+          payable to ANI. A two-week grace period will apply before Purchaser
+          may levy a penalty but if the delayed Equipment or Software is not
+          delivered during the grace period, the penalty may be levied from the
+          first day of delay.
+
+     5.8. If Purchaser has any ANI owned Equipment in its possession then:
+
+          a. Purchaser shall ensure that Equipment is clearly marked as the
+          property of ANI, and if asked, shall inform any third parties that the
+          Equipment is the property of ANI;
+
+SUPPLY AGREEMENT - PAGE 7
+<PAGE>
+
+          b. Purchaser shall not purport to create any security, mortgage, lien
+          or pledge over the Equipment, or otherwise deal with the Equipment
+          without ANI's express written consent; and
+
+          c. In the event of any threatened seizure of the Equipment by any
+          third parties, and on termination or expiration of this Agreement, or
+          any contract made pursuant to it, ANI shall have the right to obtain a
+          court order to restrain and /or prevent such seizure; without
+          prejudice to any other remedy which it may have at law in respect of
+          the equipment.
+
+6.   SUBCONTRACTING
+
+     ANI reserves the right to subcontract such portions of: (a) the Equipment
+     manufacture and/or Software development and supply; and/or (b) installation
+     to subcontractors of ANI's choice as ANI deems appropriate.
+
+     The prior written consent of the Purchaser shall be obtained for any sub
+     contract or assignment in accordance with Paragraph 6(b) above, such
+     consent not to be unreasonably withheld or delayed; so however that ANI
+     shall not be relieved of any of its obligations under this agreement by
+     reason of such subcontract or assignment.
+
+7.   WARRANTY.
+
+     7.1 THE WARRANTIES SET FORTH IN SECTIONS 7 AND 8 OF THIS AGREEMENT ARE IN
+     LIEU OF, AND ANI HEREBY DISCLAIMS, ALL OTHER WARRANTIES AND CONDITIONS,
+     WHETHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION THE IMPLIED TERMS
+     OF SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+     7.2 Subject to Sections 7.3 and 7.4, ANI warrants that the Equipment sold
+     to Purchaser under this Agreement shall, under normal use and service, be
+     free from defects in materials and faulty workmanship, and that the
+     Software licensed to Purchaser under this Agreement shall conform in all
+     material respects to ANI's published specifications therefor. The warranty
+     period for any item of Equipment and related Software shall be eighteen
+     (18) months from Delivery (hereinafter, this period of time shall be
+     referred to as the " Warranty Period.")
+
+     7.3 ANI's obligation and Purchaser's sole remedy under this warranty are
+     limited to the replacement or repair, , of the defective Equipment or
+     Software within the Warranty Period. ANI shall have no obligation to remedy
+     any such defect if it can be shown that: (a) the Equipment or
+
+SUPPLY AGREEMENT - PAGE 8
+<PAGE>
+
+     Software was altered, repaired, or reworked by any party other than ANI
+     without ANI's prior written consent; (b) such defects were the result of
+     Purchaser's or a third party's improper storage, mishandling, abuse, or
+     misuse of the Equipment or Software; (c) such defects were the result of
+     Purchaser's or a third party's use of the Equipment or Software in
+     conjunction with equipment electronically or mechanically incompatible or
+     of an inferior quality; or (d) the defect was the result of damage by fire,
+     explosion, power failure, or any act of nature.
+
+     7.4 The Purchaser may require ANI to provide on-site operation and
+     maintenance services on such terms and conditions agreed by the parties.
+
+     7.5  Subject to the provisions of this warranty clause, defective parts or
+          components must be returned by Purchaser to ANI's point of manufacture
+          facility, freight prepaid, within the Warranty Period, and said
+          defective parts will be repaired or replaced by ANI at no charge to
+          Purchaser. In connection with such return by Purchaser, Purchaser
+          shall comply with ANI's (Return Material Authorisation (RMA)
+          procedures.) Risk of loss or damage to Equipment or Software returned
+          to ANI for repair or replacement shall be borne by Purchaser until
+          delivery to ANI. Upon delivery of such Equipment or Software, ANI
+          shall assume the risk of loss or damage until that time that the
+          Equipment or Software being repaired or replaced is returned and
+          delivered to Purchaser. Purchaser will pay the transportation costs
+          for Equipment or Software shipped to ANI for repair or replacement
+          save where the repair or replacement arose out of faulty and defective
+          design in workmanship or manufacture of the equipment or software
+
+     7.6  ANI shall pay all transportation costs associated with returning
+          repaired or replaced Equipment or Software to Purchaser unless there
+          was no fault found (NFF), in which event, Purchaser shall pay such
+          transportation costs along with ANI's then prevailing NFF charge.
+
+     7.7  ANI will charge Purchaser for any maintenance carried out which is not
+     covered by the warranties contained in Section 7.2 or Section 8 at the
+     rates agreed by the parties for such services.
+
+8.   WARRANTY ON REPAIRED MATERIALS.
+
+     ANI warrants that the Equipment or Software returned by ANI following
+     repair or replacement by ANI shall be free from defects in materials and
+     faulty workmanship and that the Software will conform in all material
+     respects to ANI's published specifications therefor for ninety
+
+SUPPLY AGREEMENT - PAGE 9
+<PAGE>
+
+     (90) days from the date of Delivery or until the end of the Warranty
+     Period, whichever is longer.
+
+9.   LIMITATION OF LIABILITY.
+
+     9.1 WITHOUT PREJUDICE TO SECTION 9.3, NEITHER ANI NOR ANY OF ITS OFFICERS,
+     DIRECTORS, EMPLOYEES, AGENTS, REPRESENTATIVES, SHAREHOLDERS, OR AFFILIATES
+     (ANI AND SUCH OTHER PERSONS, THE "ANI PARTIES"), SHALL HAVE ANY LIABILITY
+     TO PURCHASER IN CONTRACT, TORT OR OTHERWISE (INCLUDING WITHOUT LIMITATION
+     NEGLIGENCE OR BREACH OF STATUTORY DUTY) FOR LOSS OF PROFITS, INCOME,
+     REVENUE OR DATA, OR INCIDENTAL, CONSEQUENTIAL, INDIRECT OR PUNITIVE DAMAGES
+     OR LOSSES, ARISING FROM OR IN CONNECTION WITH THIS AGREEMENT, ANY PURCHASE
+     ORDER PLACED PURSUANT TO THIS AGREEMENT OR ANY COLLATERAL CONTRACT, OR FROM
+     OR IN CONNECTION WITH THE EQUIPMENT OR THE SOFTWARE OR THE USE THEREOF OR
+     THE INABILITY TO USE THEM EITHER SEPARATELY OR IN COMBINATION WITH OTHER
+     EQUIPMENT OR SOFTWARE,
+
+     9.2. ANI shall be liable for physical damage to property due to ANI's
+     negligence up to a maximum aggregate amount of two million US Dollars
+     (USD2,000,000).
+
+     9.3 Nothing in this Agreement shall exclude or in any way limit ANI
+     liability for death or personal injury caused by its negligence.
+
+10.  SOFTWARE LICENCE.
+
+     10.1 ANI shall grant Purchaser a nonexclusive, non-transferrable license to
+     use the Software, only with the Equipment purchased under this Agreement.
+     Software licensed under this Agreement is defined as computer programs
+     contained on a magnetic tape, disc, semiconductor device, or other memory,
+     including: (a) hardwired logic instructions which manipulate data in the
+     central processor and which control input-output operations, error
+     diagnostics, and recovery routine; and (b) instruction sequences in
+     machine-readable code which control call processing, peripheral equipment,
+     and administration and maintenance functions as well as associated
+     documentation used to describe, maintain, and use the programs.
+
+     10.2 Any Software provided to Purchaser by ANI shall be treated as the
+     exclusive property of ANI, and Purchaser shall: (1) treat such Software as
+     Confidential Information under Section 12 of this Agreement; (2) utilise
+     such Software or any portions or aspects thereof (including any methods or
+     concepts utilised therein) solely in conjunction with the Equipment;
+     (3)return to ANI all memory media,
+
+SUPPLY AGREEMENT - PAGE 10
+<PAGE>
+
+     documentation and/or other material that has been modified, updated or
+     replaced; (4) not modify, disassemble or decompile such Software, or
+     reverse engineer any portion of the Software or functioning of the ANI
+     Products, or permit others to do so, without ANI's prior written consent;
+     and (5) not reproduce or copy such Software in whole or in part except for
+     backup and archival purposes or as otherwise permitted in writing by ANI.
+     (Information to achieve interoperability of the Software with independently
+     created programs, within the meaning of Article 6 of the Directive on the
+     Legal Protection of Computer Programs shall be provided by ANI to the
+     Purchaser upon the signing of this agreement.
+
+     10.3 The obligations of Purchaser under this Section 10 shall survive the
+     termination of the Agreement for any reason and shall continue even if the
+     Software is no longer used with the Equipment.
+
+11.  DOCUMENTATION.
+
+     For the initial Purchase Order, ANI shall furnish six full sets of
+     documentation, in hard and soft copies to the Purchaser at no extra cost,
+     for the products specified in Exhibit A including cabling diagrams to be
+     used for the operation and maintenance of the Equipment and Software.
+     Thereafter, for documentation updates and further Purchase Orders ANI will
+     provide a single copy on CD-ROM and in hard copy. All such documentation is
+     to be treated in accordance with the terms of Section 12. Updates to the
+     documentation shall be at no charge during the Warranty Period.
+
+12.  CONFIDENTIAL INFORMATION.
+
+     12.1 The Confidentiality Agreement, dated 22 August 2001 between Airspan
+     Communications Ltd. and the Purchaser is incorporated herein by reference.
+     The obligations of Sections 10 and 12 will survive termination or
+     cancellation of this Agreement.
+
+13.  EXCUSABLE DELAY
+
+     None of the parties shall suffer any liability for non-performance,
+     defective performance, or late performance under this Agreement due to
+     causes beyond its control and without its fault or negligence such as, but
+     not limited to, acts of God, war (including civil war), civil unrest, acts
+     of government, fire, floods, explosions, the elements, epidemics,
+     quarantine, restrictions, strikes, lock-outs, plant shutdown. In the event
+     of excusable delay as defined in the preceding sentence, then the affected
+     party, upon giving prompt written notice to the other shall be excused from
+     such performance on a day-to-day basis to the
+
+SUPPLY AGREEMENT - PAGE 11
+<PAGE>
+
+     extent of such prevention, restriction, or interference (and the other
+     party shall likewise be excused from performance of its obligations on a
+     day-to-day basis to the extent that the party's obligations relate to the
+     performance so prevented, restricted, or interfered with), provided that
+     the party in default shall use its best endeavours to avoid or remove such
+     causes of non-performance and both parties shall proceed to perform with
+     dispatch whenever such causes are removed or cease to exist.
+
+     Each party reserves the right to cancel or otherwise terminate this
+     Agreement if the other's performance is delayed for a period of more than
+     ninety (90) days.
+
+14.  GENERAL INDEMNITY.
+
+     14.1 ANI agrees to indemnify and hold Purchaser harmless against all costs,
+     expenses, liabilities, damages, losses, claims, or proceedings incurred by
+     Purchaser in an action by a third party alleging that Purchaser's use of
+     the Equipment or the Software, separately or in combination, as a whole or
+     in part, constitutes an infringement of their intellectual property rights
+     wherever in the world enforceable, including applications to register and
+     rights to apply for any such rights ("Intellectual Property Rights"). ANI
+     agrees to defend Purchaser against any such claims and to pay all
+     litigation costs, reasonable lawyer's fees, settlement payments, and any
+     damages awarded or resulting from any such claim.
+
+     14.2 Purchaser shall promptly advise ANI of any such suit, claim, or
+     proceeding and shall co-operate with ANI in the defence or settlement
+     thereof. ANI shall have sole control of the defence of any action involving
+     such a claim and of all negotiations for its settlement.
+
+     14.3 In the event that an injunction is obtained against Purchaser's use of
+     the Equipment and/or the Software, in whole or in part, as a result of any
+     such claim under Section 14.1, ANI shall use its best efforts to either:
+     (a) procure for Purchaser the right to continue using the portions of the
+     Equipment or the Software enjoined from use; or (b) replace or modify the
+     same with functionally equivalent or better Equipment and/or Software so
+     that Purchaser's use is not subject to any such injunction. In the event
+     that ANI cannot perform the remedies set forth in Sections 14.3(a) or
+     14.3(b), then Purchaser shall have the right to return such Equipment and
+     the Software to ANI. In the event of such return, ANI shall refund the full
+     value of the Equipment and the licence to use the Software within fifteen
+     (15) days of the receipt by ANI of the Equipment and the Software.
+
+SUPPLY AGREEMENT - PAGE 12
+<PAGE>
+
+     14.4 This indemnity shall not apply to claims arising in respect of the use
+     of the Equipment or Software supplied by ANI or manufactured by its
+     suppliers in accordance with any design or any special instruction
+     furnished by Purchaser, or which Purchaser uses in a manner or for a
+     purpose not contemplated by this Agreement.
+
+     14.5 The provisions of this Section 14 set forth the entire obligation of
+     ANI with respect to any claim of infringement of Intellectual Property
+     Rights.
+
+15.  REMEDIES AND TERMINATION.
+
+     15.1 Either party shall have the right, prior to payment to ANI of the
+     Invoice Total, to suspend its performance under this Agreement by written
+     notice to the other Party if that party shall: (a) become insolvent; (b)
+     have a receiver or manager appointed over the whole or any part of its
+     assets or business; (c) make any composition or arrangement with its
+     creditors; (d) take or suffer any similar action in consequence of debt, or
+     an order or resolution is made for its dissolution or liquidation (other
+     than for the purpose of amalgamation or reconstruction). .
+
+     15.2 In the event of any material breach of this Agreement by either party
+     which shall continue for thirty (30) or more days after written notice of
+     such breach (including a reasonably detailed statement of the nature of
+     such breach) shall have been given to the breaching party by the aggrieved
+     party, the aggrieved party shall be entitled at its option: (a) to avail
+     itself of any and all remedies available at law or equity; or (b) to
+     terminate this Agreement; or (c) if the aggrieved party is ANI, to suspend
+     performance of all of its obligations under the Agreement for as long as
+     the breach continues uncorrected or (d) if the aggrieved party is the
+     Purchaser, to suspend payment of any monies due and payable to ANI until
+     the breach is corrected.
+
+     15.3 In the event (a) either party fails timely to discharge its
+     obligations under this Agreement and (b) the aggrieved party employs a
+     lawyer in order to collect any amount due and unpaid or to enforce any
+     right or remedy hereunder, then the defaulting party agrees that, in
+     addition to all amounts due hereunder, it shall pay all costs of collection
+     or enforcement including court costs and reasonable Lawyer's fees.
+
+16.      PURCHASER'S RESPONSIBILITIES.
+
+     To the extent that Purchaser requests Installation Services, and ANI
+     accepts the Purchase Order for such Installation Services, then:
+
+SUPPLY AGREEMENT - PAGE 13
+<PAGE>
+
+     a.   Purchaser shall ensure that all ANI-designated personnel have access
+          to Purchaser's premises and the Equipment during the times necessary
+          to install, maintain, and service the Equipment. ANI's personnel shall
+          comply with site and security regulations as specified by Purchaser.
+
+     b.   Purchaser shall provide reasonable working space and facilities
+          including cooling, light, ventilation, electric current and outlets
+          for use by ANI's designated personnel. Adequate storage space for
+          equipment and materials shall be made available by Purchaser as
+          required. All such facilities shall be provided at no charge to ANI.
+
+     c.   Any information which ANI reasonably requests from Purchaser and which
+          is required for ANI to properly install or maintain the Equipment
+          shall be provided by Purchaser in a timely fashion and form reasonably
+          specified by ANI.
+
+     d.   Purchaser shall not perform, or attempt to perform, or cause to be
+          performed any maintenance or repair to the Equipment during the term
+          of this Agreement, other than pursuant to this Agreement, without
+          ANI's prior, written consent.
+
+17.  ANI's RESPONSIBILITIES
+
+     To the extent that Purchaser requests Installation/or and Maintenance
+     Services and/or training services, and ANI accepts the Purchase Order for
+     such Services, then:
+
+     a.   ANI shall provide all necessary tools and test equipment required for
+          the installation, testing and commissioning of the Equipment and
+          Software.
+
+     b.   ANI shall work in conjunction with other contractors of Monarch for
+          the interfacing and integration of ANI equipment and Software with
+          third party software.
+
+     c.   ANI shall ensure that Monarch Staff are adequately trained in all
+          stages of the equipment installation, integration, testing,
+          commissioning, operations and maintenance stages.
+
+     d.   ANI shall provide Acceptance Test Procedures, which shall be agreeable
+          to both parties.
+
+18.  NOTICES.
+
+SUPPLY AGREEMENT - PAGE 14
+<PAGE>
+
+     All notices, requests, consents and other communications hereunder must be
+     in writing and will be deemed to have been properly given when actually
+     received by the party to whom sent, at the following addresses:
+
+     If to ANI:                              If to PURCHASER:
+
+     FAO:  Chief Financial Officer           Sade Adetiba and V. K. Fashola
+     Airspan Networks Inc.                   Monarch Communications Ltd.
+     13450  West  Sunrise  Boulevard,        Orbital House,
+     Suite  430,                             No. 180 Awolowo Road,
+     Sunrise,                                Ikoyi,
+     Florida, 33323,                         Lagos
+     U.S.A.                                  Nigeria
+
+     With a copy to:
+
+     Contracts Manager
+     Airspan Communications Ltd.
+     Cambridge House,
+     Oxford Road,
+     Uxbridge, Middlesex
+     UB8  1UN
+     England
+
+19.  HARDWARE AND SOFTWARE VERIFICATION
+
+     19.1 If Installation Services are ordered, ANI shall, upon completion of
+     the installation, test the Equipment. Purchaser may witness the
+     installation and test performance.
+
+     19.2 When the Equipment and Software have satisfactorily completed all of
+     ANI's tests, ANI shall provide Purchaser with a "Hardware and Software
+     Verification" certificate. The written acceptance of the certificate by
+     Purchaser will be deemed, for purposes of this Agreement, as "Completion of
+     Installation".
+
+     19.3 The tests that the ANI Products must successfully complete as part of
+     the commissioning process are set forth in Exhibit C hereto. Such
+     commissioning tests may be amended from time to time by agreement of both
+     parties in writing.
+
+20.  PUBLICITY.
+
+SUPPLY AGREEMENT - PAGE 15
+<PAGE>
+
+
+         Both parties agree not to publish any press releases or otherwise
+         publicise the existence, or any of the terms, of this Agreement without
+         the prior written consent of the other party.
+
+21.      MISCELLANEOUS.
+
+         21.1 This Agreement shall be construed in accordance with and governed
+         by the laws of England, without regard to its conflicts of law rules.
+
+         21.2 (a) Any dispute, controversy or claim between the parties arising
+         out of, or in connection with, this Agreement, or the breach,
+         termination or validity thereof will be resolved by mutual agreement of
+         the parties. If any dispute, controversy, or claim arising out of or
+         relating to this Agreement, or the breach, termination, or validity
+         thereof is unable to be resolved by mutual agreement of the parties,
+         then any such dispute shall be finally resolved by arbitration under
+         the Rules of the Chartered Institute of Arbitrators, England, as then
+         in force, by one or more arbitrators appointed in accordance with said
+         Rules. The place of arbitration shall be London, England. The language
+         used during arbitration shall be the English language. The parties
+         agree that the award of the arbitrator(s) shall, except as provided
+         below, be the sole and exclusive remedy between them regarding the
+         claims, counterclaims, issues or accounting presented or pled to the
+         arbitrator(s) and that the award may be enforced in other jurisdiction
+         in any manner provided by law. The arbitrator(s) shall be entitled to
+         award to the substantially prevailing party its attorneys fees and
+         costs incurred in connection with the arbitration proceedings and
+         preparation for the same.
+
+         (b) Notwithstanding the provisions of item (a) above, the parties
+         hereto shall be entitled to seek injunctive or similar relief from a
+         court of competent jurisdiction with respect to any actual, impending
+         or threatened breach of confidentiality provisions and other provisions
+         of this Agreement, including provisions intended to protect
+         intellectual property rights. In any court proceedings contemplated by
+         this item (b), the substantially prevailing party shall be entitled to
+         recover from the other party its attorneys fees and costs.
+
+         21.3 The delay or failure on the part of any of the parties to enforce
+         at any time any of the provisions of this Agreement or any right with
+         respect thereto, or to exercise any option herein provided shall in no
+         way be construed to be a waiver of such provision, rights, or options,
+         or in any way to affect its right later to enforce them. The exercise
+         by any of the parties of its rights hereunder or of any options
+         hereunder under the terms or covenants herein shall not preclude or
+         prejudice the party
+
+SUPPLY AGREEMENT - PAGE 16
+<PAGE>
+
+         from thereafter exercising the same or any right which it may have
+         under this Agreement, irrespective of any previous action or
+         proceeding taken by the party hereunder.
+
+         21.4 This Agreement shall be binding upon and inure to the benefit of
+         the successors, legal representatives and assigns of both parties.
+
+         21.5 This Agreement and any Exhibit hereto shall be modified only by an
+         instrument in writing that is signed by duly authorised representatives
+         of the parties.
+
+         21.6 The provisions of this Agreement are severable, and if any
+         provision is held invalid or unenforceable in whole or in part in any
+         jurisdiction, then such invalidity or unenforceability will affect only
+         such provision or part thereof in such jurisdiction, and will not in
+         any manner affect the provision in any other jurisdiction, or any other
+         provision in this Agreement in any other jurisdiction. To the extent
+         legally permissible, an arrangement that reflects the original intent
+         of the parties will be substituted for such invalid or unenforceable
+         provision.
+
+         21.7 All obligations that by their nature survive the expiration,
+         cancellation or termination of this Agreement shall remain in effect
+         after its expiration, cancellation or termination.
+
+         21.8 None of the parties shall be entitled to assign this Agreement or
+         its rights under it without the prior written consent of the other
+         party, and such consent shall not to be unreasonably withheld or
+         delayed.
+
+         21.9 In the performance of its obligations under this Agreement, the
+         parties shall at all times strictly comply with all export laws,
+         regulations, and orders of the United Kingdom and the United States of
+         America. Purchaser specifically acknowledges that Equipment, Software,
+         or technology obtained from ANI pursuant to this Agreement shall not be
+         exported, re-exported, transhipped, disclosed, diverted, or
+         transferred, directly or indirectly, contrary to U.K. and U.S. laws,
+         orders or regulations, which ANI shall provide to the purchaser on
+         request.
+
+         21.10 TAXES
+
+         It is hereby agreed that each party shall be responsible for such
+         taxes, levies and other charges issued in their respective countries in
+         respect of this agreement.
+
+22.      This document constitutes the entire agreement between the parties with
+         respect to the subject matter hereof, and supersedes all previous
+         communications, representations, understandings and agreements,
+
+SUPPLY AGREEMENT - PAGE 17
+<PAGE>
+
+         either oral or written, between the parties or any official or
+         representative thereof.
+
+         IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be
+         duly executed as of the Effective Date, such parties acting by their
+         officers, being thereunto duly authorised.
+
+
+
+
+AIRSPAN NETWORKS INC.                     MONARCH COMMUNICATIONS LTD.
+
+By:_____________________________              By:__________________________
+
+Name:___________________________              Name:________________________
+
+Title:__________________________              Title:_______________________
+
+
+
+
+
+
+SUPPLY AGREEMENT - PAGE 18
+<PAGE>
+
+
+                                    EXHIBIT A
+
+                                 "ANI PRODUCTS"
+
+AS4000 AND AS8100 PRODUCTS. PURCHASER MAY ORDER THE FOLLOWING ITEMS:
+
+<TABLE>
+<CAPTION>
+--------------------------------------------------------------------------------------------------------------------
+<S>    <C>
+CATALOGUE NUMBER AND ITEM DESCRIPTION
+--------------------------------------------------------------------------------------------------------------------
+SUBSCRIBER TERMINAL TYPE
+
+--------------------------------------------------------------------------------------------------------------------
+801-6319  : ST-R1,   1-line 64k or 32k POTS (Ant, SIU, internal batt) options: Type 6 Eur
+--------------------------------------------------------------------------------------------------------------------
+801-6329  : ST-R2,   2-line 64k or 32k POTS (Ant, SIU, internal batt) options: Type 6 Eur
+--------------------------------------------------------------------------------------------------------------------
+803-6349  : ST-N4,   4-Line 64k or 32k POTS (Ant, SIU) options: Type 6 Eur
+--------------------------------------------------------------------------------------------------------------------
+804-6319  : ST-B1,   (ISDN 2B+D) (Ant, SIU) options: Type 6 Eur
+--------------------------------------------------------------------------------------------------------------------
+811-6329  : ST-P1V2, Ethernet+2-Line 64 & 32k POTS (Ant, SIU) options: Type 6 Eur
+--------------------------------------------------------------------------------------------------------------------
+ST ANCILLARIES AND SPARES
+--------------------------------------------------------------------------------------------------------------------
+890-0009 : ST antenna drop cable kit (300m standard cable)
+--------------------------------------------------------------------------------------------------------------------
+605-0010-257 : ST Installation toolkit
+--------------------------------------------------------------------------------------------------------------------
+CT AND AC RACK MECHANICS
+--------------------------------------------------------------------------------------------------------------------
+700-0002 : CT Rack with RF Combiner shelf + 2 AS4000 Modem shelves (E1)
+--------------------------------------------------------------------------------------------------------------------
+703-0002 : Rack with 2 AC shelves
+--------------------------------------------------------------------------------------------------------------------
+CT ANTENNA SYSTEMS
+--------------------------------------------------------------------------------------------------------------------
+710-6941 : Directional Antenna, 1 feeder port,  90 Deg 3.4-3.7 GHz
+--------------------------------------------------------------------------------------------------------------------
+CT ANTENNA FEEDER
+--------------------------------------------------------------------------------------------------------------------
+712-0050 : CT Antenna Feeder 7/8 inch coaxial  (1x50m)+ Installation kit
+--------------------------------------------------------------------------------------------------------------------
+CT RF PLUG IN SETS
+--------------------------------------------------------------------------------------------------------------------
+720-6300 : CT RF full plug in set 3.4-3.6 GHz Plan 1 (2PA+MON+3PSU+2DIPLNA)
+--------------------------------------------------------------------------------------------------------------------
+CT AS4000 DA MODEM SHELF CARD SETS AND AS4020 MODEM SHELVES
+--------------------------------------------------------------------------------------------------------------------
+751-6300 : DA Modem shelf full card set (E1) (3.5MHz) 3.4-3.6 GHz Plan 1
+(RF+AU+TU+SC+2PSU+5Modems)
+--------------------------------------------------------------------------------------------------------------------
+AC SHELF PLUG-INS
+--------------------------------------------------------------------------------------------------------------------
+780-0000 : AC Basic Shelf card set (Generic E1) (2PSU+SC+CTU+XTU)
+--------------------------------------------------------------------------------------------------------------------
+303-1002-900 : E1 TU card
+--------------------------------------------------------------------------------------------------------------------
+303-1009-900 : AC CU card
+--------------------------------------------------------------------------------------------------------------------
+605-0010-235 : AC PTU card
+--------------------------------------------------------------------------------------------------------------------
+SOFTWARE AND NMS
+--------------------------------------------------------------------------------------------------------------------
+870-1000 : AS8100/8200 Sitespan Desktop Hardware Platform (Windows NT PC +
+Serial port expansion.)
+--------------------------------------------------------------------------------------------------------------------
+870-2100 : AS8100 Sitespan Client / Server software (AS4000 support) and RTU license
+--------------------------------------------------------------------------------------------------------------------
+870-2300 : AS8100/8200 Sitespan Shelf License
+--------------------------------------------------------------------------------------------------------------------
+870-2900 : Annual Maintenance/Upgrade charge for Sitespan software
+--------------------------------------------------------------------------------------------------------------------
+871-xxxx : V5.x License for 1000 subscribers
+--------------------------------------------------------------------------------------------------------------------
+872-1000 : STMON for Windows 98 and NT
+--------------------------------------------------------------------------------------------------------------------
+DOCUMENTATION
+--------------------------------------------------------------------------------------------------------------------
+880-2000 : AS4000 DA Documentation (CD-ROM)
+--------------------------------------------------------------------------------------------------------------------
+880-3000 : AS8100/8200 (Sitespan) Documentation (CD-ROM)
+--------------------------------------------------------------------------------------------------------------------
+SERVICES (NB. ESTIMATE ONLY. TRAVEL AND EXPENSES NOT INCLUDED)
+--------------------------------------------------------------------------------------------------------------------
+885-2000 : Installation services (per day, excl T&E)
+--------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+
+SUPPLY AGREEMENT - PAGE 19
+<PAGE>
+
+
+                                    EXHIBIT B
+
+                                  "PRICE LIST"
+<TABLE>
+<CAPTION>
+---------------------------------------------------------------- -----------------------------------------------------------
+SCHEDULE OF EQUIPMENT FOR MONARCH NIGERIA PROJECT                               Quantities
+                                                                 -----------------------------------------------------------
+                                                                              Infrastructure                     Subscribers
+--------------------------------------------------------- -----------------------------------------------------  -----------
+CATEGORIES NUMBER AND ITEM DESCRIPTION                    Price  Agro Dlyan  Breja  Apapa  Agege  Amuwo-Odofia    Units
+--------------------------------------------------------- ------------------------------------------------------------------
+<S>                                                         <C>      <C>      <C>    <C>    <C>       <C>             <C>
+    SUBSCRIBER TERMINAL TYPE
+
+    801-6319 : ST-81,  1-line 84k or 32k POTS (Ant, SIU,    $*                                             *
+    internal batt) options:  Type 6 Eur
+    801-6329 : ST-R2,  2-line 64k or 32k POTS (Ant, SIU,    $*                                             *
+    803-6349 : ST-N4,  4-Line 64k or 32k POTS (Ant, SIU)    $*                                             *
+    804-6319 : ST-B1,  (ISDN 28+D) (Ant,  Siu)  options:    $I
+    811-6329 :  ST-P1V2,  Ethernet+2-Line  64 & 32k POTS    $*                                             *
+    (Ant, SIU) options:  Type 6 Eur
+---------------------------------------------------------
+      TOTAL SUBSCRIBER TERMINALS
+--------------------------------------------------------- ------
+    ST ANCILLARIES AND SPARES
+
+    800-0009 : ST antenna drop cable kit (300m  standard    $*                                             *
+    cable)
+    805-0010-257 : ST installation toolkit                  $*
+      TOTAL ST ANCILLARIES AND SPARES
+--------------------------------------------------------- ------
+CT AND AC RACK MECHANICS
+
+    700-0002  : CT  Rack  with  RF  Combiner  shelf  + 2    $*   2           *     *      *      *
+    AS4000 Modem shelves (E1)
+    703-0002 : Rack with 2 AC shelves                       $*   2
+      TOTAL CT AND AC RACK MECHANICS
+--------------------------------------------------------- ------
+CT ANTENNA SYSTEMS
+
+    710-6941 :  Directional  Antenna,  1 feeder port, 90    $*   *           *     *      *      *
+    Deg 3.4-3.7 GHz
+
+    TOTAL CT ANTENNA SYSTEMS
+--------------------------------------------------------- ------
+CT ANTENNA FEEDER
+
+    712-0050  :  CT  Antenna  Feeder  7/8  inch  coaxial    $*   *           *     *      *      *
+    (1x50m) + installation kit
+      TOTAL CT ANTENNA FEEDER
+--------------------------------------------------------- ------
+CT RF PLUG IN SETS
+
+    720-8300 : CT RF full plug in set  3.4-3.8  GHz Plan    $*   *           *     *      *      *
+    1 (2PA+MON+3PSU+2D1PLNA)
+      TOTAL CT RF PLUG IN SETS
+--------------------------------------------------------- ------
+CT AS4000 DA MODEM  SHELF  CARD  SETS AND  AS4020  MODEM
+
+SHELVES
+
+    751-6300 : DA Modem shelf full card set (E1)            $*   *           *     *      *      *
+    (3.5MHz) 3.4-3.6 GHz Plan 1
+    (RF+AU+TU+SC+2PSU+5Modems)
+
+      TOTAL CT AS4000 DA MODEM SHELF CARD SETS AND
+
+      AS4020 MODEM SHELVES
+--------------------------------------------------------- ------
+AC SHELF PLUG-INS
+
+    780-0000 : Ac Basic Shelf card set (Generic E1)         $*        *
+    (2PSU+SC+CTU+XTU)
+
+    303-1002-900 : E1 TU card                               $*        *
+    303-1009-900 : AC CU card                               $*        *
+    805-0010-235 : AC PTU card                              $*        *
+      TOTAL AC SHELF PLUG-INS
+--------------------------------------------------------- ------
+SOFTWARE AND NMS
+
+    870-1000 : A58100/8200 Sitespan Desktop Hardware        $*        *
+    Platform (Windows NT PC + Serial port expansion)
+    870-2100 : A58100 Sitespan Client / Server software     $*        *
+    870-2300 : A58100/8200 Sitespan Shelf License           $*        *
+    870-2900 : Annual Maintenance/Upgrade charge for        $*        *
+    871-xxxx : V5.x License for 1000 subscribers            $*        *
+    872-1000 : STMON for Windows 98 and NT                  $*        *
+      TOTAL SOFTWARE AND NMS
+--------------------------------------------------------- ------
+DOCUMENTATION
+
+    580-2000 : AS4000 DA Documentation (CD-ROM)             $*        *
+    580-3000 : AS8100/8200 (Sitespan) Documentation         $*        *
+      TOTAL DOCUMENTATION
+--------------------------------------------------------- ------
+SERVICES (N9, ESTIMATE ONLY.  TRAVEL AND EXPENSES NOT
+INCLUDED)
+    885-2000 : Installation (per day, excl T&E)             $*        *
+    885-1000 : Site Survey (per day, excl T&E)              $*
+    885-3000 : Radio Planning (per day, excl T&E)           $*
+    885-4000 : Airspan Training (per day at Oxbridge        $*
+    885-4001 : Airpsan Training (per day on Customer        $*
+    885-4002 : Airspan Training (per day per additional     $*
+    885-5000 : Project Management (per manager per day,     $*
+      TOTAL SERVICES
+--------------------------------------------------------- ------ ---- ------ ----- ------ ------ --------- -------
+                                                  TOTALS              $*     $*    $*     $*     $*        $*
+--------------------------------------------------------- ------ ---- ------ ----- ------ ------ --------- -------
+</TABLE>
+
+<TABLE>
+<CAPTION>
+<S>                                                                          <C>    <C>
+----------------------------------------------------                       ------- --------------------
+SUMMARY                                                                            DISCOUNT SCHEDULE
+----------------------------------------------------                       ------- --------------------
+Infrastructure Total                                                               >10,000 Sts per yr
+$*                                                                         ------- --------------------
+                                                                                   Subscribers
+----------------------------------------------------                       ------- --------------------
+-11.00%                                                                    R1                       *
+$*                                                                         R2                       *
+----------------------------------------------------
+Subscriber Total                                                           N4                       *
+$*                                                                         B1                       *
+----------------------------------------------------
+Grand Total                                                                P1V2                     *
+$*                                                                         ------- --------------------
+----------------------------------------------------                               INFRASTRUCTURE
+                                                                           ------- --------------------
+Quote ref 2001-33 R11a                                                                              *
+14/09/2001                                                                 ------- --------------------
+</TABLE>
+
+1.   All prices are quoted CIP Lagos (as per incoterms 2000)
+2.   Payment is by LOC or other similar means
+3.   Please refer to the quote reference number in any communications with
+     Airspan.
+4.   Payment 10% with order, 50% 50 days after delivery, 40% 140 days after
+     delivery.
+5.   Initial Firm Order placed by 15/9/01 for 5 infrastructure sites and 1,700
+     STs.
+6.   Delivery of infrastructure and 500 STs to freight forwarders by end October
+     2001, delivery in country by end November 2001. Balance of STs to be
+     delivered by end December 2001.
+7.   ACL will provide two site visits in Lagos during the first year FOC.
+8.   ACL will provide S70-2300 and 871-xxxx FOC for later stages of
+     infrastructure.
+9.   ACL will provide 20 working days of ISTAS time for ST installation and
+     training FOC
+--------------------------------------------------------------------------------
+
+[*] Certain information on this page has been omitted and filed separately with
+the Securities and Exchange Commission. Confidential treatment has been
+requested with respect to the omitted portions.
+
+
+
+In event of a further order being placed for delivery before 15th September
+2002 of 6.000 STs or greater, then the unit price reduces for the whole volume
+to that shown in the >10,000 STs column. A purchase credit will be applied to
+this additional order such that the aggregate unit price of the total quantity
+delivered during the year will equal the prices in the >10,000 STs column.
+
+SUPPLY AGREEMENT - PAGE 20
+
+</TEXT>
+</DOCUMENT>

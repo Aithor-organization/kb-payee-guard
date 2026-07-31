@@ -1,0 +1,1402 @@
+<DOCUMENT>
+<TYPE>EX-10.48
+<SEQUENCE>5
+<FILENAME>exh10-48_11775.txt
+<DESCRIPTION>EXCLUSIVE DISTRIBUTION AGREEMENT
+<TEXT>
+                                                                   EXHIBIT 10.48
+                                                                   -------------
+
+                        EXCLUSIVE DISTRIBUTION AGREEMENT
+                        --------------------------------
+
+         This Exclusive Distribution Agreement ("Agreement") is made as of
+October 1, 2002 (the "Effective Date"), between, VIVUS, Inc., a Delaware
+corporation, having its principal place of business at 745 Airport Road,
+Lakewood, NJ 08701 ("Client"), and CORD Logistics, Inc., an Ohio corporation,
+having its principal place of business at 15 Ingram Blvd LaVergne, TN 37086
+("CORD").
+
+         A.   Client is, among other things, in the business of developing and
+marketing pharmaceutical products in the United States, the District of Columbia
+and Puerto Rico (the "Territory").
+
+         B.   CORD is, among other things, in the business of distributing
+pharmaceutical products to wholesalers, specialty distributors, physicians,
+clinics, hospitals, pharmacies, and other health care providers in the
+Territory, and of providing Information Systems and other services that support
+its customers' use of its distribution capabilities.
+
+         C.   Client desires to engage CORD as its exclusive distribution agent
+for commercial sales of MUSE in all formulations, and such other pharmaceutical
+products agreed to by the parties (collectively, the "Product") in the Territory
+and to perform certain other services described in this Agreement, all upon the
+terms and conditions set forth in this Agreement.
+
+         THEREFORE, in consideration of the mutual conditions and covenants set
+forth herein, CORD and Client (collectively referred to as "Party" or "Parties")
+agree as follows:
+
+         1.   APPOINTMENT/AUTHORIZATION.
+              --------------------------
+
+         1.1  Upon the terms and conditions set forth in this Agreement, Client
+appoints CORD as its exclusive distribution agent of Product in the Territory to
+Client's customers, including, but not limited to, wholesalers, specialty
+distributors, physicians, clinics, hospitals, pharmacies and other health care
+providers in the Territory (collectively, "Customers").
+
+         1.2  Subject to the terms and conditions set forth in this Agreement,
+CORD accepts the appointment to represent Client as its authorized exclusive
+distribution agent of Product to Customers in the Territory.
+
+         2.   SERVICES.
+              ---------
+
+         2.1  CORD shall provide the services set forth in the Operating
+Guidelines, which include, without limitation, storage, distribution, returns,
+customer support, financial support, EDI and system access support ("Services").
+A copy of the Operating Guidelines is attached hereto as Exhibit A and
+incorporated by reference.
+
+         2.2  The Operating Guidelines may be amended from time to time upon the
+mutual written agreement of the Parties; provided, however, that any change,
+modification or amendment to the Operating Guidelines may result in an increase
+in the fees charged by CORD in Section 5.
+
+         2.3  CORD's services shall comply with the Operating Guidelines,
+provided Client's shipments of Product to CORD are within twenty-five percent
+(25%) of its Forecast (as hereinafter defined).
+<PAGE>
+         2.4  All Product Returns shall be processed and handled by CORD in
+accordance with the Operating Guidelines; and, any customization or additional
+return services requested by Client shall be performed at an additional fee as
+agreed by the Parties.
+
+         2.5  Client is solely responsible for all Product recalls. In the event
+Product is subject to recall, or Client, on its own initiative, recalls any
+Product, CORD shall provide assistance to Client as set forth in the Operating
+Guidelines, provided that Client shall pay to CORD an amount equal to CORD's
+actual costs incurred with any such recall services. Such cost shall be in
+addition to the Service Fees described in Section 5 below.
+
+         3.   PRODUCT SUPPLY/CLIENT RESPONSIBILITIES.
+              ---------------------------------------
+
+         3.1  Client shall deliver Product to CORD at CORD's facility located at
+15 Ingram Boulevard, Suite 100, LaVergne, TN 37086, or such other distribution
+facility as may be mutually agreed to in writing by Client and CORD
+("Facility").
+
+         3.2  Client shall be responsible for delivery of Product to the
+Facility, including all costs, expenses and risk of loss associated with such
+delivery. Title to Product shall remain with Client at all times, even when
+Product is stored or warehoused at the Facility. Client shall at all times
+insure the Product for damage, loss, destruction, theft or any such other
+property damage ("Loss") as further set forth in Section 15 below. Except for
+Loss resulting solely from the gross negligence or willful misconduct of CORD,
+Client shall bear all risk of loss or damage with respect to the Product stored
+or warehoused at the Facility.
+
+         3.3  Client shall provide CORD with a forecast of the volume of Product
+to be handled by CORD under this Agreement, not less often than semi-annually
+("Forecast"). Upon execution of this Agreement, Client shall deliver to CORD a
+customer list, which sets forth the Product prices (the "Customer Price List").
+Client shall notify CORD of any change in the Customer Price List not less than
+seventy-two (72) hours prior to the effective date of any such change. CORD
+shall use commercially reasonably efforts to implement such price change in
+accordance with Client's instruction.
+
+         3.4  CORD shall visually inspect each shipment of Product for external
+damage or loss in transit and notify Client of any such damage or loss within a
+commercially reasonable period of time following discovery.
+
+         4.   INFORMATION SYSTEM ACCESS.
+              --------------------------
+
+         4.1  CORD shall provide Client access to an Operating System Base,
+which consists of the software used by CORD to support the services provided to
+Client, including the server and other components needed to execute the software
+and certain support services associated therewith, as further set forth in the
+Operating Guidelines (collectively, the "System"), upon the terms and conditions
+set forth in the System Access Agreement. A copy of the System Access Agreement
+is attached as Exhibit C and incorporated herein by reference. The software
+releases are (i) EliteSeries 6.1.2, as modified by CORD, supplied by Tecsys,
+Inc., a Montreal, Quebec, Canadian company, and any upgrades, maintenance
+releases or modifications implemented by CORD to support distribution services
+provided by CORD; (ii) BACCS 3.0 as modified by CORD and any upgrades
+implemented by CORD to support financial services provided by CORD; and (iii)
+Impromptu 6.0, supplied by Cognos Inc., a Canadian company, and any upgrades,
+maintenance releases or modifications implemented by CORD to support reporting
+services provided by CORD.
+
+                                        2
+<PAGE>
+         4.2  The System shall be made available to Client at the fees set forth
+in the Fee Schedule, except that any custom enhancements requested by Client
+shall be billed separately based on an hourly rate set forth in the Fee Schedule
+(as defined in Section 5).
+
+         4.3  In addition to the terms set forth in the System Access Agreement,
+Client shall maintain (i) a local area network sufficient to support Client's
+terminals and personal computers that have access to the System, all such
+personal computers shall meet the minimum specifications necessary to support
+software needed to access the system; (ii) a centralized server sufficient for
+data storage, if data export requirements exist; and (iii) a connection to the
+internet sufficient to support system access. Client shall also assign
+knowledgeable and qualified employees or representatives to facilitate access to
+the System.
+
+         5.   FEES.
+              -----
+
+         5.1  As compensation for the Services, Client shall pay to CORD the
+fees (the "Fees") set forth on Exhibit B (the "Fee Schedule").
+
+         5.2  CORD shall issue an invoice to Client for the Services rendered
+under this Agreement or for any other amounts due on a monthly basis. Payment is
+due within twenty-eight (28) days of the invoice date. If the Invoice is not
+paid within such twenty-eight (28) day period, a service charge on the unpaid
+amount calculated at the rate of 1.5% per month (or the maximum rate permitted
+by law if such rate is less than 1.5% per month) shall be imposed until such
+amount is paid in full.
+
+         5.3  The Fees shall be held firm for the first contract year.
+Thereafter, CORD shall adjust the price not more often than once per contract
+year by the greater of (i) the increase in the Producer Price Index - All
+Commodities published by the United States Department of Labor, Bureau of
+Statistics, as amended from time to time, or (ii)         [*]        . For
+purposes of sub-Section (i), the base point shall be the index level on the
+first day of the contract year.
+
+         5.4  Notwithstanding the terms set forth above in Section 5.3, if CORD
+can reasonably demonstrate that the costs for providing the Services have
+materially increased, or are likely to materially increase in the coming year
+due to the adoption of any applicable law or regulation (or any material change
+in the interpretation or administration thereof), or due to unforeseen
+circumstances beyond CORD's reasonable control, then upon notice from CORD, the
+Parties agree to meet in good faith and negotiate a mutually acceptable
+adjustment to the Fees.
+
+         6.   TERM AND TERMINATION.
+              ---------------------
+
+         6.1  The initial term of this Agreement shall begin on the Effective
+Date and shall continue for a period of three (3) years (the "Initial Term"),
+unless terminated earlier pursuant to this Agreement. Thereafter, this Agreement
+shall automatically renew for additional terms of one (1) year each, unless
+written notice of termination is given by either Party at least ninety (90) days
+prior to the end of the Initial Term, or such other term, in which case this
+Agreement shall terminate at the end of the then current term.
+
+         6.2  Either Party shall have the right to terminate this Agreement:
+
+              (a) upon one hundred eighty (180) days prior written notice to the
+other Party, provided that in the event Client terminates this Agreement,
+without cause, prior to the end of the Initial Term, such termination shall be
+effective only upon payment to CORD of all remaining fixed Fees set forth on the
+Fee Schedule for the remainder of the Initial Term;
+
+                                        3
+<PAGE>
+              (b) upon the breach by the other Party of a material provision of
+this Agreement and that Party's failure to cure such breach within thirty (30)
+days following written notice thereof from the non-breaching Party, provided
+that, with respect to any failure to make any payment when due under this
+Agreement, such period to cure shall be reduced to ten (10) days; or
+
+              (c) immediately upon notice to the other Party following the
+commencement of any bankruptcy or insolvency proceeding (whether voluntary or
+involuntary) with respect to such other Party or its assets, which in the event
+of an involuntary proceeding, is not dismissed within sixty (60) days, the
+general assignment for the benefit of creditors by such other Party, or the
+appointment of a receiver, trustee or liquidator by or for such other Party.
+
+         6.3 Client shall have the right to terminate this Agreement upon thirty
+(30) days written notice if CORD is unable to provide the services set forth in
+the Operating Guidelines at the Facility for a period of five (5) days or more,
+and provided the parties are unable to mutually agree in writing to the use of
+another distribution facility within such thirty day notice period.
+
+         6.4  Termination or expiration of this Agreement shall not relieve
+either Party from any liability or obligation that accrued prior to such
+termination or expiration. Upon termination or expiration of this Agreement, all
+Product shall be returned to Client or a designee of Client, at Client's sole
+cost and expense. Sections 11,12, 13 and 14 shall survive termination or
+expiration of this Agreement.
+
+         7.   AUDITS. Client or its designee shall have the right to conduct the
+following audits each calendar year: (a) one audit to confirm compliance with
+all relevant Federal Drug Administration regulations ("Regulations"), including
+applicable Current Good Manufacturing Practices ("CGMPs"); (b) one physical
+audit of such portions of the Facility that relate solely to Product stored and
+warehoused at the Facility under this Agreement; and (c) one audit of CORD's
+financial records as they relate to the storage and distribution of the Product.
+In addition to the audits described above, Client shall have the right to
+conduct such additional audits as are necessary to investigate issues of
+noncompliance with applicable Regulations and CGMPs, and to investigate apparent
+discrepancies in data relating to the storage and distribution of the Product.
+All audits permitted by this Section 7 shall be conducted during normal business
+hours (i.e., 8:00 a.m. to 5:00 p.m. local time), upon five (5) business days
+prior written notice to CORD.
+
+         8.   COMPLIANCE WITH LAWS. Each Party shall conduct its activities in
+connection with this Agreement in compliance with all applicable laws, rules,
+regulations, and orders of governmental entities.
+
+         9.   REPRESENTATIONS AND WARRANTIES.
+              -------------------------------
+
+         9.1  Each Party represents and warrants to the other that:
+
+              (a) it has full power and authority to enter into this Agreement
+and perform all obligations and conditions to be performed by it under this
+Agreement without any restriction by any other Agreement or otherwise;
+
+              (b) the execution, delivery and performance of this Agreement have
+been duly authorized by all necessary corporate action of that Party; and
+
+              (c) this Agreement constitutes the legal, valid and binding
+obligation of that Party.
+
+         9.2  Client further represents and warrants to CORD that the Product:
+
+
+                                        4
+<PAGE>
+              (a) is and shall be manufactured in conformity with the Food, Drug
+and Cosmetic Act, as amended from time to time, and all other applicable laws,
+rules, regulations and orders of governmental entities relating to the
+manufacture, promotion, sale or distribution of the Product;
+
+              (b) does not violate or infringe any patent, trademark, tradename
+or other interest of any person or entity.
+
+         10.  TAXES. Client shall pay when due all sales, use, gross receipts,
+excise, personal property taxes associated with the Product (excluding any
+personal property tax associated with CORD's equipment used in connection with
+the Services), and other taxes now or hereafter imposed as a result of the
+transactions contemplated by this Agreement, none of which have been included in
+the fees payable to CORD under this Agreement; provided that the amounts payable
+by Client under this section shall not include taxes based on the net income of
+CORD.
+
+         11.  TRADEMARKS. Neither Party shall have the right to use the name of
+the other Party or any Affiliate of the other Party, or the other Party's or
+such Affiliates' trademarks, service marks, logos, or other similar marks in any
+manner except with the prior written approval of that Party; provided that the
+foregoing shall not prohibit CORD's use of Client's names or marks in connection
+with the performance of the Services in a manner consistent with this Agreement.
+"Affiliate," as used in this Agreement, means any legal entity which, during the
+Term hereof, controls, is controlled by, or is under common control with, such
+Party. For purposes of this definition, an entity shall be deemed to control
+another entity if it owns or controls, directly or indirectly, at least fifty
+percent (50%) of the voting interest of all equity interests of the other entity
+(or other such comparable ownership interest for an entity other than a
+corporation).
+
+         12.  CONFIDENTIALITY.
+              ----------------
+
+         12.1 Each Party acknowledges that as a result of this Agreement it may
+learn and have access to trade secrets and other confidential and proprietary
+information of the other Party through employees, representatives and/or agents
+acting on behalf of or subcontracted to either Party (collectively the
+"Representatives"), including without limitation, financial information,
+information regarding business practices and techniques, and systems and
+technology information, or any information identified as confidential in writing
+by either Party (the "Confidential Information"). For purposes of this
+Agreement, Confidential Information shall not include information disclosed by
+one Party to the other Party to the extent that such information can be proven
+by written evidence: (a) to be in the public domain or generally available in
+the industry in which the disclosing Party engages in business without any
+violation of this Agreement by the other Party; (b) is already legally known to
+the other Party or any of its Affiliates at the time of its disclosure by the
+disclosing Party; (c) becomes known to the other Party or any of its Affiliates
+from a third party without any obligation of confidentiality or limitation on
+use; or (d) is independently developed by the other Party or any of its
+Affiliates prior to the date of its disclosure. The specific material terms of
+this Agreement shall be deemed to be the Confidential Information of each Party.
+Confidential Information shall not be deemed to be in the public domain or
+publicly known or in the receiving Party's possession because it is embraced by
+more general information in the receiving Party's possession or because it is
+embraced in general terms in publications.
+
+         12.2 Neither Party shall, directly or indirectly, at any time: (a)
+disclose to any third person or entity any Confidential Information of the other
+Party (whether learned before or after the date of this Agreement), or (b) use,
+or permit or assist any third person or entity to use, any such Confidential
+Information, excepting only: (i) disclosures required by law, rule, regulation
+or order, as reasonably determined by the disclosing Party or its legal counsel,
+and (ii) disclosures on a confidential basis to
+
+                                        5
+<PAGE>
+directors, officers, employees, and agents of that Party or its Affiliates who
+have a reasonable need to know such Confidential Information in the normal
+course of business of that Party or any of that Party's Affiliates.
+
+         12.3 The obligations of confidentiality hereunder shall survive the
+termination of this Agreement for a period of three (3) years. Upon termination
+of this Agreement (for any reason) each Party shall promptly: (i) return to the
+other Party all documentation and other materials (including copies of original
+documentation or other materials) containing any Confidential Information of the
+other Party; or (ii) with the other Party's consent, which consent will not be
+unreasonably withheld, certify to the other Party, pursuant to a certificate in
+form and substance reasonably satisfactory to the other Party, as to the
+destruction of all such documentation and other materials.
+
+         13.  INDEMNIFICATION. Each Party shall indemnify and hold harmless the
+other Party and its parent and Affiliates, and each of their directors,
+officers, employees, agents, and representatives from and against all claims,
+liabilities, losses, damages, costs, and expenses, including, without
+limitation, reasonable attorneys' fees ("Liability") by a third party arising
+directly or indirectly out of any failure of that Party to perform fully all
+obligations and conditions to be performed by that Party pursuant to this
+Agreement or any breach of any warranty made by that Party in this Agreement.
+Client further agrees to indemnify and hold harmless CORD, its parent and
+Affiliates and each of their directors, officers, employees, agents and
+representatives from any and all Liability arising directly or indirectly out of
+injury or death to person or property alleged to have been caused by Client's
+Product, unless such Liability arose in whole or part as a result of the
+negligence, gross negligence or willful misconduct of CORD.
+
+         14.  LIMITATION OF LIABILITY. NOTWITHSTANDING THE FOREGOING PROVISIONS
+OF SECTION 13, OR ANY OTHER PROVISION OF THIS AGREEMENT TO THE CONTRARY, NEITHER
+PARTY SHALL BE LIABLE TO THE OTHER PARTY FOR ANY CONSEQUENTIAL (SPECIFICALLY
+EXCEPTING THOSE CONSEQUENTIAL DAMAGES ARISING FROM EACH PARTY'S OBLIGATION TO
+INDEMNIFY THE OTHER FOR LIABILITY ARISING OUT OF OR RELATING TO THIRD PARTY
+CLAIMS IN ACCORDANCE WITH SECTION 13 ABOVE), INCIDENTAL, INDIRECT, SPECIAL, OR
+OTHER SIMILAR DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT.
+
+         15.  INSURANCE. During the term of this Agreement and for as long
+thereafter as necessary to cover claims resulting from this Agreement, Client
+shall maintain: (i) product liability and commercial general liability insurance
+having a limit of not less than    [*]    ; and (ii) property damage insurance
+at replacement value for the Product located at the CORD Facility or in transit
+to or from the CORD Facility, pursuant to one or more insurance policies with
+reputable insurance carriers. Cardinal Health, Inc. and its subsidiaries shall
+be designated as "additional insureds" under the product liability and
+commercial general liability insurance policy(ies) and as "loss payees" under
+the property damage insurance policy(ies). Prior to the Commencement Date,
+Client shall deliver to CORD certificates evidencing such insurance. Client
+shall not cause or permit such insurance to be canceled or modified to
+materially reduce its scope or limits of coverage during the term of this
+Agreement or thereafter as provided above. Except for any losses resulting
+solely from the gross negligence or intentional misconduct of CORD, Client shall
+bear all risk of loss or damage with respect to the Product, whether located at
+the Facility or otherwise.
+
+         16.  DISPUTE RESOLUTION. The Parties agree to use good faith efforts to
+resolve all disputes within sixty (60) days of written notice that such a
+dispute exists. If dispute under this Agreement cannot be resolved by the
+Parties within such sixty (60) day period, the Parties agree to refer the matter
+to one executive from each Party not directly involved in the dispute for review
+and resolution. A copy of the
+
+                                        6
+<PAGE>
+terms of this Agreement, agreed upon facts and areas of disagreement, and a
+concise summary of the basis for each side's contentions will be provided to
+both executives who shall review the same, confer, and attempt to reach a mutual
+resolution of the issue within forty-five (45) days after receipt of the
+materials referenced above. If the matter has not been resolved within such
+forty-five (45) day period, either or both Parties may pursue resolution of the
+matter through a binding, non-reviewable and non-appealable alternative dispute
+resolution process conducted within the State of New Jersey by a sole arbitrator
+in accordance with the Non-Administered Arbitration Rules of the CPR Institute
+for Dispute Resolution. The existence of the dispute, the dispute resolution
+process and the arbitrator's award shall be maintained confidential, provided
+that the arbitrator's award may be entered as a final judgment in any court
+having jurisdiction.
+
+         17.  MISCELLANEOUS.
+              --------------
+
+         17.1 Independent Contractor. The relationship of the Parties is that of
+independent contractors, and neither Party shall incur any debts or make any
+commitments for the other Party except to the extent expressly provided in this
+Agreement. Nothing in this Agreement is intended to create or shall be construed
+as creating between the Parties the relationship of joint venturers,
+co-partners, employer/employee or principal and agent.
+
+         17.2 Notices. Any notice or other communication required or desired to
+be given to any Party under this Agreement shall be in writing and shall be
+deemed given: (a) three business days after such notice is deposited in the
+United States mail, first-class postage prepaid, and addressed to that Party at
+the address for such Party set forth at the end of this Agreement; (b) one
+business day after delivered to Federal Express, Airborne, or any other similar
+express delivery service for next-day delivery to that Party at that address; or
+(c) when sent by facsimile transmission, with electronic confirmation, to that
+Party at its facsimile number set forth at the end of this Agreement. Any notice
+delivered by facsimile transmission will be deemed delivered upon electronic
+confirmation provided the notice is also deposited in the U.S. mail, first-class
+postage prepaid. Any Party may change its address or facsimile number for
+notices under this Agreement by giving the other Parties written notice of such
+change.
+
+         17.3 Governing Law. This Agreement shall be construed under the laws of
+the State of Tennessee, without regard to its conflicts of laws provisions.
+
+         17.4 Severability. If any term of this Agreement is declared invalid or
+unenforceable by a court or other body of competent jurisdiction, the remaining
+terms of this Agreement will continue in full force and effect.
+
+         17.5 Non-Waiver. No failure by either Party to insist upon strict
+compliance with any term of this Agreement, to enforce any right, or to seek any
+remedy upon any default of the other Party shall affect, or constitute a waiver
+of, the first Party's right to insist upon strict compliance, to exercise that
+option, to enforce that right, or to seek that remedy with respect to that
+default or any prior, contemporaneous, or subsequent default. No custom or
+practice of the Parties at variance with any provision of this Agreement shall
+affect, or constitute a waiver of, that Party's right to demand strict
+compliance with all provisions of this Agreement.
+
+         17.6 Force Majeure. If the performance of any part of this Agreement by
+either Party shall be prevented, restricted, interfered with or affected for any
+length of time by fire or other casualty, government restrictions, war, riots,
+strikes or labor disputes, lock out, transportation delays, acts of God, or any
+other causes which are beyond the reasonable control of such Party, such Party
+shall not be responsible for delay or failure of performance of this Agreement
+for such length of time, provided, however, that the obligation of one Party to
+pay amounts due to the other Party shall not be subject to the provisions of
+this Section.
+
+                                        7
+<PAGE>
+         17.7 Complete Agreement. This Agreement constitutes the entire
+understanding between the Parties and supersedes any contracts, agreements or
+understanding (oral or written) of the Parties with respect to the subject
+matter hereof. No term of this Agreement may be amended except upon written
+agreement of both Parties, unless provided otherwise in this Agreement.
+
+         17.8 Assignment. Except as set forth herein, neither Party shall have
+the right to assign this Agreement, or any of such Party's rights or obligations
+under this Agreement, without the prior written consent of the other Party,
+provided, however, that CORD may assign its rights under this Agreement to any
+parent, subsidiary or affiliate without obtaining such consent. This Agreement
+shall be binding upon, inure to the benefit of, and be enforceable by and
+against the respective successors and assigns of the Parties.
+
+
+
+         IN WITNESS WHEREOF, the undersigned acknowledge and accept the terms of
+this Agreement and have duly executed this Agreement.
+
+CORD LOGISTICS, INC.                        VIVUS, INC.
+
+
+By /s/ Frank C. Wegerson                    By /s/ Guy P. Marsh
+   ---------------------------                 ---------------------------
+   Frank C. Wegerson                           Guy P. Marsh
+   Vice President and General Manager          V.P. U.S. Operations
+   1135 Heil Quaker Blvd, #100                 745 Airport Road
+   LaVergne, TN 37086                          Lakewood, NJ 08701
+
+   Facsimile No.  (615) 793-4783               Facsimile No. (732) 942-4821
+
+
+
+
+
+                                        8
+<PAGE>
+
+                                    EXHIBITS
+                                    --------
+
+
+
+
+
+
+                           Exhibit A        Operating Guidelines
+
+                           Exhibit B        Fee Schedule
+
+                           Exhibit C        System Access Agreement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        9
+<PAGE>
+                                                                       EXHIBIT A
+                                                                       ---------
+
+                              OPERATING GUIDELINES
+                              --------------------
+
+In performing its obligations under the Distribution Services Agreement
+("Agreement"), CORD Logistics, Inc. ("CORD") will follow the Operating
+Guidelines as developed jointly with VIVUS, Inc. ("CLIENT"). These Operating
+Guidelines are in addition to CORD Standard Operating Procedures ("SOPs").
+Copies of these documents are maintained by both parties and will be reviewed,
+and updated if necessary, from time to time as mutually agreed, but not less
+than once per calendar year.
+
+1.0  WAREHOUSING
+----------------
+1.1  CORD will maintain its warehouse facility in accordance and comply with all
+     federal, state and local laws, rules and regulations, including the
+     Prescription Drug Marketing Act and current Good Manufacturing Practices
+     ("cGMP") as promulgated under the FDA.
+1.2  CORD will maintain Standard Operating Procedures appropriate for a
+     pharmaceutical distribution center operating environment.
+1.3  CORD will maintain documented training programs.
+1.4  CORD will comply with storage, handling and shipping conditions designated
+     by CLIENT for the "Products".
+1.5  Products with specific storage requirements must be identified by CLIENT
+     and the storage requirements must be expressly communicated by CLIENT to
+     CORD. The specific requirements must be identified on the package label in
+     accordance with NWDA bar coding standards. Product so identified by CLIENT
+     will be stored in areas designed, continuously monitored and periodically
+     validated for the temperature range specified for each product. CORD will
+     maintain daily temperature recordings. CORD will provide such records to
+     the CLIENT upon written request.
+     1.5.1 Frozen - [*]
+     1.5.2 Refrigerated - [*]
+     1.5.3 Controlled ambient - [*]
+     1.5.4 Controlled ambient - [*]
+1.6  CORD will report temperature excursions to the CLIENT within two (2)
+     business days of occurrence.
+1.7  Products will be stored in an area with secured access, accessible only to
+     authorized CORD personnel as agreed to by CLIENT and CORD.
+
+2.0  RECEIVING
+--------------
+
+2.1  CLIENT or CLIENT's contract manufacturing agent will arrange transportation
+     services to transfer the product to CORD. CLIENT will notify CORD of the
+     specific delivery schedule.
+2.2  CLIENT's carrier will contact CORD to arrange a delivery appointment.
+2.3  CLIENT retains title to the goods at all times. CORD's signature on the
+     carrier's bill of lading is an acknowledgement only of CORD's receipt of
+     product.
+2.4  CLIENT will provide CORD with Material Safety Data Sheets for each product
+     stored at CORD.
+2.5  CLIENT's product must meet the following standards for carton
+     identification, documentation, palletization, and uniformity:
+     2.5.1 Each shipping carton and inner packaging of CLIENT product must be
+           labeled to meet NWDA standards for bar coding and human readable
+           markings.
+     2.5.2 CLIENT will provide the bill of lading, certificate of analysis and
+           other documentation necessary. CORD and CLIENT will mutually agree
+           upon the receiving process.
+     2.5.3 Pallets will meet GMA standards for 40" x 48" dimensions with
+           four-way entry; will be free of broken boards, treated for pests, and
+           clean.
+     2.5.4 Receipt of product on non-standard pallets may require restacking
+           onto conforming pallets at CLIENT's expense.
+     2.5.5 Palletized product must be uniform and consistent with specifications
+           set up in the product master for the number of cartons and eaches.
+2.6  CORD will receive each shipment into a secure Receiving area.
+
+                                       10
+<PAGE>
+2.7  CORD will count and inspect the exterior packaging of the product, noting
+     any shortages, overages or damage on the carrier bill of lading. CORD will
+     obtain the carrier's signature on the bill of lading acknowledging the
+     condition of the product upon receipt by CORD.
+2.8  CORD will compare the CLIENT's documentation to CORD's receiving report.
+     Discrepancies will be noted. CORD Quality Assurance will investigate and
+     report all discrepancies to CLIENT within 24 hours of receipt. CLIENT and
+     CORD will determine corrective actions, if any.
+2.9  CORD will post receipts in the computer inventory system within one
+     business day of delivery unless count discrepancies, missing paperwork,
+     damage investigation, and other receiving anomalies interfere with
+     efficient receiving and documentation. CORD will use commercially
+     reasonable efforts to receive product accurately and efficiently.
+2.10 CORD reserves the right to assess a fee for services required to hold
+     non-conforming product in receiving, and to investigate, reconcile and
+     report discrepancies to the CLIENT. Fees for receiving services are listed
+     in the Fee Schedule, Exhibit C.
+2.11 CORD will return partial case quantities - defined as less than a saleable
+     quantity - to the CLIENT at CLIENT's expense.
+2.12 CLIENT product in unapproved or quarantine status will be physically
+     segregated and CORD's computer system will be flagged accordingly to
+     prevent unapproved product from entering approved picking areas of the
+     warehouse. CLIENT will provide written documentation to CORD to change
+     quarantine product to approved status.
+2.13 CORD will move product from the Receiving area to bulk storage following
+     CORD SOPs.
+
+3.0  INVENTORY
+--------------
+3.1  Inventory will be received, tracked and controlled on CORD's computerized
+     inventory system by item number, lot number, expiration date, quantity, and
+     status. CORD system will meet all cGMP requirements for lot traceability
+     and accountability, from receipt of product at CORD to shipment of product
+     to CLIENT's customer.
+3.2  Quarantined product will be physically segregated and appropriately
+     labeled. Quarantined Product will be released from quarantine status in
+     CORD's inventory system upon written authorization by CLIENT.
+3.3  CORD will assign unique locations for each product and lot in storage.
+3.4  Inventory will be routinely verified by CORD through periodic cycle counts.
+     CORD will use its best efforts to maintain accurate and timely inventory
+     records.
+3.5  Inventory deviations will be investigated by CORD and reported to CLIENT.
+     Corrective actions will be determined jointly by CORD and CLIENT.
+3.6  CORD will notify CLIENT of all expired or short dated Product (as specified
+     by CLIENT to be "6" number of months prior to expiry date).
+3.7  Disposition of returned, rejected or expired Product will be handled
+     according to CLIENT's specific written direction.
+
+4.0  DISTRIBUTION
+-----------------
+
+4.0  Orders approved and available for processing (pick & pack) by 2:00 p.m.
+     Central Time will be shipped before the close of business the same day,
+     Monday through Friday. Orders received by EDI and approved for inventory
+     allocation by 12:00 noon will be shipped by close of business the same day.
+     Orders received and processed after the cutoff times will be shipped the
+     following business day.
+4.1  Recognizing that order volume may fluctuate from time to time, CORD will
+     staff to meet 125% of the rolling average number of CLIENT orders processed
+     over the previous two (2) calendar months. CORD will use commercially
+     reasonable efforts to meet the shipping schedule outlined herein when order
+     or unit volume exceeds 125% of the rolling average number of orders or
+     units; provided, however, that CORD cannot guarantee daily on-time shipping
+     standards will be achieved during such increased activity periods.
+
+                                       11
+<PAGE>
+4.2  CORD will measure the timeliness of shipments and will report this
+     attribute periodically according to Section 19 of the Operating Guidelines.
+4.3  Emergency shipments and other exceptions will be authorized in writing by
+     CLIENT. CORD will separately invoice CLIENT for emergency shipments, which
+     are defined as shipments occurring on weekends, holidays, and non-standard
+     hours, as defined in the Fee Schedule, Exhibit C.
+4.4  CORD's inventory system will comply with First-to-Expire, First-Out (FEFO)
+     inventory allocation. Any exceptions from FEFO must be approved by CLIENT
+     in writing prior to shipment.
+4.5  CORD will provide the system, equipment and procedures, along with trained
+     personnel and supervision to services related to picking product for
+     CLIENT's customer orders.
+4.6  CORD will perform quality verification on all CLIENT shipments by an
+     individual other than the employee who picked the order. CORD will use
+     commercially reasonable efforts to pick, check and ship accurately all
+     CLIENT customer orders.
+4.7  CORD and CLIENT will mutually determine and agree in writing on the
+     packaging requirements for shipping CLIENT's finished product(s). CORD's
+     Quality Assurance will assist CLIENT and CORD will issue appropriate
+     guidelines and training to the Distribution department to assure compliance
+     with CLIENT specifications.
+4.8  CLIENT and CORD will mutually determine and agree on special shipping
+     conditions, such as for refrigerated product, which may be limited to
+     Monday through Thursday shipping, or as otherwise instructed by the Client.
+4.9  CORD will provide shipment confirmation information to CLIENT through
+     CORD's information system on the same business day on which the shipment
+     occurs.
+4.10 CORD will manage shipping supplies - including vendor selection, ordering,
+     inventory record keeping, and storage. CORD will invoice CLIENT for all
+     shipping materials - corrugated cartons, insulated coolers (if specified),
+     address labels, inner packing - as may be required by CLIENT's packing
+     specifications, per CORD's proposal.
+4.11 All Products will be shipped utilizing packaging and shipping carton(s) as
+     per CLIENT's packaging instructions, or as deemed appropriate by CORD in
+     the absence of CLIENT specifications. Unless instructed otherwise by
+     CLIENT, shipping will occur based on the shipping procedures provided by
+     CLIENT.
+4.12 CORD personnel will be available for emergency product shipments, via phone
+     request, 24 hours per day, 365 days per year. For emergency shipments
+     called in after the carrier's cutoff time (approximately 8:00 p.m. for
+     overnight airfreight), CORD will ship the product the following day, except
+     Sunday, unless otherwise directed by the CLIENT. CORD's fees for emergency
+     shipments are set forth in the Fee Schedule, Exhibit B.
+
+5.0  TRANSPORTATION
+-------------------
+
+5.1  CORD and CLIENT will mutually agree upon a common carrier (s) based on
+     shipment size, destination, freight rates, availability of standard and
+     special services, reliability of delivery, and claim history among other
+     requirements.
+5.2  CORD shall provide, if CLIENT agrees, carriers under contract with
+     Cardinal-Allegiance for discounted rates. The CLIENT and CORD will share
+     the savings according to a formula acceptable to both parties, or, if
+     CLIENT so chooses and CORD agrees, CORD shall charge a freight management
+     fee according to the Fee Schedule, Exhibit B.
+5.3  Shipping charges, including all special charges for insurance, proof of
+     delivery, hazardous materials, service upgrades, and so forth, will be
+     billed directly to CORD's account with the carrier and passed through to
+     CLIENT per terms of the Distribution Agreement, inclusive of CORD's
+     transportation management fees as defined in the Fee Schedule, Exhibit B.
+5.4  Freight terms will be F.O.B. Origin, Freight Prepaid where title passes to
+     the customer when the shipment is tendered to the common carrier.
+5.5  CORD, at the request of the CLIENT, will provide proof of delivery for
+     specific customer shipments. Fees charged by carriers for proofs of
+     delivery, if any, will be passed directly to the CLIENT.
+5.6  CLIENT will approve payment of all credits to CLIENT customers for overage,
+     shortage and damage claims related to transportation. CORD, if handling
+     Accounts Receivable for CLIENT, will issue a credit to CLIENT's customer
+     accordingly, or CORD will provide freight claim documentation to the CLIENT
+     when the CLIENT is responsible for the Accounts Receivable.
+
+                                       12
+<PAGE>
+6.0  CUSTOMER SERVICE
+---------------------
+
+6.1  CORD will provide a dedicated inbound phone line (or lines) for CLIENT's
+     customers to phone in purchase orders, for inquiries, and for general
+     information.
+6.2  CORD will staff the CLIENT Customer Service inbound phone line from 7:00
+     a.m.- 6:00 p.m. central standard time, Monday through Friday, except for
+     the following holidays: Christmas Day, New Year's Day, Memorial Day,
+     Independence Day, Labor Day, Thanksgiving Day.
+6.3  CORD will be responsible for the training of the customer service
+     representative and backup representative(s). CLIENT will provide company
+     and product specific information for training of customer service
+     representatives assigned to the CLIENT.
+6.4  CORD will be responsible for initial set up and on-going maintenance of
+     customer master files. The initial customer master file will be approved
+     and signed by CLIENT. CLIENT may add customers by completing the customer
+     profile form and forwarding to CORD for system entry.
+6.5  CORD will accept customer orders by electronic data interchange (EDI),
+     phone, mail or fax.
+6.6  CORD will use commercially reasonable efforts to answer inbound phone calls
+     within the first thirty (30) seconds, and enter orders accurately.
+6.7  Orders received by phone, mail or fax that are entered and approved for
+     shipment by 2:00 p.m. Central Time will be shipped the same day. Orders
+     received by EDI and approved for inventory allocation by 12:00 noon will be
+     shipped the same day. Orders received and processed after the cutoff times
+     will be shipped the following business day.
+6.8  As a backup to the customer service representatives, a voice mail system
+     will be maintained to accept telephone orders and to collect messages from
+     customers.
+6.9  CORD's dedicated customer service line for CLIENT will incorporate
+     programming to forward calls to a CLIENT designated clinical service phone
+     number if calls of a clinical nature are received outside of regular
+     customer service hours.
+
+7.0  ORDER ENTRY
+----------------
+
+7.1  CLIENT will determine minimum order and order line quantity and CORD will
+     enter orders accordingly.
+7.2  CLIENT will instruct its customers and trading partners to place orders
+     based on the CLIENT's Distribution Agreement.
+7.3  CLIENT will determine when customers shall pay for premium freight, special
+     handling, and emergency order processing.
+7.4  CLIENT reserves the right to limit quantities, to hold or to refuse orders.
+     These decisions will be executed by CORD.
+7.5  CORD will use commercially reasonable effort to enter orders accurately.
+     CORD measures the accuracy of orders entered and will report this attribute
+     periodically according to the conditions set forth in Section 19 of the
+     Operating Guidelines.
+
+8.0  CUSTOMER CREDIT
+--------------------
+
+8.1  CLIENT will determine the customers to whom it will sell on a direct basis
+     and will assign each to a customer class, sales territory, and other sort
+     classifications, as applicable, based on definitions mutually acceptable to
+     CLIENT and CORD.
+8.2  CLIENT will establish credit limits for each customer or groups of
+     customers.
+8.3  CORD's system will monitor orders and outstanding account receivable
+     against the customer's credit limit and hold orders where credit limits are
+     exceeded.
+8.4  CLIENT may elect to place a customer's account on credit hold so that all
+     orders are reviewed prior to shipment.
+8.5  CLIENT will review and approve all customer orders held for credit limits
+     prior to shipment.
+
+
+                                       13
+<PAGE>
+9.0  PRICING AND TERMS
+----------------------
+
+9.1  CLIENT will publish terms and conditions of sale to wholesalers and
+     warehouse chains. Standard terms are 2% -30 days, net 31 days. Contracted
+     customers may have non-standard terms.
+9.2  CLIENT will publish list prices for wholesalers and warehouses chains and
+     are subject to change from time to time at the sole discretion of CLIENT.
+9.3  CLIENT will determine contract prices on a contract by contract basis.
+     CLIENT will notify CORD of such price changes with seven-(7) days notice
+     for update of the CORD system files. CLIENT will develop and forward
+     customer notifications to CORD and CORD will provide printing and mailing
+     services on behalf of CLIENT.
+9.4  CORD will perform system maintenance of pricing and terms. CLIENT will
+     provide to CORD in writing any changes to prices or terms. CORD will be
+     responsible for updating the CORD system within 48 hours of receipt of such
+     notice or as CLIENT may otherwise instruct.
+9.5  CORD employees are bound by the confidentiality provisions of the Agreement
+     between CORD and CLIENT and, as such, shall not disclose CLIENT sales data
+     or pricing information outside the specific CORD employees who have a need
+     to know of this information in the course of performing their routine job
+     responsibilities.
+9.6  CORD will provide the necessary reports within stipulated time frames to
+     ensure CLIENT can comply with the reporting requirements of Medicaid
+     (OBRA), Veterans HealthCare Act, PHS Covered Entities, and state rebate
+     programs. CLIENT will define reporting requirements against which CORD will
+     produce the required reports.
+
+10.0 INVOICING
+--------------
+
+10.1 CORD Customer Service will use commercially reasonable efforts to mail
+     invoices the morning following shipment of product, or transmit by
+     electronic data interchange (EDI), where installed, the same day of
+     shipment of product, to customer's billing address.
+10.2 For any order shipped after the close of business, the invoice will be
+     prepared and mailed the following business day.
+10.3 CORD will make its best effort to process invoices as timely and accurately
+     as possible. CORD measures invoice accuracy and processing timeliness and
+     will report this attribute periodically according to the conditions set
+     forth in Section 19 of the Operating Guidelines.
+
+11.0 CHARGEBACKS
+----------------
+
+11.1 CLIENT may enter into prime vendor arrangements for select contract or
+     government mandated pricing arrangements.
+11.2 CLIENT will select a wholesaler with full EDI capabilities, including but
+     not limited to purchase orders chargeback submission, chargeback
+     reconciliation and credit, invoicing and bid award notification.
+11.3 CORD, on behalf of CLIENT, will process chargebacks daily with
+     reconciliation of chargeback discrepancies within 5 working days. CORD's
+     chargeback SOP will define the parameters available to CORD to resolve
+     discrepancies between the CLIENT's contract terms and conditions and the
+     chargeback submitted by the wholesaler.
+11.4 All chargebacks will be processed according to the chargeback policy for
+     CLIENT.
+11.5 All validated chargeback submissions will be settled via credit invoice.
+     CLIENT will not make advance payments or authorize advance deductions of
+     chargebacks.
+11.6 Prime vendors will be instructed to report all returns from CLIENT's
+     contract customers as a reverse chargeback.
+11.7 CORD will make its best effort to process chargebacks as timely and
+     accurately as possible. CORD measures the chargeback discrepancy rate and
+     timeliness of chargebacks processed and will report this attribute
+     periodically according to the conditions set forth in Section 19 of the
+     Operating Guidelines.
+
+
+                                       14
+<PAGE>
+12.0 ACCOUNTS RECEIVABLE
+------------------------
+
+12.1 CLIENT will open and maintain a bank lockbox. The bank will receive
+     customer remittances invoice information on behalf of CLIENT.
+12.2 The CLIENT's bank will forward information about lockbox deposits along
+     with the customer's remittance information to CORD.
+12.3 CORD will reconcile and apply the cash receipt to the outstanding account
+     receivable within 24 hours of receipt from the bank.
+12.4 To aid the cash application process, CLIENT will authorize accounts
+     receivable payment terms of one day past published terms. This grace period
+     will not be communicated to customers.
+12.5 CORD will disallow discounts for payments received beyond the payment terms
+     grace period, as indicated by the postmark. CORD will handle the amount of
+     the discount as a balance due on the Accounts Receivable account.
+12.6 Accounts Receivable will be monitored by CORD with appropriate collection
+     actions taken as directed below:
+     12.6.1 Notify by phone all customers with payments that have reached 10
+            days past due.
+     12.6.2 Initiate second phone call at 17 to 20 days past due.
+     12.6.3 Send letter (including documentation for item) to customer at thirty
+            (30) days past due.
+     12.6.4 Second letter at sixty (60) days past due. Follow up with third
+            phone call.
+     12.6.5 Give all documentation relating to item to CLIENT so third letter
+            may be sent by CLIENT at ninety (90) days past due.
+     12.6.6 CORD and CLIENT will discuss strategy for items still open after the
+            above actions have been taken.
+     (The term "item" will include invoices, deductions taken for charge backs
+     and returns, and discounts not allowed.)
+12.7 CORD will maintain notes related to collection activities in an Accounts
+     Receivable system file that will be accessible to CLIENT's authorized
+     personnel.
+12.8 CORD will use commercially reasonable efforts to process accounts
+     receivable as timely and accurately as possible. CORD, at CLIENT's option,
+     may measure accounts receivable and collections activity and report these
+     attributes periodically according to the conditions to be defined and
+     mutually agreed upon by CORD and CLIENT.
+
+13.0 GOVERNMENT REPORTING
+-------------------------
+
+13.1 CORD personnel will provide the following Government reports to CLIENT by
+     the fifth business day following the close of a business quarter.
+     13.1.1  IFF Direct Sales Report
+     13.1.2  IFF Indirect Sales Report
+     13.1.3  AMP Report
+     13.1.4  Non FAMP Report
+     13.1.5  Best Price Report
+     13.1.6  Most Favored Price Report
+13.2 CORD will also provide supporting schedules and source documents to be used
+     by CLIENT to perform verification of the Government reports.
+
+14.0 MONTH-END CLOSE
+--------------------
+
+14.1 CORD will comply with month-end reporting requirements as specified by
+     CLIENT.
+14.2 CLIENT will complete its close by the 5th working day after the last day of
+     the month being closed.
+
+15.0 RETURN GOODS
+-----------------
+
+15.1 Returns will be processed according to the Return Procedures defined by
+     CLIENT.
+15.2 CORD will complete the processing of all returns and issue credits within 5
+     business days of receipt of the return.
+15.3 CORD will use commercially reasonable efforts to process return goods as
+     timely and accurately as possible.
+
+                                       15
+<PAGE>
+16.0 RECALL ASSISTANCE
+----------------------
+
+16.1 CLIENT is responsible for management of a recall event, including but not
+     limited to preparation of the letter of notification to customers,
+     coordination and reporting with FDA, tracking of recalled product by
+     customer, follow up letters to customers, and final disposition of product.
+16.2 CORD will provide the necessary recall reports within two hours of
+     notification by CLIENT. Reports will contain, but not be limited to, the
+     following information for each recalled product and lot number: all
+     customer shipments by date, item number, quantity, lot number, and ship to
+     address.
+16.3 CORD will provide a secure area for the receipt of recalled product. CORD
+     will assist CLIENT with inventory reconciliation.
+16.4 CORD will provide destruction services for recalled product as may be
+     required by CLIENT.
+
+17.0 SYSTEMS
+------------
+
+17.1 CLIENT retains ownership to all data in the CORD system related to CLIENT's
+     business.
+17.2 CORD will maintain security of the CLIENT's data in files segregated and
+     inaccessible to other CORD clients, to CORD's parent organization Cardinal
+     Health, or to any other entity as determined by the CLIENT.
+17.3 CORD will provide CLIENT with on-line access to sales information,
+     inventory records, lot tracking, customer profiles, item maintenance,
+     pricing and terms, and other business critical data as defined in CORD's
+     standard reports output.
+17.4 Reporting and interfaces will be defined by CLIENT and jointly agreed upon
+     with CORD.
+17.5 CORD will maintain all systems within the change control SOPs.
+17.6 CORD's system will be accessible by CLIENT 7:30 a.m. - 7:30 p.m. Central
+     Time, Monday through Friday except for routine, scheduled maintenance.
+17.7 Unscheduled system downtime per calendar quarter shall not exceed 2% of the
+     normally accessible access hours. CORD will immediately notify CLIENT of
+     any system problem that might affect services and an estimated time for
+     restoration of system access.
+17.8 Full system backups will be generated on a nightly basis in conjunction
+     with SOP IS-005 `Backup and Recovery'. These backup tapes will be sorted
+     either off-site or in a fireproof cabinet as indicated by the SOP.
+
+18.0 AUDITS / INVENTORIES
+-------------------------
+
+18.1 Upon not less than ten (10) days prior written notice, CLIENT personnel and
+     their representatives will have access to CORD facilities for review and
+     audit of CORD's facility and records to assure compliance with cGMP's,
+     standard operating procedures, guidelines, and CLIENT specific agreements.
+18.2 CLIENT may request one complete physical inventory of CLIENT products every
+     12 months.
+18.3 CORD will assist CLIENT with inspections/audits ordered by the Federal Food
+     & Drug Administration or other governmental or official agencies.
+18.4 CORD will notify CLIENT immediately of any inspection activity by FDA, DEA
+     or other government agency, as applicable to the CLIENT or CLIENT's
+     product.
+
+19.0 QUALITY COUNCIL REPORT
+---------------------------
+
+19.1 CORD will provide CLIENT with a periodic report on measurable attributes,
+     as identified in preceding sections, to be used to track and benchmark
+     performance. The frequency of the report will be determined jointly by CORD
+     and CLIENT.
+19.2 CLIENT and CORD will agree to meet periodically to review performance and
+     to develop methods, policies, practices, and procedures that may improve
+     the quality and efficiency of the CORD - CLIENT relationship.
+19.3 CORD will use its best efforts to meet or exceed the CLIENT's expectation
+     for performance based on the measured attributes.
+19.4 Measured attributes and standards:
+
+                                       16
+<PAGE>
+
+
+================================================================================
+          PERFORMANCE              PERFORMANCE                   REPORTING
+SECTION   ATTRIBUTE                STANDARD                      FREQUENCY
+========  ======================   ===========================   ===============
+  1.0     Temperature excursions   [*] excursion -free           Upon occurrence
+--------  ----------------------   ---------------------------   ---------------
+  2.0     On-time receipts and     [*] within [*] business       Monthly
+          data entry               hours for all conforming
+                                   receipts
+--------  ----------------------   ---------------------------   ---------------
+  3.0     Cycle count accuracy     [*]                           Monthly
+--------  ----------------------   ---------------------------   ---------------
+  4.0     On-time shipping         [*] same day for orders       Monthly
+                                   received by the standard
+                                   cut-off time
+--------  ----------------------   ---------------------------   ---------------
+  4.0     Picking / shipping       [*]   for all orders          Monthly
+          accuracy                 processed with carton
+                                   markings meeting NWDA bar
+                                   code standards
+--------  ----------------------   ---------------------------   ---------------
+  6.0     Answer inbound phone     [*] answered within           Monthly
+          calls within thirty      [*] seconds
+          [*] seconds
+--------  ----------------------   ---------------------------   ---------------
+  7.0     Order entry accuracy     [*]                           Monthly
+--------  ----------------------   ---------------------------   ---------------
+  10.0    Invoicing accuracy and   [*]                           Monthly
+          timeliness
+--------  ----------------------   ---------------------------   ---------------
+  11.0    Chargeback processing    [*] processed in 2 days or    Monthly
+          time                     less from receipt of
+                                   chargeback from wholesaler
+--------  ----------------------   ---------------------------   ---------------
+  11.0    Chargeback discrepancy   [*] or less                   Monthly
+          rate
+--------  ----------------------   ---------------------------   ---------------
+  12.0    Accounts receivable      Based on CLIENT               TBD
+                                   specifications;
+                                   standard TBD.
+--------  ----------------------   ---------------------------   ---------------
+  14.0    Return goods             [*] processed in [*]          Monthly
+          processing cycle time    business days or less
+--------  ----------------------   ---------------------------   ---------------
+  17.0    System availability      [*]  of normal accessible     Upon occurrence
+                                   hours
+================================================================================
+
+
+
+
+
+                                       17
+<PAGE>
+================================================================================
+                                   VIVUS, INC.
+                             FEE SCHEDULE EXHIBIT B
+                           (effective August 1, 2002)
+================================================================================
+
+DISTRIBUTION SERVICES
+  MONTHLY PER PALLET REFRIGERATED STORAGE (5)                 $             [*]
+  REFRIGERATED PRODUCT PICK/PACK/STAGE - FIRST PICK (1)       $             [*]
+  REFRIGERATED PRODUCT PICK/PACK/STAGE - EACH ADD'L PICK (1)  $             [*]
+  PER LINE RETURN PROCESSING                                  $             [*]
+  MONTHLY DISTRIBUTION SYSTEM ACCESS AND USE (2)              $             [*]
+  MONTHLY ACCOUNT MANAGEMENT FEE (6)                          $             [*]
+  EMERGENCY/INTERNATIONAL ORDERS                              $             [*]
+  PACKING/SHIPPING SUPPLIES (3)                      Cost plus [*]% handling fee
+    (INCLUDES ORDERING, RECEIVING, STORAGE)
+  SHIPPING CHARGES (4)                               Published Rate minus [*]%
+
+
+CUSTOMER SERVICE
+  MONTHLY FIXED FEE                                           $             [*]
+  PER ORDER FEE                                               $             [*]
+
+
+FINANCIAL SERVICES
+  MONTHLY FIXED FEE ACCOUNTS RECEIVABLE MANAGEMENT            $             [*]
+  PER ORDER FEE ACCOUNTS RECEIVABLE MANAGEMENT                $             [*]
+  MONTHLY FIXED FEE CHARGEBACK MANAGEMENT                     $             [*]
+  PER SUBMISSION CHARGEBACK PROCESSING & GOVERNMENT REPORTING $             [*]
+
+
+--------------------------------------------------------------------------------
+NOTE (1):  This proposal is based on the distribution of Muse and Actis only,
+           any additional products requiring distribution services will be
+           quoted separately.
+
+NOTE (2):  System access fee includes licenses for four concurrent users. Any
+           additional licenses required by VIVUS will increase the monthly fee
+           by $[*] per concurrent user.
+
+NOTE (3):  Supplies include boxes, tape, labels, bubble pack, etc (approx. $[*]
+           to $[*] per shipment), pallets if necessary ($[*] per pallet), and
+           any other VIVUS requirements.
+
+NOTE (4):  This is based on FedEx shipments and may change as FedEx changes its
+           pricing.
+
+NOTE (5):  The pallet fee ($[*]) is based on a three month inventory on hand.
+           Pallet storage greater than three months on hand will be assessed a
+           charge of twice the standard fee ($[*]) per month.
+
+NOTE (6):  The account management fee includes the following: logistics
+           management, inventory management, quality assurance (QA), regulatory,
+           receiving, supply control, process set-ups, and process set-ups, and
+           process scheduling.
+
+                                       18
+<PAGE>
+                                                                       EXHIBIT C
+                                                                       ---------
+
+                             SYSTEM ACCESS AGREEMENT
+                             -----------------------
+
+         This System Access Agreement ("Agreement") is made as of October 1,
+2002 between CORD Logistics, Inc., an Ohio corporation ("Licensor"), and, VIVUS,
+Inc., a Delaware corporation ("Licensee"), who hereby agree as follows:
+
+         1. Distribution Services Agreement. Licensor and Licensee have entered
+into a Distribution Services Agreement ("Distribution Agreement") of even date
+with this Agreement, the terms of which are incorporated by reference.
+
+         2. System Access; Maintenance Obligations. Licensor hereby grants to
+Licensee a nonexclusive, nontransferable limited license (the "License") to
+utilize Licensor's Operating System Base Package, consisting of the computer
+hardware (as set forth below), software, and other components described in the
+Distribution Agreement as well as future upgrades and maintenance of the base
+package (collectively, the "System"), for the information processing needs of
+Licensee in connection with the Services to be provided by Licensor under the
+Distribution Agreement. Licensee shall maintain during the term of this
+Agreement the local area network (including without limitation centralized
+server) and desktop processing requirements for the System as further described
+in the Distribution Agreement or the Operating Guidelines, a copy of which are
+attached to the Distribution Agreement as Exhibit A.
+
+         During the term of this Agreement, Licensor shall employ reasonable
+security measures and policies designed to safeguard the integrity,
+accessibility, and confidentiality of all of Licensee's data resident on the
+System and establish and maintain reasonable disaster and emergency recovery
+plans designed to minimize disruption from System operation interruptions.
+Licensee shall have the right to review the operation of the System from time to
+time during regular business hours, upon reasonable prior notice and at a time
+mutually agreeable by the parties; provided that such reviews shall be conducted
+in a manner to avoid disruption of Licensor's business operations.
+
+         3. Lease of Hardware. Licensee shall have the right to lease a router
+("Hardware") from Licensor during the term of this Agreement, at no additional
+cost to Licensee, other than the Fee set forth in the Distribution Agreement.
+The Hardware shall be kept by Licensee (a) subject to inspection by Licensor
+during regular business hours, upon reasonable prior notice and at a time
+mutually agreeable by the parties; (b) at Licensee's address, as stated at the
+end of this Agreement, which Hardware shall not be relocated without the prior
+written consent of Licensor, which consent shall not be unreasonably withheld;
+(c) free of all security interests of any kind whatsoever, liens, encumbrances
+and other claims; (d) marked with Licensor's identification marks or numbers and
+if requested by Licensor, conspicuously labeled "supplied by Licensor"; and (e)
+maintained in good and efficient working order, condition and repair, reasonable
+wear and tear accepted.
+
+         Licensee shall use the equipment with due care to prevent injury
+thereto, and to any person or property and in conformity with all applicable
+laws, ordinances, rules, regulations and other requirements of any insurer or
+governmental body and with all requirements of the manufacturer with respect to
+use, maintenance and operation of the Hardware. Licensee shall not modify any
+hardware without the prior written consent of Licensor, which may be granted or
+withheld in its sole discretion. It is the intention and understanding of both
+Licensor and Licensee that the Hardware shall be, and at all times remain,
+separately identifiable personal property of Licensor. Licensee shall not permit
+any Hardware to be installed in or used, stored or maintained with, any of
+Licensee's personal property in such manner or under such circumstances that
+such Hardware might be or become an accession to or confused with such other
+personal property. Licensee shall not permit such Hardware to be installed in or
+used, stored or maintained with, any real property in such manner or under such
+circumstances that any person might acquire any rights in such Hardware
+paramount to the rights of the Licensor by reason of such Hardware being deemed
+to be real property or a fixture thereon.
+
+                                       19
+<PAGE>
+         Licensee shall at all times during the term of this Agreement and until
+the Hardware has been returned to Licensor, at its own expense, maintain
+physical damage insurance in the amount of not less than the replacement value
+of the Hardware. All insurance so maintained shall provide for a thirty (30) day
+prior written notice to Licensor or its assignees of any cancellation or
+reduction of coverages; (ii) an option in Licensor or its assignees to prevent
+cancellation by payment of premiums, (iii) cover the interest of the Licensor
+and (iv) provide that all insurance proceeds shall be payable to the Licensee
+and Licensor, as their respective interests may appear at the time of any such
+payment. Licensor shall be named as an additional insured on any public
+liability insurance policy so maintained. Upon the request of Licensor, Licensee
+shall furnish to Licensor satisfactory evidence of any insurance so maintained.
+
+         4. Proprietary Rights. Licensee shall have the right to use the System
+during the term of this Agreement as expressly provided in paragraphs 1 and 2 of
+this Agreement, but not otherwise. Licensee shall not assign or otherwise
+transfer, disclose, copy, modify, re-engineer, sell, license, disassemble, or
+decompile the System or disclose or permit access to the System or related
+documentation to any other person or entity. The System and all parts thereof,
+in all of their tangible and intangible manifestations, all existing or new
+enhancements, developments, derivative works, and other adaptions or
+modifications to the System (or any part thereof), and all related proprietary
+rights, are and shall remain the exclusive property of Licensor. Except for the
+License and Lease, Licensee shall have no right, title, or interest in or to the
+System or any part thereof. Upon termination of this Agreement, Licensee shall
+promptly return to Licensor all portions of the System then in Licensee's
+possession or under its control in accordance with the term set forth in Section
+6 below.
+
+         5. Warranties. Licensee acknowledges that it has had adequate
+opportunity to review the System and its features and operation, and Licensee
+accepts the System "AS IS" for its use as contemplated in the Distribution
+Agreement. LICENSOR MAKES NO REPRESENTATIONS OR WARRANTIES, AND HEREBY EXPRESSLY
+DISCLAIMS ALL REPRESENTATIONS AND WARRANTIES, EXPRESS OR IMPLIED, RELATING
+DIRECTLY OR INDIRECTLY TO THE SYSTEM OR ANY PART THEREOF, INCLUDING WITHOUT
+LIMITATION ANY WARRANTIES OF QUALITY, PERFORMANCE, MERCHANTABILITY, OR FITNESS
+FOR A PARTICULAR PURPOSE.
+
+         6. Limitation On Liability. LICENSOR SHALL NOT BE LIABLE FOR ANY
+CONSEQUENTIAL, INDIRECT, SPECIAL, OR OTHER SIMILAR DAMAGES ARISING DIRECTLY OR
+INDIRECTLY OUT OF THE USE OR INABILITY TO USE THE SYSTEM OR ANY PART THEREOF,
+EVEN IF INFORMED OF THE POSSIBILITY OF SUCH DAMAGES, WHETHER CLAIMED UNDER
+CONTRACT, TORT, OR ANY OTHER LEGAL THEORY.
+
+         IF ANY OF THE LIMITATIONS ON THE LIABILITY OF LICENSOR CONTAINED IN
+THIS AGREEMENT ARE FOUND TO BE INVALID OR UNENFORCEABLE FOR ANY REASON, THEN
+LICENSOR AND LICENSEE EXPRESSLY AGREE THAT THE MAXIMUM AGGREGATE LIABILITY OF
+LICENSOR FOR ALL CLAIMS RELATING TO THE SYSTEM SHALL NOT EXCEED 100% OF THE
+AGGREGATE BASE PACKAGE FEES PAID BY LICENSEE TO LICENSOR FOR LICENSEE'S USE OF
+THE SYSTEM UNDER THE DISTRIBUTION AGREEMENT.
+
+         7. Taxes. Licensee shall pay when due all sales, use, gross receipts,
+excise, property, and other taxes (other than taxes based upon Licensor's net
+income) now or hereafter imposed as a result of the transactions contemplated by
+this Agreement.
+
+         8. System Availability. The System shall be available for access
+twenty-four (24) hours a day, seven (7) days a week, except for scheduled
+maintenance periods.
+
+                                       20
+<PAGE>
+         9. Term. The term of this Agreement shall begin upon Licensee's initial
+use of the System as evidenced by the first entry of inventory into the System
+(which may be a date earlier than the Commencement Date specified for the
+Distribution Agreement) and shall end: (a) automatically upon the termination of
+the Distribution Agreement (for any reason), or (b) on any earlier date
+specified by Licensee in notice to Licensor given not less than ninety (90) days
+prior to the specified termination date; provided that: (i) paragraphs 4 through
+10 inclusive shall survive the termination of this Agreement, and (ii) no
+termination of this Agreement shall affect any liabilities arising from, or
+based upon, acts or omissions occurring prior to such termination.
+
+         10. Expiration/Termination. Licensee shall continue to have access to
+the System for a reasonable period of time (not to exceed ninety (90) days)
+following termination of this Agreement solely for purposes of retrieving and
+transferring to a separate system Licensee's data relating to its
+pre-termination operations, and Licensor shall reasonably cooperate with
+Licensee to preserve the integrity and accessibility of Licensee's data during
+such period; provided that, during such period, Licensee shall continue to pay
+the full Base Package and other fees payable by Licensee under the Distribution
+Agreement and comply with all other requirements imposed upon Licensee under
+this Agreement.
+
+         Upon the expiration of this Agreement, Licensee shall return the
+Hardware to Licensor in the same condition and configuration as received,
+reasonable wear and tear accepted.
+
+         11. Notices. Any notice or other communication required or desired to
+be given to either Party under this Agreement shall be in writing and shall be
+deemed given: (a) five (5) days after mailing, if deposited in the United States
+mail, first-class postage prepaid, and addressed to that Party at its address
+set forth at the end of this Agreement; (b) when received if delivered to
+Federal Express or any other similar overnight delivery service for delivery to
+that Party at that address; or (c) when sent by facsimile transmission, with
+electronic confirmation, to that Party at its facsimile number set forth at the
+end of this Agreement. Either Party may change its address or facsimile number
+for notices under this Agreement by giving the other Party written notice of
+such change.
+
+         12. Remedies. Licensee shall indemnify Licensor and its affiliates,
+directors, officers, employees, agents, and representatives against all claims,
+liabilities, losses, damages, costs, and expenses (including without limitation
+reasonable attorneys' fees) arising directly or indirectly out of any failure of
+Licensee to perform fully all obligations and conditions to be performed by
+Licensee pursuant to this Agreement. Licensee acknowledges that in the event of
+any violation by it of any of the provisions of paragraph 4 (Proprietary Rights)
+of this Agreement, Licensor would suffer irreparable harm and its remedies at
+law would be inadequate. Accordingly, in the event of any violation or attempted
+violation of any such provisions by Licensee, Licensor shall be entitled, in
+addition to any other rights or remedies which may be available to Licensor, to
+a temporary restraining order, temporary and/or permanent injunctions, specific
+performance, and other equitable relief, without the showing of irreparable
+harm, injury, damage or the inadequacy of damages, and without the necessity of
+the posting of any bond.
+
+         13. Force Majeure. Notwithstanding any other provisions of this
+Agreement or the Distribution Agreement to the contrary, each Party's
+obligations under this Agreement (exclusive of payment obligations) shall be
+excused if and to the extent that any delay or failure to perform such
+obligations is due to fire or other casualty, government restrictions, war,
+riot, strikes or labor disputes, acts of God, or other causes beyond the
+reasonable control of that Party; provided, however, that any party hindered by
+such condition beyond its reasonable control must employ reasonable efforts to
+overcome such hindrance as promptly as practicable.
+
+         14. Successors. Licensee shall not assign or otherwise transfer this
+Agreement or any of its rights or obligations under this Agreement without the
+prior written consent of Licensor, which consent
+
+                                       21
+<PAGE>
+shall not be unreasonably withheld. Subject to the preceding sentence, this
+Agreement shall be binding upon, inure to the benefit of, and be enforceable by
+and against the respective successors and assigns of each Party.
+
+         15. Interpretation. This Agreement shall be governed by and construed
+in accordance with the laws of the State of Delaware. If and to the extent that
+any court of competent jurisdiction determines that it is impossible to construe
+any provision of this Agreement consistently with any law or public policy and
+consequently holds that provision to be invalid, such holding shall in no way
+affect the validity of the other provisions of this Agreement, which shall
+remain in full force and effect.
+
+         16. Complete Agreement. This Agreement (together with the Distribution
+Agreement, which is hereby incorporated herein by reference) constitutes the
+entire Agreement between the Parties with respect to the subject matter of this
+Agreement and supersedes all prior or contemporaneous discussions, negotiations,
+representations, warranties, or agreements relating to the subject matter of
+this Agreement. This Agreement may not be amended or otherwise modified except
+by a written instrument signed by each Party.
+
+
+IN WITNESS WHEREOF, the undersigned acknowledge and accept the terms of this
+Agreement and have duly executed this Agreement.
+
+
+CORD LOGISTICS, INC.                        VIVUS, INC.
+
+
+By /s/ Frank C. Wegerson                    By /s/ Guy P. Marsh
+   ----------------------------                ----------------------------
+   Frank C. Wegerson                           V.P. U.S. Operations
+   Vice President and General Manager
+
+   15 Ingram Blvd, Suite 100                   745 Airport Road
+   LaVergne, TN 37086                          Lakewood, NJ 08701
+
+   Facsimile No.  (615) 793-4783               Facsimile No. (732) 942-4821
+
+
+
+                                       22
+
+</TEXT>
+</DOCUMENT>

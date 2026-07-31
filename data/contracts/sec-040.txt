@@ -1,0 +1,854 @@
+EX-10.38
+3
+ptn_ex1038.htm
+MANUFACTURING PREPARATION AND SERVICES AGREEMENT
+
+Blueprint
+
+Exhibit
+10.38
+
+***
+OMITTED AND FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE
+COMMISSION
+
+CONFIDENTIAL
+TREATMENT REQUESTED UNDER 17 C.F.R. SECTION 240.24b-2
+
+MANUFACTURING PREPARATION AND SERVICES AGREEMENT
+
+(“Agreement”)
+
+effective
+as of this 10th day of June 2016
+(the “Effective
+Date”), by and between
+
+PALATIN TECHNOLOGIES, INC.
+
+4-B
+Cedar Brook Drive
+
+Cranbury,
+New Jersey 08512
+
+U.S.A.
+
+(“Palatin”)
+
+and
+
+CATALENT BELGIUM S.A.
+
+Rue
+Font. St. Landry
+
+10 Parc
+Mercator B-1120
+
+Neder
+over Heembeek
+
+Belgium
+
+(“Catalent”)
+
+WHEREAS, Palatin is engaged in the
+development, marketing and sales of pharmaceutical
+products;
+
+WHEREAS, Catalent is a company engaged
+in the processing and supply of pharmaceutical products holding the
+necessary manufacturing licenses and permits in this
+respect;
+
+WHEREAS, it is necessary for Catalent
+(itself or through its Affiliates) to upgrade its manufacturing
+capacity and infrastructure to provide certain services in relation
+to the manufacture of the Product (as further defined herein)
+subject to this Agreement and to reserve certain manufacturing
+capacity on its upgraded facilities;
+
+WHEREAS, Palatin also wishes to entrust
+Catalent (itself or through its Affiliates) to perform certain
+Services (as further defined herein) in relation to the Product and
+Catalent agrees to perform such Services in accordance with the
+terms of this Agreement;
+
+WHEREAS, Catalent and Palatin have
+entered into that certain Binding Terms for Incorporation into a
+Capital and a Commercial Supply Agreement, dated April 1, 2016 (the
+“Binding
+Terms”), which Binding Terms shall be superseded in
+its entirety by this Agreement and the Supply Agreement (as defined
+hereafter).
+
+NOW THEREFORE, in consideration of the
+foregoing premises and the following mutual covenants and for other
+good and valuable consideration, the receipt and sufficiency of
+which is hereby acknowledged, the parties hereto agree as
+follows:
+
+Page 1 of
+11
+
+1.
+
+DEFINITIONS
+AND GENERAL
+
+1.1
+
+The following terms
+shall, unless the context otherwise requires, have the respective
+meanings set out below and grammatical variations of such terms
+shall have corresponding meanings:
+
+“Affiliate” means (a) with respect
+to Palatin, any corporation or other business entity that, directly
+or indirectly, is controlled by, controls, or is under common
+control with Palatin; and (b) with respect to Catalent, Catalent,
+Inc. and any corporation or other business entity controlled,
+directly or indirectly, by Catalent Pharma Solutions, Inc. For such
+purposes, “control” means the direct or
+indirect ownership of at least fifty percent (50%) of the voting
+interest in such corporation or other entity or the power in fact
+to control the management directions of such entity.
+
+“Catalent CAPEX Expenditures” has
+the meaning set forth in Section
+3.1.
+
+“Change of Control” means, with
+respect to a party: (a) any merger, reorganization, consolidation,
+or other business combination of such party with a third party that
+results in the voting securities of such party outstanding
+immediately prior thereto ceasing to represent at least fifty
+percent (50%) of the combined voting power of the surviving entity
+immediately after such merger, reorganization, consolidation, or
+other business combination; (b) a third party becoming the
+beneficial owner of fifty percent (50%) or more of the combined
+voting power of such party in a single transaction or series of
+related transactions; or (c) the sale, transfer, exchange or other
+disposition to a third party of all or substantially all of a
+party’s assets or business relating to this Agreement
+(whether alone or in connection with a sale, transfer, exchange or
+other disposition of other assets or businesses of such
+party).
+
+“Facility” means Catalent’s
+facility in Brussels, Belgium or such other Catalent facility as
+mutually agreed by the parties.
+
+“GMP Space Reservation Fee” means
+the amount owed by Palatin to Catalent for access to
+Catalent’s *** resources *** and for reservation of the
+applicable part of the Facility space pursuant to the terms of this
+Agreement, which amount shall total ***.
+
+“Manufacturing Preparation” has the
+meaning given in Section
+2.1.
+
+“Manufacturing Preparation Plan”
+means the plan as detailed in ANNEX
+1.
+
+“Product” means the
+proprietary Palatin product containing the active pharmaceutical
+ingredient, bremelanotide.
+
+“Supply Agreement” means
+that certain agreement covering the commercial manufacturing and
+supply of the Product between Catalent and Palatin of even date
+herewith.
+
+“Services” has the meaning given in
+Section 2.2.
+
+“Term” has the meaning given in
+Section 4.1.
+
+1.2
+
+All monetary
+amounts are expressed in this Agreement in Euros (EUR), the
+official currency of the euro area with the exception of the amount
+set forth in Section
+3.4(iii), which amount is expressed in United States
+Dollars.
+
+1.3
+
+The division of
+this Agreement into sections, subsections and Annexes and the
+insertion of headings are for convenience of reference only and
+shall not affect the interpretation of this Agreement. Unless
+otherwise indicated, any reference in this Agreement to a section
+or an annex refers to the specified Section or ANNEX to this
+Agreement. In this Agreement, the terms “this
+Agreement”, “hereof”, “herein”,
+“hereunder” and similar expressions refer to this
+Agreement.
+
+Page 2 of
+11
+
+1.4
+
+Except as otherwise
+expressly provided herein or unless the context otherwise requires,
+all references to the singular shall include the plural and vice
+versa.
+
+1.5
+
+Any reference
+herein to a “day” (including “week”) shall
+be references to a business day, excluding any Saturday, Sunday or
+public holiday (in the country or countries in which Palatin or
+Catalent or the Facility are physically located).
+
+1.6
+
+Catalent may
+delegate certain activities hereunder to its Affiliates and Palatin
+hereby agrees to such delegation subject to the following sentence:
+Catalent hereby agrees that regardless of such delegation, Catalent
+shall remain fully liable for the performance of its obligations
+under this Agreement by its Affiliate(s) to the same extent as if
+Catalent had performed or failed to perform its obligations under
+this Agreement.
+
+2.
+
+MANUFACTURING
+PREPARATION AND SERVICES
+
+2.1
+
+Catalent shall have
+available all necessary manufacturing equipment and infrastructure
+at the Facility (collectively, “Manufacturing Preparation”) in
+accordance with the Manufacturing Preparation Plan as set out in
+ANNEX 1 to manufacture and
+supply the Product to Palatin pursuant to the terms of the Supply
+Agreement.
+
+2.2
+
+Catalent shall take
+all actions necessary to make available the Manufacturing
+Preparation for the Products at the Facility in accordance with the
+Manufacturing Preparation Plan (the “Services”). Catalent shall provide
+the Services in a timely manner in accordance with the estimated
+timelines set forth in ANNEX
+1 or such other timelines as the parties agree upon in
+writing. If either party anticipates that certain timelines of the
+Manufacturing Preparation Plan may not be met, then it shall notify
+the other party as soon as reasonably practicable. Within *** of
+receipt of such notice, the parties shall meet to discuss in good
+faith and find an appropriate course of action to remedy the
+situation.
+
+Catalent shall
+provide the Services in conformance with that level of care and
+skill ordinarily exercised by other professionals in similar
+circumstances and in compliance with all applicable laws and
+regulations.
+
+2.3
+
+Catalent shall have
+sole legal title to the Facility and any improvements thereto and
+the Manufacturing Preparation and the right to use it for any other
+purposes and customers at its own discretion, subject to the right
+of Palatin and its Affiliates to have priority for the use of the
+Manufacturing Preparation pursuant to the terms of the Supply
+Agreement, and provided that Catalent supplies Palatin with Product
+as set out in the Supply Agreement. Catalent shall be solely
+responsible for maintenance and repair of the Manufacturing
+Preparation, if and as needed.
+
+2.4
+
+Catalent shall send
+to Palatin a written *** report describing the progress of each
+event of the Manufacturing Preparation Plan set forth in
+ANNEX 1. Catalent shall
+inform Palatin about significant accomplished phases and completed
+equipment and infrastructure build-outs of the Manufacturing
+Preparation Plan.
+
+2.5
+
+Catalent shall at
+all times use its commercially reasonable efforts to minimize the
+costs associated with the implementation of the Manufacturing
+Preparation. Catalent will provide an initial cost overview as set
+forth in ANNEX 1. In case
+such cost overview shows significant variations (more than ***)
+from the cost anticipated by both parties for the implementation of
+the Manufacturing Preparation as set forth in the initial cost
+overview in ANNEX 1, the
+parties shall agree in good faith on the allocation of such cost
+variation.
+
+Page 3 of
+11
+
+2.6
+
+Catalent shall
+perform the Services in a transparent manner and provide Palatin
+such information regarding the Services and the Manufacturing
+Preparation as Palatin may reasonably request from time to time,
+including providing copies of relevant documentation with respect
+to the Manufacturing Preparation set up and the fees and costs
+associated therewith. Palatin shall have the right to inspect the
+Facility, subject to any confidentiality obligations that Catalent
+has in relation to other customers, and the activities being
+performed in connection with the Services and/or the Manufacturing
+Preparation Plan upon giving reasonable prior written notice and
+during normal business hours.
+
+2.7
+
+If this Agreement
+expires or is terminated for any reason in accordance with
+Article 4, Catalent shall,
+to the extent possible and as soon as reasonably feasible, cancel
+any purchase orders placed in relation to any equipment or costs
+incurred in connection with the infrastructure upgrade that
+Catalent agreed to implement as part of the Manufacturing
+Preparation under this Agreement. Catalent shall also use its
+reasonable efforts to minimize the costs incurred associated with
+any such equipment or infrastructure upgrade including mitigating
+any commitments towards its suppliers, and shall not enter into any
+applicable further purchasing commitments.
+
+3.
+
+PAYMENTS;
+LIMITATION OF LIABILITY
+
+3.1
+
+Catalent shall make
+all payments to any vendors and suppliers with respect to the
+Manufacturing Preparation (the total amount of such payments by
+Catalent, the “Catalent CAPEX Expenditures”). Catalent
+shall provide written reports to Palatin on a *** basis, by ***,
+reflecting up-to-date Catalent CAPEX Expenditures (each, a
+“CAPEX Report”),
+and Palatin shall have the right, upon giving reasonable prior
+written notice and during normal business hours, to review the
+actual costs and supporting documents with respect
+thereto.
+
+3.2
+
+Catalent shall
+reserve GMP space within the Facility for the period beginning ***
+and continuing throughout the Term of this Agreement. Palatin shall
+pay to Catalent the GMP Space Reservation Fee in *** installments.
+***. The *** last installment ***. Catalent shall issue to Palatin
+an invoice for the first installment of the GMP Space Reservation
+Fee ***. Catalent shall issue to Palatin an invoice for each
+succeeding installment *** thereafter until the GMP Space
+Reservation Fee has been paid in full. Each payment shall be due
+*** after the date of the applicable invoice.
+
+3.3
+
+Palatin shall
+promptly notify Catalent if Palatin enters into a marketing and/or
+licensing agreement with a third party pursuant to which agreement
+such third party acquires the right to market, sell and have sold
+the Product (i) within North America (comprising at least the
+United States of America) or (ii) worldwide. Upon receiving such
+notice, ***. For the avoidance of doubt, neither this Agreement nor
+the Supply Agreement shall terminate upon such event.
+
+3.4
+
+In the event of a
+Change of Control of Palatin, then within *** after the actual
+effective date of such Change of Control, ***. For the avoidance of
+doubt, neither this Agreement nor the Supply Agreement shall
+terminate upon such event.
+
+3.5
+
+The limitation of
+liability of Catalent and Palatin under this Agreement shall be as
+set forth in Article 14 of
+the Supply Agreement.
+
+4.
+
+TERM
+AND TERMINATION
+
+4.1
+
+This Agreement
+shall come into force on the Effective Date and continue in full
+force and effect until completion of each party’s obligations
+hereunder or until such other date as the parties may mutually
+agree upon in writing (“Term”). In the case of Catalent,
+such obligations shall be completed upon such date as the
+Manufacturing Preparation has been built, installed and
+qualified.
+
+4.2
+
+Either party may
+terminate this Agreement immediately at any time by written notice
+to the other party if:
+
+(a)
+
+an event where the
+other party materially breaches a provision of this Agreement and
+fails or is unable to remedy such breach within *** of receipt of
+notice in writing specifying the breach and requiring it to be
+remedied; or
+
+(b)
+
+steps are taken by
+or against the other party for the appointment of a liquidator, an
+administrator, a receiver, administrative receiver, manager,
+interim receiver, trustee, trustee in bankruptcy, nominee or
+supervisor or the other party proposes or enters into an agreement
+or arrangement with its creditors generally or makes an assignment
+for the benefit of its creditors generally, or otherwise suffers or
+permits the taking of any steps for adjudicating it to be bankrupt
+or insolvent and any such process, if reasonably shown to be
+warranted, frivolous or vexatious, is not withdrawn, dismissed or
+discharges within ***, or any equivalent or similar action to the
+above in consequence of the insolvency of that party is taken in
+any jurisdiction and is not withdrawn, dismissed or discharged in
+the circumstances described above.
+
+Page 4 of
+11
+
+4.3
+
+Palatin shall have
+the right to terminate this Agreement in whole or in part at its
+own convenience at any time upon *** prior written notice. In the
+event of such termination, within *** after the effective date of
+such termination Palatin shall pay to Catalent ***.
+
+4.4
+
+Termination of this
+Agreement shall be without prejudice to any claim or right of
+action of either party against the other party for any prior breach
+of this Agreement.
+
+4.5
+
+Upon termination of
+this Agreement by either party or expiration of this Agreement,
+each party shall return to the other party or such party’s
+designee (as such party shall in its sole discretion direct) any
+materials or documents that have been supplied by such party to the
+other party under this Agreement.
+
+4.6
+
+Any termination or
+expiry of the Supply Agreement shall be without prejudice to the
+validity of this Agreement or any claim or right of action of
+either party against the other party arising out of this
+Agreement.
+
+5.
+
+CONFIDENTIALITY
+
+5.1
+
+Neither party shall
+disclose to any third party nor use for any purpose outside of the
+scope of this Agreement any information which is not in the public
+domain (“Confidential
+Information”) and which was disclosed in connection
+with this Agreement by: (a) a party or any of its Affiliates; or
+(b) any unaffiliated third party at the request of a party
+((a) and/or (b) the “Disclosing Party”). The party
+receiving the Confidential Information (the “Receiving Party”) may only provide
+the Disclosing Party’s Confidential Information to its and
+its Affiliates’ directors, officers, employees, advisors, and
+consultants (“Representatives”) who are informed
+of the confidential nature of the Confidential Information and who
+are bound by obligations of confidentiality and non-use no less
+restrictive than those contained herein and provided that the
+Receiving Party shall be responsible for any breach of this
+Agreement by its Representatives, which shall be considered a
+breach by the Receiving Party. The obligations of confidentiality
+and non-use shall expire for Confidential Information
+which:
+
+(a)
+
+is or becomes part
+of the public domain without a violation of this
+Agreement;
+
+(b)
+
+was already in the
+possession of the Receiving Party at the time of receipt from the
+Disclosing Party, as shown by documentary evidence; or
+
+(c)
+
+after the date of
+this Agreement is received by the Receiving Party, without a
+confidentiality obligation, from a third party whose direct or
+indirect source is not the Disclosing Party.
+
+5.2
+
+The Receiving Party
+may disclose the Disclosing Party’s Confidential Information
+to the extent required under applicable laws or by the rules of any
+stock exchange on which the securities of the Disclosing Party are
+listed in each case upon the reasonable advice of the Receiving
+Party’s legal counsel; provided, that prior to making any such
+legally required disclosure, the Receiving Party shall give the
+Disclosing Party as much prior notice of the requirement for and
+contents of such disclosure as is practicable under the
+circumstances and shall use reasonable efforts to limit the scope
+of any such disclosure and to obtain confidential treatment of all
+Confidential Information disclosed pursuant to such requirement.
+Any such disclosure, however, shall not relieve the Receiving Party
+of its confidentiality obligations as set forth in Section 5.1.
+
+Page 5 of
+11
+
+5.3
+
+The obligations of confidentiality and non-use
+contained in this Section 5 will terminate *** after the expiry or termination
+of this Agreement, except with respect to trade secrets, for which
+the obligations of confidentiality and non-use contained in this
+Clause will continue for so long as such information remains a
+trade secret under applicable law.
+
+5.4
+
+Upon expiration or
+termination of this Agreement, the Receiving Party will (and will cause
+its Affiliates and its and their respective Representatives to)
+cease its use and, upon written request, within *** either return
+or destroy (and certify as to such destruction) all Confidential
+Information of the Disclosing Party, including any copies thereof,
+except for a single copy which may be retained for the sole purpose
+of ascertaining compliance with its obligations under this
+Agreement and any copies remaining on the Receiving Party’s
+standard computer back-up devices.
+
+6.
+
+DISPUTE
+RESOLUTION
+
+6.1
+
+Governing Law. This Agreement and the
+legal relations between the parties in connection herewith shall be
+governed by, and construed in accordance with, the laws of the
+State of New Jersey, USA, without regard to the conflict of law
+principles thereof. The United Nations Convention on Contracts for
+the International Sale of Goods shall not apply to this
+Agreement.
+
+6.2
+
+Alternative Dispute Resolution. Any
+dispute that arises between the parties in connection with this
+Agreement shall first be presented to the senior executives of the
+parties for consideration and resolution. If such executives cannot
+reach a resolution of the dispute within a reasonable time, not to
+exceed thirty (30) days unless otherwise agreed by the parties in
+writing, then such dispute shall be submitted to arbitration by the
+International Institute for Conflict Prevention and Resolution, 575
+Lexington Avenue, 21st Floor, New York, NY 10022
+(“CPR”) by one
+arbitrator mutually agreed upon by the Parties. If no agreement can
+be reached within thirty (30) days after names of potential
+arbitrators have been proposed by the CPR, then the CPR will choose
+one arbitrator having reasonable experience in commercial
+transactions of the type provided for in this Agreement. The
+arbitration shall take place in the English language in New York
+City, New York, in accordance with the CPR administered arbitration
+rules then in effect, and judgment upon any award rendered in such
+arbitration will be binding and may be entered in any court having
+jurisdiction thereof. Unless otherwise agreed to by the parties in
+writing, the arbitration shall commence within sixty (60) days of
+the date on which a written demand for arbitration is filed. The
+arbitrator’s decision shall set forth a reasoned basis for
+any award of damages or finding of liability. The arbitrator shall
+not have power to award damages in excess of actual compensatory
+damages and shall not multiply actual damages or award punitive
+damages.
+
+6.3
+
+Remedy for Breach. The parties
+understand and agree that monetary damages may not be sufficient
+remedy for breach of this Agreement and that the injured party will
+be entitled to seek equitable relief, including injunction and
+specific performance, for any such breach.
+
+7.
+
+MISCELLANEOUS
+
+7.1
+
+Relationship of the Parties.
+For the purposes of this Agreement,
+each party shall be an independent contractor and not an agent or
+employee of the other party. Neither party shall have authority or
+power to make any statements, representations or commitments of any
+kind, or to take any action which is binding on the other
+party, unless expressly so authorized to do so by an instrument in writing signed by
+authorized representatives of such other party.
+
+7.2
+
+Notices. All notices and other
+communications hereunder shall be in writing and shall be deemed
+given: (a) when delivered personally or by hand; (b) when delivered
+by facsimile transmission (receipt verified); (c) when received or
+refused, if sent by registered or certified or recorded post
+(return receipt requested), postage prepaid; or (d) when delivered
+by courier service; in each case, to the parties at the following
+addresses (or at such other address for a party as shall be
+specified by like notice; provided, that notices of a change of
+address shall be effective only upon receipt thereof):
+
+Page 6 of
+11
+
+Catalent
+
+Catalent Belgium
+S.A.
+
+Rue
+Font. St. Landry
+
+10 Parc
+Mercator B-1120
+
+Neder
+over Heembeek
+
+Belgium
+
+Attn:
+General Manager
+
+Fax:
+32-2-788-39-59
+
+With a copy to:
+
+Catalent Pharma
+Solutions
+
+14
+Schoolhouse Road
+
+Somerset, NJ
+08873
+
+USA
+
+Attn:
+General Counsel (Legal Department)
+
+Email :
+GenCouns@catalent.com
+
+Palatin
+Technologies, Inc.
+
+4-B
+Cedar Brook Drive
+
+Cranbury, New
+Jersey 08512
+
+U.S.A.
+
+Attn:
+Chief Financial Officer
+
+Fax:
+(609) 495-2202
+
+With a copy to:
+
+Thompson Hine
+LLP
+
+335
+Madison Avenue, 12th Floor
+
+New
+York, New York 10017 USA
+
+Attn:
+Faith Charles, Esq.
+
+Facsimile: (212)
+344-6101
+
+7.3
+
+Annexes. All Annexes (and any amendments to such Annexes)
+and their enclosures form an integral part of this Agreement and
+are incorporated herein by reference. This Agreement shall
+govern if there is any conflict
+between the terms of such Annexes and the terms of this
+Agreement.
+
+7.4
+
+Entire Agreement. This Agreement
+(including the Annexes hereto) and the Supply Agreement constitute
+the entire agreement between the parties related to the subject
+matter covered by this Agreement, shall supersede and prevail over
+any other prior or contemporaneous arrangements regarding this
+subject matter, whether written or oral, including without
+limitation the Binding Terms (as defined in the Recitals hereto),
+and is binding upon the parties hereto and their successors and
+permitted assigns. For the avoidance of doubt, this Agreement does
+not supersede any existing generally applicable confidentiality
+agreement between the parties as it relates to time periods prior
+to the date hereof or to business dealings not covered by this
+Agreement. No term of this Agreement may be amended except upon
+written agreement of both parties, unless otherwise expressly
+provided in this Agreement.
+
+7.5
+
+Assignment. Neither party may assign
+this Agreement, in whole or in part, without the prior written
+consent of the other party; provided, however, that either party may, without
+the other party’s consent, assign this Agreement in its
+entirety to an Affiliate or to a successor to substantially all of
+the business or assets of the assigning party or the assigning
+party’s business unit responsible for performance under this
+Agreement.
+
+7.6
+
+Severability. If any term of this
+Agreement is declared invalid or unenforceable by a court or other
+body of competent jurisdiction, the remaining terms of this
+Agreement will continue in full force and effect.
+
+Page 7 of
+11
+
+7.7
+
+No Waiver. In no event shall any delay,
+failure or omission (in whole or in part) in enforcing, exercising
+or pursuing any right, power, privilege, claim or remedy conferred
+by or arising under this Agreement or by law, be deemed to be or
+construed as a waiver of that or any other right, power, privilege,
+claim or remedy in respect of the circumstances in question, or
+operate so as to bar the enforcement of that, or any other right,
+power, privilege, claim or remedy, in any other instance at any
+time or times subsequently.
+
+7.8
+
+Counterparts. This Agreement (and any
+Annexes and amendments hereto) may be executed in two or more
+counterparts, each of which will be deemed an original but all of
+which together will constitute one and the same instrument.
+Delivery of an executed counterpart of this Agreement by fax or
+e-mail in an image format (e.g., .pdf file) shall be as effective
+as delivery of a manually executed counterpart of this
+Agreement.
+
+(signature
+page follows)
+
+Page 8 of
+11
+
+The
+parties have caused their respective duly authorized
+representatives to execute this Agreement effective as of the
+Effective Date.
+
+Palatin
+Technologies, Inc.
+
+Catalent
+Belgium S.A.
+
+/s/
+Stephen
+T. Wills 
+
+/s/
+Eric
+Kummer
+
+Name:
+Stephen
+T. Wills 
+
+Name:
+Eric
+Kummer
+
+Title:
+CFO/COO 
+
+Title:
+General
+Manager 
+
+Date:
+June
+20, 2016 
+
+Date:
+June
+14, 2016 
+
+Page 9 of
+11
+
+ANNEX 1
+
+MANUFACTURING PREPARATION PLAN
+
+***
+
+Page 10 of
+11
+
+INITIAL COST OVERVIEW FOR THE MANUFACTURING
+PREPARATION
+
+***
+
+Page 11 of
+11

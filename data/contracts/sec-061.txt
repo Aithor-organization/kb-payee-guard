@@ -1,0 +1,1234 @@
+EX-10
+2
+phonak09.htm
+SUPPLY AGREEMENT BY AND BETWEEN NVE CORPORATION AND PHONAK AG
+
+Phonak AG Supply Agreement
+
+Final Version 1.1 / Feb 19 2009
+
+SUPPLY
+
+AGREEMENT
+
+by and between
+
+NVE Corporation
+
+11409 Valley View Road
+
+Eden Prairie, MN 55344 USA
+
+(hereafter referred to as “Supplier”)
+
+and
+
+Phonak AG
+
+Laubisrütistrasse 28
+
+CH-8712 Stäfa
+
+Switzerland
+
+and affiliates
+
+(hereafter referred to as “Phonak”)
+
+(Supplier or Phonak hereafter “Party” or “Parties” as the case may be)
+
+Phonak AG / Supply Agreement
+
+Final Version 1.1 / Feb 19 2009
+
+Page 2 of 19
+
+CONTENT
+
+ 1
+ 
+PREAMBLE
+ 
+ 3
+
+ 2
+ 
+PRODUCT SPECIFICATION
+ 
+ 3
+
+ 3
+ FORECAST
+ 
+ 4
+
+ 4
+ STOCKS
+ 
+ 4
+
+ 5
+ ORDERS AND ORDER CONFIRMATIONS
+ 
+ 4
+
+ 6
+ 
+DELIVERY
+ 
+ 4
+
+ 7
+ 
+AVAILABILITY OF PRODUCT
+ 
+ 5
+
+ 8
+ KEY PERFORMANCE INDICATOR (KPI)
+ 
+ 5
+
+ 9
+ INVOICES AND PAYMENT CONDITIONS
+ 
+ 6
+
+ 10
+ AQUALITY ASSURANCE
+ 
+ 7
+
+ 11
+ APPLICABLE STANDARDS
+ 
+ 7
+
+ 12
+ CORRECTIVE ACTIONS
+ 
+ 7
+
+ 13
+ LIABILITY AND INDEMNIFICATION
+ 
+ 7
+
+ 14
+ INTELLECTUAL PROPERTY RIGHTS:
+ 
+ 8
+
+ 15
+ SUPPLIER INDEMNIFICATION
+ 
+ 9
+
+ 16
+ CONFIDENTIALITY
+ 
+ 9
+
+ 17
+ TERMINATION
+ 
+ 9
+
+ 18
+ MISCELLANEOUS
+ 
+ 10
+
+ 19
+ APPLICABLE LAW AND JURISDICTION
+ 
+ 11
+
+ APPENDIX A: PHONAK GROUP SUPPLIER PRINCIPLES (<< PGSP >>)
+ 
+ 12
+
+ APPENDIX B: PRODUCT list
+ 
+ 15
+
+ APPENDIX C: CORRECTIVE ACTION REPORT FORM
+ 
+ 16
+
+ APPENDIX D: KPI VALUATION
+ 
+ 18
+
+ INCOMING INSPECTION
+ 
+ 18
+
+ ON TIME DELIVERY
+ 
+ 18
+
+ RETURN FROM FIELD
+ 
+ 18
+
+ APPENDIX E: PERCEIVED SERVICE PERFORMANCE QUESTIONNAIRE
+ 
+ 19
+
+2
+
+Phonak AG / Supply Agreement
+
+Final Version 1.1 / Feb 19 2009
+
+Page 3 of 19
+
+1
+
+PREAMBLE
+
+ 1.1.
+ Supplier designs and manufactures magnetic sensor ICs for use in
+commercial, medical, industrial, and automotive applications.
+
+ 1.2.
+ Phonak has and continues to develop, manufacture and sell hearing
+systems using Supplier’s spintronic medical sensors.
+
+ 1.3.
+ Supplier and Phonak wish to enter in a supply agreement (the Agreement)
+for the supply of the products listed in Appendix B (the Product(s)), by
+Supplier.
+
+ 1.4.
+ It is the intention of the Parties to define in this Agreement the processes
+linked to the ordering, delivery, payment of the Product, as well as, in the
+case it is needed, corrective actions handling, and to describe the
+precautions that will be taken to ensure quality and availability of the
+Product.
+
+ 1.5
+ Phonak shall mean Phonak AG and/or the parent company of Phonak AG,
+Sonova Holding AG, and any legal entity of which at least 50% of the
+voting shares or similar voting rights now or hereafter are owned or
+controlled, directly or indirectly by Sonova Holding AG, or in which Sonova
+Holding AG otherwise has the ability to direct the management.
+
+ 2
+
+ PRODUCT SPECIFICATION
+
+ 2.1.
+ Phonak and Supplier will agree on a specification (Specification) defining
+completely the product to be delivered. This specification includes namely but not
+limited to:
+
+ 2.1.1.
+ Technical parameters that the product has to meet
+
+ 2.1.2.
+ Reliability tests the Product has to pass
+
+ 2.1.3.
+ Packaging and labeling of the Product if required
+
+ 2.1.4.
+ Quality and inspection documents required for each lot
+
+ 2.2.
+ No change in the Specification and/or in the manufacturing process of the Product
+that could influence form fit and function of the Product shall be executed without
+prior approval of Phonak.
+
+ 2.3.
+ Traceability: The production lots shall be identified on the reels containing the
+product in order to allow traceability of the final inspection records and of process
+parameters for failure analysis purposes. Individual parts are not traceable.
+Traceability shall be guaranteed for 6 years after delivery of the Product.
+
+3
+
+Phonak AG / Supply Agreement
+
+Final Version 1.1 / Feb 19 2009
+
+Page 4 of 19
+
+ 3
+
+FORECAST
+
+ 3.1.
+ Phonak will provide Supplier with monthly rolling forecasts. Rolling forecasts will extend over 12 months, first month being firm and next 11 months being nonbinding forecasts.
+
+ 4
+
+ STOCKS
+
+ 4.1.
+ Rolling Stocks Supplier commits have in house the equivalent of 1 month of deliveries as finished goods.
+
+ 4.2.
+ Storage conditions: Storage conditions shall be:
+
+ [Prior to use reels of the parts will remain in their protective anti-static bags, at normal room temperature (22C +/- 5C) and humidity conditions]
+
+ 4.3.
+ Shelf life: Under the storage conditions described in section 4.2, Supplier guarantees that the product will not be affected by any significant change in aspect or performance for 18 months.
+
+ 5
+
+ ORDERS AND ORDER CONFIRMATIONS
+
+ 5.1.
+ Phonak will issue the purchase orders by mail, FAX or by a mutually agreed electronic data interchange (EDI) system. Phonak will not accept invoices for orders that have been given in any other form. Supplier shall confirm the orders within 5 calendar days by signed and dated return FAX of the original order or by Supplier specific documents or by mutually agreed EDI system. Phonak is only bound to this order if the order confirmation shows no difference with respect to the content of the original order of Phonak.
+
+ 5.2.
+ Order confirmation is a commitment of Supplier and shall not be modified without prior agreement of Phonak.
+
+ 6 
+
+ DELIVERY
+
+ 6.1.
+ Delivery time: Delivery time is 8 – 10 weeks from receipt of the order. Delivery time for quantity significantly higher than the forecast have to be discussed at the time of the order.
+
+ 6.2.
+ Terms of delivery: Terms of delivery are FOB NVE’s Dock, To all Sonova affiliates as mentioned in 1.5
+
+4
+
+Phonak AG / Supply Agreement
+
+Final Version 1.1 / Feb 19 2009
+
+Page 5 of 19
+
+ 6.3.
+ Late delivery
+
+ 6.3.1.
+ If, because of exceptional circumstances, a delivery schedule is in
+doubt Supplier shall inform Phonak as soon as NVE is aware of the
+problem. Supplier shall make every effort to ensure timely deliveries
+to Phonak before there is a risk of production stop at Phonak.
+Additionally Supplier shall start an “Express LOT” in production and
+set Phonak products on 1st priority level at test as well as in the
+whole supply chain to reach a dramatically shortened lead time.
+
+ 6.3.2.
+ Phonak is, in case of late delivery having stopped production, entitled to
+challenge from supplier best efforts to solve the delivery problem and Supplier
+agrees to act immediately and provide an action plan to Phonak within one
+week. The action plan has to define how and when NVE will meet the
+schedule.
+
+ 6.4.
+ Packaging, Labeling: Supplier bears the full responsibility for proper packaging of
+the Products.
+
+ 6.5.
+ Packing slip
+
+ Every lot must bear a numbered delivery note that gives information on the
+contents (description of Products) including:
+
+ 6.5.1.
+ The corresponding Phonak order number
+
+ 6.5.2.
+ The Phonak part number of the units delivered
+
+ 6.5.3.
+ The lot number with the corresponding quantity
+
+7
+
+ AVAILABILITY OF PRODUCT
+
+ 7.1.
+ Supplier commits to make any effort to have Product fulfilling the specifications
+available in time and quantities planned according to section 2.
+
+ 7.2.
+ In case Supplier plans to discontinue the supply of the Product, Supplier will give
+Phonak a 1 year notice, before giving Phonak the opportunity to place a last call
+order.
+
+ 7.3.
+ Supplier shall ensure that enough materials will be available to cover the Phonak
+Forecast considering the over all yield and the regulations of safety stock.
+Moreover the supplier shall ensure and maintain a proper Supply chain
+considering second source strategy.
+
+ 8
+ KEY PERFORMANCE INDICATOR (KPI)
+
+Phonak will measure the performance of the Supplier through KPI on a quarterly
+basis, as defined below:
+
+ 8.1.
+ On Time Delivery (OTD): The actual date of delivery will be compared to the confirmed date of delivery and a valuation will be attributed (see appendix C).
+
+5
+
+Phonak AG / Supply Agreement
+
+Final Version 1.1 / Feb 19 2009
+
+Page 6 of 19
+
+ 8.2.
+ Return Rate from Field (RRF): A valuation based on a target value will be given
+for the return rate of Hearing Instruments from the field in 90 days (see appendix
+C). Phonak will segregate the return of sensors believed to have caused returns
+from the field from other sensors to enable Supplier to validate the failure of the
+sensor.
+
+ 8.3.
+ Perceived Service Performance (PSP): A questionnaire will be completed by
+the 3 Phonak locations to give a general evaluation of the service level of the
+Supplier (See Questionnaire in appendix D).
+
+ 8.4.
+ The valuation of each of these KPI will be made quarterly, in percent.
+
+ The minimum Performance Level required is:
+
+ Average of all KPI, for each Phonak Affiliates: > 95%
+
+No KPI below 90%
+
+ 8.5.
+ Phonak will provide these results upon request supported by copies of applicable
+reports showing the basis of the measurements including sufficient information
+from the PSP questionnaires to allow Supplier to have the opportunity to
+implement corrective actions.
+
+ 8.6.
+ In case the performance level is not reached, Phonak is entitled to reduce the
+share of Product purchased from Supplier while keeping the agreed upon prices
+and conditions of supply.
+
+ 9
+ 
+INVOICES AND PAYMENT CONDITIONS
+
+ 9.1.
+ Invoices will be issued not earlier than the date of shipment and will be sent to
+the following address:
+
+ Phonak AG
+
+Laubisrütistrasse 28
+
+CH-8712 Stäfa
+
+ 9.2.
+ Invoices will include:
+
+ 9.2.1.
+ The corresponding Phonak order number
+
+ 9.2.2.
+ The Phonak part number of the units delivered (one line per part
+number)
+
+ 9.2.3.
+ The lot number with the corresponding quantity
+
+ 9.3.
+ Payment conditions will be net 30 days after date of the invoice.
+
+6
+
+Phonak AG / Supply Agreement
+
+Final Version 1.1 / Feb 19 2009
+
+Page 7 of 19
+
+ 10
+ AQUALITY ASSURANCE
+
+ 10.1.
+ Supplier ensures to maintain its quality system according ISO 9000 to ensure all
+products to be delivered fully meet the data sheet
+
+ 10.2.
+ Policy regarding incoming goods: Phonak expects supplier to deliver Products
+meeting Specifications. An incoming inspection is therefore not required and
+Phonak will only do sample checks on incoming goods.
+
+ 10.3.
+ Phonak’s incoming inspection (if any, on a sample basis): Phonak incoming
+inspection procedure and acceptance criteria will be the object of a written
+agreement between Supplier and Phonak.
+
+ 10.4.
+ Warranty: Supplier warrants that the product will continue performing according to specification 18 months after the end product has been delivered to Phonak
+
+ 11
+ APPLICABLE STANDARDS
+
+ 11.1.
+ The product shall be implemented in a device complying with class 2A of the 93/42/EEC Medical directive.
+
+ 12
+ CORRECTIVE ACTIONS
+
+ 12.1.
+ Quality complaints
+
+If Phonak detects defective product at any production stage Phonak will provide a
+written test report to Supplier. Supplier shall immediately acknowledge receipt
+take short-term corrective action independent of the cause and of the
+responsibility for the problem. Supplier shall analyze the problem and provide a
+written report including long term corrective action within 14 days and keep
+Phonak informed of the progress in the mean time.
+
+ 12.2.
+ Corrective action procedure:
+
+Supplier shall document corrective actions using the 8D corrective action report of
+APPENDIX C:, or equivalent.
+
+ 13
+ LIABILITY AND INDEMNIFICATION
+
+ 13.1.
+ Subsequent to the mutual consent confirming that the Product are meeting the
+Specifications and upon commencing with the supply of the Product to Phonak,
+Phonak is, in case of defects in the Product, entitled to the following: 
+
+7
+
+Phonak AG / Supply Agreement
+
+Final Version 1.1 / Feb 19 2009
+
+Page 8 of 19
+
+ 13.1.1. 
+ If the Product suffers from defects which are so substantial, or deviate
+from the Specifications to such an extent, that they are unusable or that
+the acceptance of Phonak cannot reasonably be expected by Supplier,
+and such defects are known or are the direct result of intent, gross
+negligence or fraud committed by Supplier, then Phonak is entitled to
+refuse acceptance and Supplier has to replace the Products within
+briefest possible time without cost for Phonak.
+
+ 13.1.2. 
+ If the defects or the deviations from the Specifications caused by
+Supplier are less substantial, then Phonak acting reasonably request the
+improvement and/or replacement of the Product without cost for
+Phonak.
+
+ 14
+ INTELLECTUAL PROPERTY RIGHTS:
+
+ 14.1.
+ Supplier hereby grants to Phonak an irrevocable, non-exclusive, royalty-free
+license to use Supplier’s Product in Phonak’s applications. Royalty fees for the use
+of any intellectual property contained in the product are included in the selling
+price of the Product.
+
+ 14.2.
+ Except under the conditions described in 14.3, Supplier, at its own expense, shall
+indemnify and hold harmless Phonak and defend any action brought against
+Phonak with respect to any claim, demand or cause of action to the extent that it
+is based upon a claim that the Product infringes or violates any patent, copyright,
+trade secrets, or other intellectual property rights of any third party. Supplier shall
+control such defense; however, Phonak may participate in the defense at its own
+expense. Phonak shall provide Supplier with written notice of any claim which it
+believes falls within the scope of this Section 14 within 15 days. Supplier shall not
+be liable for any monies paid by Phonak in damages, settlement or otherwise
+relating to any claim under this Section 14. without Supplier’s express written
+consent.
+
+ 14.3.
+ In the event the Product or any portion thereof is held to constitute an
+infringement and its use enjoined by a final non-appealable decree, Supplier, at its
+sole option, shall (a) procure the right to continue using the Product; (b) replace
+or modify the Product to render it non-infringing without material change in form,
+fit and function; or (c) replace the Product with equally suitable non-infringing
+product.
+
+ 14.4.
+ Supplier shall not be liable and shall have no obligation to defend under this
+Section 14. to the extent any claim, demand or cause of action is based upon: (a)
+use of the Product in combination with any other product or device, (b)
+modification of the Product or (c) Phonak’s application of the Product.
+
+ 14.5.
+ Supplier shall indemnify and hold Phonak, its employees, and agents
+harmless from and against any and all liabilities, claims, demands, actions, suits,
+losses, damages, costs and expenses (including reasonable attorney’s fees) to the
+extent resulting from Supplier’ breach of obligations and warranties under this
+Section 14.
+
+8
+
+Phonak AG / Supply Agreement
+
+Final Version 1.1 / Feb 19 2009
+
+Page 9 of 19
+
+ 15
+ SUPPLIER INDEMNIFICATION
+
+Phonak will indemnify, defend, and hold harmless Supplier and its officers, directors,
+employees, agents, and contractors from and against any and all losses, claims,
+damages, liabilities, and expenses (including reasonable attorneys fees) arising out of or
+based upon Phonak’s application of Product. Supplier shall give Phonak written notice of
+any such claim within 15 days and shall cooperate in the defense of such claim at
+Phonak’s expense. Furthermore, Supplier agrees that Phonak shall have sole control over
+the defense or settlement of any such claim, action or proceeding, including, but not
+limited to, the right to select defense counsel, and that neither it nor its officers,
+directors, employees, agents, or contractors shall enter into any agreement with respect
+to such claim, action or proceeding for which indemnification is or may be sought without
+receipt of Phonak’s prior written approval.
+
+ 16
+ CONFIDENTIALITY
+
+ 16.1.
+ As a U.S. publicly-traded company, NVE may be required to file this supply
+agreement as a public document with the U.S. Securities and Exchange
+Commission. In this case, Supplier agrees to file a Confidential Treatment Request
+with the Securities and Exchange Commission to request that details relating to
+the volume of products purchased by Phonak and the price of the Products be
+redacted from the public filing. Exclusive of this requirement, each Party will keep
+confidential and will not disclose to any third party the details of the collaboration
+under this Agreement nor any information obtained from another Party which is
+designated as confidential. No Party will use any information obtained from
+another Party which is designated as confidential except for the purposes of
+fulfilling its obligations under this Agreement. The Parties will advise their
+employees and Affiliates of the confidential nature of the collaboration under this
+Agreement and will ensure that such employees and Affiliates comply with the
+obligations of confidentiality in this Section.
+
+ 16.2.
+ Information and Marketing to the Public: Any information to the public, such as
+namely advertisement or marketing, or any reference to Phonak in oral or written
+presentations or technical documentation and the like, or any other activities
+conducted towards the public making a reference to Phonak, shall only take place
+upon prior consultation and mutual consent between the Parties.
+
+ 17
+ TERMINATION
+
+ 17.1.
+ This Agreement shall remain in force for a period of three (3) years from the last date of signature, or 180 days after the last purchase of Product by Phonak, whichever is sooner, renewable with the mutual (written) consent of both Parties.
+
+ 17.2.
+ This Agreement may be terminated earlier than stipulated here above under the following conditions:
+
+ 17.2.1.
+ Either Party may terminate this Agreement at any time and with immediate effect by a notice in writing to the other Party if the other Party is in material breach in the performance of one or more of its
+
+9
+
+Phonak AG / Supply Agreement
+
+Final Version 1.1 / Feb 19 2009
+
+Page 10 of 19
+
+ obligations hereunder, provided that the Agreement shall not be so
+terminated if the Party in default has cured the default within thirty
+(30) days after the notice has been given. Either Party may
+terminate this Agreement at any time and with immediate effect by
+a notice in writing to the other Party if the other Party shall go into
+liquidation, winding up proceedings be commenced in relation to it,
+have a receiver, administrator, administrative receiver or manager
+of its assets appointed, or any other similar appointment is made
+under the laws of any jurisdiction, or upon that other Party ceasing
+to do business for thirty (30) consecutive days.
+
+ 17.2.2.
+ If a Party shall come under the control of any third party or parties
+other than an Affiliate and/or in the case of an initial public offering
+(IPO) and if such change of control or IPO could affect and conflict
+with the other Party’s business interests, then the other Party may,
+within ninety (90) days of receiving notice of the change of control or
+IPO, terminate this Agreement by giving thirty (30) days’ notice in
+writing.
+
+ 17.3.
+ Termination of this Agreement shall not release either Party from fulfilling any
+obligations which it may have incurred prior to any such termination or from the
+obligation of confidentiality as specified in and referred to throughout this
+Agreement.
+
+ 17.4.
+ The following Sections shall continue in full force and effect after expiry or
+termination of this Agreement for any reason: Sections 2, 10.4, 13, 14, 15, 16,
+17, 18 and 19.
+
+ 18
+ MISCELLANEOUS
+
+ 18.1.
+ This Agreement embodies the entire understanding of the Parties as it relates to
+the subject matter of this Agreement, and this Agreement supercedes any prior
+agreement or understandings between the Parties with regard to such subject
+matter.
+
+ 18.2.
+ No amendment or modification of this Agreement shall be valid or binding upon
+the Parties unless signed by their respective duly authorized officers.
+
+ 18.3.
+ This Agreement cannot be assigned by any Party (except to an Affiliate) without
+the written consent of the other Parties, such consent not to be unreasonably
+withheld. Should such an assignment be made by one Party without the written
+consent of the other Parties, such assignment will be null and void.
+
+ 18.4.
+ 
+The waiver by any Party of a breach or default in any of the provisions of this
+Agreement by another Party shall not be construed as a waiver by such Party of
+any succeeding breach of the same or other provisions nor shall any delay or
+omission on the part of any Party to exercise or avail itself of any right, power or
+privilege that it has or may have hereunder operate as a waiver of any right,
+power or privilege by such Party.
+
+10
+
+Phonak AG / Supply Agreement
+
+Final Version 1.1 / Feb 19 2009
+
+Page 11 of 19
+
+ 18.5.
+ If any term or provision of this Agreement shall be judged to be invalid, the
+validity of any other term or provision shall not be thereby affected and such
+invalid term or provision shall be deemed deleted from this Agreement.
+
+ 19
+ APPLICABLE LAW AND JURISDICTION
+
+ 19.1.
+ This Agreement is construed in accordance with and governed by Delaware law,
+the UN-Convention on Contracts for the International Sale of Goods, as well as
+general terms of sale of Supplier. General order terms of Phonak shall not be
+applicable to this Agreement.
+
+ 19.2.
+ Any disputes arising out of or in connection with this Agreement shall be
+submitted to State of Delaware courts.
+
+ For PHONAK AG:
+ 
+For NVE:
+
+By: /s/ PAUL SCHURTER 
+ 
+By: /s/ D. BAKER 
+
+ Paul Schurter
+ Daniel Baker
+
+ Director, Corporate Procurement
+ President and CEO
+
+ Place: Stäfa
+ Place: Eden Prairie, MN
+
+ Date: 30.03.09
+ Date: May 1, 2009
+
+ By: /s/ HANS MEHL 
+
+ Hans Mehl
+
+ Vice President Operations
+
+Place: Stäfa
+ 
+Place:
+
+Date:
+ Date:
+
+11
+
+Phonak AG / Supply Agreement
+
+Final Version 1.1 / Feb 19 2009
+
+Page 12 of 19
+
+APPENDIX A: PHONAK GROUP SUPPLIER PRINCIPLES (<< PGSP >>)
+
+Released by the CEO of Phonak Holding AG on April 2007
+
+Objective
+
+At Phonak Holding AG and its affiliates (“Phonak”), we have set high standards for the
+
+way we conduct business in areas from social and corporate responsibility to sound
+
+business ethics, including compliance with all applicable laws and regulations. Phonak
+
+Group employees are bound to the Phonak Group Code of Conduct. They behave
+
+according to accepted ethical principles when interacting with colleagues, customers,
+
+suppliers, business partners and shareholders.
+
+In turn, we expect the same commitment from our suppliers. The objective of the Phonak
+
+Group Supplier Principles (“PGSP”) is to define the standards of governance and practice
+
+that must be adhered to by all suppliers conducting business with Phonak.
+
+Scope
+
+The Phonak Group Supplier Principles apply to all suppliers with whom Phonak have a
+
+contractual relationship, including contractors, suppliers of goods and services, copackers
+
+and joint-venture partners (“Suppliers”). It is a prerequisite for doing business
+
+with Phonak that any Supplier complies with these PGSP.
+
+Even though Phonak acknowledges that legislation and cultural patterns vary across the
+
+world and that Suppliers consequently operate under different circumstances, these
+
+Phonak Group Supplier Principles set out the basic requirements any Supplier must
+
+comply with. In cases where the law in question is more comprehensive than these
+
+PGSP, current law applies. In cases where these PGSP are more comprehensive than the
+
+law in question, these PGSP apply.
+
+Principles
+
+The Working Environment
+
+The Supplier shall ensure a healthy and safe working environment where the sources of
+
+noise and air pollution are under control. Applicable laws and regulations for a good
+
+working environment, including the safety and health of the employees, must be
+
+complied with. Factory facilities must be well maintained and kept in clean condition.
+
+The Supplier shall especially:
+
+Ensure that indoor production and work areas have adequate air circulation.
+
+Constantly increase safety in production by ensuring sufficient light in the areas used for
+
+– as an example – moulding, printing and finishing activities.
+
+Protect the employees against noise and air pollution by mandatory use of protective
+
+equipment against damages to hearing, sight, respiratory passages etc. The protective
+
+equipment should be made available by the Supplier free of charge.
+
+12
+
+Phonak AG / Supply Agreement
+
+Final Version 1.1 / Feb 19 2009
+
+Page 13 of 19
+
+Ensure the health of the employees by protecting the employees against the risks
+
+involved in performing their work.
+
+Give reasonable access to drinking water and toilet facilities. Sanitary conditions should
+
+be satisfactory and kept clean.
+
+Keep well-stocked first-aid kit available in each production unit for medical reasons.
+
+Make it possible to exit the facility from inside.
+
+Place well-functioning fire alarms and fire extinguishers in each production unit.
+
+Store dangerous and/or toxic substances safely in locations that are adequately
+
+ventilated and ensure that handling of these materials is safe. Waste from use of
+
+dangerous and/or toxic substances should be treated in accordance with applicable law.
+
+Basic Working Conditions
+
+The Supplier shall treat all his employees with respect and dignity and shall ensure all
+
+applicable laws and regulations.
+
+The Supplier shall especially:
+
+Not use child labor. The term “child” refers to any person employed under the age of 15,
+
+or under the age for completing compulsory education, or under the minimum age for
+
+employment in the country, whichever is greatest. The use of legitimate workplace
+
+apprenticeship programs, however, is supported by us.
+
+Not use forced labor, regardless of its form, or involuntary prison labor. Physically
+
+abusive disciplinary practices will not be tolerated.
+
+Not use illegal workers.
+
+Not tolerate harassment or discrimination on the basis of sex, race, color, religion, age,
+
+ethnic or national origin, marital/parental status or sexual orientation.
+
+Respect the legal rights of employees to join or to refrain from joining worker
+
+organizations, including trade unions.
+
+Comply with applicable law regulating hours of work. If no current law applies, Phonak
+
+stipulates max. standard working hours of 10 hours per day and 50 hours per week.
+
+Working hours must be organized in such a way that the employee can plan his own
+
+leisure time. In each 7-day cycle the employee is entitled to at least one day off.
+
+Comply with the current law concerning wages, compensation for overtime and payment
+
+procedures. The employees are entitled to at least a statutory minimum wage or the
+
+standard rate in the industry.
+
+Environmental Friendly Production
+
+The Supplier shall operate in a manner that is protective of the environment. At a
+
+minimum, the Supplier shall follow all environmental laws and regulations. The Supplier
+
+shall gradually promote environmentally friendly production. Waste, wastewater and
+
+13
+
+Phonak AG / Supply Agreement
+
+Final Version 1.1 / Feb 19 2009
+
+Page 14 of 19
+
+energy consumption are important elements in environmentally friendly production. The
+
+Supplier must therefore be able to handle his waste, including waste from toxic
+
+substances, in a satisfactory way. The Supplier is recommended to use the international
+
+standard ISO 14001 as a starting point and a basis for his work.
+
+Subcontractors
+
+If the Supplier retains subcontractors to perform work on the goods or their component
+
+parts, the Supplier will only use subcontractors that will adhere to the requirements of
+
+these PGSP.
+
+Ethical Dealings
+
+The Supplier shall conduct his business in accordance with the highest ethical standards.
+
+Suppliers must strictly comply with all laws and regulations on bribery, corruption and
+
+prohibited business practices.
+
+Communications and Record Keeping
+
+The Supplier must make the Phonak Group Supplier Principles and other relevant
+
+information available to employees in the local language in an accessible way.
+
+The Supplier shall maintain documentation necessary to demonstrate
+
+compliance with these Phonak Group Supplier Principles and must provide
+
+Phonak with access to that documentation upon Phonaks request.
+
+14
+
+Phonak AG / Supply Agreement
+
+Final Version 1.1 / Feb 19 2009
+
+Page 15 of 19
+
+ APPENDIX B: PRODUCT list
+
+ Phonak part no / 009-0507 Suppliers part no / AFL000-10E
+
+15
+
+Phonak AG / Supply Agreement
+
+Final Version 1.1 / Feb 19 2009
+
+Page 16 of 19
+
+APPENDIX C: CORRECTIVE ACTION REPORT FORM
+
+ CAR Number: 
+
+ Supplier:
+
+ Concern Title:
+
+ 1. Device information:
+
+ Date:
+
+ Product type:
+
+ Lot(s):
+
+ Quantity:
+
+ Date(s) delivered:
+
+ Other identification:
+
+ 2. Contact persons: 
+
+ Date:
+
+ Name
+
+ Phone
+ Email address
+
+ 3. Problem description: 
+
+ Date:
+
+ What 
+
+ Should be
+ Is
+ Percentage
+
+ 4. Interim containment actions: 
+
+ Date:
+
+ What 
+
+ Who
+ When
+ % found
+
+ Next information on founding:
+
+ 5. Root cause definition:
+
+ Date:
+
+ 5.1. Action to find out (if not already known)
+ Who
+ When
+
+ 5.2. Result: Root cause description
+
+ Date:
+
+16
+
+Phonak AG / Supply Agreement
+
+Final Version 1.1 / Feb 19 2009
+
+Page 17 of 19
+
+ 6. Permanent Corrective action:
+ Date
+
+ What
+ Who
+ When
+
+ 7:Verification of corrective actions:
+
+ Date:
+
+ What
+ Who
+ When
+ Result
+
+ 8. Prevention of reoccurrence:
+ Date:
+
+ What
+ Who
+ When
+
+17
+
+Phonak AG / Supply Agreement
+
+Final Version 1.1 / Feb 19 2009
+
+Page 18 of 19
+
+APPENDIX D: KPI VALUATION
+
+INCOMING INSPECTION
+
+ Na= Number of lots accepted 
+
+Nc= Number of of lots accepted with concession 
+
+Nr= Number of lots rejected 
+ Valuation: 
+
+Valuation:
+
+Valuation:
+
+100 pts.
+
+50 pts.
+
+1 pt .
+
+Valuation for period: IIR= (100*Na+50*Nc+Nr)/(Na+Nc+Nr)
+
+ON TIME DELIVERY
+
+ = (Actual delivery date)-(Delivery date on order confirmation)
+
+ T1 = Nber of lots where = -3 to +2 days
+
+T2 = Nber of lots where = -3 to -10 days or = +2 to +10 days
+
+T3 = Nber of lots where = -10 to -n days or = +10 to +n days
+ Valuation: 
+
+Valuation:
+
+Valuation:
+
+100 pts.
+
+50 pts.
+
+1 pt .
+
+Valuation for period: OTD=(100*T1+50*T2+T3)/(T1+T2+T3)
+
+RETURN FROM FIELD
+
+Valuation for period: RFF= 1-(Total number of units returned/Total number shipped)
+
+18
+
+Phonak AG / Supply Agreement
+
+Final Version 1.1 / Feb 19 2009
+
+Page 19 of 19
+
+APPENDIX E: PERCEIVED SERVICE PERFORMANCE QUESTIONNAIRE
+
+ Period : _______________
+
+Performance Level Scale:
+
+ Supplier Name:______________________________
+
+ 5________ 4________3________2________1
+
+Excellent Good Satisfactory Fair Poor
+
+ 1. Purchasing and Finance
+
+Score
+
+Prior
+
+Score
+
+ 1.1 Supplier provides adequate confirmations and advance shipping notices.
+
+ 1.2 Degree of ease with switchboard, voicemail, routing of calls & faxes.
+
+ 1.3. Responses to any questions are timely and effective.
+
+ 1.4 Helpfulness and willingness to resolve problems.
+
+ 1.5 Ability to hold or reduce costs or add value without increasing costs.
+
+ 1.6 Ability of this supplier to react to changes in requirements within lead-time.
+
+ 1.7 Supplier invoice accuracy.
+
+ 2. Incoming Receiving and Stockroom Processes Prior
+
+Score
+
+Prior
+
+Score
+
+ 2.1 Supplier labels all goods with Phonak part number and quantity.
+
+ Add a bonus point for bar-coded labels.
+
+ 2.2 Supplier packaging adequacy, quality and ease of handling. Add a bonus
+
+ point if the supplier packaging is recyclable / re-usable in another
+
+ application.
+
+ 2.3 Accuracy of quantities on received goods.
+
+ 2.4 Shipping documents - accuracy of purchase order lines and release
+
+ numbers.
+
+ 3. Engineering, Documentation & Product Development Prior
+
+Score
+
+Prior
+
+Score
+
+ 3.1 Supplier shows evidence of investment in current technology
+
+ 3.2 Adequacy of catalogues or documentation regarding products or services
+
+ 3.3 Technical competency of supplier representatives
+
+ 3.4 Cycle time to provide samples and answers to technical requests
+
+ 3.5 Time to solve technical problems
+
+ 4. Quality Audit
+
+ (Score 5 if there were no quality related problems during the review period)
+
+ 4.1 Supplier provides timely response to quality problems or inquiries.
+
+ 4.2 Supplier provides timely documentation for corrective action
+
+ 4.3 Supplier solutions provide adequate long term fixes for quality problems.
+
+ Totals
+
+ Score = 100*Total/76 
+
+19

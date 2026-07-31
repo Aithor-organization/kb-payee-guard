@@ -1,0 +1,1981 @@
+EX-10.1
+2
+exh101.htm
+MASTER INNOVATION AND SUPPLY AGREEMENT
+
+ exh101.htm
+
+Exhibit
+ 10.1
+
+Execution
+ Copy
+
+MASTER
+ INNOVATION AND SUPPLY AGREEMENT
+
+between
+
+THE
+ HERSHEY COMPANY
+
+and
+
+BARRY
+ CALLEBAUT, AG
+
+_____________________________
+
+Dated
+ this 13th day
+ of July, 2007
+
+_____________________________
+
+TABLE
+ OF CONTENTS
+
+Page
+
+1.
+
+DEFINITIONS
+
+1
+
+2.
+
+SUPPLY
+ AGREEMENTS
+
+2
+
+3.
+
+STEERING
+ COMMITTEE
+
+13
+
+4.
+
+STANDARDS
+ FOR PERFORMANCE
+
+13
+
+5.
+
+NON-COMPETE
+ AGREEMENT
+
+14
+
+6.
+
+NON-SOLICITATION
+
+14
+
+7.
+
+CONFIDENTIALITY
+
+14
+
+8.
+
+TERM
+
+17
+
+9.
+
+TERMINATION
+
+17
+
+10.
+
+INDEPENDENT
+ CONTRACTORS
+
+18
+
+11.
+
+REPRESENTATIONS
+ AND WARRANTIES
+
+18
+
+12.
+
+INDEMNIFICATION
+
+19
+
+13.
+
+FORCE
+ MAJEURE
+
+20
+
+14.
+
+NOTICE
+
+20
+
+15.
+
+NO
+ WAIVER
+
+21
+
+16.
+
+ASSIGNMENTS
+
+21
+
+17.
+
+GOVERNING
+ LAW
+
+21
+
+18.
+
+REAL
+ ESTATE AGREEMENTS
+
+21
+
+19.
+
+ENTIRE
+ AGREEMENT AND HEADINGS
+
+21
+
+20.
+
+CONFLICTING
+ TERMS
+
+21
+
+21.
+
+PREPRINTED
+ TERMS
+
+22
+
+22.
+
+BINDING
+ EFFECT
+
+22
+
+i
+
+EXHIBITS
+
+Exhibit
+ A: Hershey
+ Specifications
+
+Exhibit
+ B: Form of Open Book
+ Costing Data
+
+Exhibit
+ C: Insurance
+
+Exhibit
+ D: 
+Competitors
+
+Exhibit
+ E: Product Guaranty and
+ Indemnity
+
+Exhibit
+ F: Global Volume Increment
+ Examples
+
+ii
+
+MASTER
+ INNOVATION AND SUPPLY AGREEMENT
+
+MASTER
+ INNOVATION AND SUPPLY AGREEMENT (this “Agreement”) is entered into this
+ 13th day of
+ July, 2007.
+
+BETWEEN:
+
+THE
+ HERSHEY COMPANY, a corporation organized and existing under the laws of
+ the State of Delaware, with a principal place of business at 100 Crystal A
+ Drive, Hershey, Pennsylvania 17033 (hereinafter individually referred to as
+ "Hershey" or a “Party”),
+
+and
+
+BARRY
+ CALLEBAUT, AG, a corporation organized and existing under the laws of
+ Switzerland, with a principal place of business at Westpark Pfingstweidstrasse
+ 60, 8500 Zurich, Switzerland (hereinafter individually referred to as
+“Callebaut” or a “Party”).
+
+Hershey
+ and Callebaut may collectively be referred to herein as the
+“Parties”.
+
+BACKGROUND:
+
+Hershey
+ and Callebaut are manufacturers of chocolate and confectionery products and
+ have
+ experience in the design, development, manufacture and marketing of such
+ products. Simultaneous with the signing of this Agreement, Hershey
+ and Callebaut have entered into a Product Development and Innovation Agreement
+ (together with any exhibits thereto, the “Innovation Agreement”) under which
+ Hershey will utilize Callebaut’s product development, innovation and
+ manufacturing expertise and Hershey and Callebaut will collaborate on joint
+ development of new technologies and products. Hershey and Callebaut now wish
+ to
+ enter into this Agreement and the related Supply Agreements, pursuant to which
+ Callebaut will manufacture certain products and ingredients for
+ Hershey.
+
+1.
+
+DEFINITIONS
+
+In
+ addition to the terms defined elsewhere in this Agreement, whenever used in
+ this
+ Agreement the following terms shall have the respective meanings set out
+ below:
+
+“Affiliate”
+ means a wholly owned subsidiary of a Party.
+
+“Bulk
+ Chocolate Product” means chocolate in solid and/or liquid form, including
+ chocolate chips and chocolate chunks in any form.
+
+“Cocoa
+ Ingredient” means cocoa liquor, cocoa butter and/or cocoa
+ powder.
+
+“Finished
+ Consumer Chocolate Confectionery Product” means any product in any form that
+ does not require further processing prior to retail sale to a
+ consumer.
+
+“Global
+ Supply Agreement” means the Supply Agreement of even date herewith for
+ Products sourced between the Parties other than those Products sourced under
+ the
+ Supply Agreement for Mexico, the Supply Agreement for Robinson or a Subsequent
+ Supply Agreement, together with any exhibits thereto.
+
+“Hershey
+ Specifications” means the product specifications, technical procedures and
+ quality requirements provided from time to time by Hershey.
+
+1
+
+“Losses”
+ means damages, losses, liabilities, obligations and claims of any kind
+ (including, without limitations, reasonable attorney’s fees and
+ expenses).
+
+“North
+ America” means the United States, Canada, Mexico, Puerto Rico and the U.S.
+ Virgin Islands.
+
+“Products”
+ means any and all products defined as such in a Supply Agreement.
+
+ “Real
+ Estate Agreements” means the Lease Agreement for the Monterrey, Mexico land
+ and the Lease Agreement for the Robinson, Illinois premises, together in each
+ instance with any exhibits thereto.
+
+“Related
+ Agreements” mean, collectively, each Supply Agreement, the Real Estate
+ Agreements and the Innovation Agreement.
+
+“Subsequent
+ Supply Agreement” means any separate supply agreement entered into by the
+ Parties or Affiliates thereof subsequent to the date of this Agreement and
+ designated as such therein.
+
+“Supply
+ Agreement” means any of the Supply Agreement for Mexico, the Supply
+ Agreement for Robinson, the Global Supply Agreement or any subsequent Supply
+ Agreement.
+
+“Supply
+ Agreement for Mexico” means the Supply Agreement for chocolate products to
+ be produced in Monterrey, Mexico, together with any exhibits thereto, of even
+ date herewith.
+
+“Supply
+ Agreement for Robinson” means the Supply Agreement for chocolate products to
+ be produced in Robinson, Illinois, together with any exhibits thereto, of even
+ date herewith.
+
+2.
+
+SUPPLY
+ AGREEMENTS
+
+Simultaneous
+ with the signing of this Agreement the Parties will execute each of the Supply
+ Agreements. The Supply Agreements provide that Callebaut will,
+ through the use of its own technical information and equipment, and through
+ the
+ use of certain technical information provided by Hershey, manufacture, package
+ and deliver the Products defined therein to Hershey in exchange for the
+ consideration referenced in the respective Supply Agreement. The following
+ terms
+ and conditions shall apply to each of the Supply Agreements:
+
+A. Production
+ of Products
+
+1. Callebaut
+ will produce, package and deliver Products for Hershey in accordance with the
+ Hershey Specifications. The Hershey Specifications are attached
+ hereto as Exhibit A. Callebaut agrees to abide by Hershey’s Supplier
+ Code of Conduct. Callebaut acknowledges that the Hershey Specifications may
+ be
+ revised upon prior written notice by Hershey, in its sole discretion, at any
+ time during the term of this Agreement. In the event that revisions
+ to the Hershey Specifications result in a change in cost to Callebaut, including
+ a change in cost due to any required capital addition or expenditure on the
+ part
+ of Callebaut, following good-faith negotiations between the Parties, the amount
+ paid to Callebaut under the applicable Supply Agreement will be adjusted to
+ reflect the new cost. If such revisions render unmarketable any of
+ the Products or inventories of ingredients or packaging materials, Hershey
+ shall
+ purchase, up to the quantity authorized in accordance with the provisions of
+ Section 2(B)(2), all such items from Callebaut at Callebaut's cost or other
+ agreed upon price.
+
+2
+
+2. Callebaut
+ agrees to pay for any and all capital required to manufacture the Products
+ unless specified otherwise in this Agreement or in a Supply
+ Agreement.
+
+B. Operations
+ Planning
+
+The
+ Parties agree to plan the
+ production under each Supply Agreement in accordance with the following
+ principles:
+
+1. On
+ October 1 of each year during the term of each Supply Agreement, Hershey will
+ provide to Callebaut an estimate of the twelve (12) month demand for the
+ upcoming calendar year (January to December) by Product (the “Annual
+ Estimate”).
+
+2. Thirty
+ (30) days before each calendar quarter during the term of each Supply Agreement
+ Hershey will provide Callebaut with a scheduling agreement which will be used
+ to
+ track product shipments and subsequent invoices (the “Scheduling
+ Agreement”). This Scheduling Agreement will provide a more current
+ estimate of Product demand for the upcoming quarter at the Product level and
+ will identify Product cost in accordance with the terms of the applicable Supply
+ Agreement. It is understood by the Parties that when production is
+ terminated, and possibly during the term of this Agreement, some materials
+ will
+ either become obsolete due to changes in the Hershey's Specifications or there
+ will be extra material due to incorrect forecasting. While Hershey
+ will be financially responsible for these obsolete and/or extra
+ materials:
+
+a)
+
+Callebaut
+ shall use all prudent means to minimize the financial impact to Hershey
+ of
+ these material losses, and
+
+b)
+
+under
+ no circumstances will Hershey be responsible under the provisions
+ of this
+ section for ingredients and packaging materials which, when ordered
+ by
+ Callebaut, represented more than a three (3) month supply (based
+ on the
+ then current production plan) of the item in question (except with
+ regard
+ to production of promotion or “one time” products which will be mutually
+ agreed to), and
+
+c)
+
+notwithstanding
+ (b) above, Callebaut may enter into supply contracts for a period
+ of
+ longer than three (3) months with the prior written approval from
+ Hershey.
+
+3. Each
+ week during the term of this Agreement Hershey will provide Callebaut a shipment
+ plan by facility for the Products showing estimated required shipments of
+ Products on a twelve (12) week rolling basis (the “Shipment
+ Plan”). Additionally, for Monterrey and Robinson
+ Hershey will further identify the first two weeks of the Shipment
+ Plan into daily shipments, inclusive of Saturdays, Sundays and non-business
+ days
+ if Hershey requires shipments on such days.
+
+4. Except
+ as set forth in the volume and pricing provisions of Section
+ 2(B)(7) and any obligation that exists under Section 2(B)(2)
+ above with respect to the Supply Agreement for Mexico and the Supply
+ Agreement for Robinson Hershey shall be obligated to purchase from Callebaut
+ only the three day production reflected in the relevant Shipment Plan for the
+ day after such Shipment Plan was received and the next two days, and with
+ respect to the Global Supply Agreement Hershey shall be obligated to purchase
+ from Callebaut only the first two-weeks’ production reflected in the
+ then-current Shipment Plan.
+
+3
+
+5. Designated
+ representatives within the plants will plan the shipments outlined in an
+ applicable Shipment Plan on a daily and/or shift basis.
+
+6. Callebaut
+ will supply all of Hershey’s actual demands. In the event Hershey’s daily
+ production demand exceeds Callebaut’s daily capacity, Callebaut will make the
+ Product that exceeded its capacity on the next available production run.
+ Callebaut will undertake commercially reasonable efforts to ensure that
+ commitments to third party customers do not limit or interfere with any
+ production for Hershey, provided, however, that nothing contained in this
+ Agreement or any Supply Agreement shall be interpreted as requiring Callebaut
+ to
+ cancel service commitments to third-party customers as a result of any error
+ or
+ omission in a Scheduling Agreement or Shipment Plan. For planning
+ purposes in the Monterrey facility, Callebaut will provide Hershey with
+ information pertaining to the facility’s estimated daily production capacity no
+ later than May 1, 2008.
+
+7. In
+ the event that Hershey’s actual order volume of Products in any given calendar
+ year under the applicable Supply Agreement is less than the amounts set forth
+ on
+ Exhibit F from Callebaut’s Monterrey facility and Callebaut’s Robinson facility,
+ respectively, and provided the shortfall is not due to Callebaut’s action or
+ inaction, the consequences shall be limited to:
+
+a)
+
+The
+ continued application of the cost tiers in the Conversion Cost Grids
+ of
+ the respective Supply Agreements as may be adjusted in accordance
+ with the
+ Global Volume Increment set forth below;
+ and
+
+b)
+
+With
+ respect to Callebaut’s Monterrey facility, Callebaut may exercise the Put
+ Option set forth in the Supply Agreement for
+ Mexico.
+
+8.
+
+Global
+ Volume Increment
+
+a)
+
+To
+ potentially reduce or eliminate the incremental absorption charge
+ resulting from the application of the cost tiers where the respective
+ annual purchase volumes are below the Base Tiers, volume shortfalls
+ in
+ products sourced from Callebaut’s Monterrey facility and from Callebaut’s
+ Robinson facility may be offset by other volume sourced by Hershey
+ from
+ Callebaut as set forth in this
+ Section.
+
+b)
+
+Reference
+ is made to the Base Tier volume ranges set forth in the Conversion
+ Cost
+ Grids of the Supply Agreements:
+
+i.
+
+The
+ Base Tier volume range for the Supply Agreement for Mexico is the
+ amount
+ set forth in Exhibit F.
+
+ii.
+
+The
+ Base Tier volume range for the Supply Agreement for Robinson is the
+ amount
+ set forth in Exhibit F.
+
+iii.
+
+The
+ Global Supply Agreement does not include a Base Tier Volume
+ range. Solely for the purposes of this Section, the Base Tier
+ volume range for the Global Supply Agreement shall be the amount
+ set forth
+ in Exhibit F.
+
+iv.
+
+As
+ per Section (2)(B)(1), Hershey’s shall deliver to Callebaut the Annual
+ Estimate for the following calendar year detailing production requirements
+ for each of Callebaut’s Monterrey
+ facility
+
+4
+
+and
+ Callebaut’s Robinson facility, production requirements under the Global
+ Supply Agreement and production requirements for any Subsequent Supply
+ Agreement. The sum of these Annual Estimates shall be
+ collectively referred to as the Global Volume Estimate. For
+ purposes of clarity, volumes to be included in the Global Volume
+ Estimate
+ shall include all volumes sourced by Hershey from any Callebaut facility,
+ including all chocolate bulk products, all chocolate fillings to
+ be used
+ in a Callebaut, Hershey facility or co-manufacturer facility, all
+ chocolate chips and chocolate eggs production, and all new products
+ sourced from Callebaut by Hershey, but shall not include Cocoa
+ Ingredients.
+
+c)
+
+The
+ Global Volume Increment shall be calculated
+ as:
+
+66%
+ x
+ [the sum of the amount by which the Annual Estimates exceed the Base Tiers,
+ plus
+ the Estimated Subsequent Supply Agreement Volume]
+
+i.
+
+Where
+ the resulting Global Volume Increment is a number greater than zero,
+ it
+ shall be first added to the Annual Estimate for Callebaut’s Monterrey
+ facility in an amount necessary to reach the amount set forth in
+ Exhibit F
+ (which is the lowest volume of the Base Tier range) to determine
+ the cost
+ tier to be used for the January – December conversion cost to be
+ determined in accordance with Section (2)(D). After deducting
+ any amount applied to determine the cost tier for product sourced
+ from
+ Callebaut’s Monterrey facility, any remaining Global Volume Increment may
+ be similarly applied to determine the cost tier for Callebaut’s Robinson
+ facility. In no instance shall the Global Volume Increment
+ result in conversion costs lower than that reflected in the Base
+ Tier of
+ the Conversion Cost Grids.
+
+ii.
+
+With
+ respect to the application of the Global Volume Increment, each calendar
+ year must be viewed on a stand-alone basis. Volume from one
+ calendar year may not be applied to any preceding or succeeding calendar
+ year.
+
+iii.
+
+The
+ calculation of the Global Volume Increment shall commence with the
+ calendar year starting on January 1,
+ 2009.
+
+iv.
+
+Annually
+ at each November Steering Committee Meeting, the Parties will review
+ actual annual purchase volumes as compared to the Annual Estimate
+ used to
+ calculate the Global Volume Increment and to establish the cost tiers
+ used
+ in the January – December conversion costs. If such actual
+ annual purchase volumes indicates that a different cost tier should
+ have
+ been used for the then current calendar year, the Parties shall calculate
+ and agree upon any necessary year-end adjustment to be applied to
+ all
+ volume for the full calendar year and apply such year-end adjustment
+ as
+ per Section (2)(D)(2)(b).
+
+5
+
+v.
+
+Examples
+ of the calculation of the global increment methodology are attached
+ as
+ part of Exhibit F.
+
+C.
+
+Contingency
+ and Business
+ Interruption
+
+If
+ during the term of a Supply
+ Agreement, through no fault of Hershey, Callebaut is delayed or unable to
+ deliver Products in accordance with the terms of this Agreement or any Supply
+ Agreement, other than as a result of a force majeure event, then in addition
+ to
+ any other remedies available to Hershey, Callebaut will, at Hershey’s option,
+ either reimburse Hershey for incremental costs it incurs in obtaining alternate
+ supplies of Products or Callebaut will supply Products from its facilities
+ at
+ the same delivered cost as specified in the current applicable Scheduling
+ Agreement. Products can only be sourced in a form and/or from a
+ country which allows Hershey’s country of origin labeling to remain correct, and
+ which does not subject the finished goods Hershey makes with the Products to
+ additional duties or taxes upon export, unless Callebaut reimburses Hershey
+ for
+ any such additional duties or taxes.
+
+D. Product
+ Costing and Procurement
+
+1. Hershey
+ shall reimburse Callebaut for the ingredients and packaging materials used
+ to
+ produce Products, at costs to be established in accordance with the provisions
+ of Section 2(D)(2), shall pay Callebaut a conversion cost specified in the
+ Pricing Grid of the applicable Supply Agreement (which conversion cost shall
+ include Callebaut's cost of labor, overhead and profit and, where applicable,
+ the incremental absorption charge), and shall pay Callebaut’s agreed upon
+ working capital financing costs. Product costs will be developed and
+ communicated with full detail to include at minimum ingredient component costs
+ and yields, packaging component costs and yields and conversion
+ costs. Product costs will be established no later than
+ December 31 for the following full calendar year (January to December),
+ subject to the provisions of Section 2(D)(4).
+
+2. Hershey
+ and Callebaut agree to establish Product costs as follows:
+
+a)
+
+As
+ part of the August Steering Committee meeting, Hershey and Callebaut
+ will
+ review the estimated volumes of ingredients and components which
+ will be
+ required to produce Hershey’s estimated demand of Products for the
+ upcoming calendar year. The Parties will discuss the method by which
+ ingredients and packaging components will be purchased. The
+ Parties agree that at Hershey’s option one of the following methods will
+ be used to procure each component:
+
+i)
+
+Hershey
+ sells the ingredient or component directly to
+ Callebaut;
+
+ii)
+
+Callebaut
+ places orders or releases for ingredients or components with Hershey’s
+ suppliers under Hershey’s contracts; provided however, that any supplier
+ must be approved by Callebaut, such approval not to be unreasonably
+ withheld; or
+
+iii)
+
+Callebaut
+ purchases directly from its suppliers (which are approved by
+ Hershey).
+
+Any
+ ingredients or components sourced pursuant to clause (i) or (ii)
+ shall be
+ referred to herein as “Hershey Raw Materials”, and any ingredients
+ or
+
+6
+
+components
+ sourced pursuant to clause (iii) shall be referred to herein as “Callebaut
+ Raw Materials”. With regard to any ingredients or components
+ sourced pursuant to clause (i), Hershey shall be liable to Callebaut
+ for
+ the quality and suitability of use of such ingredients or components,
+ unless quality or suitability fails due to the action or inaction
+ of
+ Callebaut. At any time during production Hershey may
+ require Callebaut to change one or more of the methods of procurement
+ that
+ have been selected, subject to fulfillment of any pre-existing commitments
+ Callebaut may have made to suppliers, provided, however, that such
+ commitments, other than with respect to any ingredients or components
+ sourced pursuant to clause (i), do not exceed the amount authorized
+ to be
+ purchased under Section 2(B)(2).
+
+b)
+
+During
+ the November Steering Committee meeting, Hershey will provide Callebaut
+ with the costs for Hershey Raw Materials and Callebaut will present
+ Hershey with the proposed costs for the Callebaut Raw Materials,
+ inclusive
+ of any carry or forward cover costs necessary to establish yearlong
+ pricing, for each Product. Callebaut will also provide substantiation
+ and
+ documentation showing current costs and the methodology Callebaut
+ used to
+ calculate the proposed annual cost for each Callebaut Raw Material
+ and the
+ then current estimate of any year-end adjustments, as provided for
+ under
+ the Supply Agreements, including adjustments resulting from the
+ application of the fineness grid and from tiered pricing based on
+ actual
+ calendar year volume. In the event the Parties cannot agree on
+ a cost for a Callebaut Raw Material, Hershey shall have the right
+ to
+ purchase this component itself and sell it to Callebaut or to require
+ that
+ Callebaut purchase it under one of Hershey’s established contracts with a
+ supplier. If the Parties reach an agreement on the annual cost for
+ Callebaut Raw Materials, Callebaut will use that cost in its calculation
+ of Product costing to Hershey for the next calendar year
+ period. In addition, nothing in this Agreement or any Related
+ Agreement shall be construed as allowing Hershey access to Callebaut’s
+ financial records, including, but not limited to, operating costs
+ and
+ suppliers’ invoices. Callebaut will provide open-book costing
+ data for the Products in form substantially similar to that shown
+ on
+ Exhibit B.
+
+3. During
+ November of each year hereunder Callebaut will have entered all agreed upon
+ input costs and variables into the product pricing model and will provide
+ Hershey with costs for each Product by appropriate unit of measure (case, pound,
+ other).
+
+4. Product
+ costs will be calculated in accordance with this Agreement for a period of
+ one
+ year (January – December). These costs will be used in the Scheduling
+ Agreements and will be subject to change only at the start of each calendar
+ year, except in the case of an event of Force Majeure or for exceptional
+ inflationary events in areas such as energy costs or currency
+ rates. The Parties agree to jointly work towards minimizing the
+ impact of any such fluctuations.
+
+5. Should
+ Product(s) be added throughout the year, Hershey and Callebaut will create
+ Product costs by unit of measure following the above methodology (to include
+ all
+
+7
+
+ ingredients, packaging, conversion costs and
+ yields/waste/overweight) 30 days before the first production.
+
+6. In
+ the event that a change in Hershey Specifications results in an increase or
+ decrease in actual conversion costs, Hershey and Callebaut will review
+ documented changes and negotiate a new conversion cost that reflects such change
+ which will take effect from the date of the change.
+
+7. All
+ Callebaut orders under Hershey supply contracts will be reported to Hershey
+ in a
+ manner established by Hershey and Callebaut.
+
+8. 
+ Product costs will include a financing fee on the Callebaut Raw Materials,
+ the
+ conversion fee charged by Callebaut and the incremental absorption charge where
+ applicable. For purposes of the financing fee, cocoa based products
+ involving forward contracts shall be considered Callebaut Raw
+ Materials. The agreed to financing fee for the subsequent calendar
+ year will be fixed at each November Steering Committee Meeting and will reflect
+ Callebaut’s estimated cost of borrowing.
+
+9. Hershey
+ and Callebaut will each designate one contact for all pricing questions and
+ other operating issues arising under this agreement or any Supply
+ Agreement.
+
+E. Product
+ Yields
+
+1. Each
+ Supply Agreement will set forth a waste, loss, and/or overweight allowance
+ for
+ each ingredient and packaging component used to produce a Product (the
+“Established Yields”). Callebaut shall be responsible for all additional
+ ingredients and packaging components required as a result of Callebaut’s failure
+ to comply with Established Yields.
+
+2. Hershey
+ and Callebaut will review any issues with Established Yields where
+ applicable. Should Hershey and Callebaut agree to adjust the
+ Established Yield, the new Established Yield will apply for the following year’s
+ production (January-December). Any adjustment will not be
+ retroactive, except as otherwise mutually agreed to by the Parties.
+
+F. Currency
+
+1. Unless
+ otherwise agreed by the Parties, Hershey will pay for Products produced under
+ the Monterrey and Robinson Supply Agreements in United States
+ Dollars. Any reference to “Dollars” or “$” in this Agreement or any
+ Related Agreement shall be a reference to United States Dollars.
+
+2. For
+ all other production Hershey and Callebaut will agree to the payment currency
+ and exchange rates at minimum thirty (30) days before such production under
+ the
+ Global Supply Agreement or a Subsequent Agreement begins.
+
+3. Any
+ and all currency and exchange rate agreements will be reviewed annually by
+ the
+ Parties.
+
+4. Callebaut
+ and Hershey will agree on currency exchange rates for use in calendar year
+ pricing for those Callebaut Raw Materials that involve currencies other than
+ the
+ currency used to invoice Hershey for Products. Callebaut shall be
+ responsible for any variances in such currency exchange rates as part of the
+ calendar year pricing, except for cases of
+
+8
+
+exceptional
+ inflationary events that may affect calendar year pricing. The
+ Parties agree to jointly work towards minimizing the impact of any such
+ exceptional inflationary events.
+
+G. Payments
+ for Products
+
+1. Callebaut
+ shall issue its invoice for Products produced in accordance with this Agreement
+ at the time such Products are shipped or delivered to Hershey in accordance
+ with
+ the delivery terms. Hershey shall pay any amount due under this
+ Agreement following receipt of Callebaut's invoice on terms of net twenty-three
+ (23) days from date of receipt of invoice plus a seven day grace period to
+ enable weekly grouping of payments, except in the case of a good faith
+ dispute.
+
+2. To
+ ensure prompt payment of all invoices, Callebaut shall include on each invoice
+ the information requested by Hershey in a form agreed in advance.
+
+3. Invoices
+ shall be electronically submitted. The date of receipt of electronic invoices
+ will be the date following the date upon which it is transmitted.
+
+4. All
+ payments shall be electronically transferred to the designated bank account
+ of
+ the Party to which such payments are due.
+
+5. A
+ Party may only set off amounts it is owed by the other Party if permitted by
+ applicable law and against amounts it owes the other Party in the event the
+ Party seeking to offset payments has a credible concern about the other Party’s
+ creditworthiness.
+
+H. Productivity
+
+1. Hershey
+ and Callebaut recognize the need to provide the highest quality product at
+ the
+ lowest possible cost. To accomplish this objective, Hershey and
+ Callebaut agree to cooperate in a continuing effort to improve the productivity
+ of all operations.
+
+2. These
+ productivity efforts should target but are not limited to, (i) improved yields
+ for packaging and ingredient utilization; (ii) optimization of output in all
+ phases of the production process; (iii) obtaining the lowest possible cost
+ per
+ unit on packaging and ingredients; (iv) labor reductions through effective
+ utilization; (v) reduction of overweights; and (vi) minimization of
+ sampling/testing of the Products.
+
+3. It
+ is recognized that Callebaut’s ability to share conversion cost productivity for
+ its Robinson and Monterrey facilities will be dependent on Callebaut’s ability
+ to fill available capacity with third party volume. Hershey and Callebaut agree
+ to share in all productivity improvements related to production output, labor
+ reductions, etc. Notwithstanding the above, Hershey shall receive
+ 100% of all cost improvements resulting from reductions in unit costs for
+ ingredients and packaging, minimization of all sampling/testing, as well as
+ savings from Hershey funded capital investments of the Products, except where
+ such Hershey funded capital investments improve the overall efficiency of the
+ Callebaut facility whereby Callebaut third-party volume may also benefit from
+ such investments. Hershey's share of the resulting productivity
+ efforts shall be in the form of conversion cost reductions or Established Yield
+ improvements.
+
+I. Supply
+ of Ingredients and Packaging
+
+9
+
+ 1. For Callebaut
+ Raw Materials, Callebaut will issue its purchase orders directly with suppliers,
+ and will honor all payment terms of the suppliers on a timely basis, except
+ in
+ the case of a good faith dispute. Callebaut will use only suppliers that have
+ been previously approved in writing by Hershey for the
+ Products. Hershey shall in no way be a party to or responsible for
+ Callebaut’s contracts for Callebaut Raw Materials.
+
+2. For
+ Hershey Raw Materials, Hershey shall, at its option, either invoice Callebaut
+ or
+ direct the supplier to invoice Callebaut directly, and Callebaut shall pay
+ any
+ amount due Hershey hereunder following receipt of Hershey’s invoice on terms of
+ net twenty-three (23) days from date of receipt of invoice plus a seven day
+ grace period to enable weekly groupings of payments or shall pay within the
+ supplier’s stated terms, except, in each instance, in the case of a good faith
+ dispute.
+
+3. With
+ Hershey’s prior approval, such approval not to be unreasonably withheld,
+ Callebaut may source ingredients and packaging from other Callebaut divisions
+ at
+ prevailing market rates. The Parties recognize that Hershey has
+ existing contractual obligations for the procurement of Cocoa Ingredients at
+ the
+ date of this Agreement. Upon the expiration of these contractual
+ commitments, Hershey will source Cocoa Ingredients from Callebaut for the
+ Robinson Facility as long as Callebaut meets Hershey’s product specifications,
+ quality requirements, time requirements, commercial cost assumptions, capacity
+ and volume requirements, and geographic need. Hershey will source
+ Cocoa Ingredients from Callebaut for the Monterrey facility from the start
+ of
+ production as long as Callebaut meets Hershey’s product specifications, quality
+ requirements, time requirements, commercial cost assumptions, capacity and
+ volume requirements, and geographic need.
+
+4. Where
+ commercially reasonable, the Hershey Raw Materials volumes shall only be used
+ in
+ the Products and Callebaut agrees not to use Hershey Raw Materials volumes
+ in
+ any other product it may produce. Should it not be commercially
+ reasonable to ensure that Hershey Raw Materials are used solely in the Products
+ (e.g. due to common silos, manufacturing processes, etc.), Hershey shall
+ nonetheless receive the benefit of use of raw materials of equal quality and
+ specification in the manufacture of the Products and in pricing on invoices
+ received from Callebaut.
+
+5. Callebaut
+ shall inspect and sample all Hershey Raw Materials and Callebaut Raw Materials
+ for conformance with Hershey's Specifications and shall reject and withhold
+ from
+ use in the manufacture of the Products any Hershey Raw Materials or Callebaut
+ Raw Materials determined by Callebaut not to be in conformity with such Hershey
+ Specifications. Callebaut will maintain available line capacity and
+ inventories of ingredients and packaging materials in sufficient amounts to
+ support the production requirements of the Products set forth on the Shipment
+ Plan issued by Hershey to Callebaut. Callebaut acknowledges that certain
+ ingredients used in the products have a limited shelf life. Callebaut
+ agrees to utilize the ingredients in such a manner as to utilize first those
+ ingredients which have been in inventory the longest.
+
+J. Quality
+ Assurance
+
+1. Without
+ limiting its warranties herein, Callebaut shall manufacture the Products and
+ perform the sampling and testing procedures for the Products in accordance
+ with
+ the Hershey Specifications.
+
+10
+
+2. All
+ Products delivered by Callebaut to Hershey under the terms of this Agreement
+ shall conform to the Hershey Specifications, applicable laws and regulations
+ of
+ the United States Food and Drug Administration, the United States Public Health
+ Service, Mexico’s Ministry of Health, Canadian Regulatory Agency Requirements,
+ and any and all other applicable United States, Canadian and Mexican federal,
+ state and local laws and regulations. All water used in connection
+ with the Products, whether it be for processing or cleaning, shall meet the
+ United States Environmental Protection Agency and applicable Canadian and
+ Mexican safe drinking water standards. All required testing will be
+ done at Callebaut's expense, which expense shall be included as part of the
+ conversion fee charged by Callebaut, however, Hershey shall reimburse Callebaut
+ separate and apart from the conversion cost for all third-party testing expense,
+ if any, incurred by Callebaut between the date of this Agreement and December
+ 31, 2007 while the Parties work towards the certification of the Callebaut-owned
+ labs. Should such certification be delayed beyond December 31, 2007
+ due to the action or inaction of Hershey, the final reimbursement date will
+ be
+ extended until such date as the Callebaut-owned labs are so
+ certified. Should, however, such certification be delayed because of
+ Callebaut failing to provide Hershey with necessary information or Callebaut’s
+ failure to implement remedial actions, if any, validly identified by Hershey,
+ Callebaut will be responsible for any third-party testing expense incurred
+ after
+ December 31, 2007. Should Hershey change the Hershey Specifications
+ at any time during the term of this Agreement, the Parties will negotiate in
+ good faith any required adjustment to conversion costs.
+
+3. Callebaut
+ warrants that (i) it will perform under this Agreement in accordance with all
+ the terms hereof, (ii) that its processing of the Products hereunder shall
+ be in
+ accordance with the highest standards prescribed by the Good Manufacturing
+ Practices regulations promulgated by the United States Food and Drug
+ Administration, all applicable United States, Canadian and Mexican laws and
+ regulations and Hershey's Specifications, and (iii) that all Products, when
+ delivered to Hershey, will comply with Hershey’s Specifications, shall not be
+ adulterated or misbranded within the meaning of the United States Federal Food,
+ Drug and Cosmetic Act (the “Act”), applicable Canadian and Mexican law, and
+ regulations promulgated thereunder, and shall not be articles which may not,
+ under the provisions of Section 404 or 505 of the Act, be introduced into
+ interstate commerce.
+
+4. Callebaut
+ shall reimburse Hershey for any costs or losses incurred by Hershey as a result
+ of any Product rejected by Hershey for failure to conform to the requirements
+ of
+ this Agreement. Callebaut's obligation under the prior sentence shall
+ include reimbursing Hershey for all reasonable cleaning, transportation,
+ retrieval, storage and destruction costs caused by the defective
+ Product. The above remedies are not exclusive and, subject to the
+ provisions of Section 10(F), Hershey shall be entitled to all remedies hereunder
+ and allowed by law. Callebaut shall not be required to remedy any
+ defects or discrepancies caused substantially by inherent defects in Hershey's
+ Specifications. All major incidents shall be reported to the Steering
+ Committee at the quarterly meeting following the incident.
+
+11
+
+5. Callebaut
+ shall remove any Product rejected by Hershey or not otherwise meeting the
+ requirements of this Agreement in accordance with Hershey's reasonable
+ instructions. Rejected Product sourced under any Supply Agreement
+ that has already been packaged by Hershey into finished product shall be
+ disposed of in accordance with Hershey’s reasonable instructions. The
+ method of disposition of rejected Products sourced under either the Mexico
+ Supply Agreement or the Robinson Supply Agreement that has not already been
+ packaged by Hershey into finished product shall be at Callebaut’s
+ discretion. With Hershey’s prior approval, and provided that
+ Callebaut can meet Hershey Specifications and in compliance with applicable
+ laws
+ and regulations, rejected Products may be blended into future Products sold
+ to
+ Hershey. Callebaut may also blend any such rejected Product into any
+ other products for third-party volume at a rate of 5%, or such greater rate
+ as
+ may be approved by Hershey. Callebaut will be responsible for
+ the cost of normal disposal of Product rejected for failure to satisfy the
+ requirements of this Agreement.
+
+6. Upon
+ reasonable notice, and during Callebaut's normal operations, Callebaut shall
+ permit Hershey or its designees access to Callebaut's facilities utilized in
+ the
+ receiving, handling, packaging and storage of packaging, ingredients and
+ Products for the purpose of ascertaining Callebaut's compliance with Good
+ Manufacturing Practices and Hershey Specifications and quality assurance
+ requirements, provided however, that unless permitted under another agreement
+ between the Parties, Hershey shall not have access to any part of Callebaut's
+ facilities which are not used directly in the manufacture of Products or the
+ receiving, storage, handling or packaging of any Products or ingredients or
+ which are subject to limited access by agreement of the
+ Parties. Notwithstanding the foregoing, Callebaut shall have the
+ final responsibility for complying with all requirements of this Agreement,
+ the
+ Hershey Specifications, Good Manufacturing Practices and other legal
+ requirements. Callebaut shall promptly notify Hershey of any material
+ discrepancies noted during any inspection of Callebaut's production facilities
+ by the United States Food and Drug Administration, the United States Public
+ Health Service, Canadian Regulatory Authority, Mexico’s Ministry of Health, any
+ state or any other legally authorized federal, state or local regulatory agency
+ and shall also provide Hershey a list of any discrepancies noted by any
+ authorities relating to the manufacture, packaging and storage by Callebaut
+ of
+ the Products, the ingredients and the packaging materials.
+
+7. Callebaut
+ shall keep complete, true and accurate records with respect to compliance with
+ the requirements of the Hershey Specifications set forth on Exhibit
+ A. Callebaut shall allow Hershey or its designees reasonable access
+ to these records insofar as they relate to the Products, potential product
+ recalls, potential product claims and government inquiries. These
+ records will be maintained for a period of not less than 6 years.
+
+8. Callebaut
+ represents that it has registered its facilities as required under the United
+ States Food and Drug Administration Bioterrorism Act. Callebaut will
+ remain in compliance with such Act through the term of this
+ Agreement. Callebaut agrees to contact Hershey promptly (but in no
+ event later than one hour after Callebaut knows or should have known of the
+ incident) if any of the Callebaut facilities used for the production of any
+ Product are affected by security violation, theft or other incident that is
+ reasonably likely to impair Product integrity.
+
+12
+
+9. The
+ Parties incorporate the Product Guaranty and Indemnity Agreement attached as
+ Exhibit E into this Agreement.
+
+K. Delivery,
+ Title Transfer, Risk of Loss and Insurance
+
+1. Delivery
+ terms, transfer of title to and risk of loss of the Products are addressed
+ in
+ each of the Supply Agreements.
+
+2. Callebaut
+ shall carry and maintain Insurance coverage as defined in Exhibit
+ C. The limits specified in Exhibit C are based upon factors existing
+ at the commencement of this Agreement. The Parties agree that these
+ limits may be increased or decreased, by mutual agreement, throughout the term
+ of this Agreement. Should an increase in insurance coverage be
+ required, the Parties agree to negotiate in good faith any required adjustments
+ to the calendar year pricing for the Products, effective for the January to
+ December period following the increase in coverage. Hershey shall be
+ named as additional named insured on each of the foregoing
+ policies. Callebaut shall pay all premiums when due and within such
+ period of time as is necessary to keep such insurance in full force and
+ effect. Current certificates of insurance shall be provided to
+ Hershey to evidence the coverage required by this Section
+ 2(K)(2). Such certificates shall provide for thirty (30) days advance
+ written notice to Hershey of any cancellation of the relevant policy and
+ Callebaut shall provide thirty (30) days advance written notice of any material
+ change to the relevant policy.
+
+3.
+
+STEERING
+ COMMITTEE
+
+A
+ Steering Committee shall be established to assess performance and address issues
+ arising under this Agreement and the Related Agreements. Each Party
+ shall assign representatives from their management teams to guide the
+ relationship between the Parties, ensure compliance with this Agreement and
+ the
+ Related Agreements, resolve issues and disputes, measure and assess performance,
+ and evaluate proposals from either side. At least one senior
+ executive or officer of each Party shall participate on the Steering
+ Committee. The respective individuals from each Party responsible for
+ production, quality, logistics and pricing are expected to attend Steering
+ Committee meetings. The Steering Committee will meet quarterly. A
+ Party wishing to modify or amend any provision of any agreement between the
+ Parties may submit the proposed change to the Steering Committee for its
+ consideration along with the basis for the proposal, any adjustment in costs
+ or
+ schedules of delivery of Products resulting from the change, and any other
+ impact of the change, to the other Party. No change will be accepted
+ until agreed upon by both Parties in writing and signed by each
+ Party.
+
+4.
+
+STANDARDS
+ FOR PERFORMANCE
+
+A. Both
+ Parties agree to develop two-way performance metrics by which performance under
+ this Agreement will be evaluated. A scorecard with key performance
+ indicators and metrics will be jointly developed by September 30, 2007 (the
+ “Performance Scorecard”). Performance bands will be set forth as follows
+ on the Performance Scorecard for the determination of aggregate average
+ quarterly scores: (i) Acceptable; (ii) Immediate action; and (iii)
+ Unacceptable. For purposes of clarity, the Parties both
+ acknowledge that an “Unacceptable” rating will result in the event of a
+ significant disruption in the supply of Products arising from Callebaut’s action
+ or inaction under this Agreement.
+
+13
+
+B. Prior
+ to each Steering Committee meeting, each Party will complete their respective
+ Performance Scorecard for both their and the other Party’s performance over the
+ past three, six and twelve months. Performance Scorecard reports will
+ be reviewed at the quarterly Steering Committee meeting. If the
+ Steering Committee identifies issues that need improvement, the responsible
+ Party will provide corrective action plans and results within a reasonable
+ amount of time commensurate with the severity of the issue. The
+ Performance Scorecard shall be developed in sufficient form and content to
+ clearly define those key performance indicators which, if not achieved, would
+ constitute a breach under the terms of this Agreement or the Supply
+ Agreements.
+
+5.
+
+NON-COMPETE
+ AGREEMENT
+
+A. The
+ parties agree to the Non-Compete provisions set forth in Exhibit F.
+
+6.
+
+NON-SOLICITATION
+
+Except
+ as expressly permitted in any
+ related agreement the Parties agree not to solicit the other Party’s employees
+ for employment. The Parties further agree that public advertisements or postings
+ of job openings in the ordinary course of a Party’s business are not considered
+ solicitation hereunder.
+
+7.
+
+CONFIDENTIALITY
+
+A. “Confidential
+ Information” shall mean Proprietary Information and Trade Secret
+ Information. With respect to information disclosed by Hershey to
+ Callebaut, Confidential Information shall mean non-public information,
+ including, without limitation, all information Callebaut may receive, or has
+ received since September 1, 2006, from Hershey concerning the processing of,
+ production of, marketing of, distribution of, selling of, strategic plans of,
+ recipes for and quantities of the Products Hershey requests Callebaut to process
+ and package and any recipes, ingredients, suppliers, product specifications,
+ production output, sales volume, consumer insights, costing/financial
+ information, productivity, research/developmental activities, location of
+ manufacturing or Hershey manufacturing processes used in the production of
+ the
+ Products. With respect to information disclosed by Callebaut to
+ Hershey, Confidential Information shall mean non-public information, including,
+ without limitation, all information Hershey may receive, or has
+ received since September 1, 2006, from Callebaut concerning Callebaut’s
+ facilities, financial and production capabilities, processing of, production
+ of,
+ marketing of, distribution of selling of and strategic plans of Callebaut
+ products and any recipes, ingredients, suppliers, product specifications,
+ production output, sales volume, costing/financial information, productivity
+ and
+ research/developmental activities.
+
+B. “Proprietary
+ Information” shall mean that Confidential Information of a Party that is not
+ included in Trade Secret Information.
+
+C. “Trade
+ Secret Information” shall mean that information of a Party which that Party
+ considers to be confidential and proprietary in nature which relates to the
+ product and ingredient formulas and production processes which are critical
+ to
+ the ongoing and future business of such Party, the unauthorized disclosure
+ or
+ use of which could result in materially adverse technical and/or commercial
+ results to that Party whether disclosed in writing, orally or by observation
+ (including without limitation by e-mail or other electronic
+ communication).
+
+14
+
+D. Any
+ Confidential Information disclosed or otherwise disseminated from one Party
+ (hereafter, the “Disclosing Party”) to the other Party (hereafter, the
+“Receiving Party”) whether such information is conveyed orally or in written
+ form (including without limitation by e-mail or other electronic communication)
+ or by observation or in any other manner, shall be treated and regarded as
+ confidential and proprietary information, which is the exclusive and sole
+ property of the Disclosing Party in accordance with the following
+ provisions:
+
+1. Each
+ Party’s obligations with respect to the Confidential Information of the other
+ Party shall apply with respect to any Confidential Information covered by and
+ disclosed in accordance with the terms of this Agreement, the Innovation
+ Agreement and the Mutual Non-Disclosure Agreements between the Parties dated
+ April 10, 2007, March 16, 2006 and December 21, 2005, which Mutual
+ Non-Disclosure Agreements are hereby superseded.
+
+2. All
+ Trade Secret Information disclosed or otherwise provided to a Receiving Party
+ hereunder after the date of this Agreement shall either (i) be disclosed in
+ writing (including electronic documents) bearing a legend or other statement
+ that the disclosed information is classified as “Confidential” by the Disclosing
+ Party; or (ii) with respect to information provided orally or by providing
+ access to restricted areas for observation purposes, subsequently identified
+ as
+“Confidential” by the Disclosing Party in a written document and provided to the
+ Receiving Party within thirty (30) days of disclosure. All product
+ and ingredient formulas and production processes of one Party received by the
+ other Party relating to the Products shall be deemed Trade Secrets unless
+ otherwise explicitly specified by the Disclosing Party at the time of the
+ disclosure. The Parties agree to work through the Research Committee
+ with respect to disclosure of Trade Secrets pertaining to the Innovation
+ Agreement in accordance with the terms of the Innovation
+ Agreement. If the Receiving Party disagrees with the identification
+ of a Trade Secret set forth in any Disclosing Party documentation, it shall
+ raise such issue with the Research Committee as defined in the Innovation
+ Agreement and the Research Committee shall revise the identification as may
+ be
+ necessary to satisfy both the Disclosing Party and the Receiving Party
+ consistent with the collaborative spirit of the Innovation
+ Agreement. Proprietary Information may also bear a legend or other
+ statement classifying the information as “CONFIDENTIAL” but such designation
+ will not cause such Proprietary Information to be treated as Trade Secret
+ Information.
+
+3. In
+ addition to the foregoing obligations with respect to treatment of Confidential
+ Information, the Parties shall also comply with any protocols, conditions and
+ other restrictions imposed by the Research Committee with respect to handling,
+ retention and dissemination of Confidential Information of a Party, including
+ any procedures intended to facilitate return of such Confidential Information
+ to
+ the Disclosing Party.
+
+4. A
+ Receiving Party shall keep all Confidential Information received from a
+ Disclosing Party strictly confidential and secret and shall not divulge,
+ communicate or transmit such Confidential Information to any other
+ Persons. A Receiving Party shall permit disclosure of such
+ Confidential Information only to such of its directors, officers, employees,
+ contractors (other than competitors of the Disclosing Party), and advisors
+ who
+ need such information for the purpose of implementing this Agreement and the
+ agreements which are exhibits hereto, provided that such Persons are subject
+ to
+ confidentiality and use restrictions equivalent to those contained
+ herein. If a Receiving Party desires to share Confidential
+ Information with a Person outside of the scope of this Agreement, it shall
+ first
+ obtain the consent of the Disclosing Party. A Receiving Party shall
+ use at least such efforts to maintain the confidentiality of such
+ Confidential
+
+15
+
+Information
+ as it uses to protect the confidentiality of its own Confidential Information,
+ but in no event shall a Receiving Party use less than commercially reasonable
+ efforts to maintain such confidentiality. Callebaut agrees that
+ Hershey’s proprietary flavors and essences disclosed pursuant to the April 10,
+ 2007 Mutual Non-Disclosure Agreement shall be considered to be Trade Secret
+ Information and it will not chemically analyze, reverse engineer and disassemble
+ such flavors and essences. Callebaut acknowledges that the formulas
+ and non-public processes disclosed in connection with Callebaut’s production of
+ semi-sweet chocolate chips for sale to Hershey are Hershey Trade
+ Secrets.
+
+5. A
+ Receiving Party shall not utilize Trade Secret Information it has received
+ from
+ a Disclosing Party in any manner, except for the limited purposes authorized
+ in
+ this Agreement or the agreements which are Exhibits hereto, provided that
+ Confidential Information that is an Innovation shall be treated in accordance
+ with the provisions of the Innovation Agreement. Otherwise,
+ Proprietary Information, which is not an Innovation, may be freely used but
+ not
+ disclosed except as otherwise permitted hereunder by the Parties.
+
+6. These
+ obligations of confidentiality and restrictions on use of Confidential
+ Information shall survive the termination or expiration of this Agreement for
+ a
+ period of five (5) years, except for Trade Secret Information which shall remain
+ subject to obligations of confidentiality and restrictions on use
+ indefinitely. Upon the later of (i) the termination or expiration of
+ this Agreement and (ii) the termination or expiration of a Receiving Party’s
+ authorization to use specific Confidential Information, the Receiving Party
+ shall return all documents and other materials containing Confidential
+ Information that were disclosed by the Disclosing Party to the Disclosing Party
+ together with all copies and other embodiments thereof or otherwise dispose
+ of
+ such documents and materials (including without limitation deletion or
+ destruction of electronic data) in accordance with the Disclosing Party’s
+ written direction. In the event of inadvertent disclosure of Trade
+ Secret Information, the Disclosing Party shall have the right and obligation
+ to
+ promptly request return of such Trade Secret Information and the Receiving
+ Party
+ shall use reasonable efforts to promptly collect and return all such Trade
+ Secret Information.
+
+7. The
+ obligations herein concerning Confidential information of the Parties under
+ this
+ Agreement shall not pertain to information which: (i) is generally known to
+ the
+ public at the time of its disclosure or becomes generally available to the
+ public at any time thereafter, (ii) is disclosed to the Receiving Party by
+ a
+ third party who has the right to disclose such information, (iii) was known
+ to
+ the Receiving Party prior to its disclosure under this Agreement, or (iv) is
+ independently developed by the Receiving Party without use of the Disclosing
+ Party's Confidential Information.
+
+8. In
+ the event of a breach or threatened breach of the provisions of this Section
+ 7,
+ the non-breaching Party shall be entitled to an injunction restraining the
+ breaching Party from disclosing, in whole or in part, any of the
+ above-referenced information or from rendering any service to any person, firm,
+ corporation, association, or other entity to whom such information has been
+ disclosed or is threatened to be disclosed. Except as otherwise
+ stated in Section 7(D)(9), nothing herein shall be construed as prohibiting
+ the
+ non-breaching Party from pursuing any other remedies available at law or in
+ equity for such breach or threatened breach, including the recovery of
+ damages.
+
+16
+
+9. Notwithstanding
+ anything else herein, the Parties acknowledge that certain Residual Information
+ disclosed as part of the Parties’ collaborative efforts under the Innovation
+ Agreement may be retained within their respective companies, including, without
+ limitation the minds of employees and data systems, and subsequently used by
+ a
+ Receiving Party even though the Receiving Party has used its commercially
+ reasonable efforts to refrain from using and to destroy or return such Residual
+ Information to the Disclosing Party and complied with any protocols, conditions
+ and other restrictions imposed by the Research Committee with respect to
+ handling, retention and dissemination of Confidential
+ Information. The Parties agree that they will not bring any
+ legal actions or proceedings against one another arising from such use of
+ Residual Information exchanged under the operation of the Innovation
+ Agreement. “Residual Information” shall mean such Confidential
+ Information provided from a Disclosing Party which in documentary form
+ (including, without limitation, written, graphic or electronic form), is
+ retained in the files of a Party after it has used reasonable efforts to locate
+ any and all copies and disseminations thereof and which do not on their face
+ indicate that they are the Confidential Information of the Disclosing Party,
+ and
+ such Confidential Information retained in the minds/memories of employees and
+ other permissible Persons which Confidential Information has not been
+ specifically and intentionally committed to memory.
+
+8.
+
+TERM
+
+A. The
+ term of this Agreement shall commence on the date noted on the first page of
+ this Agreement and shall expire, unless earlier terminated, on December 31,
+ 2022. The term of this Agreement may be extended or renewed at any
+ time as agreed in writing by the Parties.
+
+B. Terms
+ for each of the Related Agreements are defined therein and may vary from the
+ term of this Agreement.
+
+9.
+
+TERMINATION
+
+A. Either
+ Party shall be entitled to terminate this Agreement at any time within 60 days
+ of the occurrence of any of the following: (i) if the other Party files a
+ voluntary petition in bankruptcy, is declared bankrupt, makes an assignment
+ for
+ the benefit of creditors or suffers the appointment of a receiver or a trustee
+ of its assets, (ii) if the other Party breaches the conditions of Section 7
+ in a
+ material manner which results in Losses for the non-breaching Party or (iii)
+ as
+ set forth in Section 16.
+
+B. In
+ addition, Hershey shall be entitled to terminate this Agreement at any time
+ within 60 days of the occurrence of any of the following:
+
+1. a
+ material breach by Callebaut of the conditions of Section 5A;
+
+2. Callebaut’s
+ failure to address a significant disruption in the supply or quality of
+ Products;
+
+3. the
+ disposition by Callebaut, in whole or in part, of its business (other than
+ to
+ its one or more of Affiliates) and such disposal materially affects the ability
+ of Callebaut to duly perform under this Agreement or any Related Agreement;
+ or
+
+4. a
+ direct or indirect change of control in the legal or beneficial ownership of
+ Callebaut and such change of control is in favor of:
+
+17
+
+(a)
+
+one
+ of Hershey’s direct competitors as set forth on Exhibit D, or those
+ successors or assigns to those competitive
+ businesses;
+
+(b)
+
+a
+ person or entity that might reasonably bring Hershey into disrepute;
+ or
+
+(c)
+
+a
+ person or entity whose financial standing and/or past and/or present
+ business practices presents Hershey, based on Hershey's reasonable
+ determination, with significant risk in connection with this
+ Agreement.
+
+C. Upon
+ any termination of this Agreement, each Related Agreement shall also terminate,
+ unless the Parties otherwise agree in writing.
+
+10.
+
+INDEPENDENT
+ CONTRACTORS
+
+Nothing
+ in this Agreement or any Related Agreement is intended or shall be deemed to
+ constitute a partnership, agency, employer/employee or joint venture
+ relationship between the Parties. Neither Party shall be deemed to be
+ or to have been acting on the behalf of the other Party by reason of any action
+ hereunder or under any Related Agreement. All activities by the
+ Parties hereunder or under any Related Agreement shall be preformed by them
+ as
+ independent contractors. Neither Party shall incur any debt or make
+ any commitment for or on behalf of the other Party, except to the extent
+ specifically required hereby or by the provisions of a Related
+ Agreement.
+
+11.
+
+REPRESENTATIONS
+ AND WARRANTIES
+
+A. Callebaut's
+ Representations. Callebaut hereby represents and warrants to
+ Hershey that the following are true and correct as of the effective date of
+ this
+ Agreement.
+
+1. Callebaut
+ has full power to execute and perform its obligations under this Agreement,
+ to
+ perform the covenants and transactions contemplated hereby, and, without
+ limitation, to grant Hershey the rights defined in the Product Development
+ and
+ Innovation Agreement of even date herewith;
+
+2. Callebaut
+ is not a party to, nor will it become a party to during the Term, any agreement
+ which restricts or otherwise is in conflict with the terms of this
+ Agreement;
+
+3. all
+ corporate action on the part of Callebaut, its officers and directors necessary
+ for the authorization, execution and delivery of this Agreement and the
+ performance of all obligations of Callebaut hereunder have been taken;
+ and
+
+4. this
+ Agreement constitutes a valid and legally binding obligation of Callebaut
+ enforceable in accordance with its terms.
+
+B. Hershey's
+ Representations. Hershey hereby represents and warrants to
+ Callebaut that the following are true and correct as of the effective date
+ of
+ this Agreement:
+
+1. Hershey
+ has full power to execute and perform its obligations under this Agreement
+ and
+ to perform the covenants and transactions contemplated hereby;
+
+2. Hershey
+ is not a party to, nor will it become a party to during the Term, any agreement
+ which restricts or otherwise is in conflict with the terms of this
+ Agreement;
+
+18
+
+3. all
+ corporate action on the part of Hershey, its officers and directors, necessary
+ for the authorization, execution and delivery of this Agreement and the
+ performance of all obligations of Hershey hereunder have been taken;
+ and
+
+4. this
+ Agreement constitutes a valid and legally binding obligation of Hershey
+ enforceable in accordance with its terms.
+
+12.
+
+INDEMNIFICATION
+
+A. Callebaut
+ shall defend and indemnify Hershey and its Affiliates, and their respective
+ officers, directors, employees, agents, successors and permitted assigns (each
+ a
+“Hershey Indemnitee”; it being understood that Hershey constitutes a Hershey
+ Indemnitee), against all Losses arising out of, caused by, happening in
+ connection with or otherwise related to this Agreement or any Related Agreement
+ and the work performed by Callebaut or any of its Affiliates hereunder or
+ thereunder, including, but not limited to, Callebaut's manufacture, loading,
+ transportation, unloading, storage, handling, packaging or use of the Hershey
+ Raw Materials, the Callebaut Raw Materials and/or any Products except, however,
+ when caused:
+
+1. by
+ the action or inaction of any Hershey Indemnitee;
+
+2. by
+ Callebaut's reliance on and adherence to the Hershey Specifications or written
+ directions provided by Hershey; or
+
+3. by
+ the use of Hershey Raw Materials which were defective at the time of delivery
+ to
+ Callebaut.
+
+B. Callebaut
+ further acknowledges and agrees, to the maximum extent permitted by applicable
+ law, to indemnify and defend each Hershey Indemnitee against losses in the
+ form
+ of fines, penalties and assessments resulting from Callebaut’s breach of the
+ terms of this Agreement or any Related Agreement, or the violation of any law,
+ regulation and/or ordinance directly or indirectly relating to Callebaut's
+ performance of this Agreement or any Related Agreement.
+
+C. Hershey
+ shall have the right, but not the duty, to participate, at its own cost, in
+ the
+ defense of any relevant claim or litigation with attorneys of Hershey's
+ selection.
+
+D. Hershey
+ shall defend and indemnify Callebaut and its Affiliates, and their respective
+ officers, directors, employees, agents, successors and permitted assigns (each
+ a
+“Callebaut Indemnitee”; it being understood that Callebaut constitutes a
+ Callebaut Indemnitee), against all Losses arising out of, caused by, happening
+ in connection with or otherwise related to:
+
+1. the
+ action or inaction of any Hershey Indemnitee;
+
+2. Callebaut's
+ reliance on and adherence to the Hershey Specifications or written directions
+ provided by any Hershey Indemnitee;
+
+3. the
+ use of Hershey Raw Materials ingredients which were defective when made
+ available to Callebaut; or
+
+4. any
+ breach by Hershey or any Affiliate of Hershey of this Agreement or any Related
+ Agreement.
+
+E. Callebaut
+ shall have the right, but not the duty, to participate, at its own cost, in
+ the
+ defense of any claim or litigation with attorneys of Callebaut's
+ selection.
+
+19
+
+F. Anything
+ contained in this Agreement or any Related Agreement to the contrary
+ notwithstanding, neither Party hereto shall have any liability under any
+ provision of this Agreement or any Related Agreement (whether pursuant to this
+ Section 12 or pursuant to any cause of action or complaint initiated by or
+ on
+ behalf of any Party) for any punitive or special damages, loss of business
+ reputation, or 50% of lost future profit, regardless of whether the
+ relevant claim is based on warranty, contract, tort (including negligence or
+ strict liability) or otherwise. Each Party hereto agrees to take all
+ reasonable action to mitigate any Losses it may suffer or incur upon and after
+ becoming aware of any event which could reasonably be expected to give rise
+ to
+ any Losses.
+
+G. Callebaut’s
+ and Hershey’s indemnification obligations shall survive the termination or
+ expiration of this Agreement and any Related Agreement.
+
+13.
+
+FORCE
+ MAJEURE
+
+In
+ the
+ event that either Party shall be totally or partially unable to fulfill one
+ or
+ more of its obligations hereunder or under any Related Agreement as a result
+ of
+ acts or occurrences beyond the control of the Party affected, such as, but
+ not
+ limited to, actions, omissions or impositions by local, state, provincial,
+ federal or national government authorities, fire, flood, earthquake, or other
+ natural disaster, acts of God, act of terrorism or revolution or labor unrest,
+ the Party so affected shall be totally or partially relieved from fulfilling
+ its
+ contract obligations during the period of such force majeure. In
+ connection with any such force majeure event, the affected Party shall notify
+ the other Party of the circumstances thereof as soon as reasonably possible
+ and
+ shall propose alternatives to the Steering Committee. In addition, if
+ such force majeure event shall continue for a period of 90 days or longer,
+ then
+ the other Party shall be entitled to terminate this Agreement or the relevant
+ Related Agreement, as applicable, at any time thereafter during which such
+ event
+ is continuing.
+
+14.
+
+NOTICE
+
+Any
+ notice or other writing required or permitted to be given under this Agreement
+ or any Related Agreement, except for the separate notice provisions set forth
+ in
+ the Innovation Agreement, (referred to in this Section 14 as a “notice”) shall
+ be deemed duly given if delivered personally (including by recognized delivery
+ device), or sent by prepaid, registered mail, or transmitted by fax or other
+ form of recorded communication tested prior to transmission to the address
+ of
+ the applicable Party set out above, if to Hershey to the attention of Senior
+ Director, Global Manufacturing Alliances, fax no. 717-534-8232 with a copy
+ to
+ Legal Counsel, fax no. 717-534-7549, and if to Callebaut to the attention of
+ the
+ President, North America, fax no. 312-329-7643, with a copy to the Chief
+ Financial Officer, North America, fax no. 312-329-7643. Either Party
+ may change the address for notice by notifying the other Party in the manner
+ provided in this Section 14. Any notice which is personally delivered
+ shall be deemed to have been given and received on the day it is so delivered,
+ unless such day is not a business day, in which case it will be deemed delivered
+ on the next business day. Any notice which is mailed in the manner
+ provided for in this Section 14 shall be deemed to have been given and received
+ on the 5th
+ business day following the date of its mailing. Any notice
+ transmitted by fax or other form of recorded communications shall be deemed
+ given and received on the 1st business
+ day after
+ its transmission.
+
+20
+
+15.
+
+ NO
+ WAIVER
+
+The
+ failure of either Party to assert a right hereunder or any Related Agreement
+ or
+ to insist upon compliance with any terms or conditions of this Agreement or
+ any
+ Related Agreement shall not constitute a waiver of that right or excuse the
+ subsequent performance or nonperformance of any term or condition by the other
+ Party.
+
+16.
+
+ASSIGNMENTS
+
+A. This
+ Agreement will be assignable to a successor in interest of substantially all
+ of
+ a Party’s assets, subject to Hershey’s termination rights set forth in Section
+ 9. All other assignments will be subject to the prior written consent
+ of the non-assigning Party hereto.
+
+B. Callebaut
+ shall not subcontract the performance of its obligations hereunder or under
+ any
+ Related Agreement, or permit any other arrangement having similar effect, in
+ any
+ event other than to an Affiliate of Callebaut, without obtaining the prior
+ written consent of Hershey.
+
+17.
+
+GOVERNING
+ LAW
+
+This
+ Agreement shall be governed and construed in accordance with the laws (excluding
+ the conflict of laws rules thereof) of the State of New York. Each
+ Party hereto agrees to submit to the exclusive jurisdiction of the Courts of
+ the
+ Southern District of New York with respect to this Agreement.
+
+18.
+
+REAL
+ ESTATE AGREEMENTS
+
+The
+ Parties agree to negotiate in good faith with respect to the Real Estate
+ Agreements, such negotiation to begin as soon as practical following execution
+ of this Agreement. In the event the Parties fail to execute the Real
+ Estate Agreements before August 31, 2007 either Party may terminate this
+ Agreement (which will also result in the termination of all previously executed
+ Related Agreements) and upon any such termination neither Party shall have
+ any
+ further liability to the other with respect to this Agreement or any Related
+ Agreement.
+
+19.
+
+ENTIRE
+ AGREEMENT AND HEADINGS
+
+This
+ Agreement and the Related Agreements constitute the entire agreement between
+ the
+ Parties with respect to the subject matter hereof and thereof, and any prior
+ or
+ contemporaneous agreements or understandings related thereto (including the
+ Product Purchase and Supply Agreement between the Parties dated December 4,
+ 2006
+ and any letters of intent or confidentiality agreements) are deemed superseded
+ hereby. Neither this Agreement nor any Related Agreement may be
+ amended except by an instrument in writing duly executed on behalf of the Party
+ against which such amendment is sought to be enforced. All headings
+ utilized herein are inserted for reference only and shall have no effect on
+ the
+ meaning or construction of any terms of this Agreement.
+
+20.
+
+CONFLICTING
+ TERMS
+
+The
+ terms
+ of this Agreement shall supersede and take precedence over any conflicting
+ terms
+ found in any Related Agreement or any purchase order or invoice issued by either
+ Party.
+
+21
+
+21. 
+
+ PREPRINTED
+ TERMS
+
+In
+ no
+ event shall any preprinted terms or conditions found on either Party’s purchase
+ orders, invoices or other preprinted forms be considered an amendment or
+ modification of this Agreement or any Related Agreement. Such preprinted terms
+ or conditions, to the extent in conflict with this Agreement or any Related
+ Agreement, shall be considered null and of no effect.
+
+22.
+
+BINDING
+ EFFECT
+
+The
+ rights created by this Agreement shall inure to the benefit of, and the
+ obligations created hereby shall be binding upon, the Parties and their
+ respective successors and permitted assigns.
+
+IN
+ WITNESS WHEREOF, each of the Parties hereto has executed this Agreement by
+ its
+ duly authorized representatives as of the date and year first above
+ written.
+
+BARRY
+ CALLEBAUT, AG
+
+By /s/
+ Patrick De Maeseneire
+
+Name:
+ Patrick De Maeseneire
+
+Title: Chief
+ Executive Officer
+
+THE
+ HERSHEY COMPANY
+
+By 
+ /s/ Burton H. Snyder 
+
+Name:
+ Burton H. Snyder
+
+Title: Senior
+ Vice President,
+
+ General
+ Counsel & Secretary
+
+22

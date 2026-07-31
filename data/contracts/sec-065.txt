@@ -1,0 +1,2540 @@
+EX-10.19
+5
+dex1019.htm
+MICROSOFT OEM MOBILE WINDOWS DISTRIBUTION AGREEMENT
+
+Microsoft OEM Mobile Windows Distribution Agreement
+
+Exhibit 10.19 
+ 
+SCHEDULE TO EXHIBIT 10.19 
+ 
+BSQUARE CORPORATION 
+
+FORM 10-K FOR THE ANNUAL PERIOD ENDED DECEMBER 31, 2010 
+ 
+Filed herewith as Exhibit 10.19 to the Form 10-K for the annual period ended December 31, 2010, is a copy of the Microsoft OEM Windows Mobile Distribution Agreement between Microsoft Licensing, GP,
+an affiliate of Microsoft Corporation (“Microsoft”), and Bsquare Corporation (the “Company”), entered into effective as of November 1, 2009, as amended by Amendment No. 1 dated as of September 1, 2010
+and Amendment No. 2 dated as of November 1, 2010 (collectively, the “Distribution Agreement”). The Company has also entered into three additional distribution agreements, as amended, with Microsoft that are substantially
+identical in all material respects to the Distribution Agreement except as to the parties thereto, the dates of execution and other details, including the territories covered (the “Additional Agreements”). Per Instruction 2 to
+Item 601 of Regulation S-K, the Company is not filing the Additional Agreements as exhibits to the Form 10-K, but is filing this Schedule with Exhibit 10.19 describing the differences between the Distribution Agreement and the Additional
+Agreements. In addition, the Company is seeking confidential treatment of the same portions of the Additional Agreements as requested for the Distribution Agreement. 
+
+Name of Agreement
+
+Parties to
+ 
+Agreement
+
+ Territory
+
+Signatories
+
+ Filed
+Herewith?
+
+ Microsoft OEM Windows Mobile Distribution Agreement, as amended by Amendment No. 1 dated as of September 1, 2010 and Amendment No. 2 dated as of
+November 1, 2010
+ 
+ •
+ 
+ Bsquare Corporation
+ 
+ Americas
+
+•
+
+ Brian Crowley
+ 
+ YES
+
+•
+
+Microsoft Licensing, GP
+
+•
+
+ Microsoft eSign Team
+
+ Microsoft OEM Windows Mobile Distribution Agreement, as amended by Amendment No. 1 dated as of September 1, 2010 and Amendment No. 2 dated as of
+November 1, 2010
+
+•
+
+ Bsquare Corporation
+ 
+ Japan
+
+•
+
+ Brian Crowley
+ 
+ NO
+
+•
+
+Microsoft Licensing, GP
+
+•
+
+ Microsoft eSign Team
+
+ Microsoft OEM Windows Mobile Distribution Agreement, as amended by Amendment No. 1 dated as of September 1, 2010 and Amendment No. 2 dated as of
+November 1, 2010
+
+•
+
+ Bsquare Corporation
+ 
+ Europe,
+ 
+Middle
+
+East,
+ 
+Africa
+
+•
+
+ Brian Crowley
+ 
+ NO
+
+•
+
+Microsoft Ireland Operations Limited
+
+•
+
+ Cristina Gregorin
+
+ Microsoft OEM Windows Mobile Distribution Agreement, as amended by Amendment No. 1 dated as of September 1, 2010 and Amendment No. 2 dated as of
+November 1, 2010
+
+•
+
+ Bsquare Corporation
+ 
+ Asia
+
+•
+
+ Brian Crowley
+ 
+ NO
+
+•
+
+Microsoft Licensing, GP
+
+•
+
+ Microsoft eSign Team
+
+ Company Name:
+ 
+ Bsquare Corporation (Mobility - Americas)
+
+ MS Agreement Number:
+ 
+ ***
+
+ Start Date:
+ 
+ November 1, 2009
+
+ End Date:
+ 
+ October 31, 2011
+
+ Territory:
+ 
+ Americas
+
+MICROSOFT OEM WINDOWS
+MOBILE DISTRIBUTION AGREEMENT 
+ 
+MICROSOFT LICENSING, GP (“MS”), and the undersigned company (“Company”) agree to
+be bound by the terms of this MICROSOFT OEM WINDOWS MOBILE DISTRIBUTION AGREEMENT (“Agreement”) effective as of the date above (“Start Date”). 
+ 
+This Agreement consists of the following: 
+
+ •
+
+This Signature Page 
+
+ •
+
+Reporting and Payment Schedule 
+
+ •
+
+Notices Schedule 
+
+ •
+
+Terms 
+
+ •
+
+OEM Volume Royalty Program Schedule 
+
+ •
+
+Use of MOO and ECE Schedule 
+
+MICROSOFT LICENSING
+ 
+A general partnership organized under the laws of:
+ 
+State of Nevada, U.S.A.
+
+Bsquare Corporation
+ 
+A company organized under the laws of: Washington
+
+ By:
+
+/s/ Microsoft eSign Team
+
+ By:
+
+/s/ Brian Crowley
+
+ (signature)
+
+ (signature)
+
+ Name:
+
+ Name:
+
+Brian Crowley
+
+ (printed)
+
+ (printed)
+
+ Title:
+
+ Title:
+
+President and CEO
+
+ (printed)
+
+ (printed)
+
+ Date:
+ 
+ _________ 
+
+ Date:
+ 
+ November 4, 2009
+
+ (printed)
+
+ (printed)
+
+CONFIDENTIAL 
+
+ 05/04/09 59528v11 Microsoft OEM Windows Mobile Distribution Agreement
+
+Form 2.8. 1
+ 
+Document Tracking Number: ***
+
+Confidential treatment has been requested for
+portions of this agreement. This agreement omits the information subject to the confidential treatment request. Omissions are designated as ***. A complete version of this agreement has been filed separately with the Securities and Exchange
+Commission. 
+
+REPORTING AND PAYMENT SCHEDULE 
+
+Shipping, Billing, Rebates, Support 
+
+Company’s VAT Number: 805 0228 70 
+
+ Company “Ship To” Address
+ 
+ Company Billing Address
+
+110
+110th Ave NE, Suite 200
+
+Bellevue, WA 98004
+
+110
+110th Ave NE, Suite 200
+
+Bellevue, WA 98004
+
+Company
+Technical Support Number: (425) 519-5900 
+ 
+Payment 
+ 
+Company shall include applicable MS invoice numbers and its VAT number on all payments. 
+ 
+Send
+Payments via Wire Transfer Only to: 
+ 
+Microsoft Licensing, GP 
+ 
+*** 
+ 
+Or to such other address or account as MS may specify from time to time. 
+
+MOO and ECE Company Administrator 
+ 
+Company designates as its ECE and MOO Company Administrator the following individuals. 
+ 
+Name: *** 
+ 
+Name: *** 
+
+CONFIDENTIAL 
+
+Microsoft OEM Windows Mobile Distribution Agreement #*** dated November 01, 2009 between MS and
+BSQUARE CORPORATION (MOBILITY - AMERICAS) 
+ 
+Confidential treatment has been requested for portions of this agreement. This agreement omits the
+information subject to the confidential treatment request. Omissions are designated as ***. A complete version of this agreement has been filed separately with the Securities and Exchange Commission. 
+
+3 
+
+NOTICES SCHEDULE 
+ 
+The parties must address any notices related to this Agreement to the contacts and locations listed below. Either party may change these contacts by providing *** days prior notice to the other party. All
+written notices must be in the English language. 
+
+ Company Information
+ 
+ MS Information
+
+Bsquare Corporation
+ 
+110
+110th Ave NE, Suite 200
+
+Bellevue, WA 98006 USA
+
+Contact Name: ***
+ 
+Phone Number: ***
+ 
+Fax Number: 425-519-5999
+ 
+Email Address (required): ***
+
+Microsoft Licensing, GP
+
+***
+
+With a copy to:
+ 
+Microsoft Licensing,
+GP
+ 
+***
+
+With a copy to: Bsquare Corporation
+ 
+110 110th Ave
+NE, Suite 200
+ 
+Bellevue, WA 98006 USA
+
+Contact Name: ***
+ 
+Phone Number: ***
+
+Fax Number: 425-519-5999
+ 
+Email Address
+(required):***
+
+CONFIDENTIAL 
+
+Microsoft OEM Windows Mobile Distribution Agreement #*** dated November 01, 2009 between MS and
+BSQUARE CORPORATION (MOBILITY - AMERICAS) 
+ 
+Confidential treatment has been requested for portions of this agreement. This agreement omits the
+information subject to the confidential treatment request. Omissions are designated as ***. A complete version of this agreement has been filed separately with the Securities and Exchange Commission. 
+
+4 
+
+TERMS 
+
+ 1.
+ Definitions 
+
+“APM” means associated product materials MS designates from time to time as a part of the Products. Examples of APM include
+documentation and external media. Company acquires APM from an AR. 
+ 
+“ARA” means additional rights agreements such as
+the Microsoft OEM Customer License Agreement for Use of Third Party Brand Names and Trademarks and the Microsoft OEM Customer License Agreement for Field Upgrades. 
+ 
+“AR” means an MS-authorized replicator and supplier of APM or COAs. 
+
+“Benefits” are defined in section 14.(i) 
+ 
+“CIETAC” means China International Economic & Trade Arbitration Commission. 
+ 
+“CLA” means the serialized OEM Customer License Agreement for Devices as made available by MS. For additional information on the CLA, Company should contact its MS account manager. 
+
+“Claim” is defined in section 8.a. 
+ 
+“COA” means the certificate of authenticity designated by MS. 
+
+“Channel” means OEM Customer’s distributors, dealers, resellers, and others in OEM Customer’s distribution chain for
+Devices. 
+ 
+“Company Parties” is defined in Section 14.(i) 
+
+“Default Charge” means an amount owed as liquidated damages for the unauthorized distribution of Products under this Agreement.
+The Default Charge for each Product is *** of the royalty for the Product (excluding discounts and rebates), less any royalty paid for the unauthorized distribution. 
+ 
+“Device” means OEM Parties’ computing system or device that 
+
+ (a)
+ is designed for and distributed with Product; 
+
+ (b)
+ meets the design requirements; and 
+
+ (c)
+ passes the Mobile Logo Test Program. 
+
+“Distributor ALTs” means the additional licensing terms and conditions for a Product that are set forth in Section 2(w) below. 
+
+“ECE” means the Mobile & Embedded Communications Extranet, which is the Internet site located at ***. MS may designate
+a successor URL from time to time. The ECE is made available to Company as an informational resource. 
+ 
+“EFTA” means
+European Free Trade Association. 
+ 
+“Embedded Application” means an industry- or task-specific software program and/or
+functionality with all of the following attributes: 
+
+ (a)
+ It provides the primary functionality of the Device. 
+
+ (b)
+ It is designed to meet the functionality requirements of the specific industry into which the Device is marketed. 
+
+ (c)
+ It offers significant functionality in addition to the Product software. 
+
+“Device” means OEM Customer’s computing system or device with an Image that 
+
+ (a)
+ is designed for and distributed with an Embedded Application; and 
+
+ (b)
+ is not marketed or useable as a general purpose personal computing device (such as a personal computer), a multi-function server or a commercially viable
+substitute for one of these systems. 
+
+“End User Documentation” means end user information about the
+Product as described in the Documentation. 
+ 
+“EU” means the European Union. 
+
+“Image” means the binaries for the Product included on an Device and the OEM Customer’s binaries. 
+
+“Material Amount” means ***. 
+ 
+“MCCL” means Microsoft (China) Company Limited, a company organized under the laws of the People’s Republic of China. MCCL is a wholly-owned subsidiary of MSCORP. 
+
+“Minimum Requirements” means ***. 
+
+CONFIDENTIAL 
+
+Microsoft OEM Windows Mobile Distribution Agreement #***-1 dated November 01, 2009 between MS and
+BSQUARE CORPORATION (MOBILITY - AMERICAS) 
+ 
+Confidential treatment has been requested for portions of this agreement. This agreement omits the
+information subject to the confidential treatment request. Omissions are designated as ***. A complete version of this agreement has been filed separately with the Securities and Exchange Commission. 
+
+5 
+
+“MIOL” means Microsoft Ireland Operations Limited, a company organized under the
+laws of Ireland. MIOL is an indirect, wholly-owned subsidiary of MSCORP. 
+ 
+“Misappropriate” has the same meaning given
+in the Uniform Trade Secrets Act. 
+ 
+“Mobile Logo Test Program” means MSCORP’s compliance tests for each Device.
+
+“Mobile Operator” means a wireless telecommunication service provider. 
+
+“MOO” means the MS OEM Online website located at *** (or any successor URL provided by MS). 
+
+“MS Affiliate” means any entity that directly or indirectly controls, is controlled by, or is under common control with MS,
+including MSCORP. 
+ 
+“MS Getting Started Disk” or “MS GSD” means a CD acquired by Company from an AR. The CD
+contains the following: 
+
+ (a)
+ MS software that the end user installs on a personal computer. This software enables data exchange between the personal computer and the Device;
+
+ (b)
+ End User Documentation in electronic format; and 
+
+ (c)
+ Other MS software. 
+
+“MS Parties” means MS, Suppliers, and/or their respective officers, employees, and agents. 
+
+“MSCORP” means Microsoft Corporation, a company organized under the laws of the State of Washington, U.S.A. 
+
+“MSLI” means Microsoft Licensing, GP, a general partnership organized under the laws of the State of Nevada, U.S.A., of which
+MSCORP is a general partner. 
+ 
+“New Device” means a Device model that has not been previously distributed by OEM
+Customer. It also means a Device model that has been distributed previously by OEM Customer, but must pass the Mobile Logo Test Program again before further distribution. 
+ 
+“OAK” means the OEM adaptation kit for a Product, which includes, where applicable, Product software and Supplements, image build instructions, installation instructions, and utilities.
+
+“OEM ALPs” means licensing terms and conditions for the Product on the “Additional Licensing Provisions”
+affixed to the Runtime License Envelope. Courtesy copies of the ALPs are available on the ECE. 
+ 
+“OEM Customer” means
+an original equipment manufacturer of one or more Devices that has signed a current CLA. 
+ 
+“OEM Customer Getting Started
+Disk” or “OEM Customer GSD” means a CD distributed by the OEM with the Device that contains the following 
+
+ (a)
+ Contents from the MS GSD. The Documentation describes which contents may be distributed; 
+
+ (b)
+ OEM’s logo; and 
+
+ (c)
+ If desired, software owned or licensed by OEM other than MS or MSCORP software (“OEM Customer Software”). 
+
+ (d)
+ OEM Customer GSD is called Company GSD in the CLA. 
+
+“OEM Volume Royalty Program” has the meaning specified in the OEM Volume Royalty Program Schedule. 
+ 
+“Outsource Manufacturer” or “OM” is an entity approved by MS in writing that an OEM Customer engages to: 
+
+ (a)
+ install an Image on a Device, 
+
+ (b)
+ manufacture a Device, 
+
+ (c)
+ prepare the Device for distribution, and 
+
+ (d)
+ distribute Devices on behalf of OEM Customer to: OEM Customer, the Channel , and End Users (as defined in the CLA). 
+
+An Outsource Manufacturer can be a third party or owned by the OEM Customer. In order to maintain status as an approved OM, the OM must
+not develop or build the Image. 
+ 
+“Payments” is defined in section 14(i). 
+
+“PRC” means the People’s Republic of China. 
+ 
+“Prior Agreement” is defined in section 13(c). 
+
+CONFIDENTIAL 
+
+Microsoft OEM Windows Mobile Distribution Agreement #***-1 dated November 01, 2009 between MS and
+BSQUARE CORPORATION (MOBILITY - AMERICAS) 
+ 
+Confidential treatment has been requested for portions of this agreement. This agreement omits the
+information subject to the confidential treatment request. Omissions are designated as ***. A complete version of this agreement has been filed separately with the Securities and Exchange Commission. 
+
+6 
+
+“Products” means the MS Windows Mobile products identified as licensed in the
+Product Viewer Tool. Products are available from an AR or an MS Affiliate for redistribution to OEM Customers. Products include MS software (including Supplements), COAs, and APM. 
+
+“Product Viewer Tool” means the Product Viewer in MOO. It is a search tool that allows users to search for MS part numbers, and
+bills of materials for Products. 
+ 
+“Recovery Image” means a copy of the Image as originally installed on the Device. A
+Recovery Image is used to reinstall the Image. 
+ 
+“Reporting Guidelines” means the Sales-Out and Royalty Reporting
+Guidelines posted on the ECE. These guidelines provide for electronic submission to MS of sales-out information as reasonably requested by MS. MS reserves the right to modify such guidelines with *** days notice. Any part of the Reporting Guidelines
+that conflicts with any term or condition of this Agreement shall not apply to this Agreement. 
+ 
+“Resource Guide”
+means the Microsoft Windows Mobile Distributor Resource Guide posted on the ECE. It contains general licensing, operational, and Product ordering information, but not licensing terms. MS reserves the right to modify the Resource Guide with *** days
+notice. Any part of the Resource Guide that conflicts with any term or condition of this Agreement shall not apply to this Agreement. 
+ 
+“Royalty Rate List” means the list of royalty-bearing Products and royalty rates. This list also contains Distributor ALPs and other information. 
+
+“Runtime License” means a license to distribute a single Image on a Device. 
+
+“Runtime License Envelope” means the envelope that contains the ALPs for the Product. A Runtime License Envelope may contain
+COAs. 
+ 
+“Sample Code” means the software marked as “sample” or delivered in a folder marked
+“sample” that may be included as a part of the Product. Sample Code may be in source code or object code format. Sample Code is not “covered software” under MS’ published indemnification policy. 
+
+“Standards” means telecom and CODEC standards (including any successors or derivatives) as well as any rights offered by patent
+pool licensing agencies such as MPEGLA, VIA Licensing and HDMI Licensing. 
+ 
+Examples include, without
+limitation: 
+ 
+- Global System for Mobile (Communications) (GSM) 
+
+- General Packet Radio Services (GPRS) 
+
+- Code Division Multiple Access (CDMA) 
+
+- Single Carrier Radio Transmission Technology (CDMA/1xRTT) 
+
+- MPEG (audio and video) 
+ 
+MS may update this list for Company’s reference purposes on the ECE. 
+
+“Successor Agreement” is defined in section 13(b). 
+ 
+“Supplement” means a supplement to or replacement of any part of a Product that MS provides to Company. Additional terms for Supplements, if any, are set forth in Supplement letters
+(“Supplement Letters”). 
+ 
+“Suppliers” means MSCORP, MSLI, and other licensors or suppliers of Product or
+portions of Product. 
+ 
+“Territory” means the specific countries or regions of the world on the Signature Page.
+
+“Trade Secret” has the same meaning given in the Uniform Trade Secrets Act. 
+
+“Update Image” means an Image that consists of an updated version of the Product binaries such as supplement code and/or an
+updated version of the OEM Customer binaries. An Update Image may include the previously distributed version of the Product binaries or the OEM Customer binaries, but not both. 
+ 
+“Variance” means each instance in which the Product does not substantially comply with the End User Documentation. 
+ 
+“VAT Number” is defined in section 3(f)(i). 
+ 
+“Windows Mobile
+Distributor” means a MS Distributor that is authorized to distribute Windows Mobile Products. 
+
+ 2.
+ License Grant and Limitations 
+
+ (a)
+ License Grant. MS grants to Company a non-exclusive, limited license to distribute Products solely: 
+
+CONFIDENTIAL 
+
+Microsoft OEM Windows Mobile Distribution Agreement #***-1 dated November 01, 2009 between MS and
+BSQUARE CORPORATION (MOBILITY - AMERICAS) 
+ 
+Confidential treatment has been requested for portions of this agreement. This agreement omits the
+information subject to the confidential treatment request. Omissions are designated as ***. A complete version of this agreement has been filed separately with the Securities and Exchange Commission. 
+
+7 
+
+ (i)
+ to OEM Customer into or within the Territory, and 
+
+ (ii)
+ worldwide (subject to section 17) to OMs. 
+
+Company may only distribute Products (released prior to Windows Mobile 6) with MS prior consent. 
+
+ (b)
+ Ordering 
+
+ (i)
+ Company shall only accept orders from OEM Customers or on behalf of OEM Customers from OMs. 
+
+ (ii)
+ Company shall verify via the MOO tool that all orders are from (or on behalf of) parties that have current OEM Customer status. 
+
+ (iii)
+ Additional countries may be added to the Territory only after Company’s MS regional channel manager approves the addition and it is added to MOO.
+
+ (iv)
+ Company shall not execute a CLA. Company is not permitted to act as an OEM Customer. 
+
+ (c)
+ ARs and Available Products 
+
+ (i)
+ Company may only acquire APM and COAs from ARs (or MS Party). A list of ARs is available on the ECE. MS may update that listing from time to time.
+
+ (ii)
+ Company shall order and acquire from an AR (or MS Affiliate) only Products listed on the Product Viewer Tool. 
+
+ (iii)
+ If MS has removed a Product from the Product Viewer Tool, Company may only continue to distribute the Product until the earlier of: 
+
+ (1)
+ The Product distribution end date that is set by MS; and 
+
+ (2)
+ Termination or expiration of this Agreement. 
+
+ (iv)
+ Company may order Recovery Images and Update Images (on behalf of OEM Customers) that are based on Products listed on the Product Viewer Tool. Recovery Images
+and Update Images may only be distributed to OEM Customers, or OMs on behalf of OEM Customers. 
+
+ (d)
+ Packaging Intact 
+
+ (i)
+ Company shall distribute the Product in the unopened form/packaging as received from the AR and/or MS Party. 
+
+ (ii)
+ Company shall not modify or remove any part of the contents or packaging of the Product. 
+
+ (e)
+ Inventory Control. Company shall maintain a level of security sufficient to prevent loss or unauthorized distribution of Product. 
+
+ (f)
+ No Conflicts. Company shall not provide to OEM Customers any non-MS information that conflicts with or supersedes or purports to supersede the CLA, any ARAs or
+the OEM ALPs. 
+
+ (g)
+ Product-Specific Terms. Company shall comply with the Distributor ALTs. 
+
+ (h)
+ Potential OEM Customers. Company shall perform the following steps for each potential OEM Customer. Company shall: 
+
+ (i)
+ Ensure that it uses the most current CLA and ARA forms. 
+
+ (ii).
+ Before any potential OEM Customer signs a CLA, ensure that the company is within the Territory. 
+
+ (iii)
+ Notify each potential OEM Customer that only an authorized signatory of the prospective OEM Customer may execute the CLA or ARA. 
+
+ (iv)
+ Provide the potential OEM Customer a courtesy copy of the applicable OEM ALPs before the OEM Customer first licenses any Product. 
+
+ (v)
+ Verify that: 
+
+ (1)
+ The information provided by the potential OEM Customer is complete and correct; 
+
+ (2)
+ No changes or alterations have been made to the CLA or ARA; and 
+
+ (3)
+ Each such agreement has been properly completed and executed by an authorized representative of the potential OEM Customer. 
+
+ (i)
+ New OEM Customers. Company shall perform the following steps for each new OEM Customer. Company shall: 
+
+ (i)
+ If the OEM Customer requests ARAs, comply with the instructions described in the Resource Guide. 
+
+ (ii)
+ Provide Recovery Images and Update Images to OEM Customers as received from an AR and in accordance with the Resource Guide. 
+
+CONFIDENTIAL 
+
+Microsoft OEM Windows Mobile Distribution Agreement #***-1 dated November 01, 2009 between MS and
+BSQUARE CORPORATION (MOBILITY - AMERICAS) 
+ 
+Confidential treatment has been requested for portions of this agreement. This agreement omits the
+information subject to the confidential treatment request. Omissions are designated as ***. A complete version of this agreement has been filed separately with the Securities and Exchange Commission. 
+
+8 
+
+ (iii)
+ Provide Supplements on external media as received from an AR and any related OEM ALPs for OEM Customer only in the manner set forth in the applicable Supplement
+Letter from MS. 
+
+ (iv)
+ Forward to MS OEM Customer-signed originals of any CLAs and ARAs returned to Company in time for sales-out reporting. 
+
+ (j)
+ Interim Shipments. MS agrees that between the time Company obtains the OEM Customer’s signature on the CLA and the date MS countersigns:
+
+ (i)
+ Company may distribute Products to the OEM Customer, and 
+
+ (ii)
+ ***. CLAs should be processed in time for sales-out reporting. 
+
+ (k)
+ OEM Customer Notices. Company shall instruct each OEM Customer that: 
+
+ (i)
+ Design Restrictions on High Risk Activities. The Products are not fault-tolerant and are not designed, manufactured or intended for any use requiring fail-safe
+performance in which the failure of a Product could lead to death, serious personal injury, or severe physical or environmental damage (“High Risk Activities”). This includes the operation of aircraft or nuclear facilities. OEM
+Customer agrees not to use, or license the use of, the Product in connection with any High Risk Activities. 
+
+ (ii)
+ OEM Customers may only distribute Products: 
+
+ (1)
+ As part of the OEM Customers’ Devices; 
+
+ (2)
+ That were obtained by the OEM Customers directly from an MS-authorized distributor; and 
+
+ (3)
+ In accordance with the CLA, the OEM ALPs, and the ARAs. 
+
+ (iii)
+ OEM Customers may only reproduce and distribute Update Images, Supplements, and Recovery Images in accordance with the CLA. 
+
+ (l)
+ IP Notices 
+
+Company shall
+not remove or obscure any copyright, trademark or patent notices that appear on the Product as delivered to Company. 
+
+ (m)
+ MS Logos. Company’s use of any logo of MS or MSCORP requires a separate logo license from MSCORP. Logo licenses and standard guidelines are posted at ***.
+
+ (n)
+ Unauthorized Distribution. Upon notice from MS, Company shall promptly discontinue distribution of Product to OEM Customers or to a potential OEM Customer.
+Company shall cooperate with MS in investigating instances of unauthorized distribution of Products. Company shall make commercially reasonable efforts to retrieve any Products previously distributed to such OEM Customers or potential OEM Customer.
+
+ (o)
+ No Reverse Engineering 
+
+ (i)
+ Company must not reverse engineer, decompile, or disassemble the Product, except and only to the extent applicable law expressly permits the activity.
+
+ (ii)
+ If Company is located in the EU, and it elects to exercise its rights under applicable laws that implement Article 6 of the European Community’s Directive
+for the Legal Protection of Computer Programs, OJL 122/42 (17 May 1991) (the “Directive”) then section 2.o.(iii) applies. 
+
+ (iii)
+ Before exercising any possible rights under the Directive, Company shall do both of the following things. 
+
+ (1)
+ Notify MS of the Company’s good faith belief that: 
+
+ (A)
+ Information required to achieve the interoperability of an independently created computer program is not otherwise available; and 
+
+ (B)
+ Decompilation is indispensable within the meaning of the Directive. 
+
+ (2)
+ Provide MS with a commercially reasonable amount of time to respond to Company regarding such assertions. 
+
+ (p)
+ No Representations for MS 
+
+Company shall not make any representation or warranty (express or implied) to OEM Customer, or any other third party, on behalf of MS.
+Company shall defend, indemnify, and hold MS and its Suppliers harmless from any claim or damages and reasonable attorneys’ fees arising out of any warranty or representation by Company. 
+
+ (q)
+ This Agreement does not give Company title to any Product, packaging, papers, materials, or other property of MS related to a Product.
+
+CONFIDENTIAL 
+
+Microsoft OEM Windows Mobile Distribution Agreement #***-1 dated November 01, 2009 between MS and
+BSQUARE CORPORATION (MOBILITY - AMERICAS) 
+ 
+Confidential treatment has been requested for portions of this agreement. This agreement omits the
+information subject to the confidential treatment request. Omissions are designated as ***. A complete version of this agreement has been filed separately with the Securities and Exchange Commission. 
+
+9 
+
+ (i)
+ MS retains title to all APM and COAs (and related materials) from the time that the Product is acquired by Company until Company distributes the
+Products to or for the OEM Customers.
+
+ (ii)
+ In no circumstances will any receiver or trustee of Company be entitled to sell or distribute any Product obtained by Company pursuant to this Agreement.
+
+ (r)
+ Unless otherwise provided in writing from MS, Company may not deliver Product to any other company that has an effective Microsoft OEM Windows Mobile
+Distribution Agreement. 
+
+ (s)
+ Company agrees that it has received and reviewed a courtesy copy of the Minimum Requirements (if applicable in the Territory). Company further agrees to achieve
+compliance with the Minimum Requirements (if any) within *** days of the Start Date and to maintain such compliance after that. *** 
+
+ (t)
+ Drop Ship Option Available. OEM Customers may request that orders from Company be shipped directly from the AR to an OM (whether or not situated within the
+Territory). Company must forward this request using the “Drop Ship Request Form” to the MS account manager for approval. If approved, notice will be sent to Company and the AR to begin processing of the purchase order.
+
+ (u)
+ Outsource Manufacturer Placement of Purchase Orders. Under certain circumstances an OM may place a purchase order directly with a Microsoft approved distributor.
+The OM is required to include the following information of the purchase order: the name of the OEM Customer, CLA number of the OEM Customer, and the activity to be performed on behalf of the OEM Customer. If Company receives such a purchase order,
+Company must i) verify that OEM Customer has an active CLA and that the OM has already been approved as part of the OM ARA process by MS; and ii) when shipping the order to the OM, Company must notify the OEM Customer of the shipment.
+
+ (v)
+ OEM Customer GSD 
+
+ (i)
+ Company must use an AR to reproduce the OEM Customer GSD for each OEM Customer. 
+
+ (ii)
+ Company may not modify, obscure or omit any files contained on the MS GSD. 
+
+ (iii)
+ Company may replace defective OEM Customer GSDs. Company or OEM Customers must send the replacement directly to the End User. OEM Customers must not use the
+Channel to send replacements. 
+
+ (w)
+ Distributor ALTs 
+
+ (i)
+ Limited Distribution. The Traditional Chinese language version of any Windows Mobile Product may not be distributed by or for Company within or to the
+People’s Republic of China. Company will defend, indemnify and hold MS Parties harmless against any third party claims, demands, liability or damages resulting from Company’s failure to notify any OEM Customer of these limits.
+
+ (ii)
+ Upgrade Products. If the name of a Windows Mobile Product includes “UPGRADE”, then an OEM Customer must have in effect a Microsoft OEM Customer
+License Agreement for Field Upgrade prior to distributing that Product. 
+
+ 3.
+ Reports and Payments 
+
+ (a)
+ Royalty Rate List 
+
+ (i)
+ MS will post the Royalty Rate List on the ECE. 
+
+ (ii)
+ MS may modify the Royalty Rate List upon *** notice to Company. Submission of Product orders to ARs or distribution of Product after the effective date of any
+modifications to the Royalty Rate List shall constitute Company’s acceptance of such modifications. The new Royalty Rate List will be effective on the date specified on the Royalty Rate List or, if no date is specified, *** after notice of the
+change. 
+
+ (iii)
+ If Company elects to participate in the OEM Volume Royalty Program, Company shall comply with the terms and conditions in the OEM Volume Royalty Program Schedule.
+
+ (iv)
+ MS may offer a performance rebate program (“Rebate Program”) to encourage its distributors to promote and expand sales of Products. Company may qualify to
+participate in the Rebate Program and earn rebates for achieving defined objectives as outlined on ECE. Company should contact its MS account manager with any questions about the Rebate Program. 
+
+ (b)
+ Sales-Out Reports 
+
+ (i)
+ Within *** days after the end of each calendar month, Company shall provide a report as required by the then-current Reporting Guidelines. Company shall provide its
+final report *** days after this Agreement terminates or expires. 
+
+If Company fails to submit a sales-out
+report, Company may receive daily notices from MS to correct the problem. MS may invoice Company based on Product shipment reports submitted to MS by the ARs. 
+
+CONFIDENTIAL 
+
+Microsoft OEM Windows Mobile Distribution Agreement #***-1 dated November 01, 2009 between MS and
+BSQUARE CORPORATION (MOBILITY - AMERICAS) 
+ 
+Confidential treatment has been requested for portions of this agreement. This agreement omits the
+information subject to the confidential treatment request. Omissions are designated as ***. A complete version of this agreement has been filed separately with the Securities and Exchange Commission. 
+
+10 
+
+By the end of each calendar month, for the prior month Company must provide to MS a Mobile
+Indirect Channel Landed Revenue Report posted on the ECE. 
+
+ (ii)
+ Company shall ensure that all reports under this Agreement: 
+
+ (1)
+ are accurate and complete, 
+
+ (2)
+ are in compliance with the requirements in the Reporting Guidelines, and 
+
+ (3)
+ are in compliance with any Minimum Requirements applicable in the Territory. 
+
+ (iii)
+ Company shall take all steps necessary to ensure that they comply with all applicable local and national data protection laws when collecting and providing data to MS.
+
+ (c)
+ Royalty Payments. For each unit of Product distributed by Company, Company agrees to pay MS the royalty rate in the Royalty Rate List in effect during the month
+in which Product is shipped by Company. Company shall pay royalties within *** days after the end of each calendar month in which Product was shipped. Company shall pay royalties within *** days after the termination or expiration date of this
+Agreement for all Product distributed in the final full or partial month, as well as all inventory not returned to MS. 
+
+ (d)
+ Monthly Payments. For each calendar month, Company shall remit payment to MS via wire transfer, as specified in the Payment section of the Reporting and Payment
+Schedule. 
+
+ (e)
+ Late Payments 
+
+ (i)
+ If Company does not meet MS payment terms, MS may, without limiting its remedies, do any of the following: 
+
+ (1)
+ require the AR to suspend all pending Company orders; or 
+
+ (2)
+ terminate this Agreement. 
+
+ (ii)
+ If Company fails to pay any royalty or other payment due under this Agreement by the applicable due date, then MS may apply a late charge on the past due amount. To the
+extent permitted by applicable law, the late charge will be assessed at an annual rate equal to ***%. The late charge will accrue monthly (before and after any judgment) from the due date through the date of actual payment (both dates inclusive).
+Late charges will be applied and without prejudice to any other right or remedy available to MS. 
+
+ (f)
+ Currency 
+
+All payments
+must be in U.S. dollars and amounts owed will not be satisfied by a tender or any recovery pursuant to any judgment that is expressed in or converted by MS to any currency other than U.S. dollars. 
+
+ (g)
+ Withholding Tax 
+
+ (i)
+ If Company is required by any foreign tax authority to withhold taxes on payments to MS, then Company may deduct such taxes from the amount owed MS and pay them to that
+authority. Company must deliver to MS an official receipt for any taxes withheld (or other documents necessary) for MS to claim a foreign tax credit. Company must deliver the receipt within *** days of payment of the tax. If MS is defined as MSLI or
+MCCL, a foreign tax authority is a non-U.S. authority. If MS is defined as MIOL, a foreign tax authority is a non-Irish authority. If Company does business in a jurisdiction that uses the Value Added Tax or sales tax numbers (“VAT Number”)
+for tax identification purpose, Company must provide its VAT Number in the Reporting and Payment Schedule. 
+
+ (ii)
+ Tax Certificate. If Company conducts business in the U.S.A. and qualifies for a state resale tax exempt certificate, then Company shall provide MS with a copy of
+its U.S.A. state resale tax exempt certificate, if applicable, with this Agreement when it is returned for signature by MS. 
+
+ (h)
+ Credit Review. MS reserves the right to review Company’s financial condition, payment history, and overall credit worthiness during the term of this
+Agreement. By signing this Agreement Company authorizes MS to access any credit bureaus or agencies to inquire about Company’s financial condition. Upon request, Company shall provide its current audited financial statements. After review of
+Company’s financial condition, payment history and overall credit worthiness, MS may require any of the following payment assurances: 
+
+ (i)
+ An initial payment equal to the estimated Product royalties for the first calendar quarter of the Agreement (or the quarter following the review). Company may not
+recoup any of that payment against royalties due to MS or apply it against payments to any AR. If Company has complied with all material terms of this Agreement when it expires, MS will refund the initial payment amount (net of amounts due MS)
+within *** days of Company’s final royalty report and payment for Products distributed during the term of this Agreement. 
+
+ (ii)
+ A third party guarantee, performance bond, letter of credit, prepayment of royalties, or other security. 
+
+CONFIDENTIAL 
+
+Microsoft OEM Windows Mobile Distribution Agreement #***-1 dated November 01, 2009 between MS and
+BSQUARE CORPORATION (MOBILITY - AMERICAS) 
+ 
+Confidential treatment has been requested for portions of this agreement. This agreement omits the
+information subject to the confidential treatment request. Omissions are designated as ***. A complete version of this agreement has been filed separately with the Securities and Exchange Commission. 
+
+11 
+
+ (iii)
+ Periodic updated financial statements. 
+
+ (iv)
+ Written assurances of due performance. 
+
+Until the deposit amount and/or payment assurances is/are received and acceptable to MS, MS may suspend Company’s license rights or require ARs to refuse to fill Company’s orders. 
+
+ (i)
+ Over- Reporting Error. If Company discovers an over-reporting error, Company shall report the error to MS in writing within *** calendar months after the end of
+the calendar month in which the Product was distributed. 
+
+ (j)
+ Order Limits. MS may require ARs to refuse or limit orders placed by Company in quantities greater than Company will be able to make timely payment for or
+distribute. MS will give Company written notice if it takes this action. 
+
+ (k)
+ Taxes and AR Charges Excluded. Royalties exclude any taxes, duties, fees, excises or tariffs imposed on any of the Company’s activities in connection with
+this Agreement. Company must pay these charges, taxes and other fees. Royalties also exclude any charges by the AR for COAs or APM. 
+
+ (l)
+ Default Charge. Company must pay the Default Charge for each unit of Product distributed in violation of the terms of this Agreement. If Company cannot account
+for Product, those missing Products will be deemed to have been distributed in violation of this Agreement. The parties agree that the unauthorized distribution of Product would result in damages to MS that are impractical and difficult to
+ascertain. The parties also agree that the Default Charge is a reasonable and genuine estimate of the loss to MS. Payment of the Default Charge shall constitute MS’ sole and exclusive compensatory remedy in case of unauthorized distribution of
+Product, provided, that this does not limit MS’ ability to seek equitable relief in case of unauthorized distribution of same. 
+
+ (n)
+ Damaged Materials. For COAs and APM damaged irreparably during the ordinary course of Company’s business, Company shall: 
+
+ (i)
+ Maintain a log of each damaged or destroyed COA. For each such COA, the log must include the date damaged or destroyed, Product name, COA number and cause of damage or
+destruction. 
+
+ (ii)
+ Return each damaged COA to the AR and/or MS Affiliate from which the COA was acquired As outlined in the Returns and Destruction Process on ECE.
+
+ (o)
+ Materials in Transit. Company assumes all risk of loss or damage to COAs and APM in transit between AR and Company. 
+
+ (p)
+ 
+Exchange Rate. All payments shall be made in the currency set forth in the Agreement. All amounts in the Agreement listed in RMB are based on
+U.S. Dollars. Company will pay invoices in RMB. MS will determine the exchange rate at the end of each calendar quarter. MS will use the foreign exchange mid-range rate published in The Wall Street Journal on the 7th day of the month before the last day of the calendar quarter. If the
+Wall Street Journal does not publish that rate on the 7th
+day of the month before the end of the quarter, MS will use the last Wall Street Journal rate published prior to the
+7th day of the month. 
+
+ 4.
+ No Warranties 
+
+ (a)
+ Each Product is licensed “as-is.” The OEM Customer and its end users bear the risk of using it. MS gives no express warranties, guarantees or conditions.
+To the extent permitted under applicable laws, MS excludes the implied warranties of merchantability, fitness for a particular purpose and non-infringement. 
+
+ (b)
+ Neither MS nor its Suppliers shall have any liability for failure to deliver any Product by any particular date. 
+
+ 5.
+ Product Discontinuance and Returns 
+
+ (a)
+ If MS or its Suppliers determine that a Product should not be distributed in a market, Company shall immediately stop distributing upon written notice.
+
+ (b)
+ Company shall defend, indemnify, and hold MS and its Suppliers harmless from and against all damages, costs and expenses, including reasonable attorneys’
+fees, incurred due to Company’s continued distribution of Product after MS has notified Company to stop distributing the Product. 
+
+ (c)
+ Replacement Units. No additional royalty shall accrue to MS for a Device or Recovery Image media that is shipped to replace a defective unit. Company must
+distribute such replacement units directly to OEM Customer and at no charge, except for the reasonable costs Company incurs for materials, shipping, and handling. 
+
+ (d)
+ Returns. Company shall manage any returns of Product in accordance with the then-current Returns and Destruction Policy on the ECE. 
+
+CONFIDENTIAL 
+
+Microsoft OEM Windows Mobile Distribution Agreement #***-1 dated November 01, 2009 between MS and
+BSQUARE CORPORATION (MOBILITY - AMERICAS) 
+ 
+Confidential treatment has been requested for portions of this agreement. This agreement omits the
+information subject to the confidential treatment request. Omissions are designated as ***. A complete version of this agreement has been filed separately with the Securities and Exchange Commission. 
+
+12 
+
+ 6.
+ Limitations of Liability 
+
+ (a)
+ Liability Cap 
+
+ (i)
+ MS Parties have limited liability under this Agreement. 
+
+ (1)
+ MS Parties’ liability is limited for each Product. 
+
+ (2)
+ MS Parties’ liability will not exceed *** of the amount of actual payments by Company for such Product. This amount is also limited to payments during the original
+term of this Agreement. 
+
+ (3)
+ This limit includes MS’ duties arising under section 8. 
+
+ (ii)
+ The liability limit in this section 6.a. does not apply to any attorneys’ fees and expenses incurred by MS under section 8 only. 
+
+ (b)
+ Exclusion Of Certain Damages And Limitation Of Types Of Liability 
+
+ (i)
+ Company agrees that the MS Parties shall not be liable to Company or to any third party for any of the following. 
+
+ (1)
+ Economic damages ((i)e., damages from loss of profits or revenues, business interruption and loss of business information or data). 
+
+ (2)
+ Consequential damages. 
+
+ (3)
+ Special damages. 
+
+ (4)
+ Incidental damages. 
+
+ (5)
+ Indirect damages. 
+
+ (6)
+ Punitive damages. 
+
+ (ii)
+ Company agrees that the foregoing limitations apply: 
+
+ (1)
+ Even if MS Parties have been advised of the possibility of such damages; 
+
+ (2)
+ Even in the event of any MS Parties’ fault, tort (including negligence), misrepresentation, strict liability or product liability; and
+
+ (3)
+ Even if any remedies fail of their essential purpose. 
+
+ (c)
+ Release. Company releases MS Parties from all liability in excess of the limits in this section 6. This release includes any claim for indemnification or
+contribution even if such claims arise under local law. 
+
+ 7.
+ Product Support 
+
+ (a)
+ This Agreement does not include technical support by MS to Company, OEM Customers or any end users. Company may be able to purchase technical support services
+from MS or a MS Party, under a separate agreement. 
+
+ (b)
+ Company shall provide commercially reasonable support for the Products to OEM Customers or seek verification from MS that an OEM Customer has an ongoing
+agreement with MS to provide support for the Products. Company shall advise OEM Customers to contact Company for support, except for those OEM Customers that have a support agreement directly with MS. 
+
+ (c)
+ During the term of this Agreement, Company must enter into a Microsoft Premier Support Services Agreement for support of the Windows Mobile Products.
+
+ (d)
+ Upon request, Company shall provide a copy of its current OEM Customer support policy for the Products. Company shall provide MS with *** days’ prior
+written notice of any substantive change in Company’s support policy for Products. 
+
+ 8.
+ Defense of Intellectual Property Infringement Claims 
+
+ (a)
+ Coverage. MS agrees to defend, at MS’ expense, Company in a lawsuit or other judicial action, and pay the amount of any adverse final judgment (or
+settlement that MS consents to) from the lawsuit or judicial action, for any third party claims that Products (excluding Sample Code): 
+
+ (i)
+ misappropriate a trade secret, 
+
+ (ii)
+ infringe any copyright or trademark rights, or 
+
+CONFIDENTIAL 
+
+Microsoft OEM Windows Mobile Distribution Agreement #***-1 dated November 01, 2009 between MS and
+BSQUARE CORPORATION (MOBILITY - AMERICAS) 
+ 
+Confidential treatment has been requested for portions of this agreement. This agreement omits the
+information subject to the confidential treatment request. Omissions are designated as ***. A complete version of this agreement has been filed separately with the Securities and Exchange Commission. 
+
+13 
+
+ (iii)
+ infringe any patents (except for patents that are alleged to be infringed by or essential to an implementation of a Standard - provided that this exception does not
+apply to third party claims where Customer has merely distributed the Products in compliance with this Agreement and in the form as it was provided to Customer by MS). 
+
+Each of these individually referred to in this Agreement as a “Claim”. 
+
+ (b)
+ Conditions. In order for MS to have obligations for any Claim: 
+
+ (i)
+ Company must promptly notify MS of the Claim; 
+
+ (ii)
+ MS must have sole control over defense and/or settlement of the Claim; and 
+
+ (iii)
+ Company must give MS reasonable assistance in the defense of the Claim (MS will reimburse Company for its reasonable out-of-pocket expenses that Company incurs in
+providing that assistance, excluding employee compensation or attorney’s fees). 
+
+ (c)
+ Limitations 
+
+ (i)
+ Trade Secret Claims. The terms “misappropriates” or “misappropriation” and “trade secret” are used as defined in the Uniform Trade
+Secrets Act. If this Agreement is governed by the laws of a jurisdiction outside the United States, in which case “misappropriation” will mean “intentionally unlawful use” and “trade secret” will mean “undisclosed
+information” as specified in Article 39.2 of the Agreement on Trade-Related Aspects of Intellectual Property Rights, including Trade in Counterfeit Goods (TRIPS Agreements). 
+
+MS has no duty or liability to the extent that the trade secret Claim is based on Company acquiring a trade secret 
+
+ (1)
+ through improper means; 
+
+ (2)
+ under circumstances giving rise to an independent duty by Company to maintain secrecy or limit the use of the trade secrets; or 
+
+ (3)
+ from a party (other than MS or its suppliers) that owed a duty to maintain the secrecy or limit the use of the trade secret to the party asserting the trade secret
+Claim. 
+
+ (ii)
+ Patent Claims 
+
+ (1)
+ MS obligations for any patent Claims are limited to patent Claims where the Product (excluding Sample Code) software alone, without combination or modification,
+constitutes direct or contributory infringement of the patent. 
+
+ (2)
+ MS has no responsibility for damages attributable to the value of the use or distribution of a non-Microsoft product. 
+
+ (iii)
+ Excluded Claims. MS has no duty or liability for any intellectual property infringement claim (including a Claim) based on Company’s manufacture, use, sale,
+offer for sale, importation or other disposition or promotion of Products or trademark in violation of the applicable Agreement, but only to the extent that such infringement claim results from such violation. 
+
+ (iv)
+ Mitigation. MS may give Company notice recommending that Company stop the manufacture, use, sale, offer for sale, importation or other disposition or promotion
+of Products or trademark due to a claim (including a Claim). MS has no duty or liability for an intellectual property infringement claim (including a Claim) based on Company’s manufacture, use, sale, offer for sale, importation or other
+disposition or promotion of a Product or trademark after such *** day notice. 
+
+ (v)
+ Failure to Mitigate. Company must reimburse MS and MSCORP for all damages, costs, and expenses (including reasonable attorneys’ fees) incurred because of
+Company’s manufacture, use, sale, offer for sale, importation or other disposition or promotion of Product or trademark after such *** day notice. 
+
+ (d)
+ Additional Options. If MS receives information concerning a Claim, MS may, at its option and expense, but without obligation to do so, undertake further actions
+such as 
+
+ (i)
+ procure the copyright, trademark or patent rights or licenses to address the Claim, or 
+
+ (ii)
+ replace or modify the Product or trademark to make it non-infringing. 
+
+ (e)
+ Injunctions. If (i) as a result of a Claim, a court enjoins Company or MS for distributing any Products, or (ii) as a result of a regulatory action, a
+regulatory agency prohibits or geographically restricts Company or MS from distributing any Products, and within *** days 
+
+ (1)
+ the injunction, prohibition or restriction is not lifted, 
+
+ (2)
+ MS has not procured a license or arranged a settlement that enables the shipment of the Products, and 
+
+ (3)
+ MS has not modified the Products to make them non-infringing, 
+
+then Company may return the corresponding Products for credit as allowed in this Agreement and the then-current Resource Guide, solely for the remaining duration of the injunction relief, prohibition, or
+restriction. 
+
+CONFIDENTIAL 
+
+Microsoft OEM Windows Mobile Distribution Agreement #***-1 dated November 01, 2009 between MS and
+BSQUARE CORPORATION (MOBILITY - AMERICAS) 
+ 
+Confidential treatment has been requested for portions of this agreement. This agreement omits the
+information subject to the confidential treatment request. Omissions are designated as ***. A complete version of this agreement has been filed separately with the Securities and Exchange Commission. 
+
+14 
+
+ 9.
+ Records; Audit 
+
+ (a)
+ Product Records. Company will maintain accurate and complete Product records. 
+
+ (b)
+ Product Returns. Company may return Products. Each return must comply with the returns policy and procedure in the then-current Returns and Destruction Policy on
+the ECE. 
+
+ (c)
+ Product Reports. Company will account for Products in inventory on a monthly basis. Products in inventory include Products at all Company facilities. Company
+will make this accounting available to MS upon request. The Product accounting will reconcile beginning and ending Product inventory. It will also include: 
+
+ (i)
+ Product and APM acquisitions from ARs and MS Affiliates. 
+
+ (ii)
+ COA serial number ranges on the Runtime License envelopes with corresponding shipment dates. 
+
+ (iii)
+ OEM Customers’ returns. 
+
+ (iv)
+ COAs, Product and APM that cannot be distributed for any reason. 
+
+ (v)
+ Product shipped as replacement units. 
+
+ (d)
+ Payments. If Company discovers a discrepancy resulting in an underpayment to MS, Company will pay MS if there is a difference between the number of Runtime
+Licenses acquired by Company from ARs and MS Affiliates and: 
+
+ (i)
+ The number of Runtime Licenses distributed by Company pursuant to this Agreement; plus 
+
+ (ii)
+ The number of Runtime Licenses that Company can verify are in the possession of Company; plus 
+
+ (iii)
+ The number of Runtime Licenses properly returned to the AR (or MS Affiliate, if applicable). 
+
+The payment amount will be the difference in units multiplied by the royalty rates that apply for the units. Company will submit a revised
+sales-out report and pay in accordance with section 3. If Company can show (to the reasonable satisfaction of MS) that Product was destroyed due to a Force Majeure Event, then it will not pay for those units of Product. 
+
+ (e)
+ Company Records; MS Inspection 
+
+ (i)
+ MS may inspect Company’s records related to compliance with this Agreement. MS will provide written notice to Company at least *** days before MS inspects these
+records. 
+
+ (ii)
+ During the term of this Agreement, and for *** years after, Company must keep complete and accurate records relating to its performance under this Agreement.
+
+ (iii)
+ Company will make the records available to MS at a single, readily accessible location. 
+
+ (iv)
+ MS may ask third parties to help inspect these records. These third parties will be certified or chartered public accountants. They will be independent from MS. The
+third parties will not be hired on a contingent fee basis. 
+
+ (v)
+ MS will inspect the records during regular business hours. 
+
+ (vi)
+ MS may also inspect Company’s premises. Company will grant access to MS with the following limits. 
+
+ (1)
+ MS will give Company *** days’ prior notice. 
+
+ (2)
+ MS’ access shall be limited. MS may only access areas where: 
+
+ •
+
+Product is stored and used; 
+
+ •
+
+the Products are copied (if Company is an OM), stored, installed (if Company is an OM), used, and distributed; and 
+
+ •
+
+Company maintains its records. 
+
+ (3)
+ Company personnel may escort MS and the third parties helping MS. MS agrees that it will not unreasonably interfere with Company’s normal course of business.
+
+ (f)
+ Amounts Owed. MS will provide Company with a summary of MS’ findings and conclusions of each audit. 
+
+ (i)
+ MS may determine Company did not report correctly. If so, Company will immediately pay the amount owed to MS. 
+
+ (ii)
+ MS may determine Company has intentionally breached this Agreement (or a previous Microsoft OEM Windows Mobile Distribution Agreement), or that the amount owed exceeds
+the Material Amount. If so, Company will also pay the costs of the audit plus a Default Charge for each unreported copy of Product. 
+
+CONFIDENTIAL 
+
+Microsoft OEM Windows Mobile Distribution Agreement #***-1 dated November 01, 2009 between MS and
+BSQUARE CORPORATION (MOBILITY - AMERICAS) 
+ 
+Confidential treatment has been requested for portions of this agreement. This agreement omits the
+information subject to the confidential treatment request. Omissions are designated as ***. A complete version of this agreement has been filed separately with the Securities and Exchange Commission. 
+
+15 
+
+ (g)
+ MS will not do an audit more than once a year. However, MS may audit more than once a year if an audit finished during the preceding year revealed a Material
+Amount or an intentional breach of this Agreement. 
+
+ 10.
+ Non-Disclosure 
+
+Company shall keep confidential: 
+
+ (a)
+ the terms of this Agreement, including, without limitation, the Royalty Rate Lists; 
+
+ (b)
+ information on the ECE, MOO and in the Resource Guide; 
+
+ (c)
+ information concerning current and potential OEM Customers; 
+
+ (d)
+ any of the following with regard to MS or any of its Suppliers: 
+
+ •
+
+royalty rate information, 
+
+ •
+
+the terms of agreements concerning products, 
+
+ •
+
+license negotiations, 
+
+ •
+
+any information relating to released or unreleased software products, 
+
+ •
+
+the marketing or promotion of any product, 
+
+ •
+
+and business policies or practices that MS or its Suppliers disclose to Company that is non-public information, and 
+
+ (e)
+ any other information that, in the circumstances surrounding the disclosure or in the nature of the information, ought in good faith to be treated as confidential.
+
+ 11.
+ Assignment 
+
+Company may not assign this Agreement in whole or in part (by contract, merger, operation of law, or otherwise). Any attempted assignment
+in violation of this section shall have no effect. MS may assign any license agreement to a MS Affiliate as long as the assignment does not unreasonably and materially impair performance under the assigned agreement. MS must give Company prior
+notice of the assignment. Failure to give notice will not affect the effectiveness of the assignment 
+
+ 12.
+ MOO and ECE 
+
+Company shall comply with the terms and conditions in the MOO and ECE Schedule. 
+
+ 13.
+ Term 
+
+ (a)
+ This Agreement is effective from the Start Date until the End Date. MS may extend the term of this Agreement for up to one year period upon notice to Company.
+Company’s acquisition or distribution of Product during an extension signifies Company’s agreement to the terms of the extension. Both parties agree to be bound by the terms of any extension notification, if accepted by Company.
+
+ (b)
+ If Company enters into a new distribution agreement with MS that grants substantially similar rights for Products licensed under this Agreement (a “Successor
+Agreement”), Company may retain Product, if all the following are true. 
+
+ (i)
+ The Products, are used in accordance with the terms and conditions of the Successor Agreement, including without limitation applicable royalties.
+
+ (ii)
+ The Successor Agreement has an effective date no later than *** days following the termination or expiration of this Agreement. 
+
+ (iii)
+ MS has not objected in writing to such use within *** days following the effective date of the Successor Agreement. 
+
+ (c)
+ If Company is currently licensed to distribute the Product under a valid agreement with MS (“Prior Agreement”), then as of the Start Date of this Agreement:
+
+ (i)
+ Company’s license to order and distribute the Product under the Prior Agreement shall cease; and 
+
+ (ii)
+ Company shall report and pay for the Product under the terms and conditions of this Agreement. 
+
+CONFIDENTIAL 
+
+Microsoft OEM Windows Mobile Distribution Agreement #***-1 dated November 01, 2009 between MS and
+BSQUARE CORPORATION (MOBILITY - AMERICAS) 
+ 
+Confidential treatment has been requested for portions of this agreement. This agreement omits the
+information subject to the confidential treatment request. Omissions are designated as ***. A complete version of this agreement has been filed separately with the Securities and Exchange Commission. 
+
+16 
+
+ (d)
+ This Agreement does not create any express or implied obligation to renew or extend the Agreement or to continue the parties’ relationship on the same terms.
+Regardless of the number of renewals, this Agreement will always be a fixed term agreement and not an indefinite term agreement. 
+
+ 14.
+ Termination 
+
+ (a)
+ Either party may terminate this Agreement at any time without cause by giving the other 60 days prior written notice. 
+
+ (b)
+ MS may, in its’ sole discretion: 
+
+ (i)
+ suspend any rights granted to Company under this Agreement; 
+
+ (ii)
+ require ARs to refuse to fulfill or to limit orders placed by Company; and/or 
+
+ (iii)
+ terminate this Agreement in its entirety or as to any individual Products. 
+
+ (c)
+ MS may terminate this Agreement if Company submits “zero dollar” royalty reports for *** calendar months. 
+
+ (d)
+ Notice for Bankruptcy. If Company becomes insolvent, enters bankruptcy or similar proceedings under applicable law; admits in writing its inability to pay its
+debts; or makes or attempts to make an assignment for the benefit of creditors, then: 
+
+ (i)
+ Company’s distribution rights under this Agreement will be suspended as of the date such event occurs; and 
+
+ (ii)
+ Termination is effective upon notice to Company or, if later, as soon as permitted by applicable law. 
+
+ (e)
+ End of Agreement. Termination will be effective 
+
+ (i)
+ *** days after notice (including reasons for termination) by the non-breaching party, provided the defaults have not been cured within that period; or
+
+ (ii)
+ If the cause for termination is not curable during that time, termination will take effect promptly upon notice from the party who is not in breach.
+
+ (f)
+ Effect of Termination. Upon termination or expiration of this Agreement, all Company’s license rights shall immediately cease. 
+
+ (i)
+ Company shall immediately cease distribution of all Product. 
+
+ (ii)
+ Within *** business days from expiration or termination of the Agreement, Company shall return: 
+
+ (1)
+ All Products in inventory to an AR per the Returns and Destruction Policy on ECE. 
+
+ (2)
+ All CLA and ARA forms to MS at the address indicated in the Notices Schedule. 
+
+ (3)
+ Any other property of any MS Party that Company possesses to MS at the address indicated in the Notices Schedule. 
+
+ (g)
+ Upon notice that this Agreement is expiring or to be terminated, each party must assist the other to wind-down their respective obligations under this Agreement in an
+orderly manner. 
+
+ (h)
+ When this Agreement terminates or if MS suspends Company’s distribution rights, MS may take any actions that may be advisable to prevent unauthorized distribution
+of Products then in Company’s inventory and to ensure timely return or destruction of such Products. 
+
+ (i)
+ Company agrees that the termination or expiration of this Agreement shall not cause any MS Party to pay any indemnification, severance or termination payment or benefit
+to Company, or any of its subsidiaries or affiliates, or a third party (together “Company Parties”). If any MS Party is required to pay Company Parties any compensation, severance pay or benefit other than those in this Agreement
+(“Benefits”), Company shall indemnify the MS Party for the payment as well as from any reasonable costs and expenses (including attorneys’ fees and expenses) incurred by it in connection with its involvement in any judicial or
+administrative proceeding (the Benefits, together with any costs and expenses indemnifiable by Company in this section are referred to collectively as the “Payments”). Company irrevocably authorizes MS: 
+
+ (i)
+ To set off against the payment of any obligations of MS under this Agreement, the amount of any and all Payments, and 
+
+ (ii)
+ To hold, pending final determination of the amount of the Payments, the payment of any obligations of MS under this Agreement as security for the payment of all
+Payments by Company to MS, if MS, in its sole discretion, determines that there are reasonable grounds to believe that MS is or shall be required to pay any Payments. 
+
+ (j)
+ The remedies available to MS under this Agreement are not exclusive. In addition to such remedies, MS may exercise any and all legal, equitable or other remedies
+available. 
+
+CONFIDENTIAL 
+
+Microsoft OEM Windows Mobile Distribution Agreement #***-1 dated November 01, 2009 between MS and
+BSQUARE CORPORATION (MOBILITY - AMERICAS) 
+ 
+Confidential treatment has been requested for portions of this agreement. This agreement omits the
+information subject to the confidential treatment request. Omissions are designated as ***. A complete version of this agreement has been filed separately with the Securities and Exchange Commission. 
+
+17 
+
+ 15.
+ Notices 
+
+ (a)
+ By MS. MS may give Company notices, authorizations, and requests in connection with this Agreement by: 
+
+ (i)
+ Fax to the fax number listed in the Notices Schedule; or 
+
+ (ii)
+ In writing to the addresses indicated in Notices Schedule. 
+
+In addition, only for updates or changes to information, instructions or forms (but not this Agreement), MS may give Company notices, authorizations and requests by: 
+
+ •
+
+Posting them to the ECE or MOO, or 
+
+ •
+
+Email to the email address listed in the Notices Schedule. 
+
+ (b)
+ By Company. Company may give MS notices, authorizations, and requests in connection with this Agreement by: 
+
+ (i)
+ Fax on Company letterhead signed by an authorized representative of Company to the fax number listed in the Notices Schedule; 
+
+ (ii)
+ Email at the email address listed in the Notices Schedule as a scanned document on Company letterhead signed by an authorized representative of Company; or
+
+ (iii)
+ In writing on Company letterhead signed by an authorized representative of Company to the addresses indicated in the Notices Schedule. 
+
+ (c)
+ Deemed Received. Notices are deemed received *** business days after they are: 
+
+ (i)
+ Posted on the ECE or MOO by MS; 
+
+ (ii)
+ Transmitted by fax or email; 
+
+ (iii)
+ Deposited in the U.S.A. mails, postage prepaid, certified or registered, return receipt requested, provided Company’s address for notices is located in the U.S.A.;
+deposited in the European Union (EU) or European Free Trade Association (EFTA) mail, prepaid recorded delivery, provided Company’s address for notices is located in the EU or EFTA; sent by same-day ground express courier; or
+
+ (iv)
+ Sent by international air express courier, charges prepaid. 
+
+ (d)
+ Address Schedule. Company shall keep all information in the Notices Schedule and the Reporting and Payment Schedule complete and current. Company shall notify MS
+of such change as set forth in section 15.b. 
+
+ (e)
+ If there has been a Company ownership (by contract, merger, operation of law or otherwise) or Company name change, then MS may require Company:
+
+ (i)
+ to provide MS with additional information and relevant documents relating to the circumstances of the change; and 
+
+ (ii)
+ to enter into a new Microsoft OEM Windows Mobile Distribution Agreement. 
+
+ (f)
+ Information posted on the ECE and MOO may change without notice until the effective date of such information. MS may correct errors in information posted on the ECE and
+MOO or update posted documents after the Start Date by sending notice to Company. 
+
+ 16.
+ Choice of Law; Jurisdiction and Venue; Attorneys’ Fees 
+
+ (a)
+ MSLI If MS is defined as MSLI, Washington State law governs this Agreement and any claims for breach of this Agreement, regardless of conflict of laws
+principles. The federal courts in Washington State or New York State are the exclusive venues for all disputes arising from this Agreement. The state courts of Washington State are the exclusive venue if there is no federal subject matter
+jurisdiction. Each party consents to the exercise of personal jurisdiction by these courts. Each party agrees that it cannot revoke this consent. 
+
+ (b)
+ MIOL. If MS is defined as MIOL, the laws of Ireland govern this Agreement and any claims for breach of this Agreement, regardless of conflict of laws principles.
+The courts of Ireland are the exclusive venues for all disputes arising from this Agreement. Each party consents to the exercise of personal jurisdiction by these courts. Company agrees, for the benefit of MS and MS Affiliates, that the courts of
+Ireland will have jurisdiction to hear and determine any suit, action, or proceedings that may arise out of or in connection with this Agreement. For those purposes, Company submits to the jurisdiction of those courts. Each party agrees that it
+cannot revoke this consent. 
+
+ (c)
+ 
+MCCL. If MS is defined as MCCL, the laws of the People’s Republic of China govern this Agreement. Company consents to submit any disputes
+arising from and/or in connection with this Agreement, and all related matters to the binding arbitration at the China International Economic and Trade Arbitration Commission (CIETAC) in Beijing. Proceedings will be held in accordance with
+
+CONFIDENTIAL 
+
+Microsoft OEM Windows Mobile Distribution Agreement #***-1 dated November 01, 2009 between MS and
+BSQUARE CORPORATION (MOBILITY - AMERICAS) 
+ 
+Confidential treatment has been requested for portions of this agreement. This agreement omits the
+information subject to the confidential treatment request. Omissions are designated as ***. A complete version of this agreement has been filed separately with the Securities and Exchange Commission. 
+
+18 
+
+CIETAC’s arbitration rules in effect at the time of applying for arbitration. The arbitration award is final and binding upon both parties as long as the arbitration rules were substantially
+complied with in all material respects. Nothing in this Agreement shall prevent MS or its Suppliers from seeking injunctive or provisional relief with respect to a violation of intellectual property rights, the confidentiality obligations under
+those agreements, or enforcement or recognition of any award or order in any appropriate jurisdiction. 
+
+ (d)
+ Injunctive Relief. MS may pursue injunctive relief against Company in any forum to protect intellectual property rights. If MS pursues injunctive relief in a
+forum other than those specified in this section, MS will give prior notice to Company. No notice is required if MS reasonably determines that doing so will prevent it from reasonably protecting its intellectual property. 
+
+ (e)
+ UN Convention. The United Nations Convention on Contracts for the International Sale of Goods does not apply to this Agreement. 
+
+ (f)
+ Attorneys Fees. If either party employs attorneys to enforce any rights related to this Agreement, the primarily prevailing party will be entitled to recover its
+reasonable attorneys’ fees, costs and other expenses. 
+
+ (g)
+ This Agreement shall be written and executed only in the English language, which shall be controlling in all respects. If MS provides a translation or summary of this
+Agreement in any other language to Company, such translation or summary shall be non-binding and for reference purposes only, and shall not constitute an amendment, modification or interpretation of this Agreement. 
+
+ 17.
+ Government Regulations 
+
+ (a)
+ Applicable Laws and Regulations. The Products are subject to U.S. and European Union export jurisdiction. Releases or versions of certain Products may be subject
+to particular restrictions under the laws and regulations of a certain country or territory. MS Parties and Company will comply with all international and national laws and regulations that apply to the Products. These laws include
+
+ •
+
+U.S. Export Administration Regulations; 
+
+ •
+
+all applicable anti-corruption laws, including the U.S. Foreign Corrupt Practices Act; and 
+
+ •
+
+importation, manufacturing, end user, end-use and destination restrictions issued by U.S. and other governments. 
+
+For additional information on exporting Products from the U.S., see ***. 
+
+ (b)
+ Government Approvals. Company must obtain any required local government approvals, at their own expense. 
+
+ (c)
+ Additional Information. Company may require additional information about the Products in order to comply with applicable laws and regulations. Upon request, MS
+will provide Company with non-confidential Product information that Company reasonably requires, if available. 
+
+ 18.
+ General 
+
+ (a)
+ Entire Agreement. This Agreement constitutes the entire agreement between the parties for the Products. Except as expressly provided in this Agreement, this
+Agreement may be modified only by a writing executed by each of the parties. 
+
+ (b)
+ Relationship of the Parties. The parties agree that this Agreement will not be construed as creating a partnership, joint venture or agency relationship or as
+granting a franchise. 
+
+ (c)
+ No Waiver. No waiver of any breach of any part of this Agreement will be a waiver of any other breach. Any waiver must be in writing and signed by an authorized
+representative of the waiving party. 
+
+ (d)
+ Severability. If a court of competent jurisdiction finds any term of this Agreement illegal, invalid or unenforceable, the remaining terms will remain in full
+force and effect. 
+
+ (e)
+ Interpretation. The headings and titles of the provisions of this Agreement are for convenience only and do not affect the interpretation of any provision.
+Unless specifically stated, the plural shall include the singular. 
+
+ (f)
+ 
+Force Majeure. “Force Majeure Event” means fire, casualty, or an act caused exclusively by forces of nature, riot, terrorist
+act, war, labor dispute, material changes in applicable law or regulation, or decree of any court. Force Majeure Event does not include theft. Neither party will be liable for failing to perform under this Agreement to the extent that a Force
+Majeure Event caused the failure. The party subject to the Force Majeure Event must give the other party notice within a commercially reasonable time. As soon as the Force Majeure Event stops, the party must perform the obligations that were not
+performed. If COAs are damaged or destroyed due to a Force Majeure Event, Company may be eligible to receive a royalty credit for those COAs. To receive a royalty credit Company must (i) provide the COA ID numbers and (ii) reasonably
+demonstrate to MS that the COAs were damaged or destroyed due to a Force Majeure Event. Company must provide documentation related to the damaged or destroyed COAs (e.g., insurance claim documentation, police reports, etc.). If any of those COAs are
+found to have not been damaged or destroyed as claimed, Company agrees that it will immediately repay to MS the entire amount of the credit or refund received and a Default Charge for each of those
+
+CONFIDENTIAL 
+
+Microsoft OEM Windows Mobile Distribution Agreement #***-1 dated November 01, 2009 between MS and
+BSQUARE CORPORATION (MOBILITY - AMERICAS) 
+ 
+Confidential treatment has been requested for portions of this agreement. This agreement omits the
+information subject to the confidential treatment request. Omissions are designated as ***. A complete version of this agreement has been filed separately with the Securities and Exchange Commission. 
+
+19 
+
+COAs. Company must report any destroyed COAs and return any damaged COAs in accordance with the COA return timeframe requirements of the Resource Guide. 
+
+ (g)
+ MS Affiliate. Some provisions in this Agreement include Company’s covenants and obligations to MS and MS Affiliates. Some provisions are for the benefit of
+MS and MS Affiliates. Company acknowledges and agrees that each MS Affiliate is entitled to its own right to require due performance by Company. To the extent necessary to establish an MS Affiliate’s rights and benefits, MS enters into this
+Agreement, not only in its own right, but also as an agent for each such MS Affiliate. 
+
+CONFIDENTIAL 
+
+Microsoft OEM Windows Mobile Distribution Agreement #***-1 dated November 01, 2009 between MS and
+BSQUARE CORPORATION (MOBILITY - AMERICAS) 
+ 
+Confidential treatment has been requested for portions of this agreement. This agreement omits the
+information subject to the confidential treatment request. Omissions are designated as ***. A complete version of this agreement has been filed separately with the Securities and Exchange Commission. 
+
+20 
+
+OEM VOLUME ROYALTY PROGRAM SCHEDULE 
+
+MS may offer an OEM Volume Royalty Program (“OVRP”). The OVRP enables Company to offer a *** royalty (“OVRP royalty rate”) to OEM
+Customers that commit to distributing a specified high volume of Products (“OVRP Customer”) . 
+ 
+Company may qualify to participate in
+the OVRP as described in the OVRP Guidelines on ECE and by registering in the OVRP tool in MOO. 
+ 
+Company and OVRP Customer can participate in
+the OVRP provided that: 
+
+ (i)
+ Company has a valid Microsoft OEM Windows Mobile Distribution Agreement, and 
+
+ (ii)
+ OVRP Customer has a valid CLA in place. 
+
+ 1.
+ Term and Termination 
+
+Each OVRP period (“OVRP Period”) is ***. 
+ 
+The term of each OVR Period
+begins on the agreed start date until the earlier of: 
+
+ (a)
+ *** from that date, unless both Company and MS agree to extend the OVRP Period to a *** OVRP Period; 
+
+ (b)
+ termination or expiration of the CLA (if the OVRP Customer and MS do not enter into a successor agreement); or 
+
+ (c)
+ OVRP is cancelled as notified by MS. 
+
+Any violation of the terms of this Schedule is grounds for termination under section 14 of this Agreement. 
+
+ 2.
+ *** Royalty Terms 
+
+ (a)
+ The OVRP royalty rate applies only to Products shipped for the specified OVR Period, as registered and approved by MS in the OVRP Tool in MOO. Company will offer the
+OVRP royalty rate to OVRP Customers only. The volume commitments and royalty rates for OVRP are listed in the OVRP Royalty Rate List on ECE. 
+
+ (b)
+ Company agrees to pay MS the total royalties due for the Products distributed for the specified OVR Period to the OVRP Customer at the OVRP royalty rate as posted on
+ECE at the time the OVRP is registered. 
+
+ (c)
+ Company will be notified via ECE or email if MS changes its OVRP royalty rates. Such royalty rate changes will be effective on the first date of the calendar month
+following such notice. 
+
+ 3.
+ Written Agreement with OVRP Customer 
+
+*** 
+
+ 4.
+ Reporting 
+
+Company shall include Product shipped under each OVRP in its monthly sales-out report as described in the Reporting Guidelines on the ECE.
+
+ 5.
+ *** 
+
+CONFIDENTIAL 
+
+Microsoft OEM Windows Mobile Distribution Agreement #***-1 dated November 01, 2009 between MS and
+BSQUARE CORPORATION (MOBILITY - AMERICAS) 
+ 
+Confidential treatment has been requested for portions of this agreement. This agreement omits the
+information subject to the confidential treatment request. Omissions are designated as ***. A complete version of this agreement has been filed separately with the Securities and Exchange Commission. 
+
+21 
+
+MOO AND ECE SCHEDULE 
+
+ 1.
+ In this Schedule, MOO and the ECE may be called a “Site” or collectively as the “Sites.” The term “User” means an officer, employee,
+consultant or other person or agent of Company who has, or who creates the appearance of having been authorized by Company, to use the Site on behalf of Company. The term “Company Administrator” means the Users designated in the
+Reporting and Payment Schedule. Company shall give MS not less than 48 house notice that Company has made a change to such authority. Notices for Company Administrator changes should be sent to *** for MOO or *** for the ECE, as appropriate.
+
+ 2.
+ MS may provide guidelines from time to time in connection with Company’s use of the Sites. 
+
+ 3.
+ Company Administrator is solely responsible for granting access and other authorities for Users. This includes creating or arranging for all passwords, encryption keys
+or other identifiers used for Site or Company security (collectively, “Password Info”). Company Administrator shall keep Password Info secure from unauthorized access. Company Administrator shall do all of the following:
+
+ (a)
+ Protect Password Info as confidential information and not disclose any part of it to any person or entity (internal or external) without a need to know.
+
+ (b)
+ Only take actions at a Site that the Company has authorized. 
+
+ (c)
+ Instruct and ensure that Users do both (a) and (b) above. Company shall designate at least one but no more than two Administrators. 
+
+ 4.
+ MS may suspend or terminate authorities, or suspend or block access to all or any part of a Site to any information. Whenever possible, MS will provide prior notice of
+such action. 
+
+ 5.
+ Neither MS nor any of its agents shall have any liability for any failure to provide a level of security greater in connection with the ECE than that generally afforded
+by the use of: 
+
+ (a)
+ *** 
+
+ (b)
+ ***.
+
+ 6.
+ Company and its Users shall not cause any harm to a Site. 
+
+ 7.
+ MS provides each Site “as is”. Warranty disclaimers, damage exclusions and limitations of remedies in this Agreement all apply to each Site (and to
+their information, functionality, services, and availability or lack thereof). Company will not rely on or treat any Site information as an express warranty.
+
+ 8.
+ MS reserves the right to change or discontinue all or any portion of the MOO Site at any time. Users may make a copy of MOO information to document Company’s
+transactions or other information. MS will retain *** years of transactional records. MS will have no duty to retain or make available Site information or records for later access. 
+
+ 9.
+ The Sites are not open to the public and the way they function and all information on them shall be treated as confidential information under section 10 of the
+Agreement. Company agrees not to distribute any Supplement Code accessed on ECE to any third party, unless expressly authorized by MS to do so. 
+
+ 10.
+ (a) Company must access and use MOO for all transactions and purposes contemplated by MOO until the earlier of: 
+
+ (i)
+ The date MS ceases to provide MOO to similarly situated embedded distributors, or 
+
+ (ii)
+ The date Company has satisfied all of its obligations under the Agreement. 
+
+ (b)
+ All actions taken by any User at or in relation to a Site shall legally bind Company if any of the following are true. 
+
+ (i)
+ The User has supplied Password Info. 
+
+ (ii)
+ Company or Users failed to keep Password Info secure. The failure caused or contributed to creation of an appearance that actions taken on a Site were being taken by,
+or on behalf of, Company. 
+
+ (iii)
+ Company had approved, allowed or accepted benefits or use of the Site by a person purporting to be its agent.
+
+ 11.
+ If Password Info is used to cause harm or damage to Company or MS by a person who obtained it by means that could not have been prevented by complying with this
+Schedule, then such acts taken with Password Info will not be attributed to Company under section 10.b. However, these acts may be attributed to MS, Company or others under principles of equity or law pertinent to the act in
+question.
+
+ 12.
+ As part of the MS OEM operations initiative called “Shasta.” MS may provide additional or successor online tools or websites to be used by Company in the
+normal course of its business with MS. Company agrees to use such resources for all intended purposes. 
+
+ 13.
+ Privacy and Data Protection. 
+
+CONFIDENTIAL 
+
+Microsoft OEM Windows Mobile Distribution Agreement #***-1 dated November 01, 2009 between MS and
+BSQUARE CORPORATION (MOBILITY - AMERICAS) 
+ 
+Confidential treatment has been requested for portions of this agreement. This agreement omits the
+information subject to the confidential treatment request. Omissions are designated as ***. A complete version of this agreement has been filed separately with the Securities and Exchange Commission. 
+
+22 
+
+ (a)
+ In this section, “Personal Information” means any information provided by MS or collected or processed for MS by Company in connection with this Agreement:
+
+ (i)
+ That identifies or can be used to identify, contact, or locate the person to whom such information pertains, or 
+
+ (ii)
+ From which identification or contact information of an individual person can be derived. 
+
+Personal Information includes, but is not limited to: name, address, phone number, fax number, email address, social security number or
+other government-issued identifier, and credit card information. In addition, to the extent any other information (such as a personal profile, unique identifier, biometric information, or IP address) is associated or combined with Personal
+Information, then such information also will be considered Personal Information. 
+
+ (b)
+ Any Personal Information collected, processed or accessed by Company in compliance with this Agreement shall be limited to that which is strictly necessary to perform
+such services or to fulfill any legal requirements. 
+
+ (c)
+ Company shall use such Personal Information only as necessary to perform the services in accordance with this Agreement and not for any other purpose whatsoever.
+Company shall maintain such Personal Information in strict confidence in accordance with the provisions of section 10. Company shall not share any Personal Information with any third parties for any reason except as authorized by MS in writing. If
+Company is served with a court order compelling disclosure of any Personal Information or with notice of proceedings for such an order, 
+
+ (i)
+ Will oppose the order, 
+
+ (ii)
+ Will notify MS of such order or notice, and 
+
+ (iii)
+ Will provide MS the opportunity to intervene before Company files any response to the order or notice. 
+
+ (d)
+ Company will take reasonable steps to protect any Personal Information in Company’s possession and immediately notify MS of any known security breach from:
+
+ •
+
+Unauthorized use, 
+
+ •
+
+Access, 
+
+ •
+
+Disclosure, 
+
+ •
+
+Alteration, or 
+
+ •
+
+Destruction. 
+
+Security measures shall include access controls, encryption or other means, where appropriate. Company agrees to conduct an audit on at
+least an annual basis to evaluate the security of Personal Information in Company’s possession and to verify that the terms of this Agreement with respect to Personal Information are being followed. The results of such audit shall be made
+available to MS on request. 
+
+ (e)
+ Upon request from MS, Company shall provide MS with any or all Personal Information in Company’s possession. Company shall within *** days of termination or
+expiration of this Agreement, at MS’ sole discretion either: 
+
+ (i)
+ Provide MS with all documents and materials (including any and all copies) containing Personal Information which are in its possession or under its control; or
+
+ (ii)
+ Destroy all such specified documents and materials (including any and all copies in any and all formats) and provide MS with a certificate of destruction signed by an
+officer of Company. 
+
+CONFIDENTIAL 
+
+Microsoft OEM Windows Mobile Distribution Agreement #***-1 dated November 01, 2009 between MS and
+BSQUARE CORPORATION (MOBILITY - AMERICAS) 
+ 
+Confidential treatment has been requested for portions of this agreement. This agreement omits the
+information subject to the confidential treatment request. Omissions are designated as ***. A complete version of this agreement has been filed separately with the Securities and Exchange Commission. 
+
+23 
+
+ Amendment Number:
+ 
+ 1
+
+ Amendment Date:
+ 
+ September 1, 2010
+
+ COMPANY Name:
+ 
+ Bsquare Corporation (Mobility – Americas)
+
+ MS Agreement Number:
+ 
+ ***
+
+ MS Agreement Start Date:
+ 
+ November 1, 2009
+
+AMENDMENT TO
+THE 
+ 
+MICROSOFT OEM WINDOWS MOBILE DISTRIBUTION AGREEMENT 
+ 
+By this amendment (the “Amendment”) effective as of the Amendment Date, the parties agree that the indicated portions of the above referenced agreement (the “Agreement”) are amended as
+follows: 
+
+ 1.
+ Section 2(j) of the Agreement is hereby deleted and replaced with the following section 2(j): 
+
+ (j)
+ Interim Shipments. MS agrees that between the time Company obtains the OEM Customer’s signature on the CLA and the date MS countersigns:
+
+ (i)
+ Company may not distribute Products to the OEM Customer. 
+
+ 2.
+ Section 2(k) of the Agreement is hereby deleted and replaced with the following section 2(k): 
+
+ (k)
+ OEM Customer Notices. Company shall instruct each OEM Customer that: 
+
+ (i)
+ Design Restrictions on High Risk Activities. The Products are not fault-tolerant and are not designed, manufactured or intended for any use requiring fail-safe
+performance in which the failure of a Product could lead to death, serious personal injury, or severe physical or environmental damage (“High Risk Activities”). This includes the operation of aircraft or nuclear facilities. OEM
+Customer agrees not to use, or license the use of, the Product in connection with any High Risk Activities. 
+
+ (ii)
+ OEM Customers may only distribute Products: 
+
+ (1)
+ As part of the OEM Customers’ Devices; 
+
+ (2)
+ That were obtained by the OEM Customers directly from an MS-authorized distributor; and 
+
+ (3)
+ In accordance with the CLA, the OEM ALPs, and the ARAs. 
+
+ (iii)
+ OEM Customers may only reproduce and distribute Update Images, Supplements, and Recovery Images in accordance with the CLA. 
+
+ (iv)
+ *** SKU License Terms. For the terms in this section “Product” means ***. 
+
+ (1)
+ Definition. “ATP” or “Actual Transfer Price” means the actual transfer price of a Device (including all elements of a typical retail offering
+for such Device (e.g., when distributed to a Mobile Operator) including, without limitation, the device, main battery, charger, ear bud, carrying case and packaging) upon its sale by an OEM Customer to a Mobile Operator or other unaffiliated entity
+or directly to an End User. To determine ATP, deductions or discounts with respect to such sales should not be subtracted. 
+
+ (2)
+ The OEM Customer may only distribute Products as part of Devices 
+
+ (A)
+ Radio Support. This Product may only support, and may be used only in Devices that support, one or more of the radio technologies below:
+
+*** 
+
+No other radio technologies may be supported by the Product, or any Device that includes the Product; 
+
+ (B)
+ OEM Customer may only distribute this Product on Devices with an ATP less than ***. 
+
+ (C)
+ The Deliverables may include files, modules, and/or materials for other products not licensed by OEM Customer. Company’s license rights do not include any
+rights with respect to these files, modules, and/or materials in the Deliverables. 
+
+CONFIDENTIAL 
+
+ 08/16/05 36975v5 Amendment to the Microsoft OEM Distribution Agreement for Software Products for Embedded Systems
+
+Form 2.8.21
+ 
+Document Tracking Number: ***
+
+Confidential treatment has been requested for
+portions of this agreement. This agreement omits the information subject to the confidential treatment request. Omissions are designated as ***. A complete version of this agreement has been filed separately with the Securities and Exchange
+Commission. 
+
+ 3.
+ Section 2(t) of the Agreement is hereby deleted and replaced with the following section 2(t): 
+
+ (t)
+ Drop Ship Option Available 
+
+ (i)
+ OEM Customers may request that orders from Company be shipped directly from the AR to an OM (whether or not situated within the Territory). Company must forward
+this request using the “Drop Ship Request Form” to the MS account manager for approval. If approved, notice will be sent to Company and the AR to begin processing of the purchase order. 
+
+ (ii)
+ Company may request that orders be shipped directly from the AR to the OEM Customer, upon MS approval, which will not be unreasonably withheld.
+
+ 4.
+ Section 2(w) of the Agreement is hereby deleted and replaced with the following section 2(w): 
+
+ (w)
+ Distributor ALTs 
+
+ (i)
+ Limited Distribution. The Traditional Chinese language version of any Windows Mobile Product may not be distributed by or for Company within or to the
+People’s Republic of China. Company will defend, indemnify and hold MS Parties harmless against any third party claims, demands, liability or damages resulting from Company’s failure to notify any OEM Customer of these limits.
+
+ (ii)
+ Upgrade Products. If the name of a Windows Mobile Product includes “UPGRADE”, then an OEM Customer must have in effect a Microsoft OEM Customer
+License Agreement for Field Upgrade prior to distributing that Product. 
+
+ (iii)
+ If Company knows or, if in the course of its ordinary business operations Company reasonably should know, or if MS has actual knowledge or evidence, that an OEM
+Customer is breaching a condition of the Product terms, described in Section 2(k)(iv)(2) above, (an “OEM Default Condition”) then the parties will take the following actions: 
+
+ (1)
+ The party with knowledge or evidence will notify the other party of the OEM Default Condition. 
+
+ (2)
+ Company will provide reasonable assistance to MS in support of any resulting investigation, any actions to protect MS intellectual property rights, and any
+efforts to cure or mitigate the OEM Default Condition and to prevent future OEM Default Conditions. 
+
+ (3)
+ Upon receipt of MS’s written notice of termination or suspension of the CLA with an OEM Customer, Company will take the following actions:
+
+ •
+
+Suspend or discontinue distribution of Products and COAs to the OEM Customer; 
+
+ •
+
+Suspend engineering and development support to the OEM Customer with respect to the Products. 
+
+In the event the OEM Customer later cures or fully mitigates the OEM Default Condition, then upon agreement with MS, Company may resume
+all of the activities above. 
+
+ (iv)
+ For the terms in this sub-section “Product” means ***. 
+
+ (1)
+ If Company distributes Product within this Program in violation of the terms of the Agreement, MS, without limiting its remedies, may demand and Company
+agrees to pay, an additional royalty for each copy of Product distributed equal to the greater of (a) *** of Company’s existing royalty rate for *** or (b) *** of ***; as applicable at the time of the violation (excluding discounts
+and rebates), less any royalty paid for the unauthorized distribution. Company shall provide MS with reasonable assistance in the defense of all investigations. 
+
+ (2)
+ If Company distributes this Product in breach of the license limitations set forth within this Agreement, then, in addition to any other rights reserved to
+Microsoft under this Agreement, Microsoft may terminate Company’s rights to distribute this Product upon *** written notice. 
+
+All capitalized terms used but not defined shall have the meanings as set forth the Agreement. The terms of this Amendment supersede any inconsistent
+terms contained in the Agreement. 
+ 
+All signed copies of this Amendment shall be deemed originals. This Amendment is executed only in the
+English language 
+
+CONFIDENTIAL 
+
+ Amendment #1, dated September 01, 2010, to the Microsoft OEM Distribution Agreement for Software Products for Embedded Systems #***, dated November 01, 2009
+
+ Document Tracking Number: ***
+
+Confidential
+treatment has been requested for portions of this agreement. This agreement omits the information subject to the confidential treatment request. Omissions are designated as ***. A complete version of this agreement has been filed separately with the
+Securities and Exchange Commission. 
+
+25 
+
+ MICROSOFT LICENSING, GP
+
+ BSQUARE CORPORATION
+
+A general partnership organized under the laws of:
+ 
+State of Nevada, USA
+
+ A company organized under the laws of: Washington
+
+ By:
+
+s/ Sal Onas
+
+ By:
+
+/s/ Brian Crowley
+
+ (signature)
+
+ (signature)
+
+ Name:
+
+Sal Onas
+
+ Name:
+
+Brian Crowley
+
+ (printed)
+
+ (printed)
+
+ Title:
+
+Sr. Program Manager
+
+ Title:
+
+President and CEO
+
+ (printed)
+
+ (printed)
+
+ Date:
+
+October 1, 2010
+
+ Date:
+
+September 30, 2010
+
+CONFIDENTIAL 
+
+ Amendment #1, dated September 01, 2010, to the Microsoft OEM Distribution Agreement for Software Products for Embedded Systems ***, dated November 01, 2009
+
+ Document Tracking Number: ***
+
+Confidential
+treatment has been requested for portions of this agreement. This agreement omits the information subject to the confidential treatment request. Omissions are designated as ***. A complete version of this agreement has been filed separately with the
+Securities and Exchange Commission. 
+
+26 
+
+ Amendment Number:
+ 
+ 2
+
+ Amendment Date:
+ 
+ November 1, 2010
+
+ COMPANY Name:
+ 
+ Bsquare Corporation (Mobility – Americas)
+
+ MS Agreement Number:
+ 
+ ***
+
+ MS Agreement Start Date:
+ 
+ November 1, 2009
+
+AMENDMENT TO
+THE 
+ 
+MICROSOFT OEM WINDOWS MOBILE DISTRIBUTION AGREEMENT 
+ 
+By this amendment (the “Amendment”) effective as of the Amendment Date, the parties agree that the indicated portions of the above referenced agreement (the “Agreement”) are amended as
+follows: 
+
+ 1.
+ Section 2(k) of the Agreement is hereby deleted and replaced with the following section 2(k): 
+
+ (k)
+ OEM Customer Notices. Company shall instruct each OEM Customer that: 
+
+ (i)
+ Design Restrictions on High Risk Activities. The Products are not fault-tolerant and are not designed, manufactured or intended for any use requiring fail-safe
+performance in which the failure of a Product could lead to death, serious personal injury, or severe physical or environmental damage (“High Risk Activities”). This includes the operation of aircraft or nuclear facilities. OEM
+Customer agrees not to use, or license the use of, the Product in connection with any High Risk Activities. 
+
+ (ii)
+ OEM Customers may only distribute Products: 
+
+ (1)
+ As part of the OEM Customers’ Devices; 
+
+ (2)
+ That were obtained by the OEM Customers directly from an MS-authorized distributor; and 
+
+ (3)
+ In accordance with the CLA, the OEM ALPs, and the ARAs. 
+
+ (iii)
+ OEM Customers may only reproduce and distribute Update Images, Supplements, and Recovery Images in accordance with the CLA. 
+
+ (iv)
+ *** SKU License Terms. For the terms in this section “Product” means ***. 
+
+ (1)
+ Definition. “ATP” or “Actual Transfer Price” means the actual transfer price of a Device (including all elements of a typical retail offering
+for such Device (e.g., when distributed to a Mobile Operator) including, without limitation, the device, main battery, charger, ear bud, carrying case and packaging) upon its sale by an OEM Customer to a Mobile Operator or other unaffiliated entity
+or directly to an End User. To determine ATP, deductions or discounts with respect to such sales should not be subtracted. 
+
+ (2)
+ The OEM Customer may only distribute Products as part of Devices 
+
+ (A)
+ Radio Support. This Product may only support, and may be used only in Devices that support, one or more of the radio technologies below:
+
+*** 
+ 
+No other radio technologies may be supported by the Product, or any Device that includes the Product; 
+
+ (B)
+ OEM Customer may only distribute this Product on Devices with an ATP less than ***. 
+
+ (C)
+ The Deliverables may include files, modules, and/or materials for other products not licensed by OEM Customer. Company’s license rights do not include any
+rights with respect to these files, modules, and/or materials in the Deliverables. 
+
+ (v)
+ *** SKU License Terms. For the terms in this section, “Product” means ***. 
+
+ (i)
+ Design Restriction for Handheld Devices 
+
+CONFIDENTIAL 
+
+ 08/16/05 36975 v5 Amendment to the Microsoft OEM Distribution Agreement for Software Products for Embedded Systems
+
+Form 2.8.1
+ 
+Document Tracking Number: ***
+
+Confidential treatment has been requested for
+portions of this agreement. This agreement omits the information subject to the confidential treatment request. Omissions are designated as ***. A complete version of this agreement has been filed separately with the Securities and Exchange
+Commission. 
+
+This Product is designed solely for use in consumer-oriented phones and may not be used in
+Handheld Devices. “Handheld Device” means a Device that: 
+
+ (A)
+ Is marketed to business and government entities; 
+
+ (B)
+ Is sold directly to business and government entities rather than individually to consumer end users 
+
+ (C)
+ Is not kept in stock at Mobile Operators nor consumer retailers; and 
+
+ (D)
+ Meets any of the following three major category descriptions: 
+
+ (1)
+ Vertical Functionality 
+
+ •
+
+Includes scanning and/or imaging functionality whose primary purpose is for data capture; or 
+
+ •
+
+Includes a magnetic stripe reader for credit card purchases; or 
+
+ •
+
+Includes a mobile or handheld printer for printing receipts; or 
+
+ •
+
+Includes RFID capabilities. 
+
+ (2)
+ Durability for Business Critical Functions 
+
+ •
+
+Is designed with drop specifications beyond those typical of a consumer oriented phone; or 
+
+ •
+
+Is designed with tolerance specifications for use in extreme temperatures and weather. 
+
+ (3)
+ Purpose Built Design 
+
+ •
+
+Is designed for a full shift battery life; or 
+
+ •
+
+Is ergonomically designed for extended or continuous use; or 
+
+ •
+
+Is designed to be mounted in vehicles such as forklifts or delivery trucks; or 
+
+ •
+
+Is specially designed to be intrinsically safe to prevent fires and explosions when used in hazardous areas. 
+
+All capitalized terms used but not defined shall have the meanings as set forth the Agreement. The terms of this Amendment supersede any inconsistent
+terms contained in the Agreement. 
+ 
+All signed copies of this Amendment shall be deemed originals. This Amendment is executed only in the
+English language 
+
+ MICROSOFT LICENSING, GP
+
+ BSQUARE CORPORATION
+
+A general partnership organized under the laws of:
+ 
+State of Nevada, USA
+
+ A company organized under the laws of: Washington
+
+ By:
+
+/s/ Josh Reimer
+
+ By:
+
+/s/ Scott Mahan
+
+ (signature)
+
+ (signature)
+
+ Name:
+
+Josh Reimer
+
+ Name:
+
+Scott Mahan
+
+ (printed)
+
+ (printed)
+
+ Title:
+
+OEM CRT Manager
+
+ Title:
+
+Chief Financial Officer
+
+ (printed)
+
+ (printed)
+
+ Date:
+
+December 21, 2010
+
+ Date:
+
+December 20, 2010
+
+CONFIDENTIAL 
+
+ Amendment # 2, dated November 01, 2010, to the Microsoft OEM Distribution Agreement for Software Products for Embedded Systems #***, dated November 01, 2009
+
+ Document Tracking Number: ***
+
+Confidential
+treatment has been requested for portions of this agreement. This agreement omits the information subject to the confidential treatment request. Omissions are designated as ***. A complete version of this agreement has been filed separately with the
+Securities and Exchange Commission. 
+
+28

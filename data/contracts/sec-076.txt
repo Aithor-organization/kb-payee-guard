@@ -1,0 +1,595 @@
+EX-10.3
+2
+y98069exv10w3.txt
+DISTRIBUTION AGREEMENT
+
+ Exhibit 10.3
+
+ Distribution Agreement
+ between
+ Infogrames Entertainment SA
+ and
+ Infogrames, Inc.
+
+ This Distribution Agreement (this "Agreement") is entered into by and
+between Infogrames Europe SA (formerly Infogrames Multimedia SA) and Infogrames
+Entertainment SA (together, "IESA") and Infogrames, Inc. ("Infogrames") as of
+October 2, 20000 (the "Effective Date").
+
+ Whereas, IESA is in the business of publishing and marketing Products and
+wishes to license Infogrames to distribute, publish and market Products owned or
+controlled by IESA; and
+
+ Whereas, Infogrames wishes to obtain the right to distribute, publish and
+market Products owned or controlled by IESA;
+
+ NOW THEREFORE, in consideration of the mutual covenants contained herein,
+the parties hereby agree as follows:
+
+ 1. Definitions
+
+ (a) "Chargeback" means deductions customers take against an
+ Infogrames invoice for price protection, promotions or
+ markdowns.
+
+ (b) "Confidential Information" means trade secrets, discoveries,
+ ideas, concepts, know-how, techniques, designs,
+ specifications, drawings, diagrams, data, computer programs,
+ business activities and operations. In order to be considered
+ "Confidential Information," the information must contain a
+ legend, such as "Confidential Information," "Confidential" or
+ "Proprietary," or if orally disclosed, such information shall
+ be considered and treated as Confidential Information only if
+ it is clearly identified at the time of disclosure as being
+ confidential and the disclosing party gives written notice
+ within 10 days after disclosure specifically reciting the
+ information orally disclosed and stating that such information
+ is Confidential Information.
+
+ (c) "Manufacturing Costs" means all reasonable direct costs of
+ manufacturing, including license fees paid to console product
+ manufacturers and in-bound transportation costs, for Products
+ sold and not returned.
+
+ (d) "Master" means a gold-master CD-ROM, cartridge or other
+ appropriate electronic medium of delivery which is of
+ sufficient quality to allow reproduction of the applicable
+ software product without any material degradation, plus the
+ applicable user manual and any and all documentation
+ reasonably necessary to exercise Infogrames' rights under this
+ Agreement, including without limitation, graphics in hard and
+ electronic copy.
+
+ -1-
+
+ (e) "Merchandise" means goods and sundries bearing the names,
+ characters, themes or based on the storylines related to any
+ Product.
+
+ (f) "Net Revenues" means gross revenues received by Infogrames
+ from third parties, less any returns, Chargebacks, discounts,
+ rebates, Manufacturing Costs, taxes, duties, commissions,
+ insurance and transportation costs.
+
+ (g) "Products" means the Products (in any format, e.g. PC,
+ Macintosh, console, video, online play) which Infogrames (and
+ its subsidiaries) has the right to distribute in the
+ Territory, whether licensed or owned by IESA (or its
+ subsidiaries), and any demonstration versions and derivative
+ works thereof, including without limitation, rights to
+ merchandising, television, film, music, hint books, strategy
+ guides, sequels, add-ons and level packs.
+
+ (h) "Trademarks" means the trademarks, logos, service marks, trade
+ names and other proprietary markings owned by or licensed to
+ IESA in connection with any Product.
+
+ (i) "Territory" means the United States, Canada and their
+ territories and possessions.
+
+ (j) All capitalized terms not defined herein are as defined in the
+ Securities Purchase Agreement between the parties dated as of
+ November 15, 1999.
+
+ 2. License: IESA hereby grants to Infogrames the exclusive right to
+ publish, manufacture, have manufactured, localized, adapt, market,
+ advertise, promote, publicize, distribute, sell, sublicense or
+ otherwise exploit the Products through all channels of distribution
+ in the Territory. Upon Infogrames' request, IESA shall provide
+ Infogrames with all materials reasonably necessary for Infogrames to
+ localize the Products, including without limitation, source code and
+ all related documentation, subject to their availability to IESA and
+ to third-party approval rights, as applicable.
+
+ 3. Trademark License: Subject to any approvals as may be required by a
+ third party licensor, IESA hereby grants to Infogrames a
+ royalty-free, non-exclusive, non-transferable license to use IESA's
+ Trademarks in connection with the exercise of the license granted to
+ Infogrames pursuant to Paragraph 2 of this Agreement. IESA's
+ Trademarks and the goodwill associated therewith are and remain
+ IESA's exclusive property. Infogrames shall acquire no right, title
+ or interest in IESA's Trademarks or the goodwill associated
+ therewith, other than the limited license and right to use IESA's
+ Trademarks as set forth under this Agreement. All usage of IESA's
+ Trademarks by Infogrames shall inure to IESA's benefit. Infogrames
+ will use all reasonable efforts to ensure that all applicable and
+ reasonably necessary Trademarks used for a Product appear clearly on
+ the packaging and major advertising and promotional materials for
+ such Product.
+
+ -2-
+
+ 4. Purchase of Prepackaged Products: If IESA offers prepackaged
+ Products, Infogrames shall be entitled to purchase such prepackaged
+ Products at IESA's actual direct cost of manufacture, F.O.B.
+ Infogrames' warehouse. The prepackaged Products will be purchased on
+ a purchase order basis, under Infogrames standard purchase order
+ terms and conditions. Royalties due IESA for the subsequent sale of
+ such product are covered by the other terms and conditions of this
+ Agreement including but not limited to Paragraphs 7 and 14 below.
+
+ 5. Return of Prepackaged Products: Infogrames shall be entitled to
+ return prepackaged Products purchased from IESA to IESA for a full
+ refund or credit, at Infogrames' option.
+
+ 6. Delivery of Non-Prepackaged Products: IESA will deliver as soon as
+ practicable a complete English language NTSC Master of any Product
+ which is licensed to Infogrames under this Agreement for manufacture
+ by or for Infogrames pursuant to this Agreement.
+
+ 7. Royalties on Products: Infogrames will pay to IESA a royalty on
+ distribution of Products which are manufactured by or for Infogrames
+ pursuant to the license granted herein calculated as follows:
+
+ (a) If a third party is entitled to royalties based on Infogrames'
+ distribution of the specific Product, then the royalty will be
+ the greater of (i) 30% of the Net Revenues Infogrames actually
+ receives from the distribution of such Product or (ii) 130% of
+ the royalty due to such third party (not including any
+ advance) actually paid by IESA to the third party for such
+ Product. IESA will inform Infogrames at the time such Product
+ is delivered to Infogrames of the amount of the royalty due to
+ such third party in writing.
+
+ (b) If the Product is internally developed by IESA, or any of its
+ subsidiaries, then the royalty will be 30% of the Net Revenues
+ Infogrames actually receives from the distribution of the
+ Product
+
+ (c) No royalties will be due from Infogrames to IESA for up to 500
+ units of each Product, to be used for promotional and
+ demonstration purposes.
+
+ (d) No royalties will be due from Infogrames to IESA for any
+ transfer or payment amongst IESA and its subsidiaries (and
+ their subsidiaries).
+
+ 8. Obligation to Release Product. Infogrames shall actively commence
+ marketing and selling the Products within the Territory in
+ reasonable commercial quantities within three (3) months following
+ Infogrames' receipt of Masters. If Infogrames shall fail to have
+ commenced actively marketing and selling the Products in the
+ Territory within three (3) months following the receipt of Masters
+ with respect thereto, then IESA shall have the right, in addition to
+ any other rights which IESA may have hereunder, upon thirty (30)
+ days prior written notice to Infogrames, to declare such right
+ henceforth to be nonexclusive.
+
+ -3-
+
+ 9. Anti-Export Protection. Infogrames shall use commercially reasonable
+ efforts not to sublicense, distribute or sell any Products to any
+ distributor or customer who Infogrames knows, or could reasonably be
+ expected to know, intends to resell or export the Products outside
+ of the Territory. A license, sublicense, distributor or customer who
+ wrongfully resells or exports Products outside of the Territory is
+ referred to as an "Exporter." IESA shall have the right, in addition
+ to any other rights which it may have hereunder, to require
+ Infogrames to terminate any license, distribution agreement or
+ arrangement with any such Exporter who is wrongfully distributing
+ Products in violation of the rights of IESA.
+
+ 10. Prohibition of Sublicensing; Derivative Works. Infogrames shall not
+ sublicense any of the rights granted to Infogrames hereunder without
+ IESA'S prior written consent, such consent not to be unreasonably
+ withheld. Infogrames shall not exploit derivative works related to
+ the Products, including without limitation rights to merchandising,
+ television, film, music, hint books, strategy guides, sequels,
+ add-ons and level packs, without IESA'S prior written consent, such
+ consent not to be unreasonably withheld. Notwithstanding the above,
+ IESA acknowledges that Infogrames maintains sublicensing agreements
+ with affiliates and/or third parties in certain countries within the
+ Territory as listed on Schedule A and that such sublicensing
+ agreements are deemed to be pre-approved with respect to the
+ publishing and distribution of Product within those countries that
+ is developed by IESA or its subsidiaries. Sublicensing to original
+ equipment manufacturing (OEMs) for exploitation in the Territory is
+ also deemed pre-approved for Product developed by IESA or its
+ subsidiaries. Such pre-approvals for sublicensing within the
+ Territory do not apply to Product developed by third parties.
+
+ 11. Approval Rights: The Products as manufactured, advertised, sold,
+ distributed or otherwise disposed of by Infogrames under this
+ Agreement shall be of customary quality and shall be sold and
+ distributed in packaging acceptable to IESA and bearing IESA's
+ Trademarks and trade names. Such packaging may indicate that the
+ Products are distributed by Infogrames. Infogrames agrees to furnish
+ IESA free of cost, for IESA's reasonable approval as to quality and
+ style, samples of each Product together with its proposed packaging
+ prior to the Product's release for sale or distribution. The Product
+ shall not be sold or distributed by Infogrames without such
+ approval. IESA will approve or reject samples submitted by
+ Infogrames within ten (10) days of receipt of such samples: IESA's
+ failure to respond to requests for approval within ten (10) days
+ shall be deemed approval.
+
+ 12. Ownership of Intellectual Property Rights. Notwithstanding anything
+ contained herein to the contrary and subject to the terms of this
+ Agreement, all artwork, designs and computer software embodying the
+ intellectual property embodied in the Products, or any reproduction
+ thereof, or any packaging or advertising materials, which are
+ designed, developed and/or created by Infogrames hereunder (or any
+ of its sublicenses, affiliates or subsidiaries), shall be, and
+ remain IESA's (or its affected third party's, as the case may be)
+ sole and exclusive property, inclusive of all copyrights and right
+ to copyright therein and thereto for the life of the copyright
+ therein; provided that during the term of this Agreement, Infogrames
+ shall have the exclusive right, license and privilege (without any
+
+ -4-
+
+ compensation to IESA except as otherwise provided in this Agreement)
+ to use all such above described materials in connection with its
+ exploitation, sale and distribution of the Products.
+
+ Subject to the terms of this Agreement, Infogrames acknowledges and
+ agrees that: All copyrights, trademarks and service marks and rights
+ to same referred to in this Agreement in the name of and/or owned by
+ and/or licensed to IESA shall be and remain the sole and complete
+ property of IESA, or its affected third-party licensors, as the case
+ may be; that all such copyrights, trademarks and service marks and
+ rights to same in the name of or owned by any copyright proprietor
+ other than IESA or Infogrames shall be and remain the sole and
+ complete property of such copyright proprietor; that all trademarks
+ and service marks which, and/or the right to use which, arise out of
+ the license hereby granted to use the intellectual property embodied
+ in the Products shall be and remains the sole and complete property
+ of IESA (or its affected third-party licensors, as the case may be);
+ that Infogrames shall not at any time acquire or claim any right,
+ title or interest of any nature whatsoever in any such trademark or
+ service mark by virtue of this Agreement or of Infogrames' uses
+ thereof in connection with the Products; and that any right, title
+ or interest in or relating to any such trademark or service mark,
+ which comes into existence as a result of, or during the term of,
+ the exercise by Infogrames of any rights granted to it hereunder
+ shall immediately vest in IESA (or its affected third-party
+ licensor, as the case may be).
+
+ 13. Taxes. All amounts due hereunder include any applicable taxes and
+ duties.
+
+ 14. Payment Procedures: Infogrames will report to IESA the amount of
+ royalties due within sixty (60) days after the end of each calendar
+ quarter, and each such report will be accompanied by payment of such
+ amount; provided, however, that Infogrames shall be entitled to
+ credit the amounts to be paid by IESA to any amounts that IESA owes
+ to Infogrames under the agreement or security whatsoever. All
+ payments will be made in U.S. dollars.
+
+ 15. Audit: Infogrames will keep accurate records of the basis for the
+ royalty determination and will make such records available to an
+ independent certified public accountant mutually agreed upon by the
+ parties for inspection during normal business hours, provided
+ however such inspection shall not interfere with Infogrames' normal
+ business activities. Such accountant shall be under an obligation of
+ confidentiality to Infogrames, and will only disclose to IESA
+ whether or not the royalty reports provided to IESA by Infogrames
+ were correct, and if not, the amount by which the royalty reports
+ are incorrect. No other information will be provided to IESA. If
+ Infogrames has underpaid the royalties due, Infogrames will promptly
+ pay the underpaid amount. If Infogrames has overpaid the royalties
+ due, Infogrames may elect, in its sole discretion, to either credit
+ such overpayment against royalties to come due in the future or
+ require IESA to refund such overpayment to Infogrames promptly.
+ Inspections shall be at IESA's cost, shall not occur more frequently
+ than once annually and shall not cover the same records more than
+ once; provided, however, that the reasonable cost of the inspection
+ will be reimbursed by Infogrames if the inspection discovers an
+ underpayment in excess of ten (10%) percent.
+
+ -5-
+
+ 16. IESA Warranties and Indemnity: IESA warrants and represents that
+ IESA has sufficient rights to the Products to grant Infogrames the
+ licenses under this Agreement and that any Product provided to
+ Infogrames under this Agreement does not and will not infringe any
+ third party proprietary right. If Infogrames is obligated to pay any
+ third party for rights reasonably necessary to exploit its rights
+ under this Agreement, IESA will reimburse Infogrames such amount
+ upon Infogrames' request. IESA warrants and represents that it has
+ the right to enter into this Agreement and that this Agreement and
+ IESA'S performance under this Agreement will not conflict or violate
+ any obligations IESA may have under an agreement with any third
+ party. IESA will indemnify Infogrames, and its affiliates, officers,
+ directors and employees, against claims, actions, demands,
+ liabilities, losses, damages, expenses (including reasonable
+ attorneys' fees and legal costs) related to alleged or actual
+ infringement of third party proprietary rights by the Products and
+ to alleged personal injury or property damage related to the
+ Products. IESA will indemnify Infogrames, and its affiliates,
+ officers, directors and employees, against any claims, liabilities,
+ losses, damages, injuries, costs, expenses, causes of action,
+ claims, demands, assessments and similar matters related to any
+ breach of IESA's warranties.
+
+ 17. Infogrames Warranties and Indemnity: Infogrames warrants and
+ represents that it has the full power and authority to enter into
+ this Agreement. Except as contemplated hereby, Infogrames warrants
+ and represents that it will not assign, transfer, lease, convey or
+ grant a security interest in or otherwise similarly dispose of the
+ Products or any related materials. Infogrames warrants and
+ represents that it shall use its reasonable best efforts to protect
+ IESA's and any applicable third party's intellectual property rights
+ covered by this Agreement in the Territory against infringement.
+ Infogrames warrants and represents that the making of this Agreement
+ and the manufacture, marketing, sale and distribution of the
+ Products shall not infringe upon or violate any laws or regulations
+ of any nation with the Territory; any agreement, right or obligation
+ between Infogrames and any other person, firm or corporation; or any
+ rights of any third party. Infogrames will indemnify IESA, and its
+ affiliates, officers, directors and employees, against any claims,
+ liabilities, losses, damages, injuries, costs, expenses, causes of
+ action, claims, demands, assessments and similar matters related to
+ any breach of Infogrames' warranties.
+
+ 18. Conditions on Indemnity Obligations: The indemnity obligations set
+ forth in this Agreement are conditioned upon the party claiming
+ indemnification (the "Indemnified Party") promptly notifying the
+ indemnifying party (the "Indemnifying Party") of the claim, allowing
+ the Indemnifying Party to control any defense or settlement of such
+ claim and assisting the Indemnified Party in the defense or
+ settlement so long as the Indemnifying Party reimburses the
+ Indemnified Party's reasonable expenses.
+
+ 19. Term: The term of this Agreement will be the later of (a) seven
+ years or (b) the period of time during which IESA and its
+ subsidiaries hold at least twenty-five percent (25%) of the voting
+ stock of Infogrames.
+
+ 20. Termination: This Agreement may be terminated by Infogrames in its
+ sole discretion upon ninety (90) days written notice to IESA. Either
+ party may terminate this Agreement
+
+ -6-
+
+ for a material breach by the other party which has not been cured
+ within sixty days after the non-breaching party provided written
+ notice of such breach to the breaching party.
+
+ 21. Effect of Termination: Upon termination of this Agreement, the
+ licenses granted hereunder will terminate, provided however, that in
+ the event such termination is for other than a breach by Infogrames,
+ the licenses will continue to the extent necessary for a period of
+ up to six (6) months to allow Infogrames to distribute its remaining
+ inventory of Products and to fulfill its obligations under any
+ agreement with a third party. Paragraphs 1, 3, 7, 9, 10, 12, 14-18
+ and 21-30 shall survive termination of this Agreement for any
+ reason.
+
+ 22. Assignment: Infogrames may assign all or a portion of its rights
+ under this Agreement to its affiliates. In the event of a change in
+ control of Infogrames to a successor entity or any of its
+ affiliates, Infogrames may not assign this Agreement to any other
+ third party without IESA approval. Subject to the foregoing, the
+ provisions of this Agreement shall apply to and bind the successors
+ and permitted assigns of the parties. Any attempted assignment or
+ other transfer of this Agreement not in compliance with this
+ Paragraph 22 shall be null and void and shall be deemed to be a
+ material breach of this Agreement which is not capable of cure.
+
+ 23. Confidentiality: Each party agrees that it will hold in strict
+ confidence and not disclose the Confidential Information of the
+ other party to any third party and to use the Confidential
+ Information of the other party for no purpose other than the
+ purposes expressly permitted by this Agreement. Each party shall
+ only permit access to the other party's Confidential Information to
+ those of its employees having a need to know and who have signed
+ confidentiality agreements containing terms at least as restrictive
+ as those contained in this Paragraph 23. Each party shall maintain
+ the confidentiality and prevent accidental or other loss or
+ disclosure of any Confidential Information of the other party with
+ at least the same degree of care as it uses to protect its own
+ Confidential Information but in no event with less than reasonable
+ care. A party's obligations of confidentiality under this Agreement
+ shall not apply to information which such party can document (i) is
+ in the public domain without the breach of any agreement or
+ fiduciary duty or the violation of any law, (ii) was known to the
+ party prior to the time of disclosure without the breach of any
+ agreement or fiduciary duty or the violation of any law, (iii) is
+ independently developed by the party prior to receiving such
+ Confidential Information without reference to any Confidential
+ Information, (iv) is required to be disclosed pursuant to a judicial
+ order, a requirement of a governmental agency or by operation of
+ law, provided that such party gives the other party written notice
+ of any such requirement immediately after learning of any such
+ requirement, and takes all reasonable measures to avoid or limit
+ disclosure under such requirements and to obtain confidential
+ treatment or a protective order and has allowed such other party to
+ participate in the proceeding. Upon written request by either party
+ hereto, the other party shall promptly return all documents and
+ other tangible materials representing the requesting party's
+ Confidential Information and all copies thereof. Notwithstanding
+ anything contained herein to the contrary, Infogrames reserves the
+ right to publicly disclose the terms of this
+
+ -7-
+
+ Agreement if it determines in good faith that this is a material
+ agreement which must be filed with the Securities and Exchange
+ Commission.
+
+ 24. Governing Law: The laws of the State of New York shall govern this
+ Agreement, without regard to conflicts of laws provisions thereof
+ and without regard to the United Nations Convention on Contracts for
+ the International Sale of Goods.
+
+ 25. Relationship of Parties: The parties hereto expressly understand and
+ agree that the parties are independent contractors in the
+ performance of each and every part of this Agreement.
+
+ 26. Amendment and Waiver. Except as otherwise expressly authorized
+ herein, any provision of this Agreement may be amended and the
+ observance of any provision of this Agreement may be waived only
+ with the written consent of the parties.
+
+ 27. Headings. Headings and captions are for convenience only and are not
+ to be used in the interpretation of this Agreement.
+
+ 28. Notices. All notices, statements, and reports required or permitted
+ by this Agreement shall be in writing and deemed to have been
+ effectively given and received; (i) five (5) business days after the
+ date of mailing if sent by registered or certified mail, postage
+ prepaid, with return receipt requested; (ii) when transmitted if
+ sent by facsimile, provided a confirmation of transmission is
+ produced by the sending machine and a copy of such facsimile is
+ promptly sent by another means specified in this Paragraph 28; or
+ (iii) when delivered if delivered personally or sent by express
+ courier service. Notices shall be addressed as follows:
+
+ If to IESA: If to Infogrames:
+
+ Infogrames Entertainment SA Infogrames, Inc.
+ 84, rue du 1er Mars 1943 417 Fifth Avenue
+ Villeurbanne, 69100 New York, New York 10016
+ France Attention: David J. Fremed
+ Attention: Thomas Schmider Telecopy: (212) 726-6590
+ Telecopy: (011 33) 472 655116 Confirm: (212) 726-6553
+ Confirm: (011 33) 472 655000
+
+ 29. Entire Agreement. This Agreement supersedes all proposals, oral or
+ written, all negotiations, conversations, or discussions between or
+ among parties relating to the subject matter of this Agreement and
+ all past dealing or industry custom.
+
+ 30. Severability. If any provision of this Agreement is held to be
+ illegal or unenforceable, that provision shall be limited or
+ eliminated to the minimum extent necessary so that this Agreement
+ shall otherwise remain in full force and effect and enforceable.
+
+ 31. Counterparts. This Agreement may be executed in one or more
+ counterparts, each of which shall be deemed an original, but all of
+ which taken together shall constitute one and the same instrument.
+
+ -8-
+
+ IN WITNESS WHEREOF, the Parties have executed this Agreement on the
+Effective Date.
+
+INFOGRAMES ENTERTAINMENT S.A. INFOGRAMES, INC.
+
+By: /s/ Bruno Bonnell By: /s/ David J. Fremed
+ -------------------------- --------------------------
+
+Name: Bruno Bonnell Name: David J. Fremed
+ -------------------------- --------------------------
+
+Title: CEO Title: Sr. VP & CFO
+ -------------------------- --------------------------
+
+ -9-
+
+ SCHEDULE A
+
+ PRE-APPROVED SUBLICENSING ARRANGEMENTS
+
+ AFFILIATION WITH
+COUNTRY/TERRITORY ENTITY INFOGRAMES (IF ANY)
+----------------- ------ -------------------
+ 
+None.
+
+ -10-
+
+ INFOGRAMES INTERACTIVE, INC.
+ 50 Dunham Road
+ Beverly, Ma. 01915
+
+ November 12, 2002
+
+Infogrames, Inc.
+417 Fifth Avenue
+New York, New York 10016
+
+ Re: Distribution Agreement
+
+Gentlemen:
+
+ Reference is made to the Distribution Agreement (the "Inter-Company
+Distribution Agreement") between and among Infogrames Europe, SA and Infogrames
+Entertainment, SA (together, "IESA") and Infogrames, Inc. ("Inc.") dated as of
+October 2, 2000. Capitalized terms used herein without definition have the
+meanings provide in the Inter-Company Distribution Agreement. The undersigned
+parties hereby agree as follows:
+
+ 1. Although Infogrames Interactive, Inc. ("I-Cubed"), which is a
+wholly-owned subsidiary of IESA, is not a signatory to the Inter-Company
+Distribution Agreement, at all times since I-Cubed became a subsidiary of IESA
+(i.e., as a result of the purchase by IESA of Hasbro Interactive, Inc., now know
+as I-Cubed), the undersigned parties have been operating under and have
+considered themselves bound by all terms and conditions contained in the
+Inter-Company Distribution Agreement which are applicable to IESA or any
+subsidiary thereof, including without limitation, those set forth in paragraph 3
+below.
+
+ 2. I-Cubed hereby agrees to be bound by all of the provisions of the
+Inter-Company Distribution Agreement which are applicable to IESA or any
+subsidiary thereof, including without limitation, (i) the exclusive right of
+Inc. to publish, manufacture, have manufactured, localize, adapt, market,
+advertise, promote, publicize, distribute, sell, sublicense or otherwise exploit
+all Products which I-Cubed has the right to distribute in the Territory, whether
+licensed or owned by I-Cubed, through all channels of distribution in the
+Territory under Section 2 thereof, (ii) Inc.'s royalty free license to use
+I-Cubed's Trademarks under Section 3 thereof, and (iii) Inc.'s right to purchase
+prepackaged Products from I-Cubed under Section 4 thereof.
+
+ 1
+
+ INFOGRAMES INTERACTIVE, INC.
+
+ By: /s/ Lisa S. Rothblum
+ -------------------------------
+ Name: Lisa Rothblum
+ -----------------------
+ Its: Senior Vice President
+ -----------------------
+
+ACKNOWLEDGED AND AGREED:
+
+INFOGRAMES, INC.
+
+By: /s/ Lisa S. Rothblum
+ ----------------------------------
+ Name: Lisa Rothblum
+ -------------------------
+ Its: Senior Vice President
+ -------------------------
+
+INFOGRAMES ENTERTAINMENT, SA
+
+By: /s/ Bruno Bonnell
+ ----------------------------------
+ Name: Bruno Bonnell
+ -------------------------
+ Its: CEO
+ -------------------------
+
+INFOGRAMES EUROPE, SA
+
+By: /s/ Bruno Bonnell
+ ----------------------------------
+ Name: Bruno Bonnell
+ -------------------------
+ Its: CEO
+ -------------------------
+
+ 2

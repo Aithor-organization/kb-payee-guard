@@ -1,0 +1,825 @@
+EX-10.18
+6
+dex1018.htm
+SUPPLY & MANUFACTURE AGREEMENT
+
+Supply & Manufacture Agreement
+
+Exhibit 10.18 
+
+*** Confidential portions of this document have been redacted and separately filed with the Commission. 
+
+HSS EMITTER AND SYSTEM 
+ 
+SUPPLY AND MANUFACTURE AGREEMENT 
+
+This Supply (“Agreement”) is made and entered into effective this 18th day of July, 2001 (“Effective
+Date”) by and between American Technology Corporation, a Delaware corporation, with its offices at 13114 Evening Creek Dr. S., San Diego, CA 92128 (“ATC”), and Horizon Sports Technologies, Inc., a California corporation,
+with its offices at 8985 Crestar Pointe, San Diego, CA 92121 (“HST”). In this Agreement, ATC and HST may be referred to individually as a “Party” and collectively as the “Parties”. 
+
+RECITALS 
+
+WHEREAS:
+
+A. ATC is engaged in the discovery, development, and improvement of systems, devices,
+and technologies related to sound reproduction, including loudspeaker devices for various applications. 
+
+B. ATC has developed or acquired and is the owner of certain inventions relating to systems which cause the generation of desired acoustic frequencies by means of non-linear propagation from frequencies which
+are higher than the desired frequency, and is the owner of certain patent rights as set forth on Exhibit A attached to this Agreement, and inventions covered thereby (“Patent Rights”), as well as trade secrets and other confidential
+and proprietary information, including, but not limited to data, designs, diagrams, drawings, reports, supplier lists, specifications, memoranda, and the like, in whatever form, concerning such inventions and related methods, processes, systems and
+devices, all relating to a sound reproduction system known as HyperSonicTMSound (HSSTM) (“Know-How”). HSS technology is ATC’s proprietary ultrasonic sound generation technology,
+devices and methods, including, but not limited to: “Parametric Loudspeakers,” which shall mean any speaker or device that indirectly generates lower frequency tones from high frequency tones; and, to power modulation devices; and
+further includes but is not limited to the inventions included in the Patent Rights, and related Know-How, and HSS technology includes other data, items, methods, processes and know-how, which are related to systems which cause the generation of
+desired acoustic frequencies by means of non-linear propagation from frequencies which are higher than the desired frequency, including, but not limited to, the Patent Rights and Know-How, (collectively “HSS Technology”).
+
+C. ATC has adopted and used or acquired, and is the owner of, certain trademarks, as well
+as any trademark registrations and applications therefor, used with HSS Technology, including, but not limited to HSSTM, HyperSonicTMSound throughout the world, as set forth on Exhibit B
+(“HSS Trademarks”). 
+
+HST Supply Agreement
+
+Page 1
+
+*** Confidential portions of this document have been redacted and separately filed with the Commission.
+
+D. ATC desires a stable, cost-effective, and high-volume manufacturing source for its patent-pending piezoelectric film
+ultrasonic emitter device (“ATC Emitter”) which is included in the HSS Technology, and is an integral component of systems incorporating HSS Technology. HSS Technology used in or enabling the design, building, and manufacture of the ATC
+Emitter shall be herein more particularly known as “ATC Emitter Technology”. ATC also desires a stable, cost-effective, high-volume manufacturing source for completed systems incorporating HSS Technology, including but not limited
+to amplifiers, packaging, DSP circuitry, power supplies, audio playback boards, etc. (“HSS Systems”), which are to be sold or resold to ATC customers or other entities which ATC has licensed with respect to relevant portions of HSS
+Technology (“Other HSS Licensees”) in both retail and wholesale markets. ATC Emitters, HSS Systems, or any combination of the two shall be referred to herein as “HSS Products.” ATC desires HST to become a
+manufacturing source for HSS Products. 
+
+E. HST has extensive experience in design and
+manufacturing technologies, and has acquired or is the owner of inventions and know-how relating to certain manufacturing technologies (“HST Technology”), and the parties believe that this experience, knowledge, and HST Technology
+will be useful in the design and manufacture of ATC Emitters and HSS Systems, which will use or incorporate HSS Technology, and HSS Products incorporating such ATC Emitters and/or HSS systems. 
+
+F. HST desires to be a primary manufacturer of HSS Products, and believes it can supply the reasonable requirements of ATC for HSS Products,
+including reasonable increases in such requirements. 
+
+COVENANTS AND CONDITIONS 
+
+NOW, THEREFORE, in consideration of the foregoing recitals and the covenants and conditions as set forth herein, the parties agree as follows: 
+
+1. LICENSE 
+
+a. All Patent Rights, Know-How, ATC Trademarks, HSS Technology, and ATC’s Emitter Technology are owned exclusively by ATC and no license with respect to them or any other
+intellectual property of ATC is granted to HST, except for the limited and specific purpose of making HSS Products for ATC in accordance with this Agreement and otherwise performing its obligations hereunder. 
+
+b. No license with respect to any right of HST in HST Technology, or any other intellectual property developed
+solely by HST, is granted to ATC, except for the limited and specific purpose of carrying out the terms and conditions of this Agreement and otherwise performing its obligations hereunder. 
+
+c. Upon the request of HST, ATC and HST shall negotiate in good faith a separate agreement regarding a grant of a license from ATC to HST to make,
+have made, use, manufacture, and sell products which use or incorporate HSS Technology under its own brand
+
+HST Supply Agreement
+
+Page 2
+
+*** Confidential portions of this document have been redacted and separately filed with the Commission.
+
+name HST, or other brand name approved by ATC, [***] in recognition of HST’s work in helping to advance ATC Emitter Technology and HSS Systems manufacturing know-how, should that
+prove to be the case. 
+
+2. RIGHT TO MANUFACTURE 
+
+a. Subject to termination as defined in paragraphs 13 and 27, HST shall have an exclusive right to manufacture HSS Products for ATC which ATC will
+sell at retail or wholesale. HST shall manufacture HSS Products in accordance with the reasonable quality and quantity requirements of ATC during the term of this Agreement. 
+
+b. ATC retains the right to license Other HSS Licensees to manufacture and sell HSS Products under the Other HSS Licensees’ own brand names.
+
+c. HST shall be an authorized, non-exclusive manufacturer of HSS Products for Other HSS
+Licensees after the initial term of this Agreement. ATC shall inform each such Other HSS Licensee in writing, with a copy of such notice to HST, that HST is an ATC authorized manufacturer for HSS Products. [***] 
+
+3. SCOPE OF WORK: 
+
+a. ATC will provide to HST all required documentation and technical support required for technology transfer of HSS Technology related to the HSS Products, to enable HST to identify manufacturing
+techniques, processes, and determine costs. 
+
+b. HST will provide ATC with ideas for design
+modifications, on an ongoing basis, to reduce manufacturing costs, improve ruggedness and reliability, improve stability, or any other concepts to improve the manufacturability or performance of the HSS Products. 
+
+c. HST will provide design drawings, concept drawings, specifications, and other reasonably required documentation
+to ATC on a continuing basis, and shall, upon appropriate notice, allow ATC personnel access to relevant portions of HST facilities, in order for ATC to monitor the quality of the HSS Products and monitor the HST manufacturing processes for the HSS
+Products. 
+
+d. HST will maintain and make available to ATC all purchasing, inspection,
+production, quality, shipping, and other required documentation upon request in order for ATC to accurately assess the suitability of the HST manufacturing processes for the HSS Products. 
+
+4. PVDF FILM SUPPLY 
+
+a. [***] 
+
+5. PRODUCTION TOOLING 
+
+a. [***] 
+
+HST Supply Agreement
+
+Page 3
+
+*** Confidential portions of this document have been redacted and separately filed with the Commission.
+
+b. [***] 
+
+6. COSTS AND LINE SHUTDOWNS 
+
+a. [***] 
+
+b. [***] 
+
+c. [***] 
+
+7. RESPONSIBILITIES 
+
+The following is a partial list of
+identified HST responsibilities. It is included for clarification only and does not represent all the responsibilities of HST to perform under this agreement. However, HST shall do at least the following: 
+
+•
+
+[***] 
+
+•
+
+[***] 
+
+•
+
+[***] 
+
+•
+
+[***] 
+
+•
+
+Meet production schedules and quality targets 
+
+•
+
+Provide factory infrastructure (shipping, accounting, etc.) 
+
+•
+
+Purchase components and raw materials as required 
+
+•
+
+[***] 
+
+•
+
+Procurement of, [***] initial and ongoing UL factory registration, inspections, and compliance 
+
+•
+
+Provide serial number traceability 
+
+•
+
+[***] 
+
+•
+
+Production cost reduction over time 
+
+•
+
+[***] 
+
+•
+
+Contract with all its employees officers and agents to keep the HSS Technology not in the public domain confidential, and otherwise take all reasonable
+precautions to prevent unauthorized access to, and use of, HSS Technology 
+
+•
+
+Take such further reasonable steps to safeguard HSS Technology not in the public domain from unauthorized transfer to any third party by any of HST’s
+officers, directors, employees, agents, and contractors, as may be reasonably be required under circumstances appearing, particularly with regard to manufacturing outside the U.S. 
+
+•
+
+Develop a formal manufacturing and process control plan 
+
+•
+
+Inspect, test, or otherwise validate that components and materials meet specifications 
+
+The following is a partial list of identified ATC responsibilities. It is included for clarification only and does not represent all the responsibilities of ATC to
+perform under this agreement. However, ATC shall do at least the following: 
+
+•
+
+Provide overall design of HSS systems and packaging 
+
+HST Supply Agreement
+
+Page 4
+
+*** Confidential portions of this document have been redacted and separately filed with the Commission.
+
+•
+
+Provide engineering documentation/configuration management requirements 
+
+•
+
+[***] 
+
+•
+
+Procurement of, [***] initial product agency approvals & updates (UL, FCC, FDA, etc) 
+
+•
+
+Provide receiving inspection criteria for components, etc. 
+
+•
+
+[***] 
+
+•
+
+Develop factory process inspection criteria 
+
+•
+
+Provide technical support and failure analysis 
+
+•
+
+[***] 
+
+•
+
+[***] 
+
+•
+
+[***] 
+
+The following is a partial list of identified joint responsibilities. It is included for clarification only and does not represent all the joint responsibilities of HST and ATC to perform under this agreement. However, both parties
+shall jointly do at least the following: 
+
+•
+
+[***] 
+
+•
+
+[***] 
+
+8. FIRST PRODUCTION AND PRODUCT DOCUMENTATION 
+
+a. It is understood that expediency in the performance of the parties under this Agreement is of critical importance to the success of ATC and its HSS technology and time is of the essence of this Agreement.
+
+b. [***] 
+
+c. Prior to the start of production, ATC shall provide to HST complete product documentation required to reorder all parts and materials, perform
+incoming inspections, manufacture ATC Emitters, perform final HSS Product assembly, control product quality and consistency, and package, store, and ship finished HSS Products. 
+
+9. DISTRIBUTION RESTRICTIONS 
+
+a. [***] 
+
+b. [***] HST shall take
+particular care to see that such technology is not transferred by reason of any act of HST, its directors, officers, employees, agents, and contractors, to such entity in the field of audio reproduction, nor to any company in competition with ATC or
+engaged in the production of any technology competitive to HSS, or any company engaged in the manufacturing, sale, or distribution of parametric loudspeaker systems. However, HST is not prohibited in any way from selling, distributing, or otherwise
+providing its HST Technology to any third party company for use in applications not involving [***]. 
+
+10. CONFIDENTIAL INFORMATION 
+
+HST Supply Agreement
+
+Page 5
+
+*** Confidential portions of this document have been redacted and separately filed with the Commission.
+
+a. It is recognized that during the term of this agreement and any renewal term,
+the parties will disclose, exchange and/or be given access to information, in whatever form, of the other, which is not in the public domain, and which is or may be sensitive, proprietary, or simply not generally known, and with respect to which the
+party disclosing the information desires that it remain confidential and not pass into the public domain. Such information includes, but is not limited to, business and financial information, customer and supplier names and lists of such names,
+trade secrets, know-how, technical and business data, drawings, devices, methods, processes, formulae, specifications, information regarding business and market strategy, and the like, and also including, but not limited to, the HSS Technology and
+HST Technology set forth above not in the public domain, and other information identified or reasonably identifiable as sensitive or confidential (“Confidential Information”). 
+
+b. Each of the parties shall take reasonable steps to assure that Confidential Information of the other party remains confidential and does not
+pass to any third party to the detriment of the other party. The Confidential Information of each of the parties shall remain the property of the disclosing party, and the parties shall each receive and maintain the confidentiality of the other and
+shall not make any use thereof in whole or in part except for the purposes of this agreement. [***] any Confidential Information and/or instrumentality incorporating or displaying Confidential Information, given by one party to the other
+shall otherwise be kept in strict confidence by the receiving party, and shall be disclosed only to those persons and entities having a need to know in performing the duties imposed by this Agreement and who have entered into an agreement with the
+receiving party to keep such Confidential Information in strict confidence. Such agreements with third parties shall contain confidentiality provisions providing, at the least, protections and obligations of confidentiality commensurate with the
+protections and obligations set forth in this Agreement. 
+
+c. Confidential Information shall
+not include information which was previously in the public domain, or which passes into the public domain by a means other than a violation of this Agreement, or information which was known to the receiving party, as shown by reliable evidence,
+prior to receiving the information and with respect to which a breach of the duties or obligations of this Agreement would not otherwise reasonably be found by subsequent disclosure. 
+
+11. INTELLECTUAL PROPERTY 
+
+a. [***] 
+
+*
+
+[***] 
+
+*
+
+[***] 
+
+*
+
+[***] 
+
+b. [***] 
+
+c. [***]
+
+HST Supply Agreement
+
+Page 6
+
+*** Confidential portions of this document have been redacted and separately filed with the Commission.
+
+d. [***] 
+
+e. The parties shall have and/or enter into appropriate agreements with their officers, directors, employees, agents, and contractors to effect the terms of this Agreement,
+including, but not limited to, obligating them to assign all rights in inventions and intellectual property, including but not limited to patent rights, developed or acquired by them which relate to the respective business endeavors of the parties,
+and to keep all Confidential Information in confidence. 
+
+f. Improvements 
+
+1. Regardless of how ownership may be determined between the parties, if a party shall develop any
+improvement relating to the performance or manufacture of the HSS Products or otherwise constitutes and improvement relating to the HSS Technology (“Improvement”), the party having made the Improvement shall promptly disclose such
+Improvement to the other party in confidence. [***] 
+
+(a) [***] 
+
+(b) [***]
+
+12. INFORMATION RELEASE 
+
+a. [***] 
+
+b. Neither party will make any disclosure concerning this Agreement or its substance, nor issue any public release or announcement concerning their relationship, except as mutually agreed in advance or
+otherwise required by law. It is agreed that permission to release information will not be unreasonably withheld by either company. [***] 
+
+13. TERM OF AGREEMENT 
+
+a. This Agreement
+shall become effective as of the Effective date first stated above, and, unless sooner terminated as provided herein, shall remain in full force and effect for an initial term of two (2) years following such Effective date, and then, unless
+terminated as provided herein, shall continue in full force and effect thereafter for a two (2) year renewal term following the initial term, and unless terminated as provided herein, such renewal term shall be followed by like subsequent renewal
+terms of two (2) years duration. 
+
+b. Either party may terminate this Agreement for any
+verifiable commercially reasonable reason upon one hundred eighty (180) days prior written notice to the other party as more fully set forth in Paragraph 27 below. The termination of this Agreement shall not affect the obligations of either party to
+the other party pursuant to any Order (as hereinafter defined) previously executed hereunder, and the terms and conditions of this Agreement shall continue to apply to such Order as if this Agreement had not been terminated. 
+
+HST Supply Agreement
+
+Page 7
+
+*** Confidential portions of this document have been redacted and separately filed with the Commission.
+
+14. SCOPE OF AGREEMENT 
+
+a. During the term of this Agreement, ATC agrees to purchase all of its requirements for the HSS Products from HST, and HST shall supply the reasonable requirements of ATC. This Agreement anticipates
+that ATC will place Orders with HST. No terms or conditions other than those stated herein and in the HST Order Acknowledgment Form; and no agreement or understanding, oral or written, in any way purporting to modify these terms or conditions,
+whether contained in ATC’s purchase order or shipping release forms or elsewhere, shall be binding on HST unless hereafter made in writing and signed by an authorized representative of HST. 
+
+b. Notwithstanding any other provision of this Agreement or of any other contract between the parties to the contrary, the provisions of this
+Agreement shall apply to subsequent transactions between HST and ATC during the term of this Agreement with respect to the HSS Products which are the subject of this Agreement, unless the parties expressly agree in and by a written modification to
+this Agreement, signed by an authorized representative of each of the parties, that the provisions of this Agreement shall not apply. 
+
+c. Subject to the provisions of this Agreement, HST shall provide to ATC such of the HSS Products as ATC may from time to time order. ATC’s technical specifications (including drawings) relating
+to such HSS Products are shown on Exhibit C (“Specifications”), and HSS Products provided to ATC hereunder shall be in conformance with said Specifications and/or any subsequent change to the specifications to which the parties
+shall agree in writing. 
+
+15. ORDERS 
+
+a. The term “Order” shall mean each purchase order that ATC may deliver to HST for the purchase of HSS Products. 
+
+b. Each Order for HSS Products shall set forth the quantity, description and price(s) of the HSS Products being
+ordered, the address for delivery of HSS Products, required delivery or performance date(s), shipping instructions, and the address to which HST’s invoice shall be sent, and shall reference this Agreement. Risk of loss for each Order shall be
+as set forth below. 
+
+c. HST’s acknowledgment shall be deemed to be acceptance of such
+Order upon the terms contained in the HST Acknowledgment Form in accordance with the provisions of this Agreement. Should HST fail to acknowledge any Order within [***] days of receipt, the Order shall be considered not accepted by HST.
+
+16. FORECASTS 
+
+a. ATC will issue a rolling, [***] production forecast [***] All production must be authorized via timely purchase orders. 
+
+b. [***] 
+
+HST Supply Agreement
+
+Page 8
+
+*** Confidential portions of this document have been redacted and separately filed with the Commission.
+
+17. CAPACITY 
+
+HST will use its best efforts to design its manufacturing processes and line capacity to accommodate production of a minimum periodic quantity of HSS Products [***] 
+
+18. CAPITAL EQUIPMENT 
+
+HST will purchase any capital equipment required to establish the production line and shall be responsible for any additional start-up costs not otherwise provided for in this Agreement. [***] 
+
+19. RISK OF LOSS 
+
+Unless otherwise specifically agreed to in writing by HST, all sales made hereunder shall be F.O.B. HST’s factory and title to the HSS Products priced F.O.B. HST’s factory shall pass to ATC or Other HSS Licensee
+upon delivery at such shipping point. 
+
+20. PRICE 
+
+a. [***] 
+
+b. [***] 
+
+c. [***] 
+
+d. ATC or its representative shall have the right to inspect relevant records at reasonable times and
+upon reasonable notice to HST no more than four times per year to audit HST processes and cost structures as reasonably required [***]. 
+
+21. PAYMENT 
+
+HST shall invoice ATC on a monthly basis for completed
+production authorized via purchase order. Payment terms shall be [***]. 
+
+22. DELIVERY 
+
+HST shall use its best efforts to make deliveries of HSS Products in the quantities and at the times specified in any Purchase
+Order, as accepted by HST. Unless ATC specifies shipping instructions, shipment and delivery will be made by the carrier and in the manner designated by HST. HST shall not be liable for delays or defaults in deliveries due to causes beyond
+HST’s control and without its fault or negligence. 
+
+23. INSPECTION 
+
+a. HST shall be responsible for performing incoming and line inspections and testing on a statistical basis or as
+otherwise specified by ATC in documented procedures as
+
+HST Supply Agreement
+
+Page 9
+
+*** Confidential portions of this document have been redacted and separately filed with the Commission.
+
+necessary to monitor the quality of the Products shipped hereunder. HST will provide to ATC a process control plan containing detailed flow chart/process plans for each HSS model manufactured for
+ATC. The plan will identify all process control points, metrics, and limits. HST agrees to provide process control information to ATC upon request. ATC reserves the right to audit this process at any time upon reasonable notice. HST further agrees
+to maintain real-time controls as defined within the process control plan and take immediate action whenever an out-of-control situation occurs. HST will insure that appropriate process control limits are 
+
+b. ATC reserves the right to approve all process controls contained in the HST process control plan, which approval
+shall not be unreasonably withheld. 
+
+c. ATC may reject those HSS Products that do not meet
+the Specifications or samples supplied pursuant to Exhibit C of this Agreement. Provided however, that any such inspection or testing performed by ATC hereunder must be done within [***] of the receipt of any shipment included hereunder.
+[***] 
+
+24. REPRESENTATIONS AND WARRANTIES 
+
+a. HST warrants that it will maintain a documented quality control system subject to the approval of ATC, which approval shall not be unreasonably
+withheld. HST agrees to allow ATC, Other HSS Licensees (upon approval by HST), or a third party retained by ATC or Other HSS Licensees (upon approval by HST), to conduct out-of-box source inspections using MIL-STD-105E or an alternative sampling
+plan at the HST manufacturing facility. HST further warrants that 100% of the HSS Products shipped will have sufficient testing and inspection to insure an AQL level of [***] for major defects and [***] for minor defects as defined
+below. Furthermore, HST agrees that any sample which contains a defect which reasonably constitutes a safety hazard of any kind shall cause the entire production lot to be rejected. The major and minor defect definitions are to be more specifically
+determined with cooperation of both parties prior to the beginning of mass production. For purposes of this Agreement, and as a starting point for such definitions, a major defect is defined as a defect which causes the product to perform in some
+respect deficiently outside performance specifications mutually agreed upon by the parties or to be noticeably deficient in any respect to a reasonable typical customer. A minor defect is one that is not ordinarily noticed or considered detrimental
+by a reasonable typical customer as detrimental, for example, such as a misplaced label or minor scratch. 
+
+b. HST warrants that upon delivery, good title to the HSS Products delivered to ATC or Other HSS Licensees hereunder, free and clear of all liens of whatsoever kind or nature, will vest in ATC or Other HSS
+Licensees, and that the HSS Products delivered will conform to the Specifications and perform in accordance with performance specifications mutually agreed upon by the parties, and be free of defects in materials and workmanship for a period of
+[***] commencing on the latest of: the date the HSS Products are received by ATC; the date they are received by a customer of ATC; the date they are received by one of Other HSS Licensees or by one of their customers, or the date of purchase
+by a party otherwise an end purchaser from the distribution channels of any of the forgoing parties in the ordinary course of business (“Warranty Period”). 
+
+HST Supply Agreement
+
+Page 10
+
+*** Confidential portions of this document have been redacted and separately filed with the Commission.
+
+c. THIS WARRANTY IS [N LIEU OF ALL OTHER WARRANTIES EXPRESS, IMPLIED OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE UNLESS OTHERWISE SPECIFICALLY STATED IN WRITING BY HST. 
+
+d. ATC warrants and represents that ATC is free to enter into and fully perform this Agreement. ATC warrants and represents that the relevant Patent Rights, rights in Know-How, rights in HSS
+Technology, rights HSS Products, and rights in the Licensed Trademarks, are owned and controlled, or have been otherwise secured by ATC (except for matters in the public domain); and that to the best of ATC’s knowledge, the manufacture,
+advertisement, distribution and sale hereunder of HSS Products to the extent they are made in accordance with the HSS Technology, Specifications, disclosures of the Patent Rights, Know How, and this Agreement do not infringe upon any rights of any
+third party of any nature whatsoever. 
+
+e. HST warrants and represents that HST is free to
+enter into and fully perform this Agreement. HST warrants and represents that relevant rights in the HST Technology are owned and controlled or otherwise secured by HST (except for matters in the public domain); and that to the best of HST’s
+knowledge, the manufacture, advertisement, distribution and sale hereunder of HSS Products to the extent they are made in accordance with the HST Technology and this Agreement do not infringe upon any rights of any third party of any nature
+whatsoever. 
+
+f. HST warrants that all HSS Products will be manufactured or otherwise
+furnished in compliance with all applicable federal, state and local laws, rules and regulations, and all laws rules and regulations in any country wherein it conducts business, and further, warrants that HST is an equal opportunity employer. FIST
+warrants that, unless specifically exempt from compliance, HST shall comply with Section 202 of Executive Order 11246, Section 503 of the Rehabilitation Act of 1973, Section 402 of the Vietnam Era Veterans Readjustment Act of 1974, Title VII of the
+Civil Rights Act of 1964, the Fair Labor Standards Act of 1938, and any amendments thereto. 
+
+g. Each of the parties warrants that it will use its best efforts to perform its obligations hereunder, and promote and advance the development, safety, market acceptance, and favorable public perception of the
+HSS Products, and will do or refrain from doing all acts as reasonably needed to fulfill these ends and the purposes of this Agreement. 
+
+h. Each of the parties warrants and represents to the other that it has made reasonable investigation and is unaware of any third party rights that will be infringed by activities contemplated
+hereunder, and there are no actions pending or claims asserted that would in any way affect its right or ability to perform its obligations hereunder. 
+
+25. DAMAGES/RETURNS 
+
+a. HST shall replace all
+HSS Products deemed defective due to a workmanship or manufacturing defect during the Warranty Period with replacement or repaired HSS Products at no charge to ATC or Other HSS Licensees, provided that: (a.) ATC or Other HSS Licensees
+
+HST Supply Agreement
+
+Page 11
+
+*** Confidential portions of this document have been redacted and separately filed with the Commission.
+
+shall have notified HST within thirty (30) days of ATC’s or Other HSS Licensees’ discovery of any alleged defect during the Warranty Period; and (b.) the HSS Products have not been
+damaged, subjected to abuse, misuse or abnormal operation, altered or improperly repaired or maintained by ATC, ATC’s customers, Other HSS Licensees or their customers; OR, and at HST’s option, HST will repay the price paid for such HSS
+Product, plus any transportation charges paid by ATC in addition to such price. Claims hereunder must be made within [***] beginning when the HSS Products are received by ATC, ATC’s customers, Other HSS Licensees or their customers or
+otherwise an end purchaser in any of the forgoing channels of distribution in the ordinary course of business. Upon receipt of any notice of claim as provided hereunder, HST shall be given a reasonable time within which to investigate ATC’s
+claim and to cure all defects. ATC’s legal remedies with respect to any HSS Products furnished by HST hereunder that are found to be defective or otherwise fail to conform to the Specifications or performance specifications agreed upon by the
+parties or otherwise to the terms and conditions of this Agreement, shall be limited exclusively to the right to replacement thereof or to repayment of the price, as provided above. No legal action shall be commenced against HST with respect to the
+liability of HST hereunder more than [***] after the occurrence alleged to give rise to such liability. In no event shall HST be liable to ATC for consequential, incidental or exemplary damages, including but not limited to, loss of profit or
+revenue, loss of use of machinery or equipment, downtime costs or claims of ATC’s customers or Other HSS Licensee’s customers for damages. 
+
+b. Additionally, if ATC or an Other HSS Licensee can demonstrate to HST that a defective lot of HSS Products has been shipped, HST shall, upon request by ATC or the Other HSS
+Licensee, replace the entire lot of said HSS Products. For the purposes of this Agreement, a defective lot shall mean a lot of HSS Products which cannot pass the AQL test set forth in paragraph 24.a. above. ATC or Other HSS Licensees shall return to
+HST, transportation prepaid, all defective HSS Products covered under a warranty claim. HSS Products repaired or replaced under warranty by HST will be shipped to ATC or Other HSS Licensees F.O.B. destination. 
+
+c. As between the parties, ATC shall be responsible for any reasonable costs attributable to returns due to HSS
+Product design flaws caused exclusively by ATC. 
+
+26. INDEMNITIES AND INSURANCE 
+
+a. ATC shall indemnify and defend HST and hold harmless HST for all direct and actual damages recovered from HST by
+a third party in any legal proceedings for infringement of a United States Letters Patent by the HSS Products furnished hereunder, provided that HST immediately notifies ATC of any potential or claimed infringement it becomes aware of, and HST
+cooperates with ATC with respect to the defense thereof. However, in the event that HSS Products at issue are designed by HST and/or are produced under specifications of HST altering an ATC design, and ATC has not specifically approved such design
+or alteration by HST in writing, or in the event that the charge of infringement arises solely from conduct of HST in manufacturing and not the design of an HSS Product itself, and such conduct in manufacturing was not requested by ATC, then ATC
+shall have no liability under this paragraph 26.a. 
+
+HST Supply Agreement
+
+Page 12
+
+*** Confidential portions of this document have been redacted and separately filed with the Commission.
+
+b. HST shall indemnify and defend ATC and hold harmless ATC for all direct and actual damages recovered from ATC by a
+third party in any legal proceedings for infringement of a United States Letters Patent by HSS Products furnished hereunder, provided that ATC immediately notifies HST of any potential or claimed infringement it becomes aware of, and ATC cooperates
+with HST with respect to the defense thereof. However, in the event that the features of the HSS Products at issue are designed solely by ATC and/or are produced under specifications of ATC altering an HST design, or that the charge of infringement
+arises solely from conduct of ATC, and such conduct was not requested by HST, then HST shall have no liability under this paragraph 26.b. 
+
+c. Each of the parties shall maintain adequate insurance pertaining to the activities they undertake hereunder reasonably acceptable to the other, and shall provide proof of same to the other upon
+request. In this regard, product liability insurance with a single product/ single occurrence liability limit of less than [***] shall be deemed inadequate and unreasonable, in the absence of compelling evidence to the contrary. 
+
+27. TERMINATION 
+
+a. HST shall have the right to cancel purchase orders of ATC in the event ATC willfully fails to comply with the terms of payment specified in this Agreement or in any subsequent
+agreement signed by an authorized representative of ATC for an unreasonable time. 
+
+b. Except as otherwise provided herein, this Agreement, or any Order placed pursuant hereto, is subject to termination for any verifiable commercially reasonable reason in whole or in part, at the election of
+ATC, upon delivering one hundred eighty (180) days advance written notice to HST. HST shall have the right to complete work in progress, and shall fulfill all Orders to be completed within the advance notice period before termination. 
+
+c. Because of the reliance of ATC on HST for its requirements of HSS Products, this Agreement shall be
+subject to termination by HST for any verifiable commercially reasonable reason only upon at least one hundred eighty (180) days advance written notice to ATC. ATC shall have the right, at its sole discretion, to continue to place Orders for
+delivery within the advance notice period before termination, and such Orders shall be reasonable. In the event that HST withdraws its termination notice after giving it, but prior to termination, ATC shall have the right, in its sole discretion, to
+re-instate this Agreement but treat this Agreement as non-exclusive, and shall have the right to use such other manufacturers as it may wish in addition to HST to supply its requirements of HSS Products. 
+
+d. [***] 
+
+e. If either party repudiates, terminates or suspends performance under this Agreement at its convenience and without compliance with the terms and conditions of this Agreement,
+then all reasonable and foreseeable costs to the other party resulting from such repudiation, termination, or suspension of performance shall be reimbursed with interest from the date incurred by the other party, [***] 
+
+HST Supply Agreement
+
+Page 13
+
+*** Confidential portions of this document have been redacted and separately filed with the Commission.
+
+f. In the event that either party shall materially breach any of the material terms or conditions of this Agreement, or in
+the event either of the parties becomes insolvent, files a petition in bankruptcy, or is declared bankrupt, or makes an assignment for the benefit of creditors, the other party may, in addition to other remedies it may have, terminate this Agreement
+by giving at least thirty (30) days advance written notice to the breaching party, specifying the act or omission on which such termination is based. Should such breach be remedied within thirty (30) days of said notice, or should adequate
+assurances, reasonably acceptable to the other party, of remedy within a reasonable time and continued performance thereafter be given, this Agreement shall remain in full force and effect, subject to continued compliance with all of the terms,
+conditions, and limitations hereof. 
+
+g. Early termination of this Agreement, should it
+occur, shall not affect the continuing rights and obligations of the parties such as the obligation to fill any Purchase Orders placed and accepted before termination, and the obligation to pay for HSS Products delivered, the obligations of
+confidentiality concerning Confidential Information, and other rights and obligations reasonably intended to continue after termination. 
+
+28. FORCE MAJEURE 
+
+Neither HST nor ATC shall be liable to the other
+for noncompliance with the terms and conditions of this Agreement, or for default or delay in delivering or accepting goods hereunder, if such noncompliance, default or delay is caused by an unforeseeable event beyond the reasonable control and
+reasonable capability of mitigation thereof by the affected party, for example such as may arise due to a natural disaster, war, mobilization, riot, strike, embargo, shortage of utility, facility, material or labor, delay in transportation,
+breakdown or accident, or reasonable unforeseen necessity of compliance with law or regulation. When all or only a part of HST’s or ATC’s capacity to perform is excused under this paragraph, HST or ATC shall mitigate to the extent possible
+the detrimental effects of non-performance and shall have the right and obligation to use other suppliers, allocate production, deliveries, or receipt of deliveries among various customers or suppliers then under contract or otherwise available with
+respect to HSS Products during the period when ATC or HST is unable to perform. The allocation must be effected in a commercially fair and equitable manner. When either HST or ATC claims an excuse for non-performance under this paragraph, it must
+give notice in writing to the other party and, thereupon, the affected party’s non-performance shall be excused for the period of delay or inability due to such Force Majeure, but not for more than six (6) months. 
+
+29. CHANGES 
+
+a. ATC may from time to time request changes, including but not limited to, changes in drawings, designs, production, specifications, testing, method of inspection, method of packaging, order period, rate of
+shipment, method of shipment, and/or place of delivery, or other provisions contained herein, by written instruction to HST via an Engineering Change Order (ECO) or Manufacturing Deviation, clearly identified as such, from ATC and conveyed to HST in
+a reasonable manner. All changes will be presumed to require cut-in control by serial number or other means, unless specifically exempted. HST shall determine whether such change 
+
+HST Supply Agreement
+
+Page 14
+
+*** Confidential portions of this document have been redacted and separately filed with the Commission.
+
+causes an increase or decrease in cost or time of performance and thereafter shall notify ATC in writing within ten (10) days from the date of receipt of such change order notice, or letter, or
+within such other time limit as agreed to by ATC and HST. ATC will, in writing, either accept the cost adjustment, cancel the request (ECO), or request a meeting to review the cost adjustment. Any agreed-to cost adjustment shall be implemented by
+means of a written Engineering Change Order, clearly identified as such, signed by an authorized representative of each of the parties. HST’s failure to advise ATC in writing that an adjustment is necessary prior to performance of the work
+called for by the Change Order Notice shall constitute HST’s agreement to conform to said Change Order Notice without an increase in price and without charge for cost of material and/or tooling rendered obsolete, and that delivery will be made
+as specified by this Agreement without additional cost to ATC. Any cut-in of design changes will be made in a reasonable period of time. 
+
+b. HST shall not make any unauthorized or undocumented changes to materials and components, vendors, manufacturing processes, or testing procedures. 
+
+30. COMPLIANCE WITH APPLICABLE AND STANDARDS 
+
+The parties shall each comply with all applicable laws, governmental regulations, trade and industry standards for good practice in their respective industries and areas of
+endeavor, and shall pay all applicable taxes and fees to appropriate governmental and taxing authorities, and otherwise conduct its business in accordance with reasonable business judgment, and with prudence and due care. Each shall obtain all
+necessary permits, approvals, waivers, or permissions required to conduct its business and perform its responsibilities hereunder, and shall each bear the costs associated therewith. 
+
+31. GENERAL 
+
+a. Any clause required to be included in a contract of this type by any applicable law or administrative regulation having the effect of law shall be deemed to be incorporated herein. 
+
+b. All proposals, negotiations, and representations, if any, made prior to and with reference hereto, are merged
+herein. 
+
+c. The captions in this Agreement are inserted only as a matter of convenience and
+are not intended to limit or define the scope of any provision herein. 
+
+d. Waiver by ATC or
+HST of any breach of these provisions shall not be construed as a waiver of any other breach. 
+
+e. Any material modification of this Agreement shall be in writing signed by authorized representatives of each of the parties. 
+
+f. Time is of the essence of every provision of this Agreement in which time or a period thereof is an element. 
+
+HST Supply Agreement
+
+Page 15
+
+*** Confidential portions of this document have been redacted and separately filed with the Commission.
+
+32. ASSIGNMENT 
+
+Neither party shall assign any of its rights or delegate any of its obligations without prior written consent of the other party. Subject to the forgoing, this Agreement shall be binding upon and inure to the benefit of the
+successors, heirs and assigns of ATC and HST. 
+
+33. SPECIFIC PERFORMANCE 
+
+Breach of the obligations of Paragraphs 9, 10, and 11 by one party will subject the other party to irreparable harm for which there is no
+adequate remedy at law. Thus, in addition to other remedies it may have, the party subjected to the breach may enforce the obligations by compelling specific performance or obtaining an injunction against a violation of such terms. 
+
+34. GOVERNING LAW, FORUM SELECTION AND JURISDICTION 
+
+This Agreement and each Order placed hereunder shall be construed in accordance with the laws of the State of California. The courts of the State of California shall have
+exclusive jurisdiction over all controversies which may arise under or in relation to this Agreement, especially with respect to the execution and interpretation of, and compliance with, this Agreement. 
+
+35. SEVERABILITY 
+
+Any provision of this Agreement which is found to be unenforceable under any law in any jurisdiction in which this Agreement is effective shall be deemed severable and not a part of this Agreement and to that extent void in
+the relevant jurisdiction. However, all remaining provisions of this Agreement shall be valid and in full force and effect, and the parties shall negotiate in good faith a replacement provision which effects, insofar as possible, the original intent
+of the parties with respect to the subject matter of the severed provision. 
+
+36. SURVIVAL OF PROVISIONS
+
+The provisions of this Agreement that by their sense and context are intended to survive the performance
+hereof by either or both parties hereunder shall so survive the completion of performance, cancellation or termination of this Agreement or any Order hereunder. 
+
+37. ENTIRE AGREEMENT 
+
+This Agreement constitutes the entire
+agreement and understanding between HST and ATC. No modification of any term contained herein shall be binding upon either HST or ATC respectively unless made in writing and signed by authorized representatives of HST and ATC. 
+
+38. NOTICES 
+
+Any notice required or permitted under the terms of this Agreement sent by a party shall be in writing and shall be sent by a means wherein reliable verification of receipt by the other
+
+HST Supply Agreement
+
+Page 16
+
+*** Confidential portions of this document have been redacted and separately filed with the Commission.
+
+party is generated. Sending such notice or report or payment by electronic means with confirmation of receipt shall be effective, provided a confirmation copy is sent via a means which complies
+with this paragraph and the means used is reasonable in light of all relevant circumstances. Notice to the parties shall be addressed as set forth below, or such other addresses as the party receiving notice shall from time to time designate by
+notice in accordance with this paragraph. 
+
+To HST: 
+
+HST, Inc. 
+ 
+8985 Crestmar Pointe 
+ 
+San Diego, CA 92121 
+ 
+Attn: [***] 
+
+And to ATC: 
+
+American Technology Corporation 
+ 
+13 114 Evening Creek Drive South 
+ 
+San Diego, CA 92128 
+ 
+Attn: [***] 
+
+39. SOPHISTICATION AND DUE DILIGENCE 
+
+a. This Agreement is the result of arms-length negotiation by experienced and knowledgeable parties wherein each party is represented by legal counsel, and the language herein shall not be strictly construed
+against either party. 
+
+b. Each of the parties to this Agreement has performed its own due
+diligence obligations with regard to the subject matter hereof, and except as expressly provided herein, each of the parties shall be solely responsible for its own conduct, and nothing herein shall otherwise cause either party to be answerable for
+any conduct of the other hereunder. 
+
+40. FURTHER ASSURANCES 
+
+The parties shall take any further actions, and shall make, execute, and deliver any further written instruments, that may reasonably be
+required to carry out the intent of the parties as expressed herein, and to implement the purposes, and give force and effect to the terms and conditions of this Agreement. 
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed, effective as of the Effective Date first above written. 
+
+HST Supply Agreement
+
+Page 17
+
+*** Confidential portions of this document have been redacted and separately filed with the Commission.
+
+Horizon Sports Technologies, Inc.
+ 
+(HST)
+
+By: 
+
+Name: [***]
+ 
+Title: President
+
+Date: July 18, 2001
+
+Witness: 
+
+Name: [***]
+
+American Technology Corporation
+ 
+(ATC)
+
+By: 
+
+Name: [***]
+ 
+Title: V.P. Sales, Marketing & Business Development
+
+Date: July
+18, 2001
+
+Witness: 
+
+Name: [***]
+
+HST Supply Agreement
+
+Page 18
+
+*** Confidential portions of this document have been redacted and separately filed with the Commission.
+
+EXHIBIT A 
+
+ATC PATENT RIGHTS (CONFIDENTIAL!) 
+
+[***]
+
+HST Supply Agreement
+
+Page 19
+
+*** Confidential portions of this document have been redacted and separately filed with the Commission.
+
+EXHIBIT B 
+
+HSSTMTRADEMARKS: 
+
+HYPERSONIC 
+ 
+HYPERSONIC SOUND 
+ 
+HSS 
+
+HyperSonicSound® 
+
+HST Supply Agreement
+
+Page 20
+
+*** Confidential portions of this document have been redacted and separately filed with the Commission.
+
+EXHIBIT C 
+
+SPECIFICATIONS 
+
+[***] 
+
+HST Supply Agreement
+
+Page 21

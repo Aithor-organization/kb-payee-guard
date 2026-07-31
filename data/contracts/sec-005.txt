@@ -1,0 +1,618 @@
+EX-10.26
+8
+dex1026.htm
+SUPPLY AGREEMENT DATED JULY 30, 2004 BTWN BIOMARIN AND DSP
+
+Supply Agreement dated July 30, 2004 btwn Biomarin and DSP
+
+Exhibit 10.26 
+
+Execution Copy 
+
+CONFIDENTIAL TREATMENT REQUESTED 
+ 
+Redacted Portions are indicated by [****] 
+
+SUPPLY AGREEMENT 
+
+This Supply Agreement (hereinafter referred to as the “Supply Agreement”) is
+dated July 30, 2004 (hereinafter called the “Effective Date”) by and between DAIICHI SUNTORY PHARMA CO., LTD., a corporation organized and existing under the laws of Japan and having its registered office at 7-2, Kojimachi 5-chome,
+Chiyoda-ku, Tokyo 102-8530, Japan (hereinafter referred to as “DSP”) and BIOMARIN PHARMACEUTICAL INC., a corporation organized and existing under the laws of the State of Delaware, having its principal business office at 371 Bel
+Marin Keys Blvd., Suite 210, Novato, California 94949, U.S.A. (hereinafter referred to as “BIOMARIN”), and SHIRATORI PHARMACEUTICAL CO., LTD. a corporation organized and existing under the laws of Japan and having its principal
+business office at 2-3-7 Akanehama, Narashino City, Chiba 275-0024, Japan (hereinafter referred to as “SHIRATORI”). DSP, BIOMARIN and SHIRATORI are each a “Party” and collectively, the “Parties.”
+
+WITNESSETH 
+
+WHEREAS, DSP and SHIRATORI have developed the Drug Substance (hereinafter defined) to
+be contained in Drug Product (hereinafter defined) for treatment of genetic diseases including phenylketonuria (hereinafter referred to as “PKU”); 
+
+WHEREAS, BIOMARIN has expressed its desire to DSP to obtain an exclusive license under certain patents and know-how to develop and
+commercialize the Drug Product in the Territory (hereinafter defined) and concurrent with the execution of this Supply Agreement, BIOMARIN and DSP have entered into a license agreement with DSP for such patents and know how (hereinafter referred to
+as the “License Agreement”). 
+
+WHEREAS, DSP, BIOMARIN,
+and SHIRATORI have discussed, negotiated, and agreed on the terms and conditions of the supply of the Drug Substance; and 
+
+NOW THEREFORE, in consideration of the premises and covenants contained herein, the Parties hereby agree as follows: 
+
+Article 1.0 DEFINITIONS 
+
+The following terms shall have the following meanings, unless otherwise clearly required by
+the context: 
+
+1) “Affiliate”
+means any entity that directly or indirectly controls, is controlled by, or is under common control with a specified entity. An entity is deemed to be in control of another entity if the former has the direct or indirect power to control the
+management and policies of the latter. 
+
+2)
+“Applicable Law(s)” means all applicable laws, rules, regulations and guidelines that apply to the import, export, development, manufacturing, marketing, distribution or sale of Drug Substance and Drug Product as contemplated in
+this Supply Agreement or the performance of either Party’s obligations under this Supply Agreement, to the extent applicable and relevant, including without limitation cGMP and current Good Clinical Practices standards or similar guidelines
+promulgated by the Regulatory Authorities. 
+
+Execution Copy 
+
+3) “cGMP” means current good manufacturing practices and standards
+as promulgated under ICH Q7A - Good Manufacturing Practice Guidance for Active Pharmaceutical Ingredients, US Federal Food Drug and Cosmetic Act at 21 CFR and the EEC Guide to Good Manufacturing Practices for Medical Products (Vol. IV - rules
+governing medical products in the European Community 1989) in the most recent version. 
+
+4) “Drug Substance” means the chemical substance identified as 6R-BH4 in its code name (generic name
+“Sapropterin”) and (6R)-2-amino-6-[(1R,2S)-1,2-dihydroxypropyl]-5,6,7,8-tetrahydro-4-(3H)-pteridinone dihydrochloride in its chemical name and also known as (6R)-L-erythro-5,6,7,8-tetrahydrobiopterin dihydrochloride, for use in the Drug
+Product and to be manufactured in accordance with all applicable regulatory requirements related to pharmaceutical products, including U.S. cGMP and European EP requirements. 
+
+5) “Drug Product” means finished pharmaceutical preparations for human use containing the
+Drug Substance as an active ingredient. 
+
+6)
+“Genetic Disorders” means all biochemical genetic disorders that are caused by single gene defects, but only to the extent that such biochemical genetic disorder also meets the Orphan Drug (hereinafter defined) regulation
+requirements. 
+
+7) “Orphan
+Drug” means pharmaceutical drug as set forth in the Orphan Drug Act of 1983 in the USA or any corresponding laws or regulations in other countries in the Territory. 
+
+8) “Regulatory Authority(ies)” means any regulatory agency, department, bureau, or other
+governmental entity, including without limitation the U.S. Food and Drug Administration (“FDA”), which is responsible for issuing approvals, licenses, registrations, clearances, or authorizations necessary for the manufacture, use,
+storage, import, transport, marketing or sale of Drug Substance and/or Drug Product in a country in the Territory. 
+
+9) “Territory” shall mean all countries of the world other than Japan. 
+
+Article 2.0 MANUFACTURING OF THE DRUG SUBSTANCE 
+
+ 2.1
+ Manufacturing of the Drug Substance. SHIRATORI shall manufacture the Drug Substance in accordance with Applicable Laws and the terms and conditions of this Supply
+Agreement. The Drug Substance manufactured by SHIRATORI shall be in compliance with the specifications as set forth in the Annex A of this Supply Agreement (hereinafter referred to as “Specifications”) and in compliance with the
+quality agreement to be entered into between BIOMARIN, SHIRATORI and DSP within ninety (90) days after the Effective Date as such Specification and quality agreement may be modified from time to time by the written agreement of BIOMARIN, SHIRATORI
+and DSP. 
+
+2 
+
+Execution Copy 
+
+ 2.2
+ Reports on Manufacturing of the Drug Substance. Commencing three (3) months after the date of this Supply Agreement and every three (3) months thereafter, SHIRATORI
+shall furnish BIOMARIN and DSP with reports, in English, on the manufacturing portion of the development plan related to the Drug Substance, including scale up, process validation, and etc. 
+
+ 2.3
+ Certificates of Analysis. SHIRATORI shall perform quality assurance and control tests on each lot of Drug Substance, as required by the Specifications, before delivery
+and shall prepare a written report of the results of such tests. Each test report shall set forth for each lot delivered, the items tested, specifications and results in a certificate of analysis containing the types of information which shall have
+been approved by BIOMARIN in the Specifications or required by the FDA or other applicable Regulatory Authority. SHIRATORI shall maintain such certificates for a period of not less than five (5) years from the date of manufacture or for such longer
+period as required under applicable requirements of the FDA or other applicable Regulatory Authority. 
+
+ 2.4
+ Certificates of Manufacturing Compliance. For each lot of Drug Substance manufactured, SHIRATORI shall prepare, or cause to be prepared and delivered to BIOMARIN, and
+maintain for a period of not less than five (5) years, or for such longer period as required under applicable requirements of the FDA or other applicable Regulatory Authority, a certificate of manufacturing compliance containing the types of
+information that shall have been approved by BIOMARIN or required by the FDA or other applicable Regulatory Authority, which certificate will certify that the lot of Drug Substance was manufactured in accordance with the Specifications and the
+current cGMP or other applicable requirements of any Regulatory Authority as the same may be amended from time to time. SHIRATORI shall advise BIOMARIN and DSP immediately if an authorized agent of the FDA or other Regulatory Authority visits any of
+SHIRATORI’s manufacturing facilities, or the facilities where Drug Substance is being manufactured, for an inspection with respect to Drug Substance. SHIRATORI shall furnish to BIOMARIN and DSP the report by such agency of such visit, to the
+extent that such report relates to Drug Substance, within ten (10) business days of SHIRATORI’s receipt of such report, and BIOMARIN shall have the right to comment on any response by SHIRATORI to such inspecting agency.
+
+Article 3.0 SUPPLY OF THE DRUG SUBSTANCE
+
+ 3.1
+ Supply of the Drug Substance. SHIRATORI shall manufacture Drug Substance and sell Drug Substance to DSP and DSP shall purchase Drug Substance from SHIRATORI based upon
+firm purchase orders meeting the requirements of Sections 3.4 (Firm Purchase Order from DSP to SHIRATORI) or 3.5 (Initial Supply of the Drug Substance), whichever the case may be. DSP shall sell to BIOMARIN and BIOMARIN shall purchase from DSP Drug
+Substance based upon firm purchase orders meeting the requirements of Sections 3.3 (Firm Purchase Order from BIOMARIN to DSP) or 3.5 (Initial Supply of the Drug Substance for Firm Orders Exceeding 60kgs and 150 kgs), whichever the case may be.
+
+3 
+
+Execution Copy 
+
+ 3.2
+ Estimate of Purchase. No later than one hundred (100) days prior to the beginning of each calendar year during the term of this Supply Agreement, BIOMARIN shall
+provide DSP and SHIRATORI with its requirements for each quarter of the succeeding calendar year and its best estimate of its requirements for the two (2) next following years. The first estimate shall be provided within thirty (30) days after the
+completion, including completion of the analysis and first public release of the data related thereto, of a Phase 3 clinical trial of Drug Product, conditioned on favorable clinical data. 
+
+ 3.3
+ Firm Purchase Order from BIOMARIN to DSP. No later than one hundred (100) days prior to the beginning of each calendar year during the term of this Supply Agreement,
+BIOMARIN shall place a firm purchase order with DSP, with a copy to be provided to SHIRATORI, for the quantity of the Drug Substance, by units of kilograms, that it wishes to purchase from DSP. Such purchase order shall specify delivery dates and
+quantities and be for at least the lesser of [****]. Within [****] after receipt of a purchase order from BIOMARIN, DSP shall accept the same such portion of the BIOMARIN purchase order as SHIRATORI accepted of the DSP purchase order issued in
+connection with the BIOMARIN purchase order. In addition, BIOMARIN acknowledges that the quantity actually manufactured by SHIRATORI in order to fulfill each delivery of Drug Substance under a purchase order may be between one hundred percent (100%)
+to one hundred and ten percent (110%) of the amount indicated in the firm purchase order and that BIOMARIN agrees to purchase the quantity actually manufactured by SHIRATORI, within the foregoing limitations, regardless of the quantity specified in
+BIOMARIN’s firm purchase order. 
+
+ 3.4
+ Firm Purchase Order from DSP to SHIRATORI. Immediately upon receipt of a purchase order for Drug Substance from BIOMARIN, DSP shall place a firm purchase order with
+SHIRATORI for the purchase of the Drug Substance, which purchase order shall be identical as to amount of Drug Substance and timing of deliveries as the purchase orders placed by BIOMARIN with DSP. Within [****] after receipt of a purchase order
+from DSP, SHIRATORI shall accept such portion of the DSP purchase order as it deems appropriate, provided that SHIRATORI shall be obligated to accept [****]. SHIRATORI shall provide BIOMARIN with confirmation of its acceptance, or partial
+acceptance, of the DSP purchase order at the same time it accepts the DSP purchase order. DSP acknowledges that quantity actually manufactured by SHIRATORI in order to fulfill each delivery of Drug Substance under a purchase order may be between one
+hundred percent (100%) to one hundred and ten percent (110%) of the amount indicated in the purchase order and that DSP agrees to purchase the quantity actually manufactured by SHIRATORI, within the foregoing limitations, regardless of the quantity
+specified in DSP’s firm purchase order. 
+
+4 
+
+Execution Copy 
+
+ 3.5
+ Initial Supply of the Drug Substance. It is expressly understood that the current manufacturing capacity of SHIRATORI for the Drug Substance is [****] and that it
+would require SHIRATORI to make significant investments to its manufacturing facilities in order to supply BIOMARIN the Drug Substance exceeding the quantity of [****]. Therefore, notwithstanding Section 3.3 (Firm Purchase Order from BIOMARIN to
+DSP), the first firm purchase order shall be for [****] and shall be placed with DSP at least [****] prior to the scheduled delivery date. SHIRATORI shall make commercially reasonable efforts to supply BIOMARIN such [****] by such scheduled delivery
+date, provided, however, that BIOMARIN understands that the lead time for such supply is extremely tight, therefore, in the event of a possible delay of such delivery despite such commercially reasonable efforts by
+SHIRATORI, SHIRATORI and BIOMARIN shall discuss on an alternate delivery date. 
+
+The purchase price for such Drug Substance shall be [****]; provided that such price shall be reduced to the amounts specified in Section 3.6 (Supply Price of Drug Substance) if prior to the delivery
+date for such first order, BIOMARIN has placed a firm order for at least an additional [****] Drug Substance for delivery [****] as the Drug Substance ordered in the first purchase order; provided further, that if delivery of [****]
+occur prior to approval of the Drug Product for commercial sale in either the U.S. or E.U., then the total price shall be adjusted upwards by a pre-approval premium of [****]. In the event that such approval is subsequently obtained in either
+jurisdiction, the pre-approval premium will be refunded to BIOMARIN within [****] after receipt of such approval. 
+
+ 3.6
+ Supply Price of the Drug Substance. The supply price (Ex Works SHIRATORI’s manufacturing facility) of the Drug Substance from DSP to BIOMARIN for commercial use
+shall be as follows; 
+
+i ) In the
+event total purchases for a year [****] 
+
+ii)
+In the event total purchases for a year [****] 
+
+iii) In the event total purchases for a year exceed [****] 
+
+iv) In the event total purchases for a year exceed [****] 
+
+v) In the event total purchases for a year exceed [****] 
+
+5 
+
+Execution Copy 
+
+The supply price of the Drug Substance from DSP to BIOMARIN on the total purchases less than or equal
+to [****] will be agreed separately by the Parties. 
+
+ 3.7
+ Payment Procedures from BIOMARIIN to DSP. BIOMARIN’s payment to DSP for the Drug Substance supplied by DSP shall be due by wire transfer to a bank account
+designated by DSP in Japanese yen within [****] after the date of the bill of lading for such Drug Substance to BIOMARIN. For the avoidance of doubt, the payment amount to be made by BIOMARIN to DSP for the Drug Substance supplied by DSP shall be
+calculated as follows: 
+
+If the Drug Substance
+supplied by DSP to BIOMARIN was [****], the payment amounts shall be [****] 
+
+ 3.8
+ Payment Procedures from DSP to SHIRATORI. DSP’s payment to SHIRATORI for the Drug Substance supplied by SHIRATORI shall be due within [****] from the date of
+acceptance of the payment by DSP from BIOMARIN stipulated in Section 3.6. 
+
+ 3.9
+ Exclusivity of Supply Arrangement. DSP and SHIRATORI each agree that it will not, either directly or indirectly, market or sell Drug Substance or Drug Product for use
+in treating Genetic Disorders, as defined in the License Agreement, any where in the Territory but excluding the supply of the Drug Substance to BIOMARIN under this Supply Agreement. 
+
+Article 4.0 DELIVERY OF THE DRUG SUBSTANCE 
+
+ 4.1
+ DSP shall have SHIRATORI deliver each consignment of the Drug Substance Ex Works (Incoterms 2000) SHIRATORI’s manufacturing facility. 
+
+ 4.2
+ It is agreed between the Parties that, the title of each consignment of the Drug Substance shall pass from DSP to BIOMARIN upon the delivery of the Drug Substance stipulated
+in Section 4.1. The title of each such consignment of the Drug Substance from SHIRATORI shall be deemed to pass to DSP upon the delivery of the Drug Substance to BIOMAIN stipulated in Section 4.1. 
+
+Article 5.0 SPECIFICATIONS AND CLAIMS FOR DEFECTS 
+
+ 5.1
+ After the receipt of each shipment of the Drug Substance, BIOMARIN shall promptly carry out the inspection and testing of the Drug Substance. A shipment of Drug Substance is
+to be considered to comply with the Specifications if BIOMARIN does not notify DSP or SHIRATORI of any objections within [****] after the delivery of such shipment to BIOMARIN and receipt by BIOMARIN of the Certificate of Analysis for such shipment.
+
+6 
+
+Execution Copy 
+
+ 5.2
+ In the event that BIOMARIN notifies DSP or SHIRATORI within [****] after the delivery of such shipment to BIOMARIN that such consignment does not comply with the
+Specifications and has presented to DSP or SHIRATORI evidence proving such defect, SHIRATORI shall use its best efforts to replace such Drug Substance with a new Drug Substance promptly after resolving such defect, if any, without additional charge.
+However, BIOMARIN shall not return the said Drug Substance without the prior consent of DSP or SHIRATORI. 
+
+Article 6.0 INSPECTION OF SHIRATORI FACILITY 
+
+ 6.1
+ BIOMARIN shall have the right to visit and audit any SHIRATORI facility, or agent or subcontractor of SHIRATORI, that manufactures or stores the Drug Substance or any
+component thereof, in order to reasonably inspect whether the conditions of manufacturing control and quality control of the Drug Substance conform with the Applicable Laws in the Territory and the terms of this Supply Agreement. Such inspection
+shall be carried out on mutually convenient time on normal business time. The out of pocket costs of such inspection and audit shall be borne by BIOMARIN, unless such inspection and audit determines that SHIRATORI is in material violation of the
+Applicable Law, in which case, the out of pocket costs shall be borne by SHIRATORI. 
+
+ 6.2
+ In the event that any Regulatory Authority wishes to inspect SHIRATORI’s facilities in connection with the manufacture of Drug Substance, SHIRATORI shall use its best
+efforts to co-operate with such requests and shall take such actions as may be prudent or commercially reasonable to prepare for such inspections, all at its own expense. SHIRATORI will use its best efforts to resolve any issues, deficiencies or
+violations identified in any such inspection as soon as practicable and at SHIRATORI’s expense. 
+
+Article 7.0 [Intentionally Omitted] 
+
+Article 8.0 SECRECY 
+
+ 8.1
+ Secrecy. Each Party shall keep secret and confidential any information and data of each other Party received from the disclosing Party under this Supply Agreement
+(hereinafter referred to as “Confidential Information”) and shall not use such Confidential Information for any purpose other than for the purposes permitted in this Supply Agreement, except as otherwise expressly authorized herein,
+provided, however, that the obligations of confidentiality hereunder shall apply only to information which has been disclosed, reduced to writing within thirty (30) days from the date of disclosure and designated as
+“confidential”. Further, a Party shall have no obligation to maintain the secrecy of Confidential Information which: 
+
+i ) at the time of disclosure by the disclosing Party is in the public domain; 
+
+7 
+
+Execution Copy 
+
+ii) after disclosure by the disclosing Party enters the public domain through no
+improper conduct of the receiving Party; 
+
+iii)
+prior to disclosure by the disclosing Party was already in the possession of the receiving Party as evidenced by the receiving Party’s written records; 
+
+iv) subsequent to disclosure hereunder is obtained by the receiving Party from third parties who are lawfully in possession of such
+information and data and are not subject to an obligation to refrain from disclosing such information and data to others; and 
+
+v) is required to be revealed under compulsion of law, provided that, to the extent permitted by Applicable Law, the Party
+under a legal compulsion to disclose the Confidential Information provides the other Party sufficient prior notice of the disclosure, so that such other Party shall have an opportunity to take whatever action it deems necessary or desirable to
+protect its Confidential Information. 
+
+ 8.2
+ Exceptions. Notwithstanding the provisions of the preceding Section, a Party shall be entitled to disclose Confidential Information for the purpose of implementing
+this Supply Agreement to any of the following: 
+
+i) with respect to a Party, its Affiliates, licensees, sub-licensees, and their respective employees, agents, consultants, subcontractors and other representatives who have a need to know, provided that
+the recipients have been informed of and are bound to the secrecy obligations of this Supply Agreement; or 
+
+ii) Regulatory Authorities that have been advised of the confidential status of the Confidential Information, provided all necessary
+procedures are followed to preserve confidentiality. 
+
+ 8.3
+ Survivorship. The obligations in this Article shall survive for a period of ten (10) years after the expiration or termination of this Supply Agreement.
+
+Article 9.0 REPRESENTATIONS, WARRANTIES, AND COVENANTS
+
+ 9.1
+ Corporate Power. Each Party hereby represents, warrants and covenants that, as of the Effective Date, such Party is duly organized, validly existing under the laws of
+its state or country of incorporation and has full corporate power and authority to enter into this Supply Agreement and carry out the provisions hereof. 
+
+ 9.2
+ Due Authorization. Each Party hereby represents and warrants that, as of the Effective Date, such Party is duly authorized to execute and deliver this Supply Agreement
+and to perform its obligations hereunder. 
+
+8 
+
+Execution Copy 
+
+ 9.3
+ Binding Obligations/No Conflict. Each Party hereby represents, warrants and covenants that, as of the Effective Date: (a) this Supply Agreement is legal and valid
+obligation binding upon it and is enforceable in accordance with its terms, subject to the effect of any applicable bankruptcy, insolvency, reorganization, moratorium or similar laws now or hereinafter in effect relating to creditors’ rights
+generally or to general principles of equity; and (b) the execution, delivery and performance of this Supply Agreement by such Party does not, and will not during the term of this Supply Agreement, conflict with any agreement, instrument or
+understanding to which it is a party or by which it is bound, nor to the best knowledge of each Party as of the Effective Date will such execution, delivery and performance violate any Applicable Laws. 
+
+ 9.4
+ SHIRATORI’s Cooperation with DSP’s Obligations Under License Agreement. SHIRATORI hereby covenants that it will provide DSP with such cooperation as DSP or
+BIOMARIN may request to allow DSP to comply with the terms of the License Agreement and to perform the activities and disclosures contemplated thereby and SHIRATORI consents to the disclosure of all information, and the license of such information,
+as contemplated by the License Agreement. Without limiting the foregoing, and by way of example, SHIRATORI shall provide all cooperation, documentation and information and shall execute such consents or other documents as may be required to permit
+DSP to disclose the Drug Product Patent, Drug Substance Patent, DSP Drug Product Manufacturing Know-How, DSP Drug Substance Manufacturing Know-How (as each such term is defined in the License Agreement), grant the license contemplated in Section 2.1
+of the License Agreement and the license to the DSP Drug Substance Manufacturing Know-How as contemplated in Section 2.3 of the License Agreement, the right to reference the drug master file as contemplated by Article 6 of the License Agreement and
+the disclosure of know-how contemplated in Article 7 of the License Agreement. 
+
+Article 10.0 DURATION AND TERMINATION 
+
+ 10.1
+ Duration. This Supply Agreement shall become effective on the Effective Date and shall, unless sooner terminated as hereinafter provided, continue in full force and
+effect as long as the License Agreement remains effective. 
+
+ 10.2
+ Termination due to Material Breach. In the event of any material breach of this Supply Agreement by any Party, the Party not in breach shall be entitled to dispatch to
+the Party in material breach a demand for correction of such material breach within a stipulated period, which period shall not be less than sixty (60) days following the date of receipt of the written demand. If the Party in material breach as
+aforesaid fails to correct the material breach within the period stipulated in such written notice of demand for correction or such longer period of time mutually agreed to by the Parties, BIOMARIN, in the event of a breach by DSP or SHIRATORI, or
+DSP and SHIRATORI, in the event of a breach by BIOMARIN, shall have the unconditional right and option to terminate this Supply Agreement in its entirety, or in part with respect to such country in the Territory only, immediately upon giving to the
+Party in material breach written notice of such termination. Notwithstanding the foregoing, the cure period shall be extended so long as is reasonably necessary to cure such breach conditioned on the breaching Party continuing to use its best
+efforts to pursue such cure. 
+
+9 
+
+Execution Copy 
+
+ 10.3
+ Other Cases for Termination. Any Party shall have the right and option to terminate this Supply Agreement immediately at any time, by notice in writing to the other
+Parties in the event that such other Party: 
+
+i ) passes any resolution for or permits any proceedings for its winding up; or 
+
+ii) makes a general assignment for the benefit of creditors; or 
+
+iii) has filed against it or files a petition in bankruptcy or insolvency or is declared bankrupt or
+insolvent or declares that it is bankrupt or insolvent; or 
+
+iv) has filed against it or files any petition or answer seeking reorganization, readjustment, or arrangement of its business or debts and such action remains undismissed or unstayed for a period of more than sixty
+(60) days. 
+
+Article 11.0 EFFECT OF TERMINATION BY SHIRATORI OR DSP
+
+If this Supply Agreement is terminated by DSP or SHIRATORI due to
+BIOMARIN triggering the provisions of Sections 10.2 (Termination due to Material Breach) or 10.3 (Other Cases for Termination), DSP or SHIRATORI shall have the right to repurchase the Drug Substance then in stock by BIOMARIN in substantially the
+same condition as when supplied by DSP to BIOMARIN. 
+
+Article 12.0 HOLD
+HARMLESS AND INSURANCE 
+
+ 12.1
+ Hold Harmless by BIOMARIN. BIOMARIN shall indemnify, defend and hold DSP, DSP’s Affiliates, SHIRATORI, and their respective officers, directors, employees,
+partners and agents (hereinafter referred to as “DSP Indemnitees”) harmless from and against any and all liability, damages, cost or expenses (including reasonable attorneys’ fees and disbursements) (hereinafter referred to as
+“Damages”) incurred as a result of any claim made or suit brought by a third party against a DSP Indemnitee arising out of (i) the development, manufacture of the Drug Substance by BIOMARIN, and manufacture, sale, or use of Drug
+Product by BIOMARIN or (ii) a breach of this Supply Agreement by BIOMARIN, in each case except to the extent that such liability, damages, costs or expenses are caused by (a) DSP Indemnitees’ failure to supply Drug Substance that conforms with
+the Specifications or that is made in compliance with cGMP or (b) the negligence or intentional misconduct or breach of this Supply Agreement by the DSP Indemnitee. Upon receipt of any such claim or suit by any of the DSP Indemnitees, DSP or such
+DSP Indemnitees shall promptly notify BIOMARIN in writing of such claim or suit and shall permit BIOMARIN to defend against and control the defense of such claim or suit, provided that BIOMARIN shall not compromise or settle such claim
+or suit without the written approval of DSP or such DSP Indemnitee, and DSP and such DSP Indemnitee shall have the right to participate in the defense of such claim or suit at its own expense. DSP or any DSP Indemnitee shall not compromise or settle
+such claim or suit without the prior written approval of BIOMARIN. 
+
+10 
+
+Execution Copy 
+
+ 12.2
+ Hold Harmless by DSP and SHIRATORI. DSP and SHIRATORI shall each shall indemnify, defend and hold BIOMARIN and BIOMARIN’s Affiliates and their respective
+officers, directors, employees, partners and agents (hereinafter referred to as “BIOMARIN Indemnitees”) harmless from and against any Damages incurred as a result of any claim made or suit brought by a Third Party against a BIOMARIN
+Indemnitee arising out of (i) DSP’s or SHIRATORI’s manufacture and/or sale of Drug Substance supplied to BIOMARIN that does not conform to its mutually agreed specifications or that was not made in compliance with cGMP or (ii) a breach of
+this Supply Agreement by DSP or SHIRATORI, in each case except to the extent that such liability, damages, costs or expenses are caused by the negligence or intentional misconduct or breach of covenant in this Supply Agreement by the BIOMARIN
+Indemnitee. Upon receipt of any such claim or suit by any of the BIOMARIN Indemnitees, BIOMARIN or such BIOMARIN Indemnitees shall promptly notify DSP in writing of such claim or suit and shall permit DSP to defend against and control the defense of
+such claim or suit, provided that DSP shall not compromise or settle such claim or suit without the written approval of BIOMARIN or such BIOMARIN Indemnitee and BIOMARIN and such BIOMARIN Indemnitee shall have the right to participate
+in the defense of such claim or suit at its own expense. BIOMARIN or any BIOMARIN Indemnitee shall not compromise or settle such claim or suit without the prior written approval of DSP. 
+
+ 12.3
+ Hold Harmless by SHIRATORI. Other than the indemnification by SHIRATORI as stipulated in Section 12.2 (Hold Harmless by DSP and SHIRATORI), SHIRATORI shall indemnify,
+defend and hold the DSP Indemnitees (but excluding SHIRATORI) harmless from and against any Damages incurred as a result of any claim made or suit brought by a Third Party or BIOMARIN against such DSP Indemnitee arising out of (i) SHIRATORI’s
+manufacture and/or sale of Drug Substance supplied to BIOMARIN that does not conform to the Specifications or that was not made in compliance with cGMP or (ii) a breach of this Supply Agreement by SHIRATORI, in each case except to the extent that
+such liability, damages, costs or expenses are caused by the negligence or intentional misconduct or breach of covenant in this Supply Agreement by such DSP Indemnitee. Upon receipt of any such claim or suit by any such DSP Indemnitee, such DSP
+Indemnitee shall promptly notify SHIRATORI in writing of such claim or suit and shall permit SHIRATORI to defend against and control the defense of such claim or suit, provided that SHIRATORI shall not compromise or settle such claim
+or suit without the written approval of such DSP Indemnitee, and such DSP Indemnitee shall have the right to participate in the defense of such claim or suit at its own expense. Such DSP Indemnitee shall not compromise or settle such claim or suit
+without the prior written approval of SHIRATORI. 
+
+ 12.4
+ Insurance. SHIRATORI shall, at its sole cost and expense, obtain and keep in force during the term of this Supply Agreement the following insurance: general liability
+insurance, including product liability insurance, with bodily injury, death and property damage limits of $10,000,000 per occurrence and $10,000,000 in the aggregate. 
+
+11 
+
+Execution Copy 
+
+With respect to DSP, DSP has already bought, and will obtain and keep in force, during the term of
+the License Agreement, the following insurance, under the License Agreement: general liability insurance, including product liability insurance, with bodily injury, death and property damage limits of $10,000,000 per occurrence and $10,000,000 in
+the aggregate. 
+
+With respect to BIOMARIN, BIOMARIN has already
+bought and will obtain and keep in force, during the term of the License Agreement, the following insurance, under the License Agreement: (i) general liability insurance, including product liability insurance, with bodily injury, death and property
+damage limits of $10,000,000 per occurrence and $10,000,000 in the aggregate; and (ii) clinical studies and product liability insurance with bodily injury, death and property damage limits of not less than $10,000,000 per occurrence and $10,000,000
+in the aggregate. 
+
+After execution of this Supply Agreement,
+and upon the other Party’s request thereafter, each Party shall furnish the other with a certificate of insurance signed by an authorized representative of such Party’s insurance underwriter evidencing the insurance coverage required by
+this Supply Agreement or the License Agreement and providing for at least thirty (30) days prior written notice to the other Party of any cancellation, termination, or reduction of such insurance coverage. 
+
+Article 13.0 DEBARMENT 
+
+During the term of this Supply Agreement, none of the Parties shall knowingly use any
+employee, representative, agent, assistant or associate who has been debarred by the FDA pursuant to 21 U.S.C. Section 335 (a) or (b) in connection with any of the activities to be carried out under this Supply Agreement. DSP and SHIRATORI further
+each represent and warrant that, as of the Effective Date, to the best of its knowledge, none of the entities, laboratories or clinical sites participating in any pre-clinical or clinical studies prior to the Effective Date has been disbarred.
+
+Article 14.0 FORCE MAJEURE 
+
+No Party shall be liable to any other Party for any losses or damages attributable to a
+default in or breach of this Supply Agreement which is the result of war (whether declared or undeclared), acts of terrorism, acts of God, revolution, strike, fire, earthquake, flood, pestilence, other natural disasters, riot, enactment or change of
+laws and regulations, accident(s), labor trouble, or shortage of or any other cause beyond reasonable control of such Party. The performance of obligations hereunder shall be suspended during, but no longer than, the existence of such cause
+mentioned in this Article. In the event that a cause mentioned in this Article prevents or will prevent implementation of this Supply Agreement for more than six (6) months, the Parties shall renegotiate the terms and conditions of this Supply
+Agreement. 
+
+Article 15.0 NON-WAIVER 
+
+A Party’s failure to exercise and or delay in exercising, any right, remedy, power or
+privilege hereunder, shall not operate as a waiver thereof; nor shall any single or partial exercise of any right, remedy, power or privilege hereunder preclude any other or further exercise thereof or the exercise of any other right, remedy, power
+or privilege. 
+
+12 
+
+Execution Copy 
+
+Article 16.0 MODIFICATION 
+
+No modification, extension, or waiver of any provision of this Supply Agreement shall be valid unless the same is in writing signed by the
+duly authorized officers of all of the Parties hereto. 
+
+Article 17.0
+ASSIGNMENT 
+
+Any right and obligation hereunder is personal to the
+Parties hereto, and, other than as contemplated below, shall not be assigned or otherwise transferred to a third party by either Party without the prior written consent of the other Party, which shall not be unreasonably withheld. In case any Party
+(the “Merged Party”) is merged into or acquired by a third party, the Merged Party shall require such surviving or acquiring party (hereinafter referred to as the “Acquiring Party”) to agree with the other Parties
+to perform and comply with all of the rights and obligations of the Merged Party under this Supply Agreement. In case such agreement is not obtained, BIOMARIN on the one hand for a merger or acquisition of DSP or SHIRATORI, or DSP or SHIRATORI on
+the other hand for a merger or acquisition of BIOMARIN, shall have the right and option to terminate this Supply Agreement immediately at any time within sixty (60) days after such merger or acquisition becomes effective, by notice in writing to the
+Merged Party. 
+
+Article 18.0 APPLICABLE LAW 
+
+This Supply Agreement shall be governed by and construed in accordance with the laws of
+Japan. 
+
+Article 19.0 DISCLAIMER 
+
+EXCEPT AS OTHERWISE EXPRESSLY SET FORTH IN THIS SUPPLY AGREEMENT, NEITHER PARTY MAKES ANY
+REPRESENTATIONS OR EXTENDS ANY WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. 
+
+Article 20.0 CONSEQUENTIAL DAMAGES 
+
+Except with regard to each Party’s obligation to indemnify the other Parties for
+indemnification liability to a third party under Sections 12.1 and 12.2, no Party will be liable for any special, consequential, indirect, incidental or punitive damages, under any cause of action, whether under any contract, negligence, strict
+liability or other legal or equitable theory, with respect to any subject matter of this Supply Agreement and whether or not such Party or its agents have been advised of the possibility of such damage. This limitation shall apply notwithstanding
+any failure of essential purpose of any limited remedy provided herein. 
+
+13 
+
+Execution Copy 
+
+Article 21.0 ACCRUED OBLIGATION 
+
+Termination of this Supply Agreement for any reason shall not release any Party hereto from any liability which at the time of such
+termination has already accrued to any other Parties or which is attributable to a period prior to such termination, nor preclude any Party from pursuing all rights and remedies it may have hereunder or at law or in equity with respect to any breach
+of this Supply Agreement. 
+
+Article 22.0 INDEPENDENT CONTRACTOR
+
+The relationship between DSP, BIOMARIN and SHIRATORI is that of
+independent contractors. DSP, BIOMARIN and SHIRATORI are not joint ventureers, partners, principal and agent, employer and employee, and have no other relationship other than independent contracting Parties. No Party shall have the authority to make
+any statements, representations or commitments of any kind, or to take any action, which shall be binding on any other Party, without the prior written consent of such other Party. 
+
+Article 23.0 SEVERABILITY 
+
+In the event that any one or more of the provisions of this Supply Agreement should for any reason be held by the competent authorities to be invalid, illegal or
+unenforceable, to the extent practicable such provision or provisions shall be reformed or renegotiated to as nearly approximate the original reasonable intent of the Parties as possible and the validity, legality or enforceability of the remaining
+provisions shall in no way be affected or impaired thereby. 
+
+Article 24.0
+DISPUTE RESOLUITON 
+
+The Parties shall endeavor to resolve all
+conflicts and disputes arising out of or in any way in connection with this Supply Agreement amicably between themselves. In the event the Parties are unable to resolve any such conflict or dispute between themselves, any such conflict or dispute
+shall be finally settled by arbitration in accordance with the Commercial Arbitration Rules of Japan Commercial Arbitration Association. The arbitration shall take place in Tokyo, Japan. Notwithstanding the foregoing, any Party may file suit in any
+court of competent jurisdiction solely for the purpose of seeking injunctive or other equitable relief during the pendency of any arbitration proceeding. 
+
+Article 25.0 MISCELLANEOUS 
+
+ 25.1
+ Captions. The captions of Articles and Sections in this Supply Agreement are for convenience only, and this Supply Agreement shall not be construed or interpreted by
+reference to such captions. 
+
+ 25.2
+ Survivorship. In the event of expiration or any termination of this Supply Agreement, the following articles and sections shall survive: Articles 8 (Secrecy); 11
+(Effect of Termination by SHIRATORI or DSP); 12 (Hold Harmless and Insurance); 20 (Consequential Damages); 24 (Dispute Resolution); Sections 9.4 (SHIRATORI’s Cooperation with DSP’s Obligations Under License Agreement); and 25.2
+(Survivorship). 
+
+14 
+
+Execution Copy 
+
+ 25.3
+ Notice. All notices, given by one Party hereto to the other hereunder shall be in writing and made by registered or certified air mail, facsimile, express overnight
+courier or delivered personally to the following addresses of the respective Parties: 
+
+If to DSP:
+
+ Daiichi Suntory Pharma Co., Ltd.
+
+ General Manager,
+
+ Business Planning & Development Dept.
+
+ 7-2, Kojimachi 5-chome, Chiyoda-ku
+
+ Tokyo 102-8530, Japan
+
+ Facsimile Number: +81-3-5210-5068
+
+If to SHIRATORI:
+
+ Shiratori Pharmaceutical, Co. Ltd.
+
+ General Manager,
+
+ Sales and Development Division
+
+ 2-3-7 Akanehama, Narashino City
+
+ Chiba 275-0024, Japan
+
+ Facsimile Number: +81-47-453-3170
+
+If to BIOMARIN:
+
+ BioMarin Pharmaceutical Inc.
+
+ 371 Bel Marin Keys Blvd., Suite 210
+
+ Novato, CA 94949
+
+ ATTN: Emil Kakkis, Senior Vice President
+
+ Facsimile Number: (415) 382-7889
+
+The notice, unless
+otherwise provided, shall be deemed to be effective: (a) upon receipt if personally delivered or by facsimile with evidence of transmission; (b) on the tenth (10th) business day following the date of mailing if sent by registered or certified air
+mail; or (c) on the second business day following the date of transmission or delivery to the overnight courier if sent overnight courier. A Party may change its address listed above by sending notice to each other Party. 
+
+ 25.4
+ Publicity. No Party, without the prior written approval of each other Party, shall originate any publicity, news release or public announcement, written or oral,
+whether to the public press, stockholders or otherwise, relating to this Supply Agreement, including its existence, the subject matter to which it relates, performance under it or any of its terms, to any amendment hereto or performance hereunder,
+(herein referred to as an “Announcement”) except for such an Announcement which is required by law to be made, as determined by counsel for the Party making such Announcement. A Party will give the other Party at least ten (10)
+business days’ advance written notice of the text of any proposed Announcement, unless circumstances require that the Announcement be released sooner, so that the other Parties will have an opportunity to comment upon the Announcement.
+
+ 25.5
+ Execution in Counterparts. This Supply Agreement may be executed in any number of counterparts, each of which shall be deemed an original but all of which together
+shall constitute one and the same instrument. 
+
+15 
+
+Execution Copy 
+
+IN WITNESS WHEREOF, the Parties hereto have caused this Supply Agreement to be executed by their duly
+authorized representatives upon the date first above written in duplicated original, one (1) original to be retained by each Party hereto. 
+
+ DAIICHI SUNTORY PHARMA CO., LTD.
+ 
+ BIOMARIN PHARMACEUTICAL INC.
+
+/s/ George Nakayama
+
+/s/ Fredric D. Price
+
+Name:
+
+ George Nakayama
+ 
+ Name:
+ 
+ Fredric D. Price
+
+Title:
+
+ President
+ 
+ Title:
+ 
+ Chairman and Chief Executive Officer
+
+Date:
+
+ 8/17/2004
+ 
+ Date:
+ 
+ 8/10/04
+
+ SHIRATORI PHARMACEUTICAL CO., LTD.
+
+/s/ Yutaka Shiratori
+
+Name:
+
+ Yutaka Shiratori
+
+Title:
+
+ President
+
+Date:
+
+ 8/17/2004
+
+16 
+
+Execution Copy 
+
+ANNEX A 
+ 
+SPECIFICATIONS 
+
+[****]
