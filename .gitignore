@@ -1,0 +1,29 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# 에디터
+.vscode/
+.idea/
+*.swp
+
+# Python (구현 착수 후)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# Node
+node_modules/
+
+# 환경 변수 — 절대 커밋 금지
+.env
+.env.*
+!.env.example
+
+# 로컬 산출물
+*.log
+/tmp/
+/scratch/

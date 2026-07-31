@@ -1,0 +1,285 @@
+schema_version: aithor-agent-workflow/v1
+name: kb-payee-guard
+version: 3.1.0
+purpose: >
+  해외송금 신청 시 법정 제출 계약서를 읽어, 수취계좌 개설국·결제방식이 계약과 어긋나면
+  사람이 확인하기 전까지 송금을 보류한다.
+runtime: AITHOR-Agent-Framework
+primary_challenge: "제8회 Future Finance AI Challenge — 현직자 Pick #6 수출입 금융 지원 에이전트"
+compliance_pack: trade-remittance
+
+# ─────────────────────────────────────────────────────────────
+# v3 설계 축 전환 (docs/02_기술명세서.md §1.2)
+#   v2: 과거 송금 계좌 이력 대조 (은행 내부 DB 의존)
+#   v3: 법정 제출 계약서 ↔ 송금 정보 대조 (내부 API 의존 0)
+#   전환 이유: 정당한 계좌 변경도 신규 계좌다. S1만으로는 구분 불가.
+#             계약서와의 불일치는 문서로 증명되는 사실이다.
+#
+# 🔴 v3.1 정정 (docs/02_기술명세서.md §4.2-bis · §4.4)
+#   결함 A  v3.0은 R7·R8이 S1을 참조했으나 입력 스키마에 이력 필드가 없었다
+#           → 두 규칙이 영영 침묵 (dead rule). payee_history 복원으로 해소.
+#   결함 B  최빈 BEC(같은 국가·같은 이름·같은 결제조건, 계좌만 교체)에서
+#           S9·S10·S11이 전부 불발 → 게이트 전체 침묵.
+#   해소    S16 ACCOUNT_INSTRUCTION_PROVENANCE 신설.
+#           계약서 §Notices·§Amendment는 체결 시점에 확정되어 사기범이 사후에
+#           바꿀 수 없다. "이 계좌 지시가 계약이 정한 경로로 왔는가"를 묻는다.
+#   가드    dead rule 테스트 — 모든 규칙은 도달 가능한 입력을 가져야 한다 (§11.3)
+#
+# 불변식 (§1.4)
+#   INV-1 판정 엔진 외부 호출 금지
+#   INV-2 승인 없이 송금 통과 불가
+#   INV-3 승인 1회용 + 건·계좌 결박
+#   INV-4 trace_id 전파
+#   INV-5 판정 불가를 통과로 처리 금지
+#   INV-6 LLM은 최종 등급을 정하지 않는다   ← rule_decision.kind 로 강제
+#   INV-7 모델 자가 승인 차단 (AITHOR 런타임)
+#   INV-8 근거 문장의 모든 주장은 문서 근거에 매핑  ← narrative_verify
+# ─────────────────────────────────────────────────────────────
+
+state:
+  trace_id: string
+  case_id: string
+  # 입력 (법정 제출 서류 + 송금 신청)
+  request: object                 # payee_name, payee_id, new_account, amount, remittance_type
+  contract_doc: object            # nullable → UNKNOWN 경로 (INV-5)
+  invoice_doc: object
+  account_instruction: object     # 🎯 필수 (v3.1) — source/channel_detail/document. S16 입력
+  payee_history: list             # 🎯 v3.1 복원 — null=조회실패, []=신규. S1 입력
+  change_request_doc: object      # nullable → L3 스킵
+  # L0
+  redacted_input: object
+  guard_findings: list
+  # L1
+  contract_facts: object          # ContractFacts 스키마
+  extraction_failed: boolean
+  extraction_failure_reason: string
+  # L2
+  reconcile_signals: list         # S9 S10 S11 S12
+  s10_severity: string            # high | medium | none
+  # L2-bis 🎯 S16 (v3.1)
+  provenance_verdict: object      # severity / violated_clause / reason
+  s16_severity: string            # high | medium | none
+  # L3
+  aux_signals: list               # M1 M2 M3 M4 M6 M7 M8 + S1
+  m8_active: boolean              # notice clause 존재 여부
+  s1_active: boolean              # 이력 조회 성공 여부 (신호 정직성)
+  # L4
+  matched_rule: string
+  risk_level: string
+  # L5
+  narrative: string
+  narrative_evidence_map: map
+  # 게이트
+  approval: object
+  gate_result: string
+  audit_events: list
+
+nodes:
+  # ── L0 입력 ───────────────────────────────────────────────
+  - id: intake
+    owner: intake-agent
+    kind: deterministic
+    description: 송금 신청 + 제출 서류를 수집하고 trace_id를 발급한다 (INV-4).
+    outputs: [trace_id, case_id, request, contract_doc, invoice_doc, change_request_doc]
+
+  - id: input_guard
+    owner: security-agent
+    kind: guard
+    adapter: AgentShield.RuntimeGuard
+    description: >
+      PII 마스킹 + 프롬프트 인젝션 검사. 계약서·인보이스·계좌변경 요청 본문은
+      전부 신뢰 불가 입력으로 취급한다 (사기범이 작성했을 수 있음).
+    outputs: [redacted_input, guard_findings]
+
+  # ── L1 계약서 판독 ────────────────────────────────────────
+  - id: contract_extraction
+    owner: document-agent
+    kind: deterministic_or_llm     # LLM 허용 — 추출만
+    output_schema: ContractFacts
+    description: >
+      계약서에서 당사자명·소재국·주소·기재 연락처·결제조건·체결일·계약금액을 추출.
+      🎯 v3.1 추가 (S16 입력, 최우선 정확도 대상):
+         notice_clause / notice_channels      §Notices 가 정한 통지 경로
+         amendment_clause                     §Amendment 원문
+         amendment_clause_requires_written    계약 변경이 서면 합의를 요구하는가
+      각 필드에 evidence_spans(근거 원문 구간) 필수 — 없으면 창작이다 (INV-8).
+      출력 스키마에 판정·점수 필드가 존재하지 않는다 (INV-6).
+      contract_doc == null 또는 추출 필드 전무 → extraction_failed=true (INV-5).
+    outputs: [contract_facts, extraction_failed, extraction_failure_reason]
+
+  # ── L2 대조 (v3 핵심) ─────────────────────────────────────
+  - id: contract_reconcile
+    owner: reconcile-agent
+    kind: deterministic            # 🔴 LLM 금지 — 순수 문서 비교
+    description: >
+      S9  CONTRACT_COUNTRY_MISMATCH  계약 당사자 소재국 != IBAN 국가코드
+                                     (🎯 금감원 전 은행 지시 항목)
+      S10 PAYMENT_TERMS_MISMATCH     계약서 결제조건 != 실제 송금방식
+                                     방향 구분: L/C→T/T = high, T/T→L/C = none
+      S11 BENEFICIARY_NAME_MISMATCH  계약서 당사자명 != 수취인명 (VoP와 중복)
+      S12 AMOUNT_EXCEEDS_CONTRACT    송금액 > 계약금액 (허용 오차 내)
+      IBAN 앞 2자리 = ISO 3166-1 alpha-2 (ISO 13616-1). IBAN 미사용국은 BIC로 대체.
+    outputs: [reconcile_signals, s10_severity]
+
+  # ── L2-bis 🎯 S16 지시 출처 검증 (v3.1 신설 — 판정 축의 중심) ──
+  - id: provenance_check
+    owner: reconcile-agent
+    kind: deterministic            # 🔴 LLM 금지 — 열거형 + 조항 대조
+    description: >
+      S16 ACCOUNT_INSTRUCTION_PROVENANCE
+        "이 계좌 지시가 계약이 정한 경로로 왔는가"
+
+        source in [contract, amendment]           → none
+        amendment_clause_requires_written = true
+          AND source in [email, phone, fax]       → high   (계약 절차 위반)
+        notice_channels 존재 AND source = email
+          channel_detail in notice_channels       → medium (경로는 맞으나 서면 아님)
+          channel_detail not in notice_channels   → high   (계약 미기재 주소)
+        절차 조항 부재                              → medium (판정 근거 약함)
+
+      🎯 왜 이 신호가 중심인가:
+         최빈 BEC(같은 국가·같은 이름·같은 결제조건, 계좌만 교체)에서
+         S9·S10·S11이 전부 불발한다. S16만 발화한다.
+         계약서 §Notices·§Amendment는 체결 시점에 확정되어 사기범이 사후에 못 바꾼다.
+
+      ⚠️ 한계: 계약서에 절차 조항이 없으면 전부 medium (V4 미확인 — §14).
+    outputs: [provenance_verdict, s16_severity]
+
+  # ── L3 보조 신호 ──────────────────────────────────────────
+  - id: aux_deterministic
+    owner: mail-agent
+    kind: deterministic            # 🔴 규칙으로 충분한 것은 규칙으로
+    skip_when: "change_request_doc == null"
+    description: >
+      M1 DOMAIN_LOOKALIKE   계약서 기재 도메인 대비 편집거리·homoglyph·TLD 치환·IDN
+                            (v3: 과거 이력이 아니라 계약서 기준 — 이력 불필요)
+      M2 REPLY_CHAIN_BREAK  In-Reply-To / References 헤더 단절
+      M3 FREEMAIL_SHIFT     기업 도메인 → 무료 메일
+      M4 DISPLAY_SPOOF      표시 이름 동일 · 실제 주소 상이
+    outputs: [aux_signals]
+
+  - id: aux_llm
+    owner: mail-agent
+    kind: deterministic_or_llm     # LLM 허용 — 신호 추출만
+    output_schema: AuxSignalExtraction
+    skip_when: "change_request_doc == null"
+    description: >
+      M6 URGENCY_PRESSURE        압박 맥락 (키워드 매칭은 정상 업무 문장을 다 걸린다)
+      M7 PRETEXT_PATTERN         계좌 변경 사유의 전형성
+      M8 NOTICE_CLAUSE_VIOLATION 계약서 통지 조항 준수 여부 — 규칙으로 불가능
+                                 contract_facts.notice_clause 부재 시 비활성 + 감사 기록
+                                 ⚠️ v3.1: S16이 상위 신호. M8은 change_request 문서가
+                                    제출된 경우의 내용 정황 보강으로만 남는다.
+      S1 NEW_ACCOUNT             payee_history 대조 (v3.1 입력원 복원)
+                                 null=조회실패 → 비활성 + 감사 기록
+                                 []=신규 거래처 → 비활성 ("변경"이 아니다)
+                                 🔴 트리거일 뿐 판별자가 아니다 — 정상 변경도 이력이 없다
+    outputs: [aux_signals, m8_active, s1_active]
+
+  # ── L4 판정 ───────────────────────────────────────────────
+  - id: rule_decision
+    owner: decision-agent
+    kind: deterministic            # 🔴🔴 INV-6 강제 지점 — 여기 LLM을 넣으면 검증 실패
+    description: >
+      규칙 테이블 first-match (v3.1):
+      R1  추출실패          → UNKNOWN
+      R2  S16=high          → BLOCK_PENDING   🎯 최빈 BEC 커버
+      R3  S9                → BLOCK_PENDING
+      R4  S10=high          → BLOCK_PENDING
+      R5  S11               → BLOCK_PENDING
+      R6  M1                → BLOCK_PENDING
+      R7  S16=medium        → HOLD            🎯
+      R8  S10=medium | S12  → HOLD
+      R9  S1 & (M2|M6|M8)   → HOLD
+      R10 S1                → HOLD
+      R11 고위험관할         → NOTICE
+      R0                    → PASS
+
+      🔴 dead rule 금지: 모든 규칙은 도달 가능한 입력을 가져야 한다.
+         v3.0의 R7·R8은 입력 스키마에 이력 필드가 없어 영영 침묵했다.
+         test_no_dead_rules()가 회귀를 차단한다 (docs §11.3).
+    outputs: [matched_rule, risk_level]
+
+  # ── L5 근거 ───────────────────────────────────────────────
+  - id: narrative
+    owner: narrative-agent
+    kind: deterministic_or_llm     # LLM 허용 — 서술만
+    description: >
+      사람이 읽는 근거 문장 생성. "위험도 87%" 금지 — 계약서에 뭐라 적혔고
+      이번 송금은 어떤지를 말한다. 해제 방법과 계약서 기재 연락처를 반드시 포함.
+    outputs: [narrative, narrative_evidence_map]
+
+  - id: narrative_verify
+    owner: verifier-agent
+    kind: deterministic            # 🔴 검증자가 LLM이면 의미 없다
+    description: >
+      narrative_evidence_map 전수 검사 (INV-8). 미매핑 문장 또는
+      contract_facts.evidence_spans에 없는 수치/날짜 발견 시 실패.
+      blocked_claim_patterns 대조.
+    outputs: [audit_events]
+
+  # ── 게이트 ────────────────────────────────────────────────
+  - id: hitl_gate
+    owner: security-agent
+    kind: guard
+    description: >
+      risk_level in [HOLD, BLOCK_PENDING, UNKNOWN] 이면 승인 토큰 없이 통과 불가 (INV-2).
+      승인은 case_id + account_fingerprint + consumed + TTL 로 결박 (INV-3).
+      모델이 스스로 approval_id 를 만들어 넘는 것은 런타임이 차단 (INV-7).
+      확인 채널은 화이트리스트만 — 계약서 기재 연락처 최우선.
+    outputs: [gate_result]
+
+  - id: audit_append
+    owner: audit-agent
+    kind: deterministic
+    adapter: AuditStore.append
+    description: 추출 사실·신호·규칙·등급·승인·게이트 결과를 append-only 기록 (INV-4).
+    outputs: [audit_events]
+
+edges:
+  - [intake, input_guard]
+  - [input_guard, contract_extraction]
+  - [contract_extraction, contract_reconcile]
+  - [contract_reconcile, provenance_check]
+  - [provenance_check, aux_deterministic]
+  - [aux_deterministic, aux_llm]
+  - [aux_llm, rule_decision]
+  - [rule_decision, narrative]
+  - [narrative, narrative_verify]
+  - [narrative_verify, hitl_gate]
+  - [hitl_gate, audit_append]
+
+safety:
+  external_side_effect_tools_allowed: false   # 실제 송금 실행은 이 워크플로우 밖
+  human_review_triggers:
+    - HOLD
+    - BLOCK_PENDING
+    - UNKNOWN
+  approval_channels_allowed:
+    - contract_contact        # 🎯 v3 신설 — 계약 체결 시점에 확정, 사후 변경 불가
+    - registered_phone
+    - in_person
+  approval_channels_blocked:
+    - email_reply             # 사기범이 받는다
+    - phone_in_message        # 사기범 번호다
+  directional_signals:
+    # 안전한 방향의 변경은 경고하지 않는다 (게이트가 꺼지는 것을 막는다)
+    S10:
+      high:   ["LC->TT"]
+      medium: ["LC->DP", "LC->DA", "DA->TT", "DP->TT"]
+      none:   ["TT->LC", "TT->TT", "DP->LC", "DA->LC"]
+  # 🎯 v3.1 — 계좌 지시 출처 등급 (S16)
+  instruction_source_severity:
+    none:   ["contract", "amendment"]          # 계약 문서 자체
+    medium: ["invoice", "portal", "other"]     # 절차 조항 부재 시 기본
+    high:   ["email", "phone", "fax"]          # amendment_clause_requires_written 일 때
+  # ⚠️ 위 등급은 contract_facts의 절차 조항에 따라 재판정된다 (provenance_check 참조).
+  #    조항이 없으면 전부 medium — 이것이 V4 미확인의 실질 영향이다.
+
+maturity:
+  target: pilot
+  evidence:
+    - attack_tests: [T1,T2,T3,T4,T5,T6,T7,T8,T9,T10,T11,T12,T13]
+    - reconcile_matrix_exhaustive: true
+    - narrative_evidence_mapping_check: true
+    - no_performance_claims: true    # 측정하지 않은 수치를 문서에 쓰지 않았다
