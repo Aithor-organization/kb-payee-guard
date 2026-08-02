@@ -1,9 +1,24 @@
 {
+ "extract_failed": [],
  "corpus": "holdout",
  "extractor": "A",
  "n_contracts": 232,
  "detection_rate": 0.1206896551724138,
  "false_positive_rate": 0.0,
+ "tri_state": {
+  "normal": {
+   "stopped": 0,
+   "unknown": 380,
+   "auto_passed": 84,
+   "total": 464
+  },
+  "attack": {
+   "stopped": 84,
+   "unknown": 570,
+   "auto_passed": 42,
+   "total": 696
+  }
+ },
  "attack_blocked": 84,
  "attack_total": 696,
  "normal_passed": 464,

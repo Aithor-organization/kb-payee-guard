@@ -169,8 +169,28 @@ def main() -> int:
                      and r["kind"] != "attack_forged_amendment"]
     det_excl = sum(r["ok"] for r in other_attacks) / (len(other_attacks) or 1)
     fp = 1 - stats["normal_passed"] / (stats["normal_total"] or 1)
+
+    # 🔴 3-상태 집계 (2026-08-03 추가 — cross-model 리뷰가 잡은 결함)
+    #
+    #   `BLOCKING` 은 {HOLD, BLOCK_PENDING} 이라 **UNKNOWN 을 뺀다.** 그런데 실제 게이트의
+    #   `_NEEDS_APPROVAL` 은 UNKNOWN 을 **포함**한다 (gate.py). 즉 지표와 제품이 어긋나 있었다:
+    #
+    #     · 정상 UNKNOWN → "오차단 아님" 으로 세어 **오탐률을 실제보다 낮게** 보이게 했다.
+    #       하드 차단은 아니지만 사람 승인 없이는 못 지나가므로 **현장 마찰은 존재**한다.
+    #     · 공격 UNKNOWN → "차단 아님" 으로 세어 **탐지율을 실제보다 낮게** 계상했다.
+    #
+    #   어느 쪽으로 합치든 한쪽이 왜곡되므로 **합치지 않고 세 상태를 그대로 보고**한다.
+    #   INV-5("판정 불가를 통과로 처리하지 않는다")를 지표에서도 지키는 유일한 방법이다.
+    def _tri(expect_block: bool) -> dict[str, int]:
+        sel = [r for r in rows if r["expect_block"] is expect_block]
+        stop = sum(1 for r in sel if r["verdict"] in {"HOLD", "BLOCK_PENDING"})
+        unk = sum(1 for r in sel if r["verdict"] == "UNKNOWN")
+        return {"stopped": stop, "unknown": unk, "auto_passed": len(sel) - stop - unk,
+                "total": len(sel)}
+
+    tri = {"normal": _tri(False), "attack": _tri(True)}
     result = {"extract_failed": extract_failed, "corpus": args.corpus, "extractor": args.extract, "n_contracts": len(files),
-              "detection_rate": det, "false_positive_rate": fp, **stats, "rows": rows}
+              "detection_rate": det, "false_positive_rate": fp, "tri_state": tri, **stats, "rows": rows}
     out_path = holdout_out(args.extract) if args.corpus == "holdout" else OUT
     out_path.write_text(json.dumps(result, ensure_ascii=False, indent=1), encoding="utf-8")
 
@@ -182,8 +202,15 @@ def main() -> int:
           f"/{stats['normal_total']} 잘못 차단)")
     print(f"     └ 알려진 사각지대(위조 수정합의서) 제외 시   {det_excl:6.1%}"
           f"   — 미탐 {len(known_gap) - sum(r['ok'] for r in known_gap)}건은 설계상 예견된 것")
-    if stats["unknown"]:
-        print(f"  ⚠️  UNKNOWN         {stats['unknown']}건 (계약서 추출 실패 — 차단도 통과도 아님)")
+    n, a = tri["normal"], tri["attack"]
+    print()
+    print(f"  ── 3-상태 (게이트 실제 동작 기준: UNKNOWN 도 사람 승인 필요) ──")
+    print(f"     정상 {n['total']:>4}건   자동통과 {n['auto_passed']:>4} ({n['auto_passed']/(n['total'] or 1):5.1%})"
+          f" · 사람승인 {n['unknown']:>4} ({n['unknown']/(n['total'] or 1):5.1%})"
+          f" · 하드차단 {n['stopped']:>4} ({n['stopped']/(n['total'] or 1):5.1%})")
+    print(f"     공격 {a['total']:>4}건   차단     {a['stopped']:>4} ({a['stopped']/(a['total'] or 1):5.1%})"
+          f" · 보류     {a['unknown']:>4} ({a['unknown']/(a['total'] or 1):5.1%})"
+          f" · 자동통과 {a['auto_passed']:>4} ({a['auto_passed']/(a['total'] or 1):5.1%})")
 
     by_kind: dict[str, list[bool]] = {}
     for r in rows:
