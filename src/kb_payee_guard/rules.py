@@ -68,10 +68,20 @@ _RULES: list[tuple[Rule, object]] = [
      lambda s: s.S16_severity is Severity.MEDIUM),
     (Rule("R8", Verdict.HOLD, "결제조건 변경 또는 계약 금액 초과"),
      lambda s: s.S10_severity is Severity.MEDIUM or s.S12),
-    (Rule("R9", Verdict.HOLD, "신규 계좌 + 보강 신호"),
-     lambda s: s.S1 and (s.M2 or s.M6 or s.M8)),
-    (Rule("R10", Verdict.HOLD, "신규 계좌 (보강 신호 없음)"),
-     lambda s: s.S1),
+    # 🔴 2026-08-02 e2e 측정이 찾은 설계 결함 — S1 단독 차단은 정상 변경을 전부 막는다.
+    #
+    #    구 R10 은 `S1`(신규 계좌)만으로 HOLD 를 냈다. 그 결과 **수정 합의서를 갖춰 계약
+    #    절차를 지킨 정당한 계좌 변경조차 100% 차단**됐고 전체 오탐률이 50% 였다.
+    #    기술명세서 §4.3 은 이미 "S1 은 트리거일 뿐 판별자가 아니다 — 정상 변경도 이력이 없다"
+    #    고 적어두었는데 규칙이 그 원칙을 어기고 있었다. 산문과 코드가 어긋난 자리다.
+    #    → **구 R10 제거.** 이력 부재는 정상 변경의 정의이기도 하므로 단독 차단 근거가 못 된다.
+    #
+    #    R9 는 반대 방향으로 좁혔다: 계좌 지시가 계약서/수정합의서에서 왔더라도(S16=none)
+    #    **함께 제출된 메일이 수상하면**(스레드 단절·긴급성 압박·통지조항 위반 정황) 보류한다.
+    #    "근거 서류는 갖췄는데 정황이 이상한" 구간이고, S16 이 medium 이상이면 R7·R2 가 이미
+    #    잡으므로 여기서 다시 볼 이유가 없다.
+    (Rule("R9", Verdict.HOLD, "계약 근거는 있으나 동봉 메일에 보강 신호 (신규 계좌)"),
+     lambda s: s.S1 and s.S16_severity is Severity.NONE and (s.M2 or s.M6 or s.M8)),
     (Rule("R11", Verdict.NOTICE, "계약서와 일치하나 계좌 개설국이 고위험 관할"),
      lambda s: s.S5),
     (Rule("R0", Verdict.PASS, "계약서와 송금 정보가 일치"),

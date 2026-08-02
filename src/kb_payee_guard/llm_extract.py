@@ -281,6 +281,32 @@ def select_regions(text: str, budget: int = 24_000) -> str:
     return "\n[…]\n".join(text[s:e] for s, e in chosen)
 
 
+def _unwrap_span(v: str) -> str:
+    """근거 구간의 **포장**만 벗긴다 — 내용은 건드리지 않는다.
+
+    🔴 실측(2026-08-02): 모델이 인용을 말줄임표로 감싸 반환한다 —
+       `"...and SIEMENS AKTIENGESELLSCHAFT, a corporation formed under..."`.
+       값(SIEMENS / DE)은 정확한데 앞뒤 `...` 때문에 원문 대조가 실패해
+       **맞는 값이 버려지고 계약서 4건이 통째로 UNKNOWN** 이 됐다.
+
+       따옴표·말줄임표·주변 공백만 벗기고, 남은 본문은 여전히 원문에 **그대로**
+       있어야 통과시킨다. 가드를 느슨하게 하는 것이 아니라 형식 노이즈만 제거하는 것.
+    """
+    s = str(v).strip()
+    for _ in range(3):                              # 중첩된 포장 (예: '"...x..."')
+        before = s
+        s = s.strip().strip("\"'“”‘’").strip()
+        for mark in ("...", "…", "[...]", "[…]"):
+            if s.startswith(mark):
+                s = s[len(mark):]
+            if s.endswith(mark):
+                s = s[: -len(mark)]
+        s = s.strip()
+        if s == before:
+            break
+    return s
+
+
 def _verify_spans(facts_raw: dict[str, Any], text: str) -> tuple[dict[str, str], list[str]]:
     """근거 구간이 실제 원문에 있는지 대조한다. 없으면 창작이므로 해당 필드를 버린다.
 
@@ -293,8 +319,9 @@ def _verify_spans(facts_raw: dict[str, Any], text: str) -> tuple[dict[str, str],
     for k, v in (facts_raw.get("evidence_spans") or {}).items():
         if not v:
             continue
-        if " ".join(str(v).split()).lower() in norm:
-            good[k] = str(v)
+        core = _unwrap_span(v)
+        if core and " ".join(core.split()).lower() in norm:
+            good[k] = core
         else:
             dropped.append(k)
     return good, dropped

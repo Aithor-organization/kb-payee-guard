@@ -184,3 +184,40 @@ class TestInjectionResistance(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main(verbosity=2)
+
+
+class TestSpanUnwrap(unittest.TestCase):
+    """🔴 모델이 인용을 말줄임표로 감싸 반환한다 — 포장 때문에 맞는 값이 버려졌다.
+
+    실측(2026-08-02): `"...and SIEMENS AKTIENGESELLSCHAFT, a corporation formed under..."`
+    값(SIEMENS / DE)은 정확한데 앞뒤 `...` 로 원문 대조가 실패해 **계약서 4건이 통째로
+    UNKNOWN** 이 됐다. 포장만 벗기고 본문은 여전히 원문에 그대로 있어야 통과시킨다.
+    """
+
+    def test_ellipsis_wrapped_span_is_accepted(self):
+        f = LLMExtractor(transport=_stub(_good_payload(evidence_spans={
+            "counterparty_name": "...BAUER GmbH, Stuttgart...",
+            "counterparty_country": "…Stuttgart, Germany…",
+            "payment_terms": None,
+            "amendment_clause": None,
+        }))).extract(CONTRACT)
+        self.assertEqual(f.counterparty_name, "BAUER GmbH")
+        self.assertEqual(f.counterparty_country, "DE")
+
+    def test_quoted_span_is_accepted(self):
+        f = LLMExtractor(transport=_stub(_good_payload(evidence_spans={
+            "counterparty_name": '"BAUER GmbH"',
+            "counterparty_country": "Stuttgart, Germany",
+            "payment_terms": None, "amendment_clause": None,
+        }))).extract(CONTRACT)
+        self.assertEqual(f.counterparty_name, "BAUER GmbH")
+
+    def test_unwrapping_does_not_weaken_the_guard(self):
+        """포장을 벗겨도 **본문이 원문에 없으면** 여전히 버린다."""
+        f = LLMExtractor(transport=_stub(_good_payload(evidence_spans={
+            "counterparty_name": "...Vilnius, Lithuania...",   # 원문에 없다
+            "counterparty_country": "...Vilnius, Lithuania...",
+            "payment_terms": None, "amendment_clause": None,
+        }))).extract(CONTRACT)
+        self.assertIsNone(f.counterparty_country)
+        self.assertIsNone(f.counterparty_name)

@@ -1,0 +1,1213 @@
+{
+ "extractor": "gold",
+ "n_contracts": 30,
+ "detection_rate": 0.6666666666666666,
+ "false_positive_rate": 0.0,
+ "attack_blocked": 60,
+ "attack_total": 90,
+ "normal_passed": 60,
+ "normal_total": 60,
+ "unknown": 0,
+ "rows": [
+  {
+   "file": "cuad-001.txt",
+   "kind": "normal_as_contracted",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-001.txt",
+   "kind": "normal_legit_change",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-001.txt",
+   "kind": "attack_same_country_swap",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-001.txt",
+   "kind": "attack_forged_amendment",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": true,
+   "ok": false
+  },
+  {
+   "file": "cuad-001.txt",
+   "kind": "attack_country_hop",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-002.txt",
+   "kind": "normal_as_contracted",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-002.txt",
+   "kind": "normal_legit_change",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-002.txt",
+   "kind": "attack_same_country_swap",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-002.txt",
+   "kind": "attack_forged_amendment",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": true,
+   "ok": false
+  },
+  {
+   "file": "cuad-002.txt",
+   "kind": "attack_country_hop",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-003.txt",
+   "kind": "normal_as_contracted",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-003.txt",
+   "kind": "normal_legit_change",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-003.txt",
+   "kind": "attack_same_country_swap",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-003.txt",
+   "kind": "attack_forged_amendment",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": true,
+   "ok": false
+  },
+  {
+   "file": "cuad-003.txt",
+   "kind": "attack_country_hop",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-004.txt",
+   "kind": "normal_as_contracted",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-004.txt",
+   "kind": "normal_legit_change",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-004.txt",
+   "kind": "attack_same_country_swap",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-004.txt",
+   "kind": "attack_forged_amendment",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": true,
+   "ok": false
+  },
+  {
+   "file": "cuad-004.txt",
+   "kind": "attack_country_hop",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-006.txt",
+   "kind": "normal_as_contracted",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-006.txt",
+   "kind": "normal_legit_change",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-006.txt",
+   "kind": "attack_same_country_swap",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-006.txt",
+   "kind": "attack_forged_amendment",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": true,
+   "ok": false
+  },
+  {
+   "file": "cuad-006.txt",
+   "kind": "attack_country_hop",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-008.txt",
+   "kind": "normal_as_contracted",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-008.txt",
+   "kind": "normal_legit_change",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-008.txt",
+   "kind": "attack_same_country_swap",
+   "verdict": "HOLD",
+   "rule": "R7",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-008.txt",
+   "kind": "attack_forged_amendment",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": true,
+   "ok": false
+  },
+  {
+   "file": "cuad-008.txt",
+   "kind": "attack_country_hop",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-009.txt",
+   "kind": "normal_as_contracted",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-009.txt",
+   "kind": "normal_legit_change",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-009.txt",
+   "kind": "attack_same_country_swap",
+   "verdict": "HOLD",
+   "rule": "R7",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-009.txt",
+   "kind": "attack_forged_amendment",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": true,
+   "ok": false
+  },
+  {
+   "file": "cuad-009.txt",
+   "kind": "attack_country_hop",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-010.txt",
+   "kind": "normal_as_contracted",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-010.txt",
+   "kind": "normal_legit_change",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-010.txt",
+   "kind": "attack_same_country_swap",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-010.txt",
+   "kind": "attack_forged_amendment",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": true,
+   "ok": false
+  },
+  {
+   "file": "cuad-010.txt",
+   "kind": "attack_country_hop",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-011.txt",
+   "kind": "normal_as_contracted",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-011.txt",
+   "kind": "normal_legit_change",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-011.txt",
+   "kind": "attack_same_country_swap",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-011.txt",
+   "kind": "attack_forged_amendment",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": true,
+   "ok": false
+  },
+  {
+   "file": "cuad-011.txt",
+   "kind": "attack_country_hop",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-012.txt",
+   "kind": "normal_as_contracted",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-012.txt",
+   "kind": "normal_legit_change",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-012.txt",
+   "kind": "attack_same_country_swap",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-012.txt",
+   "kind": "attack_forged_amendment",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": true,
+   "ok": false
+  },
+  {
+   "file": "cuad-012.txt",
+   "kind": "attack_country_hop",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-013.txt",
+   "kind": "normal_as_contracted",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-013.txt",
+   "kind": "normal_legit_change",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-013.txt",
+   "kind": "attack_same_country_swap",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-013.txt",
+   "kind": "attack_forged_amendment",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": true,
+   "ok": false
+  },
+  {
+   "file": "cuad-013.txt",
+   "kind": "attack_country_hop",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-015.txt",
+   "kind": "normal_as_contracted",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-015.txt",
+   "kind": "normal_legit_change",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-015.txt",
+   "kind": "attack_same_country_swap",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-015.txt",
+   "kind": "attack_forged_amendment",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": true,
+   "ok": false
+  },
+  {
+   "file": "cuad-015.txt",
+   "kind": "attack_country_hop",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-019.txt",
+   "kind": "normal_as_contracted",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-019.txt",
+   "kind": "normal_legit_change",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-019.txt",
+   "kind": "attack_same_country_swap",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-019.txt",
+   "kind": "attack_forged_amendment",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": true,
+   "ok": false
+  },
+  {
+   "file": "cuad-019.txt",
+   "kind": "attack_country_hop",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-020.txt",
+   "kind": "normal_as_contracted",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-020.txt",
+   "kind": "normal_legit_change",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-020.txt",
+   "kind": "attack_same_country_swap",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-020.txt",
+   "kind": "attack_forged_amendment",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": true,
+   "ok": false
+  },
+  {
+   "file": "cuad-020.txt",
+   "kind": "attack_country_hop",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-021.txt",
+   "kind": "normal_as_contracted",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-021.txt",
+   "kind": "normal_legit_change",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-021.txt",
+   "kind": "attack_same_country_swap",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-021.txt",
+   "kind": "attack_forged_amendment",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": true,
+   "ok": false
+  },
+  {
+   "file": "cuad-021.txt",
+   "kind": "attack_country_hop",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-022.txt",
+   "kind": "normal_as_contracted",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-022.txt",
+   "kind": "normal_legit_change",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-022.txt",
+   "kind": "attack_same_country_swap",
+   "verdict": "HOLD",
+   "rule": "R7",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-022.txt",
+   "kind": "attack_forged_amendment",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": true,
+   "ok": false
+  },
+  {
+   "file": "cuad-022.txt",
+   "kind": "attack_country_hop",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-024.txt",
+   "kind": "normal_as_contracted",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-024.txt",
+   "kind": "normal_legit_change",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-024.txt",
+   "kind": "attack_same_country_swap",
+   "verdict": "HOLD",
+   "rule": "R7",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-024.txt",
+   "kind": "attack_forged_amendment",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": true,
+   "ok": false
+  },
+  {
+   "file": "cuad-024.txt",
+   "kind": "attack_country_hop",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-025.txt",
+   "kind": "normal_as_contracted",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-025.txt",
+   "kind": "normal_legit_change",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-025.txt",
+   "kind": "attack_same_country_swap",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-025.txt",
+   "kind": "attack_forged_amendment",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": true,
+   "ok": false
+  },
+  {
+   "file": "cuad-025.txt",
+   "kind": "attack_country_hop",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-026.txt",
+   "kind": "normal_as_contracted",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-026.txt",
+   "kind": "normal_legit_change",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-026.txt",
+   "kind": "attack_same_country_swap",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-026.txt",
+   "kind": "attack_forged_amendment",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": true,
+   "ok": false
+  },
+  {
+   "file": "cuad-026.txt",
+   "kind": "attack_country_hop",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-028.txt",
+   "kind": "normal_as_contracted",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-028.txt",
+   "kind": "normal_legit_change",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-028.txt",
+   "kind": "attack_same_country_swap",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-028.txt",
+   "kind": "attack_forged_amendment",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": true,
+   "ok": false
+  },
+  {
+   "file": "cuad-028.txt",
+   "kind": "attack_country_hop",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-029.txt",
+   "kind": "normal_as_contracted",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-029.txt",
+   "kind": "normal_legit_change",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-029.txt",
+   "kind": "attack_same_country_swap",
+   "verdict": "HOLD",
+   "rule": "R7",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-029.txt",
+   "kind": "attack_forged_amendment",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": true,
+   "ok": false
+  },
+  {
+   "file": "cuad-029.txt",
+   "kind": "attack_country_hop",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-030.txt",
+   "kind": "normal_as_contracted",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-030.txt",
+   "kind": "normal_legit_change",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-030.txt",
+   "kind": "attack_same_country_swap",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-030.txt",
+   "kind": "attack_forged_amendment",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": true,
+   "ok": false
+  },
+  {
+   "file": "cuad-030.txt",
+   "kind": "attack_country_hop",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-031.txt",
+   "kind": "normal_as_contracted",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-031.txt",
+   "kind": "normal_legit_change",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-031.txt",
+   "kind": "attack_same_country_swap",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-031.txt",
+   "kind": "attack_forged_amendment",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": true,
+   "ok": false
+  },
+  {
+   "file": "cuad-031.txt",
+   "kind": "attack_country_hop",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-032.txt",
+   "kind": "normal_as_contracted",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-032.txt",
+   "kind": "normal_legit_change",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-032.txt",
+   "kind": "attack_same_country_swap",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-032.txt",
+   "kind": "attack_forged_amendment",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": true,
+   "ok": false
+  },
+  {
+   "file": "cuad-032.txt",
+   "kind": "attack_country_hop",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-033.txt",
+   "kind": "normal_as_contracted",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-033.txt",
+   "kind": "normal_legit_change",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-033.txt",
+   "kind": "attack_same_country_swap",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-033.txt",
+   "kind": "attack_forged_amendment",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": true,
+   "ok": false
+  },
+  {
+   "file": "cuad-033.txt",
+   "kind": "attack_country_hop",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-034.txt",
+   "kind": "normal_as_contracted",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-034.txt",
+   "kind": "normal_legit_change",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-034.txt",
+   "kind": "attack_same_country_swap",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-034.txt",
+   "kind": "attack_forged_amendment",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": true,
+   "ok": false
+  },
+  {
+   "file": "cuad-034.txt",
+   "kind": "attack_country_hop",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-035.txt",
+   "kind": "normal_as_contracted",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-035.txt",
+   "kind": "normal_legit_change",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-035.txt",
+   "kind": "attack_same_country_swap",
+   "verdict": "HOLD",
+   "rule": "R7",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-035.txt",
+   "kind": "attack_forged_amendment",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": true,
+   "ok": false
+  },
+  {
+   "file": "cuad-035.txt",
+   "kind": "attack_country_hop",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-038.txt",
+   "kind": "normal_as_contracted",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-038.txt",
+   "kind": "normal_legit_change",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-038.txt",
+   "kind": "attack_same_country_swap",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-038.txt",
+   "kind": "attack_forged_amendment",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": true,
+   "ok": false
+  },
+  {
+   "file": "cuad-038.txt",
+   "kind": "attack_country_hop",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-039.txt",
+   "kind": "normal_as_contracted",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-039.txt",
+   "kind": "normal_legit_change",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-039.txt",
+   "kind": "attack_same_country_swap",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-039.txt",
+   "kind": "attack_forged_amendment",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": true,
+   "ok": false
+  },
+  {
+   "file": "cuad-039.txt",
+   "kind": "attack_country_hop",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-040.txt",
+   "kind": "normal_as_contracted",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-040.txt",
+   "kind": "normal_legit_change",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": false,
+   "ok": true
+  },
+  {
+   "file": "cuad-040.txt",
+   "kind": "attack_same_country_swap",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  },
+  {
+   "file": "cuad-040.txt",
+   "kind": "attack_forged_amendment",
+   "verdict": "PASS",
+   "rule": "R0",
+   "expect_block": true,
+   "ok": false
+  },
+  {
+   "file": "cuad-040.txt",
+   "kind": "attack_country_hop",
+   "verdict": "BLOCK_PENDING",
+   "rule": "R2",
+   "expect_block": true,
+   "ok": true
+  }
+ ]
+}
