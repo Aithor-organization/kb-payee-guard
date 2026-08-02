@@ -19,6 +19,43 @@
    "total": 696
   }
  },
+ "by_corpus": {
+  "cuad": {
+   "atk_blocked": 18,
+   "atk_total": 138,
+   "atk_excl_blocked": 18,
+   "atk_excl_total": 92,
+   "norm_total": 92,
+   "norm_unknown": 74
+  },
+  "kr": {
+   "atk_blocked": 2,
+   "atk_total": 147,
+   "atk_excl_blocked": 2,
+   "atk_excl_total": 98,
+   "norm_total": 98,
+   "norm_unknown": 96
+  },
+  "sec": {
+   "atk_blocked": 16,
+   "atk_total": 225,
+   "atk_excl_blocked": 16,
+   "atk_excl_total": 150,
+   "norm_total": 150,
+   "norm_unknown": 134
+  },
+  "trade": {
+   "atk_blocked": 48,
+   "atk_total": 186,
+   "atk_excl_blocked": 48,
+   "atk_excl_total": 124,
+   "norm_total": 124,
+   "norm_unknown": 76
+  }
+ },
+ "off_target": [
+  "kr"
+ ],
  "attack_blocked": 84,
  "attack_total": 696,
  "normal_passed": 464,

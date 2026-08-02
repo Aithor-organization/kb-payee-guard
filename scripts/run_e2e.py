@@ -189,8 +189,32 @@ def main() -> int:
                 "total": len(sel)}
 
     tri = {"normal": _tri(False), "attack": _tri(True)}
+
+    # 🔴 코퍼스별 분해 (2026-08-03 추가)
+    #
+    #   holdout 232건은 균질하지 않다. `kr-*` 49건은 국가법령정보센터의 **국내 공사·물품·용역
+    #   조달 표준서식**이라 당사자명 0.0% · L/C·T/T 2.0% · 외화 4.1% 다 — 해외송금 계약이 아니다.
+    #   추출이 null 을 내는 것은 버그가 아니라 **없는 것을 없다고 하는 정확한 동작**이고,
+    #   R1 이 UNKNOWN 을 내는 것도 INV-5 대로다.
+    #
+    #   그래서 평균 하나로 뭉뚱그리면 "국문에서 무너진다" 는 **틀린 진단**이 나온다.
+    #   대상 문서군과 비대상을 나눠 **둘 다** 보고한다 — 낮은 쪽을 숨기지 않기 위해서다.
+    OFF_TARGET = {"kr"}          # 국내 조달 표준서식 — 송금 계약 아님
+    by_corpus: dict[str, dict[str, int]] = {}
+    for r in rows:
+        c = r["file"].split("-")[0]
+        d = by_corpus.setdefault(c, {"atk_blocked": 0, "atk_total": 0, "atk_excl_blocked": 0,
+                                     "atk_excl_total": 0, "norm_total": 0, "norm_unknown": 0})
+        blocked = r["verdict"] in {"HOLD", "BLOCK_PENDING"}
+        if r["expect_block"]:
+            d["atk_total"] += 1; d["atk_blocked"] += blocked
+            if r["kind"] != "attack_forged_amendment":
+                d["atk_excl_total"] += 1; d["atk_excl_blocked"] += blocked
+        else:
+            d["norm_total"] += 1; d["norm_unknown"] += r["verdict"] == "UNKNOWN"
     result = {"extract_failed": extract_failed, "corpus": args.corpus, "extractor": args.extract, "n_contracts": len(files),
-              "detection_rate": det, "false_positive_rate": fp, "tri_state": tri, **stats, "rows": rows}
+              "detection_rate": det, "false_positive_rate": fp, "tri_state": tri,
+              "by_corpus": by_corpus, "off_target": sorted(OFF_TARGET), **stats, "rows": rows}
     out_path = holdout_out(args.extract) if args.corpus == "holdout" else OUT
     out_path.write_text(json.dumps(result, ensure_ascii=False, indent=1), encoding="utf-8")
 
@@ -211,6 +235,22 @@ def main() -> int:
     print(f"     공격 {a['total']:>4}건   차단     {a['stopped']:>4} ({a['stopped']/(a['total'] or 1):5.1%})"
           f" · 보류     {a['unknown']:>4} ({a['unknown']/(a['total'] or 1):5.1%})"
           f" · 자동통과 {a['auto_passed']:>4} ({a['auto_passed']/(a['total'] or 1):5.1%})")
+
+    if len(by_corpus) > 1:
+        print()
+        print("  ── 코퍼스별 (⚠️ = 송금 계약이 아닌 문서군) ──")
+        tb = tt = 0
+        for c, d in sorted(by_corpus.items()):
+            mark = "⚠️" if c in OFF_TARGET else "  "
+            ex = d["atk_excl_blocked"] / (d["atk_excl_total"] or 1)
+            unk = d["norm_unknown"] / (d["norm_total"] or 1)
+            print(f"   {mark} {c:<6} 위조제외 차단 {d['atk_excl_blocked']:>4}/{d['atk_excl_total']:<4} = {ex:>6.1%}"
+                  f"   정상 UNKNOWN {unk:>6.1%}")
+            if c not in OFF_TARGET:
+                tb += d["atk_excl_blocked"]; tt += d["atk_excl_total"]
+        if tt:
+            print(f"      {'대상 문서군만':<12} {tb:>4}/{tt:<4} = {tb/tt:>6.1%}"
+                  f"   ({', '.join(sorted(set(by_corpus) - OFF_TARGET))})")
 
     by_kind: dict[str, list[bool]] = {}
     for r in rows:
