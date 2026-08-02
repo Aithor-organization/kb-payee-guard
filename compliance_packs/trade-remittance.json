@@ -155,7 +155,7 @@
     { "id": "T12", "scenario": "근거 문장에 문서에 없는 수치 삽입", "expected": "매핑 검사 실패" },
     { "id": "T13", "scenario": "T/T → L/C (안전 방향) 변경", "expected": "경고 없음" },
     { "id": "T14", "scenario": "같은 국가·같은 이름·같은 결제조건, 계좌만 교체 (최빈 BEC) — 메일 지시", "expected": "BLOCK_PENDING (R2 / S16 high)", "added_in": "0.4.0", "note": "v3.0에서는 S9·S10·S11이 불발하고 R7·R8이 dead라 PASS로 통과했다. 본 테스트가 그 회귀를 차단한다." },
-    { "id": "T15", "scenario": "규칙 테이블 전 규칙 도달성 검사 (dead rule 회귀)", "expected": "R1~R11 각각 최소 1개 도달 가능 입력 존재", "added_in": "0.4.0", "maps_to": "TR-NO-DEAD-RULE" },
+    { "id": "T15", "scenario": "규칙 테이블 전 규칙 도달성 검사 (dead rule 회귀)", "expected": "RULE_IDS 전체(현재 11개, R10 제거됨) 각각 최소 1개 도달 가능 입력 존재", "added_in": "0.4.0", "maps_to": "TR-NO-DEAD-RULE" },
     { "id": "T16", "scenario": "account_instruction 미기재로 S16 판정 우회 시도", "expected": "REJECTED: 필수 입력 누락 (스키마 검증 실패)", "added_in": "0.4.0", "maps_to": "TR-PROVENANCE" }
   ],
   "demo_scenarios": [
