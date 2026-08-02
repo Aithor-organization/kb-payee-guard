@@ -1,0 +1,376 @@
+EX-10.6 
+
+Exhibit 10.6 
+
+LETTER OF AGREEMENT 
+
+This Letter of Agreement (“LOA”) is made and entered into as of this 12th day of October, 2004,
+between Voltaire LTD., an Israeli corporation having its principal place of business at 9 Hamenofim
+Herzeliva Pituach, Israel 46725, (“Customer”) and Sanmina-SCI Corporation and its wholly owned
+subsidiaries and affiliates, (collectively “Sanmina-SCI”), a Delaware corporation having its
+principal place of business at 2700 North First Street, San Jose, California 95134.
+
+Customer and Sanmina-SCI are presently attempting to establish a business relationship as described
+in Attachment B under which Customer may, among other things, have Sanmina-SCI procure components,
+parts and raw material (collectively “Components”) and manufacture, assemble, test, inspect,
+configure and ship the products listed within Attachment A (“Products”) at the prices set forth
+therein (“Prices”). Prices are based on shipment “ex works” from Sanmina-SCI’s facility of
+manufacture and do not include export licensing of the Product or payment of broker’s fees, duties,
+tariffs or other similar charges, taxes (other than those based on the net income of Sanmina-SCI)
+or setup, tooling or NRE charges.
+
+This LOA is for the purpose of authorizing Sanmina-SCI to begin work immediately in lieu of the
+fully negotiated Agreement. This LOA implies no commitment to enter the Agreement. Both parties
+acknowledge that the execution of an Agreement is contingent upon the mutual consent of the parties
+and that should the Agreement not be executed, the terms of this LOA shall be the sole governing
+document.
+
+Customer shall issue Purchase Orders for the Product and may provide Sanmina-SCI with a forecast
+for future requirements of the Product (“Forecast”). Purchase orders will cover a minimum of 90
+days. Customer authorizes Sanmina-SCI to procure the quantity and type of Components in support of
+the quantities set forth in the Purchase Order and Forecast in accordance with its standard
+material ordering policies available at www.sanmina-sci.com (“Policies”), and agrees to be
+financially responsible for all Components ordered in accordance with the Policies. Customer’s
+Purchase Orders and related documents issued pursuant to this LOA will serve as Customer’s
+authorization to Sanmina-SCI to complete and ship the Products. Sanmina-SCI will obtain Customer
+approval prior to purchase of any excess components resulting from any minimum buy quantities, tape
+and reel quantities, and multiples of packaging quantities required by the Vendor.
+
+The prices in Attachment A shall be utilized for invoicing. Sanmina-SCI invoices shall be paid in
+U.S. Dollars net * (*) days from the date of invoice which, for shipped units, shall not be issued
+prior to the date on which the Products are shipped ”ex works” Sanmina-SCI’s dock (Incoterms 2000).
+
+Sanmina-SCI’s warranty period is for * from the date of manufacture and is limited to correction of
+defects in Sanmina-SCI workmanship only. Sanmina-SCI will pass on to Customer all manufacturers’
+component warranties to the extent that they are transferable, but will not independently warrant
+components. ALL WARRANTIES OF MERCHANTABILITY, NONINFRINGEMENT OR FITNESS FOR A PARTICULAR PURPOSE
+OR USE, AND ALL IMPLIED WARRANTIES OF TITLE FOR ANY CONSIGNED OR CUSTOMER SUPPLIED MATERIALS, ARE
+EXPRESSLY DISCLAIMED AND EXCLUDED HEREFROM. THE SOLE REMEDY UNDER THIS WARRANTY SHALL BE THE
+REPAIR, REPLACEMENT OR CREDIT FOR DEFECTIVE PRODUCTS AS STATED ABOVE.
+
+Customer may terminate this LOA or cancel an order hereunder upon written notice to Sanmina-SCI.
+Orders within 30 days are considered firm and non-cancelable. Reschedules in excess of 90 days
+shall be treated as a cancellation. Customer may only reschedule an order one time. Upon
+termination or cancellation for any reason by Customer, Customer shall be responsible for all
+Components, WIP and finished Product ordered within lead-time to support the Customer’s Purchase
+Orders and/or Forecast; provided, however, that Customer’s maximum liability shall not exceed: (1)
+for Components, the quantity and type of Components
+
+* 
+
+Omitted pursuant to a confidential treatment request. The confidential portion has been filed
+separately with the SEC. 
+
+acquired by Sanmina-SCI in support of Customer’s Purchase Order or Forecast as set forth in
+this LOA, plus a 10% margin on such Components; (2) for WIP, the cost of Components calculated in
+accordance with (1) plus a pro rata charge for labor based on the stage of the WIP; and (3)
+for finished Product, the full purchase price. In addition, Customer shall be responsible for (a)
+Sanmina-SCI’s documented cost to perform Customer authorized non-recurring engineering or
+associated program duties; and (b) Sanmina-SCI’s actual expenses incurred either prior to
+termination or as an unavoidable consequence of termination, not to exceed the value of the
+outstanding purchase orders.
+
+In the event of termination for any reason, Sanmina-SCI shall use reasonable commercial efforts to
+minimize Customer’s liability by canceling all agreements it has entered into and managing
+Component, labor and overhead cost to a minimum. Provided that the Customer has no outstanding
+receivable, Sanmina-SCI will deliver to Customer all product Components, documentation and other
+property owned by Customer or which Customer has paid for under this LOA.
+
+Neither party shall make a claim against, or be liable to the other party or its affiliates or
+agents for any damages, including (without limitation) loss of profits or injury to business
+reputation, resulting from the continuation or abandonment of negotiations, including the
+consequences thereof. IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER FOR ANY INDIRECT,
+CONSEQUENTIAL, INCIDENTAL OR SPECIAL DAMAGES, OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE,
+DATA OR PROFITS, EVEN IF SUCH OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES;
+provided, however, that this Section shall not prevent a party from incurring any
+indemnification-related liabilities set forth herein. THE LIMITATION SET FORTH IN THIS SECTION
+SHALL APPLY WHERE THE DAMAGES ARISE OUT OF OR RELATE TO THIS AGREEMENT. For the purpose of this
+Section, both lost profits and damages resulting from value added to the Product by CUSTOMER shall
+be considered consequential damages. IN NO EVENT SHALL SANMINA-SCI’S LIABILITY FOR A PRODUCT
+(WHETHER ASSERTED AS A TORT CLAIM OR CONTRACT CLAIM) EXCEED THE AMOUNTS PAID TO SANMINA-SCI FOR
+SUCH PRODUCT HEREUNDER. IN NO EVENT WILL SANMINA-SCI BE LIABLE FOR COSTS OF PROCUREMENT OF
+SUBSTITUTE GOODS BY CUSTOMER. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF
+ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.
+
+Sanmina-SCI shall obtain and maintain in full force and effect during the term of this Agreement
+(i) commercial general liability insurance (including contractual liability coverage) with coverage
+limits of not less than One Million Dollars ($1,000,000) per occurrence, naming Voltaire Ltd/Inc as
+an additional insured thereunder, and (iii) worker’s compensation insurance as required by law.
+Upon request, Sanmina-SCI shall provide to Voltaire a certificate of insurance evidencing the
+insurance coverages required under this Section.
+
+Sanmina-SCI’s Indemnification . Sanmina-SCI shall indemnify, defend, and hold Customer and
+Customer’s affiliates, shareholders, directors, officers, employees, contractors, agents and other
+representatives (the “Customer-Indemnified Parties”) harmless from all demands, claims, actions,
+causes of action, proceedings, suits, assessments, losses, damages, liabilities, settlements,
+judgments, fines, penalties, interest, costs and expenses (including fees and disbursements of
+counsel) of every kind (each a “Claim,” and, collectively “Claims”) (i) based upon personal injury
+or death or injury to property to the extent any of the foregoing is proximately caused either by
+the negligent or willful acts or omissions of Sanmina-SCI or its officers, employees,
+subcontractors or agents and/or (ii) arising from or relating to any actual or alleged infringement
+or misappropriation of any patent, trademark, mask work, copyright, trade secret or any actual or
+alleged violation of any other intellectual property rights arising from or in connection with
+Sanmina-SCI’s manufacturing processes.
+
+Customer’s Indemnification . Customer shall indemnify, defend, and hold Sanmina-SCI and
+Sanmina-SCI’s affiliates, shareholders, directors, officers, employees, contractors, agents and
+other representatives (the “Sanmina-SCI -Indemnified Parties”) harmless from all Claims (i) based
+upon personal injury or death or
+
+injury to property to the extent any of the foregoing is proximately caused either by a
+defective Product, by the negligent or willful acts or omissions of Customer or its officers,
+employees, subcontractors or agents and/or (ii) arising from or relating to any actual or alleged
+infringement or misappropriation of any patent, trademark, mask work, copyright, trade secret or
+any actual or alleged violation of any other intellectual property rights arising from or in
+connection with the Products, except to the extent such that the infringement exists as a result of
+use by Customer of Sanmina-SCI’s manufacturing processes,
+
+This LOA and its attachments make up the entire agreement between the parties and supersede prior
+discussions, except for any related written agreements concerning confidentiality. Both parties
+expressly reject any pre-printed terms and conditions of any Purchase Order, Acknowledgment or any
+other form or document of either party. The terms hereof may be amended only by a writing executed
+by authorized representatives of both parties. This LOA will not be assigned by either party
+without the other party’s prior written consent. Customer shall be the exporter of record for and
+shall comply with all applicable export control statutes and regulations. The parties acknowledge
+and agree that the state or federal courts of Santa Clara County, California (and the Northern
+District of California) shall have exclusive jurisdiction and venue to adjudicate any and all
+disputes arising out of or in connection with this Agreement.
+
+ACCEPTED AND AGREED TO: 
+
+ACCEPTED AND AGREED TO: 
+
+SANMINA-SCI CORPORATION 
+
+CUSTOMER 
+
+By:
+
+/s/ David Marlen
+
+By:
+
+/s/ Koby Segal 
+
+Name: David Marlen 
+
+Name: Koby Segal 
+
+Title: VP/PLT MGR 
+
+Title: G.M. Israel 
+
+Attachment A
+
+Pricing
+
+The pricing listed in the table below is effective for PO’s accepted prior to November 1, 2004.
+
+VOLTAIRE 
+
+VOLTAIRE 
+
+PRODUCT 
+
+SSCI PN 
+
+PN 
+
+COST 
+
+Jade 20L – VL01
+
+1001211-GH-003 – VL01
+
+605A10004
+
+$* 
+
+Jade 20L- VL02
+
+1001211-GH-003-VL02
+
+501S10004
+
+$* 
+
+Jet
+
+1001370-GH-001
+
+501S12320
+
+$* 
+
+LarimarSPS / UnMan
+
+1001590-GH-0102
+
+501S30010
+
+$* 
+
+LarimarDPS / UnMan
+
+1001590-GH-0202
+
+501S30011
+
+$* 
+
+LarimarSPS / Man
+
+1001590-GH-0302
+
+501S30020
+
+$* 
+
+Larimar DPS / Man
+
+1001590-GH-0402
+
+501S30021
+
+$* 
+
+Larimar 12X SPS / UnMan
+
+TBD
+
+TBD
+
+* 
+
+Larima 12X DPS / UnMan
+
+TBD
+
+TBD
+
+* 
+
+Larimar 12X SPS / Man
+
+TBD
+
+TBD
+
+* 
+
+Larimar 12X DPS / Man
+
+TBD
+
+TBD
+
+* 
+
+PrPMC
+
+TBD
+
+TBD
+
+* 
+
+PCI-Express HCA
+
+TBD
+
+TBD
+
+* 
+
+NOTE: Pricing for the “Managed” versions of the Larimar product includes $* for the Artesyn CCA.
+Melanox BGA E-1242 is increasing from $* to $*. Revised assembly price will be reflected when
+current inventory is consumed.
+
+* 
+
+Omitted pursuant to a confidential treatment request. The confidential portion has been
+filed separately with the SEC. 
+
+Attachment B
+
+Business Model
+
+Subsequent to the execution of this agreement;
+
+1) 
+
+Sanmina-SCI will license at * the existing InifiniBand designs to Voltaire,
+granting Voltaire the rights to use, enhance, and/or modify the designs. 
+
+2) 
+
+Sanmina-SCI shall provide Voltaire the designs ( * and * ) that are incomplete
+in their current state. 
+
+3) 
+
+In consideration for items 1 and 2 above, and as long as Sanmina-SCI continues to
+meet reasonable commercial standards for product cost, quality and manufacturing
+lead-time delivery, Voltaire will exclusively use Sanmina-SCI for manufacturing
+Voltaire’s InfiniBand products listed in attachment A, and any derivatives thereof., for
+a period of no less than two (2) years from the effective Date of this LOA (the “Initial
+Term”). Except as noted below in 4), if for any reasonVoltaire were to manufacture
+InfiniBand designs listed in attachment A, or any derivatives thereof, itself, or have a
+third party manufacture the InfiniBand designs listed in attachment A, or any derivatives
+thereof, Voltaire shall compensate Sanmina-SCI a reasonable royalty fee for the right to
+manufacture or have manufactured the InfiniBand designs listed in attachment A, or any
+derivatives thereof., the terms of which will be agreed by the two parties. 
+
+4) 
+
+In event Sanmina-SCI were to provide written notice to Voltaire of its intent to
+terminate this LOA (or the planned subsequent Manufacturing Services Agreement) prior to
+the end of the Initial Term, then notwithstanding anything written in Section 3) above, a
+no cost license will be granted to Voltaire, except if such Sanmina-SCI initiated
+termination notice is the result of a material breach by Voltaire which remained uncured
+after thirty (30) days from the date of written notice. 
+
+5) 
+
+Voltaire shall be responsible for all sustaining activities for the licensed
+products. 
+
+Sanmina-SCI will provide EMS fulfillment services to include:
+
+Reports – Shipment, Product Status, OTD
+
+Data – Quality, Test Yield, Pareto, Defects
+
+Material – Supplier Management (Quality, Service and Delivery Reporting) and AVL Integrity
+
+Engineering – Test Support, ECO Management
+
+Data Interchange with OEM’s
+
+Open Model Pricing on:
+
+Material Cost Drivers (Top 70% of BOM)
+
+Labor Cost
+
+Manufacturing Value Add (MVA)
+
+Customer will be responsible for the following:
+
+Sustaining Engineering Activity
+
+ECO Implementation
+
+Documentation Rev Control
+
+Additional Test Equipment / Enhancements
+
+Forecast
+
+Inventory Liability
+
+Establishment of acceptable credit terms for fulfilling Customers liability as stated in this agreement
+
+* 
+
+Omitted pursuant to a confidential treatment request. The confidential portion has been filed separately with the SEC.

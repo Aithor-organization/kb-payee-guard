@@ -1,0 +1,985 @@
+Data I/O Corporation 
+
+6645 185 th Ave NE, Suite 100 
+
+Redmond, WA 98052 
+
+USA 
+
+Negotiation Protocol 
+
+Document no.: CX 46xxxxxx-Z4A
+Date: 2016.06.24
+Supplier no.: 394644 
+
+Always quote for reference! 
+
+Contact Person: Lars Göbel 
+
+Department: CP/TME3 
+
+Telephone: +49(5121)49-3452 
+
+Telefax: +49(711) 811-505-3452 
+
+E-Mail: lars.goebel@de.bosch.com 
+
+Our VAT ID no.: DE811128135 
+
+Please note: Document is only valid in connection with a contract no. generated from SAP. 
+
+V1.3, Version 05/2015 
+
+Postal Address: Robert Bosch GmbH, CP/TME3, P.O. Box 30 02 20, DE-70442 Stuttgart, Germany 
+
+Visitors Address: Robert Bosch GmbH, CP/MAE, Im Birkenwald 32-46, DE-70435 Stuttgart, Germany 
+
+Negotiation Protocol for the purchase of: 
+
+“Description of MAE” 
+
+Purchase option valid until: 2021.06.30 
+
+Readiness for installation until: in avarage [***] after incoming PO 
+
+Binding delivery dates (FCA nearest Data I/O site): 
+- Pre-programer PSV 7000 in avarage [***] after incoming PO 
+(with HIC-Adapter [***] weeks)
+
+Binding completion date ready for operation: [***] after commissioning at the latest 
+
+Technical contact: CM/MFT1, Sergio Dias 
+
+[***] confidential treatment requested 
+
+Registered Office: Stuttgart, Registration Court: Amtsgericht Stuttgart, HRB 14000; 
+
+Chairman of the Supervisory Board: Franz Fehrenbach; Managing Directors: Dr. Volkmar Denner, 
+
+Dr. Stefan Asenkerschbaumer, Dr. Rolf Bulander, Dr. Stefan Hartung, Dr. Markus Heyn, Dr. Dirk Hoheisel,
+Christoph Kübel, Uwe Raschke, Dr. Werner Struth, Peter Tyroller 
+
+Page 1 / 16 
+
+Doc. No.: CX _______ Buyer no. / dated ____.__.__ (YYYY.MM.DD) 
+
+Name of the supplier: Data I/O Corporation 
+
+Item 
+
+Material/Description 
+
+Quantity 
+
+Price/unit 
+
+Net value 
+
+in USD 
+
+Technical execution and scope of supply in accordance with 
+
+Quotation "Final Bid Data IO" dated from 2016.06.17, consisting of (please list quotation items): 
+
+001 
+
+Pre-Programmer PSV7000 in complete configuration in price-list 
+
+[***] 
+
+See attached price list 
+
+Depending on configuration 
+
+002 
+
+Machine options, e.g. sockets, socket-adapter, tape-in, tape out 
+
+various 
+
+See attached price list 
+
+003 
+
+Services 
+
+various 
+
+See attached price list 
+
+…. 
+
+…. 
+
+The total net values stated are fixed prices see attached price list 
+
+1. Terms of Delivery 
+
+1.1 Purchase Option 
+
+We, Robert Bosch GmbH (hereinafter referred to as "BOSCH") conducted negotiations with 
+Data I/O Corporation (hereinafter referred to as "SUPPLIER") on 2016.06.17 concerning the purchase of the Pre-Programmer PSV7000 described in greater detail above (hereinafter referred to as "MAE"). As a result of these negotiations, you granted us the option to order the MAE described in greater detail above subject to the terms set forth in this Negotiation Protocol (hereinafter referred to as “AGREEMENT”. Orders can be placed at your company directly or at your affiliated companies. You granted us the right to exercise the option by the end of 2021.06.30. This option can be exercised at our election by us or by or our affiliated companies in which we have the industrial leadership. If the option is exercised, the following terms of contract shall apply in the following sequence. In case of contradictions, the conditions of the above listed document have precedence: 
+
+1. Terms of contract set forth in this AGREEMENT. 
+
+2. The specific Purchase Order from BOSCH, excluding any pre-printed terms. 
+
+3. BOSCH Terms and Conditions of Purchase Version 01/2011. These Terms and Conditions can be
+viewed on the Internet at: www.bosch.de in the download area of purchasing and logistics. 
+
+4. For orders through Bosch affiliated companies the purchasing conditions of the affiliated company. 
+
+Deviating terms and conditions of SUPPLIER are not accepted. 
+
+If the option is exercised after 2021.03.31, the date of readiness for preliminary acceptance, the delivery date and the date for acceptance shall be agreed anew. The other terms of the purchase option shall remain unaffected. 
+
+We mutually agree that BOSCH has no obligation to exercise the option and that in the event of the option not being exercised you cannot derive any claims whatsoever against us. 
+
+BOSCH has the right to exercise the agreed upon options in this AGREEMENT for an unlimited amount of MAE during the period of validity of this AGREEMENT, subject to SUPPLIER’S standard lead times and production capacity. 
+
+The binding dates (see page one of this AGREEMENT), the terms of contract laid down in this AGREEMENT and the total net fixed price were agreed upon with Mr./Ms. <NAME OF CONTACT PERSON> acting on behalf of SUPPLIER by telephone / in person on ____.__.__ (YYYY.MM.DD). 
+
+1. 2 Basis of the Agreement 
+
+[***] confidential treatment requested 
+
+Registered Office: Stuttgart, Registration Court: Amtsgericht Stuttgart, HRB 14000; 
+
+Chairman of the Supervisory Board: Franz Fehrenbach; Managing Directors: Dr. Volkmar Denner, 
+
+Dr. Stefan Asenkerschbaumer, Dr. Rolf Bulander, Dr. Stefan Hartung, Dr. Markus Heyn, Dr. Dirk Hoheisel,
+Christoph Kübel, Uwe Raschke, Dr. Werner Struth, Peter Tyroller 
+
+Page 2 / 16 
+
+Doc. No.: CX _______ Buyer no. / dated ____.__.__ (YYYY.MM.DD) 
+
+Name of the supplier: Data I/O Corporation 
+
+According to current planning, BOSCH will have a worldwide demand for [***] MAE in the period from 2016.07.01 until 2021.06.30. BOSCH intends to cover this demand prior and preferably through orders placed with SUPPLIER, as long as the terms and conditions agreed in this AGREEMENT are generally comparable with quotations from competitors in terms of technology, quality, price and delivery. 
+
+BOSCH may exercise the option agreed in this AGREEMENT during the term of validity hereof and for an unlimited number of MAE, subject to SUPPLIER’S standard lead times and production capacity. The foregoing target figures do not, however, constitute an obligation by BOSCH to exercise the option. The actual demand depends on diverse criteria such as the economical situation, technology developments etc. 
+
+In return, SUPPLIER shall warrant assure to BOSCH preferential provision of technology, machinery and information. SUPPLIER shall inform BOSCH about new developments/technologies and new machine generations on a regular basis. 
+
+1.3 Discount Agreement 
+
+Provided BOSCH purchases MAE in US dollars and such shipments are FCA Redmond, WA, USA, SUPPLIER guarantees the following discounts for BOSCH on Purchase Orders placed up until the end of the Agreement see also attached price-list: 
+
+[***] 
+
+2. Property and Right of Use 
+
+BOSCH acquires title product-specific documents prepared for BOSCH (drawings, CAD data, etc.) (hereinafter referred to as "DOCUMENTS"). The DOCUMENTS have to be handed over to BOSCH after completion of the work in the form set forth in subsection “Confidentiality Obligation and Reservation of Rights” below. 
+
+BOSCH receives from SUPPLIER a non-exclusive, irrevocable, unrestricted as to place, time and subject, and sub-licensable right to use the DOCUMENTS. The right of usage includes any use, modification and reproduction of the DOCUMENTS, All intellectual property rights in SUPPLIER’s products, any modifications to SUPPLIET’s products and all other deliverables provided by Supplier shall be owned by SUPPLIER. 
+
+3. Scope of Delivery and Performance 
+
+SUPPLIER is obliged to deliver a complete MAE, which contains all parts required for use in accordance with the contract, whilst conforming to the agreed characteristics of the selected configuration. 
+
+If BOSCH requests in writing the extension of the scope of delivery and/or performance, after a Purchase Order has been confirmed by SUPPLIER, possible price changes must be agreed upon with BOSCH in writing prior to execution of such an extension of scope. If there is no written agreement regarding the price change, SUPPLIER may not charge any costs for the extended scope of delivery and/or performance carried out. 
+
+4. Operating Conditions at BOSCH (optional) 
+
+[***] confidential treatment requested 
+
+Registered Office: Stuttgart, Registration Court: Amtsgericht Stuttgart, HRB 14000; 
+
+Chairman of the Supervisory Board: Franz Fehrenbach; Managing Directors: Dr. Volkmar Denner, 
+
+Dr. Stefan Asenkerschbaumer, Dr. Rolf Bulander, Dr. Stefan Hartung, Dr. Markus Heyn, Dr. Dirk Hoheisel,
+Christoph Kübel, Uwe Raschke, Dr. Werner Struth, Peter Tyroller 
+
+Page 3 / 16 
+
+Doc. No.: CX _______ Buyer no. / dated ____.__.__ (YYYY.MM.DD) 
+
+Name of the supplier: Data I/O Corporation 
+
+During the production of the MAE, SUPPLIER must take into consideration the fact that BOSCH will use the MAE in the following factory environment : 
+
+ESD protected area close to SMT lines 
+
+SUPPLIER shall ensure that the MAE is suitable for use in this factory environment, according to the agreed upon characteristics. 
+
+5. Preliminary Acceptance 
+
+NA 
+
+6. Commissioning and Trial Operation 
+
+If applicable, the first commissioning of the MAE , i.e. the first time BOSCH switches it on at the place of operation under the direction of SUPPLIER ("Commissioning"), and the trial operation, shall be performed in the BOSCH factory by BOSCH personnel in accordance with instructions from SUPPLIER and under the direction of SUPPLIER, however, in mutual agreement with BOSCH. The trial operation shall be conducted immediately following completion of assembly; commencement thereof shall be agreed upon between SUPPLIER and BOSCH. 
+
+The trial operation must evidence operational efficiency and must be performed without any substantial malfunctions. If a substantial malfunction occurs, the trial operation shall be recommenced after rectification of the defect. If the trial operation is repeated for reasons for which SUPPLIER is accountable for, incremental costs incurred by BOSCH (e.g. hours of work of personnel, costs of additional raw materials and consumables, transport costs on special journeys) shall be reimbursed by SUPPLIER 
+
+7. Characteristics Covenant / Guarantees 
+
+SUPPLIER is obliged to deliver the equipment according to the agreed upon technical specification/ requirement specification. SUPPLIER furthermore guarantees the conformity with the following functions and technical data (“Characteristics Covenant”). 
+
+- Technical availability VT or VTS > [***] 
+
+- Proof of machine capability Cmk >= [***] 
+
+- Dimensions, tolerances and machine capability values listed in the enclosure “Machine and process capability examination" dated 2004_07_01 (3 rd edition) (cm respectively cmk factors) 
+
+- A noise level of max. [***] dB(A), measured in accordance with DIN 45 635 
+
+If BOSCH requirements should preclude technically faultless execution or impede SUPPLIER, SUPPLIER shall inform BOSCH hereof in good time. 
+
+8. Proof of the Agreed Characteristics 
+
+After the faultless trial operation and immediately after the MAE has become operational, proof of the agreed characteristics of the MAE shall be carried out at the installation location in the relevant BOSCH factory, generally in the presence of both parties; the commencement time thereof shall be 
+
+[***] confidential treatment requested 
+
+Registered Office: Stuttgart, Registration Court: Amtsgericht Stuttgart, HRB 14000; 
+
+Chairman of the Supervisory Board: Franz Fehrenbach; Managing Directors: Dr. Volkmar Denner, 
+
+Dr. Stefan Asenkerschbaumer, Dr. Rolf Bulander, Dr. Stefan Hartung, Dr. Markus Heyn, Dr. Dirk Hoheisel,
+Christoph Kübel, Uwe Raschke, Dr. Werner Struth, Peter Tyroller 
+
+Page 4 / 16 
+
+Doc. No.: CX _______ Buyer no. / dated ____.__.__ (YYYY.MM.DD) 
+
+Name of the supplier: Data I/O Corporation 
+
+specified jointly. Any preliminary trials scheduled by SUPPLIER are not relevant for proof of the agreed characteristics or acceptance. 
+
+Proof of the agreed characteristics is established when the agreed functions and characteristics have been proven over an uninterrupted, fault-free operating period (1 shifts) of 1 working days. 
+
+If proof cannot be established initially, SUPPLIER is obliged to perform any retrospective changes to the MAE which may be necessary and then to undertake a second attempt to establish proof without delay. SUPPLIER shall refund , incremental the costs (e.g. working hours of personnel, costs of additional raw materials and consumables, transport costs of special journeys) incurred at BOSCH due to such changes and to repeating of proof for the agreed characteristics. 
+
+If proof of the agreed characteristics has not been established within 3 (three) months after completion of the assembly (set-up of the MAE at the installation location), BOSCH has the right - notwithstanding its other rights - to cancel the complete scope of the order without giving an additional grace period, unless SUPPLIER is not responsible for the delay in establishing proof of the agreed characteristics. 
+
+BOSCH also has a cancellation right without having to set an additional grace period each time it is not possible to establish proof of the agreed characteristics, if BOSCH has allowed further attempts beyond the deadline of the foregoing paragraph. 
+
+In the event of cancellation by BOSCH, SUPPLIER shall bear all incidental costs e.g. the costs of dismantling, packaging, return transport, etc. 
+
+Successful proof of the agreed characteristics is merely the prerequisite for acceptance of the MAE and does neither relieve SUPPLIER of its obligation to rectify any defects nor of eventual defect claims. The SUPPLIER shall be held responsible for faults of his sub-suppliers to the same degree as if the faults were its own. 
+
+In case of failure to comply with the Guarantees BOSCH has the right to demand full compensation for the thereof accrued damages. Concerning the statute of limitation the paragraph “Warranty period / Self-remedy of defects” in this AGREEMENT below shall apply accordingly (subject to paragraph 31). 
+
+9. Acceptance 
+
+Title to the MAE passes to BOSCH upon delivery (according to INCOTERMS 2010). If applicable, the precondition for due performance of the Purchase Order is, however, that the MAE is additionally accepted by BOSCH. Acceptance of the MAE by BOSCH is performed by signing the acceptance protocol if the following preconditions have been met: 
+
+1. Commissioning, 
+
+2. Proper trial operation, 
+
+3. Proof of the agreed characteristics, 
+
+4. Compliance with the acceptance conditions in accordance with BOSCH standard N51M M20 and all other technical regulations agreed upon, 
+
+5. Handover to BOSCH of the complete documentation in accordance Data IO standard, including the complete consumable - , ware – and spare part list, with third party parts and norm parts listed including designation of original supplier name and number according to the part list sent by Data IO. 
+
+6. Submission of a quotation for wear and spare parts recommended by SUPPLIER. 
+
+Registered Office: Stuttgart, Registration Court: Amtsgericht Stuttgart, HRB 14000; 
+
+Chairman of the Supervisory Board: Franz Fehrenbach; Managing Directors: Dr. Volkmar Denner, 
+
+Dr. Stefan Asenkerschbaumer, Dr. Rolf Bulander, Dr. Stefan Hartung, Dr. Markus Heyn, Dr. Dirk Hoheisel,
+Christoph Kübel, Uwe Raschke, Dr. Werner Struth, Peter Tyroller 
+
+Page 5 / 16 
+
+Doc. No.: CX _______ Buyer no. / dated ____.__.__ (YYYY.MM.DD) 
+
+Name of the supplier: Data I/O Corporation 
+
+The acceptance protocol shall be drawn up jointly in writing. The payment or commissioning of the MAE shall not be deemed to constitute acceptance. Claims by BOSCH due to any defects in the MAE shall remain unaffected by acceptance. 
+
+10. Training 
+
+Training at BOSCH: 
+
+SUPPLIER is obliged to train BOSCH employees in programming, operation and maintenance. Such training shall be conducted in the BOSCH factory and is included in the total net price. 
+
+11. Assembly, Set Up, Commissioning and Trial Operation 
+
+The costs hereof are included in the total fixed price. 
+
+12. Coordination of Work 
+
+As customer and in the interests of work safety, BOSCH is obliged to have an employee of BOSCH coordinate the work to be carried out by SUPPLIER in the BOSCH factories. SUPPLIER is obliged to ensure that its employees working on BOSCH premises contact the coordinator of the relevant BOSCH factory prior to commencing their work and maintain contact with him while work is in progress. SUPPLIER and all employees of SUPPLIER are obliged to comply with the Accident Prevention Regulations of BOSCH. The Bosch standard N93 A20 must be complied with. 
+
+Employees and subcontractors of SUPPLIER are solely subject to the right of SUPPLIER to give instructions even if their work is conducted on the premises of BOSCH. In case of written request from BOSCH, SUPPLIER must substitute its employees and subcontractors if they act in breach of contractual obligations. SUPPLIER shall bear the costs arising as a result of such substitution. 
+
+13. Work performance at the facility site / Provision of Employees 
+
+In respect of work carried out on the facility site of BOSCH, third parties may not be subcontracted to perform the work or part of the service without the prior written consent of BOSCH. 
+
+Any employees made available by BOSCH shall be subject to the right of SUPPLIER to give professional instructions with regard to the assembly; they shall be deemed to be persons engaged by SUPPLIER in performance of its obligations. 
+
+14. Release from Liability 
+
+SUPPLIER shall indemnify BOSCH from liability for infringement by the MAE of any third party patents or other proprietary rights and all third party claims related to SUPPLIER’s activities while on BOSCH’s premise - regardless of the legal grounds - including reasonable costs of bringing an action, resulting from the supply of the MAE , the breach of its contractual obligations, the breach of other obligations or the violation of third party rights. Further claims by BOSCH shall remain unaffected. 
+
+Limitation of liability 
+
+Registered Office: Stuttgart, Registration Court: Amtsgericht Stuttgart, HRB 14000; 
+
+Chairman of the Supervisory Board: Franz Fehrenbach; Managing Directors: Dr. Volkmar Denner, 
+
+Dr. Stefan Asenkerschbaumer, Dr. Rolf Bulander, Dr. Stefan Hartung, Dr. Markus Heyn, Dr. Dirk Hoheisel,
+Christoph Kübel, Uwe Raschke, Dr. Werner Struth, Peter Tyroller 
+
+Page 6 / 16 
+
+Doc. No.: CX _______ Buyer no. / dated ____.__.__ (YYYY.MM.DD) 
+
+Name of the supplier: Data I/O Corporation 
+
+Except in the case of intentional misconduct or gross negligence, 
+
+liability is excluded for: 
+
+- lost profits 
+
+- costs of production shut down/break down 
+
+- indirect/consequential damages 
+
+liability is included for: 
+
+- direct third party damages, 
+
+- indemnification of intellectual property claims or breaches of confidentiality obligations 
+
+from SUPPLIER’S liability for defects as to quality under this Agreement and SUPPLIER’s total liability per calendar year under this Agreement shall be limited to one of the following whichever is higher: (a) [***] of the sales of SUPPLIER to BOSCH (including the sales to affiliates of BOSCH) in the previous calendar year or (b) EUR [***] Please confirm to us the agreements reached by signing and returning this "Negotiation Protocol". 
+
+15. Insurance 
+
+15.1 Liability Insurance 
+
+SUPPLIER is obliged to take out liability insurance for the duration of the contractual engagement with BOSCH. The minimum coverage of this insurance shall be the following amounts per claim: 
+
+- Manufacturer's liability and product liability insurances 
+
+- Personal injury and property damage (lump sum) USD 2,500,000 
+
+- Damage by fire and explosion USD 5,000,000 
+
+- Activity-related damage to third party property USD 150,000 
+
+- Financial losses USD 100,000 
+
+- Environmental liability insurance 
+
+- Personal injury and property damage USD 2,500,000 
+
+The written confirmation of the liability insurer of SUPPLIER is attached as Appendix 2. SUPPLIER is obligated to inform BOSCH in writing without delay to any relevant changes to the insurance relationships, in particular prior on the lapse of insurance coverage. 
+
+15.2 Transport Insurance 
+
+Transport insurance has to be clarified in each individual case 
+
+Bosch shall take out “door to door” transport insurance. Bosch is a “waiver customer”; transport insurance shall not be taken out by SUPPLIER. 
+
+16. Patents and Property Rights 
+
+[***] confidential treatment requested 
+
+Registered Office: Stuttgart, Registration Court: Amtsgericht Stuttgart, HRB 14000; 
+
+Chairman of the Supervisory Board: Franz Fehrenbach; Managing Directors: Dr. Volkmar Denner, 
+
+Dr. Stefan Asenkerschbaumer, Dr. Rolf Bulander, Dr. Stefan Hartung, Dr. Markus Heyn, Dr. Dirk Hoheisel,
+Christoph Kübel, Uwe Raschke, Dr. Werner Struth, Peter Tyroller 
+
+Page 7 / 16 
+
+Doc. No.: CX _______ Buyer no. / dated ____.__.__ (YYYY.MM.DD) 
+
+Name of the supplier: Data I/O Corporation 
+
+SUPPLIER warrants that the delivered MAE does not infringe any third party patents or other proprietary rights and shall release BOSCH from any third party claims resulting therefrom. Further claims shall remain unaffected. 
+
+17. Warranty period / Self-remedy of defects 
+
+The limitation period for claims for defects as to quality is 12 months - except in cases of fraudulent intent. The limitation period starts on the date of acceptance , of the MAE or of the work ordered. In case longer limitation periods exist by law or have been agreed by contract, such periods shall apply. 
+
+The limitation period shall start to run for the longer of an additional 90 days or until the end of the warranty period for parts that have been replaced or repaired in the context of liability for defects as to quality. 
+
+If SUPPLIER does not commence rectifying defects without delay following BOSCH's complaint or within the agreed response time or if the deadline defined by Bosch elapsed without success, BOSCH shall be entitled after the defined notification process to rectify the defect itself or to have this done by a third party at the expense of SUPPLIER, if rectification of the defect allows for no further delay. 
+
+18. Stocking up on spare and wear parts 
+
+Not applicable 
+
+19. After-Sales Service, Provision of Spare and Wear Parts 
+
+SUPPLIER warrants that maintenance and repair work on the delivered MAE will be conducted at the place of installation for the duration of their average life expectancy (at least 7 (seven years) after delivery) at competitive prices. 
+
+SUPPLIER shall ensure that – even after expiry of the limitation period for defects as to quality – qualified professional staff as well as spare and wear parts will be available at the BOSCH factories to rectify disruptions in operations within defined hours in the service contract of being requested by BOSCH. 
+
+The provision of the preceding paragraph shall apply if BOSCH’s request is received by SUPPLIER in the times according the service contract. If the request is notified outside of these hours, then the aforementioned time period shall start to run from on the next working day. 
+
+Together with the contractual documentation in accordance with Data IO documentation, SUPPLIER shall submit a quotation to BOSCH for the spare and wear parts recommended by SUPPLIER. Thereafter the parties shall mutually agree on stocking parts at a factory of SUPPLIER or at a factory of BOSCH. 
+
+BOSCH shall operate the MAE appropriately and perform maintenance in accordance with the agreed maintenance instructions. 
+
+20. Contractual Penalty 
+
+SUPPLIER shall deliver / FCA “Pre-Programmer PSV7000” by the binding date if agreed in specific PO at the latest. 
+
+If agreed in specific PO, in the event of delayed delivery / completion ready for operation, BOSCH has the right to impose on SUPPLIER a contractual penalty of [***] per week with maximum [***] . The only 
+
+[***] confidential treatment requested 
+
+Registered Office: Stuttgart, Registration Court: Amtsgericht Stuttgart, HRB 14000; 
+
+Chairman of the Supervisory Board: Franz Fehrenbach; Managing Directors: Dr. Volkmar Denner, 
+
+Dr. Stefan Asenkerschbaumer, Dr. Rolf Bulander, Dr. Stefan Hartung, Dr. Markus Heyn, Dr. Dirk Hoheisel,
+Christoph Kübel, Uwe Raschke, Dr. Werner Struth, Peter Tyroller 
+
+Page 8 / 16 
+
+Doc. No.: CX _______ Buyer no. / dated ____.__.__ (YYYY.MM.DD) 
+
+Name of the supplier: Data I/O Corporation 
+
+delays exempted shall be those caused by force majeure. BOSCH shall be notified of such cases in writing in good time without any specific request being required. 
+
+The right to demand payment of the contractual penalty shall not be excluded by acceptance and/or taking delivery of the delayed delivery of the MAE without expressly reserving the right to assert a claim for the contractual penalty. 
+
+If the agreed delivery date is delayed due to reasons attributable to BOSCH, the date for the contractual penalty shall be postponed accordingly. SUPPLIER shall notify all delays in writing without delay to the ordering Purchasing Department of BOSCH. This also applies if, as a result of the option being exercised after the agreed upon order date, a new delivery date is agreed. 
+
+Any claims for damages exceeding the above shall remain unaffected. 
+
+21. Addresses 
+
+21.1 Dispatch address 
+
+Dispatch to: 
+
+The exact delivery address will be indicated in the Purchase Order. 
+
+SUPPLIER shall contact the transport agent of BOSCH in good time and coordinate the transport to ensure delivery to the BOSCH factory on the agreed date. 
+
+21.2 Address for business correspondence 
+
+Postal address of responsible purchasing department: 
+
+For example: 
+
+ROBERT BOSCH GMBH 
+
+Central Purchasing - CP/TME3 
+
+Attn. Mr. Lars Goebel 
+
+Robert-Bosch-Strasse 200 
+
+31139 Hildesheim 
+
+GERMANY 
+
+22. Transfer of Risk 
+
+The risk for the MAE shall pass to BOSCH as soon as SUPPLIER has handed over the MAE incl. packaging and, if relevant, any returnable packaging, to the carrier in Redmond, WA, USA, or Shanghai China, ( FCA in accordance with INCOTERMS 2010; performance is not fulfilled until MAE is finally accepted by Bosch in accordance with Section “Acceptance”, however). 
+
+23. Terms and Conditions of Payment 
+
+MAE 
+
+The invoice shall be issued for 100 % (one hundred percent) of the agreed purchase price, payable as follows: 
+
+[***] 
+
+[***] confidential treatment requested 
+
+Registered Office: Stuttgart, Registration Court: Amtsgericht Stuttgart, HRB 14000; 
+
+Chairman of the Supervisory Board: Franz Fehrenbach; Managing Directors: Dr. Volkmar Denner, 
+
+Dr. Stefan Asenkerschbaumer, Dr. Rolf Bulander, Dr. Stefan Hartung, Dr. Markus Heyn, Dr. Dirk Hoheisel,
+Christoph Kübel, Uwe Raschke, Dr. Werner Struth, Peter Tyroller 
+
+Page 9 / 16 
+
+Doc. No.: CX _______ Buyer no. / dated ____.__.__ (YYYY.MM.DD) 
+
+Name of the supplier: Data I/O Corporation 
+
+SERVICE, SPAREPARTS, WEARABLES 
+
+100 % immediately 
+
+Invoices shall be payable within [***] days of receipt and no early payment discounts apply. 
+
+SUPPLIER shall request payment of the remainder from the BOSCH factory in writing (complete address will be provided by the ordering Purchasing Department). In no case do payments by BOSCH imply acceptance of the goods and services delivered as being in conformity with the contract. 
+
+In case BOSCH has accounts receivable from SUPPLIER, BOSCH shall be entitled to withhold payments. Delivery dates agreed in the specific Purchase Orders shall not be affected thereby. 
+
+BOSCH is entitled at any time to offset all its own accounts receivable as well as all accounts receivable of an affiliate company of the BOSCH Group within the meaning of Section 15 German Stock Corporation Act (AktG) from SUPPLIER , against accounts receivable by SUPPLIER that are both due and not yet due for payment . 
+
+24. Confidentiality Obligation and Reservation of Rights 
+
+Insofar as, in connection with the inquiries and specific Purchase Orders, SUPPLIER gains access to DOCUMENTS, including drawings, sketches and samples, oral information, knowledge and know how – hereinafter referred to as "INFORMATION", SUPPLIER is obligated 
+
+- to keep the INFORMATION secret with regard to third parties and to refrain from publishing the INFORMATION. 
+
+- to utilize the INFORMATION and the know how thus acquired solely in connection with the specific Purchase Orders; in particular, SUPPLIER shall not use the INFORMATION for its own production or for deliveries to third parties. 
+
+- only to grant access to the INFORMATION to those employees who are engaged in performing obligations under the specific Purchase Orders and only to the extent to which it is absolutely necessary for the foregoing purpose. 
+
+- to take suitable measures to ensure that its employees keep the INFORMATION secret and use it only in execution of the specific Purchase Orders (e.g. by using password-protected access, safe custody of documents, samples and data media, physical andfunctional separation from other activities). 
+
+Each partner shall comply with the statutory regulations on data privacy and take the technical and organizational protective measures necessary in accordance therewith. 
+
+The afore-mentioned obligations shall continue to apply after the specific Purchase Orders have been processed unless the INFORMATION has become public knowledge through no fault of SUPPLIER. 
+
+All DOCUMENTS provided by BOSCH, including drawings, sketches and samples, shall remain the exclusive property of BOSCH. SUPPLIER is obliged to handle and store them carefully and to return them to BOSCH in their entirety immediately after completion of the specific purchase orders. 
+
+The grant of a license by BOSCH is not associated with the disclosure of INFORMATION to SUPPLIER. BOSCH reserves all rights to all INFORMATION originating from BOSCH, including copyright and the right to register industrial property rights such as patents, utility models, topography 
+
+[***] confidential treatment requested 
+
+Registered Office: Stuttgart, Registration Court: Amtsgericht Stuttgart, HRB 14000; 
+
+Chairman of the Supervisory Board: Franz Fehrenbach; Managing Directors: Dr. Volkmar Denner, 
+
+Dr. Stefan Asenkerschbaumer, Dr. Rolf Bulander, Dr. Stefan Hartung, Dr. Markus Heyn, Dr. Dirk Hoheisel,
+Christoph Kübel, Uwe Raschke, Dr. Werner Struth, Peter Tyroller 
+
+Page 10 / 16 
+
+Doc. No.: CX _______ Buyer no. / dated ____.__.__ (YYYY.MM.DD) 
+
+Name of the supplier: Data I/O Corporation 
+
+rights etc. If the INFORMATION disclosed by BOSCH originates from third parties, this reservation of rights also applies in favor of such third parties. CAD data and other electronically stored INFORMATION provided by BOSCH and compiled for BOSCH shall be filed on a memory medium capable of storage (CD ROM, DVD etc.) after conclusion of the work and the memory media shall be handed over to BOSCH. If the data are required for service activities and delivery of spare parts, SUPPLIER may keep the required number of copies. Data not required for this purpose must be deleted from the computer system of SUPPLIER. 
+
+Any advertising using the contractual relationship or the subject matter of the Agreement and INFORMATION hereon is inadmissible unless BOSCH has given prior written approval to such procedure in an individual case. 
+
+26. The following documents form integral components of this AGREEMENT and are already in the possession of SUPPLIER: 
+
+- Technical Specifications/Requirement Specification “Device Pre-programming batch Robots”,
+revision 2.0 dated 2016.05.13 with attachment "C360121_Supplier_Details_to_ 
+
+Requirement_Spec_commented 20151207 V4 (002).xls and as evaluated in cw 15.2016 in
+Hildesheim
+- Delivery regulations in the version applying on the date of the Purchase Order 
+
+N51M M20 
+
+N51M M23 
+
+N51M M25 
+
+N51M M26 
+
+as applicable and evaluated during benchmark CW15/2016 
+
+- Quality Assurance Guideline for Suppliers QSL, Version 12/2011 
+
+27. Commencement and Termination of the AGREEMENT (optional, if Section 1.2 was agreed) 
+
+The AGREEMENT shall become effective when signed by both parties as per 2016.07.01 and terminates with the validity of the purchasing option (see page 1), if it is terminated by one of the two contracting parties by giving 6 month's advance notice to expire on 2021.06.30. Otherwise, the AGREEMENT shall be extended by one year with the same terms. 
+
+28. Download Service on the Internet 
+
+http://purchasing.bosch.com/en/start/Allgemeines/Download/index.htm 
+
+Use Bosch Rexroth AG Components! 
+
+See delivery regulation N51M M20 item 2 or 
+
+https://www.boschrexroth.com/corporate/sys/productindex_xml/en/index.jsp?oid=614362 
+
+29. Modifications and Amendments 
+
+Amendments or supplements to this Corporate Agreement, including this Section 29 hereof, as well as postponing the delivery dates agreed in specific Purchase Orders must be agreed in writing. 
+
+30. Ineffectiveness 
+
+Registered Office: Stuttgart, Registration Court: Amtsgericht Stuttgart, HRB 14000; 
+
+Chairman of the Supervisory Board: Franz Fehrenbach; Managing Directors: Dr. Volkmar Denner, 
+
+Dr. Stefan Asenkerschbaumer, Dr. Rolf Bulander, Dr. Stefan Hartung, Dr. Markus Heyn, Dr. Dirk Hoheisel,
+Christoph Kübel, Uwe Raschke, Dr. Werner Struth, Peter Tyroller 
+
+Page 11 / 16 
+
+Doc. No.: CX _______ Buyer no. / dated ____.__.__ (YYYY.MM.DD) 
+
+Name of the supplier: Data I/O Corporation 
+
+If any provision of this AGREEMENT should be or become ineffective, this shall not affect the validity of the remaining provisions of this AGREEMENT. In such a case, the respective provision shall be replaced by a regulation approximating most closely the economic content of the original provision. The same shall apply to any gaps in this Agreement. 
+
+31. Applicable Law and Jurisdiction 
+
+This AGREEMENT as well as all agreements hereunder and disputes arising herefrom shall be governed by German law, excluding the rules on conflicts of laws. The Hague Uniform Law on the International Sale of Goods, the UN Convention on Contracts for the International Sale of Goods and other international conventions on the international sale of goods do not apply. 
+
+The courts of Stuttgart have exclusive jurisdiction over contractual disputes if all the disputing parties have their registered office in Germany, in Switzerland or in any country of the European Union. In cases before local courts, the local court of Stuttgart ( Amtsgericht Stuttgart , 70190 Stuttgart) shall have jurisdiction. In all other cases, contractual disputes shall be definitively adjudicated in accordance with the arbitration rules of the International Chamber of Commerce by one or more arbitrators appointed in accordance with such rules. The place of arbitration is Stuttgart, Germany, unless otherwise agreed by the parties in dispute. The arbitration language is English. The parties in dispute shall treat in confidence all information which they receive with regard to arbitration proceedings in accordance with this provision, including the existence of arbitration proceedings. In judicial and/or arbitration proceedings, they shall only disclose such information to the extent that this is necessary to exercise their rights. The chairman or a sole arbitrator must be of different nationality to the parties in dispute. Subject to any other ruling returned by the arbitration tribunal, the parties in dispute shall continue to perform the contracts affected by the dispute . 
+
+Robert Bosch GmbH 
+
+/s/ Dirk Knauerhase /s/Lars Göbel /s/ Joel Hatlen 
+
+Dirk Knauerhase Lars Göbel Joel Hatlen (CFO) 
+
+CP/PIR2-EN CP/TME3 
+
+Date: 11.07.16 Date: 19.7.16 Date: 20 July 2016 
+
+Company Stamp 
+
+Registered Office: Stuttgart, Registration Court: Amtsgericht Stuttgart, HRB 14000; 
+
+Chairman of the Supervisory Board: Franz Fehrenbach; Managing Directors: Dr. Volkmar Denner, 
+
+Dr. Stefan Asenkerschbaumer, Dr. Rolf Bulander, Dr. Stefan Hartung, Dr. Markus Heyn, Dr. Dirk Hoheisel,
+Christoph Kübel, Uwe Raschke, Dr. Werner Struth, Peter Tyroller 
+
+Page 12 / 16 
+
+Exhibit A 
+
+Data-IO Benchmark BAT10 FPSB 2016/06/17 - Update 2016/06/18 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+Parts for complete machine 
+
+Single Cost 
+
+kUSD 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+Service costs 
+
+Single Cost
+kUSD 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+Spare parts Cost 
+
+Single Cost 
+
+kUSD 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+Global sockets costs for A-IVI Total production volume (Normal Sockets) 
+
+Single Cost 
+
+kUSD 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+For Information:
+Global sockets costs for A-IVI Total production volume 
+(HIC Sockets for SO8) 
+
+Single Cost 
+
+kUSD 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+Special Parts 
+
+Single Cost 
+
+kUSD 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+excluding from TCO-Matrix 
+
+Single Cost 
+
+kUSD 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+Service kUSD 
+
+Penang 
+
+Braga 
+
+Wuhu 
+
+Hildesheim 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+Changes to version from 14.06.2016: [***] 
+
+Prices valid for [***] Years 
+
+after [***] Years Data IO has the right to increase prices by maximum of [***] % per Year 
+
+In the original plan all [***] are purchased within the first [***] Years so [***] effect should be for the BM 
+
+[***] confidential treatment requested 
+
+Registered Office: Stuttgart, Registration Court: Amtsgericht Stuttgart, HRB 14000; 
+
+Chairman of the Supervisory Board: Franz Fehrenbach; Managing Directors: Dr. Volkmar Denner, 
+
+Dr. Stefan Asenkerschbaumer, Dr. Rolf Bulander, Dr. Stefan Hartung, Dr. Markus Heyn, Dr. Dirk Hoheisel,
+Christoph Kübel, Uwe Raschke, Dr. Werner Struth, Peter Tyroller 
+
+Page 13 / 16 
+
+Doc. No.: CX _______ Buyer no. / dated ____.__.__ (YYYY.MM.DD) 
+
+Name of the supplier: Data I/O Corporation 
+
+Registered Office: Stuttgart, Registration Court: Amtsgericht Stuttgart, HRB 14000; 
+
+Chairman of the Supervisory Board: Franz Fehrenbach; Managing Directors: Dr. Volkmar Denner, 
+
+Dr. Stefan Asenkerschbaumer, Dr. Rolf Bulander, Dr. Stefan Hartung, Dr. Markus Heyn, Dr. Dirk Hoheisel,
+Christoph Kübel, Uwe Raschke, Dr. Werner Struth, Peter Tyroller 
+
+Page 14 / 16

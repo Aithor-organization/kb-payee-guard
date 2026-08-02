@@ -1,0 +1,1642 @@
+EXHIBIT 10.29
+
+DISTRIBUTION AGREEMENT
+
+This agreement ("THIS AGREEMENT") is made and signed as of the day of February,
+2000 by and between ON TRACK INNOVATIONS LTD., a company incorporated under the
+laws of the State of Israel, having its principal place of business at Z.H.R.
+I.Z., Rosh Pina 12000, Israel ("OTI") and SAILOR GROUP LIMITED (to be renamed as
+OTI ASIA PACIFIC LTD.), a company incorporated under the laws of the British
+Virgin Islands having its registered office at P.O. Box 957, Offshore
+Incorporations Centre, Road Town, Tortola, British Virgin Islands
+("DISTRIBUTOR");
+
+WHEREAS OTI develops and markets various contactless and
+contact/contactless smart card products, as described in ANNEX
+A hereto, and is in the process of developing certain
+additional contactless and contact/contactless smart card
+products which may from time to time be included in ANNEX A by
+the agreement of the parties hereto (collectively, the "OTI
+PRODUCTS"), and OTI is the sole owner of any and all
+intellectual property rights in and to the OTI Products; and
+
+WHEREAS The Distributor desires to become a distributor of the OTI
+Products in the Territory (as defined below), on an exclusive
+basis, and OTI is willing to appoint the Distributor for such
+purposes, all subject to the terms and conditions hereinafter
+set forth in this Agreement;
+
+NOW, THEREFORE, THE PARTIES HAVE DECLARED, AGREED AND STIPULATED AS FOLLOWS:
+
+CHAPTER A - INTERPRETATION, REPRESENTATIONS, APPOINTMENT & TERM
+
+1. INTERPRETATION
+
+1.1 In this Agreement:
+
+1.1.1 "CUSTOMERS" - means customers (end users) of the OTI
+Products in the Territory, whether existing or potential, as
+the case may be.
+
+1.1.2 "DOCUMENTATION" - means all documents associated with the
+OTI Products including user's manuals and other printed or
+visually-perceptible materials describing the use or design
+of the OTI Products as supplied by OTI to Distributor for
+Distributor's reference and excludes any documents which
+accompany the OTI Products for delivery to Customers.
+
+1.1.3 "OTI PRODUCTS" - means as defined in the preamble above.
+
+1.1.4 "MONTH" - means calendar month.
+
+1.1.5 "OTI INTELLECTUAL PROPERTY" - means all of OTI's proprietary
+rights, copyrights, patents, Trade Marks or other industrial
+or intellectual property rights relating to the OTI Products
+and Documentation, and all applications for any of the
+foregoing, whether or not registered in the Territory at the
+date hereof or at any later date, all as more particularly
+defined in the Shareholders Agreement.
+
+1.1.6 "PRICE LIST" - means the price list attached as ANNEX B
+hereto, as reviewed by the parties from time to time,
+subject to the provisions of Section 7.1 below.
+
+1.1.7 "QUARTER" - means a calendar quarter (i.e., one of the four
+periods of three consecutive Months each, beginning on the
+first day of January, April, July and October of each Year,
+as the case may be).
+
+1.1.8 "SHAREHOLDERS AGREEMENT" - means the shareholders agreement
+dated the date hereof and entered into between OTI, the
+Distributor and other parties stated therein.
+
+1.1.9 The "TERM OF THIS AGREEMENT" - means as defined in Section 4
+below.
+
+1.1.10 "TERRITORY" - means the countries listed in ANNEX C hereto.
+-------
+
+1.1.11 "THIS AGREEMENT" - means this document together with all the
+Annexes attached hereto, as may be amended in writing from
+time to time in terms hereof.
+
+1.1.12 "TRADE MARKS" - means OTI's trade marks, trade dress and
+trade names set forth in ANNEX D hereto, and such other
+trade marks as are used by OTI on or in relation to the OTI
+Products at any time during this Agreement, whether or not
+registered in the Territory.
+
+1.1.13 "YEAR" - means calendar year (save for the first Year of
+this Agreement which shall commence on the date of this
+Agreement and end on December 31, 2000).
+
+1.2 The headings in this Agreement are inserted for convenience of
+reference only and shall not affect its interpretation.
+
+1.3 The Annexes to this Agreement shall form an integral part of this
+Agreement.
+
+2. DECLARATIONS
+
+2.1 Distributor hereby warrants and declares to OTI that:
+
+2.1.1 Distributor is a company, duly registered and validly
+existing in its jurisdiction of organization.
+
+2.1.2 There is no hindrance, legal, contractual or otherwise, to
+Distributor in entering into this Agreement and performing
+its obligations hereunder and Distributor has the full power
+and authority to (i) own and operate its properties and to
+conduct its business as presently conducted and as proposed
+to be conducted and (ii) execute, deliver and perform this
+Agreement. This Agreement is the legal, valid and binding
+obligation of Distributor.
+
+2
+
+2.1.3 In relation to this Agreement, no unlawful payments have
+been or will be made directly or indirectly to: (i) any
+official or employee of any government, agency or other
+instrumentality of any government, (ii) any officer,
+director, employee or agent of Distributor, (iii) OTI or any
+of its divisions, subsidiaries or affiliates, or, (iv) any
+person, firm or corporation at the direction of or by
+arrangement with OTI or any of its divisions, subsidiaries
+or affiliates.
+
+2.2 OTI hereby warrants and declares to Distributor that:
+
+2.2.1 subject to the provisions of Section 3.3 below, it is not
+aware of any rights of any third party which would or might
+render the sale of and the service relating to the OTI
+Products by the Distributor in the Territory unlawful;
+
+2.2.2 to the best of its knowledge the OTI Products (including the
+OTI Intellectual Property comprised therein) do not infringe
+any third party's intellectual property rights in the
+Territory;
+
+2.2.3 notwithstanding the provisions of Section 3 below and
+subject to the provisions of Clause 13.2.2 of the
+Shareholders Agreement, third parties who entered into an
+OEM, private labeling or similar agreements with OTI, if
+any, may have rights to sell within the Territory products
+based on OTI Intellectual Property; and
+
+2.2.4 it is the beneficial owner of OTI Intellectual Property
+which is free from any encumbrances.
+
+3. APPOINTMENT & EXCLUSIVITY
+
+3.1 Subject to the terms and conditions hereinafter set forth, OTI hereby
+appoints Distributor as its distributor of the OTI Products in the
+Territory for the Term of this Agreement and Distributor hereby accepts
+such appointment.
+
+3.2 Subject to the terms and conditions set forth herein and in Clause 13.2
+of the Shareholders Agreement, the appointment of the Distributor
+hereunder is exclusive and OTI shall not appoint another distributor
+for the OTI Products in the Territory during the Term of this
+Agreement.
+
+3.3 OTI hereby assigns to Distributor OTI's current distribution network in
+the Territory, including the existing dealership and/or distribution
+arrangements with entities operating within the Territory, as listed in
+ANNEX E hereto, subject to Distributor being satisfied as to the terms
+of such arrangements and assignment. It is acknowledged and agreed by
+the parties that OTI is currently engaged with an exclusive distributor
+in the Philippines, and that the assignment of such distribution in the
+Philippines is subject to the consent of OTI's current exclusive
+distributor in the Philippines. In the event OTI is not entitled to
+make any assignment of any specific distribution agreement pursuant to
+the provisions hereof, it shall see to the prompt termination as soon
+as possible of such agreement. Any costs relating to any termination of
+an existing distribution agreement shall be borne by OTI. Any costs
+relating to the assignment of such agreement and employees of such
+distributor to the Distributor shall be borne in such manner as may be
+agreed by OTI and Distributor.
+
+3
+
+4. TERM OF AGREEMENT
+
+Subject to the rights of earlier termination of this Agreement as
+provided for herein below and unless otherwise agreed between the
+parties in writing, this Agreement will continue as long as the
+Shareholders Agreement is in force. (the "TERM OF THIS AGREEMENT").
+
+CHAPTER B - ORDERS & DELIVERY
+
+5. ORDERS
+
+5.1 Subject to the terms and conditions of this Agreement, OTI shall supply
+OTI Products to Distributor in accordance with Distributor's orders as
+accepted by OTI. The terms of this Agreement shall apply to all orders
+notwithstanding any inconsistent terms included therein by Distributor,
+unless specifically approved in writing by OTI.
+
+5.2 All orders made by Distributor hereunder shall include details
+regarding the quantity ordered, the exact identity (including full
+name, business address, telephone and facsimile numbers and name of
+contact man) of the entity for which such order is made and such other
+details as OTI shall reasonably request. All orders placed hereunder
+shall be given priority by OTI as it may reasonably give and be subject
+to written confirmation of OTI and no order shall be deemed to have
+been accepted unless so confirmed, provided however that OTI shall not
+refuse to accept any order without first consulting with the
+Distributor. OTI shall be entitled to confirm part of an order.
+
+5.3 In order to enable OTI to plan its sales, Distributor shall provide
+OTI, by not later than thirty (30) days following signature hereof a 12
+Month rolling forecast of its estimated orders from OTI under this
+Agreement (the "FORECAST"). Distributor shall update the Forecast prior
+to the beginning of each Quarter of the Term of this Agreement,
+provided however, that any Forecast shall be binding in respect of the
+first Quarter following its submittal, and Distributor shall not be
+entitled to change or update the quantities set forth in such Forecast
+in respect of such Quarter, without OTI's prior written consent. In
+relation to any certain Quarter, OTI shall not be obliged to supply to
+Distributor OTI Products in a quantity exceeding the quantities set
+forth for such OTI Product in the Forecast for such Quarter except for
+any order which has been accepted by OTI under Section 5.2 above.
+
+5.4 All orders supplied by OTI shall be subject to OTI's general terms of
+sale attached as ANNEX F hereto.
+
+4
+
+5.5 In the event that any new or modified product is introduced by OTI, OTI
+agrees to supply to Distributor for a period of at least two years at
+competitive prices such new or modified product which shall be
+compatible with and in all material respects conform to the
+specifications of the old OTI Product which may have been replaced or
+modified by the new or modified product.
+
+6. DELIVERY
+
+6.1 Supply and delivery of the OTI Products shall be made within 60 days
+from Distributor's order, if such order was included in the Forecast,
+and within 90 days from Distributor's order, if not included in the
+Forecast, and the supply and delivery schedules shall be established at
+the time of the confirmation by OTI of the relevant order. OTI shall
+meet the established supply and delivery schedules.
+
+6.2 Supply of the OTI Products and transfer of risk to Distributor will
+occur upon delivery of the OTI Products, Ex Works of OTI's premises.
+Title to the OTI Products (subject, for the avoidance of doubt to the
+provisions of Section 17.1 below) will transfer to Distributor only
+upon receipt by OTI of full price for the OTI Products supplied and
+until then OTI will maintain its exclusive ownership of such OTI
+Products.
+
+CHAPTER C - CONSIDERATION, AUDIT & TAXES
+
+7. CONSIDERATION
+
+7.1 The Ex Works prices of the OTI Products shall be as set forth in the
+Price List and subject to its respective terms and conditions (if any)
+as stated therein. OTI and Distributor may from time to time meet,
+discuss and review the Ex Works prices of the OTI Products. Unless and
+until any change in the Ex Works prices of the OTI Products is agreed
+by both OTI and Distributor in writing, they shall remain unchanged
+provided always that they shall be comparable to the most favourable
+prices given to other distributors of similar OTI Products on similar
+terms of purchase in the countries other than the Territory. Similarly,
+the Ex Works price of any new product to be introduced by OTI and
+included as the OTI Products shall be such price which is comparable to
+the most favourable price given to other distributors of similar OTI
+Products on similar terms of purchase in the countries other than the
+Territory and once it is agreed by the parties, it shall form part of
+the Price List.
+
+7.2 Except as otherwise specifically agreed to in writing by the parties,
+payment in respect of each order shall be made in United States
+dollars. Terms of payment of each order shall be agreed between the
+parties on a case by case basis, it being agreed that for material
+orders there shall be a reasonable down payment with the order, and the
+remaining amount shall be secured by irrevocable letter of credit in a
+form acceptable to OTI, confirmed by a bank acceptable to OTI. Payments
+for partial delivery shall be allowed. Payment in accordance with the
+terms agreed shall be a condition precedent to fulfillment by OTI of
+orders received from Distributor.
+
+5
+
+8. REPORTS & AUDITS
+
+The provisions of this Section 8 shall apply only to sub-distributors
+of Distributor appointed pursuant to Section 13 below. Distributor
+shall provide in its agreement with any sub-distributor that the
+sub-distributor shall during the term of the agreement with the
+sub-distributor and for a period of two Years thereafter:
+
+8.1 keep full, proper and up-to-date separate books and accounts showing
+clearly all inquiries, transactions and sales relating to the OTI
+Products purchased and sold by it and provide OTI, at OTI's request and
+costs, with a copy of such books and accounts;
+
+8.2 permit OTI, at its own expense and at all reasonable times, to inspect
+and to have such books and accounts audited by a certified public
+accountant, nominated by OTI for such purpose.
+
+The provisions of this Section 8.2 shall survive the termination of the
+agreement with the sub-distributor.
+
+9. VAT AND SALE TAXES
+
+Unless otherwise expressly set out in this Agreement, the prices, fees
+and other amounts set forth in this Agreement are exclusive of VAT or
+other sales tax payable by OTI at the country or place or manufacture,
+and to the extent that under any applicable law outside the country or
+place of manufacture, VAT or other sales tax shall be payable in
+respect of such prices, fees or amounts, such VAT or other sales tax
+shall be paid by the Distributor.
+
+CHAPTER D -SUPPORT, TRAINING & WARRANTY
+
+10. UPDATES, SUPPORT, AND TRAINING
+
+10.1 During the Term of this Agreement, OTI shall provide Distributor free
+of charge:
+
+10.1.1 updates of the software included in the OTI Products, as
+updated by OTI from time to time provided that the provision
+of such updates following termination of the Warranty Period
+(as defined below), may be subject to payment as determined
+by OTI from time to time; and
+
+10.1.2 technical assistance by way of telephone, facsimile or
+e-mail.
+
+10.2 Without derogating from the Distributor's undertakings pursuant to
+Section 12.3 below, OTI shall further provide to the Distributor, at
+the Distributor's request from time to time, and at such prices as set
+forth in the Price List, or as otherwise agreed between the parties
+from time to time, the following services:
+
+10.2.1 on-site support;
+
+10.2.2 integration of OTI Products to third parties equipment;
+
+6
+
+10.2.3 engineering services in relation with the adaptation of
+firmware and software included in the OTI Products to
+specific applications of the Customers; and
+
+10.2.4 other consulting and added value services, as shall be
+agreed between the parties.
+
+10.3 OTI shall further supply free of charge up to 15 training days for
+Distributor's staff, with regard to their role in the distribution,
+marketing and after sales services of the OTI Products. Such training
+shall be held in OTI's premises in Israel, or in Distributor's premises
+in Hong Kong, as shall be agreed by the parties. The Distributor shall
+bear all costs and expenses relating to the travel and accommodation of
+OTI's employees for such training.
+
+11. WARRANTY
+
+11.1 OTI hereby warrants the OTI Products will be in good working order and
+conform to OTI's official published specifications at the time of their
+delivery to Distributor against any defects due to bad design,
+workmanship or faulty materials. This limited warranty is given to
+Distributor only (as opposed to Customers) and shall not cover any
+failure of the OTI Products due to: (i) any accident, abuse or
+misapplication and/or modifications which have been made to the OTI
+Products by anyone other than OTI or Distributor; (ii) any use in an
+environment not as prescribed in OTI's official published
+specifications at the time of their delivery to Distributor; or (iii)
+any usage in excess of the maximum values (temperature limit, maximum
+voltage etc.) defined in OTI's official published specifications, or
+other relevant specifications of OTI at the time of their delivery to
+Distributor; or (iv) any other default not attributable to OTI. Such
+warranty shall be valid for 12 Months of the date of delivery of the
+OTI Products to Distributor (the "WARRANTY PERIOD"). Subject to
+Sections 2.2 above and 17 below, the warranty and remedies set forth
+herein are exclusive and except for and to the extent expressly
+provided herein and in the OTI's general terms of sale attached hereto,
+OTI makes no other or additional warranty or representation, either
+expressed or implied, with respect to the use or performance of the OTI
+Products, including its quality, performance, merchantability or
+fitness for a particular purpose and that all other warranties given or
+implied by any applicable law including any warranty given to Customers
+by Distributor, shall be the sole responsibility of Distributor,
+without recourse to OTI.
+
+THE FOREGOING WARRANTY IS IN LIEU OF ALL OTHER WARRANTIES, CONDITIONS
+OR TERMS EXPRESS OR IMPLIED BY STATUTE OR COMMON LAW.
+
+11.2 OTI may extend the Warranty Period in relation to the OTI Products, for
+additional periods of 12 Months each, subject to payment to OTI of such
+amounts as shall be determined by OTI in OTI's Price List (ANNEX B).
+
+11.3 Subject to Sections 2.2 above and 17 below and OTI's general terms of
+sale attached hereto, the parties hereby expressly agree that the
+liability of OTI on the use or performance of the OTI Products will be
+limited to the repair or replacement (including the cost of return) of
+the OTI Products or, at OTI's choice, return of their price, and that
+OTI will bear no other liability toward Distributor, Customers, or any
+third party for any indirect, consequential, incidental, punitive,
+special or exemplary damages or losses arising out of the use or
+performance of the OTI Products, even if it has been advised of the
+possibility thereof.
+
+7
+
+CHAPTER E -MARKETING, SUB DISTRIBUTION, MANUFACTURING RIGHTS
+
+12. MARKETING AND AFTER SALES SERVICE
+
+12.1 Distributor hereby undertakes to use its best endeavors to promote the
+sale of the OTI Products throughout the Territory.
+
+12.2 It is hereby agreed and recorded that Distributor acknowledges OTI's
+policy to provide Customers with good and efficient after sales
+services, in order to keep Customers satisfied with the OTI Products
+and enable them to properly and efficiently use the OTI Products as
+well as to receive all updates and new versions of the OTI Products.
+
+12.3 Distributor shall be solely responsible for providing installation,
+integration, support and maintenance services to the Customers in
+respect of the OTI Products, by sufficiently competent and experienced
+staff, and for satisfying the requirements of the local licensing
+authorities pertaining to after sales service.
+
+13. APPOINTMENT OF SUB- DISTRIBUTORS
+
+13.1 Distributor shall be entitled to appoint sub-distributors for the OTI
+Products in the Territory, provided however that each sub-distributor
+shall have signed and delivered to OTI an undertaking towards OTI in
+the form attached as ANNEX G hereto prior to any engagement in the
+distribution of OTI Products. Such undertaking shall contain:
+
+13.1.1 a confidentiality undertaking by the sub-distributor in the
+form included in ANNEX G;
+
+13.1.2 the sub-distributor's agreement to the provisions of
+Sections 8 and 11 above and Sections 13.2, 15.2, 16, 17, 19
+and 22 below, to act in accordance therewith, and that such
+provisions may be enforced against it directly by OTI;
+
+13.1.3 the sub-distributor's agreement that termination of this
+Agreement, for any reason, shall cause the immediate
+termination of any agreement between the Distributor and the
+sub-distributor in respect of the OTI Products;
+
+13.1.4 the sub-distributor's agreement that, in any event, OTI
+shall not be deemed to have any direct contractual
+relationship with such sub-distributor, and such
+sub-distributor shall not have any claim or demand or any
+other right towards OTI in any matter whatsoever.
+
+8
+
+13.2 The Distributor agrees that OTI shall be entitled to request
+Distributor to terminate, the engagement of any sub-distributor of the
+OTI Products, by Distributor sending a 60 days prior written notice to
+such effect to the sub-distributor.
+
+13.3 The Distributor shall not be liable per se to OTI for wrongful acts of
+any sub-distributor.
+
+14. MANUFACTURING RIGHTS
+
+14.1 Following January 1, 2001, Distributor shall have the right, by sending
+a written notice to OTI to that effect (the "MANUFACTURING RIGHTS
+NOTICE"), to manufacture (or subcontract for manufacture) smart cards
+(for example, the plastic of the multi-card and antennae, if required)
+("SMART CARDS") utilising any or all of OTI Intellectual Property, to
+the extent it relates to such manufacture, for sale of the Smart Cards
+within the Territory (the "MANUFACTURING Rights"). The Manufacturing
+Rights shall be subject to the use and embeddment in the Smart Cards of
+any one or more of OTI's modules supplied by OTI (such as those set out
+in ANNEX A as the Smart Card Modules). The Manufacturing Rights shall
+be exclusive to Distributor in the Territory and shall continue during
+the Term of this Agreement but shall not in any way limit OTI's right
+to manufacture OTI Products in the Territory which are sold in or
+imported into areas outside the Territory. For avoidance of doubt,
+Distributor shall not be entitled at any time to receive Manufacturing
+Rights of the OTI modules included in the Smart Cards.
+
+14.2 Within thirty (30) days following receipt by OTI of the Manufacturing
+Rights Notice, OTI will deliver to Distributor such information, which
+is necessary for Distributor to manufacture the Smart Cards. Subject to
+the Manufacturing Rights granted to Distributor herein, all right,
+title and interest in all OTI Intellectual Property in the Smart Cards,
+including without limitation, the OTI modules embedded in the Smart
+Cards, shall at all times remain the property of OTI.
+
+14.3 For the purpose of manufacturing the Smart Cards, Distributor shall
+purchase from OTI, and not from any other third party, modules to be
+included in the Smart Cards, for the prices of such modules set forth
+in the Price List.
+
+14.4 In the event that Manufacturing Rights shall be granted hereunder, OTI
+shall have the right to order at any time from Distributor, or, in the
+event that Distributor elects to exercise the Manufacturing Rights by a
+sub-contractor, to order directly from such sub-contractor, Smart Cards
+for sale by OTI or by its other distributors, while abiding
+Distributor's exclusive distribution rights in this Agreement, at
+prices which shall not be higher than the most favorable prices granted
+by Distributor (or such sub-contractor of the Distributor) to Customers
+for similar volume of Smart Cards at the time. Distributor shall abide
+by such OTI orders, subject to reasonable payment terms and delivery
+schedule to be agreed.
+
+14.5 For grant of the Manufacturing Rights hereunder OTI shall be entitled
+to such reasonable royalties at such rates not exceeding market rates
+for similar Smart Cards and as shall be agreed between the parties at
+the time of grant of the Manufacturing Rights.
+
+9
+
+CHAPTER F- NON COMPETITION & ADDITIONAL UNDERTAKINGS OF DISTRIBUTOR
+
+15. NON COMPETITION
+
+Distributor undertakes as follows:
+
+15.1 during the Term of this Agreement and for a period of one (1) year
+after its termination for any reason whatsoever it shall not, without
+OTI's prior written approval, sell, promote the sale, distribute,
+manufacture or develop, or represent or agree to represent in the
+Territory any third party in respect of any products competing with or
+similar to the OTI Products, or technologies competing with or similar
+to OTI Intellectual Property save and except pursuant to this Agreement
+and the Shareholders Agreement;
+
+15.2 during the Term of this Agreement and subject to the provisions of
+Section 14 above, not to obtain or otherwise purchase OTI Products for
+resale from any person, firm or company, other than OTI; and not to
+market or sell OTI Products not directly purchased from OTI.
+
+15.3 During the Term of this Agreement, it will not seek customers,
+establish any branch or maintain any distribution depot for the OTI
+Products in any country which is outside the Territory or perform a
+sale of OTI Products in the Territory knowing that the products shall
+be sold out of the Territory without obtaining OTI's prior written
+consent.
+
+16. ADDITIONAL UNDERTAKINGS OF DISTRIBUTOR
+
+16.1 Distributor hereby undertakes, at its sole cost and expense and during
+the Term of this Agreement:
+
+16.1.1 to comply with all legal requirements from time to time
+relating to the importation, distribution and sale of the
+OTI Products in the Territory and shall, without limitation,
+obtain from the relevant local authorities in the Territory
+any and all licenses, permits and/or approvals, necessary or
+required, in order to import, distribute and service the OTI
+Products, maintain and renew such licenses, permits and/or
+approvals in full force and effect and otherwise fulfill its
+undertakings in accordance with the provisions of this
+Agreement;
+
+16.1.2 to provide OTI within 30 days from signature hereof the
+Distributor's price list of OTI Products to Customers, and
+to provide to OTI any amended price list at least 30 days
+prior to effective date of such amendment;
+
+16.1.3 to provide OTI, on a regular basis, with Customers'
+"feedback" on the OTI Products and their use and from time
+to time consult with OTI's representatives for the purpose
+of assessing the conditions of the market for the OTI
+Products in the Territory;
+
+10
+
+16.1.4 to refrain from any act or omission which might be
+detrimental to OTI's name and reputation, and to provide the
+Customers with fair and efficient service relating to the
+marketing, sale and after sales service of the OTI Products.
+
+16.2 During the Term of this Agreement, Distributor shall not, without
+obtaining OTI's prior written consent:
+
+16.2.1 incur any liability whatsoever on behalf of OTI, or in any
+way bind or purport to bind OTI;
+
+16.2.2 solicit any customer which is outside the Territory and
+shall promptly refer to OTI all inquiries concerning the OTI
+Products received by it from such customers.
+
+CHAPTER G - OTI INTELLECTUAL PROPERTY & CONFIDENTIALITY
+
+17. OTI INTELLECTUAL PROPERTY
+
+17.1 Distributor recognizes and acknowledges that all of OTI Intellectual
+Property, including without limitation, all updates and new versions,
+improvements and development, belong solely to OTI which is and shall
+remain its sole owner, and it is hereby expressly agreed that nothing
+in this Agreement shall constitute or be considered as constituting a
+transfer or license of OTI Intellectual Property or any part thereof by
+OTI to Distributor. The provisions of this Section shall survive the
+termination of this Agreement. For avoidance of doubt it is clarified
+that the sale of OTI Products constitutes a worldwide royalty-free and
+perpetual license to use the OTI Intellectual Property comprised in
+such OTI Products for only such purpose for which such OTI Products
+were purchased by Distributor and/or Customers.
+
+Distributor shall not challenge OTI's Intellectual Property rights in
+any way, including without limitation, by filing to any court, patent
+or other authority, a claim, opposition or request for cancellation
+against such rights.
+
+17.2 Distributor shall sell the OTI Products under such trade names and
+using such trade marks as shall be agreed between the parties from time
+to time; it being agreed that the Trade Marks shall appear on the OTI
+Products, in the manner as shall be agreed between the parties, from
+time to time. Distributor shall adhere to all reasonable instructions
+given to it by OTI regarding the use of any of the Trade Marks in such
+manner so as to afford reasonable protection of the Trade Marks and
+associated goodwill to OTI.
+
+17.3 Distributor shall forthwith notify OTI in writing of any infringement
+or threatened infringement, unauthorized use, manufacture or sale,
+enjoyment, duplication or replication of the OTI Products and/or OTI
+Intellectual Property in the Territory of which it shall become aware
+at any time during the Term of this Agreement. In such event OTI shall
+be entitled to take any and all legal action it deems appropriate in
+order to protect its rights, and the Distributor shall provide OTI, at
+OTI's cost and expense, with all reasonable assistance required by OTI
+for such purpose.
+
+11
+
+17.4 If any of the events under Section 17.3 above occurs and OTI does not
+take any legal action promptly upon notification by Distributor
+thereunder, Distributor may notify OTI that it wishes to take legal
+action on its part and to join OTI with Distributor in taking steps to
+end such infringement or act including legal proceedings in the
+parties' joint names. The parties may agree, in writing, as to the
+steps and proceedings to be taken and the proportions in which they
+shall share the costs thereof. Failing such agreement, each party shall
+be free to act independently provided it shall notify the other party,
+from time to time of the steps to be taken by it. Irrespective of the
+failure to reach such agreement each party shall give the other party,
+at the other party's request and costs, all reasonable assistance
+required by such other party in respect of the legal steps taken by it.
+In the event of joint proceedings being taken and damages being awarded
+in favour of OTI and Distributor, the costs of the proceedings so far
+as not recoverable in the proceedings shall be shared by the parties in
+the same proportion as they are awarded damages.
+
+17.5 Where the parties differ in their view as to the advisability of
+instituting legal proceedings either party may call for a joint case to
+be put to legal counsel well versed in the laws of the country by which
+any legal proceedings will be determined and also legal counsel well
+versed in the laws of the country in which the infringement is alleged
+and they shall cooperate to provide counsel promptly with all relevant
+ascertainable facts and, where appropriate, a technical expert's
+opinion on the matter. In such event the parties agree to act according
+to the advice of such legal counsel.
+
+18. CONFIDENTIALITY
+
+18.1 Each party hereby undertakes towards the other party to hold as fully
+confidential and not to disclose to others, and not to use, directly or
+indirectly, any and all Confidential Information of such other party,
+including without limitation, trade secrets, strategic plans and price
+calculations. For the purposes hereof "Confidential Information" shall
+include but not be limited to all information marked by a party as such
+but shall exclude all information which was already or became public
+knowledge through no fault of the using party.
+
+18.2 Not later than the date of signature hereof, the parties shall have
+signed and executed the confidentiality agreement in a form attached as
+ANNEX H hereto, which signature and execution is a condition precedent
+to the coming into force of this Agreement.
+
+18.3 Distributor shall require each of its employees and/or agents employed
+in providing services in relation to the OTI Products to execute an
+undertaking of confidentiality, in a form approved by OTI, and
+incorporating, inter alia, the provisions of this Section 18 and of
+Section 17.1 above.
+
+12
+
+CHAPTER H - INSURANCE & FORCE MAJEURE
+
+19. INSURANCE
+
+19.1 Distributor shall maintain at its own expense, and shall provide OTI,
+at OTI's request, with insurance certificates showing, coverage for
+general liability and for product liability, having reasonable terms
+commonly acceptable in similar cases, insuring against claims arising
+out of or related to this Agreement and Distributor's activities
+pursuant to fulfilling its undertakings in accordance with the terms of
+this Agreement. Each policy shall be maintained with an insurance
+carrier acceptable to OTI and shall provide that it may not be
+cancelled or modified without at least thirty (30) days prior written
+notice from the insurance carrier to both parties at their respective
+addresses.
+
+19.2 Each party agrees to promptly notify the other of any and all product
+liability claims within the Territory relating to the OTI Products
+coming to its attention.
+
+20. FORCE MAJEURE
+
+Neither party shall be responsible or liable for any delay or failure
+in performance under this Agreement arising as a result of any
+occurrence or contingency beyond its reasonable control, including but
+not limited to, accident, act of God, acts of the public enemy,
+earthquake, fire, flood, explosion, labor disputes, strikes, riots,
+civil commotion, war (declared or not), requirements or acts of any
+government or agency thereof, and failure or delays in transportation.
+The delayed party shall send written notice of the delay and the reason
+therefor to the other party as soon as possible after the party delayed
+knew of the cause of delay in question. If, however, a circumstance of
+Force Majeure continues over an uninterrupted period of more than three
+Months, then the party against which Force Majeure has been invoked has
+the right, if no other agreement is reached before the end of such
+three Month period, to forthwith terminate this Agreement by delivering
+to the other party a written notice to that effect.
+
+CHAPTER I- TERMINATION AND REMEDIES
+
+21. TERMINATION AND REMEDIES
+
+21.1 Without prejudice to any remedy or right of either party under this
+Agreement or by law, either party shall have the right to forthwith
+terminate this Agreement by serving the other party with a written
+notice to that effect if:
+
+21.1.1 the other party commits a breach of its obligations under
+this Agreement and, in the event such breach is other than
+the violation of or non-compliance by a party of the
+provisions of Section 23, fails to remedy such breach within
+30 days after receipt of a written notice from the
+non-defaulting party describing such failure, in whole or in
+part, will entitle the other party to forthwith terminate
+this Agreement save and except where Distributor fails to
+pay any price for OTI Products which has become due in
+accordance with this Agreement, OTI may forthwith terminate
+this Agreement upon giving Distributor not less than 7 days'
+prior written notice; or
+
+13
+
+21.1.2 the other party is placed into liquidation, insolvency or
+other similar proceedings or a liquidator or receiver is
+appointed with respect to the other party or a substantial
+part of its assets or the other party makes any voluntary
+arrangement with its creditors.
+
+21.2 Upon termination of this Agreement for any reason and without prejudice
+to any remedy or right of either party accrued prior to such
+termination under this Agreement or by law, the following provisions
+shall apply:
+
+21.2.1 the Distributor shall cease to market and sell the OTI
+Products and shall return to OTI all Documentation relating
+to the OTI Products then in possession of the Distributor;
+
+21.2.2 the Distributor shall, at OTI's request (if made within one
+month), resell to OTI or to its order all inventory of OTI
+Products (or any part thereof requested by OTI) then in
+possession of the Distributor for the price at which they
+were purchased from OTI in terms hereof and any OTI Products
+then in possession of the Distributor not resold to OTI
+pursuant to this Section may be sold by Distributor to any
+third party in the Territory at any time; and
+
+21.2.3 if OTI shall be the terminating party pursuant to this
+Section 21, all Manufacturing Rights shall expire at the
+date of such termination, and if Distributor shall be the
+terminating party pursuant to this Section 21, all
+Manufacturing Rights shall expire at the termination of a
+six month period commencing upon such termination of this
+Agreement or such shorter period as may from time to time be
+notified by Distributor to OTI, all without prejudice to
+OTI's right to receive royalties in respect of the Smart
+Cards manufactured under the Manufacturing Rights,
+
+Provided that notwithstanding any such termination of this Agreement
+and/or expiration of the Manufacturing Rights,
+
+(i) Distributor shall be entitled to retain any inventory
+of OTI Products and Documentation and/or order and
+purchase any additional OTI Products from OTI and/or
+manufacture Smart Cards in order to meet any
+outstanding commitments, obligations or arrangements
+to or with Customers or relating to any projects; and
+
+(ii) in relation to such outstanding commitments,
+obligations or arrangements, the parties shall also
+to the extent permissible attempt to negotiate in
+good faith with the Customers a novation thereof on
+terms mutually satisfactory to the parties and the
+Customers whereby OTI may assume the obligation to
+supply OTI Products to and/or manufacture Smart Cards
+direct for Customers and Distributor be fully
+discharged from such supply to or manufacture for
+Customers.
+
+21.4 Any amount owed by one party to the other which is not timely paid
+shall bear default interest at the rate of LIBOR plus 3% (for 6 Month
+loans) for the period of default.
+
+14
+
+CHAPTER J- MISCELLANEOUS
+
+22. NO AGENCY
+
+22.1 OTI and Distributor are acting hereunder as independent contractors and
+it is hereby expressly declared and agreed that this Agreement in no
+way establishes any principal - agent, employer - employee, or
+partnership relationship between the parties.
+
+22.2 Nothing in this Agreement shall be construed as granting either party
+the right, power or authority to act for or on behalf of the other
+party, to create any undertakings on behalf of the other party, or to
+bind or commit the other party in respect to any such undertakings,
+except as set forth herein or as otherwise agreed to in writing between
+the parties prior to such act.
+
+23. ASSIGNMENTS
+
+23.1 In Section 23.2 below, a person shall be deemed to have "EFFECTIVE
+CONTROL" of the Distributor if he exercises, or is able to exercise or
+is entitled to acquire, control, whether direct or indirect, over the
+Distributor's affairs, and in particular, but without prejudice to the
+generality of the above, if he possesses, or is entitled to acquire, or
+control the voting of at least 50% of the outstanding share capital or
+voting power in the Distributor. Where two or more persons together
+satisfy such condition, they shall be taken to have together Effective
+Control of the Distributor.
+
+23.2 The appointment of the Distributor under this Agreement is personal,
+and except as provided under this Agreement, the Distributor may not
+assign or otherwise transfer or pledge its rights and undertakings
+under this Agreement without the prior written consent of OTI; any
+assignment for which consent was not obtained will not be considered
+valid. A transfer in Effective Control of the Distributor shall be
+deemed an assignment of rights and undertakings under this Section.
+
+23.3 OTI may assign its rights under this Agreement, by serving a written
+notice to the Distributor.
+
+24. LAW AND JURISDICTION
+
+24.1 This Agreement shall be governed by and construed in all respects in
+accordance with the laws of England. Each party hereto irrevocably
+agrees that the courts of Hong Kong shall have non-exclusive
+jurisdiction to hear and determine any suit, action or proceeding, and
+to settle any disputes which may arise out of or in connection with
+this Agreement and for such purposes irrevocably submits to the
+non-exclusive jurisdiction of such courts.
+
+24.2 Nothing contained in this Section 24 shall limit the right of any party
+hereto to take legal or other proceedings against any other party in
+any court of competent jurisdiction, nor shall the taking of
+proceedings in one or more jurisdictions preclude the taking of
+proceedings in any other jurisdiction, whether currently or not to the
+extent permitted by the law of such other jurisdiction.
+
+15
+
+24.3 OTI hereby appoints FIRMLEY COMPANY LIMITED of21st Floor, Edinburgh
+Tower , The Landmark, Central, Hong Kong (Attention: MR. JOHN WONG) and
+Distributor hereby appoints CHEUNG KONG CAPITAL LIMITED of12th Floor,
+Cheung Kong Center, 2 Queen's Road Central, Hong Kong (Attention: MR.
+KAM HING LAM) respectively as its agent to receive and acknowledge on
+its behalf service of any writ, summons, order, judgment or other
+notice of legal process in Hong Kong. If for any reason any agent named
+above (or its respective successor) no longer serves as agent of its
+principal for this purpose the relevant party shall promptly appoint a
+successor agent and notify the other parties hereto thereof. Each party
+agrees that any such legal process shall be sufficiently served on it
+if delivered to its agent for service at its address for the time being
+in Hong Kong whether or not such agent gives notice thereof to its
+principal.
+
+25. WHOLE UNDERSTANDING AND AMENDMENTS
+
+25.1 This Agreement and the Annexes hereto constitute the entire
+understanding of the parties and supersede all oral or written
+representations or agreements, privileges or understandings between the
+parties.
+
+25.2 This Agreement may only be modified by an agreement in writing duly
+signed by both parties hereto, or their respective successors or
+assignees.
+
+26. SEVERABILITY
+
+If any condition, term or covenant of this Agreement shall at any time
+be held to be void, invalid or unenforceable such condition, covenant
+or term shall be construed as severable and such holding shall attach
+only to such condition, covenant or term and shall not in any way
+affect or render void, invalid or unenforceable any other condition,
+covenant or term of this Agreement, and this Agreement shall be carried
+out as if such void, invalid or unenforceable term were not embodied
+herein.
+
+27. WAIVER
+
+The failure at any time of either party to enforce any of the terms or
+conditions or any right or to exercise any option of this Agreement,
+will in no way be construed to be a waiver of such terms, conditions,
+rights or options, or in any way to affect the validity of this
+Agreement.
+
+28. NOTICES
+
+Any notice authorized or required to be given in accordance with the
+terms of this Agreement, may be given by facsimile, (with receipt of
+proper transmission) or by registered or certified mail. Such notice
+shall be deemed properly given two business days after having been sent
+by facsimile and ten days after being posted by registered or certified
+mail to the address of the parties listed below:
+
+16
+
+If to OTI: Z.H.R. I.Z., Rosh Pina 12000, Israel
+fax: 00-972-6-6938887
+Attention: Mr. Ronnie Gilboa
+
+If to Distributor: c/o Cheung Kong Infrastructure Holdings Limited,
+12/F, Cheung Kong Center,
+2 Queen's Road Central,
+Hong Kong
+fax: (852) 2524 8829
+Attention: Mr. Kam Hing Lam
+
+IN WITNESS WHEREOF, THE PARTIES HAVE SET THEIR SIGNATURES AS OF THE DAY FIRST
+ABOVE WRITTEN AND HAVE HEREBY CAUSE THIS AGREEMENT TO BE EXECUTED.
+
+------------------------- ---------------------------------
+On Track Innovations Ltd. Sailor Group Limited
+(to be renamed OTI Asia Pacific Ltd.)
+
+17
+
+LIST OF ANNEXES
+
+A OTI Products
+B Price List
+C Territory
+D Trade Marks and Trade Names
+E Current Distribution Network
+F General Terms of Sale
+G Sub-distributor's undertaking
+H Mutual Confidentiality Agreement
+
+18
+
+AGREEMENT BETWEEN OTI AND OTIP
+DATED FEBRUARY 2000
+
+ANNEX A
+
+OTI PRODUCTS
+
+This Annex is based on the products that are available in January 2000 . The
+Annex will be updated once every 6 month commencing 1 January 2000.
+
+SMART CARD MODULES:
+
+------------------------------------ ----------------------------------
+Type Memory Capacity
+------------------------------------ ----------------------------------
+Contactless Only 1K
+------------------------------------ ----------------------------------
+4K
+------------------------------------ ----------------------------------
+8K
+------------------------------------ ----------------------------------
+
+------------------------------------ ----------------------------------
+Contact & Contactless 1K
+------------------------------------ ----------------------------------
+4K
+------------------------------------ ----------------------------------
+8K
+------------------------------------ ----------------------------------
+
+------------------------------------ ----------------------------------
+Antenna Module 1K
+------------------------------------ ----------------------------------
+4K
+------------------------------------ ----------------------------------
+8K
+------------------------------------ ----------------------------------
+
+------------------------------------ ----------------------------------
+Multi Antenna Module 1K
+------------------------------------ ----------------------------------
+4K
+------------------------------------ ----------------------------------
+8K
+------------------------------------ ----------------------------------
+
+------------------------------------ ----------------------------------
+Wrist Watch Module 1K
+------------------------------------ ----------------------------------
+4K
+------------------------------------ ----------------------------------
+
+SMART CARDS:
+
+------------------------------------ ----------------------------------
+Contactless Only 1K
+------------------------------------ ----------------------------------
+4K
+------------------------------------ ----------------------------------
+8K
+------------------------------------ ----------------------------------
+
+------------------------------------ ----------------------------------
+MultiCard 1K
+------------------------------------ ----------------------------------
+4K
+------------------------------------ ----------------------------------
+8K
+------------------------------------ ----------------------------------
+
+------------------------------------ ----------------------------------
+Combination Module Card 1K
+------------------------------------ ----------------------------------
+4K
+------------------------------------ ----------------------------------
+8K
+------------------------------------ ----------------------------------
+
+------------------------------------ ----------------------------------
+Uni Card 1K
+------------------------------------ ----------------------------------
+4K
+------------------------------------ ----------------------------------
+8K
+------------------------------------ ----------------------------------
+
+19
+
+------------------------------------ ----------------------------------
+Power Card 1K
+------------------------------------ ----------------------------------
+4K
+------------------------------------ ----------------------------------
+8K
+------------------------------------ ----------------------------------
+
+------------------------------------ ----------------------------------
+Wrist Watch 1K
+------------------------------------ ----------------------------------
+4K
+------------------------------------ ----------------------------------
+
+READERS & ACCESSORIES:
+[ ] SCI 5 OEM Board
+[ ] Int5
+[ ] Host Reader
+[ ] Multi reader
+[ ] SAM for Reader
+
+SOLUTIONS:
+[ ] Gasoline Management Solution
+[ ] Medical Application Solution
+[ ] E-purse for closed campus
+
+20
+
+AGREEMENT BETWEEN OTI AND OTIP
+DATED FEBRUARY 2000
+
+ANNEX B
+
+PRICE LIST
+
+---------------------------------------------------------- --------------------------------------------------------
+PRODUCT PRICE IN US$ (EX FACTORY)
+---------------------------------------------------------- --------------------------------------------------------
+
+---------------------------------------------------------- --------------------------------------------------------
+
+---------------------------------------------------------- --------------------------------------------------------
+
+---------------------------------------------------------- --------------------------------------------------------
+
+---------------------------------------------------------- --------------------------------------------------------
+
+SPECIFIC TERMS
+
+Prices of OTI Products shall be comparable to the most favorable prices given to
+other distributors of similar OTI Products on similar terms of purchase in
+countries other than the Territory ("MFC TERMS").
+
+PRICE OF SERVICES (SECTION 10.2)
+
+To be determined by agreement of the parties on a case by case basis on MFC
+Terms
+
+ADDITIONAL WARRANTY CHARGE (SECTION 11)
+
+To be determined by agreement of the parties on a case by case basis but in no
+event more than 12% of price to customer. Additional warranty shall relate only
+to Reading Devices
+
+21
+
+AGREEMENT BETWEEN OTI AND OTIP
+DATED FEBRUARY 2000
+
+ANNEX C
+
+TERRITORY
+
+1. China
+
+2. Hong Kong
+
+3. Taiwan
+
+4. Singapore
+
+5. Australia
+
+6. South Korea
+
+7. Japan
+
+8. The Philippines
+
+9. Malaysia
+
+10. Indonesia
+
+11. Thailand
+
+12. India
+
+13. Vietnam
+
+14. New Zealand
+
+22
+
+AGREEMENT BETWEEN OTI AND OTIP
+DATED FEBRUARY 2000
+
+ANNEX D
+
+TRADE MARKS
+
+TRADEMARKS Trademark applications have been filed in Israel for the name "OTI"
+"Easy Park(TM)" and the mark "EYECON(TM)" as well as "OTI Insight". The Company
+is filing priority applications for use of these trademarks in the United States
+and Europe.
+
+Table I:OTITM
+
+--------------------------------------------------------------------------------------------------------
+APPLICATION Registered
+COUNTRY NUMBER DATE NUMBER DATE STATUS
+--------------------------------------------------------------------------------------------------------
+
+USA Registered
+--------------------------------------------------------------------------------------------------------
+
+Table II: Easy ParkTM
+
+--------------------------------------------------------------------------------------------------------
+APPLICATION Registered
+COUNTRY NUMBER DATE NUMBER DATE STATUS
+--------------------------------------------------------------------------------------------------------
+
+Canada 72844-84 854249 12/8/99 Granted
+--------------------------------------------------------------------------------------------------------
+
+23
+
+AGREEMENT BETWEEN OTI AND OTIP
+DATED FEBRUARY 2000
+
+ANNEX E
+
+CURRENT OTI'S DISTRIBUTION AND DEALERSHIP NETWORK IN THE TERRITORY
+
+----------------------------------------------------- ---------------------------------------------------
+Country DISTRIBUTOR
+----------------------------------------------------- ---------------------------------------------------
+
+China OTI China Ltd.
+----------------------------------------------------- ---------------------------------------------------
+Hong Kong City Smart Ltd.
+----------------------------------------------------- ---------------------------------------------------
+Philippines E.L. Enterprises
+----------------------------------------------------- ---------------------------------------------------
+South Korea Focus Ltd.
+----------------------------------------------------- ---------------------------------------------------
+India Pace Automation
+----------------------------------------------------- ---------------------------------------------------
+Indonesia PT. Triomega
+----------------------------------------------------- ---------------------------------------------------
+Taiwan Innovision Ltd.
+----------------------------------------------------- ---------------------------------------------------
+
+24
+
+AGREEMENT BETWEEN OTI AND OTIP
+DATED FEBRUARY 2000
+
+ANNEX F
+
+GENERAL TERMS & CONDITIONS OF SALE OF OTI
+
+1. ORDERS, PRODUCTS AND SOFTWARE*
+
+Unless otherwise stated in a written agreement signed by On Track
+Innovations Ltd. (hereafter called "VENDOR"), the terms and conditions
+herein shall apply to sales made by the Vendor. Notwithstanding
+anything to the contrary stated in Buyer's conditions of purchase,
+Buyer agrees that Vendor's acceptance in writing or by electronic mail
+or by EDI (when either system has been agreed by Vendor for the
+purposes hereof) of Buyer's order constitutes Buyer's acceptance of the
+conditions set out herein. Where Software is supplied by Vendor to
+Buyer, whether or not in combination with products, Buyer acknowledges
+that use of that Software is governed by Vendor or third party software
+license terms and conditions applicable to that software. All the
+conditions herein included shall also apply to the supply of Software
+so long as they are not inconsistent with the applicable third party
+software license terms and conditions.
+
+2. PRICE AND PACKAGING
+
+The price is Ex-Works, excluding any applicable tax, customs duty
+and/or levy imposed by any public authority in the Territory, for which
+Buyer shall be liable directly and additionally be liable to pay to
+Vendor if Vendor has made payment. The cost of non standard packaging
+is not included. Reasonable instructions of the Buyer concerning non
+standard packaging, weight and customs shall be abided by Vendor
+provided that Buyer has given precise instructions with reasonable
+prior notice. The corresponding additional costs shall be charged to
+Buyer.
+
+3. DELIVERIES
+
+3.1 In the event of any default by Buyer, Vendor may decline to make
+further shipments or may elect to continue to make shipments
+notwithstanding such default.
+
+3.2 Orders accepted by the Vendor are firm and non cancellable by the Buyer
+except (1) upon Vendor's default which shall not have been corrected
+within 7 days from Buyer's notice to such effect and shall be subject
+to appropriate indemnification by Vendor for costs and loss of profit
+incurred by Buyer or (2) upon Vendor's written agreement, which shall
+only be considered on a case by case basis and shall be subject to
+appropriate indemnification by Buyer for costs and loss of profit
+incurred by Vendor.
+
+25
+
+3.3 Any claim regarding non-conformity of product with specifications will
+be accepted by Vendor only if each of the following three conditions
+have been met:
+
+3.3.1 The Buyer's claim must be submitted in writing to Vendor
+within nine months after the delivery date. After such
+nine-month period has expired, all products shall be deemed
+accepted. After submitting the claims to Vendor, Buyer shall
+return the whole batch of non-accepted products. Each
+allegedly non-conforming batch of products must be accompanied
+by a written statement of the Buyer containing the precise
+reason for rejection and the corresponding test report and
+proof of purchase,
+
+3.3.2 The return must be made at the Buyer's cost which shall be
+reimbursed by the Vendor if the Buyer's claim is justified;
+and
+
+3.3.3 Products must not have been modified by the Buyer.
+
+4. PRODUCTS SPECIFICATIONS
+
+Specifications for products shall be Vendor's specifications as
+existing in the official published data sheet at the time of the order
+acknowledgment, except if particular specifications are given by Buyer
+and accepted by Vendor.
+
+Except as otherwise specifically agreed in writing by Vendor, Vendor
+reserves the right to change at any time the specifications of any
+product manufactured by Vendor (including all statements and data
+appearing in Vendor's catalogues, data sheets and advertisements) with
+30 days' prior written notice to Buyer which shall then be applicable
+to products thereafter purchased from Vendor.
+
+5. RESERVATION OF TITLE
+
+TITLE IN THE PRODUCTS SHALL REMAIN WITH VENDOR UNTIL IT HAS RECEIVED
+FULL PAYMENT FOR SUCH PRODUCTS NOTWITHSTANDING DELIVERY TO BUYER. Upon
+Buyer's failure to make payment by the due date, Vendor may take back
+possession of the products delivered and to that end, Buyer hereby
+grants Vendor or anyone designated by him access to the premises where
+the products are stored.
+
+6. WARRANTY
+
+Vendor's products are not designed nor are they authorized for use in
+life supporting devices or systems. Vendor expressly disclaims any
+responsibility for such usage which shall be made at Buyer's sole risk,
+even if Vendor has been informed in writing of such usage.
+
+26
+
+7. INTELLECTUAL PROPERTY RIGHTS
+
+In the event that a third party makes a claim alleging that products
+delivered to Buyer infringe such third party's intellectual property
+rights, Vendor undertakes at its option and charge to defend the claim
+or seek a compromise; if an unfavorable and final judgment is rendered
+against Vendor, it shall at its option take out a license from the
+above mentioned third party or shall modify the products in such a way
+as to avoid infringement. If such a solution shall be impracticable for
+economic and/or technical reasons, Vendor shall accept the return of
+the products supplied and shall indemnify and keep indemnified Buyer
+and any customer of Buyer from all reasonable loss, liability, damage
+and claim made by any third party, and cost and expense in connection
+with any such claim. The preceding indemnification shall only be due by
+the Vendor provided that Buyer (1) promptly notifies Vendor in writing
+of the claim of infringement and (2) allows Vendor to control and
+cooperates with Vendor in the defense and any related settlement
+action. Furthermore, such indemnification of Vendor does not apply to
+any claims of infringement involving products made, provided or
+modified by Vendor in compliance with the requirements or
+specifications of Buyer, from the combination or use of products
+supplied with any other products or from any modification to the
+programming of products made other than by Vendor for which Buyer
+agrees to indemnify Vendor against all damages and costs resulting from
+any such claims of infringement made against Vendor. The above
+provisions constitute the entire undertaking of Vendor towards Buyer in
+the event of any intellectual property right claim of a third party
+with regard to products supplied by Vendor.
+
+8. GENERAL
+
+8.1 EXPORT CONTROL LAWS. Buyer undertakes to comply with all applicable
+laws, regulations, decrees and ordinances, related to the Buyer's use,
+sale or transfer of the products supplied thereunder.
+
+8.2 SOFTWARE. (1) Title to Software (as referred to in Clause 1) including
+without limitation copyright, is owned by Vendor or third party
+licensors and no title is transferred to Buyer. (2) Buyer shall not
+copy, modify, translate, disassemble or decompile the Software. Buyer
+or its customer shall have the right to use the Software in connection
+with any product supplied by Vendor and not otherwise. The right to use
+the Software may only be transferred when the product to which it
+relates is transferred.
+
+8.3 NO LICENSES. No license under any intellectual property right of Vendor
+is granted herein except the right to use or resell any product sold by
+Vendor to Buyer for the purposes for which it was sold.
+
+27
+
+AGREEMENT BETWEEN OTI AND OTIP
+DATED FEBRUARY 2000
+
+ANNEX G
+
+SUB -DISTRIBUTOR'S UNDERTAKING
+
+On Track Innovations Ltd.
+Z.H.R. I.Z., Rosh Pina 12000
+ISRAEL
+
+Gentlemen,
+
+I, the undersigned, wishing to be appointed as sub-distributor of OTI Asia
+Pacific Ltd. (the "Distributor") of certain OTI Products (the "OTI PRODUCTS")
+of On Track Innovations Ltd. ("OTI"), do hereby undertake towards OTI as
+follows:
+
+1. I shall hold as fully confidential and not to disclose to other or
+others, and not to use, directly or indirectly, all Confidential
+Information of OTI, including without limitation, technical
+information, technology and trade secrets, strategic plans and price
+calculations. For the purposes hereof "Confidential Information" shall
+include all information marked by OTI as such but shall exclude all
+information which was already or became public knowledge through no
+fault of mine.
+
+2. I shall require each of my employees and/or agents employed in
+providing services in relation to the OTI Products to execute the
+undertaking of confidentiality set forth in Section 1 above.
+
+3. I am aware of the provisions of Sections 8, 11, 13, 15.2, 16, 17, 19,
+22 and 23 of the agreement between OTI and the Distributor (the
+"DISTRIBUTION AGREEMENT"), which were provided to me by the
+Distributor. I shall act as if I were the Distributor in accordance
+therewith mutatis mutandis, and such provisions may be referred against
+me directly by OTI.
+
+4. I am aware and agree that termination of the Distribution Agreement,
+for any reason, shall cause the immediate termination of any agreement
+between me and the Distributor in respect of the OTI Products.
+
+5. I agree that, subject to the provisions of Section 3 above, in any
+event OTI shall not be deemed to have any direct contractual
+relationship with me, and I shall not have any claim or demand or any
+other right towards OTI in any matter whatsoever.
+
+6. I am aware and agree that OTI shall be entitled to terminate forthwith
+my engagement in the distribution of the OTI Products, by sending a 60
+days' prior written notice to such effect to me.
+
+Sincerely yours,
+
+Signature: ________________
+Name: ________________
+Address: ________________
+Fax No.: ________________
+Tel. No.: ________________
+Distributor: ________________
+
+28
+
+AGREEMENT BETWEEN OTI AND OTIP DATED
+FEBRUARY 2000
+
+ANNEX H
+
+MUTUAL CONFIDENTIALITY AGREEMENT
+
+Made and signed as of the ______ day of February, 2000
+
+BETWEEN
+
+ON TRACK INNOVATIONS LTD., of Z.H.R. - Industrial Zone, Rosh-Pina 12000 Israel
+("OTI")
+
+AND
+
+CHEUNG KONG INFRASTRUCTURE HOLDINGS LIMITED of 12/F, Cheung Kong Center,
+2 Queen's Road Central, Hong Kong ("CKI")
+
+AND
+
+SAILOR GROUP LIMITED (to be renamed as OTI ASIA PACIFIC LTD.), of P.O. Box 957,
+Offshore Incorporations Centre, Road Town,
+Tortola, British Virgin Islands ("OTIP")
+
+WHEREAS OTI has developed and is the sole owner of certain proprietary
+technology relating in particular to contact/contactless and
+contactless smart cards and readers of which it is the sole
+owner ("OTI'S TECHNOLOGY") as described in paragraph (c) in
+the definition of "OTI INTELLECTUAL PROPERTY" in Clause 1.1 of
+the Shareholders Agreement relating to OTip dated the date
+hereof (the "SHAREHOLDERS AGREEMENT"); and -
+
+WHEREAS CKI is the sole owner of certain trade secrets relating to its
+business ("CKI'S TRADE SECRETS") as described in the
+definition of "CK GROUP PROPRIETARY INFORMATION AND RIGHTS" in
+Clause 1.1 of the Shareholders Agreement; and -
+
+WHEREAS CKI and OTI have established OTip and are its existing
+shareholders, and OTip has entered into a distribution
+agreement with OTI dated the date hereof, (the "DISTRIBUTION
+AGREEMENT") pursuant to which it shall act as a distributor of
+OTI in the Asia Pacific region; and -
+
+WHEREAS CKI and OTI, as shareholders of OTip shall be exposed to
+confidential information of OTip, and OTip, as a distributor
+of OTI, shall be exposed to confidential information of OTI;
+
+29
+
+NOW THEREFORE THE PARTIES HAVE AGREED AS FOLLOWS:
+
+1. In this Agreement:
+
+1.1 The term "DISCLOSER" means a party to this Agreement disclosing
+Confidential Information to any of the other parties.
+
+1.2 The term "RECIPIENT" means any party to this Agreement receiving
+Confidential Information from any of the other parties.
+
+1.3 The term "CONFIDENTIAL INFORMATION" means any and all information
+relating to the Discloser's proprietary technology or business made
+available by the Discloser to the Recipient including, without
+limitation, information, data, know-how, formulae, tests, drawings,
+specifications, applications, designs and trade secrets, information
+and data relating to the Discloser's products, design methodology,
+engineering and manufacturing processes and related equipment,
+suppliers, sales, customers, business operations and plans, financial
+situation, members, employees and investors and any notes, memoranda,
+summaries, analyses, compilations or any other writings relating
+thereto prepared by the Discloser or the Recipient or on such party's
+behalf, provided that such information is in writing or other tangible
+form and is clearly marked as "proprietary" or "confidential" when
+disclosed to the Recipient; or if such information is not in tangible
+form, that (i) such information is identified as "proprietary" or
+"confidential" when disclosed and summarized in a written document
+which is marked "proprietary" or "confidential" and is delivered to the
+Recipient within 30 (thirty) days after date of disclosure; or (ii) is
+deemed "proprietary" or "confidential" if such information is known or
+reasonably should be known by the Recipient to be "confidential" or
+"proprietary". Without derogating from the generality of the above, all
+information, data and know-how relating to OTI's Technology shall be
+deemed Confidential Information of OTI, and all information, data and
+know-how relating to CKI's Trade Secrets shall be deemed Confidential
+Information of CKI.
+
+2. Recipient undertakes to maintain as secret and fully confidential:
+
+2.1 all the Discloser's Confidential Information obtained by the Recipient
+pursuant to this Agreement and prior to and in contemplation of it, and
+not to disclose, divulge or use same, directly or indirectly, save
+exclusively for the purposes for which it was disclosed to the
+Recipient.
+
+2.2 OTI's and CKI's shareholding in OTip and the existence of this
+Agreement or of any other agreement between the parties, or any details
+relating to the Discloser, its business or its Confidential
+Information, or the fact that negotiations or discussions between the
+parties have taken or are taking place, or the terms and conditions on
+which any possible arrangements or agreements between the parties may
+take or might have taken place, unless otherwise agreed in writing
+between the parties.
+
+3. The restrictions of use and disclosure set forth in this Agreement
+shall not apply to any Confidential Information which, based on proof
+by the Recipient,
+
+3.1 the Discloser has approved for disclosure in advance and in writing;
+
+3.2 was already known to the Recipient at the time such information was
+received from the Discloser;
+
+30
+
+3.3 was already or became available to the general public, through no
+breach of any confidentiality undertaking towards the Discloser;
+
+3.4 was at any time lawfully obtained by the Recipient from any other
+person, firm or company having no obligation not to disclose it.
+
+3.5 is required to be disclosed by the Recipient by applicable law,
+regulation or court order, or pursuant to any rules imposed by or
+agreements entered into with any relevant stock exchange or the
+securities commission; provided that the Recipient shall first give
+prior prompt written notice to the Discloser of the requirement for
+such disclosure and co-operate through all reasonable and legal means,
+at the Discloser's expense, in any attempts by the Discloser to protect
+or otherwise restrict disclosure of such Confidential Information.
+
+4. In order to secure the confidentiality of the Confidential Information
+the Recipient shall:
+
+4.1 procure that its respective subsidiaries, holding company and
+affiliated companies and their directors, employees, agents and
+consultants shall maintain secret and confidential the Confidential
+Information of the Discloser;
+
+4.2 safeguard the Confidential Information of the Discloser with at least
+the same degree of care as it uses for its own Confidential
+Information, and without derogating from the generality of the above,
+shall keep the Confidential Information in a safe and separate place;
+
+4.3 limit access to the Confidential Information only to those of the
+Recipient's directors, employees, agents and consultants to whom
+disclosure is necessary for the purposes hereof provided that all such
+directors, employees, agents and consultants which may have access to
+the Confidential Information are under a confidentiality undertaking
+towards the Recipient to maintain the Confidential Information as fully
+confidential and not to disclose, divulge or use same, directly or
+indirectly, but for the purposes of carrying out their duties towards
+the Recipient. At the Discloser's request, the Recipient shall provide
+the Discloser with an accurate list of all of its directors, employees,
+agents and consultants which had or have access to the Confidential
+Information. For avoidance of doubt, the Recipient will assume
+responsibility for any breach of the terms of this Agreement by the
+Recipient's directors, employees, agents and consultants, to whom
+disclosure of the Confidential Information is permitted and made by the
+Recipient under this Agreement.
+
+5. At the Discloser's request, Recipient shall forthwith return to the
+Discloser all Confidential Information in tangible form and not retain
+any copies of it, including copies made by electronic forms save and
+except to the extent where it is necessary for the Recipient to perform
+its obligations under the Shareholders Agreement and Distribution
+Agreement.
+
+31
+
+6. The disclosure of Confidential Information or its use hereunder shall
+not be construed in any way as granting any party any right or license
+with respect to the Confidential Information (or, in particular, to
+OTI's Technology or CKI's Trade Secrets) other than the right to use
+Confidential Information strictly for the purposes set forth in the
+preamble of this Agreement.
+
+7. Each party hereto reserves all rights in any inventions, patents,
+copyrights, designs, and any other intellectual property invented or
+devised by it in relation to Confidential Information of such party.
+
+8. This Agreement shall survive the termination of the Shareholders
+Agreement or Distribution Agreement (whichever shall later occur) and
+shall be valid for a period of five years after such termination.
+
+9. It is agreed that the unauthorized disclosure or use of any
+Confidential Information will cause immediate or irreparable injury to
+the Discloser, and that the Discloser cannot be adequately compensated
+for such injury in monetary damages. Each party therefore acknowledges
+and agrees that, in such event, the Discloser shall be entitled to any
+temporary or permanent injunctive relief necessary to prevent such
+unauthorized disclosure or use, or threat of unauthorized disclosure or
+use.
+
+10. No party shall be entitled to assign its rights and obligations
+hereunder without the other parties' prior written approval.
+
+11. If any condition, term or covenant of this Agreement shall at any time
+be held to be void, invalid or unenforceable, such condition, covenant
+or term shall be construed as severable and such holding shall attach
+only to such condition, covenant or term and shall not in any way
+affect or render void, invalid or unenforceable any other condition,
+covenant or term of this Agreement, and this Agreement shall be carried
+out as if such void, invalid or unenforceable term were not embodied
+herein.
+
+12. The laws of England shall govern this Agreement.
+
+-------------------------------- --------------------------------------------
+On Track Innovations Ltd. Cheung Kong Infrastructure Holdings Limited
+
+by: __________________ by: __________________
+title: _________________ title: _________________
+
+Sailor Group Limited (to be renamed
+OTI ASIA PACIFIC LTD.)
+by: __________________
+title: _________________
+
+* "Software" means computer programs, software and firmware whether in printed
+or machine readable form, including software on magnetic tape, disc or in a
+ROM forming part of the product.
+
+32

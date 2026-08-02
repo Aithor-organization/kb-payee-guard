@@ -1,0 +1,388 @@
+EX-10.6 
+
+Exhibit 10.6 
+FIRST AMENDMENT 
+TO 
+
+DISTRIBUTION AGREEMENT 
+This First Amendment (the “First Amendment”), effective as of July 10, 2012 (the “First Amendment Effective Date”) is by and between EnteroMedics, Inc., a Minnesota
+corporation located at 2800 Patton Road, St. Paul MN 55113 (“Supplier”), and Device Technologies Australia Pty Limited, located at Unit 8, 25 Frenchs Forest Road, Frenchs Forest, New South Wales 2086 Australia, with ABN 40 058 091 973
+(“Distributor”). 
+RECITALS 
+WHEREAS, Supplier and Distributor are Parties to the Distribution Agreement effective as of March 28, 2011 (the “Agreement”); and 
+
+WHEREAS, the Parties desire to amend the Agreement as set forth below. 
+
+NOW THEREFORE, in consideration of the foregoing, and for other good and valuable consideration, the receipt and sufficiency of which is
+hereby acknowledged, the parties hereto agree as follows: 
+
+1. 
+Capitalized terms not otherwise defined herein shall have the same meanings ascribed to them in the Agreement and references to Clauses and Exhibits are to those
+Clauses and Exhibits that appear in the Agreement. 
+
+2. 
+Clause 5.1 is hereby amended and restated in its entirety as follows, with effect as of the earlier of the First Amendment Effective Date or the date of any separate
+written agreement of the Parties providing for the same amended terms: 
+
+5.1 
+Delivery 
+
+All deliveries of Products shall be Ex Works (EXW) Supplier’s facility. The term “Ex Works” shall be
+construed in accordance with INCOTERMS 2010 of the International Chamber of Commerce. Shipping, insurance, customs duties, etc. are the responsibility of Distributor. Supplier shall have no further responsibility for the Products, and all risk of
+damage to or loss or delay of the Products shall pass to Distributor, upon their delivery at the Ex Works delivery point to a common carrier specified by Distributor or, in the event no carrier shall have been specified by Distributor on or before
+the date fifteen (15) days prior to the requested shipment date, a common carrier selected by Supplier. Supplier reserves all rights with respect to delivered Products permitted by applicable law until the full amount due from Distributor in
+respect of all delivered Products has been paid. Title to the Products shall pass to Distributor upon payment in full in accordance with Clause 6.2 of the Agreement. 
+
+3. 
+Clause 5.2(b) is hereby amended and restated in its entirety as follows: 
+
+(b) 
+Distributor will provide Supplier with written notice of any Products which Distributor believes to be defective within 30 days of receipt of the
+Products from 
+
+Supplier. If Distributor receives notice from any customer or other third party that a Product that is not in Distributor’s possession is believed to be defective, which may be at a time
+later than thirty (30) days of receipt of the Products from the Supplier, Distributor will retrieve the Product from the customer or other third party promptly upon receiving such notice. Distributor shall hold all Products which are believed
+to be defective for Supplier’s instructions for a reasonable period (not exceeding 60 days). If Supplier’s instructions are not received within such period, Distributor may return the defective Products accompanied by a description of the
+defect to Supplier’s premises at Supplier’s expense, and any expense incurred by Distributor in such return will be payable forthwith by Supplier and may be set off by Distributor against any moneys otherwise due by Distributor to
+Supplier. 
+
+4. 
+Clause 6.1 is hereby amended and restated in its entirety as follows: 
+
+The Products are at Distributor’s risk from the time of delivery at the Ex Works delivery point as provided in Clause 5.1 above. 
+
+5. 
+Clause 7.1(b) is hereby amended and restated in its entirety as follows: 
+
+(b) 
+Distributor shall maintain a database containing details of customers to whom it sells Products during the Term (including the type, quantity and serial numbers of
+Products purchased by each customer), and Distributor shall grant Supplier reasonable access to this database upon Supplier’s request. The database shall contain all information which Supplier reasonably determines is necessary to assist
+Distributor in recall efforts with regard to the Products in accordance with its obligation under Clause 19 of the Agreement. 
+
+6. 
+Clause 7.9 is hereby amended and restated in its entirety as follows: 
+
+7.9 
+Sub-Distributors 
+
+Distributor shall not, without the prior written consent of Supplier, appoint any Sub-Distributors, intermediaries or agents (collectively “Sub-Distributors”) to perform Distributor’s
+obligations under this Agreement. Distributor shall at all times remain fully liable for any act or omission of its Sub-Distributors, and Distributor hereby agrees to indemnify, defend and hold harmless Supplier from all damages, losses, liabilities
+or expenses arising in any manner from any act or omission on the part of any Sub-Distributor. 
+
+7. 
+Clause 7.12(f) is hereby amended and restated in its entirety as follows: 
+
+(f) 
+comply with Supplier’s policies for business conduct as provided by Supplier from time to time and/or as posted on Supplier’s website;
+
+2 
+
+8. 
+Clause 7.12(i) is hereby amended and restated in its entirety as follows: 
+
+(i) 
+follow the same quality control standards with respect to the storage, preservation, sale and use of the Products as followed by Supplier and communicated to
+Distributor by Supplier; store Products according to requirements of Product packaging to ensure maintenance of sterility (when applicable), integrity of packaging and storage in accordance with any environmental conditions, including but not
+limited to temperature and humidity requirements; and not remove Products from packages designed for delivery to end-user customers when such removal may affect the quality of the Products or destroy any trademark identity; and
+
+9. 
+Clause 7.14 is hereby amended by adding the following new Clause 7.14(d): 
+
+(d) 
+Distributor shall at all times comply with all laws and regulations in the Territory applicable to the importation, sale, demonstration, use and disposition of the
+Products, including obtaining and maintaining all licenses and permits and satisfying all formalities as may be required under such laws and regulations. 
+
+10. 
+Clause 8.1(c) is hereby amended and restated in its entirety as follows: 
+
+(c) 
+Distributor shall not use, publish, broadcast or disseminate any advertising and promotional materials without Supplier’s approval. When submitting the materials
+to Supplier for approval, Distributor shall give details of when, where and in which medium the materials will be used as well as the target audience of the material. Supplier shall take reasonable steps to promptly respond to Distributor’s
+request for approval upon receipt of the materials. 
+
+11. 
+Clause 9.4 is hereby amended by adding the following new heading and new Clauses 9.4(c), 9.4(d), 9.4(e) and 9.4(f): 
+
+9.4 
+Training, Customer Support, Certification and Product Service 
+
+(c) 
+Distributor shall have the sole responsibility for (i) obtaining orders for Products from customers, (ii) providing First-Level Support to
+customers, (iii) training customers with respect to the Products sold by Distributor, which may also involve training organized by the Supplier, and (iv) handling all other interactions with customers in the Territory with respect to the
+Products. Without limiting Distributor’s other obligations in this Clause 9.4 , Distributor shall at all times maintain a sufficient level of understanding of the Products to enable Distributor to provide technical information to
+customers regarding the Products, to effectively sell and service the Products, and to obtain customer orders and provide assistance to customers in determining and fulfilling their requirements with respect to the Products. For clarity, Supplier
+shall have no obligation hereunder to respond to or otherwise interact with any customers in the Territory, although Distributor shall cooperate with Supplier to enable Supplier to have such contacts with customers in the Territory as Supplier
+reasonably determines is appropriate consistent with the objectives stated in Clause 9.5 . 
+
+3 
+
+The term “First-Level Support” means a level of support at least at the level designated as required for personnel who are trained and certified in accordance with the Supplier Training
+Program described in Clause 9.4(d) . 
+
+(d) 
+Distributor personnel shall participate in Supplier’s standard training program applicable to the Products (“Supplier Training Program”) before selling
+any Products. The training will be provided at a mutually agreed upon location. Distributor shall be responsible for the travel-related costs and expenses of Supplier’s personnel that attend the Supplier Training Program. Supplier and
+Distributor shall mutually agree to the number of Distributor personnel who must attend the Supplier Training Program. 
+
+(e) 
+Distributor shall train all customers with respect to the use of the Products in accordance with the then-current requirements of the Supplier Training Program.
+Distributor shall only use training documentation provided by Supplier in performing customer training. Distributor shall create and maintain a record of training for each customer trained by Distributor with respect to the Products in accordance
+with a training and accreditation program to be developed and certified by Supplier, and shall provide Supplier with information about such training activities in accordance with report formats to be developed by Supplier. Distributor shall supply
+Products only to customers who have satisfactorily completed such Supplier-certified training and accreditation. 
+
+(f) 
+Distributor shall perform all Product service in accordance with the requirements set forth in the Supplier Training Program and otherwise provided by Supplier to
+Distributor in writing from time to time during the Term, including requirements regarding customer service response times, and similar matters. Distributor shall document and maintain records of all Product service (“Service Records”) in
+accordance with requirements to be developed by Supplier. Distributor shall offer and provide Product service (for Products in and out of warranty) to all customers in the Territory. With respect to out-of-warranty service, Distributor shall warrant
+its workmanship with respect to Product service for at least ninety (90) days after completion thereof. Distributor shall, within five (5) days after Supplier’s request, provide Supplier with any or all Service Records.
+
+12. 
+Clause 9 is hereby amended by adding the following new Clause 9.5: 
+
+9.5 
+Marketing, Promotion, Clinician Training and Clinical Field Support Generally 
+
+Distributor agrees to cooperate with and follow Supplier’s directions during the Term in the development and
+execution of regulatory plans; marketing plans; reimbursement approval plans; the identification and accreditation of surgeons, physicians and clinics with appropriate standing to use the Products; surgeon and clinician training protocols; clinical
+field support; and the like. The Supplier understands 
+
+4 
+
+that the regulatory and reimbursement plans submitted by Distributor will take into account the regulatory and reimbursement requirements in the Territory. In order to achieve these objectives,
+Distributor shall use its best efforts to vigorously promote, sell and support the Products throughout the Territory in accordance with such plans, and shall at its cost and expense: (a) employ on its own behalf a sufficient number of
+specialized, trained, and qualified personnel to promote, sell and support the Products in the Territory; (b) maintain a professional sales and service organization as necessary to provide training and customer service for the Products in the
+Territory; and (c) otherwise operate its business in a professional and ethical manner, in each case in accordance with this Agreement. 
+
+13. 
+Clause 14.3(e) is hereby amended and restated in its entirety as follows: 
+
+(e) 
+Orders and Post-Termination Sales 
+
+Supplier shall fulfill all orders from Distributor to Supplier to the extent to which they are unfulfilled at the time of termination or expiration of this Agreement unless Distributor cancels those
+orders prior to Delivery of the Products or unless Supplier terminated this Agreement for cause under Clause 14.2 . Distributor may use any labels, wraps, containers, advertising and other items bearing the Trademarks to enable it to sell
+Products delivered after termination of this Agreement. Distributor shall continue to be obligated to comply with the terms and conditions of this Agreement with regard to any such sales of Products after the termination or expiration of this
+Agreement. 
+
+14. 
+The first lead-in clause of Clause 15 prior to the colon is hereby amended and restated in its entirety as follows: 
+
+If this Agreement is terminated for any reason (including a change of control in the ownership of Supplier or its ultimate
+parent company) other than as a result of a breach of this Agreement by Distributor, the occurrence of an event listed in Clause 14.2(b) involving Distributor, termination under Clause 14.2(c)(iv)(A) , a force majeure event, or an
+Insolvency Event involving Distributor, then Supplier shall, within 60 days of termination of this Agreement provide the following compensation: 
+
+15. 
+Exhibit A to the Agreement is hereby amended and restated in its entirety as set forth in the attachment to this First Amendment. 
+
+16. 
+Except as expressly revised and amended herein, the Agreement remains unchanged. Inconsistencies between the Agreement and this First Amendment shall be resolved in
+favor of this First Amendment. 
+
+5 
+
+IN WITNESS WHEREOF, the Parties have executed this First Amendment as of the First
+Amendment Effective Date. 
+
+ENTEROMEDICS, INC. 
+
+DEVICE TECHNOLOGIES AUSTRALIA PTY LIMITED (ABN 40 058 091 973) 
+
+By: 
+
+/s/ Mark B. Knudson 
+
+By: 
+
+/s/ Peter J. Ord 
+
+Name: 
+
+Mark B. Knudson 
+
+Name: 
+
+Peter J. Ord 
+
+Title: 
+
+President & CEO 
+
+Title: 
+
+CEO 
+
+6 
+
+Exhibit A 
+Products 
+
+Model 
+
+Name 
+
+AIMD/MDD Class 
+
+Code description 
+
+2004 
+
+Implant Kit 
+
+AIMD 
+
+Implant Kit, Neuroregulator, vagus nerve, rechargeable: An assembly of devices intended to treat obesity through the application of electrical stimuli to the vagus nerve
+below the gastric junction. It is typically implanted in the abdomen and consists of a rechargeable battery-operated neuroregulator, implantable lead(s), torque wrench, and components for external charging. The battery is recharged
+externally. 
+
+2002 
+
+Rechargeable 
+Neuroregulator 
+
+AIMD 
+
+Neuroregulator, vagus nerve, rechargeable: A device intended to treat obesity through the application of electrical stimuli to the vagus nerve below the gastric junction.
+It is typically implanted in the abdomen and consists of a rechargeable battery-operated neuroregulator and torque wrench. The battery is recharged externally. 
+
+2200A-47E 
+
+Anterior Lead 
+
+III 
+
+A lead, insulated with non-conductive material except at the electrode(s), that is implanted in the neurological tissue. It is used to make an electrical connection between the
+stimulator and the vagus nerve. 
+
+2200P-47E 
+
+Posterior Lead 
+
+III 
+
+A lead, insulated with non-conductive material except at the electrode(s), that is implanted in the neurological tissue. It is used to make an electrical connection between the
+stimulator and the vagus nerve. 
+
+7 
+
+Model 
+
+Name 
+
+AIMD/MDD Class 
+
+Code description 
+
+2403-300 
+
+Clinician transmit coil 
+
+III 
+
+Transmit Coil - An electronic device that provides radio-frequency connection between an implanted Vagus Nerve Electrical Blocking Neuroregulator and an external Mobile
+Recharger for transmission of power to charge the battery in the implanted device and to provide information transfer to and from the implant and the Mobile Recharger. This device may be operated by a clinician or patient. 
+
+2404 
+
+Patient kit 
+
+III 
+
+Recharging Kit, Neuroregulator, vagus nerve, rechargeable - An assembly of devices used to transcutaneously recharge the battery of a rechargeable implanted
+neuroregulator. Typically includes mobile charger, transmit coil, AC recharger and transmit coil belt. 
+
+2402 
+
+Mobile charger 
+
+III 
+
+Recharger, Neuroregulator, vagus nerve, rechargeable - A device used to transcutaneously communicate with a rechargeable implanted neuroregulator for recharging the
+battery of a rechargeable implanted neuroregulator, or review and modification of neuroregulator operating parameters. 
+
+2403-60 
+
+Patient transmit coil 
+
+III 
+
+Transmit Coil - An electronic device that provides radio-frequency connection between an implanted Vagus Nerve Electrical Blocking Neuroregulator and an external Mobile
+Recharger for transmission of power to charge the battery in the implanted device and to provide information transfer to and from the implant and the Mobile Recharger. This device may be operated by a clinician or
+patient. 
+
+8 
+
+Model 
+
+Name 
+
+AIMD/MDD Class 
+
+Code description 
+
+1660 
+
+Patient transmit coil belt 
+
+I 
+
+A device used for keeping electrodes in place. This is typically used for reusable electrodes which do not stick to the body surface or for electrodes that may require extra
+securing. This is a reusable device. 
+
+2403-60A 
+
+Patient transmit coil 
+
+III 
+
+Transmit Coil - An electronic device that provides radio-frequency connection between an implanted Vagus Nerve Electrical Blocking Neuroregulator and an external Mobile
+Recharger for transmission of power to charge the battery in the implanted device and to provide information transfer to and from the implant and the Mobile Recharger. This device may be operated by a clinician or patient. 
+
+1660A 
+
+Patient transmit coil belt 
+
+I 
+
+A device used for keeping electrodes in place. This is typically used for reusable electrodes which do not stick to the body surface or for electrodes that may require extra
+securing. This is a reusable device. 
+
+1620 
+
+AC recharger 
+
+I 
+
+A device designed to supply an electrical charge to rechargeable batteries, restoring the battery to an appropriate working condition. This device is typically connected to the
+building’s electrical power supply and can be used to either charge the batteries by themselves (removed from the device) or whilst they are still inside the parent device (in situ), e.g., a defibrillator or ophthalmoscope. This device usually
+has current and voltage controls to meet the charge needs of different types of batteries. 
+
+1600 
+
+Programmer cable 
+
+I 
+
+A device that provides a connection between two or more devices for the purpose of transmitting an energy that may, or may not, contain
+information. 
+
+9 
+
+Model 
+
+Name 
+
+AIMD/MDD Class 
+
+Code description 
+
+2504 
+
+Clinician Programmer Kit 
+
+III 
+
+The clinician programmer is a laptop computer with specialized software, which is connected to the mobile charger and transmit coil in order to communicate with the implanted
+device. The included programmer cable connects the clinician programmer to the mobile charger. The programmer and cable are intended to be used as part of the Maestro Rechargeable System to configure, monitor and change settings of the implanted
+neuroregulator. 
+
+10

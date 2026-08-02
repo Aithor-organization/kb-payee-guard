@@ -1,0 +1,568 @@
+EXHIBIT 10.1
+
+SUPPLY AGREEMENT
+
+This Agreement is made and entered into as of June 1, 2005, (the "Effective
+Date") by and between:
+
+Accelr8 Technology Corporation, 7000 N. Broadway, Bldg 3-307, Denver, CO 80221,
+("Accelr8" or "Seller"); and Schott Jenaer Glas GmbH ("SCHOTT" or "Purchaser"),
+Otto- Schott-Strasse 13, 07745 Jena, Germany, each a Party and collectively the
+Parties to this Agreement.
+
+WITNESSETH:
+
+Whereas the Parties wish Accelr8 to supply SCHOTT with materials and SCHOTT
+wishes Accelr8 to serve as SCHOTT's supplier of OptiChem(R)-Streptavidin coated
+microarraying slides (the "Product(s)," to be designated Slide HS by SCHOTT)
+which SCHOTT wishes to re-sell and Accelr8 is willing to supply and sell the
+same to SCHOTT; and Accelr8 wishes SCHOTT to provide a reciprocal Supply
+Agreement for glass substrates during the period when Accelr8 manufactures
+slides; and
+
+WHEREAS, Accelr8 has developed proprietary surface chemistry and coating
+technology; and
+
+WHEREAS, Schott desires to obtain the right to obtain a license to utilize such
+technology in a product that it will produce, market and distribute and Accelr8
+so agrees, subject to the terms and conditions of this Agreement.
+
+Now, therefore, in consideration of the mutual covenants herein contained, it is
+agreed as follows:
+
+1. DEFINITIONS
+
+As used herein, the following terms shall have the following meanings:
+
+1.1 "Accelr8 Intellectual Property" means the Accelr8 Know-How and Accelr8
+Patents.
+
+1.2 "Accelr8 Know-How" means all tangible and intangible (a) techniques,
+technology, practices, trade secrets, inventions (whether patentable or not),
+methods, processes (including manufacturing and quality control processes),
+knowledge, knowhow, skill, experience, test data and results (including
+pharmacological, toxicological and clinical test data and results), analytical
+and quality control data, results or descriptions, software and algorithms, and
+(b) compounds, compositions of matter, complexes and physical, biological or
+chemical material, which exist as of the Effective Date and are related to
+Accelr8's proprietary surface chemistry and coating technology.
+
+1.3 "Accelr8 Patents" means (a) those Patents and Patent Applications listed in
+Attachment C, and (b) any Patents owned or licensed (with a right of sublicense)
+by Accelr8 that cover the Process Improvements.
+
+1.4 "Half-Year" means any period of six (6) consecutive months ending on June 30
+and December 31.
+
+1.5 "Improvements" means inventions, discoveries, works of authorship, trade
+secrets, know-how or developments, whether or not patentable, that are made,
+conceived, reduced to practice or otherwise generated during the Term, which are
+improvements, modifications or other developments to the Licensed Product
+(including, without limitation, the manufacturing processes for such products
+and/or the OptiChem coating technology), the Accelr8 Technology or the
+OptiChem(R) coating technology.
+
+1.6 "Licensed Product" means the product described in Attachment D.
+
+1.7 "Net Sales" means the actual gross selling price of Licensed Products by
+Schott or its Affiliates, and their respective agents, contractors or
+distributors, whether invoiced or not, less (a) discounts allowed in amounts
+customary in the trade to the extent actually granted, (b) sales/tariff duties
+and/or taxes directly invoiced and paid, (c) outbound transportation prepaid,
+and (c) amounts credited on returns. Net Sales shall also include the fair
+market value of any non-cash consideration received for the sale, lease or
+transfer of Licensed Products.
+
+1.8 "Patents" means:
+
+(a) United States and foreign patents and/or patent applications and/or
+provisional patent applications;
+(b) United States and foreign patents issued from the applications described in
+(a) above and from divisionals and continuations of these applications;
+(c) U.S. and foreign continuation-in-part applications, and the resulting
+patents of any of the U.S. and foreign applications described in (a) or (b)
+above or this paragraph (c); and
+(d) any reissues of United States and foreign patents described in (a), (b) or
+(c) above.
+
+1.9 "Process Improvements" means any Improvements to the processes for the
+manufacture of the Licensed Product.
+
+1.10 "Third Party" means any entity or person other than Accelr8 or Schott.
+
+2. TERMS OF SALES AND PURCHASE OF THE PRODUCTS
+
+2.1 Supply. During the term of this Agreement, Accelr8 will sell the Products to
+SCHOTT on a non-exclusive basis, and SCHOTT will purchase the Products from
+Accelr8, in accordance with the terms and conditions set forth herein. During
+the Effective Date and December 31st 2005 Accelr8 will purchase glass substrates
+from SCHOTT for use in the products supplied to Schott.
+
+2.2 Placement of Orders, Order Period.
+Within the term of this Agreement, SCHOTT will purchase a minimum of
+five-thousand (5,000) Products from Accelr8 starting on the Effective Date until
+December 31st 2005 (order period). If SCHOTT purchases additional Products
+during the order period Accelr8 will fulfill such orders under the applicable
+terms and conditions unless SCHOTT exercises the non-exclusive or exclusive
+manufacturing right of ss.8 or 9.
+
+2.3 Failure or Delay in Supply. Accelr8 shall not be liable for any failure or
+delay in filling SCHOTT orders due to any events beyond the reasonable control
+of Accelr8; provided, however, that Accelr8 shall notify SCHOTT promptly of
+anticipated delays, and shall use all reasonable commercial efforts to fill such
+orders as soon as possible. The same conditions as set forth in this clause
+shall apply for glass substrate deliveries by Schott to Accelr8.
+
+3. SHIPMENT OF THE PRODUCTS
+
+3.1 Packaging and Shipment. SCHOTT will supply Accelr8 with slide mailers and
+pouches with SCHOTT labeling. Accelr8 shall deliver the Products to the address
+and in the manner specified in the Purchase Order. Accelr8 shall use reasonable
+efforts to package the Product for shipment in a manner that assures it will
+arrive in good condition and within the agreed quality specifications. The
+coated substrates must remain stable with a shelf life of at least six (6)
+months effective from the respective shipment date of the Products ex Denver
+(i.e., meet the specifications listed in Attachment B when using the handling
+instructions provided by Accelr8.
+
+3.2 Packing List. Accelr8 shall include a packing list with each shipment of the
+Product which will contain the following information: (i) SCHOTT purchase order
+number; (ii) Accelr8 Product number; (iii) quantity of Product; (iv) Accelr8 lot
+number; and (v) Certificate of Quality, as set forth in Attachment B. Accelr8
+will send SCHOTT copies of each invoice and packing list via facsimile or email
+at the time of shipment.
+
+3.3 Notification. Accelr8 shall notify SCHOTT promptly, if, at the time it
+receives a purchase order for Product it does not have in its inventory
+sufficient raw materials, products, or components to manufacture the Product
+covered by the Purchase Order, or if it has reason to believe that it may not be
+able to meet one or more delivery dates due to problems with its operations or
+supply of raw materials, parts, or components. After SCHOTT receives Accelr8's
+notice, the parties shall discuss in good faith how to fulfill SCHOTT's purchase
+order.
+
+4. PRICING OF THE PRODUCTS
+
+4.1 The price for the Products sold to SCHOTT shall be the price set forth in
+Attachment A. The price for the Products shall be valid commencing on the
+Effective Date, and shall be firm until the Term specified in ss.12.1.
+
+4.2 If SCHOTT exercises the non-exclusive manufacturing right of ss.8, then
+Accelr8 may purchase Products from SCHOTT for resale, and the wholesale price
+paid by Accelr8 to SCHOTT will be at a 35% discount from MSRP as identified in
+Attachment A, or at the lowest price stated in a bon fide offer by SCHOTT to any
+customer, whichever is lower. The Products purchased by Accelr8 from Schott for
+resale are not included into the maximum of twelve-thousand five-hundred
+(12,500) subject of SCHOTT's option for non-exclusive manufacturing license
+specified in ss.8.
+
+4.3 If SCHOTT exercises the non-exclusive manufacturing right of ss.8, then
+SCHOTT will pay a royalty to Accelr8 of eight percent (8%) of SCHOTT's Net Sales
+of the calendar year 2006 other than wholesale made to Accelr8.
+
+5. QUALITY CONTROL
+
+5.1 Quality Specifications. The Products shall meet the Specifications as set
+forth in Attachment B hereto upon delivery to SCHOTT, and shall be subject to
+quality control inspections by Accelr8, in accordance with Accelr8's quality
+control standards, which Accelr8 shall disclose to SCHOTT.
+
+5.2 Inspection; Non-Conformity. SCHOTT shall inspect the Products upon receipt.
+If SCHOTT shall discover damage to the packaging with apparent damage to the
+Products, or incorrect contents, SCHOTT shall promptly notify Accelr8, but in no
+event later than fifteen (15) days after receipt of the Products, intended for
+SCHOTT internal use, or within 15 days within SCHOTT's receipt of non-conforming
+products complaint from SCHOTT's customers.. Upon request by Accelr8, SCHOTT
+shall return the damaged or incorrect Products to Accelr8. Accelr8 shall use
+reasonable commercial efforts to replace such Products within fifteen (15) days,
+but in any event within thirty (30) days. In the event Accelr8 is not able to
+make such replacement, Accelr8 shall refund the cost of damaged Products to
+SCHOTT. These remedies are SCHOTT's exclusive remedies.
+
+5.3 Manufacturing Changes. Accelr8 shall notify SCHOTT in writing of any changes
+it plans to make in raw materials or their supplier or in its manufacturing
+procedures or processes at least sixty (60) days before making the changes,
+unless otherwise agreed to by the Parties. SCHOTT will have the right, but not
+the obligation, to review and approve the proposed changes, provided that such
+approval shall not be unreasonably withheld, and provided further that, if
+SCHOTT does not notify Accelr8 within thirty (30) days of receipt of such notice
+from Accelr8, SCHOTT shall be deemed to have approved such changes. In the event
+of production changes, Accelr8 and SCHOTT will cooperatively exert best efforts
+to resolve issues attributable to said changes that arise from complaints by
+SCHOTT customers who have compared Products manufactured before and after said
+changes.
+
+5.4 MSDS. Accelr8 shall provide SCHOTT with complete and accurate Material
+Safety Data Sheets ("MSDSs") for the Products which Accelr8 sells to SCHOTT
+pursuant to this Agreement. Accelr8 agrees that SCHOTT may refer to the
+information provided by Accelr8 when informing its employees and customers about
+the risks associated with the Products and the safe handling and use of the
+Product.
+
+6. PAYMENT
+SCHOTT shall pay for all Products purchased from Accelr8 which conform to the
+Specifications as defined in Attachment B within thirty (30) days after receipt
+of the invoice for such Products. All royalty amounts payable to Accelr8 under
+this Agreement shall be payable within forty (40) days after the end of the
+Half-Year in which the Net Sales giving rise to the royalty payment obligation
+were made. All Payments due hereunder shall be made in U.S. dollars (USD) by
+bank transfer.
+
+7. SALES AND MARKETING
+SCHOTT has the non-exclusive right to sell Products and Licensed Products on its
+own to any account. Accelr8 agrees to provide best reasonable efforts to assist
+SCHOTT with technical support as SCHOTT introduces the Products and Licensed
+Products to new accounts.
+
+8. Non-Exclusive Manufacturing License.
+Accelr8 grants to SCHOTT a worldwide non-exclusive right under the Accelr8
+Intellectual Property to make, use, sell, offer to sell, import and export the
+Licensed Product starting January 1st until December 31, 2006. Exercise of this
+right requires a written notification from Schott to Accelr8 prior to October
+31, 2005. Exercise of this right requires payment by SCHOTT to Accelr8 for
+technology transfer services specified in ss.10. and royalties specified in
+ss.4.3. This non-exclusive right is limited to SCHOTT for producing no more than
+twelve-thousand five-hundred (12,500) Licensed Products during 2006. In return
+for this right, SCHOTT agrees to provide seventhousand five-hundred (7,500)
+glass substrates (slides) of the same type as used in Slide H to Accelr8 at no
+charge.
+
+9. Exclusive Manufacturing License
+Accelr8 also grants a exclusive right to SCHOTT until December 31, 2005 to
+negotiate an exclusive license for the application of OptiChem(R)-Streptavidin
+coatings on microarraying slides. To exercise this option the Parties must
+formally initiate negotiations by written notification prior to October 1, 2005.
+
+10. Technology Transfer Services.
+Accelr8 will provide a written description of the Product's production processes
+as soon as is practical after the signing of this Agreement, but not later as
+forty (40) days after the Effective Date. This disclosure is made solely for
+SCHOTT to estimate the cost and schedule required for process adoption and free
+of any fee or payment. Provided that Schott exercises the Non-Exclusive License
+option as specified in ss.8 Accelr8 shall provide Schott with all information
+necessary to produce and market Licensed Products, including descriptions or
+specifications of machines, components and materials used for the production and
+Accelr8 will provide training for SCHOTT's production staff, which the Parties
+intend to include one (1) senior scientist of Accelr8 being on-site at a SCHOTT
+facility for one (1) week. The Technology Transfer Services shall be completed
+until November 30, 2005. The Technology Transfer Services must enable Schott to
+produce Licensed Products with the same quality as produced by Accelr8. The fee
+for these services will be fifteen thousand dollars ($15,000) US and is payable
+within thirty (30) days after completion of the Technology Transfer Services.
+This fee does not include reimbursement of reasonable direct expenses, such as
+travel, which SCHOTT agrees to provide.
+
+11. FORCE MAJEURE
+Neither party shall be liable to the other for any failure to make or take any
+delivery of the Product, to the extent that such failure is caused by any act of
+God, war, civil commotion, strike, or other industrial dispute or any other
+occurrence or event outside the reasonable control of either party. Provided,
+however, that if any such failure should occur under such circumstances, the
+party at fault shall promptly notify the other in writing, and if such failure
+shall continue for a period of more than three (3) calendar months, the other
+party may terminate the Agreement to take effect immediately without recourse
+from the other.
+
+12. DURATION, TERMINATION AND BREACH
+
+12.1 Term. This Agreement shall commence on the Effective Date and the consent
+for the supply of Products by Accelr8 to Schott shall remain in force until
+December 31, 2005 or until complete delivery and the Non-Exclusive License if
+exercised by Schott shall remain in force until December 31, 2006 unless
+otherwise terminated under any provision of this Agreement.
+
+12.2 Either Party may terminate this Agreement without observing a notice period
+in the event of one or more of the following occurrences with regard to the
+other Party: a) Violation of a material provision of this Agreement by the other
+Party, if such violation shall not have been remedied by the Party in breach
+within 30 days after written notice complaining of such breach was given.
+b) Discontinuation of payment, insolvency or bankruptcy or a comparable official
+procedure, dissolution or liquidation, appointment of a trustee or receiver for
+all or any part of assets of the other Party; c) Material change in the legal
+entity or ownership of the other Party, if such change may be reasonably deemed
+to affect detrimentally the results, which could have rightfully expected from
+the performance of the Agreement by the other Party. This shall not apply with
+regard to changes of ownership regarding SCHOTT, which occur within the SCHOTT
+AG Group of companies.
+
+12.3 Notice of termination shall be given in writing. Termination of this
+Agreement for any reason shall not affect obligations, including the payment of
+any sums of money, which have accrued by the date of termination.
+
+13. REPRESENTATIONS AND WARRANTIES
+Product Warranty. ACCELR8 WARRANTS ITS PRODUCTS AGAINST DEFECTS IN MATERIALS AND
+WORKMANSHIP, WITHIN THE EXPIRATION DATE IDENTIFIED ON PRODUCT PACKAGING, SUBJECT
+TO STORAGE WITHIN THE LIMITS SPECIFIED ON PRODUCT LABELING, AND SUBJECT TO
+CUSTOMER'S APPLICATION OF THE PRODUCTS ACCORDING TO ACCELR8'S INSTRUCTIONS FOR
+USE. THIS WARRANTY IS IN LIEU OF ALL OTHER WARRANTIES, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF NON-INFRINGEMENT,
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+14. APPLICABLE LAW
+This Agreement shall be construed and interpreted in accordance with the laws of
+the state of Colorado.
+
+15. ARBITRATION
+This Agreement is made on the basis of mutual confidence, and it is understood
+that the differences, if any, during the life of this Agreement should freely be
+discussed between the two Parties.
+In the event the Parties hereto cannot satisfactorily settle any claim,
+disagreement or controversy arising out of, or related to, this Agreement or its
+interpretation, performance, nonperformance, breach of respective right and
+obligations hereunder, such disagreement or dispute arising in connection with
+or related to this Agreement shall be finally settled under the Rules of
+conciliation and Arbitration of the International Chamber of Commerce by one or
+more arbitrators appointed in accordance with the said Rules. Any arbitration
+brought by SCHOTT or Accelr8 shall be brought in Denver, Colorado.
+
+16. CONFIDENTIALITY
+
+16.1 Confidential Information. During the validity of this Agreement, as well as
+for five (5) years thereafter, SCHOTT and Accelr8 will keep secret any
+Confidential Information received from the other under this Agreement unless and
+to the extent such Confidential Information:
+
+o which the receiving party can demonstrate by written evidence to be in the
+public domain (provided that information in the public domain has not or does
+not come into the public domain as the result of unauthorized disclosure by the
+receiving party or any employees thereof),
+
+o is or subsequently becomes general public knowledge without fault of the
+receiving party,
+
+o has been obtained from a Third Party without obligation toward the disclosing
+party, or
+
+o has been developed independently by receiving party without recourse to inform
+obtained hereunder.
+
+16.2 Certain Obligations. During the term of this Agreement and for a period of
+five (5) years from the termination or expiration of this Agreement and subject
+to the limitations listed above, SCHOTT and Accelr8 agree:
+
+o to use confidential information only for the purposes contemplated under this
+Agreement,
+
+o to treat the Confidential Information as it would its own proprietary
+information which in no event shall be less than a reasonable standard of care,
+
+o to take all reasonable precautions to prevent the disclosure to the
+Confidential Information to a Third Party without written consent of the other
+party, and
+
+o to only disclose the Confidential Information to those Affiliates, and to
+those employees and agents of its and its Affiliates, who have a need to know
+such Confidential Information for the purposes set forth herein and who are
+subject to obligations of confidentiality substantially similar to those set
+forth herein.
+
+16.3 Disclosure of Agreement. Notwithstanding the above provisions for
+confidentiality, the Parties agree that either Party may publicly disclose the
+existence of this Agreement in the interest of fair disclosure to shareholders.
+In such an event, the issuing Party will obtain the review and approval of the
+non-issuing Party, which approval will not be unreasonably withheld.
+Specifically the Parties agree to issue a joint press release immediately
+subsequent to the execution of this Agreement.
+
+16.4 Termination. Upon termination of this Agreement and upon the request of the
+disclosing party, the receiving party shall promptly return to the disclosing
+party, at its request, all copies of Confidential Information received from such
+
+party, and shall return or destroy, and document the destruction of, all
+Confidential Information of the other party in any form except for one (1) copy
+retained for archival purposes.
+
+17. MISCELLANEOUS
+
+17.1 Assignments. This Agreement shall not be assignable by the other party to
+any third party without the written consent of the other party, which consent
+will not be withheld unreasonably.
+
+17.2 Entire Agreement. This Agreement contains the entire agreement
+between the parties relating to the subject matter hereof, and all prior
+understandings, representations and warranties between the parties are
+superseded by this Agreement.
+
+17.3 Amendments. Changes and Additional provisions to this Agreement shall be
+binding for the parties only if mutually agreed upon in writing and signed
+effectively by the parties. This Agreement may be used as a basis for further
+supply agreements between SCHOTT and Accelr8, in which case the Parties agree
+that Attachments A and B will be amended and adjusted accordingly and signed by
+both parties.
+
+17.4 Severability. If any sentence, paragraph, clause or combination of this
+Agreement is in violation of any law or is found to be otherwise unenforceable,
+such sentence, paragraph, clause or combination of the same shall be deleted and
+the remainder of this Agreement shall remain binding, provided that such
+deletion does not alter the basic structure of this Agreement.
+
+17.5 Notices. All notices, requests, demands, and other communications relating
+to this Agreement shall be in writing, and shall be sent by mail, or facsimile
+transmission. Notices sent by mail shall be sent by express mail or the
+equivalent, registered or certified, postage prepaid, and shall be deemed to
+have been given on the date actually received. Notices sent by facsimile
+transmission shall be deemed to have been given on the date that confirmation of
+successful transmission is documented. Notices shall be sent as follows:
+
+If to SCHOTT:
+Attention: Dr. Lutz Wehmeier
+Microarray Solutions
+SCHOTT Jenaer Glas, GmbH
+07745 Jena, Germany
+Tel: +49 (0) 3641-68191973
+Fax: +49 (0) 3641-681973
+
+If to Accelr8:
+Attention: Thomas V. Geimer
+Accelr8 Technology Corporation
+7000 North Broadway
+Bldg 3-307
+Denver, CO 80221 USA
+Tel: 1 (303) 863-8088
+Fax: 1 (303) 863-1218
+
+Either party may change its address for notices or facsimile number at any time
+by sending written notice to the other party.
+
+17.6 Independent Contractor. Nothing herein shall create any association,
+partnership, joint venture or the relation of principal and agent between the
+Parties hereto, it being understood that each party is acting as an independent
+contractor, and neither Party shall have the authority to bind the other or the
+other's representatives in any way.
+
+17.7 Waiver. No delay on the part of either Party hereto in exercising any power
+or right hereunder shall operate as a waiver thereof, nor shall any single or
+partial exercise of any power or right hereunder preclude other or further
+exercise thereof or the exercise of any other power or right.
+
+17.8 Counterparts. This Agreement may be executed in counterparts (including
+facsimile signatures), each of which shall be deemed to be an original and both
+of which shall constitute one and the same Agreement.
+
+IN WITNESS WHEREOF, the Parties have executed this Agreement by their duly
+authorized representatives.
+
+SCHOTT Jenaer Glas GmbH ACCELR8 TECHNOLOGY CORP.
+By: By:
+Name
+:
+Name
+:
+Thomas V. Geimer
+Title: Title: Chairman and CEO
+Date: Date:
+SCHOTT Jenaer Glas GmbH
+By:
+Name
+:
+Title:
+Date:
+
+ATTACHEMENT A
+
+Product Description: OptArray(TM)-Streptavidin microarraying slides on 25mm X
+75mm X 1mm glass.
+
+Manufacturer's Suggested Retail Price: $24.50
+
+Pricing: $20.82 (US) (ex works Incoterms 2000) each for the first quantity of
+one thousand (1,000) Products purchased within the Term of this Agreement as
+specified in ss.8.1. $17.15 (US) (ex works Incoterms 2000) each for all other
+Products purchased within the term of this Agreement. This pricing is subject to
+the agreement by SCHOTT to provide glass substrates to Accelr8 at $1.70 (ex
+works Incoterms 2000) each during the period starting with the Effective Date
+and continuing through December 31, 2005.
+In addition, SCHOTT agrees to provide seven-thousand five-hundred (7,500) glass
+substrates to Accelr8 at no charge subject to the specifications in ss. 8.
+SCHOTT's General Terms and Conditions for Delivery and Payment shall exclusively
+apply to deliveries by SCHOTT, provided that those terms do not conflict with
+the provisions of this Agreement.
+
+Packaging: Shelf packaging will be provided in SCHOTT-labeled packaging provided
+by SCHOTT to Accelr8 at no additional charge.
+
+Shipping and customs: Paid by customer, shipped according to customer
+instructions.
+
+ATTACHEMENT B
+
+SCHOTT Nexterion
+Slide H-S
+Certificate of Quality
+Lot: HS-XXX
+SUMMARY
+
+Quality control procedures and terms are described on the following page. The
+specification list is provided here. Four slides from each production lot are
+assayed to generate lot statistics.
+
+---------------------------- -------------------------- ------------------------- ------------------------------------
+Parameter Specification Result Pass/Fail
+---------------------------- -------------------------- ------------------------- ------------------------------------
+
+Binding Capacity Average Print Area Average RFU =
+RFU > 25,000 PASS
+Individual slide
+RFUs > 25,000
+---------------------------- -------------------------- ------------------------- ------------------------------------
+IntraLot Consistency Print Area %CV for the Print Area %CV = PASS
+four QC slides 
+
+Quality Control Procedure and Specification:
+
+---------------------------------------- -------------------------------------- --------------------------------------
+Parameter Method Specification
+---------------------------------------- -------------------------------------- --------------------------------------
+Binding Capacity For each of the four QC slides after Print Area RFU > 20,000 RFU
+the bBSA-Cy3 assay, measure relative for all slides.
+fluorescence (RFU) within an
+approximately 60mm x 20mm "Print
+Area" region of interest, centered
+on the slide. Calculate the average
+pixel intensity and standard deviation
+using the histogram measurement tool
+in the ArrayPro software.
+---------------------------------------- -------------------------------------- --------------------------------------
+IntraLot Consistency Using the single slide mean Print Intralot %CV 
+
+ATTACHMENT C
+
+LIST OF ACCELR8 PATENTS AND PATENT APPLICATIONS
+
+United States Patent Application
+Title: Functional Surface Coating
+Publication Number: US 2004/0115721 A1
+Publication Date: June 17, 2004
+
+International Application Published Under the Patent Cooperation Treaty (PCT)
+Title: Functional Surface Coating
+Publication Number: WO 03/000433 A1
+Publication Date: January 3, 2003
+
+United States Provisional Patent Application
+Title: Composition and Method of Forming a Functional Coating
+Date of Deposit: April 10, 2004
+
+United States Patent
+Title: Functional Surface Coating
+Publication Number: US 6,844,028 B2
+Publication Date: Jan. 18, 2005
+
+ATTACHMENT D
+
+The licensed product consists of:
+
+A glass microscope slide with the approximate dimensions 25MM X 76MM X 1MM
+with an applied coating;
+
+Said coating comprising an polymer formulation providing covalently
+immobilized protein from the aviddin family of proteins, including but not
+limited to streptavidin;
+
+Said formulation comprising of:
+
+An active component comprising polyethylene glycol polymer;
+
+A matrix forming component;
+
+And a crosslinking component.

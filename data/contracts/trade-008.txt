@@ -1,0 +1,702 @@
+EX-4.4 
+
+EXHIBIT 4.4 
+
+[Letterhead of Canadian Solar Inc.]
+
+Sales Contract 
+
+July. 15th, 2008 
+
+Contract No.: CSI-PRO080715
+
+entered by and between
+
+Canadian Solar Inc. 
+
+675 Cochrane Drive
+
+East Tower 6th Floor
+
+Markham, Ontario L3R 0B8
+
+Canada
+
+(herein after referred to as the “VENDOR”)
+
+and
+
+Solpower GmbH 
+
+Schubertstr. 17
+
+D-88214 Ravensburg
+
+(herein after referred to as the “PURCHASER”)
+
+The orders can only be from:
+
+SOLPOWER GmbH 
+
+Schubertstrasse 17
+
+D-88214 Ravensburg
+
+Page 1 of 14 
+
+Recitals 
+
+The VENDOR is registered under Federal Business Act of Canada and manufactures crystalline
+photovoltaic panels at its wholly-owned manufacturing plants in P.R. China.
+
+The PURCHASER is active in the photovoltaic market. Among other business activities, the PURCHASER
+distributes solar modules and carries out various solar power plant projects in Germany and other
+parts in Europe.
+
+The PURCHASER has a need for certain Mono/Poly Crystalline PV Modules for the Purchaser’s
+project(s) (hereinafter referred to as “module” or “modules”), and desires to procure said modules
+from the VENDOR.
+
+The VENDOR desires to deliver and sell said modules to the PURCHASER.
+
+NOW, THEREFORE, the Parties agree as follows:
+
+I. 
+
+Type and Quantity of Modules, Prices, Delivery Time 
+
+Type and quantities of the modules which the PURCHASER needs, the applicable specification, the
+prices, and the desired time of delivery which is set forth in EXHIBIT I to this Agreement.
+
+II. 
+
+Labelling 
+
+1. The product labels and trade marks of each module shall state the manufacturers’ name, each
+module’s serial number, indicate the nominal output as well as current and voltage characteristics
+at standard test conditions (STC) of the type of module concerned and bear a clear warning against
+hazardous behaviour.
+
+2. The PURCHASER shall not, without the prior written consent of the VENDOR, alter or make any
+addition to the labelling or packaging of the products displaying the Trade Marks, and shall not
+alter, deface or remove in any manner any reference to the Trade Marks, any reference to the VENDOR
+or any other name attached or affixed to the products or their packaging or labelling.
+
+Page 2 of 14 
+
+III. 
+
+Port of Shipment / Port of Destination 
+
+The port of shipment shall be Shanghai, P.R. China or any other Chinese ports determined by the
+VENDOR from time to time.
+
+The port of destination will be the major Germany ports (Hamburg). The PURCHASER shall timely
+notify the VENDOR of the port of destination for every single shipment.
+
+IV. 
+
+Packing/ Shipping Mark 
+
+1. The packing shall be in accordance with the international packing standards (no wood package,
+for example) and suitable for long distance ocean shipping freight transportation and shall be well
+protected against moisture and shocks as well as disinfected. The well-packed PV-modules shall be
+shipped in containers. The relevant service and operation instructions shall be enclosed.
+
+2. The VENDOR shall mark on each package with fadeless paint the package number, gross weight, net
+weight, measurement of the package as well as of each single module, the serial number and wattage
+of each single module in the package concerned, the name of the module type, the port of
+destination and the wordings or imaged indications representing: “Keep Away from Moisture”, “Handle
+with Care”... etc.
+
+V. 
+
+TITLE AND RISK OF LOSS/INSURANCE 
+
+1. Risks of loss or damage, as well as any additional costs due to events occurring after the time
+of delivery shall pass to the PURCHASER on delivery in accordance with C.I.F. Incoterms 2000:
+However, title to the products per specified delivery shall pass to the PURCHASER only after
+payment for those particular products has been received in full.
+
+2. The VENDOR also has to procure marine insurance against the Purchaser’s risk of loss of or
+damage to the products during the carriage only on minimum insurance coverage in accordance with
+C.I.F Incoterms 2000.
+
+Page 3 of 14 
+
+3. The PURCHASER shall at its own cost maintain insurance coverage against all risks which would
+normally be insured against by a prudent businessman in respect of products supplied to it
+commencing from the time when the products surpass the rail of the carrying vessel and extending
+until such time as title in the products passes to the PURCHASER in accordance with Par.1 above.
+
+VI. 
+
+Terms of Payment 
+
+The payment shall be made
+
+1. 
+
+by 15% down payment, Via T/T, within 5 working days after the presentation by
+fax and/or email of the Order Confirmation executed by the VENDOR; balance by T/T
+within 21 days against the presentation of the shipping documents. 
+
+2. 
+
+Late Payment: Interest shall be chargeable on any amounts overdue at the rate
+of 0.03% per day to run from the due date for payment until receipt by the VENDOR of
+the full amount whether or not after judgment and without prejudice to any other right
+or remedy of the VENDOR. 
+
+VII. 
+
+Documents 
+
+The VENDOR shall send the following documents immediately to the PURCHASER via an international
+bank for the respective shipment with L/C terms:
+
+1. 
+
+Full set (including 3 originals) of shipped on board Bill of Ladings made out
+to the Contract and blank endorsed and consigned to the PURCHASER, marked “Freight
+Prepaid”. 
+
+2. 
+
+Signed Commercial Invoice in 2 originals indicating contract number issued by
+the VENDOR. Packing list (including 3 originals) with indication of weights,
+measurements and quantity issued by the VENDOR. 
+
+3. 
+
+Flash reports stating the module type, serial number, lsc, Voc, Imp, Vmp, Pmax,
+and the date of testing by Fax or E-mail to PURCHASER 
+
+Page 4 of 14 
+
+Within 5 working days after receiving the shipping documents from the Vendor’s shipping
+forwarder, the VENDOR has to fax or e-mail or courier one copy of the Bill of Lading and one
+copy of the Commercial Invoice to the PURCHASER. The number of the documents and their
+contents shall be complete and correct. If the PURCHASER fails to pass the customs and to
+take over the products in time due to the VENDOR not having provided the documents as
+specified above, all losses caused by the Vendor’s fault shall be borne by the VENDOR.
+
+VIII. 
+
+Shipments 
+
+C.I.F. German Hamburg port (Incoterms 2000).
+
+Unless otherwise agreed in writing between the Parties, Cost Insurance and Freight Incoterms 2000
+shall apply to this Agreement. If there is any conflict between such Incoterms and the terms of
+this Agreement then the terms of this Agreement shall prevail.
+
+The particulars of the shipment including the name of the vessel, date, quantity and value of
+shipment are to be e-mailed or faxed to the PURCHASER within 2 working days after such information
+received from the Vendor’s shipping forwarder so that the PURCHASER can arrange for the Customs
+Clearance.
+
+Partial shipment shall be allowed, but only in full containers. Trans-shipment shall be not
+allowed.
+
+IX. 
+
+Warranties 
+
+1. The VENDOR guarantees that the products shall be made of qualified materials with first class
+workmanship, that they shall be brand new and unused and that they shall comply in all respects
+with the quality and specification stipulated in this Agreement including its attachments and that
+they shall be in conformity with the relevant technical data.
+
+Page 5 of 14 
+
+2. The
+VENDOR guarantees that the modules are manufactured according to IEC
+61215 and TÜV Safety
+Class II, or IEC 61730 standards.
+
+3. Furthermore, the VENDOR shall issue a written warranty for his products with the following
+content:
+
+(1) 
+
+A Product Quality Warranty stating that the products shall be free from defects
+in material and workmanship for two years. If, within 24 months counting from the date
+of receipt of the product at destination, damages or defects occur in the course of
+operation because of inferior quality, bad workmanship or the use of inferior materials
+in the manufacturing process, the VENDOR shall, upon notice by the PURCHASER with
+authentic and sufficient evidence, immediately repair, replace, or make adjustments to
+the default products. 
+
+(2) 
+
+A Power Performance Warranty stating that the power degradation of the
+products’ originally rated power as determined under Standard Test Conditions
+(1000W/m2, 25°C cell temperature, AM=1.5) shall not be greater than 10% after 10 years
+and 20% after 25 years. 
+
+4. This warranty shall lead to the consequence that:
+
+(1) 
+
+if, within 24 months counting from the date of receipt of the product at
+destination, damages or defects occur in the course of Operation because of inferior
+quality, bad workmanship or the use of inferior materials in the manufacturing process,
+the VENDOR shall, upon notice by the PURCHASER with authentic and sufficient evidence,
+immediately repair, replace the defective products. Costs for transportation of the
+default and replacing modules and installation costs shall be borne by the VENDOR. 
+
+Page 6 of 14 
+
+(2) 
+
+if it is determined that under Standard Test Conditions (STC, 1000
+W/m 2 , 25°C, AM=1.5) products supplied by the VENDOR to the PURCHASER do not
+meet the warranted percentage of its specified power output during the warranty term,
+the VENDOR shall execute the remedy as stipulated in its warranty statement. 
+
+5. The warranties shall not cover damages, malfunctions or service failures caused by:
+
+- 
+
+errors made during installation, operation or maintenance, 
+
+- 
+
+abuse or misuse, 
+
+- 
+
+power failure surges, lightning, fire or flood, 
+
+- 
+
+actions of third parties and other events or accidents outside the reasonable control and not arising under normal operating conditions. 
+
+Where inspection of the defective product indicates with sufficient evidence of improper
+installation, operation or maintenance, the PURCHASER shall reimburse VENDOR its costs for
+the replacement or repaired the product including costs of examination.
+
+X. 
+
+Effective Date, Duration, Termination 
+
+(1) This Agreement shall come into effect after both parties have signed it (“Effective date”), and
+shall initially remain in effect until Dec. 31st, 2009 (“Expiration Date”), unless the Parties
+agree on an extension prior to the Expiration Date.
+
+(2) If the PURCHASER becomes insolvent or bankrupt or breaches a provision of this Agreement and
+does not remedy such breach within thirty (30) calendar days of written notice by the VENDOR, the
+VENDOR may terminate this Agreement in whole or in part effective thirty (30) calendar days after
+said notice was given.
+
+Page 7 of 14 
+
+If the VENDOR becomes bankrupt or insolvent or breaches a material provision hereof and does not
+commence to remedy such breach within thirty (30) calendar days of being given written notice by
+the PURCHASER, the PURCHASER may terminate this Agreement in whole or in part effective thirty (30)
+calendar days after such notice was given.
+
+(3) In regard to any orders already been made by PURCHASER before the expiration or termination of
+this Agreement, this Agreement shall fully remain in effect beyond the respective expiration or
+termination date. The foregoing shall not apply, if the Agreement is terminated by VENDOR due to
+Purchasers bankruptcy or insolvency.
+
+XI. 
+
+Claims 
+
+1. Within 15 days after the arrival of the products at final CIF Port destination should the
+specification, quantity or appearance of the modules be found not to be in conformity with the
+stipulations of this Agreement, except for those claims for which the insurance company or the
+owners of the vessel are liable, the PURCHASER shall, based on the Inspection Certificate issued by
+an office of the Authorised Administration of Import and Export Commodities Inspection of the
+importing country, have the right to claim replacement with new products (in case of total
+failure), or financial compensation limited to the cost of the products in question.
+
+The VENDOR, upon verification of the Purchaser’s claim, shall be responsible for complete or
+partial replacement of the commodity or shall devaluate the products according to the state of
+defects.
+
+2. The VENDOR shall not be held responsible for the delay in shipment or non-delivery of the
+products, or for failure to manufacture, deliver or perform due to the acts of the PURCHASER
+including failure of the PURCHASER to supply to the VENDOR in a timely manner with all necessary
+information, required sample parts or other specified items required by VENDOR to design,
+manufacture and test the product.
+
+Page 8 of 14 
+
+XII. 
+
+Force Majeure 
+
+The VENDOR shall not be held responsible for the delay in shipment or non-delivery of the due to
+Force Majeure, such as war, severe fire, flood, typhoon, earthquake, labour strike or riots which
+might occur during the process of manufacturing or in the course of transportation, loading or
+transit, or such Force Majeure at any key suppliers of the VENDOR; The VENDOR shall inform the
+PURCHASER immediately of the occurrence of an instant mentioned above and within ten days
+thereafter, the VENDOR shall send by fax or e-mail or courier to the PURCHASER for their acceptance
+a certificate of the accident issued by the relevant government authority where the incident
+occurred as evidence thereof.
+
+Under such circumstances, the VENDOR, however, shall still be under the obligation of taking all
+necessary measures to hasten the delivery of the products.
+
+XIII. 
+
+Dispute Settlement/Arbitration Clause 
+
+1. If a dispute of any kind whatsoever arises between the Parties in conjunction with this
+Agreement, the Parties shall attempt to settle such dispute amicably. In any disputes of the
+measured flash data, the parties agree to accept Freudhoefer Institute, Freiberg, Germany as
+reference.
+
+2. Provided the Parties are not able to agree upon an amicable settlement within a reasonable time
+and no later than thirty (30) calendar days after initiation of settlement discussions, all
+disputes arising out of or in conjunction with this Agreement, - and/or in conjunction with
+subsequent agreements pursuant to Clause I, Paragraph (2) above - including disputes over their
+construction or validity, and regardless of their legal nature, shall be settled by an arbitration
+court in accordance with the Arbitration Rules of Conciliation and Arbitration of the ICC
+(International Chamber of Commerce) without recourse to the ordinary courts of law. Such
+arbitration shall be final and binding.
+
+3. The place of arbitration shall be Frankfurt, Germany, or Toronto, Ontario, Canada. The Party
+bringing the initial claim(s) in dispute shall have the right to choose between the aforementioned
+places
+
+Page 9 of 14 
+
+4. The language of the arbitration proceedings shall be English.
+
+5. Without detriment to the foregoing, the Parties shall not be precluded from initiating interim
+measures via the ordinary courts of law.
+
+XIV. 
+
+Choice-of-Law Clause 
+
+This Agreement and all disputes arising out of, or in conjunction with this Agreement, -and/or in
+conjunction with subsequent agreements pursuant to Clause I,
+Paragraph (2) above - including
+disputes over its validity and construction, shall be exclusively governed by the laws of Canada.
+Conflict of laws rules shall not apply.
+
+XV. 
+
+Taxes and Duties 
+
+All taxes and duties in connection with the execution of this Agreement shall be paid as follows:
+
+1. 
+
+Levied by the Chinese government shall be borne by the VENDOR. 
+
+2. 
+
+Levied by the government of the importing country shall be borne by the
+PURCHASER. 
+
+XVI. 
+
+Exclusivity /Non- Competition Clause/Confidentiality 
+
+1. The VENDOR shall regard the PURCHASER as first priority client and guarantee the PURCHASER that
+the VENDOR shall not sell to or compete against the PURCHASER for a list of clients presented by
+the PURCHASER and attached hereto. This list and non compete agreement shall be for existing
+bonifide current clients of the PURCHASER which are active and have purchased modules for projects
+within the current and previous year. This shall exclude clients that may also be purchasing from
+the VENDOR unknowingly to both PURCHASER and VENDOR and that are also current clients of the
+VENDOR. This covenant not to compete shall remain in effect as long as this Agreement also remains
+in effect.
+
+Page 10 of 14 
+
+2. The Parties acknowledge and agree that during the term of this Agreement that they may gain
+access to and become acquainted with information critical to the other Party’s business, such as
+business and trade secrets and/or information, trade and business secrets pertaining to other
+companies affiliated with that Party. The Parties agree that they shall not disclose any such
+information, business or trade secrets, neither directly nor indirectly, to any other person or
+legal entity. This covenant to keep confidential shall remain in force after termination of this
+Agreement to the full extent permitted by applicable law.
+
+XVII. 
+
+CSI Standard Warranty Statement and Conditions of Sales 
+
+CSI standard warranty statement and conditions of sales should apply to any issues not specifically
+covered by this agreement.
+
+XVIII. 
+
+Entire Agreement and Amendments 
+
+1 In respect of the Sales Master Contract and without consideration of the subsequent Purchase
+Order or Conditions of Sale for each separate sale, this Agreement including EXHIBIT 1 shall
+constitute the entire Agreement between the Parties with regard to its subject matter. This
+Agreement shall supersede all other prior oral or written agreements between the Parties hereto.
+
+2 Any amendments to, or modifications of this Agreement shall become effective only when in writing
+and signed by the Parties
+
+XVIIII. 
+
+Severability Clause 
+
+In the event any provision of this Agreement proves unenforceable or invalid for whatever reason,
+the remaining provisions of this Agreement shall be unaffected by such holding, but remain in full
+force and effect.
+
+IN WITNESS THEREOF, this Agreement is made in English and signed by both Parties in two original
+copies, each party holds one copy. This Agreement is effective from the date both Parties have
+signed it.
+
+Page 11 of 14 
+
+VALENCIA, SPAIN
+
+September 1, 2008
+
+/s/ Gregory Spanoudakis 
+
+Location, Date, Stamp and Signature of Canadian Solar Inc. 
+
+September 1, 2008
+
+/s/ Dr. Joachim von Bergwelt 
+
+Location, Date, Stamp and Signature of SOLPOWER GmbH 
+
+Page 12 of 14 
+
+Exhibit I 
+
+Commodity, Specification, and Delivery Schedule for the current Project: 
+
+Schedule 
+
+Commodity & Specification 
+
+Quantity (MW) 
+
+Price 
+
+09.1
+
+CS5A-160/170/180M
+
+[****]* 
+
+€ [****]*/Wp, CIF
+Hamburg 
+
+09.2
+
+[****]* 
+
+09.3
+
+[****]* 
+
+09.4
+
+[****]* 
+
+09.5
+
+[****]* 
+
+09.6
+
+[****]* 
+
+09.7
+
+[****]* 
+
+09.8
+
+[****]* 
+
+09.9
+
+[****]* 
+
+09.10
+
+[****]* 
+
+09.11
+
+[****]* 
+
+09.12
+
+[****]* 
+
+Total 
+
+[****]* 
+
+€ 
+
+Schedule 
+
+Commodity & Specification 
+
+Quantity (MW) 
+
+Price 
+
+09.1
+
+CS6P-200/210/220/230/240P
+
+[****]* 
+
+€ [****]*/Wp, CIF
+Hamburg 
+
+09.2
+
+[****]* 
+
+09.3
+
+[****]* 
+
+09.4
+
+[****]* 
+
+09.5
+
+[****]* 
+
+09.6
+
+[****]* 
+
+09.7
+
+[****]* 
+
+09.8
+
+[****]* 
+
+09.9
+
+[****]* 
+
+09.10
+
+[****]* 
+
+09.11
+
+[****]* 
+
+09.12
+
+[****]* 
+
+Total 
+
+[****]* 
+
+€ 
+
+* 
+
+This portion of the Sales Contract has been omitted and filed separately with the Securities and
+Exchange Commission, pursuant to Rule 24b-2.
+
+Page 13 of 14 
+
+Schedule 
+
+Commodity & Specification 
+
+Quantity (MW) 
+
+Price 
+
+09.1
+
+Ecosense-Module
+CS6A-150/160P
+
+[****]* 
+
+€ [****]*/Wp, CIF
+Hamburg 
+
+09.2
+
+[****]* 
+
+09.3
+
+[****]* 
+
+09.4
+
+[****]* 
+
+09.5
+
+[****]* 
+
+09.6
+
+[****]* 
+
+09.7
+
+[****]* 
+
+09.8
+
+[****]* 
+
+09.9
+
+[****]* 
+
+09.10
+
+[****]* 
+
+09.11
+
+[****]* 
+
+09.12
+
+[****]* 
+
+Total 
+
+[****]* 
+
+€ 
+
+Note: 
+
+In Q1 the Vendor will carry a credit for the difference between 2009 and 2008 pricing multiplied by watts delivered only in the month of December 2008.
+
+The Q2 delivery will be reviewed at March 15 th , 2009
+
+The Q3 delivery will be reviewed at June 15 th , 2009
+
+The Q4 delivery will be reviewed at September 15 th , 2009
+
+Each month delivery quantity will be confirmed in the end of former month. 
+
+* 
+
+This portion of the Sales Contract has been omitted and filed
+separately with the Securities and Exchange Commission, pursuant to
+Rule 24b-2. 
+
+Page 14 of 14

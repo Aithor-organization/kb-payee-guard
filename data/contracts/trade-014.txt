@@ -1,0 +1,43 @@
+Document 
+
+Exhibit 10.42 
+Confidential 
+Execution Version 
+
+THIRD AMENDMENT TO SUPPLY AGREEMENT 
+This Third Amendment to the Supply Agreement (the “ Amendment ”) is entered into as of 10 December, 2021 (the “ Amendment Effective Date ”) by and between Exelixis, Inc. , a Delaware company having an address at 1851 Harbor Bay Parkway, Alameda CA 94502, USA (“ Exelixis ”) and Ipsen Pharma SAS , a French corporation having an address at 65 Quai Georges Gorse, 92100 Boulogne-Billancourt, France (“ Licensee ”). Exelixis and Licensee may be referred to herein individually as a “ Party ” or collectively as the “ Parties ”. 
+Recitals 
+Whereas, Exelixis and Licensee are parties to that certain Collaboration and License Agreement dated February 29, 2016, as amended by Amendment No. 1 dated effective December 20, 2016, Amendment No. 2 dated effective September 14, 2017, and Amendment No. 3 dated effective October 26, 2017 (together, the “ License Agreement ”), pursuant to which the Parties have been collaborating on the development and commercialization of cabozantinib; and 
+Whereas, Exelixis and Licensee are parties to that certain Supply Agreement dated February 29, 2016, as amended by that certain Side Letter between the Parties dated August 26, 2016, Amendment No. 1 dated effective October 26, 2017, a second Side Letter dated effective December 7, 2017, subsequently extended on April 6, 2018, and Amendment No. 2 dated effective May 17, 2019 (together, the “ Supply Agreement ”), pursuant to which Exelixis has been manufacturing and supplying cabozantinib to Licensee for development and commercial use under the License Agreement; and 
+Whereas, the Parties desire to enter into this Amendment to amend the Supply Agreement to reflect updates to the supply process, in particular to outline the ongoing process for the delivery of the Finished Product, all on the terms and conditions set forth below. 
+Now, Therefore, in consideration of the foregoing premises and the mutual covenants contained herein and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties agree as follows: 
+1. Product Supply 
+1.1 Section 2.3(c) is deleted in its entirety and replaced with the following: 
+“(c) Delivery and Shipping Terms. Purchase Orders submitted for quantities of Product that are in accordance with Section 2.3(a) and/or Section 2.3(b) as applicable will be binding on both Parties after acceptance in writing by Exelixis; provided, however, that should Exelixis neither reject a Purchase Order nor provide written confirmation of acceptance within twenty (20) business days of receipt, Exelixis shall be deemed to have accepted the Purchase Order effectively. The Purchase Order will specify a single delivery date for such order to be delivered. Except as provided below, Exelixis shall deliver all Finished Product Delivery at Place (Paris Airport) (“DAP” Incoterms 2020). For Finished Product supplied by Rottendorf Pharma Inc., such Finished Product shall be delivered Ex Works (Rottendorf Pharma Inc.’s facility in Ennigerloh, Germany) (“EXW” Incoterms 2020) and Licensee shall be responsible for removing such Product from such facility within twenty (20) days after the Rottendorf Pharma Qualified Person releases such Product. For Purchase Orders placed for commercialization 
+1 
+
+Exhibit 10.42 
+Confidential 
+Execution Version 
+
+in Canada; Exelixis shall deliver Delivery at Place (“DAP” Incoterms 2020) to the warehouse in Canada, as notified by Licensee. Licensee shall deliver all Reworked Product to Third Party Subcontractor; Delivery Duty Paid (“DDP” Incoterms 2020). Exelixis shall deliver all Reworked Product from their Third Party subcontractor Ex-Works (“EXW” Incoterms 2020). Exept as provided in the next sentence, Exelixis shall be responsible for obtaining all licenses or other authorizations for the exportation of such shipments and shall supply Licensee with the documentation required for filing or claiming credit or deduction for any applicable taxes and/or duties. For Finished Product supplied by Rottendorf Pharma Inc., Exelixis shall be responsible for providing Licensee with the packing slip and commercial invoice. For all shipments, Licensee shall be responsible for obtaining all freight, handling, insurance, and shipping expenses, and shall be the importer of record and responsible for all duties and taxes for such shipments, and shall be responsible for obtaining all distribution licenses for the Products.” 
+2. General Provisions 
+2.1 Effect of Amendment . Except as expressly modified herein, all terms and conditions set forth in the Supply Agreement, as in effect on the Amendment Effective Date, shall remain in full force and effect. 
+2.2 Entire Agreement . The Supply Agreement as modified by this Amendment, and together with the License Agreement, is both a final expression of the Parties’ agreement and a complete and exclusive statement with respect to its subject matter. They supersede all prior and contemporaneous agreements and communications, whether written or oral, of the Parties regarding this subject matter. 
+2.3 Severability . If, for any reason, any part of this Amendment is adjudicated invalid, unenforceable, or illegal by a court of competent jurisdiction, such adjudication shall not, to the extent feasible, affect or impair, in whole or in part, the validity, enforceability, or legality of any remaining portions of this Amendment. All remaining portions shall remain in full force and effect as if the original Amendment had been executed without the invalidated, unenforceable, or illegal part. 
+2.4 Counterparts; Electronic or Facsimile Signatures . This Amendment may be executed in any number of counterparts, each of which shall be an original, but all of which together shall constitute one instrument. This Amendment may be executed and delivered electronically or by facsimile and upon such delivery such electronic or facsimile signature will be deemed to have the same effect as if the original signature had been delivered to the other Party. 
+{Signature Page Follows} 
+2 
+
+In Witness Whereof , the Parties hereto have caused this Amendment to be executed and entered into by their duly authorized representatives as of the Amendment Effective Date. 
+
+Exelixis, Inc. 
+
+By: /s/ Michael M. Morrissey 
+Name: Michael M. Morrissey, Ph.D. 
+Title: President and CEO 
+Ipsen Pharma S.A.S 
+
+By: /s/ Roman Stephens 
+Name: Ronan Stephens 
+Title: SVP of Supply Chain

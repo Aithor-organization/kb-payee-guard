@@ -1,0 +1,413 @@
+Exhibit 10.1 
+
+Portions of this document have been redacted
+pursuant to Item 601(b)(10)(iv) of Regulation S-K because it is both not material and would likely cause competitive harm to the
+registrant if publicly disclosed. Redacted portions are indicated with the notation “[***]”. 
+
+PRODUCTS PROCUREMENT AGREEMENT 
+
+1. Agreement and Applicability 
+
+This Products Procurement Agreement (“Agreement”) for the
+sale of Products, as defined in Section 4 below, between the Seller and the Buyer, as identified in Section 2 below, shall become
+effective on the Effective Date, as identified in Section 3 below.
+
+The Seller and the Buyer agree that the sale of the Product (as defined
+in Section 4 below) in the quality, at the quantity, and for the prices (as addressed in Section 5 below) satisfy the requirements
+found in Section 4 of that certain Joint Development Agreement (“JDA”) executed by the Seller and the Buyer on 14 November 2022,
+and the Seller and the Buyer also agree that this Agreement is the “Products Procurement Agreement” reference therein. The
+Seller and Buyer further agree that the JDA shall continue in effect.
+
+2. Parties 
+
+Seller and Buyer (each a party and together the Parties) are identified
+as follows:
+
+SELLER: The Seller under this Agreement shall be Westwater Resources, Inc. (“WWR” or “Westwater”), which is a
+publicly traded company organized and existing under the laws of the State of Delaware in the United States of America, with its head
+office located at 6950 South Potomac Street, Suite #300, Centennial, Colorado, 80112. 
+
+BUYER: The Buyer under this Agreement shall be SK On Co., Ltd. (“SKO” or “Buyer”), a company incorporated under
+the laws of the Republic of Korea, having its principal place of business at 51 Jong-ro, Jongno-gu, Seoul 03161, Republic of Korea. 
+
+3. Term 
+
+Buyer
+and Seller are executing and delivering this Agreement as of the later of the date of their signatures set forth on the signature page hereto
+(the “Signing Date”) but acknowledge and agree that the effective date of this Agreement (“Effective Date”) shall
+be [***]. Notwithstanding the foregoing, this Agreement shall only take in effect when: (i) Seller completes Phase 1 before eighteen
+(18) months prior to the Effective Date (“Longstop Date”) and; (ii) Buyer executes and signs a certain nomination or
+supply agreement with a third party purchaser that is potentially expected to use the Product (“Third-party OEM Purchaser”)
+herein before the Effective Date and provides written notification of such event to Seller (the “Notice”).
+
+This
+Agreement shall commence on the Effective Date and shall continue until [***] (the “Term”), unless terminated earlier
+by mutual written agreement of the parties. Parties may extend the term when the initial Term is expired by mutual written agreement.
+
+Seller
+shall complete the Kellyton Plant by Longstop Date and shall provide written evidence of such completion to the Buyer. In the event that
+Kellyton Plant is not completed by the Longstop Date for any reason, the Buyer’s obligation set forth in this Agreement shall not
+be applicable. For the avoidance of doubt, the completion the Seller’s Kellyton advance graphite processing plant located in Kellyton,
+Alabama (the “Kellyton Plant”) occurs when the Kellyton Plant b ecomes capable of producing sufficient volume of Product
+agreed in Schedule 2 below (“Phase 1”).
+
+4. Product 
+
+The following amounts of CSPG-10 natural graphite anode products (“Product”)
+to be sold under the Agreement shall comply with the specifications attached as Schedule 1 (the “Specifications”) and shall
+be delivered in accordance with the terms and conditions set forth hereunder this section.
+
+a. The Seller shall make available to the Buyer, DDP (Delivered Duty Paid) Incoterms at the Buyer’s plant in Georgia, JV plant
+in Kentucky, or JV Plant in Tennessee which will be designated in each order by Buyer. In case of other destinations other than three
+above locations, Parties shall discuss in good faith the costs related to the shipping again. : 
+
+i. Beginning on [***], and ending on [***], Buyers intends to order with shipments starting in [***], and with the parties willing to
+develop a rolling forecast to ensure volumes will be available. See Schedule 2 for forecast. 
+
+ii. Buyer may elect to move contract forward to a start date of [***] with such an election by the Buyer to be provided to Seller in writing
+no later than [***]. 
+
+iii. The Buyer shall purchase, on an annual basis, a minimum
+quantity of Product equal to [***]% of the forecast set forth in the Schedule 2 each year; provided, the minimum purchase quantity
+of Product can be increased from time to time by negotiations between the Parties. 
+
+iv. Prior to [***], the parties agree to negotiate in good faith for the annual quantities specified in (a) above to be increased,
+beginning on [***]. 
+
+b. In case of the Force Majeure event set forth in Section 7 arises, parties shall discuss and renegotiate the volume and price
+of the annual minimum purchase quantity of the Buyer. 
+
+c. The quantities purchased per month shown above shall be specified by the Buyer to the Seller in writing at least 90 days in advance
+of the commencement of each quarter during the Term, but such quantities shall be within the ranges specified above. 
+
+d. With each Product sold to Buyer, Seller shall provide a dated Bill of Lading (BOL), which includes an invoice for the same using the
+Price determined in accordance with Section 5 below. 
+
+e. Seller shall inform Buyer in case of any changes of raw materials and any components of the Product at least six (6) months prior
+to such changes and obtain Buyer’s prior written approval. 
+
+/s/ FB Page 2 of 8  /s/ JJP 
+WWR SKO 
+
+f. Seller shall conduct due diligence its sub-suppliers and will keep Buyer informed regularly on i) their activities and compliances
+with sanctions, export controls, and other applicable regulations and laws and ii) Buyer’s code of conduct and related policy from
+time to time published by Buyer and provided to Seller which as of the Effective Date. 
+
+g. Capacity 
+
+As of December 11, 2023, Seller’s expected
+available CSPG-10 capacity is as follows.
+
+CAPACITY 
+20 [***] 
+20 [***] 
+20 [***] 
+20 [***] 
+20 [***] 
+20 [***] 
+20 [***] 
+
+Metric tons 
+[***] 
+[***] 
+[***] 
+[***] 
+[***] 
+[***] 
+[***] 
+
+Capacity is subject to change in the event that Seller executes
+an off-take agreement with another company prior to completing and signing final Agreement with Buyer.
+
+5. Price 
+
+a. The amount to be charged for the Product is set out in the
+table and notes shown below (“Price”) . 
+
+PRICE* 
+20 [***] 
+20 [***] 
+20 [***] 
+20 [***] 
+20 [***] 
+
+$USD/kg 
+$[***] 
+$[***] 
+$[***] 
+$[***] 
+$[***] 
+
+* Price NTE (not to exceed)
+
+i. For the avoidance of doubt, parties can discuss and renegotiate the Price from time to time but newly adjusted price shall not exceed
+the Price set forth in this Agreement. 
+
+ii. Price is inclusive of any transportation and insurance costs, taxes, fees, duties, and levies, however designated or imposed, which
+are incurred by the Seller as addressed in Section 8 below. 
+
+b. Notwithstanding the foregoing, Seller hereby agrees that it will sell the Products to Buyer [***]. 
+
+c. If during the Term, Buyer believes that the Seller or the Products are not competitive in price, Buyer may send written notice to
+the Seller describing the non-competitiveness with all available details (“Non-Competitive Notice”) and the parties shall
+meet to discuss in good faith to renegotiate the price based on the market conditions. 
+
+/s/ FB Page 3 of 8  /s/ JJP 
+WWR SKO 
+
+6. Specification 
+
+The
+Seller warrants that the Product shall be in accordance with the Specifications set out in Schedule 1. The Seller and Buyer agree that
+the Specifications contained in Schedule 1 can be changed once the Buyer identifies the specific cell program for which the Product
+will be used. If the eventual Specification required by the Buyer materially differs from the Specification shown in Schedule 1, and there
+is an associated change in cost in the future, the parties agree to negotiate in good faith to determine a new price. Notwithstanding
+the foregoing, at the Buyer’s sole discretion, if the Product fails to conform the Specifications, the Buyer’s obligation
+to buy up to the required minimum volume set forth herein is not applicable and Buyer may suspend its purchase until Supplier cures the
+non-conformity with respect to the Specification. For the avoidance of doubt, if the Product fails to pass the Buyer’s internal
+assessment process for the conformity of Product, the Buyer may terminate this Agreement with non-conformity notice.
+
+The foregoing warranty by the Seller extends only to the Buyer and
+is in lieu of and excludes all other warranties not expressly stated in this Agreement, whether express or implied by operation of law
+or otherwise, including but not limited to any implied warranties of merchantability or fitness for any particular purpose.
+
+7. Force Majeure 
+
+Each
+party shall not be liable to the other party nor be found in breach or default of its obligations under the Agreement to the extent each
+party’s performance of such obligations is delayed, hindered or prevented, in whole or in part, directly or indirectly, due to causes
+beyond its reasonable control, whether foreseeable or unforeseeable, such as: acts of God; actions taken by a governmental authority
+(whether valid or invalid); embargoes; fires; floods, earthquakes, explosions; natural disasters; riots; wars; sabotage; or court injunction
+or order. Upon occurrence of a force majeure or other excusable delay, each party’s performance or delivery date shall be extended
+for a period equal to the duration of the force majeure or time lost by reason of delay, plus such additional time as may be reasonably
+necessary to overcome the effect of the delay. If the delay is due to any acts or omissions of Buyer, Seller shall be entitled to both
+an equitable performance and price adjustment. If the delay is due to any acts or omissions of Seller, Buyer shall be entitled to both
+an equitable performance and price adjustment.
+
+8. Incoterms Delivery Basis 
+
+The Price set forth in Section 5 above are DDP (Delivered Duty
+Paid) Incoterms to the Buyer’s plant in Georgia, JV plant in Kentucky, or JV Plant in Tennessee which will be designated in each
+order by Buyer. In case of other destinations other than three above locations, Parties shall discuss in good faith the costs related
+to the shipping again. The Seller is responsible for any and all transportation and insurance costs, taxes, fees, duties, and levies,
+however designated or imposed, which are incurred by Seller to sell the Products DDP.
+
+9. Payment 
+
+Buyer shall make payment to the Seller for the Product in the amount
+invoiced by telegraphic transfer net 60 days after BOL date against a copy of the scanned shipping documents.
+
+/s/ FB Page 4 of 8  /s/ JJP 
+WWR SKO 
+
+10. Insurance 
+
+Seller to arrange and pay for insurance against loss of the Product
+during shipment per DDP (Delivered Duty Paid) Incoterms.
+
+11. Additional Conditions 
+
+If
+requested on or before [***], the Buyer can elect to move the contract forward to a start date of [***] as addressed in Section 4(a)(ii),
+and this Agreement shall continue in effect.
+
+Buyer acknowledges that Seller and its affiliates are the owners or
+licensors of brands, trademarks, designs, patents, copyrights and other intellectual property related to Seller’s Products, and
+that no right or license is conveyed by Seller to Buyer to manufacture, have manufactured, modify, impact or copy such Products.
+
+12. Indemnification 
+
+Seller agrees to indemnify, defend and hold harmless Buyer and its
+related parent, subsidiary and affiliate companies, and each of their respective directors, officers and employees, from and against any
+and all claims, losses, damages, costs and expenses (including reasonable attorney’s fees) that may be suffered or incurred by any
+of them as a result of any claim, demand, suit, proceeding or cause of action arising in any manner from (i) the insolvency, bankruptcy
+or any other similar proceedings in any jurisdiction of the Seller, (ii) the use of the Products provided by Seller to Buyer, or
+(iii) breach or failure of express or implied warranty, breach of this Agreement, misrepresentation, negligence, strict liability
+in tort, or otherwise.
+
+In
+no event shall the aggregate liability of Seller in any action or proceeding exceed the higher amount between the [***]% of the
+total amount actually paid to Seller during the certain period agreed between the parties and $[***] USD. For clarity, the aggregate liability
+of Seller in any action or proceeding shall not exceed $[***] USD in any case.
+
+In
+case of Buyer, in no event shall the aggregate liability of Buyer in any action or proceeding exceed [***].
+
+13. Confidentiality and Publicity 
+
+a. The parties agree that all of the information included within the Agreement is business proprietary and, therefore, neither party
+shall be permitted to disclose any of the information included within the Agreement and the Agreement itself to any third party other
+than its own representatives or affiliates or publicly without the express, written, prior approval of the other party. 
+
+b. Each party agrees that if it is required by legal process or otherwise required by law to disclose the Agreement or any portion of
+the Agreement or any of the information included within the Agreement, then to the extent permitted by law that party shall, prior to
+disclosing the same, inform the other party promptly in writing of such required disclosure. In such circumstances, the parties
+shall reasonably cooperate to contest such disclosure, or to obtain a protective order regarding such disclosure, or to otherwise reasonably
+limit such disclosure to only that legally required to be disclosed. 
+
+/s/ FB Page 5 of 8  /s/ JJP 
+WWR SKO 
+
+c. The parties agree that each party may publicly disclose that it has entered into this Agreement, the parties to this Agreement, and
+the general nature of this Agreement; provided that, any such public disclosure shall be subject to prior review and approval by the other
+party with such approval not unreasonably withheld. 
+
+14. Governing Law and Venue 
+
+This Agreement shall be governed by and construed according to the
+laws of Singapore. Any dispute between the parties relative to this Agreement shall be resolved by arbitration in Singapore in English
+in accordance with the Arbitration Rules of the Singapore International Arbitration Center. The United Nations Convention on Contracts
+for the International Sale of Goods does not apply to this Agreement and any transaction between the parties related thereto, and it is
+hereby expressly disclaimed by the parties.
+
+Executed as an AGREEMENT :
+
+Signed by an authorized representative for Westwater
+Resources, Inc.
+
+Signed
+by an authorized representative for SK On, Inc.
+
+Signature 
+
+/s/ Frank Bakker 
+
+Signature 
+
+/s/ Jong Jin Park 
+
+Name (print) 
+
+Frank Bakker 
+
+President & CEO 
+
+Name (print) 
+
+Jong Jin Park 
+
+Executive VP Strategic Sourcing 
+
+Date: February 4, 2024 
+Date: February 2, 2024 
+
+/s/
+FB Page 6 of 8  /s/
+JJP 
+WWR SKO 
+
+SCHEDULE 1 – SPECIFICATIONS 
+
+1. ULTRA-CSPG 10 natural graphite anode material 
+
+2. Delivered in 1 metric ton bags (nominal) 
+
+3. Sourced from Westwater’s Kellyton, Alabama facility, which is owned and operated by Westwater’s wholly-owned subsidiary
+Alabama Graphite Products, LLC. 
+
+No 
+Item 
+Unit 
+CSPG10 
+
+1 
+Particle Size 
+[***] 
+㎛ 
+[***] 
+
+[***] 
+㎛ 
+[***] 
+
+[***] 
+㎛ 
+[***] 
+
+2 
+LOI 
+% 
+[***] 
+
+3 
+Ash 
+% 
+[***] 
+
+4 
+Tap Density 
+g/ ㎤ 
+[***] 
+
+5 
+SSA 
+㎡ /g 
+[***] 
+
+6 
+Reversible Capacity 
+mAh/g 
+[***] 
+
+7 
+Irreversible Loss-ICL 
+% 
+[***] 
+
+8 
+Trace elements 
+[***] 
+ppm 
+[***] 
+
+[***] 
+ppm 
+[***] 
+
+[***] 
+ppm 
+[***] 
+
+[***] 
+ppm 
+[***] 
+
+[***] 
+ppm 
+[***] 
+
+[***] 
+ppm 
+[***] 
+
+9 
+
+Trace element Magnetic impurity
+
+( [***])
+
+ppm 
+<0.1 
+
+/s/
+FB Page 7 of 8  /s/
+JJP 
+WWR SKO 
+
+SCHEDULE 2 – SK ON VOLUME FORECAST 
+
+20[***] 
+20[***] 
+20[***] 
+20[***] 
+20[***] 
+
+SK on Volume Forecast (mt) 
+[***]K 
+[***]K 
+[***]K 
+[***]K 
+10K 
+
+/s/ FB Page 8 of 8  /s/ JJP 
+WWR SKO

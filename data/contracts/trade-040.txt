@@ -1,0 +1,911 @@
+FORM: JANUARY 2004
+
+EXHIBIT 10.12
+
+PLANOVA(TM) SALES AGREEMENT
+
+THIS PLANOVA SALES AGREEMENT is made as of 1 day of March, 2004 by and between
+OMRIX BIOPHARMACEUTICALS LTD., an Israeli corporation with a principal place of
+business at the NDA Building, Tel-Hashomer, Israel ("PURCHASER"), and Asahi
+Kasei Pharma Corporation, a Japanese corporation with a principal place of
+business at 9-1, Kanda [ILLEGIBLE], Chiyoda-ku, Tokyo 101-8481, Japan
+("ASAHI").
+
+RECITALS
+
+A. Asahi has developed and currently manufactures Planova (as defined in Section
+1.4), and has in addition obtained certain patents and developed certain secret
+processes, Technologies and other related proprietary know-how constituting the
+Filter Technology (as defined in Section 1.1).
+
+B. Purchaser desires to purchase from Asahi, and Asahi is willing to sell to
+Purchaser, Planova in sufficient quantities to meet Purchaser's requirements for
+evaluating Planova's compatibility with Purchase's manufacturing process for
+Purchaser's Products (as defined in Section 1.5) and/or for manufacturing
+Purchaser's Products to be used for clinical trials to be carried out by
+Purchaser and or sold commercially by Purchaser.
+
+C. Purchaser desires to obtain from Asahi, and Asahi is willing to grant to
+Purchaser, subject to the terms and conditions set forth in this Agreement, a
+license permitting Purchaser to use the Filter Technology solely for the purpose
+set forth in Recital B above.
+
+TERMS OF AGREEMENT
+
+1 DEFINITIONS.
+
+As used in this Agreement, the following terms shall have the following
+meanings, whether used in the plural or singular form:
+
+1.1 "Filter Technology" shall mean (i) those secret and proprietary concepts,
+inventions, discoveries, developments, processes, methods, techniques,
+systems and know-how of Asahi existing on the date of this Agreement or
+acquired thereafter by Asahi which are disclosed to Purchaser directly or
+indirectly by Asahi orally (provided it has been reduced to writing within
+14 days of disclosure), in writing, through visit to facilities or by any
+other means of transmission, at any time, whether before or after
+execution of this Agreement, including, but not limited to, [ILLEGIBLE]
+pertaining to the evaluation of the compatibility of Planova with
+Purchaser's manufacturing process of Purchaser's Products or to the use of
+Planova in the manufacture of Purchaser's Products, regardless of whether
+protectable under any patent, copyright or trade secrets laws, and (ii)
+the Patents; including, for purpose of the foregoing clause (i), each item
+of information or data (in whatever form or format:, and regardless of the
+author or developer thereof) comprising or
+
+1
+
+FORM: JANUARY 2004
+
+relating to any of the following:
+
+1.1.1 any blueprints, specifications, operating, requirements or
+parameters, descriptions, drawings, designs or diagrams relating to
+Planova or other Asahi products, or prototypes thereof, and
+
+1.1.2 any research, testing or evaluation results or reports of Asahi
+relating to Planova or other Asahi products, or prototypes thereof, and
+any related sales or cost data or marketing or production information
+(whether actual or projected), but in any event subject to the
+restrictions, exceptions and other terms of Section 11.
+
+1.2 "INCOTERMS/2000" shall mean the version of INCOTERMS adopted by the
+International Chamber of Commerce effective January 1, 2000, but excluding
+any amendments thereof not specifically agreed to by the parties by
+written agreement in the manner provided for in Section 12.6.
+
+1.3 "Patents" shall mean those patents listed in Exhibit A, and any other
+patents of Asahi which Asahi may agree, by written notice to Purchaser, to
+include as "Patents" hereunder.
+
+1.4 "Planova" shall mean (i) filtration products employing Bemberg Microporous
+Membrane developed and manufactured by Asahi and marketed under the
+trade-name "Planova" ("PLANOVA FILTERS") which are described in SCHEDULE 1
+attached hereto and any improvements thereof, and (ii) Integrity Test
+Solution Kit and any other related accessories and equipment to be used
+with or for Planova Filters which Asahi may from time to time add by
+writing notification to Purchaser ("PLANOVA RELATED PRODUCTS").
+
+1.5 "Purchaser's Products" shall mean therapeutic or other protein products
+derived from body tissue, plasma, hybridomas or other source materials, or
+by recombinant means.
+
+1.6 "Purchaser's Information" shall mean those secret and proprietary
+concepts, inventions, discoveries, developments, processes, methods,
+techniques, systems and know-how of Purchaser existing on the date of this
+Agreement or acquired thereafter by Purchaser which are disclosed to Asahi
+directly or indirectly by Purchaser orally (provided it has been reduced
+to writing within 14 days of disclosure), in writing, through visit to
+facilities or by any other means of transmission, at any time, whether
+before or after execution of this Agreement, and which pertain to
+Purchaser's Products or to the manufacture of Purchaser's Products,
+regardless of whether protectable under any patent, copyright or trade
+secrets laws, including each item of information or data (in whatever form
+or format, and regardless of the author or developer thereof) comprising
+or relating to any of the following:
+
+1.6.1 any blueprints, specifications, operating requirements or
+parameters, descriptions, drawings, designs or diagrams relating to
+Purchaser's Products, and
+
+1.6.2 any research, testing or evaluation results or reports relating to
+Purchaser's Products, and any related sales or cost data or marketing or
+production information (whether actual or projected), but in any
+[ILLEGIBLE] subject to the restrictions, exceptions and other terms of
+Section [ILLEGIBLE].
+
+2
+
+FORM: JANUARY 2004
+
+1.7 "Term" shall mean the period during which Purchaser shall have the right
+to place purchase orders under this Agreement, as provided in and subject
+to the terms of Section 10.
+
+2 QUARTERLY ESTIMATES.
+
+Purchaser shall provide Asahi, during the first month of each calendar
+quarter in the Term, with Purchaser's written estimates of its probable
+requirements for Planova expected to the ordered in each of the four calendar
+quarters following the quarter in which the estimates are to be provided in
+accordance with the format separately submitted from time to time by Asahi to
+Purchaser. It is understood, however, that none of such estimates shall be
+binding on either party.
+
+3 PRICES AND PAYMENT TERMS.
+
+3.1 SALES PRICES.
+
+Sales prices of Planova shall be described in the price lists to be
+submitted by Asahi from time to time to Purchaser. Asahi shall submit the price
+lists at least three (3) months before such price lists become effective.
+
+3.2 PAYMENT TERMS.
+
+All payment by Purchaser to Asahi shall be due and payable in advance, in full
+in Japanese Yen or in the currency agreed by Purchaser and Asahi, by telegraphic
+transfer to Asahi's following bank account, or such other account as Asahi may
+specify from time to time by notice to Purchaser. Each such payment shall be
+made in accordance with the terms of Section.
+
+The bank name: Sumito no Mitsui Banking Corporation, Tokyo Main Office
+
+The bank address: 3-2. Marunouchi [ILLEGIBLE] -chome, Chiyoda-ku, Tokyo
+100-0005, Japan
+Swift code SMBCJPJT
+Account #: 207012
+
+PAYEE: ASAHI KASEI PHARMA CORPORATION
+
+4 PURCHASE ORDERS; SHIPMENTS TO PURCHASER.
+
+4.1 TERMS OF DELIVERY.
+
+All deliveries of Planova under this Agreement shall be made by Asahi to
+Purchaser by air on the basis of FCA Japan Airport as selected by Asahi, but
+with the air carrier to be selected by Purchaser (or by Asahi, if Purchaser
+fails to make a timely designation of the carrier), as the term "FCA" is defined
+in INCOTERMS/2000 and with the parties' respective obligations being determined
+in accordance with INCOTERMS/2000 unless otherwise specifically provided for in
+his Agreement.
+
+3
+
+FORM: JANUARY 2004
+
+4.2 PRICE BASIS.
+
+All prices for Planova set forth in Asahi's notices under Section 3.1
+shall be on the same basis as specified in Section 4.1. Without limiting the
+generality of the foregoing, all such prices shall be the net a Mounts
+receivable by Asahi, and do not include (and Purchaser shall be liable for and
+shall pay) any and all costs and expenses incurred subsequent to transfer of
+title as provided for in Section 4.3 (including any insurance or freight costs),
+any taxes, duties or other charges of any type to be incurred in or [ILLEGIBLE]
+route to the shipping destination or otherwise relating to importation into the
+shipping destination (whether or not contemplated to be applicable as of the
+date of this Agreement, and regardless of when imposed or assessed).
+
+4.3 DELIVERY DATE; TRANSFER OF TITLE AND RISK.
+
+Title to and all risk of loss of or damage to any Planova shall pass to
+Purchaser at the Time specified for "transfer of risks" under the applicable
+"FCA" term defined in INCOTERMS/2000, and the date on which the foregoing occurs
+shall be the delivery date for those Planova for purposes of this Agreement.
+
+4.4 PURCHASE ORDERS.
+
+Sales of Planova by Asahi to Purchaser shall be made by means of purchase
+orders delivered in writing or sent by facsimile by Purchaser to Asahi
+("PURCHASE ORDER"), provided that no Purchase Order shall be binding upon Asahi
+until and unless Asahi dispatches the acceptance letter by tax to Purchaser
+within five (5) working days after the receipt of the Purchase Order, provided
+further that any terms and conditions contained in any purchase order shall be
+superseded in their entirety by this Agreement.
+
+4.5 SHIPMENT TO PURCHASER.
+
+Asahi shall ship Pianova specified in each Purchase Order accepted by
+Asahi within four (4) weeks after the date of Asahi's acceptance of that
+Purchase Order or by any such later date as may be agreed on between the
+parties. Asahi shall provide for all shipments a packing list and invoice which
+will contain at least the following information: (i) Purchase Order number (ii)
+Name of relevant Planova product (iii) Planova quantity transported and (iv)
+Shipping Date from plant.
+
+4.6 STERILIZATION OF FILTERS.
+
+Asahi shall sterilize [ILLEGIBLE] Planova Filters prior to delivery to
+Purchaser.
+
+4.7 SPECIFICATION CHANGES.
+
+4.7.1 Asahi shall notify Purchaser in writing of any proposed changes in
+basic specifications of Planova a Filters described in Schedule 1 which
+may affect performance of Planova Filters ("SPECIFICATION CHANGE") no
+later than six (6) months prior to the implementation by Asahi.
+
+4.7.2 Should Purchaser deem that new regulatory approval is required in
+connection with the Specification Change, Purchaser shall give Asahi a
+notice to such effect with
+
+4
+
+FORM: JANUARY 2004
+
+appropriate and adequate documentation within two (2) months after receipt
+of Asahi's notice of Specification Change, and both parties shall promptly
+consult with each other possible measures to be taken including amendments
+to the Specification Change proposed by Asahi, in order to avoid an
+application for the new regulatory approval. If the parties fail to reach
+mutually acceptable measures on or before the proposed implementation date
+of the Specification Change, Asahi shall continue to supply Planova
+Filters without the Specification Change for such period not exceeding
+three (3) years from said proposed implementation date as required by
+Purchaser.
+
+5. USE OF PLANOVA, ETC.; PURCHASER'S RISK AND LIABILITY.
+
+5.1 VISUAL INSPECTION.
+
+Purchaser agrees to carry out a visual inspection of all Planova in each
+delivery immediately after such delivery to Purchaser's premises in accordance
+with Asahi's "Instruction for Use" as provided from time to time and will not
+use any Planova that Purchaser observes to have such defects as described in the
+instruction.
+
+5.2 USE AFTER EXPIRATION DATE.
+
+Purchaser agrees not o use any Planova for any purpose after the
+expiration date of Planova to be indicated by Asahi.
+
+5.3 NO RE-USE OR OTHER IMPROPER USE.
+
+Purchaser agrees not to re-use Planova in any manner and further agrees to
+use Planova solely for its intended purposes in the manufacture of Purchaser's
+Products as defined in Section 1.5 and in accordance with Asahi's "Instruction
+for Use," "Standard Operation Procedure of Integrity Test,' "Filtration
+Procedure" and other Asahi's written instructions as provided from time to time.
+
+5.4 HANDLING, TRANSPORT AND STORAGE.
+
+In order to maintain the quality of Planova, Purchaser agrees to observe
+the instructions indicated in Asahi's "Instruction for Use" as provided from
+time to time in handling, transporting and storing Planova.
+
+5.5 PRE-USE & POST-USE INTEGRITY TESTS.
+
+Purchaser shall conduct all pre-use and post-use integrity tests in
+accordance with Asahi's "Standard Operation Procedure of Integrity Test" as
+provided from time to time by Asahi (or such an integrity tests as may be
+developed by Purchaser and accepted by Asahi as a substitute for the integrity
+tests as stipulated above) as well as performance tests which may be required
+from time to time under Purchaser's internal procedures or under applicable laws
+and regulations, prior to making use and immediately after the use of any
+Planova Filters. Purchaser agrees that it shall not use any Planova Filters
+which do not successfully pass such
+
+5
+
+FORM: JANUARY 2004
+
+pre-use integrity tests and that the results of the post-use integrity tests
+shall be retained by Purchaser for a sufficient period required by laws and
+regulations applicable to Purchaser.
+
+5.6 NATURE OF THE INTEGRITY TESTS.
+
+It understood by the parties hereto that the integrity tests in accordance
+with Asahi's Standard Operation Procedure of Integrity Test" are based on data
+under specified conditions. Therefore, Asahi will not guarantee than any of
+Planova Filters has a viral reduction performance for any specific rate under
+any conditions even if it has passed the integrity tests.It is further
+understood that the viral reduction performance of the Purchaser's filtration
+Process which incorporates any of Planova Filters under specified conditions
+should be determined in a validation of said process to be conducted by the
+Purchaser.
+
+5.7 PURCHASER'S RISK AND LIABILITY.
+
+Purchaser agrees that my failure on its part to fully comply with the
+undertakings of Sections 5.1, 5.2, 5.3, 5.4 and 5.5 shall be at Purchaser's sole
+risk and liability.
+
+6. WARRANTY; LIMITATION ON LIABILITY.
+
+6.1 LIMITED WARRANTY.
+
+6.1.1 Purchaser acknowledges that Asahi has no control over the processes
+followed by Purchaser either with respect to Purchaser's use of Planova or
+with respect to any element concerning Purchaser's manufacture or handling
+of Purchaser's Products. Asahi warrants to Purchaser, [but not to any
+subsequent purchaser of any Planova from Purchaser or to any other person
+or entity], that:
+
+6.1.1.1 each Planova Filter delivered to Purchaser under this Agreement,
+will be manufactured in accordance with the specifications set forth
+in Schedule 1 attached hereto, will be inspected in accordance with
+the Quality Control Standards set forth in Schedule 2 and will be
+effectively sterilized.
+
+6.1.1.2 Planova Related Products will be manufactured in strict compliance
+with with the written specifications to be provided from time to
+time by Asahi and will be inspected in accordance with Asahi's
+quality control standard inspection procedures.
+
+6.1.2 ASAHI [ILLEGIBLE] NO REPRESENTATIONS OR WARRANTIES OF ANY KIND OTHER
+THAN AS SPECIFICALLY SET FORTH IN SECTION 6.1.1 AND DISCLAIMS ANY AND ALL
+IMPLIED WARRANTIES OF ANY KIND, INCLUDING THOSE OF MERCHANTABILITY OR
+FITNESS FOR A PARTICULAR PURPOSE OR OTHERWISE, AND OF ANY OTHER OBLIGATION
+OR LIABILITY OF ASAHI, INCLUDING ANY OBLIGATION
+
+6
+
+FORM: JANUARY 2004
+
+OR LIABILITY BASED ON ANY CLAIM OF NEGLIGENCE, STRICT LIABILITY OR
+OTHERWISE, OR ANY CLAIM THAT PURCHASER'S USE OF PLANOVA INFRINGES ANY
+PATENT OR OTHER INTELLECTUAL PROPERTY RIGHTS OF ANY THIRD PARTY.
+
+6.2 CLAIM PROCEDURES AND EXCLUSIONS.
+
+No breach of warranty shall be deemed to have occurred, and Asahi shall be
+excused from all obligations under this Agreement or applicable laws as to any
+alleged defect, damage or failure to meet specifications, if any of the
+following events occur or any of the following circumstances are applicable.
+
+6.2.1 Purchaser fails to give written notice to Asahi thereof, with full
+particulars within three (3) months after Purchaser's recognition of the
+breach of warranty, or before the expiration date of Planova as set forth
+in Section 5.2, whichever comes earlier;
+
+6.2.2 Purchaser fails to show by appropriate and adequate documentation
+that Planova has been stored, transported and used under normal
+conditions, and tested prior to use and after use, in accordance with the
+requirements of Section 5; or
+
+6.2.3 The alleged damage or defect to Planova is caused while in transit
+or by Purchaser or other person or entity after its delivery to Purchaser.
+
+6.3 LIMITATION ON ASAHI'S LIABILITY.
+
+If is Purchaser's responsibility to assure that the processes it follows,
+and its use of Planova, are appropriate and conform with the standard of GMP and
+with all legal requirements. Asahi's sole liability to Purchaser for breach of
+warranty or for negligence or otherwise shall be to replace promptly, free of
+charge, Planova for which a valid claim is presented under the terms of this
+Section 6. ASAHI SHALL NOT BE LIABLE FOR ANY SPECIAL, CONSEQUENTIAL, PUNITIVE,
+EXEMPLARY OR INDIRECT DAMAGES, INCLUDING SUCH DAMAGES RELATING TO DELAY, LOSS OF
+PRODUCTION OR LOST PROFITS, OR DIRECTLY OR INDIRECTLY ARISING OR RESULTING FROM
+THE BREACH OF ANY TERMS OF THIS AGREEMENT, OR FROM THE SALE, USE, HANDLING,
+INSTALLATION, NEGLECT, MISUSE OR ALTERATION OF ANY PLANOVA SOLD UNDER THIS
+AGREEMENT OR ANY PRODUCTS (INCLUDING THOSE "PURCHASER'S PRODUCTS" AS DEFINED
+HEREIN) MANUFACTURED THROUGH THE USE OF PLANOVA AND PLANOVA RELATED PRODUCTS. IN
+NO EVENT SHALL ASAHI BE LIABLE FOR DAMAGES IN EXCESS OF THE TOTAL AMOUNT PAID BY
+PURCHASER FOR THE PARTICULAR PLANOVA WITH RESPECT TO WHICH A CLAIM IS VALIDLY
+ASSERTED AGAINST ASAHI. Notwithstanding the foregoing, such [ILLEGIBLE] on
+Asahi's liability for damages shall not apply to those caused by gross
+negligence, willful misconduct or illegal act of Asahi, on condition that
+Purchaser has fulfilled all of its obligations provided for in Section 5.
+
+7
+
+FORM: JANUARY 2004
+
+6.4 RETURNED GOODS.
+
+No Planova shall be returned to Asahi without Asahi's prior written
+consent. If Asahi gives such written consent, Purchaser shall prompty ship to
+Asahi Planova covered by such written consent.
+
+6.5 PURCHASER'S WARRANTIES TO ITS CUSTOMERS
+
+With Asahi's prior written consent, Purchaser may make representations to
+its customers of Purchaser's Products, as of Purchaser's use of Planova or their
+performance data which Purchaser obtained in its own validation procedure. Any
+representations of such nature by Purchaser, with or without Asahi's prior
+consent, shall be the sole liability of Purchaser and not the responsibility or
+liability of Asahi.
+
+6.6 INDEMNIFICATION BY PURCHASER.
+
+Purchaser agrees to indemnify Asahi and its shareholders, representatives
+and affiliates, and each of its and their respective employees, officers,
+directors and agents (each an "INDEMNITEE") against, and hold each indemnitee
+harmless from:
+
+6.6.1 Any and all final claims, penalties, fines or judgments made,
+imposed or rendered against any indemnitee with respect to or as a result
+of;
+
+6.6.1.1 any such failure by Purchaser (or any person or entity acting on
+its behalf) to observe any of Purchaser's undertakings under Section 5 of
+this Agreement,
+
+6.6.1.2 any negligence, willful misconduct or illegal act of Purchaser or
+any person or entity acting on its behalf, or
+
+6.6.1.3 any matter as to which Asahi disclaims liability under this
+Agreement; and
+
+6.6.2 All costs and expenses (including reasonable fees and disbursements
+of counsel or other advisors) incurred by any indemnitee in defending
+against any such penalty or fine, or in any litigation resulting in any
+such judgment or relating to any such claim.
+
+6.6.3 Purchaser's obligation to indemnify Asahi is PROVIDED THAT:
+
+6.6.3.1 Purchaser shall have been promptly notified in writing of any
+such claim being made or action threatened or brought against Asahi; and
+
+6.6.3.2 Purchaser shall have the right to assume sole authority to
+conduct the defense or settlement of such claim or any negotiations
+related thereto at its expense, it being agreed however that the foregoing
+shall however not impose any obligation on Purchaser or any of its
+Affiliates to initiate any proceedings in relation with said claim; and
+
+6.6.3.3 Asahi will provide Purchaser with all reasonable information,
+co-operation and assistance requested by Purchase (including without
+limitation lending its name to proceedings) in connection with such claim;
+and
+
+8
+
+FORM: JANUARY 2004
+
+6.7 INSURANCE COVERAGE.
+
+In furtherance of the provisions of Section 6, during the Term and for a
+period of five (5) years thereafter, Purchaser shall maintain sufficient types
+and levels of insurance coverage including, without limitation, general and
+product liability insurance), as are customary in the pharmaceutical or
+manufacturing industry to provide coverage for their activities contemplated
+hereby.
+
+7 LICENSE.
+
+7.1 LICENSE GRANTED BY ASAHI.
+
+Subject to the terms and conditions in this Agreement, Asahi hereby
+grants to Purchaser, free of charge, to the extert that it lawfully may, a
+nonexclusive license to use the Filter Technology during the Term but only for
+evaluating compatibility of Planova with Purchaser's manufacturing process of
+Purchaser's Products or for manufacturing Purchaser's Products for lawful use in
+clinical trials or commercial sale through the use of Planova, and without any
+right to sublicense. The license granted under this Section 7.1 may be extended
+to the contract manufacturers employed by Purchaser to manufacture the
+Purchaser's Products solely for Purchaser, provided that Purchaser shall obtain
+from Asahi a prior written consent.
+
+7.2 RESERVATION OF RIGHTS.
+
+Subject to Purchaser's right to use the Filter Technology pursuant to this
+Section 7, Asahi reserves all proprietary rights in and to all discoveries,
+inventions, patent rights, trade secrets, know-how or other proprietary data
+embodied in or derived from the Filter Technology. Purchaser agrees to receive
+and use the Filter Technology during the Term subject to such reservation, and
+to cease all use of the Filter Technology upon expiration or termination of the
+Term for whatever reason.
+
+7.3 LIMITATION ON ASAHI'S LIABILITY.
+
+7.3.1 Asahi represents and warrants that it is the owner of the Patents
+and the Fitter Technology, and has the right to grant the license set
+forth in Section 7.1, and that to the best of its knowledge and belief,
+the Filter Technology and/or the Planova manufactured in accordance
+therewith does not conflict with or infringe any third party intellectual
+property rights.
+
+7.3.2 EXCEPT AS SET FORTH IN SECTION 7.3.1 ABOVE, ASAHI MAKES NO
+REPRESENTATIONS OR WARRANTIES OF ANY KIND AS TO THE COMMERCIAL VALUE,
+SAFETY OR EFFICACY OF ANY OF THE FILTER TECHNOLOGY, OR AS TO THE ACCURACY.
+WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, ASAHI DISCLAIMS (AND
+PURCHASER AGREES NOT TO ASSERT ANY CLAIMS AGAINST ASAHI OR ANY ASAHI
+AFFILIATE) ANY AND ALL IMPLIED REPRESENTATIONS OR
+
+9
+
+FORM: JANUARY 2004
+
+WARRANTIES OF ANY KIND, INCLUDING THOSE WITH RESPECT TO (A) THE
+SUITABILITY OF THE USE OF THE FILTER TECHNOLOGY IN PURCHASER'S
+OPERATIONS, (B) THE DEGREE TO WHICH ANY OF THE FILTER TECHNOLOGY
+REPRESENTS OR INCORPORATES TECHNOLOGICAL ADVANCES NOT AVAILABLE FROM OTHER
+SOURCES, (C) ANY PRODUCTION RESULTS, FORECASTS OR PROJECTIONS WHICH MAY BE
+PROVIDED OR REVIEWED BY ASAHI, OR (E) THE QUALITY OR PERFORMANCE OF ANY
+PRODUCTS MANUFACTURED BY PURCHASER, AND NEITHER ASAHI NOR ANY OF ITS
+AFFILIATES SHALL BEAR ANY LIABILITY TO PURCHASER WITH RESPECT TO ANY
+ALLEGED OBLIGATION OR LIABILITY BASED ON ANY CLAIM OF NEGLIGENCE, STRICT
+LIABILITY OR OTHERWISE, OR ANY CLAIM THAT ANY OF THE FILTER TECHNOLOGY
+INFRINGES ANY PATENT, TRADE SECRET OR OTHER INTELLECTUAL PROPERTY RIGHTS
+OF ANY THIRD PARTY.
+
+8 VENDOR AUDIT
+
+During the Term hereof, Purchaser shall have the right to inspect the
+Asahi's manufacturing facility (the "PLANT")of the Planova, to check the storage
+and handling conditions of the Planova, the packaging and manufacturing
+processes implemented by Asahi under this Agreement, and to audit Asahi's
+quality control system on Planova at its own expense on such terms and
+conditions as separately agreed between the parties hereto.
+
+9 FORCE MAJEURE.
+
+Neither party shall be liable for any failure or delay in performing its
+obligations under this Agreement (other than an obligation to make payment of
+amounts due under this Agreement) to the extent that such failure or delay is
+due to;
+
+9.1 any war, riot, insurrection or other civil commotion,
+
+9.2 any strike, lockout or other labor dispute,
+
+9.3 any epidemic, fire, flood or other act of God,
+
+9.4 any labor, material, transportation or utility shortage or curtailment,
+
+9.5 any governmental order, decree or regulation, or
+
+9.6 any other similar or dissimilar cause; beyond the affected party's
+reasonable control.
+
+The affected party shall give prompt notice to the other party of, and
+shall exercise due diligence to eliminate or remedy, all such causes, and shall
+give the other party prompt notice when such causes shall have been eliminated
+or remedied.
+
+10
+
+FORM: JANUARY 2004
+
+10 TERM; TERMINATION.
+
+10.1 TERM.
+
+The Term shall become effective on the date first above written and shall
+continue in effect until five (5) years have passed after Asahi's notice to
+Purchaser to terminate this Agreement. Asahi will keep Planova available to
+Purchaser during the Term under the terms and conditions of this Agreement.
+
+10.2 TERMINATION.
+
+Notwithstanding the provisions of Section 10.1, the Term shall terminate
+upon the occurrence of any of the following events:
+
+10.2.1 Upon sixty (60) days prior notice by Purchaser to Asahi if
+Purchaser decides to discontinue the use of Planova; or
+
+10.2.2 Upon notice by either party to the other party, if the other party
+has failed to remedy any default under or breach of any provision of this
+Agreement within sixty (60) days after the notice to the other party
+demanding such remedy; or
+
+10.2.3 Immediately upon notice by either party to the other party, if the
+other party becomes bankrupt or in solvent or admits in writing its
+inability to pay its debts as they become due, or the other party files a
+petition seeking protection under any bankruptcy or corporate
+reorganization statute, or any substantial part of the other party's
+business or assets are placed in the hands of a receiver, assignee or
+trustee, or any third party files against the other an involuntary
+petition under any bankruptcy or corporate reorganization statute. or
+
+10.2.4 Immediately upon notice by Asahi to Purchaser if:
+
+10.2.4.1 all or a substantial part of Purchaser's assets are sold or
+transferred to another person or entity which competes with Asahi
+in virus filter business,
+
+10.2.4.2 over 50% of the shares of Purchaser are transferred to or
+otherwise acquired, either directly or indirectly, by any person
+or entity which competes with Asahi in virus filter business:, or
+
+10.2.4.3 any agreement is entered into or court order is issued which,
+upon being fully performed or observed, would result in any of
+the foregoing to occur.
+
+10.3 EFFECT OF EXPIRATION OR TERMINATION.
+
+10.3.1 The expiration or termination of the Term for any reason shall not
+affect or limit any of the obligations of either party under Section 11 or
+with respect to payment of amounts then owing to the other party, or
+Purchaser's obligations under Section 5 and 6 or Asahi's obligations under
+Section 6 with respect to Planova previously shipped to Purchaser.
+
+10.3.2 If the Term is terminated by Asahi under Section 10.2 at a time
+when there are
+
+11
+
+FORM: JANUARY 2004
+
+pending Purchase Orders then binding on Purchaser, Asahi shall have the
+option of either:
+
+10.3.2.1 continuing to manufacture and thereafter shipping to Purchaser
+Planova required under those Purchase Orders, to the same extent
+and with the same effect as if the Term had not been terminated;
+or
+
+10.3.2.2 treating the termination of the Term as a cancellation of those
+Purchase Orders by Purchaser
+
+10.3.3 If the Term is terminated by Purchaser pursuant to Section 10.2
+(except Section 10.2.1), any Purchase Orders pending on the termination
+date shall be deemed to have been canceled, with no liability accruing to
+either party. If the Term is terminated by Purchaser pursuant to Section
+10.2.1, Purchaser shall be obliged to take the delivery of Planova under
+any Purchase Orders pending on the termination date.
+
+11 RESTRICTIONS ON DISCLOSURE AND USE.
+
+11.1 NON DISCLOSURE AND RESTRICTION ON USE.
+
+Each party hereto shall at all times during the Term and five (5) years
+thereafter hold in the strictest confidence, and shall not directly or
+indirectly disclose to others, any of the Purchaser's Information or any of the
+Filter Technology disclosed to it by the other party, or terms and conditions of
+this Agreement (hereinafter collectively referred to as "CONFIDENTIAL
+INFORMATION," and the part' who was disclosed the Confidential Information and
+the party who disclosed the Confidential Information hereinafter respectively
+referred to as the "Receiving Party" and the "DISCLOSING PARTY"). The Receiving
+Party shall use the Confidential Information during the Term only for the
+purpose expressly contemplated and/or to the extent expressly permitted by this
+Agreement. Notwithstanding the foregoing, with a prior written consent from the
+other party, either party may disclose to a third party the fact that Purchaser
+is using Planova or that this Agreement has been entered into between Asahi and
+Purchaser.
+
+11.2 DISCLOSURE TO EMPLOYEES.
+
+Notwithstanding the foregoing, the Receiving Party shall have the right to
+make disclosures of the Confidential Information on a strict "need to know"
+basis to the Receiving Party's directors, officers, employees, consultants or
+contractors; provided that the Receiving Party shall have imposed upon such
+directors, officers, employees, consultants or contractors the same obligations
+of confidentiality imposed on it by this Agreement, and the Receiving Party
+further agrees to enforce each of such obligations for the benefit of the
+Disclosing Party, and to allow the Disclosing Party to enforce the same directly
+as a third-party beneficiary thereunder.
+
+11.3 EXCEPTIONS.
+
+The Receiving Party shall not be bound by the provisions of Section 11.1,
+either as to itself or as to any of its directors, officers, or employees, with
+respect to any particular portion of the Confidential Information if and only to
+the extent:
+
+12
+
+FORM: JANUARY 2004
+
+11.3.1 that portion of the Confidential Information is, or becomes,
+generally known not due to a breach of this Agreement or the
+confidentiality requirements applicable to the Receiving Party's
+directors, officers, employees, consultants or contractors under Section
+11.2; or
+
+11.3.2 at the time of its disclosure to the Receiving Party, that portion
+of the Confidential Information was known to the Receiving Party
+independently of any previously disclosed Confidential Information; or
+
+11.3.3 after its disclosure to the Receiving Party, that portion of the
+Confidential Information is received by the Receiving Party from an
+independent third party whose disclosure of such portion of the
+Confidential Information shall not constitute a direct or indirect breach
+by that third party of any duty of confidentiality owed to the Disclosing
+Party; or
+
+11.3.4 that portion of the Confidential Information is required under
+applicable law to disclose to any governmental or regulatory agency.
+
+Notwithstanding the foregoing, however, the Receiving Party (i) shall have
+the burden of proving the applicability of any claimed exclusion; and (ii) shall
+not be relieved of its obligations of secrecy and no-use under this Agreement
+with respect to information or data that is a combination of features merely
+because all of the individual features come within one or more of the foregoing
+exclusions, but instead the Receiving Party shall only be so relieved if, and
+only to the extent that, the combination of features and the principle of
+operation of those combined features also come within any of the foregoing
+exclusions.
+
+11.4 REVERSE ENGINEERING, OTHER USE, ETC.
+
+Purchaser agrees not to attempt to reverse-engineer any part of Planova,
+nor analyze or perform tests or any Filter Technology or any Planova other than
+as may be required for the uses of the Filter Technology, nor use any portion of
+the Filter Technology for any commercial or experimental purpose except as
+specifically permitted in Section 7.1.
+
+12 MISCELLANEOUS.
+
+12.1 ENTIRE AGREEMENT.
+
+This Agreement, including its Schedules and Exhibit, together sets forth
+the entire understanding between the parties hereto with respect to the
+transactions between Asahi and Purchaser concerning Planova and supersedes all
+prior and contemporaneous agreements and understandings whether oral or written
+with regard to such transactions. All Schedules and Exhibit hereto are expressly
+made a part of this Agreement as fully as though completely set forth herein.
+
+12.2 SUCCESSORS AND ASSIGNS.
+
+Neither party shall assign this Agreement or any rights or obligations
+hereunder without
+
+13
+
+FORM: JANUARY 2004
+
+the prior written consent of the other party hereto, and any such attempted
+assignment without such prior written consent shall be void and of no force and
+effect. Notwithstanding the above, Purchaser may assign this Agreement or any
+rights or obligations hereunder and/or may sub-license the License granted by
+Asahi herein to Omrix Biopharmaceuticals Inc. or to Omrix Biopharmaceuticals
+S.A, provided that such Purchaser's right to assign or sub-license shall
+terminate in the event that Purchaser ceases to own fifty percent (50%) or more
+shares of the abovementioned company. This Agreement shall inure to the benefit
+of and shall be binding upon the successors and permitted assigns of the parties
+hereto.
+
+12.3 GOVERNING LAW.
+
+This Agreement shall be governed by and construed and enforced in
+accordance with the laws of Germany without giving effect to the principles of
+conflicts of laws thereof.
+
+12.4 INTERPRETATION OF AGREEMENT
+
+12.4.1 In the event that any provision or part of a provision of this
+Agreement is declared by any court or other judicial or administrative
+body having proper jurisdiction to be null, void or unenforceable, said
+provision shall survive to the extent it is not so declared, and all of
+the other provisions of this Agreement shall remain in full force and
+effect.
+
+12.4.2 The Section and Article headings in this Agreement are for
+reference purposes only and shall not affect the meaning or interpretation
+of this Agreement.
+
+12.4.3 This Agreement is in the English Language only, which language
+shall be controlling in all respects.
+
+rate equal, on each day of default, to the sum of the "short term prime rate"
+quoted by The Sumitomo Bank, Ltd. of Japan plus two percentage points. We are
+not familiar with this back and its interest, can you offer same kind of
+international interest from USA/Europe?
+
+12.5 NOTICES; DOCUMENTS.
+
+Any notices, demands and other communications required or permitted, and
+any documents submitted, prepared or required, under or relating to this
+Agreement (collectively for purposes of this Section 12.5, "notices") shall be
+in writing and in English, and shall be deemed to have been duly given or
+submitted if;
+
+12.5.1 sent by registered mail, postage prepaid and return receipt
+requested (effective on the tenth (10th) day after deposit in the mail),
+
+12.5.2 delivered or send by private courier or messenger service
+(effective upon receipt), or
+
+12.5.3 sent by facsimile with a confirmation copy promptly sent as
+provided for in 12.5.1 or 12.5.2 (effective upon the receipt of the
+facsimile), provided that a confirmation copy shall not be necessary if
+the recipient of the facsimile acknowledges receipt thereof,
+
+To the address or facsimile number set forth below:
+
+14
+
+FORM: JANUARY 2004
+
+If to Purchaser:
+
+OMRIX BIOPHARMACEUTICALS LTD.,
+MDA Building, Tel-Hashomer,
+Kiriat - Ono 55000
+Israel
+Attention: Logistics Manager Omrix Biopharmaceuticals Ltd.,
+Facsimile No.: +972-3-5316520
+
+If to Asahi:
+
+Asahi Kasei Pharma Corporation
+Planova Division
+9-1, Kanda Mitos-irocho, Chiyoda-ku
+Tokyo 101-8481, Japan
+Attention; General Manager, Planova Division
+Facsimile No.: + 81-3-3259-5725
+
+or to such other addresses and facsimile numbers as shall be furnished from time
+to time, in the manner provided in this Section 12.5, by the party entitled to
+receive such notices.
+
+12.6 AMENDMENTS; WAIVERS.
+
+This Agreement may be amended or modified, and any of the terms,
+covenants, representations, warranties or conditions hereof may be waived, only
+by a written instrument executed by the parties hereto, or in case of a waiver,
+by the party waiving its rights thereunder.
+
+12.7 ARBITRATION.
+
+All disputes, controversies or differences which may arise between the
+parties under or in connection with this Agreement, or with respect to the
+existence or effect of any alleged default or breach of any of its terms, or as
+to the arbitrability of any such disputes, controversies or differences, shall
+be finally settled by arbitration under the Rules of Conciliation and
+Arbitration of the International Chamber of Commerce ("ICC"), with the
+arbitration to be held in Tokyo if brought by the Purchaser, or in Tel Aviv if
+brought by Asahi.
+
+12.8 PLANOVA DELIVERIES PRIOR TO EFFECTIVE DATE.
+
+Sections 6 and 12.7 shall be applicable to the sales of all Planova
+delivered by Asahi to
+
+15
+
+FORM: JANUARY 2004
+
+Purchaser prior to the effective date of this Agreement notwithstanding the
+fact that such sales were consummated prior to such effective date.
+
+12.9 PARTIES' ACKNOWLEDGMENTS.
+
+The parties acknowledge that;
+
+12.9.1 the prices for Planova and other payments to be made to Asahi under
+this Agreement reflect the allocation of risks and liabilities set forth
+in this Agreement (including the indemnification provisions of Section
+6.6),
+
+12.9.2 such allocation of risks and liabilities was freely agreed to by
+the parties, and
+
+12.9.3 such allocation of risks and liabilities was determined in the
+context of the negotiation of the other terms of this Agreement and
+therefore constitutes an essential element of this Agreement.
+
+12.10 RESTRICTION ON TRANSFER.
+
+Purchaser acknowledges that Planova is subject to the export restrictions
+of the Japanese Government and agrees that Purchaser shall not re-sell,
+re-export or otherwise transfer Planova to any third party.
+
+12.11 COUNTERPARTS; PHOTOCOPIES.
+
+This Agreement may be executed in counterparts, each of which shall be
+deemed an original, but all of which shall constitute the same instrument. A
+photocopy of any such fully executed counterpart, or set thereof as fully
+executed, shall be valid evidence of the existence and terms of this Agreement
+
+16
+
+FORM: JANUARY 2004
+
+EXECUTION
+
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be
+executed by their respective officers thereunto duly authorized, effective as of
+the date first written above.
+
+Purchase:
+
+By ________________________________________
+Name: _____________________________________
+Title: ____________________________________
+
+By /s/ Nissim Mashiach
+----------------------------------------
+Name: Nissim Mashiach
+Title: General manager and executive v.p
+
+Asahi Kasei Pharma Corporation
+
+By /s/ Yoshiaki Ishizaki
+----------------------------------------
+Name: Yoshiaki Ishizaki
+Title: General Manager, Planova Division
+
+17

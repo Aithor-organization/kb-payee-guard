@@ -1,0 +1,430 @@
+Document 
+Exhibit 10.9 
+Execution Version 
+
+Certain identified information has been omitted from this document because (i) it is not material and is the type that the Company customarily and actually treats as private or confidential, and/or (ii) if disclosure would constitute a clearly unwarranted invasion of personal privacy and has been marked with “[*** ] ” to indicate where omissions have been made. 
+
+CHANGE ORDER NO. 04 
+UNDER THE PURCHASE ORDER CONTRACT 
+FOR THE SALE OF LIQUEFACTION TRAIN SYSTEM 
+
+March 24 , 2026 
+
+Reference is made to the Purchase Order Contract for the Sale of Liquefaction Train System, dated as of April 7, 2023 (as amended, the “ Agreement ”), by and between Venture Global CP2 LNG, LLC, a Delaware limited liability company (“ Buyer ”) and Baker Hughes Energy Services LLC, a Delaware limited liability company (“ Seller ”). Capitalized terms used but not defined herein shall have the meanings set forth in the Agreement. This Change Order, including any adjustment to the Contract Price and/or the Project Schedule set forth herein, as applicable, has been agreed upon by the Parties in accordance with Clause 24 of Appendix A (General Terms & Conditions) of the Agreement, and is considered an amendment to the Agreement. Except to the extent as may be specifically described in this Change Order, the changes set forth herein do not relieve Seller of any of its responsibilities described in the Agreement. 
+
+Once this Change Order is executed by both Parties, and except to the extent set forth herein, this Change Order will constitute a full and final settlement and accord and satisfaction of all effects of the change(s) described herein, and shall be deemed to compensate Seller fully for all such effects. 
+
+TERMS AND CONDITIONS: 
+
+Buyer and Seller further agree to the following changes to the Agreement: 
+
+1. Clause 1.1 (Definitions.) of Appendix A (General Terms & Conditions) to the Agreement is hereby amended by deleting the defined term “ Performance Delay Liquidated Damages Cap ” in its entirety and replacing it with the following: 
+
+““ Performance Delay Liquidated Damages Cap ” means: (a) in respect of each Liquefaction Train, an amount equal to (i) [***] of the Aggregate Performance Delay Liquidated Damages Cap in respect of each of the first [***] Liquefaction Trains to be performance tested and (ii) [***] of the Aggregate Performance Delay Liquidated Damages Cap in respect of each of the subsequent [***] Liquefaction Trains to be performance tested; and (b) in respect of the Liquefaction Train System Production 
+1 
+
+Execution Version 
+
+Capacity Performance Guarantee and the LNG Quality Performance Guarantee, collectively, an amount equal to [***].” 
+
+2. Clause 6.4 (c) of Appendix A (General Terms & Conditions) to the Agreement is hereby deleted in its entirety and the following is inserted in its place: 
+
+“6.4 (c) For each Liquefaction Train, the liquidated damages payable by Seller to Buyer for each Day of delay in delivery of the specific Liquefaction Train (in its entirety) to the Delivery Point beyond the Delivery Date is (i) in respect of the first [***] Liquefaction Trains to be delivered, an amount equal to: (1) for each of the first [***] Days of delay, the amount in Dollars set forth opposite such Day on Appendix L (Liquidated Damage Amounts); and (2) thereafter, [***] per Day for each day of such delay for the next [***] days; (ii) in respect of the subsequent [***] Liquefaction Trains, an amount equal to: (1) for each of the first [***] Days of delay, the amount in Dollars set forth opposite such Day on Appendix L (Liquidated Damage Amounts); and (2) thereafter, [***] per Day for each day of such delay for the next [***] days.” 
+
+3. Clause 6.7 (Delivery Bonus) of Appendix A (General Terms & Conditions) to the Agreement is hereby deleted in its entirety and the following is inserted in its place: 
+
+“If Seller delivers a Liquefaction Train (including for the avoidance of doubt, its associated Cold Box and E-House) to Buyer at the Delivery Point on or before the applicable bonus date set forth in Annex C-1 of Appendix C (Scope of Supply & Project Schedule) (each, a “ Bonus Date ”) for such Liquefaction Train, then Buyer shall pay to Seller the applicable bonus amount set forth in Annex C-1 of Appendix C (Scope of Supply & Project Schedule) for each such Liquefaction Train; provided that each of such bonus amounts shall upon payment by Buyer be treated as an increase to the Contract Price for the purposes of the Agreement. If Seller delivers a Liquefaction Train (including for the avoidance of doubt, its associated Cold Box and E-House) before the applicable Delivery Date but after the applicable Bonus Date, the amount payable to Seller in respect of such Liquefaction Train shall be reduced by an amount equal to the applicable amount set forth Annex C-1 of Appendix C (Scope of Supply & Project Schedule) (in each case, the “ Degradation Factor ”) multiplied by the number of days from the Bonus Date to the later of the actual date of delivery of such Liquefaction Train to the Delivery Point. If a Liquefaction Train (including for the avoidance of doubt, the associated Cold Boxes or the associated E-Houses) is not delivered to the Delivery Point in its entirety on or before the applicable Delivery Date, then no bonus amount shall be earned or due for such Liquefaction Train. 
+In no event shall the total aggregate amount of all bonus amounts paid by Buyer under this Clause 6.7 exceed [***]. For the purposes of this Clause 6.7 only, Seller shall be deemed to have delivered any Liquefaction Train (including for the avoidance of doubt, its associated Cold Box and E-House) described in this Clause 6.7 that is delivered to Buyer at the Delivery Point on or before the date that is at least [***] Days prior to the 
+2 
+
+Execution Version 
+
+relevant Delivery Date for such Liquefaction Train in the Project Schedule notwithstanding that certain minor items forming a part of the Liquefaction Train have not been delivered to Buyer at the Delivery Point by such date; provided that (i) the Lender’s Engineer has confirmed to Buyer in writing (upon Buyer’s request) that the absence of such minor items would not reasonably be expected to adversely impact the project schedule for testing, commissioning, safety or operability of such Liquefaction Train and (ii) all such minor items are delivered to Buyer at the Delivery Point not later than the relevant Delivery Date for such Liquefaction Train in the Project Schedule or such other date as mutually agreed by the Parties in writing. Amounts earned by Seller pursuant to this Clause 6.7 shall be due and payable by Buyer to Seller as follows: 
+(i) For the first [***] Liquefaction Trains (including for the avoidance of doubt, its associated Cold Box and E-House), upon completion of delivery by Seller of all [***] Liquefaction Trains and the finalization of a Change Order within [***] days of such delivery or as agreed by the Parties; and 
+(ii) For the last [***] Liquefaction Trains, upon completion of delivery by Seller of the Liquefaction Train System (including for the avoidance of doubt, its associated Cold Box and E-House) and all Components (as such term is defined in the PIS Purchase Order) of the power island system in accordance with the PIS Purchase Order and the finalization of a Change Order within [***] days of such delivery or as agreed by the Parties.” 
+4. The first paragraph of Clause 7.1 of Appendix A (General Terms & Conditions) to the Agreement is hereby deleted in its entirety and the following is inserted in its place: 
+
+“A. The Contract Price is equal to the sum of [***]. The Contract Price, payment terms and cancellation schedule/charges for each individual Liquefaction Train is detailed in Appendix B (Pricing; Payment Terms & Cancellation Schedule). The Contract Price shall not include: (i) any duties paid by Seller to deliver each Liquefaction Train to the Delivery Point (“ Duties ”), (ii) any tariffs paid by Seller to deliver each Liquefaction Train to the Delivery Point (“ Reimbursable Tariffs ”), or (iii) the physical transportation costs set forth in Appendix K (Transportation Costs), exclusive of insurance costs and taxes associated with physical transportation costs, other than Duties, for each such Liquefaction Train (“ Transportation Costs ”). 
+
+Buyer shall reimburse Seller for all reasonable, documented out-of-pocket Duties, Reimbursable Tariffs, and Transportation Costs incurred by Seller, plus a fixed fee of [***], payable in accordance with Appendix B (Pricing; Payment Terms & Cancellation Schedule). The Contract Price does not include any Buyer Taxes. Transportation Costs, inclusive of the fixed fee, and Duties shall not exceed an amount equal to the sum of [***], in the aggregate, provided that (i) Reimbursable Tariffs shall not be subject to such not to exceed aggregate cap, and (ii) Seller has made commercially reasonable efforts to obtain competitive transportation pricing terms and to minimize transportation costs. For 
+3 
+
+Execution Version 
+
+the avoidance of doubt, Transportation Costs exclude Reimbursable Tariffs for all purposes of this Agreement. 
+
+When (i) the actual amount of Transportation Costs reaches [***] of the not to exceed aggregate amount of Transportation Costs set forth above, and (ii) Seller reasonably estimates that the aggregate Transportation Costs may be in excess of the not to exceed amount of Transportation Costs set forth above, then Seller shall notify Buyer and provide an estimate of the remaining Transportation Costs anticipated to complete the deliveries under this Agreement. Buyer will reasonably consider an adjustment to the not to exceed Transportation Costs; provided that any such increase in the Transportation Costs shall be mutually agreed in a Change Order to this Agreement. Buyer hereby agrees to pay the Contract Price to Seller upon completion of the relevant Payment Milestones in accordance with the payment schedule (the “ Payment Schedule ”) set forth in Appendix B (Pricing; Payment Terms & Cancellation Schedule), in consideration for the performance by Seller of its related obligations under the Agreement.” 
+
+5. The first sentence of Clause 9.1 of Appendix A (General Terms & Conditions) to the Agreement is hereby deleted in its entirety and the following is inserted in its place: 
+
+“ 9.1 Delivery 
+
+Seller shall deliver equipment for each Liquefaction Train DDP the marine offloading facility(ies) adjacent to the Site as designated by Buyer to Seller for the items to be delivered by ocean vessel or barge (Incoterms 2020) and DDP the Site for the items to be delivered by truck (Incoterms 2020); provided that in one or more written communications to Seller, Buyer may direct Seller to deliver any such equipment DDP Morgan City, Assumption Parish, Louisiana (Incoterms 2020) or DDP Amelia, St. Mary’s Parish, Louisiana (Incoterms 2020), in which case Seller shall unload and set such equipment on temporary foundations supplied by Seller (collectively, the “ Delivery Point ”).” 
+
+6. Clause 25.3 of Appendix A (General Terms & Conditions) of the Agreement is hereby amended as follows: 
+
+a. Clause 25.3(a)(i) of Appendix A to the Agreement is hereby amended by deleting the reference therein to “[***]” in its entirety and inserting “[***]” in its place. 
+
+b. Clause 25.3(a)(ii) of Appendix A to the Agreement is hereby amended by deleting the reference therein to “[***]” in its entirety and inserting “[***]” in its place. 
+
+c. Clause 25.3(b)(i) of Appendix A to the Agreement is hereby amended by (i) deleting the reference therein to “[***]” in its entirety and inserting “[***]” in its place, and (ii) deleting the reference therein to “[***]” in its entirety and inserting “[***]” in its place. 
+4 
+
+Execution Version 
+
+d. Clause 25.3(b)(ii) of Appendix A to the Agreement is hereby amended by deleting the reference therein to “[***]” in its entirety and inserting “[***]” in its place. 
+
+SCOPE: 
+
+This Change Order modifies Appendix C (Scope of Supply & Project Schedule) as set forth below: 
+
+[***] 
+
+APPENDIX B 
+
+Attached as Exhibit A to this Change Order is a revised version of Appendix B (Pricing; Payment Terms & Cancellation Schedule), which supersedes and replaces the existing Appendix B (Pricing; Payment Terms & Cancellation Schedule) in its entirety. 
+
+PROJECT SCHEDULE: 
+
+This Change Order modifies Annex C-1 (LTS Project Schedule) of Appendix C (Scope of Supply & Project Schedule) to the Agreement. Attached as Exhibit B to this Change Order is a revised version of Annex C-1 (LTS Project Schedule) of Appendix C (Scope of Supply & Project Schedule) to the Agreement, which supersedes and replaces the existing Annex C-1 (LTS Project Schedule) of Appendix C (Scope of Supply & Project Schedule) to the Agreement. 
+
+This Change Order shall have no impact on the Project Schedule or the Milestone dates, except as set forth in Exhibit B of this Change Order. 
+
+CONTRACT PRICE: 
+
+The original Contract Price was: $[***] 
+The net adjustment to the Contract Price by previously executed Change Orders is: $[***] 
+The Contract Price prior to this Change Order was: $[***] 
+
+5 
+
+Execution Version 
+
+The Contract Price shall be increased by this Change Order in the amount (the “Change Order Price”) of: 
+(comprised of a fixed lump sum amount of $[***], with respect to the changes set forth in Scope item 1. above) 
+$[***] 
+
+The adjusted Contract Price, including this Change Order, shall be: $[***] 
+The original fixed fee for transportation was: $[***] 
+The net adjustment to the fixed fee by previously executed Change Orders is: $[***] 
+
+The fixed fee prior to this Change Order was: $[***] 
+
+The fixed fee shall be increased by this Change Order in the amount of: $[***] 
+
+The adjusted fixed fee for transportation, including this Change Order, shall be: $ [***] 
+
+The original not to exceed amount for Transportation Costs was: $[***] 
+
+The net adjustment to the not to exceed amount for Transportation Costs by previously executed Change Orders is: $[***] 
+
+The adjusted not to exceed amount for Transportation Costs prior to this change order was: $[***] 
+
+The not to exceed amount for Transportation Costs shall be increased by this Change Order in the amount of: $[***] 
+The adjusted not to exceed amount for Transportation Costs, including this Change Order, shall be: $[***] 
+
+Seller waives any and all rights to claim any payment or any relief for time for the performance of its obligations for the performance of the scope of the changes that are set forth under this Change Order. This Change Order constitutes compensation in full for Seller for all costs and expenses directly or indirectly attributable to the changes set forth herein, for all delays related thereto, and for performance of the changes within the time stated. Notwithstanding the foregoing, such adjusted Contract Price does not include any Buyer Taxes which will be added to such Contract Price in accordance with and subject to the terms of the Agreement. 
+
+All other terms and conditions of the Agreement remain in effect unless specifically modified herein. 
+[ Signature Page Follows. ] 
+6 
+
+Execution Version 
+
+Agreed pursuant to the Agreement by: 
+
+Baker Hughes Energy Services, LLC Venture Global CP2 LNG, LLC 
+
+By: /s/ Edoardo Padeletti 
+By: /s/ Keith Larson 
+
+Name: Edoardo Padeleti 
+Name: Keith Larson 
+
+Title: VP Commercial & Strategy 
+Title: General Counsel 
+
+/s/ SSUE 
+
+7 
+
+Execution Version 
+
+Exhibit A 
+
+APPENDIX B 
+
+PRICING, PAYMENT TERMS & CANCELLATION SCHEDULE 
+
+Seller shall not issue more than one (1) invoice (or, following the assignment of the Agreement to the EPC Contractor, two (2) invoices) in any calendar month during the term of the Agreement. 
+
+Seller shall not be entitled to invoice for a Payment Milestone until such Payment Milestone has been completed, such invoice shall include reasonable documentation of such completion of the Payment Milestone, including the documentation identified in the Payment Milestone Notes below and as may be further defined between Buyer and Seller during the kickoff meeting. Invoices shall include an affidavit setting forth the amounts paid by Seller to any “Major Subcontractors” under the Agreement in a form reasonably acceptable to Buyer and the Lenders. 
+
+In addition to the amounts shown in the Payment Milestone in Section I.B., below, Seller shall be permitted to invoice Buyer for the fixed fee of [***] as provided in Clause 7.1 of Appendix A of the Agreement in equal monthly installments in the amount of [***] during the first [***] of the Payment Schedule following the issuance of FNTP and [***] during the [***] of the payment schedule following the issuance of FNTP. 
+
+The Transportation Costs as defined in Clause 7.1 of Appendix A shall not be included in the Aggregate Payment Milestone Cap. Concurrently with the monthly invoice described in the first paragraph of this Appendix B, Seller may submit to Buyer a dedicated monthly invoice for the Transportation Fixed Fee and the Transportation Costs. 
+
+Transportation Costs shall be documented by Seller providing to Buyer unredacted copies of purchase orders and other available documentation. Copies of invoices shall be provided as part of the monthly invoice for individual purchase orders or Transportation Costs with a value in excess of $[***]. In all other cases, Facility-specific ERP system reports in Excel format will be submitted with the applicable monthly invoice. Transportation Costs shall be certified by the Project Director as part of the applicable monthly invoice. 
+
+Concurrently with the monthly invoice described in the first paragraph of this Appendix B, Seller may submit to Buyer a dedicated monthly invoice with respect to any Cameron Parish sales and use taxes that constitute Buyer Taxes. Any such Cameron Parish sales and use taxes shall be documented by Seller providing the list, value, and delivery date of the delivered equipment. 
+
+Concurrently with the monthly invoice described in the first paragraph of this Appendix B, Seller may submit to Buyer a dedicated monthly invoice with respect to the Spare Parts. Spare Parts shall be documented by the Seller providing the list of the delivered spare parts and/or other available documentation to the Seller. 
+
+8 
+
+Execution Version 
+
+Buyer shall have the right to audit all documentation pertaining to Transportation Costs and taxes on reasonable prior notice to Seller and during normal business hours in order to confirm the accuracy and completeness thereof. 
+I. Payment Milestones : 
+
+A. Payment Milestones after Buyer’s issuance of Pre-LNTP and/or LNTP shall be as indicated in the table below. 
+
+Type Milestone
+N° Payment Milestone Description Amount
+(USD) 
+[***] 1 [***] [***] 
+
+[***] 1L [***] [***] 
+
+[***] 2 [***] [***] 
+
+[***] 3 [***] [***] 
+
+[***] 4 [***] [***] 
+
+[***] 5 [***] [***] 
+
+[***] 6 [***] [***] 
+
+B. Payment Milestones after Buyer’s issuance of FNTP shall be as indicated in the table below. The “Fixed” Payment Milestones (as indicated below) are one-time events. The 
+9 
+
+Execution Version 
+
+“By Train” Payment Milestones (as indicated below) shall occur for each Liquefaction Train. 
+
+Type Milestone
+N° Milestone Description Amount
+(USD) 
+[***] 1 [***] [***] 
+[***] 1L [***] [***] 
+[***] 2 [***] [***] 
+[***] 3 [***] [***] 
+[***] 4 [***] [***] 
+[***] 5 [***] [***] 
+[***] 6 [***] [***] 
+[***] 7 [***] [***] 
+[***] 8 [***] [***] 
+[***] 9 [***] [***] 
+[***] 10 [***] [***] 
+[***] 11 [***] [***] 
+[***] 12 [***] [***] 
+[***] 13 [***] [***] 
+[***] 14 [***] [***] 
+[***] 15 [***] [***] 
+[***] 16 [***] [***] 
+[***] 17 [***] [***] 
+[***] 18 [***] [***] 
+[***] 19 [***] [***] 
+[***] 20 [***] [***] 
+
+10 
+
+Execution Version 
+
+[***] 21 [***] [***] 
+[***] 22 [***] [***] 
+[***] 23 [***] [***] 
+[***] 24 [***] [***] 
+[***] 25 [***] [***] 
+[***] 26 [***] [***] 
+[***] 27 [***] [***] 
+[***] 28 [***] [***] 
+[***] 29 [***] [***] 
+[***] 30 [***] [***] 
+[***] 31 [***] [***] 
+[***] 32 [***] [***] 
+[***] 33 [***] [***] 
+[***] 34 [***] [***] 
+[***] 35 [***] [***] 
+[***] 36 [***] [***] 
+[***] 37 [***] [***] 
+[***] 38 [***] [***] 
+[***] 39 [***] [***] 
+[***] 40 [***] [***] 
+[***] 41 [***] [***] 
+[***] 42 [***] [***] 
+[***] 43 [***] [***] 
+[***] 44 [***] [***] 
+
+Payment Milestone Notes 
+
+1 [***] 
+2 [***] 
+3 [***] 
+4 [***] 
+5 [***] 
+6 [***] 
+7 [***] 
+8 [***] 
+
+11 
+
+Execution Version 
+
+9 [***] 
+10 [***] 
+11 [***] 
+12 [***] 
+13 [***] 
+14 [***] 
+
+II. Aggregate Payment Milestone Cap : 
+
+The aggregate amount of all Payment Milestones invoiced by Seller as of each month, including all invoices submitted to Buyer in prior months, shall not exceed the amount of the Aggregate Payment Milestone Cap shown in tables below for such month. 
+
+A. [***] 
+
+Month after Issuance of Pre-LNTP or LNTP Aggregate Payment Milestone Cap (by month) 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+
+B. [***] 
+
+Month after Issuance of Pre-LNTP or LNTP or FNTP, as applicable Aggregate Payment Milestone Cap (by month) 
+after CO#4 
+
+[***] [***] 
+[***] [***] 
+
+12 
+
+Execution Version 
+
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+
+13 
+
+Execution Version 
+
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+
+III. Termination Fee : 
+
+In the event of termination for convenience by Buyer pursuant to Clause 29.1 of Appendix A or a termination by Buyer or Seller, as applicable, if there is no mutual agreement on extending the time for issuance of FNTP pursuant to Clause 6.6 of Appendix A, then the Termination Fee, if any, payable by Buyer shall be determined as follows: 
+
+[***] 
+
+where: 
+
+[***] 
+
+14 
+
+Execution Version 
+
+Months after issuance of Pre-LNTP, LNTP or issuance of a Suspension Notice, as Applicable Maximum Termination Fee after CO#4 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+
+[***] 
+
+Months after issuance of Pre-LNTP, LNTP or FNTP or issuance of a Suspension Notice, as applicable Maximum Termination Fee after CO#4 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+
+15 
+
+Execution Version 
+
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+[***] [***] 
+
+16 
+
+Execution Version 
+
+Exhibit B 
+
+Annex C-1 
+
+[Omitted] 
+17

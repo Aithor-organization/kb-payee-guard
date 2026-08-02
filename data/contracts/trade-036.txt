@@ -1,0 +1,620 @@
+Exhibit 10.6 
+
+Exhibit 10.6 
+CONFIDENTIAL TREATMENT REQUESTED: Certain portions of this document have been omitted pursuant to a request for confidential treatment and, where applicable, have been marked with an asterisk ("[****]") to denote where omissions have been
+made. The confidential material has been filed separately with the Securities and Exchange Commission. 
+CO-OPERATION AGREEMENT
+
+This AGREEMENT is made 
+BETWEEN 
+Luna Technologies 
+A Division of Luna
+Innovations Incorporated 
+2020 Kraft Dr. Suite 2000 
+Blacksburg, VA 24060 
+(hereafter referred to as
+„LUNA”) 
+AND 
+Acterna France SAS 
+34, Rue Necker 
+42000 Saint Etienne 
+France 
+(hereafter referred to as „ACTERNA”) 
+
+WHEREAS: 
+A. LUNA is engaged
+in developing, designing, procuring, manufacturing, selling, marketing, distributing and maintaining the products set forth in Schedule 1 hereto, including spare parts and supply items therefore (in card form developed under this Agreement, the
+“Luna Products”) 
+B. ACTERNA is engaged in designing, procuring, manufacturing, selling, marketing, distributing and maintaining the products set
+forth in Schedule 2, including spare parts and supply items therefore (with custom software developed under this Agreement, the “Acterna Products”). 
+The term “Products” shall include to both Luna Products and Acterna Products. 
+C. The parties intend to collaborate on the development,
+marketing and sales of certain products, such products partially to be developed by LUNA on one side and partially to be developed by ACTERNA on the other side. 
+D. Further, the parties intend to enter into an agreement regarding the marketing, distribution and sale of these products. The product being sold by each party will be a combination of the parties’ respective products. 
+THEREFORE IT IS HEREBY AGREED AS FOLLOWS: 
+
+A. 
+DEVELOPMENT 
+
+1. 
+Product Detail 
+
+1.1 
+LUNA and ACTERNA agree to collaborate on the development, marketing and sales of an OFDR solution combining a highly integrated OFDR module to be developed by Luna and a mainframe
+belonging to the MTS/TB family of mainframes from ACTERNA, including [****]. The OFDR to be developed by LUNA can only be operated inside the MTS mainframe to be developed by ACTERNA. 
+
+1.2 
+LUNA shall use commercially reasonable efforts to develop a highly integrated OFDR (Optical Frequency Domain Reflectometer) module according the specifications as set forth in
+Schedule 3. This includes the hardware development as well as the development of embedded application firmware. LUNA shall use commercially reasonable efforts to complete such development according to the roadmap as set forth in
+Schedule 7. 
+
+2 
+
+1.3 
+ACTERNA shall, for its [***], use commercially reasonable efforts to develop a new user interface according to the specifications as set forth in Schedule 4 that will drive the
+OFDR application. This user interface software will also allow to configure the OFDR module and also display the traces and manage the measurement results. Acterna will also use commercially reasonable efforts to develop a new backplane board for
+the [****] enclosure if it is decided to integrate the OFDR module inside the [****] platform. ACTERNA shall use commercially reasonable efforts to complete such development according to the roadmap as set forth in Schedule 7.
+
+1.4 
+The parties shall co-operate regarding the respective developments on the basis of good faith. Each party undertakes to provide to the other party the information regarding its own
+products / developments such other party reasonably requires for its development. 
+
+For the avoidance of any doubt, the Non
+Disclosure Agreement concluded between the parties on February 13, 2006, shall apply to such information. 
+
+1.5 
+The roadmap regarding the above described developments, including the provision of prototypes to the respective other party for testing purposes, is attached and bincorporated as
+Schedule 7 to this Agreement. Each party’s timely performance of development obligations under according to the roadmap is dependent on the other party’s timely and effective satisfaction of its responsibilities hereunder, and timely
+decisions and approvals by the other party. [****]. 
+
+The units shall be provided as follows: 
+[****] 
+Title in such units /software shall
+transfer to the receiving party. The parties shall treat the respective other party’s units with a reasonable degree of care. 
+
+2. 
+Costs 
+
+Each party bears the costs for its
+developments as conducted according to this Agreement. Under no circumstances a party shall have a claim against the other party regarding the reimbursement of such costs. 
+
+B. 
+DISTRIBUTION AND SALE 
+
+3. 
+Grant of Distribution Rights 
+
+3.1 
+The parties to this agreement will act as distributor for the respective other party’s Products developed under this agreement. Thus, the following terms shall be applied
+depending on which Product is concerned. 
+
+Where Luna Products are concerned, the term MANUFACTURER shall refer to LUNA and the
+term DISTRIBUTOR shall refer to ACTERNA. 
+Where Acterna Products are concerned, the term MANUFACTURER shall refer to ACTERNA and the term
+DISTRIBUTOR shall refer to LUNA. 
+
+3.2 
+MANUFACTURER hereby grants to DISTRIBUTOR and DISTRIBUTOR hereby accepts the right to distribute through resale, in the case of hardware Products, and to distribute under
+sublicense, in the case of software Products, and generally to market such Products of the other party purchased hereunder as defined on p. 1, A and B, solely as part of a combination of the parties’ respective Products.
+
+3 
+
+3.3 
+The Parties agree that DISTRIBUTOR’s distribution rights under this Agreement with respect to the other party’s Products shall be limited to the Territories and customer
+groups as set forth in Schedule 5 hereto. In certain Territories and amongst certain groups of customers (the “Customer Groups”), DISTRIBUTOR’s distribution rights shall be exclusive. These exclusive Territories and Customer
+Groups are identified in Schedule 5 hereto. Exclusivity shall mean that the MANUFACTURER shall neither use other third parties for the distribution of the Products in the respective Territories or amongst the respective Customer Groups
+(regardless of the form of such distribution, in particular but not limited to distributorship or agency), nor shall the MANUFACTURER make direct sales in the respective Territories or to the respective Customer Groups. 
+
+3.4 
+DISTRIBUTOR shall have the right to distribute the Products through sub-distributors. 
+
+4. 
+Term 
+
+The Agreement shall take effect on the
+latest date appearing on page 13, the signature page of this agreement (the „Commencement date”) notwithstanding the date hereof and shall endure for a period of 3 years from the Commencement Date. After the initial period of
+3 years, this Agreement shall renew for further terms of 1 year until or unless terminated by either party giving to the other not less than six (6) months prior written notice. For the avoidance of doubt, the sections specified in
+21.3 will survive the termination of this agreement according to conditions described in the respective Articles. 
+
+5. 
+Technical Information 
+
+5.1 
+Upon execution of this Agreement, MANUFACTURER immediately will step by step at its own cost furnish to DISTRIBUTOR reproducible copies in English of all available documentation,
+data and component lists that MANUFACTURER possesses and has the right to provide, and that are necessary to enable DISTRIBUTOR to sell the Products. 
+
+5.2 
+MANUFACTURER undertakes also to keep DISTRIBUTOR fully informed of any material changes, additions or modifications to such documentation, data and component lists that have an
+effect on performance. 
+
+DISTRIBUTOR has the right to buy [****] demonstration units per Product covered by this Agreement
+including such Products as added from time to time. The price for such demonstration units will be [****]. Any units that are not retained by DISTRIBUTOR for at least 12 months shall not be considered demonstration units. 
+
+6. 
+Commercial and Technical Assistance 
+
+6.1 
+MANUFACTURER undertakes during the term of this Agreement, at the request of DISTRIBUTOR, to render from time to time to DISTRIBUTOR reasonable assistance in connection with the
+demonstration kits, initial demonstration to customers in the Territory, the assembly of spare parts, maintenance, support and marketing of the Products. The cost of such assistance and who shall pay for it will be agreed in advance between the
+parties. 
+
+4 
+
+6.2 
+DISTRIBUTOR shall continuously and vigorously promote, sell and support the Products through its marketing and sales organizations for sales and support in the Territory.
+DISTRIBUTOR names the contact persons for Market Development and Market Communication for MANUFACTURER’s Products. 
+
+7. 
+Market Volumes. Purchase and Transfer Prices 
+
+7.1 
+Annual sales plans for the Products for the first year of contract duration are set forth on Schedule 5 of this Agreement. 
+
+7.2 
+DISTRIBUTOR shall supply to MANUFACTURER formal quarterly rolling forecasts of the projected sales volume of the Products in the designated Territories. The due dates for such
+rolling forecasts are the 15th day in advance of each calendar quarter. 
+
+7.3 
+The prices for the Products to be paid by DISTRIBUTOR are fixed Transfer Prices Ex Works MANUFACTURER. 
+
+7.4 
+Prices will be as set forth in Schedule 6 to this Agreement and will be reviewed and updated (annually) always with the effective date of the respective anniversary of the
+Commencement Date. At such price review changes requested by either Party are always subject of prior written mutual agreements between the Parties. The new agreed prices become part of the Agreement with an amendment to the applicable schedule
+hereafter. 
+
+7.5 
+Nothing in this Agreement shall constitute an obligation for DISTRIBUTOR to purchase goods from the MANUFACTURER. 
+
+8. 
+Orders, Delivery, Invoicing 
+
+8.1 
+DISTRIBUTOR may obtain Products by placing orders under this Agreement with MANUFACTURER. 
+
+8.2 
+MANUFACTURER shall send a written order acknowledgement to DISTRIBUTOR within five (5) working days after receipt of an order from DISTRIBUTOR confirming the delivery dates
+requested, or setting forth such other delivery dates that DISTRIBUTOR is able to meet (which shall be deemed accepted by MANUFACTURER unless rejected in writing within three (3) working days after the date of MANUFACTURER’s
+acknowledgement). In the absence of such acknowledgement, DISTRIBUTOR’s order shall be considered rejected. 
+
+8.3 
+Delivery of the Products will be made to the DISTRIBUTOR sales and distribution centers Ex Works MANUFACTURER, and all costs of transportation, insurance, import or other duties
+shall be met by DISTRIBUTOR. MANUFACTURER will ship Products ordered by DISTRIBUTOR using a method and carrier selected by MANUFACTURER unless otherwise instructed in DISTRIBUTOR’s order. MANUFACTURER will ship freight collect, uninsured,
+unless otherwise instructed by DISTRIBUTOR’s order. 
+
+8.4 
+Distributor shall, at its own expense, obtain all import and export licenses and permits, pay customs charges and duty fees, and take all other actions required to
+accomplish the export and import of the Products purchased by DISTRIBUTOR. DISTRIBUTOR understands that MANUFACTURER is subject to regulation by agencies of the U.S. government, including the U.S. Department of Commerce, which prohibit export or
+diversion of certain technical products to certain countries. DISTRIBUTOR warrants that it will comply in all respects with the export and re-export restrictions set forth in the 
+
+5 
+
+export license for every Product delivered to DISTRIBUTOR. On the request of DISTRIBUTOR, MANUFACTURER shall assist DISTRIBUTOR in the process of obtaining
+such licenses and permits by providing such information about the Products as MANUFACTURER possesses as reasonably necessary for such purposes. 
+
+8.5 
+All delivery orders from DISTRIBUTOR to MANUFACTURER shall specify (i) the quantities of the Products, (ii) the prices to be invoiced by MANUFACTURER to DISTRIBUTOR
+according to Schedule 6, (iii) the shipping and invoice address, (iv) specific shipping instructions, if applicable, (v) the requested delivery date, and (vi) such other information MANUFACTURER may reasonably request from
+time to time required to enable MANUFACTURER to fill the order. 
+
+8.6 
+The parties undertake to ensure continuity of supply as set forth under this subsection 8.6. Each party shall continue to sell reasonable quantities of its respective Products
+under this agreement to the other party for resale to any customers with which the other party has a written contract has been entered during the term of this Agreement, to the extent the other party has continuing supply obligations to its customer
+under such written contract, for a period of up to 5 years following the effective date of the written contract governing such customer relationship. 
+
+9. 
+Passing of Risk 
+
+The risk for loss or damage
+to the Products passes from MANUFACTURER to DISTRIBUTOR when delivery of the Products has been made to DISTRIBUTOR Ex Works MANUFACTURER. 
+
+10. 
+Payment 
+
+Payment for each Products ordered
+by DISTRIBUTOR shall be made forty-five (45) days following receipt of the MANUFACTURER’s invoice by DISTRIBUTOR, but in no even earlier than forty-five (45) days following delivery Ex Works MANUFACTURER. 
+
+11. 
+Sale, Sub-License 
+
+11.1 
+DISTRIBUTOR agrees to use vigorous efforts at promoting, selling, distributing, advertising generally for creating a demand for the Products throughout the Territories as agreed in
+Schedule 5 hereto. The responsibilities for the Territories will be reviewed and should be adjusted if necessary no later than 6 months after product launch. 
+
+11.2 
+DISTRIBUTOR is hereby granted a license to distribute the software contained in Schedule 1, respectively Schedule 2 hereto to purchasers of the Products, and to sublicense
+use of such software to end-user customers of the Products, solely to run the software in object-code form for use in connection with such Products. All sublicenses of such software granted by DISTRIBUTOR hereunder shall be under the end-user
+license agreement applicable to the software contained in DISTRIBUTOR’s Product, which shall in any event be as protective of the MANUFACTURER’s software as the terms of this Agreement. 
+
+11.3 
+With the Commencement Date of this Agreement MANUFACTURER undertakes to transfer to the DISTRIBUTOR sales organizations all sales responsibilities and sales contacts in the
+Territories, case by case. On current sales projects of MANUFACTURER in the Territory transfer activities to DISTRIBUTOR will be mutually agreed case by case on the basis of the best practices and customer satisfaction. 
+
+6 
+
+12. 
+Customer Service, Support, Spare Parts and Sub-Assemblies 
+
+12.1 
+MANUFACTURER agrees to supply maintenance or repair support including but not limited to board exchange and calibration services on the Products and its spare parts and
+sub-assemblies for a period of two (2) years from the date of the last delivery of the Products to DISTRIBUTOR. 
+
+12.2 
+Spare parts and sub assembly prices for DISTRIBUTOR, respectively its customers, as well as repair, maintenance, exchange and calibration services for the Products are set forth in
+Schedule 6 to this Agreement. 
+
+13. 
+Non-Solicitation 
+
+For the duration of this
+Agreement and one year following its termination, the parties shall not, directly or through an affiliated or otherwise related company, solicit and/or hire any person who is an employee of the other party, provided that a party shall not be
+prevented to hire persons who have had no involvement whatsoever in the contractual relationship constituted by this Agreement or business hereunder or related to this Agreement during a period of twelve months preceding the hiring date. For of this
+Article 13, employees outside of the Fiber Optic Test and Measurement Group of Acterna shall not be considered employees of Acterna, and employees outside of the Luna Technologies Division of Luna Innovations Incorporated shall not be
+considered employees of Luna. 
+The other party shall be entitled, without any limitation, to compensation from the infringing party for
+damages arising out of such breach in excess of the liquidated damages. 
+For the avoidance of any doubt, nothing in this Agreement shall
+prevent the other party from seeking injunctive relief against a breach of this Article 13 by the infringing party. 
+
+14. 
+Successor Products 
+
+If MANUFACTURER
+procures, develops or markets any successor product not covered by this Agreement or being a product of the same description and the use as any of the Products, such product shall be brought within the scope of this Agreement upon DISTRIBUTOR’s
+request, as one of the Products and the Schedules hereto will be amended accordingly. 
+
+15. 
+Liability 
+
+15.1 
+DISTRIBUTOR shall not be liable to MANUFACTURER and MANUFACTURER shall not be liable to DISTRIBUTOR or to any other person or institution for any loss or damage whatsoever or
+howsoever caused arising directly or indirectly in connection with the Products, parts, or otherwise other than as imposed by the law relating to this Agreement. DISTRIBUTOR and MANUFACTURER mutually and expressly exclude liability to each other for
+consequential loss or damage including but not limited to loss of profit, business, revenue, goodwill or anticipated savings, unless such claim is based on gross negligence or wilful misconduct. 
+
+7 
+
+15.2 
+MANUFACTURER undertakes to take out and maintain adequate insurance cover with a reputable insurance company against liability which MANUFACTURER or DISTRIBUTOR may incur to a
+customer or any other person in connection with the Products or any information or documentation or training supplied therewith or upon which DISTRIBUTOR has relied. MANUFACTURER shall upon request of DISTRIBUTOR produce its policy of such
+insurance, the premium receipt and insurance certificate. 
+
+16. 
+Force Majeure 
+
+The parties shall be under no
+liability to each other in any way whatsoever for destruction, damage, delay or any other matters of any nature whatsoever arising out of war, rebellion, civil commotion, strikes, lock outs and industrial disputes, fire explosion, earthquake, act of
+God, flood, drought or bad weather, the requisitioning or other act or order by any government department, council or other constituted body, or any other similar circumstances or happenings beyond their control. 
+
+17. 
+Warranty 
+
+17.1 
+MANUFACTURER warrants that the Products shipped under the scope of this Agreement substantially work within their specifications and conform to local, national and international
+standards and requirements affecting the Territory. 
+
+17.2 
+MANUFACTURER warrants to DISTRIBUTOR that the Products and parts purchased by DISTRIBUTOR are free from defects in respect of material and workmanship, and MANUFACTURER undertakes
+to repair or replace the Products, part or sub-assembly found defective within a period of 24 months from Ex Works delivery under this Agreement, subject to compliance with the provisions of (17.3) below. 
+
+17.3 
+Upon receipt of a claim from DISTRIBUTOR under the warranty period agreed in (17.2), MANUFACTURER shall forthwith test and inspect the Products at MANUFACTURER’s expense and
+return to DISTRIBUTOR, freight paid by MANUFACTURER. Replacement parts, items or Products shall be sent by MANUFACTURER to DISTRIBUTOR freight prepaid Original freight cost from DISTRIBUTOR to MANUFACTURER of deemed defective
+Products will be borne by DISTRIBUTOR. 
+
+Notwithstanding the foregoing, prior to returning any Product, DISTRIBUTOR must obtain
+a Return Materials Authorization (RMA) number from MANUFACTURER pursuant to MANUFACTURER’s RMA procedures, and in cases where MANUFACTURER is unable to confirm the existence of a defect in any Product returned to MANUFACTURE (“NDF
+Product”), DISTRIBUTOR shall be responsible to pay or reimburse MANUFACTURER for the shipping costs incurred with respect to the original return of the NDF Product from DISTRIBUTOR to MANUFACTURER, and MANUFACTURER’s return of the NDF
+Product back to DISTRIBUTOR. 
+
+18. 
+Indemnities 
+
+18.1 
+MANUFACTURER agrees to protect and save harmless and defend at its own expense DISTRIBUTOR from and against any and all third-party claims that allege infringement by
+MANUFACTURER’s Products of patents, trade marks, industrial designs, copyrights or other intellectual property rights issued under the laws of the United States and any other country affecting the Territory. 
+
+8 
+
+18.2 
+MANUFACTURER’s obligations under 18.1 are contingent on: DISTRIBUTOR (i) providing MANUFACTURER prompt notice of any claim described in 18.1 above(ii) MANUFACTURER
+having the sole right to defend any such claims and make settlements thereof at its own expense, and (iii) DISTRIBUTOR providing, at MANUFACTURER’s expense, reasonable assistance in connection with the defense or settlement of the claim.
+
+18.3 
+MANUFACTURER shall have no obligation under Section 18.1 to the extent any claim of infringement is caused by (i) use of the MANUFACTURER’s Product in combination
+with any other product not provided by MANUFACTURER if the infringement would not have occurred but for such combination; (ii) any alteration or modification of the MANUFACTURER’s Product which MANUFACTURER did not authorize, if the
+infringement would not have occurred but for such alteration or modification; or (iii) MANUFACTURER’s compliance with DISTRIBUTOR’s design specifications, if the infringement would not have occurred but for MANUFACTURER’s
+implementation of such specifications. 
+
+19. 
+Patents, Trademarks and Intellectual Property Rights 
+
+19.1 
+The parties acknowledge the any intellectual property (“IP”) continues to vest in the party who owned such IP prior to the commencement of this Agreement. In particular
+but not limited to, this applies to any trade marks, trade names, copyrights, patents and other intellectual property rights used or embodied in or in connection with a party’s pre-existing products and / or resulting from a party’s
+previous development efforts. In addition, each party shall continue to own all IP developed by that party following the commencement of this Agreement, regardless of whether such IP was created or acquired in connection with this Agreement. No
+party shall during or at any time after the expiry or termination of this Agreement in any way question or dispute the other party’s ownership of any such rights. 
+
+19.2 
+MANUFACTURER or DISTRIBUTOR respectively shall not during or after the expiry or termination of this Agreement, without the prior written consent of the other Party, use or adopt
+any name, trade name, trading style or commercial designation that includes or is similar to or may be mistaken for the whole or any part of any trade mark, trade name, trading style or commercial designation used by the other Party as a trademark.
+
+20. 
+Confidential Information 
+
+20.1 
+Each party (the “Disclosing Party”) has imparted and may from time to time impart to the other party (the “Receiving Party”) certain confidential information and
+documentation relating to the Products, its marketing, use, maintenance, operation and software including technical specifications therefore (together with the types of information described as confidential in the Non-Disclosure Agreement between
+the parties, “Confidential Information”) and the Receiving Party hereby agrees that it shall use such Confidential Information solely for the purposes of this Agreement and that it shall not disclose, whether directly or indirectly, to any
+third party (including end customers), such information other than is required to carry out the purposes of this Agreement. 
+
+20.2 
+In the event that disclosure is necessary, Receiving Party will obtain the prior written approval of the Disclosing Party and then will obtain from such third parties duly binding
+agreements to maintain in confidence the information disclosed to the same extent at least as the Receiving Party is so bound to the Disclosing Party hereunder. 
+
+9 
+
+20.3 
+The Receiving Party further agrees that on expiry or termination of this Agreement it shall return or destroy (as the Disclosing Party may instruct) such information and
+documentation and it shall not itself or through any subsidiary, agent or other party sell, market, distribute, manufacture or otherwise deal with the Products or have the same manufactured for it based on any technical or Confidential Information
+supplied to it by the Disclosing Party, with the exception of information or action needed to Service the Product (cf Article 12). 
+
+20.4 
+Obligations regarding handling of Confidential Information will remain valid for a period of 5 years following termination of this agreement. 
+
+21. 
+Termination or Expiry 
+
+21.1 
+Notwithstanding any other provisions herein contained, this Agreement may be terminated forthwith by one Party by notice in writing if any of the following events shall occur:
+
+(i) 
+if the other Party shall commit any act of bankruptcy, or shall cease to carry on business; 
+
+(ii) 
+if the other Party shall at any time be in material default under this Agreement and shall fail to remedy such material default within ninety (90) days. after receiving written
+notice thereof from the non-defaulting party; 
+
+(iii) 
+if the other Party is by any cause prevented from performing its obligations hereunder for a continuous period of three (3) months or for a total period of six (6) months
+in any period of twelve (12) consecutive months. If any such event referred to in (i), (ii), or (iii) above shall occur, termination shall become effective forthwith or on the date set forth in such notice. 
+
+21.2 
+The expiry or termination of this Agreement shall be without prejudice to the rights of the parties accrued up to the date of such expiry or termination. 
+
+10 
+
+21.3 
+Upon termination or expiration of this Agreement the provisions of Sections 8.6,12,13,15 through 20, 29 and 30 and all payment obligations incurred prior to the effective date of
+such termination or expiration shall survive. All other provisions of this Agreement shall terminate. 
+
+22. 
+Information 
+
+DISTRIBUTOR agrees and
+undertakes to provide MANUFACTURER at mutually agreed intervals or at such reasonable times or at request of MANUFACTURER with information concerning sales of the Products and parts thereof and any changes in the Territory relating to demand,
+ultimate users and customers, the activities of competitors and such other matters and information in any way relating to the performance of this Agreement. MANUFACTURER undertakes to do all such reasonable acts and things as may be necessary or
+helpful to extend and improve the Product and goodwill in the Territory. 
+
+23. 
+Title in the Products 
+
+Title in the products
+shall pass to DISTRIBUTOR when delivery of the Products has been made Ex Works MANUFACTURER. 
+
+24. 
+Waiver 
+
+Failure or neglect by one Party to
+enforce at any time any of the provisions hereof shall not be construed nor shall be deemed to be a waiver of its rights hereunder nor in any way affect the validity of the whole or any part of this Agreement nor prejudice the respective
+Party’s rights to take subsequent action. 
+
+25. 
+Assignment 
+
+This Agreement shall not be
+assigned by a party, in whole or part, to any party without the prior written consent of the other party. Notwithstanding, either party may assign this Agreement without the consent of the other in connection with a sale of all or substantially all
+of such party’s business or assets, whether by merger, asset sale, consolidation or the like. Subject to the foregoing, this Agreement shall bind and inure to the benefit of the parties and their respective successors and assigns. 
+
+26. 
+Notices 
+
+Any notice required or permitted
+under the terms of this Agreement or required by statute, law or regulation shall (unless otherwise provided) be in writing and shall be delivered in person, sent by registered mail or air mail as appropriate, properly posted and fully prepaid in an
+envelope properly addressed or sent by Telefax to the respective parties as follows: 
+
+LUNA 
+
+Luna Technologies, a Division of Luna Innovations Incorporated 
+
+2020 Kraft Dr. Suite 2000 
+
+Blacksburg, VA 24060 
+
+Fax: 1-540-961-5191 
+
+11 
+
+ACTERNA 
+
+Acterna France SAS 
+
+34 Rue Necker 
+
+42000 Saint Etienne, France 
+
+France 
+
+FAX NUMBER +33 4 77 47 89 70 
+
+or to such other address or Telefax number as may from time to time be designated by notice
+hereunder. Any such notice shall be in the English language and shall be considered to have been given at the time when actually delivered, sent by TelefAx or in any other event within fourteen (14) days after it was mailed in the manner herein
+before provided. 
+
+27. 
+Agreement 
+
+This Agreement supersedes any
+arrangements, understandings, promises or agreements made or existing between the parties hereto prior to or simultaneously with this Agreement and constitutes the entire understanding between the parties hereto. Except as otherwise provided herein,
+no addition, amendment to or modification of this Agreement shall be effective unless it is in writing and signed by and on behalf of both parties. 
+
+28. 
+Headings 
+
+The headings of the paragraphs of
+this Agreement are inserted for convenience of reference only and are not intended to be part of or to affect the meaning or interpretation of this Agreement. 
+
+29. 
+Severabilitv 
+
+In the event that any of the
+terms, conditions or provisions contained herein shall be determined invalid, unlawful or unenforceable to any extent, such term, condition or provision shall be severed from the remaining body of the Agreement which shall continue to be valid and
+enforceable to the fullest extent permitted by law. 
+
+30. 
+Governing Law 
+
+The rights and obligations of
+the parties to the Agreement and the interpretation of this Agreement shall be governed by and construed in accordance with the laws of England without giving effect to its conflict of laws provisions. The application of the United Nations
+Convention on Contracts for the International Sales of Goods (the “CISG”) is explicitly excluded. The competent courts shall be the English courts. 
+
+12 
+
+IN WITNESS WHEREOF the parties hereto have executed this Agreement on the date, set forth opposite their respective
+names. 
+
+SIGNED for and on behalf of 
+
+LUNA 
+
+August 18 th , 2006 /s/ R J Soller 
+
+Date Name 
+
+Brian J. Soller 
+
+__________________________________________________________________________________ 
+Date
+Name 
+
+SIGNED for and on behalf of 
+
+ACTERNA 
+
+August 18 th , 2006 DILUIGI ENZO 
+
+Date Name 
+
+/s/ Diluigi Enzo 
+
+__________________________________________________________________________________ 
+Date
+Name 
+
+Schedules: 
+1: Luna
+Products 
+2.: Acterna Products 
+3.: Specifications for OFDR
+module 
+4.: Specifications for MTS/TB module 
+5.: Territories /
+Customer Groups 
+6.: Prices 
+7.: Roadmap 
+
+13 
+
+Co-Operation Agreement 
+
+between Luna and Acterna 
+
+Schedule 1 
+
+Luna Products 
+
+• 
+
+OBR (Optical Backscatter Reflectometer) Module 
+
+14 
+
+Co-Operation Agreement 
+
+between Luna and Acterna 
+
+Schedule 2 
+
+Acterna Products 
+[****] 
+
+15 
+
+Co-Operation Agreement 
+
+between Luna and Acterna 
+
+Schedule 3 
+
+Specifications for OFDR Module 
+TBD 
+
+16 
+
+Co-Operation Agreement 
+
+between Luna and Acterna 
+
+Schedule 4 
+
+Specifications for MTS/TB Module 
+This is not required since the only module is the OFDR module which is described in schedule 3 
+
+17 
+
+Co-Operation Agreement 
+
+between Luna and Acterna 
+
+Schedule 5 
+
+Territories / Customer Groups 
+
+1. 
+ACTERNA shall be the exclusive distributor for Luna Products in the following geographies and customer groups: 
+
+[****] 
+ACTERNA shall be the
+non-exclusive distributor for Luna Products in the following geographies and customer groups: 
+[****] 
+
+2. 
+LUNA shall be the exclusive distributor for Acterna Products in the following geographies and customer groups: 
+
+[****] 
+LUNA shall be the
+non-exclusive distributor for Acterna Products in the following geographies and customer groups: 
+[****] 
+
+18 
+
+Co-Operation Agreement 
+
+between Luna and Acterna 
+
+Schedule 6 
+
+Prices 
+[****] 
+[****] 
+
+19 
+
+Co-Operation Agreement 
+
+between Luna and Acterna 
+
+Schedule 7 
+
+Roadmap 
+[****] 
+
+20

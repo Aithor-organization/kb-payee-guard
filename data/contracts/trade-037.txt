@@ -1,0 +1,107 @@
+Exhibit 10.41 
+
+THE
+USE OF THE FOLLOWING NOTATION IN THIS EXHIBIT INDICATES THAT THE CONFIDENTIAL PORTION HAS BEEN OMITTED PURSUANT TO ITEM 601(b)(10)(iv)
+WHEREBY CERTAIN IDENTIFIED INFORMATION HAS BEEN EXCLUDED BECAUSE IT IS BOTH NOT MATERIAL AND WOULD LIKELY CAUSE COMPETITIVE HARM IF PUBLICLY
+DISCLOSED: [***] 
+
+AMENDMENT
+TO COMPONENTS SUPPLY AGREEMENT 
+
+This
+Amendment to Components Supply Agreement (“ Amendment ”) is entered into as of January 23, 2018 (the “ Amendment
+Effective Date ”) by and between QUALCOMM CDMA Technologies Asia-Pacific Pte. Ltd. (“ QCTAP ”) and Airspan
+Networks, Inc. (“ Buyer ”), who hereby agree to amend that certain Components Supply Agreement between QCTAP and Buyer
+dated November 20, 2014, as amended (the “ CSA ”) as follows. Capitalized terms used in this Amendment shall have
+the meaning set forth in the CSA, unless otherwise provided herein. 
+
+1.
+Delivery . As of the Amendment Effective Date, Section 4 (DELIVERY) of the CSA is hereby deleted in its entirety and replaced
+with the following: 
+
+“ 4. DELIVERY .
+All deliveries of Components shall be made either (i) [***], or (ii) [***] (the “Delivery Point”),. In the event QCTAP
+pays any shipping, freight, or insurance charges on behalf of Buyer, Buyer shall promptly reimburse QCTAP for all such charges. Buyer
+is responsible for obtaining, at its own risk and expense, any import license or other official authorization for the importation of
+the goods at the agreed point of destination. Buyer is responsible for customs clearance at the agreed place of destination, and the
+Buyer shall bear all duties, taxes and other official charges payable upon importation of the goods as well as any and all costs and
+risks of carrying out customs formalities. If shipment of any Component is delayed at Buyer’s request or as a result of Buyer’s
+failure to facilitate customs clearance, Buyer shall bear all reasonable and necessary transportation and/or storage related costs of
+holding such Component, and QCTAP may invoice Buyer for such Components on the date when QCTAP is prepared to make shipment.” 
+
+2.
+Price and Payment Terms . As of the Amendment Effective Date, the third paragraph of Section 7 (PRICE AND PAYMENT TERMS)
+of the CSA is hereby deleted and replaced with the following: 
+
+“With
+respect to each P.O. accepted by QCTAP, Buyer shall elect either of the following payment terms. Not less than [***] ([***]) days
+prior to scheduled delivery of Components to the Delivery Point, (a) Buyer shall render payment in full to QCTAP via wire transfer,
+or (b) Buyer shall cause to be issued in favor of QCTAP, as beneficiary, an irrevocable documentary letter of credit in accordance
+with the instructions set forth on Exhibit D (Opening Instructions ¬Documentary Letter of Credit) with “at sight”
+payment terms. All costs incurred in connection with the issuing of the letter(s) of credit shall be borne by Buyer. Such documentary
+letter(s) of credit shall (i) be issued in favor of QCTAP, (ii) be issued by a bank mutually agreed upon by the parties and, if
+requested by QCTAP, confirmed by QCTAP’s U.S. bank, and (iii) be in amount, form and substance to the reasonable satisfaction of
+QCTAP. The amount (as well as any other pertinent terms) of any such documentary letter of credit shall provide for the payment of any
+amounts which Buyer may be obligated to pay to QCTAP pursuant to this Agreement. If Buyer fails to either timely remit payment via wire
+transfer or timely cause to be issued a documentary letter of credit, as set forth above, then QCTAP shall be entitled to treat any P.O.
+(for which such wire transfer or unissued documentary letter of credit is related) as canceled by Buyer. Notwithstanding the above, if
+for any reason whatsoever a payment is not timely made by means of a letter of credit, Buyer shall still be obligated to make such payment
+to the extent such payment obligation is due and payable.” 
+
+QCTAP Confidential/Proprietary 
+
+3.
+Exhibit D [Opening Instructions — Documentary Letter of Credit) . As of the Amendment Effective Date, the Exhibit D
+(Opening instructions — Documentary Letter of Credit) attached to this Amendment is hereby added as Exhibit D (Opening Instructions
+— Documentary Letter of Credit) to the CSA, and is incorporated herein by reference. 
+
+4.
+No Other Amendment or Modification . Except as expressly set forth in this Amendment, the CSA remains in full force and effect
+without modification. The terms and conditions of this Amendment and the CSA shall not be modified or amended except by a writing signed
+by authorized representatives of both Parties. 
+
+5.
+Signatures . This Amendment may be executed in identical counterparts, each of which shall be deemed to be an original and,
+which taken together, shall be deemed to constitute the agreement when a duly authorized representative of each party has signed a counterpart.
+Each party agrees that the delivery of this Amendment by facsimile or in electronic format via email shall have the same force and effect
+as delivery of original signatures and that each party may use facsimile, electronic format signatures, and photocopies of signatures
+as evidence of the execution and delivery of this Amendment by each party to the same extent that an original signature could be used. 
+
+IN
+WITNESS WHEREOF, the parties hereto have caused this Amendment to be executed as of the date first set forth above. 
+
+QUALCOMM
+CDMA Technologies 
+
+Asia Pacific Pte Ltd. 
+
+Airspan
+Networks, Inc. 
+
+By: 
+/s/
+Merwin Wilfred 
+
+By: 
+/s/
+David Brant 
+
+Print Name: Merwin Wilfred 
+
+Print Name: David Brant 
+
+Title: Director, Operations 
+
+Title: CFO 
+
+QCTAP Confidential/Proprietary 
+
+Exhibit D
+
+Opening Instructions - Documentary Letter of Credit 
+
+[Schedule
+containing requirements for opening documentary letter of credit account omitted pursuant to Item 601(a)(5) of Regulation S-K. Schedule
+will be furnished to the SEC upon request.] 
+
+QCTAP Confidential/Proprietary

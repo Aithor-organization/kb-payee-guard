@@ -1,0 +1,1641 @@
+Electrameccanica Vehicles Corp. - Exhibit 10.1 - Filed by newsfilecorp.com 
+
+JOINT OPERATING AGREEMENT 
+
+THIS AGREEMENT is dated effective as of the 15th day of July,
+2015. 
+
+AMONG: 
+
+ELECTRAMECCANICA VEHICLES CORP., 
+a corporation duly incorporated and validly subsisting under the laws of the
+Province of British Columbia, and having an address at Suite 1102, 328 East 11th
+Avenue, Vancouver, British Columbia, V5T 4W1 
+
+(“ ElectraMeccanica ”) 
+
+AND: 
+
+INTERMECCANICA INTERNATIONAL
+INC., a corporation duly incorporated and validly subsisting under the laws
+of the Province of British Columbia, and having an address at 39 Braid Street,
+New Westminster, British Columbia, V3L 3P2 
+
+(“ Intermeccanica ”) 
+
+AND: 
+
+HENRY REISNER, an individual,
+and having an address at 2180 Chapman Way, North Vancouver, British Columbia,
+V7H 1W1 
+
+(“ Henry ”) 
+
+WHEREAS ElectraMeccanica carries on the business of the
+development, design, manufacturing, sale, service and support of electric
+vehicles (“ ElectraMeccanica’s Business ”); 
+
+AND WHEREAS Intermeccanica carries on the business of the
+development, design, manufacturing, sale, service and support of
+gasoline-powered vehicles (“ Intermeccanica’s Business ”); 
+
+AND WHEREAS ElectraMeccanica desires to retain Intermeccanica
+to assemble and produce electric vehicles and automotive-related products (the
+“ Assembled Products ”), which ElectraMeccanica will market and sell to
+wholesalers and consumers; 
+
+AND WHEREAS either (a) Intermeccanica intends to enter into a
+lease agreement with Cressey (Quebec Street) Development LLP (the
+“ Landlord ”) pursuant to which Intermeccanica will lease the premises
+located on the southeast corner of Quebec Street and West 1st Avenue, in
+Vancouver, British Columbia, as more particularly described in Schedule “A” to
+this Agreement (the “ Leased Premises ”), for the purposes of assembling
+and retailing automotive products, (b) Intermeccanica and ElectraMeccanica will
+enter into a lease agreement with the Landlord pursuant to which Intermeccanica
+and ElectraMeccanica will jointly lease the Leased Premises for the purposes of
+assembling and retailing automotive products or (c) Intermeccanica and
+ElectraMeccanica will each enter into separate leases with the Landlord for
+portions of the Leased Premises for the purposes of assembling and retailing
+automotive products;
+
+AND WHEREAS Henry is the principal of Intermeccanica. 
+
+THEREFORE this Agreement witness that in consideration of the
+mutual premises and covenants contained herein, and for other good and valuable
+consideration, the receipt and sufficiency of which are hereby acknowledged, the
+parties agree as follows: 
+
+1. 
+DEFINITIONS AND INTERPRETATION 
+
+1.1 In this
+Agreement, the following defined terms shall have the following meanings, unless
+the context otherwise requires: 
+
+- 2 - 
+
+(a) 
+
+“ Adverse Interest ” means any lien, charge,
+encumbrance, agreement, Legal Proceeding or other adverse challenge,
+claim, dispute, right or interest of any nature or kind whatsoever,
+including any civil, criminal, regulatory, administrative or third party
+challenge, claim, dispute, right or interest in and to the title,
+ownership, access, quiet possession, usage, or economic entitlements of or
+from the specified subject matter;
+
+(b) 
+
+“ BMO Security ” means the security registered by
+Bank of Montreal against Intermeccanica and its assets in the British
+Columbia Personal Property Registry under base registration number
+9401946;
+
+(c) 
+
+“ Closing Date ” means the first business day that
+is at least 30 days following the final determination of the Book Value of
+Intermeccanica’s assets in accordance with Section 5.4(b);
+
+(d) 
+
+“ Confidential Information or Materials ” means all
+information or data which may be delivered to or obtained by
+Intermeccanica or Henry and which relates, directly or indirectly, to
+ElectraMeccanica’s Business;
+
+(e) 
+
+“ Developments ” means all discoveries, inventions,
+designs, works of authorship, improvements and ideas (whether or not
+patentable or copyrightable) and legally recognized proprietary rights
+(including patents, copyrights, trade-marks, know-how and trade secrets),
+and all records and copies of records relating to the foregoing, that (i)
+result or derive from the assembly arrangement contemplated by Article 4
+or any other services provided by Intermeccanica to ElectraMeccanica,
+including from knowledge or use of the Confidential Information or
+Materials; (ii) are conceived or made by Intermeccanica (individually or
+in collaboration with others) during the term of this Agreement; and (iii)
+relate to ElectraMeccanica’s Business or to actual or demonstrably
+anticipated research and development by ElectraMeccanica;
+
+(f) 
+
+“ Governmental Authority ” means any government,
+parliament, legislature, or any regulatory authority, agency, commission
+or board of any government, parliament or legislature, or any court or any
+other law, regulation or rule-making entity (including any central bank,
+fiscal or monetary authority or authority regulating banks), having or
+purporting to have jurisdiction in the relevant circumstances, or any
+person acting or purporting to act under the authority of any of the
+foregoing (including any arbitrator);
+
+(g) 
+
+“ Legal Proceeding ” means any claim, demand,
+action, cause of action, litigation, suit, inquiry, investigation,
+complaint, grievance, notice, application, hearing, arbitration or other
+civil, criminal, regulatory or administrative proceeding or similar
+proceeding, by or before any court or regulatory or administrative agency,
+authority or tribunal and includes any judgments, decree, order or other
+ruling in respect thereof, any review or appeal thereof and any
+application for leave for review or appeal thereof;
+
+(h) 
+
+“ Occupancy Date ” means the date upon which
+Intermeccanica gains occupancy of the Leased Premises;
+
+(i) 
+
+“ Public Listing ” means the listing of any
+securities or share capital of ElectraMeccanica on any recognized public
+stock exchange through any means whatsoever, including by way of initial
+public offering, any form of prospectus offering, plan of arrangement, or
+reverse takeover, and further includes any transaction which results in
+the sale of all or any portion of the assets of ElectraMeccanica to any
+existing publically listed entity or through any course of transactions
+which results in such assets being held by an entity which is publically
+listed;
+
+(j) 
+
+“ Shares ” means, at the applicable time, all issued
+and outstanding shares of Intermeccanica; and
+
+(k) 
+
+“ Subleased Premises ” means a portion of the Leased
+Premises, equivalent to approximately one- half of the total floor area of
+the Leased Premises, as the parties will, if necessary, agree upon, acting
+reasonably.
+
+- 3 - 
+
+1.2 
+
+For the purposes of this Agreement, unless the context
+otherwise requires:
+
+(a) 
+
+Persons . A reference to an individual shall
+include corporations, partnerships, trusts and other business entities and
+vice versa; any reference to a particular gender shall include the
+opposite gender; and any reference to a particular form or type of
+business entity shall include all other forms and types of business
+entities interchangeably.
+
+(b) 
+
+Plurality . A reference to the singular in number
+shall include the plural and vice versa.
+
+(c) 
+
+Currency . A reference to currency shall refer to
+lawful currency of Canada.
+
+(d) 
+
+Calculation of Time . A reference to time shall
+refer to Pacific Time. A reference to a business day shall refer to a day
+on which banks are ordinarily open for business in Vancouver, British
+Columbia. If a date or the last day of a period for performing an act
+referred to herein ends on a day that is not a business day, the date or
+the last day of the period for performing such act shall be extended to
+the end of the first succeeding business day.
+
+(e) 
+
+Statutes and Laws . A reference to a statute or
+“laws” shall include all rules, regulations, notices, orders, policies and
+other instruments made pursuant thereto, and all amendments, re-enactments
+and replacements thereof from time to time.
+
+(f) 
+
+Divisions and Headings . The division of this
+Agreement into articles, sections, paragraphs and other sub-divisions, and
+the use of headings, is for convenience only and shall not affect the
+construction or interpretation, or be used to limit the effect, of any of
+the terms and conditions of this Agreement.
+
+(g) 
+
+Schedules . The schedules, appendices, exhibits and
+forms attached hereto and otherwise referred to herein are deemed to be
+incorporated herein and form part hereof.
+
+(h) 
+
+Herein, etc. The words “herein”, “hereunder” and
+“hereof” and words of similar import refer to this Agreement as a whole
+and not any particular article, section, paragraph or subdivision
+hereof.
+
+(i) 
+
+Ambiguity . The parties agree that each of them has
+participated in the drafting hereof and any rule of construction to the
+effect that any ambiguity is to be resolved against the drafting party
+shall not be applicable in the construction or interpretation of this
+Agreement.
+
+2. 
+REPRESENTATIONS AND WARRANTIES 
+
+2.1 Intermeccanica
+and Henry hereby jointly and severally represent and warrant to
+ElectraMeccanica, and acknowledge and agree that ElectraMeccanica is relying
+upon the accuracy of same in entering into this Agreement, that: 
+
+(a) 
+
+Intermeccanica is duly and validly formed, organized and
+subsisting and in good standing with respect to the filing of annual
+reports under the laws of the Province of British Columbia, and has all
+requisite corporate power, capacity and authority to own, lease and
+otherwise hold its assets and to otherwise carry on the Intermeccanica
+Business as presently conducted;
+
+(b) 
+
+British Columbia is the only jurisdiction in which the
+nature of Intermeccanica’s Business or the assets owned or leased by
+Intermeccanica makes such qualification necessary or where Intermeccanica
+owns or leases any material assets or conducts any material
+business;
+
+(c) 
+
+there is no bankruptcy, insolvency, liquidation,
+winding-up or other similar proceeding or any Legal Proceeding in
+progress, pending or threatened by or against Intermeccanica or its
+assets, Henry or the Shares before any court or regulatory or
+administrative agency, authority or tribunal;
+
+(d) 
+
+there are no outstanding securities, or rights to acquire
+securities, of Intermeccanica, except for the Shares as described in
+Schedule “B” of this Agreement, and all holders of such Shares
+are described in Schedule “B”. Such holders own all of the
+Shares as the beneficial owner with a good and marketable title, free and
+clear of all Adverse Interests;
+
+- 4 - 
+
+(e) 
+
+Intermeccanica does not own nor has it agreed to acquire,
+directly or indirectly, any of the outstanding shares or securities
+convertible into shares of any other corporation or any participating
+interest in any person;
+
+(f) 
+
+if Intermeccanica enters into a lease agreement with the
+Landlord for the Leased Premises as contemplated by paragraph (a) of the
+fourth recital to this Agreement, then Intermeccanica shall have the right
+to sublease all, or any portion, of the Leased Premises, as contemplated
+by this Agreement. Intermeccanica does not legally or beneficially own any
+real property, in whole or in part and other than any lease agreement with
+the Landlord and its existing lease for the premises civically known as 39
+Braid Street, New Westminster, British Columbia (the “ Existing
+Premises ”), Intermeccanica is not a party to or is bound, as lessee or
+sublessee, by any lease, sublease, license or other instrument relating to
+real property;
+
+(g) 
+
+Intermeccanica and Henry, as applicable, have the legal
+power, capacity and competence and has obtained all necessary approvals by
+its directors, shareholders, partners and others, including all
+Governmental Authorities and third parties (including the Landlord), and
+has taken all other necessary corporate and other actions and proceedings,
+to authorize the entering into and execution of this Agreement and the
+taking of all actions required pursuant hereto;
+
+(h) 
+
+this Agreement has been duly and validly executed by
+Intermeccanica and Henry and constitutes a legal, valid and binding
+obligation enforceable against Intermeccanica and Henry in accordance with
+its terms except that:
+
+(i) 
+
+enforceability may be limited by bankruptcy, insolvency
+or other laws affecting creditors’ rights generally;
+
+(ii) 
+
+rights of indemnity and contribution hereunder may be
+limited under applicable law;
+
+(iii) 
+
+equitable remedies, including the remedies of specific
+performance and injunctive relief, are available only in the discretion of
+the applicable court; and
+
+(iv) 
+
+a court may stay proceedings before them by virtue of
+equitable or statutory powers,
+
+and the entering into entering into and execution of this
+Agreement and the taking of all actions required pursuant hereto does not
+conflict with, or constitute a violation, default or breach under, or
+accelerate Intermeccanica’s or Henry’s obligations or revoke its rights
+and privileges under, as applicable, any term or provision of its
+constating documents; any resolutions of its directors, shareholders or
+partners; any laws applicable to it or any agreement to which it is bound;
+or any judgement, decree or order to which it is named or is
+bound;
+
+(i) 
+
+except for ElectraMeccanica’s rights pursuant to this
+Agreement, no person has any option, warrant, right, call, commitment,
+conversion right, right of exchange or other agreement or any right or
+privilege (whether by law, pre-emptive or contractual) capable of becoming
+an option, commitment, conversion right, right of exchange or other
+agreement for the purchase from Intermeccanica of any of its assets (other
+than in the ordinary course of business) or Shares;
+
+(j) 
+
+other than inventory in transit, all material tangible
+personal property of Intermeccanica is or will be located at the Leased
+Premises and the Existing Premises and is in good operating condition,
+repair and proper working order, having regard to its use and age, except
+only for reasonable wear and tear;
+
+(k) 
+
+Intermeccanica owns all of its assets as the beneficial
+owner with a good and marketable title, free and clear of all Adverse
+Interests (other than the BMO Security);
+
+- 5 - 
+
+(l) 
+
+Intermeccanica has performed all of its obligations
+required to be performed by it and is entitled to all of the benefits
+under any contract relating to Intermeccanica’s Business to which it is a
+party or by which it is bound. All such contracts are all in full force
+and effect unamended and no default exists on the part of Intermeccanica
+any other parties thereto and there exists no condition, event or act
+which, with the giving of notice or lapse of time or both, would
+constitute a default or breach of any contract to which Intermeccanica is
+a party to or bound. Intermeccanica is not a party to any contract
+relating to Intermeccanica’s Business with any non-arm’s length
+person;
+
+(m) 
+
+except for any intellectual property rights of Porsche AG
+or its affiliates, Intermeccanica has the exclusive right to use all of
+its intellectual property and has not granted any licence or other rights
+to any other person in respect of any of its intellectual property.
+Intermeccanica has not used or enforced, or failed to use or enforce, any
+of its intellectual property in any manner which could limit its validity
+or result in its invalidity. There has been no infringement or violation
+of Intermeccanica’s rights in and to its intellectual property or any
+trade secrets or confidential information, nor any claim of adverse
+ownership, invalidity or other opposition to or conflict with any of such
+intellectual property. Except to the extent that the conduct of
+Intermeccanica’s Business may infringe upon the intellectual property
+rights of Porsche AG or its affiliates, Intermeccanica is not and has not
+engaged in any activity that violates or infringes any intellectual
+property rights of any other person;
+
+(n) 
+
+Intermeccanica has all of its assets insured against loss
+or damage by all insurable hazards or risks on a replacement cost basis.
+Intermeccanica is not in default with respect to any of the provisions
+contained in any such insurance policy, has not failed to give any notice
+or present any claim under any such insurance policy in a timely fashion
+and has not received notice from any insurer denying any claim;
+
+(o) 
+
+Intermeccanica, Henry and all other shareholders of
+Intermeccanica have filed on a timely basis all tax returns required to be
+filed and all such tax returns are complete and accurate in all respects.
+All taxes due from or payable by Intermeccanica, Henry and all other
+shareholders of Intermeccanica have been or will be paid. All instalments
+or other payments on account of taxes that relate to periods for which tax
+returns are not yet due have been paid on a timely basis by
+Intermeccanica, Henry and all other shareholders of Intermeccanica.
+Intermeccanica has withheld, collected and paid to the proper Governmental
+Authorities all taxes required to have been withheld, collected and paid
+in connection with amounts paid, credited or owing to any employee,
+independent or dependent contractor, creditor, shareholder, non-resident
+of Canada or other third party and goods and services received from or
+provided to any person;
+
+(p) 
+
+Intermeccanica has complied, and Intermeccanica’s
+Business is now being conducted in compliance, with all laws applicable to
+the Business or its assets (including all environmental and privacy laws);
+and
+
+(q) 
+
+Intermeccanica has the personnel, expertise, know-how and
+equipment necessary to manufacture and supply the Assembled Products in
+accordance with applicable laws, rules and regulations and as contemplated
+by this Agreement.
+
+2.2 ElectraMeccanica
+hereby represents and warrants to Intermeccanica, and acknowledges and agrees
+that Intermeccanica is relying upon the accuracy of same in entering into this
+Agreement, that as at the date hereof: 
+
+(a) 
+
+ElectraMeccanica is duly and validly formed, organized
+and subsisting and in good standing with respect to the filing of annual
+reports under the laws of the Province of British Columbia, and has all
+requisite corporate power, capacity and authority to own, lease and
+otherwise hold its assets and to otherwise carry on ElectraMeccanica’s
+Business as presently conducted;
+
+(b) 
+
+there is no bankruptcy, insolvency, liquidation,
+winding-up or other similar proceeding or any Legal Proceeding in
+progress, pending or threatened by or against ElectraMeccanica before any
+court or regulatory or administrative agency, authority or
+tribunal;
+
+- 6 - 
+
+(c) 
+
+ElectraMeccanica has the legal power, capacity and
+competence and has obtained all necessary approvals by its directors,
+shareholders, partners and others, including all Governmental Authorities
+and third parties, and has taken all other necessary corporate and other
+actions and proceedings, to authorize the entering into and execution of
+this Agreement and the taking of all actions required pursuant hereto;
+and
+
+(d) 
+
+this Agreement has been duly and validly executed by
+ElectraMeccanica and constitutes a legal, valid and binding obligation
+enforceable against it in accordance with its terms except that:
+
+(i) 
+
+enforceability may be limited by bankruptcy, insolvency
+or other laws affecting creditors’ rights generally;
+
+(ii) 
+
+rights of indemnity and contribution hereunder may be
+limited under applicable law,
+
+(iii) 
+
+equitable remedies, including the remedies of specific
+performance and injunctive relief, are available only in the discretion of
+the applicable court; and
+
+(iv) 
+
+a court may stay proceedings before them by virtue of
+equitable or statutory powers,
+
+and the entering into and execution of this Agreement and the
+taking of all actions required pursuant hereto does not conflict with, or
+constitute a violation, default or breach under, or accelerate
+ElectraMeccanica’s obligations or revoke its rights and privileges under, as
+applicable, any term or provision of its constating documents; any resolutions
+of its directors, shareholders or partners; any laws applicable to it or any
+agreement to which it is bound; or any judgement, decree or order to which it is
+named or is bound. 
+
+2.3 The
+representations and warranties made by the parties and contained in this
+Agreement, or contained in any document or certificate given in order to carry
+out the transactions contemplated hereby, will survive the termination of this
+Agreement for the period of 60 months, notwithstanding any investigation made by
+or on behalf of the parties. 
+
+3. 
+LEASED PREMISES 
+
+3.1 Sublease.
+If Intermeccanica enters into a lease agreement with the Landlord for the
+Leased Premises as contemplated by paragraph (a) of the fourth recital to this
+Agreement, then concurrent with and conditional upon the execution and delivery
+of such lease agreement by the parties thereto, Intermeccanica hereby grants to
+ElectraMeccanica a sublease of the Subleased Premises on the terms contained
+herein. 
+
+3.2 Term.
+Subject to the applicable lease agreement with the Landlord, any sublease
+referred to in Section 3.1 shall commence on the Occupancy Date and extend for a
+term of sixty (60) months from the Occupancy Date, following which the parties
+may elect to extend the term on a month-to-month basis. 
+
+3.3 
+
+Rent. 
+
+(a) 
+
+In consideration for any sublease of the Subleased
+Premises as contemplated by Section 3.1 or if Intermeccanica and
+ElectraMeccanica enter into a lease agreement with the Landlord for the
+Leased Premises as contemplated by paragraph (b) of the fourth recital to
+this Agreement, ElectraMeccanica shall pay to Intermeccanica or to the
+Landlord directly an amount equivalent to 50% of the lease costs
+associated with the Leased Premises pursuant to the applicable lease,
+which costs include any strata fees, property taxes, utility fees and
+other charges associated with occupancy of the Leased Premises, up to a
+maximum amount of $4,000 per month or $48,000 per year. Subject to the
+applicable lease agreement with the Landlord, these amounts shall be
+payable by ElectraMeccanica to Intermeccanica or the Landlord in equal
+monthly instalments, with the first installment commencing on the
+Occupancy Date and each successive instalment being due on the date which
+is one (1) calendar month from the previous payment. In the event that
+Intermeccanica properly incurs expenses pursuant to the applicable lease
+agreement with the Landlord and which exceed the monthly installment
+amount, Intermeccanica shall notify ElectraMeccanica of these amounts and ElectraMeccanica
+shall promptly provide payment therefor. Intermeccanica shall promptly
+provide ElectraMeccanica with copies of all relevant statements with
+respect to the additional lease costs, together with the statement or
+statements, with appropriate computations, of such amounts, if
+any.
+
+- 7 - 
+
+(b) 
+
+ElectraMeccanica will also pay to Intermeccanica 25% of
+the lease costs associated with the Existing Premises pursuant to the
+applicable lease, which costs include any strata fees, property taxes,
+utility fees and other charges associated with occupancy of the Existing
+Premises. These amounts shall be payable by ElectraMeccanica to
+Intermeccanica in equal monthly instalments, with the first installment
+commencing on August 1, 2015 and each successive instalment being due on
+the date which is one (1) calendar month from the previous
+payment.
+
+3.4 Condition of
+the Leased Premises. If Intermeccanica enters into a lease agreement with
+the Landlord for the Leased Premises as contemplated by paragraph (a) of the
+fourth recital to this Agreement, then ElectraMeccanica will, prior to the
+Occupancy Date and on Intermeccanica’s reasonable request therefor, advance
+$10,000 to Intermeccanica to be used for improvement costs associated with the
+Subleased Premises or such other amount as the parties mutually agree, acting
+reasonably. All improvements made to the Subleased Premises shall require the
+approval of ElectraMeccanica, which such approval shall not be unreasonably
+withheld or delayed. 
+
+3.5 Covenants of
+ElectraMeccanica. ElectraMeccanica hereby convents with Intermeccanica that,
+during any period of time for which Intermeccanica and ElectraMeccanica are
+sharing the Leased Premises or the Existing Premises, ElectraMeccanica: 
+
+(a) 
+
+will observe and perform the covenants, provisions and
+conditions of Intermeccanica and ElectraMeccanica under any lease
+agreement with the Landlord or the landlord for the Existing Premises, as
+applicable;
+
+(b) 
+
+will not use the Leased Premises or the Existing Premises
+for any purposes other than the assembly, development, marketing and sale
+of automobiles and automotive related products and any services or
+operations ancillary thereto; and
+
+(c) 
+
+will not assign any lease or sublease for the Leased
+Premises or the Existing Premises, in whole or in part, nor sublet all or
+any part of the Leased Premises or the Existing Premises or permit such
+premises to be used or occupied by any other person without the prior
+written consent of Intermeccanica, which consent may be arbitrarily or
+unreasonably withheld for any reason whatsoever.
+
+3.6 Covenants of
+Intermeccanica. Intermeccanica hereby convents with ElectraMeccanica that,
+during any period of time for which Intermeccanica and ElectraMeccanica are
+sharing the Leased Premises or the Existing Premises, Intermeccanica: 
+
+(a) 
+
+will observe and perform the covenants, provisions and
+conditions of Intermeccanica and ElectraMeccanica under any lease
+agreement with the Landlord or the landlord for the Existing Premises, as
+applicable;
+
+(b) 
+
+will not use the Leased Premises or the Existing Premises
+for any purposes other than the assembly, development, marketing and sale
+of automobiles and automotive related products and any services or
+operations ancillary thereto; and
+
+(c) 
+
+will not assign any lease or sublease for the Leased
+Premises or the Existing Premises, in whole or in part, nor sublet all or
+any part of the Leased Premises or the Existing Premises or permit such
+premises to be used or occupied by any other person without the prior
+written consent of ElectraMeccanica, which consent may be arbitrarily or
+unreasonably withheld for any reason
+whatsoever.
+
+- 8 - 
+
+3.7 
+
+Indemnification. 
+
+(a) 
+
+ElectraMeccanica shall indemnify Intermeccanica and save
+it harmless from and against all claims, actions, damages, liabilities,
+costs and expenses in connection with loss of life, personal injury or
+damage to property arising from any occurrence on the Leased Premises or
+the Existing Premises, or the occupancy or use of the Leased Premises or
+the Existing Premises, or occasioned wholly or in part by an act or
+omission of ElectraMeccanica, its employees, agents, customers,
+contractors or other invitees, licensees or concessionaires or by anyone
+permitted by ElectraMeccanica to be on the Leased Premises or the Existing
+Premises or by any breach by ElectraMeccanica of its covenants, conditions
+or agreements under this Agreement or any lease agreement between
+ElectraMeccanica and the Landlord or the landlord for the Existing
+Premises.
+
+(b) 
+
+Intermeccanica shall indemnify ElectraMeccanica and save
+it harmless from and against all claims, actions, damages, liabilities,
+costs and expenses in connection with loss of life, personal injury or
+damage to property arising from any occurrence on the Leased Premises or
+the Existing Premises, or the occupancy or use of the Leased Premises or
+the Existing Premises, or occasioned wholly or in part by an act or
+omission of Intermeccanica, its employees, agents, customers, contractors
+or other invitees, licensees or concessionaires or by anyone permitted by
+Intermeccanica to be on the Leased Premises or the Existing Premises or by
+any breach by Intermeccanica of its covenants, conditions or agreements
+under this Agreement or any lease agreement between Intermeccanica and the
+Landlord or the landlord for the Existing
+Premises.
+
+4. 
+PRODUCT ASSEMBLY 
+
+4.1 Exclusivity.
+ElectraMeccanica hereby retains Intermeccanica to assemble the Assembled
+Products on behalf of ElectraMeccanica and, subject to Section 4.2, agrees that
+Intermeccanica will be the sole assembler of all Assembled Products marketed and
+sold by ElectraMeccanica. Intermeccanica hereby agrees to assemble the Assembled
+Products on behalf of ElectraMeccanica and agrees that Intermeccanica will not
+assemble any products for any other person that carries on a business that is
+the same as or similar to ElectraMeccanica’s Business. 
+
+4.2 Orders and
+Fulfillment . All requests for the assembly of Assembled Products shall be
+initiated by the issuance of purchase orders to Intermeccanica by
+ElectraMeccanica (“ Purchase Orders ”). Intermeccanica will have five
+business days from the delivery of each Purchase Order to accept or reject such
+Purchase Order. If Intermeccanica does not notify ElectraMeccanica of the
+acceptance or rejection of any Purchase Order within such five-day period then
+Intermeccanica will be deemed to have accepted such Purchase Order. If
+Intermeccanica rejects any Purchase Order for any reason, then ElectraMeccanica
+may elect to have the Assembled Products covered by such Purchase Order
+assembled by any other person.
+
+4.3 Assembly Fee.
+The parties acknowledge and agree that the Assembled Products will be
+assembled on a cost-plus basis, with a margin to be established at the time of
+production upon the mutual agreement of Intermeccanica and ElectraMeccanica,
+acting reasonably (plus all applicable taxes). Intermeccanica will invoice
+ElectraMeccanica for the total cost of production of a particular Assembled
+Product upon delivery of the Assembled Product to ElectraMeccanica and such
+invoice shall, subject to Section 4.5, be due and payable within 30 days after
+the date of such invoice (less any deposits or other instalments that may have
+been previously paid) regardless of the final sale of any Assembled Product to a
+consumer. Intermeccanica covenants to at all times use its best efforts to
+minimize all labour and materials costs associated with the assembly of the
+Assembled Products. In addition, Intermeccanica confirms and agrees that it has
+invested and will continue to invest in such processes and manufacturing and
+production infrastructure as are necessary to ensure the good quality of the
+Assembled Products and to ensure the timely delivery of all Assembled Products
+that are assembled under this Agreement. 
+
+4.4 Product
+Design. Prior to the production of any Assembled Product by Intermeccanica,
+ElectraMeccanica will, in or with the applicable Purchase Order, submit final
+drawings, specifications and schematics for that particular Assembled Product
+(the ” Specifications ”). Intermeccanica acknowledges and agrees that it
+will not make or cause or allow to be made any changes or modifications the
+Specifications without the prior written consent of ElectraMeccanica. 
+
+4.5 Lead Times and
+Delivery. Intermeccanica will assemble and deliver to ElectraMeccanica all
+Assembled Products that are covered by accepted Purchase Orders within the time
+prescribed by the applicable Purchase Orders. For the purposes of this Agreement, an Assembled
+Product will be considered to be delivered when it is delivered FOB in
+accordance with Incoterms® 2010 to ElectraMeccanica at the Leased Premises or to
+such other British Columbia address as ElectraMeccanica may advise
+Intermeccanica in writing from time to time. Unless otherwise agreed,
+Intermeccanica shall not assume any responsibility for delivery of Assembled
+Products to storage, wholesalers or consumers.
+
+- 9 - 
+
+4.6 Consent
+Required to Subcontract. Intermeccanica acknowledges and agrees that it may
+not subcontract the production of all or certain portions of the final Assembled
+Product to third-parties, or acquire various completed components from
+third-parties to be utilized in the final Assembled Product, without the prior
+written consent of ElectraMeccanica. 
+
+4.7 Warranty.
+Intermeccanica will manufacture and supply the Assembled Products in
+accordance with applicable laws, rules and regulations and as contemplated by
+this Agreement. Intermeccanica further acknowledges and agrees that each
+Assembled Product shall conform to the Specifications and be free from defects
+in workmanship, under normal use and service, for two full years after delivery.
+In the event of a non-conformance with any Specifications or a defect in
+workmanship in an Assembled Product or any part of an Assembled Product during
+the applicable warranty period, Intermeccanica, at the request of
+ElectraMeccanica to do so, will as soon as possible and at the sole cost and
+expense of Intermeccanica, repair, replace or otherwise make good, at
+Intermeccanica’s expense, the defective Assembled Product or part of the
+Assembled Product. 
+
+4.8 Termination by
+ElectraMeccanica. ElectraMeccanica reserves the right to terminate the
+assembly arrangement set forth in this Article 4 upon the delivery of ninety
+(90) days’ prior written notice to Intermeccanica, in which case
+ElectraMeccanica shall pay to Intermeccanica $1,000 for every production vehicle
+sold by ElectraMeccanica, or any direct or indirect subsidiary or affiliate of
+ElectraMeccanica, during the 18 months immediately following the effective date
+of the termination (the “ Royalties ”), up to a maximum amount of $500,000,
+which Royalties shall be paid by ElectraMeccanica to Intermeccanica on a monthly
+basis commencing with the month immediately following the effective date of
+termination of this Agreement and ending after the 19 th month
+following the effective date of termination of this Agreement. 
+
+4.9 Termination by
+Intermeccanica. Intermeccanica reserves the right to terminate the assembly
+arrangement set forth in this Article 4 on ninety (90) days written notice to
+ElectraMeccanica. On the effective date of such termination, Intermeccanica
+shall deliver to ElectraMeccanica any Assembled Products in progress at the
+time, along with any product design materials associated with any Assembled
+Products. 
+
+5. 
+BUY-OUT AGREEMENT 
+
+5.1 
+Interpretation. For the purposes of this Agreement, completion of a
+“ Public Listing ” shall be deemed to occur on the closing date of any
+transaction which is included in the definition of a Public Listing. 
+
+5.2 Put Option.
+At any time during the ninety (90) day period immediately following the
+completion by ElectraMeccanica of a Public Listing (the “ Put Option
+Period ”), either Henry or ElectraMeccanica shall have the right to cause
+ElectraMeccanica or, at the option of ElectraMeccanica, a designee of
+ElectraMeccanica, to purchase all (but not less than all) of the Shares (the
+“ Put Option ”) from the holders of such Shares (the “ Vendors ”).
+
+5.3 Exercise
+Process. The Put Option may be exercised by Henry or ElectraMeccanica by
+delivering a written notice to the other within the Put Option Period. The
+parties acknowledge that the Put Option shall operate as an option only, and
+nothing shall require or entitle Henry or ElectraMeccanica to exercise or compel
+the exercise of the Put Option. The exercise of the Put Option shall be
+irrevocable once made.
+
+5.4 
+
+Purchase Price and Allocation. 
+
+(a) 
+
+The purchase price payable for the Shares as a
+consequence of the exercise of the Put Option (the “ Purchase
+Price ”) shall be the greater of $5,000,000 and the sum of:
+
+(i) 
+
+the book value of the assets of Intermeccanica as
+determined as of the date of the completion of the Public Listing and in
+accordance with Section 5.4(b) (the “ Book Value ”);
+plus
+
+- 10 - 
+
+(ii) 
+
+the proportion of the value imputed to ElectraMeccanica
+by the Public Listing (the “ Total Equity Value ”) determined in
+accordance with the following:
+
+(A) 
+
+20% of the first $10,000,000 in Total Equity Value;
+plus
+
+(B) 
+
+10% of the Total Equity Value between $10,000,000.01 and
+$30,000,000; plus
+
+(C) 
+
+5% of the Total Equity Value in excess of
+$30,000,000.
+
+(b) 
+
+The Book Value of the assets of Intermeccanica and the
+allocation of the Purchase Price to the Shares will be as agreed upon by
+Henry and ElectraMeccanica, acting honestly and in good faith, within 30
+days after the date of exercise of the Put Option, provided that Henry and
+ElectraMeccanica are able to agree upon the Book Value and allocation of
+the Purchase Price to the Shares within such 30-day period. If Henry and
+ElectraMeccanica are unable to agree upon the Book Value or the allocation
+of the Purchase Price to the Shares within 30 days after the date of
+exercise of the Put Option, then Henry and ElectraMeccanica will forthwith
+engage an independent chartered business valuator (the “ Valuator ”),
+at the equal expense of Henry and ElectraMeccanica, to determine the Book
+Value or the allocation of the Purchase Price to the Shares (as of the
+date of completion of the Public Listing), as applicable, in accordance
+with generally accepted accounting principles as soon possible and in any
+event within 60 days after the date of the engagement of the Valuator. Any
+Book Value or Purchase Price allocation determination in accordance with
+this Section 5.4(b), whether as a result of the agreement of Henry and
+ElectraMeccanica or the determination of the Valuator, will be final and
+binding on the parties (for certainty, there will be no appeal from such
+determination).
+
+5.5 
+
+Payment of the Purchase Price. 
+
+(a) 
+
+The Purchase Price shall be paid by ElectraMeccanica or
+its designee, as applicable, on the Closing Date by way of issuance to the
+Vendors of Common shares of ElectraMeccanica (the “ Consideration
+Shares ”) with an ascribed value in the amount of the Purchase Price,
+provided that, at the election of Henry to be made by written notice to
+ElectraMeccanica at least 15 days prior to the Closing Date, the Vendors
+shall be entitled to receive a minimum of $300,000 in the aggregate and a
+maximum of 50% of the Purchase Price in the aggregate, in cash (provided
+that the cash consideration shall not exceed 20% of ElectraMeccanica’s
+free cash on hand).
+
+(b) 
+
+Henry acknowledges and agrees, for himself and for every
+other Vendor, that:
+
+(i) 
+
+there are risks associated with the acquisition of the
+Consideration Shares;
+
+(ii) 
+
+any resale of the Consideration Shares by the Vendors
+will be subject to resale restrictions contained in the securities laws
+applicable to ElectraMeccanica, the Vendors and any proposed transferee
+and it is the responsibility of the Vendors to find out what those
+restrictions are and to comply with such restrictions before selling any
+of the Consideration Shares;
+
+(iii) 
+
+there may be material tax consequences to the Vendors of
+an acquisition or disposition of the Consideration Shares;
+
+(iv) 
+
+the Vendors consent to the placement of a legend or
+legends on any certificate or other document evidencing any of the
+Consideration Shares setting forth or referring to the restrictions on
+transferability and sale thereof pursuant to securities laws or applicable
+stock exchange escrow policies; and
+
+(v) 
+
+ElectraMeccanica has advised Henry that, in connection
+with the issuance of the Consideration Shares, ElectraMeccanica may need
+to rely on an exemption from the requirements to provide the Vendors with
+a prospectus under provincial securities laws and other applicable
+securities laws.
+
+- 11 - 
+
+5.6 Conditions
+Precedent to Closing. The obligation of ElectraMeccanica or its designee to
+complete the purchase of the Shares upon the exercise of the Put Option will be
+subject to the following conditions being satisfied or waived in writing by
+ElectraMeccanica or its designee on or before the Closing Date:
+
+(a) 
+
+the purchase of the Shares and the payment of the
+Purchase Price will not, in the reasonable opinion of ElectraMeccanica or
+its designee, constitute a violation of any law, stock exchange
+rules/policies or of any contract or agreement to which ElectraMeccanica
+or its designee is a party to or bound (including any credit or financing
+agreements) or if such purchase or payment would render ElectraMeccanica
+or its designee insolvent;
+
+(b) 
+
+the representations and warranties of Intermeccanica and
+Henry made in or pursuant to this Agreement will be true and accurate with
+the same force and effect as though such representations and warranties
+had been made as of the Closing Date. In addition, Intermeccanica and
+Henry will have complied with all covenants and agreements in this
+Agreement to be performed or caused to be performed by them at or prior to
+the Closing Date;
+
+(c) 
+
+between the date of this Agreement and the Closing Date
+there will not have been:
+
+(i) 
+
+any material adverse change in any of the Shares,
+Intermeccanica’s assets or the financial condition, earnings, results of
+operations or prospects of Intermeccanica’s Business that has, or
+threatens to have, a material adverse effect on the Shares,
+Intermeccanica’s assets or the financial condition, earnings, results of
+operations or prospects of Intermeccanica’s Business or which might
+materially adversely affect the ability of ElectraMeccanica or its
+designee to carry on Intermeccanica’s Business after the Closing Date
+substantially as Intermeccanica’s Business is being conducted upon the
+date of this Agreement; or
+
+(ii) 
+
+any damage, destruction or loss, or other event,
+development or condition of any character (whether or not covered by
+insurance) which would have a material adverse effect on the Shares,
+Intermeccanica’s assets or Intermeccanica’s
+Business;
+
+(d) 
+
+between the date of this Agreement and the Closing Date,
+no law, rule or policy will have been made, and no action or proceeding
+(including a Legal Proceeding) will be pending or threatened, which is
+likely to result in an order, decision or ruling imposing any limitations
+or conditions which may have a material adverse effect on the Shares,
+Intermeccanica’s assets or the right of ElectraMeccanica or its designee
+to own the Shares or conduct Intermeccanica’s Business after closing on
+substantially the same basis as heretofore conducted;
+
+(e) 
+
+as of the Closing Date, no action or proceeding
+(including a Legal Proceeding) will be pending or threatened by any person
+to enjoin, restrict or prohibit any of the transactions contemplated
+hereby or the right of ElectraMeccanica or its designee to own the Shares
+or conduct Intermeccanica’s Business after closing on substantially the
+same basis as heretofore conducted;
+
+(f) 
+
+by the Closing Date, all filings, notifications and
+consents with, to or from Governmental Authorities and third parties
+required to permit the change of ownership of the Shares contemplated
+hereby without resulting in the violation of or a default under or any
+termination, amendment or acceleration of any obligation under any permit
+or material contract affecting Intermeccanica’s Business or otherwise
+materially adversely affecting Intermeccanica’s assets or Intermeccanica’s
+Business, will have been made, given or obtained on terms acceptable to
+ElectraMeccanica or its designee;
+
+(g) 
+
+by the Closing Date, Intermeccanica and Henry will have
+delivered, or caused to be delivered, to ElectraMeccanica or its designee,
+duly executed releases, in registrable form where applicable, or evidence
+to the satisfaction of ElectraMeccanica or its designee as to the
+discharge of all Adverse Interests against the Shares and Intermeccanica’s
+assets (including the BMO Security); and
+
+(h) 
+
+on or before the Closing Date, Intermeccanica and Henry
+will have delivered, or cause to be delivered, to ElectraMeccanica or its
+designee, the following documents and instruments in form and substance
+satisfactory to ElectraMeccanica or its designee, acting
+reasonably:
+
+- 12 - 
+
+(i) 
+
+a bringdown certificate of Intermeccanica and Henry
+confirming that (A) the representations and warranties of Intermeccanica
+and Henry set forth in this Agreement (and Section 2.1 in particular) are
+true and accurate in all material respects at the Closing Date with the
+same force and effect as though such representations and warranties had
+been made as of the Closing Date and (B) Intermeccanica and Henry have
+complied in all material respects with all covenants and agreements herein
+agreed to be performed by them at or prior to the Closing Date;
+
+(ii) 
+
+certified copies of all necessary resolutions,
+authorizations and proceedings of the Vendors and Intermeccanica that are
+required to be taken or obtained to permit the due and valid transfer and
+registration of the Shares to and in the name of ElectraMeccanica or its
+designee;
+
+(iii) 
+
+all share certificates representing the Shares endorsed
+for transfer to ElectraMeccanica or its designee (or, alternatively,
+instruments of transfer of the Shares from the Vendors in favour of
+ElectraMeccanica or its designee);
+
+(iv) 
+
+a duly issued share certificate representing the Shares
+registered in the name of ElectraMeccanica or its designee;
+
+(v) 
+
+resignations and general releases of claims from each of
+the directors and officers of Intermeccanica;
+
+(vi) 
+
+the minute books and other books and records of
+Intermeccanica; and
+
+(vii) 
+
+such other documents and instruments as are reasonably
+required by ElectraMeccanica or its designee or their
+solicitors.
+
+5.7 Additional
+Terms and Conditions of Closing . The terms and conditions set out below will
+apply to the completion of the purchase and sale of the Shares resulting from
+the exercise of the Put Option in accordance with this Article 5:
+
+(a) 
+
+the closing date will be the Closing Date;
+
+(b) 
+
+the closing will take place at 10:00 a.m. on the Closing
+Date at the office of ElectraMeccanica’s solicitors or such other time or
+place as the parties may otherwise agree, provided that the closing may
+occur on the basis of an exchange of solicitors’ undertakings between the
+parties’ solicitors in lieu of a physical closing;
+
+(c) 
+
+all cash amounts payable in respect of the Purchase Price
+will be paid on the Closing Date in Canadian funds by way of wire
+transfer, bank draft, certified cheque, cashier’s cheque or other means of
+immediately available funds;
+
+(d) 
+
+each party will, from time to time, before, on and after
+Closing Date, execute, acknowledge and deliver, or cause to be executed,
+acknowledged and delivered, all further documents and instruments, and
+will do and cause to be done all such further acts and things, as the
+other party may reasonably require to give full effect to the purchase and
+sale of the Shares as contemplated by this Article 5; and
+
+(e) 
+
+time will be of the essence.
+
+5.8 No Assumption
+of Liabilities, Warranties or Employees/Employment Obligations. The parties
+acknowledge and agree that ElectraMeccanica or its designee shall not, directly
+or indirectly, assume, and will not be obligated by this Agreement or any other
+document, instrument or agreement delivered pursuant to this Agreement to pay,
+perform, discharge or otherwise be responsible for, any debts, liabilities or
+obligations (including warranties of any kind) of Intermeccanica or
+Intermeccanica’s Business, whether accrued, absolute, contingent or otherwise,
+oral or written, disclosed or undisclosed. For certainty and without limiting
+the generality of the foregoing, following the Closing Date, ElectraMeccanica or its
+designee may at its option cause Intermeccanica to terminate the employment of
+any employees of Intermeccanica, which such employees (and any associated debts,
+liabilities or obligations, including severance) Henry will be solely
+responsible for. In furtherance of the foregoing, Henry shall indemnify and hold
+harmless ElectraMeccanica, Intermeccanica and ElectraMeccanica’s and
+Intermeccanica’s affiliates, subsidiaries, directors, officers, shareholders,
+employees and agents (collectively, the “ Indemnified Parties ”) from and
+against any and all loss, liability, damage, cost or expense arising out of any
+claim or lawsuit, actual or threatened, which the Indemnified Parties or any of
+them may suffer, sustain or become subject to, as a result of, or in connection
+with any debts, liabilities or obligations (including warranties of any kind) of
+Intermeccanica or Intermeccanica’s Business, whether accrued, absolute,
+contingent or otherwise, oral or written, disclosed or undisclosed, that are
+existing as of the Closing Date. 
+
+- 13 - 
+
+5.9 Tax
+Matters . ElectraMeccanica shall cooperate with the Vendors in structuring
+the transfer of the Shares to ElectraMeccanica or its designee pursuant to the
+Put Option so that the transaction may be structured tax-efficiently from the
+standpoint of the Vendors, provided that in the reasonable opinion of
+ElectraMeccanica there are no associated material adverse consequences to
+ElectraMeccanica or its designee to doing so. 
+
+5.10 Ownership of
+Name . Should at any time following the Closing Date ElectraMeccanica cease
+carrying on ElectraMeccanica’s Business, ElectraMeccanica agrees, to the extent
+of its authority and capability, to permit Henry or his designee to use the name
+“Intermeccanica International Inc.” and any variant thereof.
+
+6. 
+CONFIDENTIALITY 
+
+6.1 The parties
+acknowledge and agree that this Agreement, the transactions contemplated herein
+and all technical and other information concerning the activities contemplated
+herein otherwise directly or indirectly learned by the party shall be treated as
+confidential information, and the parties shall not copy, transmit, publish or
+otherwise disclose, disseminate or use such information, including use in
+violation of insider trading, tipping and other provisions of applicable
+securities laws, without the express written consent of the parties hereto,
+unless: 
+
+(a) 
+
+such information is or becomes available to the public
+other than by way of a breach of the confidentiality obligation hereunder;
+or
+
+(b) 
+
+such disclosure is required by applicable laws or the
+regulatory requirements, in which case Section 6.2 shall
+apply.
+
+6.2 Subject to the requirements of applicable securities laws
+and regulatory authorities, including the requirements of any recognized
+exchange or market having jurisdiction over a respective party to this
+Agreement, no party shall make any public disclosure (including press releases)
+concerning this Agreement, or the transactions contemplated herein, without the
+express written consent of the other party, which consent shall not be
+unreasonably withheld. The party issuing any such public disclosure shall
+provide reasonable notice to and shall use reasonable efforts to consult with
+and accommodate comments from the other parties prior to issuing any such public
+disclosure, and if the disclosure is required and the parties cannot agree to
+the content thereof within two business days, the party making the disclosure
+shall only make such public disclosure as is legally required or is otherwise
+reasonable in the circumstances.
+
+7. 
+FORCE MAJEURE 
+
+7.1 Events.
+Notwithstanding any other provisions contained herein, a party will not be
+liable for its failure to perform any of its obligations under this Agreement
+due to a cause beyond its control (except those caused by its own lack of
+funds), including (a) fire, flood, explosions and other acts of God; (b) war;
+(c) protests, demonstrations or other events causing work stoppages by
+environmental lobbyists, non-governmental organizations or local community
+groups; (d) strikes, lockouts or other industrial disturbances; or (e) laws,
+rules, regulations or orders of any duly constituted court or Governmental
+Authority (each, an “ Intervening Event ”). 
+
+7.2 Effect of
+Intervening Events. All time limits imposed by this Agreement (other than
+for the payment of monies) will be extended by a period equivalent to the period
+of delay resulting from an Intervening Event described in Section 7.1. 
+
+- 14 - 
+
+7.3 Obligation to
+Remove Intervening Events. A party relying on the provisions of this Article
+7 will take all commercially reasonable steps to eliminate any Intervening Event
+and, if possible, will perform its obligations under this Agreement as far as
+practical, but nothing herein will require such party to settle or adjust any
+labour dispute or to question or test the validity of any law, rule, regulation
+or order of any duly constituted court or Governmental Authority or to complete
+its obligations under this Agreement if an Intervening Event renders completion
+impossible. 
+
+7.4 Giving Notice.
+A party relying on the provisions of this Article 7 will give notice to the
+other party forthwith upon the occurrence of the Intervening Event and upon the
+end of the period of delay when such Intervening Event has been eliminated or
+rectified. 
+
+8. 
+ARBITRATION 
+
+8.1 Subject to
+Section 5.4(b), any dispute, controversy or claim arising out of or relating to
+this Agreement or the breach, termination or invalidating thereof, shall be
+settled by arbitration of a single arbitrator pursuant to the Arbitration
+Act (British Columbia) and the rules of the British Columbia International
+Commercial Arbitration Centre in Vancouver, BC. The place of arbitration shall
+be Vancouver, BC and the language of the arbitration shall be English. The
+parties waive any rights under any applicable law to appeal any arbitration
+proceedings or award. 
+
+9. 
+TERMINATION 
+
+9.1 This Agreement
+shall automatically terminate upon the completion of the purchase and sale of
+the Shares pursuant to the Put Option. Otherwise, this Agreement may only be
+terminated by written agreement of ElectraMeccanica and Intermeccanica, unless
+otherwise provided for herein.
+
+9.2 On termination of
+this Agreement, ElectraMeccanica shall remain liable for the costs associated
+with the completion of any Assembled Products which are in process at the time
+of termination, along with all costs and expenses incurred, accrued or paid, by
+Intermeccanica, in connection with the production of such Assembled Products up
+to and include the date of termination.
+
+9.3 Promptly after
+termination of this Agreement, the parties shall take all commercially
+reasonable actions necessary to wind up the activities of the joint operation
+contemplated herein. Without limiting the generality of the foregoing,
+Intermeccanica shall make all commercially reasonable efforts to complete any
+Assembled Products which are in process at the time of termination, and will
+promptly invoice ElectraMeccanica for all costs and expenses incurred, accrued
+or paid in connection with such efforts. 
+
+9.4 Sections 3.7,
+4.7, 11.2, 11.3, 11.4, 11.5, 11.6 and 12.1 and Articles 6, 8, 9 and 12 of this
+Agreement shall survive any termination of this Agreement. 
+
+10. 
+OTHER PROPERTY/RELATIONSHIP MATTERS 
+
+10.1 No Partnership;
+Other Activities and Interests. The parties expressly acknowledge and agree
+to and with each other that: 
+
+(a) 
+
+they have not created a partnership and nothing contained
+herein will constitute either party the partner, agent or legal
+representative of the other party, or create any fiduciary relationship
+between them for any purpose whatsoever;
+
+(b) 
+
+no party will have any authority to act for, or to assume
+any obligation or responsibility on behalf of, any other party except as
+otherwise expressly provided herein; and
+
+(c) 
+
+this Agreement and the rights and obligations of the
+parties hereunder are strictly limited to the activities contemplated
+herein, and save as herein specifically set out (and in particular
+Sections 11.1 and 11.2) , and without limiting the generality of this
+Section 10.1, each party will have the free and unrestricted right to
+enter into, conduct and benefit from business ventures and activities of
+any kind whatsoever, without disclosing such activities or information to
+the other party, or inviting or allowing the other party to
+participate.
+
+- 15 - 
+
+11. 
+COVENANTS OF THE PARTIES 
+
+11.1 
+
+From the date of this Agreement until the termination of
+this Agreement in accordance with Article 9:
+
+(a) 
+
+Intermeccanica will conduct Intermeccanica’s Business
+only in the ordinary course of business consistent with past practice and
+neither Intermeccanica nor Henry will, without the prior written consent
+of ElectraMeccanica, enter into any transaction or refrain from doing any
+action that would constitute a breach of any representation, warranty,
+covenant or other obligation of Intermeccanica or Henry contained herein,
+and provided further that, without limiting the generality of the
+foregoing, neither Intermeccanica nor Henry will transfer, lease, license,
+sell or otherwise dispose of, or cause or permit any of the foregoing to
+occur with respect to, any of the Shares or Intermeccanica’s assets,
+except for inventory, or permit any Adverse Interest (other than the BMO
+Security) to attach to or affect any of Intermeccanica’s assets or the
+Shares, other than in the ordinary course of business consistent with past
+practice;
+
+(b) 
+
+Intermeccanica will carry on Intermeccanica’s Business in
+compliance with laws and perform its obligations under all contracts and
+permits in respect of Intermeccanica’s Business or its assets;
+
+(c) 
+
+Intermeccanica will continue to maintain in full force
+and effect all policies of insurance or renewals now in effect, and will
+take out, at the expense of ElectraMeccanica, such additional insurance as
+may be reasonably requested by ElectraMeccanica, and will give all notices
+and present all claims under all policies of insurance in a timely
+fashion;
+
+(d) 
+
+Intermeccanica will use commercially reasonable efforts
+to preserve intact Intermeccanica’s Business and its assets and to carry
+on Intermeccanica’s Business as currently conducted, and to promote and
+preserve for ElectraMeccanica the goodwill of suppliers, customers and
+others having business relations with Intermeccanica;
+
+(e) 
+
+Intermeccanica will pay and discharge the liabilities of
+Intermeccanica relating to Intermeccanica’s Business in the ordinary
+course in accordance and consistent with the past practice of
+Intermeccanica; and
+
+(f) 
+
+Intermeccanica will not take any action, directly or
+indirectly, to encourage, initiate or engage in discussions or
+negotiations with, or provide any information to any person, other than
+ElectraMeccanica, concerning any merger, sale of substantial assets or
+shares or similar transaction involving Intermeccanica’s
+Business.
+
+11.2 Intermeccanica and Henry
+agree that, during the term of this Agreement and for a period of 24 months
+after the end of the term of this Agreement (the “ Restricted Period ”),
+neither Intermeccanica nor Henry will, directly or indirectly, either
+individually or in conjunction with any other person or persons, partnership,
+corporation or trust (whether as employee, principal, agent, shareholder,
+consultant or in any other capacity whatsoever), carry on business as, be
+engaged by, or work for a business that competes with ElectraMeccanica’s
+Business in Canada or the United States. Intermeccanica and Henry further agree
+that, during the Restricted Period, neither Intermeccanica nor Henry will,
+without the prior written consent of ElectraMeccanica, either alone or jointly
+with or on behalf of any person or entity, directly or indirectly solicit any
+person who, at the applicable time, is an employee or independent contractor of
+ElectraMeccanica, for the purpose of inducing him, her or it to terminate his,
+her or its employment or contract for services with ElectraMeccanica. 
+
+11.3 ElectraMeccanica agrees
+that, during the Restricted Period, ElectraMeccanica will not, directly or
+indirectly, either individually or in conjunction with any other person or
+persons, partnership, corporation or trust (whether as employee, principal,
+agent, shareholder, consultant or in any other capacity whatsoever), carry on
+business as, be engaged by, or work for a business that competes with
+Intermeccanica’s Business in Canada or the United States. ElectraMeccanica
+further agrees that, during the Restricted Period, ElectraMeccanica will not,
+without the prior written consent of Intermeccanica, either alone or jointly
+with or on behalf of any person or entity, directly or indirectly solicit any
+person who, at the applicable time, is an employee or independent contractor of
+Intermeccanica, for the purpose of inducing him, her or it to terminate his, her
+or its employment or contract for services with Intermeccanica. 
+
+- 16 - 
+
+11.4 The parties
+acknowledges that the restrictions contained in Sections 11.2 and 11.3 are
+reasonable and necessary to protect the legitimate interests of ElectraMeccanica
+and Intermeccanica, respectively, that the parties would not have entered into
+this Agreement in the absence of such restrictions and that any violation of any
+provision Section 11.2 or 11.3 could result in irreparable injury to
+ElectraMeccanica or Intermeccanica, as applicable. Accordingly, each of the
+parties agrees that, in the event that such party violates any of the
+restrictions referred to in Section 11.2 or 11.3, as applicable, the other party
+will be entitled to such injunctive relief or other remedies at law or in equity
+which the court deems fit.
+
+11.5 All Developments will be the
+exclusive property of ElectraMeccanica and ElectraMeccanica will have sole
+discretion to deal with Developments. Intermeccanica agrees that no intellectual
+property rights in the Developments are or will be retained by Intermeccanica.
+For greater certainty, all work done during the term of this Agreement (or
+during any other periods in which Intermeccanica provides services to
+ElectraMeccanica) is the sole property of ElectraMeccanica as the first author
+for copyright purposes and in respect of which all copyright will vest in
+ElectraMeccanica. Intermeccanica will do all further things that may be
+reasonably necessary or desirable in order to give full effect to this Section
+11.5. Without limiting the generality of the foregoing, if Intermeccanica’s
+cooperation is required in order for ElectraMeccanica to obtain or enforce legal
+protection of the Developments, Intermeccanica will provide that cooperation so
+long as ElectraMeccanica pays to Intermeccanica reasonable compensation for
+Intermeccanica’s time at a rate to be agreed between Intermeccanica and
+ElectraMeccanica.
+
+11.6 Intermeccanica
+acknowledges that it may become aware of “personal information” (as such term is
+defined in the Personal Information Protection Act (British Columbia) or
+analogous, applicable legislation) which is collected, used or disclosed by
+ElectraMeccanica or transferred to ElectraMeccanica. Intermeccanica hereby
+agrees and covenants with ElectraMeccanica that Intermeccanica will not, without
+the prior written consent of ElectraMeccanica, disclose or make available such
+personal information to any other person or entity except in accordance with
+ElectraMeccanica’s instructions. Furthermore, and without limiting the
+generality of the foregoing, Intermeccanica agrees that the personal information
+of others provided to it by ElectraMeccanica will only be used for such purposes
+as are specified herein and that ElectraMeccanica will not sell, trade, barter,
+disclose or transfer such personal information to any other party except with
+the prior written consent of ElectraMeccanica.
+
+11.7 The parties acknowledge and
+agree that they have approached and negotiated this Agreement and the documents
+and instruments to be delivered pursuant to this Agreement or in connection with
+the transactions contemplated by this Agreement in good faith and that they will
+continue to act in such manner. In particular and without limiting the
+generality of the foregoing, the parties agree to cooperate fully in good faith
+with each other and their respective representatives in connection with any
+steps required to be taken as part of their respective obligations under this
+Agreement. 
+
+11.8 Intermeccanica will,
+throughout the term of this Agreement, at its own cost and expense, take out and
+maintain in place errors and omissions and product liability insurance with such
+coverage limits and deductibles and with such reputable insurers as are directed
+by ElectraMeccanica from time to time and ElectraMeccanica will be a named
+insured under each such policy of insurance. Such insurance will specify that
+the insurer must provide ElectraMeccanica with at least thirty (30) days prior
+written notice of any proposed cancellation or suspension of or change to such
+insurance. Intermeccanica will provide evidence to ElectraMeccanica of
+Intermeccanica’s compliance with this obligation from time to time whenever
+requested by ElectraMeccanica. 
+
+12. 
+NOTICES 
+
+12.1 Any notice, communication or
+delivery required or permitted to be given shall be in writing and effected by
+personal delivery, facsimile (with electronic confirmed receipt) or by prepaid
+mail to: 
+
+(a) 
+
+If to ElectraMeccanica, at:
+
+ElectraMeccanica Vehicles Corp. 
+Suite 1102, 328 East
+11th Avenue 
+Vancouver, BC V5T 4W1 
+Attention:
+President
+
+- 17 - 
+
+(b) 
+
+If to Intermeccanica or Henry, at:
+
+Intermeccanica International Inc. 
+39 Braid Street
+
+New Westminster, BC V3L 3P2 
+Attention: Henry
+Reisner
+
+and such shall be deemed to have been given (i) if effected by
+personal delivery or by email, at the time of confirmed delivery unless such
+occurs after the recipient’s customary business hours in which case it shall be
+deemed to have been given on the next business day; and (ii) if effected by
+prepaid mail, on the fourth business day after mailing excluding all days on
+which postal service is disrupted.
+
+13. 
+GENERAL 
+
+13.1 International Sale of
+Goods Act . The International Sale of Goods Act (British Columbia) and
+the United Nations Convention on Contracts for the International Sale of Goods
+(1980) will not apply in any way to this Agreement or to the transactions
+contemplated by this Agreement or otherwise to create any rights or to impose
+any duties or obligations on any party to this Agreement. Any rights which have
+arisen or which might in the future arise under the International Sale of
+Goods Act (British Columbia) or the United Nations Convention on Contracts
+for the International Sale of Goods (1980) are waived and released by all
+parties to this Agreement. 
+
+13.2 Fees and Expenses.
+Each of the parties hereto shall bear all expenses incurred by such party in
+connection with the preparation and fulfillment of this Agreement, including the
+fees and expenses of their legal counsel, accountants, financial and investment
+advisors, brokers and finders. 
+
+13.3 Entire Agreement and
+Further Assurances. This Agreement constitutes the entire agreement of the
+parties with respect to the subject matter hereof. The parties shall from time
+to time prior to or after the execution and delivery of this Agreement execute
+and deliver any and all such instruments and other documents and perform any and
+all such acts and other things as may be necessary or desirable to carry out the
+provisions and intent of this Agreement.
+
+13.4 Amendments and
+Waivers. Any amendments hereto or waivers in respect hereof shall only be
+effective if made in writing and executed by the parties thereto. No waiver
+shall constitute a waiver of any other provision or act as a continuing waiver
+unless such is expressly provided for. 
+
+13.5 Invalidity and
+Limitation. The invalidity or unenforceability of any provision hereof shall
+not affect or impair the validity or enforceability of the remainder of the
+Agreement or any other provision hereof. In the event that any provision hereof
+is invalid or unenforceable in a given jurisdiction, that shall not affect the
+validity or enforceability of the provision in any other jurisdiction.
+
+13.6 Time of the Essence.
+Subject to Article 7, time is of the essence of this Agreement.
+
+13.7 Remedies Cumulative.
+The rights and remedies of the parties under this Agreement are cumulative
+and in addition to and not in substitution for any rights or remedies provided
+by law. Any single or partial exercise by any party hereto of any right or
+remedy for default or breach of any term, covenant or condition of this
+Agreement does not waive, alter, affect or prejudice any other right or remedy
+to which such party may be lawfully entitled for the same or other default or
+breach. 
+
+13.8 Governing Law.
+This Agreement shall be exclusively governed by and construed in accordance
+with the laws of British Columbia and the laws of Canada applicable therein.
+
+13.9 Assignment
+and Enurement. This Agreement and any rights herein or
+hereto shall not be assigned or otherwise transferred by any party hereto
+without the express written consent of the other party hereto. This Agreement
+shall enure to the benefit of and be binding upon the parties hereto and their
+respective successors and permitted assigns. 
+
+- 18 - 
+
+13.10 Counterparts and Delivery.
+This Agreement may be executed and delivered in two or more counterparts and
+by facsimile. Each such counterpart and facsimile shall be deemed to form one
+and the same and an originally executed instrument, bearing the date set forth
+on the face page hereof notwithstanding the date of execution or delivery. 
+
+13.11 Joint and Several . All
+representations, warranties, covenants, agreements, liabilities and obligations
+entered into or imposed upon either Intermeccanica or Henry hereunder will be
+deemed to be both joint and several as among Intermeccanica and Henry. 
+
+IN WITNESS WHEREOF the parties hereto have executed these
+presents as of the day and year first above written. 
+
+ELECTRAMECCANICA VEHICLES CORP.
+
+Per: 
+/s/
+Jerry Kroll 
+
+Authorized Signatory 
+
+INTERMECCANICA INTERNATIONAL INC.
+
+Per: 
+/s/
+Henry Reisner 
+
+Authorized Signatory 
+
+/s/ Jerry Kroll 
+
+/s/
+Henry Reisner 
+
+Witness 
+
+Henry Reisner 
+
+SCHEDULE “B” 
+
+EXISTING SHAREHOLDERS AND SHARE OWNERSHIP OF INTERMECCANICA
+
+See attached.

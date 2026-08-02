@@ -1,0 +1,365 @@
+Sales Contract 
+
+Exhibit 10.33
+
+**** INDICATES CONFIDENTIAL MATERIAL OMITTED PURSUANT TO A REQUEST FOR CONFIDENTIAL TREATMENT AND FILED WITH THE SECURITIES AND
+EXCHANGE COMMISSION SEPARATELY WITH A REQUEST FOR CONFIDENTIAL TREATMENT. 
+SALES CONTRACT 
+
+Contract No.: 2010-JKWH-0526-0090 
+This sales contract (“Contract”) is entered into on,
+May 31 th 2010 (“Signing Date”) in Shanghai,
+PRC. 
+Between: 
+
+(1) 
+Zhejiang Jinko Solar Co., LTD. (Hereinafter referred to as the “Seller”) 
+
+Address: NO.58# Yuan Xi Road, Technical Functional Zone, Yuan Hua Town Haining, 
+
+Zhejiang, China 
+
+Tel: +86-573-87637160 
+Fax: +86-573-87985677 
+
+(2) 
+Up Solar Co., Ltd. (Hereinafter referred to as the “Buyer”) 
+
+Address: Silver Centre 19F 1388# North Shanxi Rd. Shanghai China 
+Fax:
+(+86) 21 6277 5664 
+Tel: (+21) 21 6277 5477 
+(The Seller or the Buyer hereinafter referred to individually as a “Party” and collectively as the “Parties”) 
+The Buyer and the Seller agree to conduct the following transactions according to the terms and conditions stipulated below: 
+
+1. 
+Product Description 
+
+From the Execution Date hereof to June 30 th 2011 (“Contract Period”), the Buyer agrees to buy from the Seller and the Seller agrees to sell the products
+(“Products”) to the Buyer as set out below. 
+
+Item 
+
+Description 
+of Products 
+
+UNIT 
+Price
+FOB 
+SHANGHAI 
+(Euro/wp) 
+
+Quantity 
+(in MW) 
+
+(Time) 
+
+1. 
+
+180w,185w&190w mono panel with 72pcs 
+
+**** 
+
+**** 
+
+2010.6-2011.6.30 
+
+2. 
+
+220w,225w,230w,235w &240 poly panel with 60 pcs 
+
+**** 
+
+**** 
+
+2010.6-2011.6.30 
+
+**** 
+Confidential material omitted and filed separately with the Commission. 
+
+1 
+
+Remark 
+
+3. The products hereof are branded as the buyer, OEM. 
+
+4. The price for this June is FOB shanghai ****Euro/wp of mono, **** Euro/wp of poly, the price shall be negotiated monthly while the fluctuation of the market price is
+over ****% of the bench mark price hereof, and the pattern shall be confirmed by parties in July 2010 or will be confirmed by supplementary agreement. 
+
+5. Producing arrangement:1) ****MW/month from June to November 2010; 2) ****MW/month from December 2010 to January 2011; 3) ****MW/month from February to June 2011;
+yearly total as 60MW. The proportion of mono and poly panel is 30%:70% for June and July this year, and 20%:80%from August to the end hereunder. 
+
+6. Material list see the Appendix A, any changing of the material, the price of the panels shall be changed according the cost of the material. 
+
+(Total Amount): **** 
+(Euro:****) 
+
+2. 
+Product Technical Specifications 
+
+2.1
+Crystalline silicon solar cell Solar module: Type: 180M,185M &190M or 220P, 225P, 230P, 235w &240w 
+Power tolerance: ±3%/ pcs,
+positive for a whole container. 
+The Seller shall provide a flash report (in an excel form) of every single module evidencing the output power
+of each module. 
+The material of the panel see the attachment. 
+2.2 The standard of the panels and technical hereof shall be referenced as the Appendix B. 
+
+3. 
+Terms of payment 
+
+3.1 Trade Term: FOB
+Shanghai 
+The above trade term shall be subject to the International Rules for the Interpretation of Trade Terms adopted by the International
+Chamber of Commerce effective January 1, 2000, including all amendments thereof (“INCOTERMS 2000”). 
+3.2 Terms of Payment
+
+i) 
+**** hereof shall be paid by T/T within **** working days after the Signing Date as the deposit of the goods from this June to next June hereof, and ****%of the deposit
+hereunder shall be deducted when the finishing ****MW hereunder. 
+
+ii) 
+****%of the payment of each month shall be paid to the seller within two working days after the placing of the PO, the balance payment shall be paid within **** days
+against the sight of the copy of B/L. The B/L shall be delivered by express or tele-released to the buyer within two working days after receiving the payment. 
+
+iii) 
+The **** as the deposit hereunder shall be paid and remitted to Seller after the effectiveness of this Contract. 
+
+**** 
+Confidential material omitted and filed separately with the Commission. 
+
+2 
+
+3.3 The total purchase price for each shipment will be calculated based on the cumulative power output of
+the solar modules as recorded on the commercial invoice. 
+3.4 Bank Information. 
+EUR FUNDS TRANSFER 
+Please remit by to: 
+Industrial and Commercial Bank of China 
+Frankfurt/Main 
+
+Swift BIC:ICBKDEFF 
+BLZ No.50110200 
+
+For credit to: 
+Industrial and Commercial Bank
+of China 
+Zhejiang Provincial Branch 
+
+Swift BIC:ICBKCNBJZJP 
+Address: No.106 Haichang
+Road, Haining City, Zhejiang 
+Provincial, China 
+Beneficiary’s Account No.: 
+1204085009838001223 
+
+Beneficiary’s Name and Address: 
+Zhejiang
+Jinko Solar Co., Ltd. 
+Yuan Xi Road,Technical Functional Zone,Yuan Hua Town Haining, 
+Zhejiang,China 
+
+4. 
+Title and Risk of Loss / Insurance 
+
+Any
+risk of loss or damage, as well as any additional costs due to events occurring after the time of delivery shall pass to Buyer based on the trade term stipulated in Article 3.1; however, title to the Products per specified delivery shall pass to
+Buyer only after payment for those particular Products has been received in full. 
+
+5. 
+Terms of Shipment 
+
+5.1 Date of shipment:
+
+5.2 Port of Loading: Shanghai, China 
+
+3 
+
+6. 
+Packing 
+
+The packing shall be conducted
+in accordance with the standards stipulated in Section 6.1 : 
+6.1 The packing of the Product shall be suitable for ocean
+transportation and provide protection against dampness, humidity, rust, wear and tear, and shock. The Seller shall be liable for any damage to the Product caused by inadequate or improper packing during the shipment, provided, however, that Seller
+will not be liable for any damage to the Product caused by or attributable to the carrier, or by any other factor not within the Seller’s control; or 
+6.2 The packing of the Product shall be suitable for long distance air transportation and provide protection against dampness, humidity, rust, wear and tear, shock and rough handling. The Seller shall be
+liable for any damage to the Product caused by inadequate or improper packing during the shipment, provided, however, that Seller will not be liable for any damage to the Product caused by or attributable to the carrier, or by any other factor not
+within the Seller’s control. 
+
+7. 
+Warranty & Claims 
+
+Detailed information about Warranty & Claims is included in Appendix C . 
+
+8. 
+Force Majeure 
+
+1) Neither Party shall be
+liable to the other Party for failure of or delay in performance of any obligation under this Contract, directly, or indirectly, owing to acts of God, war, war-like condition, embargoes, riots, strike, lock-out and other events beyond its reasonable
+control which were not reasonably foreseeable and whose effects cannot be overcome without unreasonable expense and/or loss of time to the affected Party (i.e., the Party that is unable to perform) 
+
+2) If a Force Majeure event occurs, the affected Party shall notify the other Party of the occurrence thereof within seven (7) calendar days of its
+occurrence, and send a certificate confirming the occurrence of the Force Majeure event issued by the relevant local authorities within fifteen (15) calendar days from the date the event occurred. Thereafter, the Parties shall discuss the best
+way to resolve the delay or interruption caused by the event. If the conditions of Force Majeure continue to materially impede performance of any material obligation under this Contract for a period of more than three (3) consecutive calendar
+months, then either Party shall be entitled to terminate this Agreement without consequence upon 30 days’ prior written notice to the other Party. 
+
+9. 
+Breach Liabilities 
+
+(i) 
+Based on the requirement of Seller’s commercial strategy, Buyer warrants that it shall not resell Seller’s Product into the country of Israel, failing of
+which Buyer shall be fully responsible for all of loss of Seller. 
+
+(ii) 
+Buyer shall warrants that it holds good commercial reputation and is in good financial condition, failing of which Buyer shall be fully responsible and compensate
+Seller’s loss therein provided that Seller cannot obtain any loan and insurance policy due to Buyer’s such failure. 
+
+4 
+
+(iii) 
+Unless otherwise provided for under this Contract, if Buyer delays in making payment, Buyer shall pay liquidated damages equal to ****% of the Contract amount per day
+to the Seller. If the delay exceeds **** days, Buyer shall be deemed as unable to pay, and Seller shall have the right to terminate the Contract immediately and require the Buyer to pay liquidated damages equal to **** % of the Contract amount
+without affecting the Seller’s other rights under the Contract; if the seller delays in delivery not due to the force majeure events, shall pay liquidated damages equal to ****% of the Contract amount per day to the buyer. If the delay exceeds
+**** days, the seller shall be deemed as unable to pay, and buyer shall have the right to terminate the Contract immediately and require the Buyer to pay liquidated damages equal to **** % of the Contract amount without affecting the
+buyer’s other rights under the Contract. 
+
+(iv) 
+If the Buyer fails to make payment or terminates the Contract unilaterally, the Buyer shall pay liquidated damages equal to **** % of the Contract amount without
+affecting the Seller’s other rights under the Contract. 
+
+10. 
+Contract Disclosure 
+
+Buyer agrees that Seller can disclose the main content of this Contract to the state security commission of the country where Seller lists
+as legally required. 
+
+11. 
+Non-transfer 
+
+No right to
+transfer any right or obligation of this Contract by any Party without express written approval of the other Party. 
+
+12. 
+Confidentiality 
+
+Both
+Parties agree to maintain confidentiality concerning the details of this Contract, except in the event where a disclosure: (i) is necessary for each Party to the financial institutions for the purpose of financing this Contract; (ii) is
+required by applicable law either of each Party’s country; (iii) is required by court order or by stock and security regulatory authorities. The Parties shall make provisions that employees and third Parties entrusted with implementing the
+Contract are bound to this obligation of secrecy. This also applies to the presentation of this Contract for legal examinations or audits by legal consultants and tax advisors, investors and banks. 
+
+13. 
+Applicable Law 
+
+This
+Contract shall be construed under and governed by the laws of Germany, except as otherwise expressly provided to be governed by INCOTERMS 2000. For any specific matter that is not covered by German law or INCOTERMS 2000, the general international
+business practices shall apply. 
+
+**** 
+Confidential material omitted and filed separately with the Commission. 
+
+5 
+
+14. 
+Arbitration 
+
+Any dispute
+in connection with or arising from the Contract shall be settled through friendly negotiations. If no settlement can be reached, the dispute shall be submitted for arbitration to the China International Economic and Trade Arbitration Commission
+Shanghai Branch, for arbitration in accordance with the Arbitration Rules in effect at the time of arbitration. The arbitral award shall be final and binding upon both parties; and the arbitration fee shall be borne by the losing party. The other
+clause shall be continually carried on except the clause on arbitration. 
+
+15. 
+Miscellaneous 
+
+1) 
+This Contract, together with its all Appendixes constitutes the whole and has the same effectiveness. 
+
+2) 
+In the event that the purchase order (PO) is adopted under this Contract for specific delivery, such PO also consists of one part of this Contract. However, the
+stipulation of the Contract shall prevail in case of any discrepancy there between. 
+
+3) 
+This Contract is drafted in Chinese and English. In case of any discrepancy between the two versions, the Chinese version shall prevail. This contract is executed in
+duplicate. Each party holds one version with the same effectiveness. 
+
+4) 
+The Contract shall take effect only after the maturity of the following two situations: 
+
+i) 
+seal and signature by both Parties; 
+
+ii) 
+the deposit herein has been paid into the entry of Seller’s designated Bank Account set forth in Article 3.4. 
+
+5) 
+Invalidation clause 
+
+i) 
+Any termination of the contract shall be confirmed by the other party; 
+
+ii) 
+Any breaking of the contract in payment or delivery hereunder; 
+
+iii) 
+The price cannot be agreed by the two until **** days, it will be terminated 
+
+6) 
+Settlement after the termination of the contract 
+
+i) 
+The trades and the accounts shall be checked by the two within **** days; 
+
+ii) 
+All the payment shall be made completely within **** days by the buyer or deducted from the deposit. 
+
+iii) 
+The deposit shall be returned with **** days or deducted by the goods. 
+
+7) 
+Producing base 
+
+The products
+hereunder shall be manufactured in Haining factory of the seller. 
+IN WITNESS WHEREOF, the Parties have executed this Contract
+as of the date first set forth above. 
+Appendices: 
+Appendix A: Material List 
+Appendix B: Technical Standard 
+
+Appendix C: Warranty & Claims 
+
+**** 
+Confidential material omitted and filed separately with the Commission. 
+
+6 
+
+Sealed: 
+
+/s/ Zhejiang Jinko Solar Co., Ltd. 
+
+On Behalf of 
+
+Zhejiang Jinko Solar Co., LTD. 
+
+Sealed: 
+
+/s/ Up Solar Co., Ltd 
+
+Up Solar Co., Ltd 
+
+7 
+
+Appendix A: Material List: 
+
+Huber suhner:RH3(mono)STPS1545CG,Radox smart cable (1.1m),MC4 connectors 
+
+EVA: First 806 0.5mm 
+
+CSG/Pilkington 
+
+Keiw: WPF325PO 
+
+sunlight, tonsan. 
+
+8

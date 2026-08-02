@@ -1,0 +1,900 @@
+Exhibit 10.10 
+
+SUPPLY
+AGREEMENT 
+
+On the date of
+signature this Supply Agreement has been entered into by 
+
+XTENT Inc.
+
+125 Constitution Drive
+
+Menlo Park, CA 94025
+
+USA
+
+hereinafter referred to as “ XTENT ” 
+
+and by 
+
+Fortimedix B.V.
+
+Horselstraat 1
+
+6361 HC Nuth
+
+The Netherlands
+
+hereinafter referred to as “ Fortimedix ” 
+
+1. Purpose 
+
+As XTENT is a manufacturer of medical devices and
+wishes to purchase certain products manufactured by Fortimedix pursuant to XTENT’s
+designs and specifications (“Products”) for use in or with XTENT’s devices,
+this Agreement describes all contractual aspects of the specification,
+ordering, manufacturing, pricing and payment of the Products as the parties
+deem necessary in association with Fortimedix’s supply of Products to XTENT. 
+
+2. Products 
+
+The Products supplied by Fortimedix to XTENT are
+listed and specified in Appendix 1, which forms an integral part of this Agreement. 
+
+3. Validity 
+
+This Agreement is valid for an initial period of three
+(3) years from the date of March 18, 2007 (Validity Period), subject to Section
+5 hereof. The Agreement can be cancelled with effect at the end of the Validity
+Period by either party through written notice at least six (6) months prior to
+the end of the Validity Period. If no such notice has been given by either
+party, the Validity Period will be automatically extended by one year. The
+Validity Period will be automatically extended for an additional one-year
+period at the end of such one year extension and each year thereafter as long
+as neither party gives the aforementioned six-month cancellation notice. 
+
+XTENT may terminate this
+Agreement by written notice prior to the end of the Validity Period if
+Fortimedix fails to deliver, pursuant to XTENT’s specifications (as set forth
+in Section 14) and delivery schedules, at least 90% of XTENT’s ordered quantity
+of Products specified in any three orders (consecutive or not consecutive)
+within any six-month period, Fortimedix fails to cure such failure within fourteen
+(14) days of receiving written notice from XTENT, and such failure is not
+attributable to any action or inaction of XTENT in violation of this Agreement. 
+
+Both parties are entitled
+to terminate this Agreement by written notice prior to the end of the Validity
+Period with immediate effect: 
+
+a) In
+the event of a material default on the part of the other party, provided that notice
+of default is given in writing, including specific charges of default and
+requirements to cure, and the party receiving the notice of default fails to
+cure within ninety (90) days from its receipt of such notice.
+
+b) In
+the event of bankruptcy or liquidation on the part of the other party.
+
+c) In the event of
+dissolution on the part of the other party.
+
+4. Quantities 
+
+Fortimedix will build production capacity for a monthly
+volume of [*] units of the Products by the end of 2007 and will keep this
+capacity available for supply to XTENT. No later than January 
+
+Fortimedix initials ____ 
+
+XTENT initials ____ 
+
+Certain Confidential Information contained in this
+document, marked by “[*],” has been omitted and filed separately with the
+securities and exchange commission pursuant to rule 406 of the securities act
+of 1933, as amended. 
+
+1 
+
+31, 2008, the parties shall agree upon any further
+production capacity to be added by Fortimedix by the end of 2008, which shall
+be no less than that capacity needed to deliver any Minimum Quantity agreed to
+for the year 2009 as set forth below. 
+
+5. Minimum Orders 
+
+XTENT shall order from Fortimedix a minimum of [*]
+units in 2007, [*] units in 2008 and a minimum quantity of units in 2009 to be
+agreed upon as set forth below (“Minimum Quantity”), unless this Agreement is
+terminated prior to the relevant year. On or after December 1, 2007, the
+parties shall negotiate in good faith to agree upon the Minimum Quantity for
+2009. The parties presently intend to agree upon a Minimum Quantity for 2009
+which is no less than that for 2008, provided the parties are satisfied with
+the relationship and XTENT remains on schedule to receive regulatory approvals
+in the US and Europe; however, notwithstanding the foregoing, the parties
+understand that nothing in this Agreement binds either party to any Minimum
+Quantity for 2009 unless agreed to in writing by both parties on or after
+December 1, 2007. If the parties cannot reach agreement for such Minimum
+Quantity by January 31, 2008, Fortimedix may (i) give written notice of its
+intent to terminate the Agreement at the end of 2008; or (ii) continue with the
+Agreement with no Minimum Quantity requirement for 2009. 
+
+In the event that XTENT fails to receive approval for
+an Interventional Device Exemption (IDE) by the US Food and Drug Administration
+by December 31, 2007, the Minimum Quantity for 2008 shall not apply until such
+time as XTENT receives IDE approval, and the Minimum Quantity for 2008 will
+then apply to the year beginning on the date of such approval, and any Minimum
+Quantity agreed-to for 2009 will apply to the year beginning one year and one
+day from such approval. The Validity Period
+set forth in Section 3 shall be extended as necessary to carry out the
+foregoing. 
+
+No later than January 31st of each of 2008, 2009 and 2010,
+Fortimedix will supply XTENT with an accounting of quantities of Products
+ordered and delivered during the preceding calendar year. If both the quantity ordered
+by XTENT and the quantity delivered by Fortimedix are lower than the Minimum
+Quantity for the applicable year, Fortimedix shall notify XTENT in writing of
+the difference. Within thirty (30) days of receiving such notice, XTENT shall
+issue a purchase order for the difference between the quantity ordered for the
+calendar year and the applicable Minimum Quantity. Upon delivery of the quantity
+ordered, Fortimedix will invoice XTENT for such quantity, and payment of the invoiced
+amount would become due within 30 days from the date of invoicing. 
+
+After the first three years of the Validity Period, if
+the Validity Period is extended, no minimum order will be required. 
+
+6. Collaborative
+Planning 
+
+XTENT will provide Fortimedix with a three-month
+rolling forecast of Product volumes to be delivered. The forecast will be
+issued before the end of the first week of each month and the volumes indicated
+for that month are to be considered as a firm order, whereas the quantities
+indicated for the second month are a forecast within a band of 10% more or less
+and the quantities indicated for the third month are a forecast within a band
+of 20% more or less. XTENT will inform Fortimedix promptly about any forecast
+changes and Fortimedix will inform XTENT promptly about any possible capacity
+constraints. 
+
+7. Specifications,
+Protocols, and Processes and Change of Specifications, Protocols, and Processes 
+
+Fortimedix shall
+manufacture Products in accordance with the Specifications set forth in
+Appendix 1. If Fortimedix finds it necessary or desirable to change any
+specifications, protocols, or processes, Fortimedix shall give XTENT notice and
+not implement any such change without XTENT’s consent. Such consent, as well as
+the scope of the changes, shall be documented and obtained prior to
+implementation of identified changes. If XTENT similarly finds it necessary or
+desirable to change any Specification or protocols, then it will so notify
+Fortimedix and Fortimedix will use reasonable efforts to effect such change. If
+any change requested by XTENT will increase or decrease Fortimedix’s cost of
+the Product, before effectuating such change, XTENT and Fortimedix shall agree
+to change the price on Appendix 2 hereto pursuant to good faith 
+
+Certain
+Confidential Information contained in this document, marked by “[*],” has been
+omitted and filed separately with the securities and exchange commission
+pursuant to rule 406 of the securities act of 1933, as amended. 
+
+2 
+
+negotiations it being the
+intent hereof that the revised price change be proportionate to the change in
+Fortimedix’s costs associated with the change requested in the Specification.
+To facilitate effectuation of this section, Fortimedix will provide to XTENT
+such information as is necessary for XTENT to evaluate and confirm all cost changes. 
+
+8. Exclusivity 
+
+Fortimedix shall not
+develop, manufacture, sell, advise or supply any other form of assistance
+concerning products in the XTENT Field as hereinafter defined for third parties
+other than those agreed upon by XTENT. The “XTENT Field” shall mean [*]. 
+
+9. Manufacturing Lead
+Times 
+
+Fortimedix guarantees the ex-works delivery of Products
+in 21 days from the date of receipt of XTENT’s purchase order. Fortimedix will
+make all reasonable efforts to facilitate less than standard lead time orders and
+will promptly confirm XTENT all delivery dates of less than the standard lead
+time. 
+
+Fortimedix’s obligations hereunder, shall be excused
+by strikes, riots, war, invasion, acts of God, fire, explosion, floods, delay
+of common carrier, acts of government agencies or instrumentalities, or judicial
+action to the extent such government or judicial action is not resulting from
+Fortimedix’s negligence, wilful wrongdoing or other action in breach of this
+Agreement. 
+
+10. Traceability, Audits, and
+Quality System 
+
+Fortimedix will provide XTENT with traceability
+records of the Products in accordance with XTENT’s quality procedures. XTENT or
+any regulatory body associated with approval of XTENT’s products shall have the
+right to audit Fortimedix facility with thirty (30) days advance written
+notice. Fortimedix agrees to respond to any audit observations within thirty
+(30) days after written notification of the audit observation. 
+
+Fortimedix agrees to maintain a Quality System
+sufficient to manufacture Products meeting XTENT specifications as well as any
+applicable regulatory requirements. Fortimedix agrees to notify XTENT in
+writing of planned significant changes to the Quality System prior to
+implementation of the changes. 
+
+11. Packing 
+
+All Products shall be
+suitable packed and shipped to XTENT by Fortimedix in the manner specified by XTENT.
+If packing is not specified, the Product shall be packed in a commercially
+reasonable manner. 
+
+12. Delivery
+Terms 
+
+Fortimedix shall deliver
+the Products on an Ex-Works basis (Incoterms 2000). XTENT will instruct
+Fortimedix which carriers to use for XTENT’s risk and expense. XTENT is
+responsible for the insurance of the Product as of the moment that they have
+been handed over to the first carrier on Fortimedix’s premises. 
+
+13. Price
+and Payment Terms 
+
+All orders for Products
+hereunder shall be subject to XTENT’s standard Purchase Order Terms and
+Conditions, which are attached hereto as Appendix 3 and shall form part of this
+Agreement. In the event of a conflict
+between the terms of the Purchase Order Terms and Conditions and the provisions
+of this Agreement, the provisions of this Agreement shall prevail. Prices of
+the Product are specified in Appendix 2. These prices are valid throughout the
+duration of this Supply Agreement. Fortimedix will assume full responsibility
+for offsetting the effects of possible cost inflation. Fortimedix agrees that
+the price charged for the Products shall be [*]. 
+
+Certain
+Confidential Information contained in this document, marked by “[*],” has been
+omitted and filed separately with the securities and exchange commission
+pursuant to rule 406 of the securities act of 1933, as amended. 
+
+3 
+
+[*]. All credit notes are
+immediately deductible from any outstanding payments. Fortimedix shall invoice XTENT
+only upon shipment Ex-Works Fortimedix’s facility. 
+
+If XTENT is in delay of
+payment for more than 30 days, Fortimedix is allowed to charge an interest fee
+equal to the 3-months European Interbank Offered Rate (EURIBOR) plus
+2,0%-points. If XTENT is in delay of payment for more than 60 days or if
+Fortimedix in its sole discretion finds reasons to believe that XTENT’s ability
+to pay is severely impaired, it may suspend deliveries until late payment has
+been remedied or the ability to pay has been demonstrated, without such
+suspension of delivery being a breach of contract. 
+
+14. Right
+of Return 
+
+Products found not to be
+in accordance with the quality and control requirements, as set forth in the
+Specifications as per Appendix 1 will be returned to Fortimedix with a notice
+from XTENT identifying and specifying, in reasonable detail, the Products
+rejected and the reasons for rejection. Unless Fortimedix’s inspections provide
+firm evidence that the Products were in accordance with the quality and control
+requirement, XTENT will be credited for the full payments related to those
+non-compliant Products. In the event of disagreement between the parties as to
+whether any delivered Products meet XTENT’s specifications, each party shall
+designate an independent third party expert to inspect such Products and mutually
+decide the issue. If such experts are unable to reach agreement, the matter
+shall be referred to arbitration pursuant to Section 23. 
+
+15. Warranties 
+
+a) Fortimedix
+represents and warrants that all of the Products delivered to XTENT under this
+Agreement will comply with the Specifications as per Appendix 1 and that the Products
+will be free from any defects in product and workmanship. This is the sole and
+exclusive warranty given by Fortimedix with respect to the Product. Fortimedix
+makes no other warranty and hereby expressly disclaims all other representation
+or warranties of any kind, express or implied. No implied warranty of
+merchantability, no implied warranty of fitness for any particular purpose, and
+no implied warranty arising by usage of trade, course of dealing or course of
+performance is made by Fortimedix.
+
+b) XTENT
+shall not be liable for, and Fortimedix assumes responsibility for and agrees
+to indemnify and hold harmless XTENT from, all personal injury and property
+damages that occur during Fortimedix’s products formulation, fabrication, or
+manufacturing process or for claims based on violations of federal, state or
+local laws or regulations applicable to employee or environmental protection,
+in connection with such manufacturing process (e.g., a claim based on
+Fortimedix’s violations of environmental standards or standards dealing with
+providing a safe place to work or the maintenance of hazardous products).
+
+c) Fortimedix
+represents and warrants to XTENT that it has not entered into any agreement,
+which conflicts with the terms of this Agreement, and that it will not do so
+during the duration of this Agreement.
+
+d) XTENT shall
+indemnify and hold harmless Fortimedix, and agrees to defend any action or
+claim against XTENT for patent infringement or infringement of any other
+intellectual property right as a result of the use of the Product except to the
+extent such action or claim arises out of the alleged infringement by
+Fortimedix of patents or other intellectual property rights related to
+manufacturing processes or equipment used by Fortimedix for the manufacture of Products
+for XTENT.
+
+e) XTENT
+agrees to indemnify and hold harmless Fortimedix, its officers, agents,
+employees and authorized representatives from and against any and all costs or
+damages arising out of or related to any claim or lawsuit for personal injury
+or death to any person as a result of a defect 
+
+Certain
+Confidential Information contained in this document, marked by “[*],” has been
+omitted and filed separately with the securities and exchange commission
+pursuant to rule 406 of the securities act of 1933, as amended. 
+
+4 
+
+or malfunction of
+any XTENT medical device in which Fortimedix’s Product is used, as long as the
+Fortimedix Product was manufactured within established Specifications and was
+free from defects in product and workmanship when received by XTENT. XTENT will
+defend, manage and assume all costs of any lawsuit or claim related to this
+indemnification. Fortimedix will notify XTENT promptly after Fortimedix becomes
+aware of any claim by any third party with respect to which Fortimedix would be
+entitled to indemnification hereunder. Fortimedix will not settle or offer to
+settle any such claim or lawsuit without XTENT’s prior written approval. 
+
+f) In
+no event shall either party hereto be liable to the other for any
+consequential, indirect, incidental, exemplary or special damages of any kind,
+including loss of profit and/or revenue.
+
+16. Proprietary
+Rights 
+
+a) No
+license under any intellectual property of Fortimedix, including patents and
+trade secrets, is granted herein.
+
+b) XTENT
+is the owner of all intellectual property rights with regard to the Products,
+including patents and trade secrets. No license under any intellectual property
+of XTENT, including patents and trade secrets, is granted herein.
+
+c) Any
+inventions by a party hereto (First Party) which are derived from the Confidential
+Information of the other party (Second Party) shall be owned by the Second Party,
+and the First Party agrees to assign such invention to the Second Party,
+execute any documents, and perform such other acts as may be necessary or
+useful to perfect the Second Party’s ownership thereof. Confidential Information shall mean all
+information relating to the technology, products, services, personnel,
+customers, or business of the Second Party which is received directly or
+indirectly by the First Party unless such information (i) is in the public
+domain not due to any act of the First Party; (ii) was received from a third
+party not under any obligation to the Second Party to maintain such information
+in confidence; or (iii) is developed independently by employees or agents of
+the First Party who do not have access to or knowledge of the Confidential
+Information of the Second Party.
+
+d) Any
+inventions by Fortimedix in the XTENT Field (as defined in Section 8) during
+the term of this Agreement shall be owned by XTENT, and Fortimedix agrees to
+assign any such inventions to XTENT, execute any documents, and perform such
+other acts as may be necessary or useful to perfect XTENT’s ownership
+thereof. For purposes of clarity, the XTENT
+Field shall not include stent cutting or polishing methods, processes, or
+machinery.
+
+17. Replacement
+of Prior Agreements 
+
+This Agreement contains
+the entire understanding of the parties with respect to the supply of the Products
+during the term of this Agreement and voids and supersedes all prior
+negotiations, contracts, agreements, undertakings and understandings, whether
+written or oral, if any, between the parties. This Agreement may from time to
+time be changed but only by an instrument in writing, signed by both parties,
+which specifically states that it is an amendment hereto. 
+
+18. Non-Compliance
+of Other Documents with Supply Agreement 
+
+Sales of Products
+hereafter shall be governed by this Agreement and such other documents normally
+used by the parties for such transactions including, but not limited to,
+purchase orders, confirmations, shipping documents and invoices provided,
+however, that if the terms and provisions of any such document or other
+communication from one party to the other respecting this Agreement or the Products
+hereunder are in conflict with this Agreement, this Agreement shall be deemed
+controlling. 
+
+19. Independence
+of Parties 
+
+Nothing contained in this
+Agreement shall be deemed to create a joint venture, partnership, agency or
+similar endeavour between the parties hereto. Each party shall act solely as an
+independent contractor and neither part shall have any power or authority to
+directly or indirectly bind or act on behalf of the other. 
+
+20. Assignment 
+
+This Agreement may not be
+assigned by any party, without the prior written consent of the other 
+
+5 
+
+party, except to (1) a
+direct or indirect wholly-owned subsidiary, (2) any third party who shall
+acquire, by sale of assets or otherwise (including merger), all or
+substantially all of the assets or a controlling share of the stock of such
+party or (3) any entity 50.5% or more of the equity interest in which are owned
+by shareholders of such party. No such assignment shall relieve the assigning
+party of its obligations hereunder. This Agreement shall be binding upon any
+permitted assignee or successor in interest of either party; provided, however,
+that any successor in interest of XTENT, whether by acquisition, merger or
+otherwise, may terminate this Agreement by providing written notice to
+Fortimedix and payment of the amount which would be due for delivery of the
+greater of the undelivered quantity of any then-current 3-month forecast or the
+undelivered portion of the total of any Minimum Quantities agreed to for such
+year and any subsequent years of the Validity Period, if any. 
+
+21. Partial
+Invalidity of Agreement 
+
+If any provision of this
+Agreement is held by any competent authority to be invalid or unenforceable in
+whole or in part, the validity of the other provisions of this Agreement and
+the remainder of the provisions in question shall not be affected thereby. 
+
+22. Changes 
+
+Change proposals or
+changes subjected to the Agreement have to be studied before changes can be
+executed. All changes requested by XTENT or Fortimedix must be mutually agreed
+upon before such changes are implemented by one of the parties. All notices,
+requests, proposals or other communication required or permitted to be given
+under this Agreement shall be in writing. Any notice given as aforesaid shall
+be deemed given and effective upon actual delivery. Any party may change its
+address by notice given in accordance herewith. 
+
+23. Dispute
+Resolution 
+
+The Parties agree that
+any dispute arising under this Agreement, or in connection with any breach
+thereof, shall be finally resolved through binding arbitration conducted in
+accordance with the arbitration rules and procedures of the International
+Chamber of Commerce by one (1) arbitrator appointed in accordance with said
+rules. Any such arbitration shall be
+held in London, United Kindom. The arbitrator shall determine what discovery
+will be permitted, consistent with the goal of limiting the cost and time which
+the Parties must expend for discovery; provided the arbitrator shall permit
+such discovery as the arbitrator deems necessary to permit an equitable
+resolution of the dispute. Any written
+evidence originally in a language other than English shall be submitted in
+English translation accompanied by the original or a true copy thereof. The costs of the arbitration, including
+administrative and arbitrators’ fees, shall be shared equally by the Parties,
+and each Party shall bear its own costs and attorneys’ and witness’ fees
+incurred in connection with the arbitration. 
+Any award may be entered in a court of competent jurisdiction for a
+judicial recognition of the decision and applicable orders of enforcement. 
+
+24. Counterpart
+copies 
+
+This Agreement may be
+signed in one or more counterpart copies all of which together shall constitute
+one Agreement and each of which may equally evidence this Agreement. 
+
+25. Governing
+Law, Language 
+
+This Agreement shall be
+construed and interpreted under and in accordance with the laws of The
+Netherlands. The official text of this Agreement shall be in English. Should
+the parties sign or execute a version of this Agreement in another language,
+any interpretation or construction thereof shall be based solely on the English
+language text. 
+
+6 
+
+In
+witness of all the above, parties hereto have caused this Agreement to be
+executed as of the day and year first written above. 
+
+For and on behalf of Fortimedix
+B.V. 
+
+For and on behalf of XTENT
+Inc. 
+
+For and on behalf of Fortimedix B.V. 
+
+For and on behalf of XTENT Inc. 
+
+Name: 
+
+MARC VAN DE GRAAF 
+
+Name: 
+
+HENRY A. PLAIN, JR. 
+
+Title: 
+
+CEO 
+
+Title: 
+
+Chairman 
+
+Date: 
+
+03 April 2007 
+
+Date: 
+
+3/27/07 
+
+Signature: 
+
+/s/ MARC VAN DE GRAAF 
+
+Signature: 
+
+/s/ HENRY A. PLAIN, JR.
+
+7 
+
+APPENDIX 1: PRODUCT SPECIFICATIONS 
+
+Position 
+
+Fortimedix
+
+Partnumber 
+
+XTENT Partnumber 
+
+Description 
+
+Specification numbers 
+
+1 
+
+100052 
+
+MS02703 
+
+XTENT coronary
+stent 3.5mm MP35N 
+
+118001 &
+199014 
+
+2 
+
+100061 
+
+MS03481 
+
+XTENT coronary
+stent 3.0mm MP35N 
+
+131001 &
+199014 
+
+8 
+
+APPENDIX
+2: PRICES 
+
+[*] 
+
+[*] 
+
+[*] 
+
+[*] 
+
+[*] 
+
+[*] 
+
+[*] 
+
+[*] 
+
+[*] 
+
+[*] 
+
+[*] 
+
+[*] 
+
+[*] 
+
+[*] 
+
+[*] 
+
+[*] 
+
+∞ 
+
+[*] 
+
+[*] 
+
+[*] 
+
+[*] 
+
+[*] 
+
+[*] 
+
+Prices are
+Ex-Works (Incoterms 2000), excluding taxes and excluding duties. 
+
+Prices for the Products are [*].
+
+The above-mentioned prices are for stents, which are: 
+
+[*]. 
+
+· In compliance with XTENT’s specifications as set forth in Appendix 1 and
+any other specifications agreed-to in writing during the term of this Agreement
+(including those set forth in any Purchase Order accepted by Fortimedix). 
+
+The above-mentioned prices include [*].
+
+Certain Confidential Information contained in this document, marked by
+“[*],” has been omitted and filed separately with the securities and exchange
+commission pursuant to rule 406 of the securities act of 1933, as amended. 
+
+9 
+
+APPENDIX 3: XTENT PURCHASE ORDER
+TERMS AND CONDITIONS 
+
+SHIPPING INSTRUCTIONS 
+
+1. Tariff Provisions: All shipments shall be made in strict
+conformity with governing tariff rules and regulations and packaging
+specifications, except where otherwise specifically required by provisions of
+this Order. 
+
+2. Routing
+Instructions: 
+
+(a) Freight shipments are to be routed via
+Order instructions or as authorized by Buyer. 
+Seller will request prior routing instructions for delicate equipment or
+emergency shipments.
+
+(b ) Freight Charges: Shipments are to be
+made “Freight Collect” on FOB source shipments, unless otherwise specified
+herein. AIRBORNE shipments are to have freight charges prepaid and added to the
+goods invoice. Attach copies of paid freight bills to any invoice that includes
+transportation charges.
+
+(c) Insurance: Do not declare any value for
+carriage or insurance. Shipments shall
+be released to minimum value of governing classification or tariff, or insured
+for minimum value for traceability. 
+
+(d) Consolidation: Except where limited by
+Clause 2(c), above, consolidate all shipments to the delivery point specified
+herein, for any one day, on one bill of lading.
+
+(e) Purchase Order Number(s) must appear on all correspondence; shipping
+labels; invoices; and shipping documents, including packing sheets, bills of
+lading, and air bills.
+
+3. Hazardous
+Material Packaging, Labeling, and Shipping: Seller shall comply with provision 10
+below.
+
+PURCHASE ORDER GENERAL PROVISIONS 
+
+1. Warranties: Seller expressly warrants that all items
+furnished to Buyer hereunder will be fit and safe for the purpose for which
+manufactured and for any particular purpose recommended to Buyer by Seller,
+will be free from defects in material and workmanship, will conform to
+applicable specifications, drawings, samples and descriptions and, if of Seller’s
+design, will be free of design defects. These warranties are in addition to any
+other express or implied warranties of Seller with respect to the items, and
+shall survive acceptance by Buyer of items and any payment by Buyer with
+respect to items. Neither Seller’s shipment of any items ordered hereby nor
+payment by Buyer of any invoice from Seller to Buyer therefore shall constitute
+Buyer’s acceptance of items ordered hereby or waiver of Seller’s warranties
+hereunder. If in Buyer’s reasonable
+opinion any item delivered by Seller hereunder is unmerchantable, unfit for its
+intended use, or for any particular purpose recommended to Buyer by Seller, or
+otherwise defective; then, at any time within ninety (90) days from the date
+when such items are received by Buyer, Seller shall at the Seller’s cost,
+including, without limitation reasonable field and shutdown costs and any and
+all packing, shipment, delivery, and installation costs, promptly repair,
+modify, or replace any items. 
+
+2. Changes: By written order, Buyer may from time
+to time order work suspension or make changes in drawings, designs,
+specifications, quantity, place of delivery, methods of shipment and packaging,
+property and services furnished by Buyer. If such change causes an increase or
+decrease in the price of this Order or in the time required for its
+performance, Seller shall promptly notify Buyer thereof and assert its claim
+for adjustment within 10 days after the change is ordered, and an equitable adjustment
+shall be made. However, nothing in this provision shall excuse Seller from
+proceeding immediately with the Order as changed. Whether made pursuant to this provision or by
+mutual agreement changes shall not be binding upon Buyer except when specifically
+confirmed in writing by a member of Buyer’s Purchasing Department. Information,
+advice, approvals, or instructions given by Buyer’s technical personnel or
+other representatives shall be deemed expressions of personal opinions only and
+shall not affect Buyer’s and Seller’s right and obligations hereunder unless
+set forth in a writing which is signed by a member of Buyer’s Purchasing
+Department and which expressly states that is constitutes an amendment to this
+Order. Seller is required to notify Buyer immediately upon making any changes
+to the Sellers manufacturing process, materials, or handling that could
+possibly affect the quality of the material or service when incorporated into a
+finished device.
+
+3. Infringement Indemnity: Seller warrants that items furnished hereunder
+will not and do not infringe any third party patent, copyright, trademark, or
+trade secret. If any claim, action, suit or other proceeding is brought against
+Buyer based upon copyright, trademark, patent or proprietary rights of a third
+party under the laws of any governmental authority relating to the items, Buyer
+will give timely written notice to such claim, action, suit or other proceeding
+to Seller. Seller will defend any such
+claim, action, suit or other proceeding on behalf of and without expense to
+Buyer or Buyer may conduct its own defense which shall be at Seller’s expense
+and Seller will indemnify and save Buyer harmless from all losses, costs or
+damages, including without limitations reasonable fees for attorneys suffered by
+Buyer as a result of any such claim, action, suit or other proceeding. Seller
+will, at Seller’s expense (a) use Seller’s best efforts to procure for Buyer or
+Buyer’s customers the right to continue selling or using any items or parts
+thereof that may be affected by such claim of infringement, or (b) replace the
+allegedly infringing items or parts thereof with non-infringing items or modify
+such items or parts thereof so that they become non-infringing; provided
+however, that such modification shall not materially alter the characteristics,
+or affect or increase the cost of use, operation or maintenance of such items. 
+
+4. Proprietary Information, Duplication
+and Disclosure: 
+
+(a) Seller shall not use for any purpose,
+other than fulfilling Buyer’s Orders, or disclose, without Buyer’s prior
+written consent, any tools or other items or any drawings, specifications,
+technical information or other data which have been specifically designed for
+Buyer in connection with this Order or furnished by Buyer.
+
+(b) Seller agrees that it will not
+publicize this Order or disclose, confirm, or deny any details thereof to third
+parties, or use Buyer’s name in connection with Seller’s sales promotion or
+publicity without prior written approval from Buyer.
+
+5. Default: 
+Buyer may terminate this Order for Seller’s default, if Seller becomes
+insolvent, fails to pay it’s debts as they become due, or makes or proposes an
+assignment for the benefit of creditors. 
+
+6. Force Majeure: Neither Buyer nor Seller shall be liable
+in damages for, nor shall this Purchase Order be terminable or cancelable by
+reason of, any delay or default in either party’s performance hereunder if such
+default or delay is caused by events beyond such party’s reasonable control
+including but not limited to, acts of God, action of any government or agency
+thereof, war or insurrection, civil commotion, destruction of facilities or
+materials by earthquake, fire, flood or storm, labor disturbances, epidemic, or
+failure of suppliers, public utilities or common carriers. The party so
+affected shall give prompt notice to the other party of such cause and shall
+take whatever reasonable steps are necessary to relieve the effect of such
+cause as rapidly as possible. Both parties agree to endeavor to resume
+performance of all obligations under this Purchase Order as soon as practical
+if such performance is delayed or interrupted by reason of force majeure.
+
+7. Assignments and Subcontracting: 
+
+(a) Neither this Order nor any interest
+herein nor claim hereunder may be assigned or delegated by Seller; nor may all
+or substantially all of this Order be further subcontracted by Seller without
+the prior written consent of Buyer. Buyer’s consent shall not be deemed to
+relieve Seller of its obligations to comply fully with the requirements hereof.
+
+(b) Notwithstanding the above, Seller may
+without Buyer’s consent assign monies due and to become due hereunder provided
+Buyer shall continue to have the right to exercise and all of its rights under,
+settle any and all claims arising out of and enter into amendments to this
+Order, without notice to or consent of the assignee. Buyer shall be given
+notice of the assignment; all invoices shall refer to the assignment.
+
+8. Invoices: 
+
+(a) Invoices in duplicate shall be mailed
+to Buyer’s Accounts Payable Department when items are shipped. The time for
+payment shall not commence before Buyer’s actual or scheduled receipt,
+whichever is later of items at their destination or before performance by
+Seller in accordance with the requirements of this Order. Without limiting
+Buyer’s other remedies, if data is deficient or is not furnished when
+scheduled. Buyer may withhold remaining payments (or such portion thereof as
+Buyer may deem equitable) until such deficiency or delinquency is cured. All
+shipping costs and all federal
+
+10 
+
+manufacturers’
+and retailers’ excise and state or local sales or use taxes, when applicable,
+must be billed as separate items on Seller’s invoices. And all tax exemption
+certificates shall be accepted by Seller. 
+
+(b) In addition to any other remedies that
+may be available in law or in equity, Buyer shall have the right to recover
+from Seller by offset or otherwise the price of any items returned to Seller
+under the terms of this Order.
+
+9. Buyer’s Representatives: Buyer’s employees are functioning in a representative
+capacity for Buyer with respect to any actions taken in connection with this
+Purchase Order and may not be held personally liable by Seller for such
+actions.
+
+10. Hazardous Material Packaging,
+Labeling, and Shipping: Seller shall package label, transport, and ship hazardous materials or
+items containing hazardous materials in accordance with all applicable Federal,
+State and Local laws and regulations, including but not limited to current
+published issues of tariffs and regulations reflecting 49 Code of Federal
+Regulation Articles 100-199, the Explosive Safety Manual AFM 127-100 and
+Federal Aviation Regulation 103, as amended (e.g., the current Hazardous
+materials Regulations of the Department of Transportation; the Official Air
+Transport Restricted Articles Tariff; and subsequent reissues thereof) and
+furnish appropriate Material Safety Data Sheets in accordance with California
+Hazardous Substances Information and Training Act. Seller prior to each
+hazardous material shipment, shall notify Buyer of its nature and shipment data
+by such means of communication as will allow for proper preparation for
+acceptance of delivery by the carrier of the material and shall identify same
+on all shipping documents.
+
+11. Cancellation: Buyer may cancel this Purchase Order with
+30 days written notice to Seller. Buyer and Seller will negotiate a reasonable
+cancellation fee to be paid by Buyer, such fee including such Seller expenses
+as costs for specialty raw materials procured in advance by Seller for Buyer
+for this Purchase Order, goods in progress and finished goods on hand. Such
+cancellation fee will not include any penalty for cancellations.
+
+12. Disputes: Irrespective of the place of performance,
+this Order will be construed and interpreted according to the laws of the state
+of California without resort to California’s Conflicts of Laws rules. Pending
+final resolution of a dispute hereunder, the seller shall proceed diligently
+with the performance of this Order and in accordance with the Buyer’s decision.
+Venue for any legal proceedings between Buyer and Seller shall be in the state
+or federal judicial district closest to Menlo Park, California.
+
+13. General: This order and the attachments and
+documents incorporated herein constitute the complete and exclusive statements
+of the terms of this agreement between Buyer and Seller and supersede all prior
+representations, understandings, and communications relating hereto. The
+invalidity in whole or in part of any provision of this Order shall not affect
+the validity of other provisions. Buyer’s failure to insist, in any one or more
+instances, upon the performance of any term of Order shall not be construed as
+a waiver or relinquishment of Buyer’s right to such performance or to future
+performance of such a term or terms and Seller’s obligation in respect thereto
+shall continue in full force and effect. Time shall be of the essence
+hereunder. Seller shall perform work and make deliveries no earlier than and
+only to the minimum extent consistent with delivery schedules and other
+requirements.
+
+14. Precedence : Conflicting provisions hereof, if any shall prevail in the following
+descending order of precedence: (1) typed provision set forth on this Order,
+(2) Buyer’s Purchase Order Attachments, (3) the preprinted portion of this Order,
+including these Purchase Order General Provisions, 4) statement of work, and
+(5) specifications attached or incorporated by reference.
+
+Rev. 6/06-SF 
+
+11

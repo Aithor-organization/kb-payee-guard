@@ -1,0 +1,1588 @@
+.
+.
+.
+
+EXHIBIT 10.4
+
+[VALENTEC LOGO] AMMUNITION MULTI YEAR PROGRAM - CONTRACT No. 1003 [SOLTAM SYSTEMS LOGO]
+
+Contract No. 1003
+
+BETWEEN
+
+SOLTAM SYSTEMS LTD.
+
+AND
+
+VALENTEC SYSTEMS INC.
+
+FOR
+
+PRODUCTION, ASSEMBLY AND SUPPLY OF
+MORTAR BOMBS PARTS 120MM, 81MM and 60MM
+
+1
+
+[VALENTEC LOGO] AMMUNITION MULTI YEAR PROGRAM - CONTRACT No. 1003 [SOLTAM SYSTEMS LOGO]
+
+TABLE OF CONTENTS
+
+ARTICLE 1 - Definitions ............................................................ 3
+ARTICLE 2 - PREAMBLE, HEADINGS, ANNEXES AND CONTRACT SCOPE ......................... 4
+ARTICLE 3 - SALE ................................................................... 5
+ARTICLE 4 - CONTRACT EFFECTIVE DATE (CED) .......................................... 5
+ARTICLE 5 - SELLER'S REPRESENTATIONS AND OBLIGATIONS ............................... 5
+ARTICLE 6 - DELIVERABLES AND SCHEDULE .............................................. 5
+ARTICLE 7 - PRICE .................................................................. 6
+ARTICLE 8 - PAYMENT ................................................................ 6
+ARTICLE 9 - PAYMENT SCHEDULE ...................................................... 7
+ARTICLE 10 - NOTIFICATION AND DELIVERY ADVICE ...................................... 8
+ARTICLE 11 - TITLE ................................................................. 8
+ARTICLE 12 - RISK OF LOSS .......................................................... 8
+ARTICLE 13 - FREIGHT AND PACKING ................................................... 9
+ARTICLE 14 - WARRANTY .............................................................. 9
+ARTICLE 16 - BUYER FURNISHED INFORMATION ........................................... 9
+ARTICLE 17 - BUYER PERSONNEL ....................................................... 10
+ARTICLE 18 - QUALITY CONTROL, DELIVERY AND ACCEPTANCE .............................. 10
+ARTICLE 19 - TERMINATION FOR DEFAULT ............................................... 12
+ARTICLE 20 - TERMINATION FOR CONVENIENCE ........................................... 12
+ARTICLE 21 - SUBCONTRACTORS ........................................................ 13
+ARTICLE 22 - APPLICABLE LAW AND ARBITRATION ........................................ 13
+ARTICLE 23 - NEW MATERIALS ......................................................... 14
+ARTICLE 24 - PROPRIETARY RIGHTS IN THE PARTS ....................................... 14
+ARTICLE 25 - PROPRIETARY DATA AND CONFIDENTIALITY .................................. 14
+ARTICLE 26 - INTELLECTUAL PROPERTY REPRESENTATION AND INDEMNIFICATION .............. 15
+ARTICLE 27 - FORCE MAJEURE ......................................................... 16
+ARTICLE 28 - TAXES ................................................................. 17
+ARTICLE 29 - PERSONNEL DELEGATION .................................................. 17
+ARTICLE 30 - VISAS ................................................................. 17
+ARTICLE 31 - HEADINGS .............................................................. 17
+ARTICLE 32 - ENTIRE CONTRACT ....................................................... 17
+ARTICLE 33 - WAIVER ................................................................ 17
+ARTICLE 34 - RELIABILITY ........................................................... 18
+ARTICLE 35 - MODIFICATION-- CHANGES ................................................ 18
+ARTICLE 36 - DISCLAIMER OF AGENCY .................................................. 19
+ARTICLE 37 - DECLARATIONS .......................................................... 19
+ARTICLE 38 - LANGUAGE OF DOCUMENTS ................................................. 19
+ARTICLE 39 - COMPUTATION OF TIME ................................................... 19
+ARTICLE 40 - ASSIGNMENT ............................................................ 19
+ARTICLE 41 - NOTICES ............................................................... 19
+ARTICLE 42 - U.S. GOVERNMENT REQUIRED CERTIFICATION AND AGREEMENT .................. 21
+ARTICLE 43 - IMOD REQUIRED CERTIFICATION ........................................... 22
+ARTICLE 44 - SECURITY .............................................................. 22
+ARTICLE 45 - STOP WORK ORDERS ...................................................... 23
+ANNEX I - STATEMENT OF WORK (SOW)
+ANNEX II - PARTS SPECIFICATION, DRAWING LIST
+ANNEX III - PRICE, PAYMENT AND DELIVERY SCHEDULE
+ANNEX IV - IRREVOCABLE STANDBY LETTER OF CREDIT
+ANNEX V - CONTRACTORS DSCA CERTIFICATION (DRAFT)
+ANNEX VI - FMF GUIDELINES
+ANNEX VII - CERTIFICATE OF DELIVERY MILESTONE ACHIEVEMENT .......................... 1
+
+Page 2 of 28
+
+[VALENTEC LOGO] AMMUNITION MULTI YEAR PROGRAM - CONTRACT No. 1003 [SOLTAM SYSTEMS LOGO]
+
+Contract No. 1003
+
+This Contract is entered into this 22 day of October, 2004 by and between SOLTAM
+SYSTEMS LTD., a private Israeli company having an address at P.O. Box 13
+Yokneam, Israel 20692 (the "Buyer" or "SOLTAM") and VALENTEC SYSTEMS INC., a
+private United States Company having offices at 2618 York Avenue, Minden,
+L.A.71055 (the "Seller" or "VSI").
+
+WITNESSETH
+
+WHEREAS, Buyer has been awarded by the Israeli Ministry of Defense
+(hereinafter referred to as "IMOD") as the prime contractor of
+the Israeli Defense Forces (hereinafter referred to as "IDF")
+Mortar Bombs Program (hereinafter referred to as "the
+Program"), which will be financed primarily through United
+States Foreign Military Financing ("FMF").
+
+WHEREAS, the parties have agreed that Seller will act as the
+subcontractor of Buyer with respect to the Mortar Bombs to be
+supplied by Buyer to the Israeli Defense Forces and will
+produce and supply Buyer with certain Mortar Bombs' parts
+(collectively, the "Parts"), in accordance with Buyer's Parts'
+Specifications set forth in Annex II attached hereto and
+Buyer's production know-how, which have already been disclosed
+by Buyer to Seller; and
+
+NOW, THEREFORE, in consideration of the terms, conditions and covenants
+contained herein, the parties agree as follows:
+
+ARTICLE 1 - DEFINITIONS
+
+Whenever used in this Contract, the following terms shall have the meaning
+assigned to them as hereunder:
+
+1.1 MORTAR BOMBS - 120mm, 81mm and 60mm mortar bombs.
+
+1.2 CONTRACT - this contract between the Parties.
+
+1.3 DELIVERY SCHEDULE - the delivery schedule of the Parts set forth in Annex
+III attached hereto.
+
+1.4 DSCA - The U.S. Defense Security Cooperation Agency.
+
+1.5 FMF - Foreign Military Financing provided by the U.S. Government to fund
+direct commercial contracts between American contractors and the
+Government of Israel.
+
+1.6 GOI - The Government of Israel.
+
+1.7 IDF - The Israeli Defense Forces or any person or entity duly authorized
+to represent it.
+
+Page 3 of 28
+
+[VALENTEC LOGO] AMMUNITION MULTI YEAR PROGRAM - CONTRACT No. 1003 [SOLTAM SYSTEMS LOGO]
+
+1.8 BUYER FURNISHED DATA - Technical data provided to Seller by the Buyer for
+the purposes of performing this Contract.
+
+1.9 IMOD - The Israeli Ministry of Defense.
+
+1.10 THE ORDER - IMOD order issued to SOLTAM for the supply of the Mortar
+Bombs.
+
+1.11 PROGRAM - IMOD program for the purchase of the Mortar Bombs, which is the
+subject of the Order.
+
+1.12 PROGRAM MANAGER - A member of Buyer's personnel designated by Buyer as the
+manager of the Program on its behalf.
+
+1.13 SOW - The statement of work (attached hereto as Annex "I") and as may be
+updated or modified from time to time pursuant to ARTICLE 35, including
+any other documents referred to therein.
+
+1.14 SUBCONTRACTORS - Contractors and suppliers of Seller and their respective
+employees who shall render goods or services to Seller, for the
+performance of this Contract.
+
+1.15 SPECIFICATIONS - The technical specifications and drawings of the Parts as
+agreed upon by the Buyer and the Seller (attached hereto as part of Annex
+"II"), as may be updated or modified from time to time pursuant to ARTICLE
+35, including any other document referred to therein.
+
+1.16 WORK - The work to be performed by Seller according to the SOW.
+
+1.17 BUYER - Soltam Systems Ltd.
+
+1.18 END USER - Israeli Ministry of Defense
+
+1.19 EXPORT LICENSE - The export license(s), known as DSP-5, is defined as the
+license required to export the Parts to Israel.
+
+1.20 SELLER - Valentec Systems Inc.
+
+ARTICLE 2 - PREAMBLE, HEADINGS, ANNEXES AND CONTRACT SCOPE
+
+2.1 The preamble to this Contract and the Annexes attached hereto, or the
+Annexes and documents incorporated by reference herein shall all form
+integral parts of this Contract for all intents and purposes.
+
+2.2 The headings of the Articles in this Contract are provided for convenience
+only, and shall not affect the interpretation of this Contract.
+
+2.3 The following Annexes (the "Annexes") are attached hereto, and form
+integral parts hereof:
+
+Annex I - Statement of Work (SOW)
+Annex II - Parts Specification, Drawing List
+Annex III - Price, Payment and Delivery Schedule (Annex III(a)
+and Annex III(b)
+Annex IV - Irrevocable Standby Letter of Credit
+Annex V - Contractors DSCA Certification (DRAFT)
+Annex VI - FMF Guidelines
+Annex VII - Certificate of Delivery Milestone Achievement
+
+Page 4 of 28
+
+[VALENTEC LOGO] AMMUNITION MULTI YEAR PROGRAM - CONTRACT No. 1003 [SOLTAM SYSTEMS LOGO]
+
+(or Certificate of Completion)
+
+ARTICLE 3 - SALE
+
+Seller agrees to sell and Buyer agrees to buy the quantity of the Parts set
+forth in the attached Annex III hereto.
+
+ARTICLE 4 - CONTRACT EFFECTIVE DATE (CED)
+
+4.1 The date of the last to occur of the following shall be the
+effective date of this Contract (hereinafter referred to as "CED");
+
+A. Execution of the Contract by the parties hereto;
+
+B. Receipt by VALENTEC SYSTEMS INC. of the advance payment as set
+out in Articles 5 and 10;
+
+C. Seller's receipt of Defense Security Cooperation Agency,
+(hereinafter referred to as "DSCA") approval of IMOD's funding
+request for this Contract. Seller shall promptly notify Buyer
+in writing of the IMOD's receipt of the required DSCA approval
+after it receives notice of such approval from the IMOD.
+
+D. Seller's receipt of the required export license(s), and, if
+required, approval of a Technical Assistance Agreement (TAA).
+A copy of the export license will be furnished to the IMOD.
+
+ARTICLE 5 - SELLER'S REPRESENTATIONS AND OBLIGATIONS
+
+5.1 Seller hereby represents and warrants that it possesses and its
+Subcontractors possess the necessary ability, fitness, know-how,
+professional expertise, resources and, in general, the capability
+and ability required to manufacture and supply the Parts, in the
+quantities requested and required, and to perform all of its
+obligations pursuant to this Contract.
+
+5.2 The Seller shall manufacture and supply the Parts in accordance with
+the SOW, the Specifications and drawings set forth in the attached
+Annex II, and the terms and provisions of this Contract and shall
+use qualified personnel and suitable materials and tools in the
+performance of its obligations hereunder.
+
+5.3 The Seller shall not sell, either directly or indirectly, or offer
+to sell the Parts or any part thereof, to any third party, without
+receiving prior written consent from the Buyer.
+
+ARTICLE 6 - DELIVERABLES AND SCHEDULE
+
+The Seller shall deliver the Parts EX-WORKS (Incoterms 2000) Seller's
+factory in Minden, Louisiana, U.S.A., in accordance with the Delivery
+Schedule and the other terms and conditions of this Contract. The
+foregoing shall not limit Seller's obligation to deliver any Parts in
+addition to those set forth in the Delivery Schedule or modify any items
+listed in the Delivery Schedule, if required for the Parts to meet the
+Specifications or other Contract requirements. Notwithstanding anything to
+the contrary stated in this Agreement, Seller shall be responsible for and
+shall bear the costs of the delivery of the Parts and all other
+deliverables set forth in the attached Annex III to and from Ashdod port,
+Israel in accordance with the delivery schedules in the attached Annex
+III.
+
+Page 5 of 28
+
+[VALENTEC LOGO] AMMUNITION MULTI YEAR PROGRAM - CONTRACT No. 1003 [SOLTAM SYSTEMS LOGO]
+
+ARTICLE 7 - PRICE
+
+7.1 It is agreed by and between the parties hereto that the total firm, fixed
+price of this Contract (the "Contract Price") shall be US$ 20,000,000
+(twenty million U.S. Dollars.) as follows: (a) the sum of US$ 19,010,000
+for the supply of the Parts in accordance with the attached Annex III(a)
+and (b) the sum of US$ 990,000 for the transportation of the Parts in
+accordance with the attached Annex III(b).
+
+7.2 The Contract Price is calculated based on the prices set forth in the
+attached Annex III.
+
+7.3 Payment for deliveries made by Seller hereunder shall be EX-WORKS VALENTEC
+SYSTEMS INC. Minden, Louisiana, U.S.A.
+
+ARTICLE 8 - PAYMENT
+
+8.1 The Contract Price shall be paid by IMOD, in accordance with this
+Contract, which shall make payment to the Seller in U.S. Dollars according
+to the corresponding delivery dates set forth in Annex III attached hereto
+(the "Delivery Milestone(s)").
+
+8.2 Upon completion of all activities required for completion of a Delivery
+Milestone (including the receipt by Seller of the Certificates of
+Completion), the Seller shall deliver a signed Certificate of Delivery
+Milestone Achievement in the form set forth in Appendix VII, further
+accompanied by all the documents specified in Article 9 to the Buyer's
+Program Manager. The Buyer's Program Manager shall review and approve the
+Delivery Milestone material within seven (7) days. The Buyer will deliver
+the signed Certificate to IMOD and the Seller within fifteen (15) days
+after their receipt by the Buyer. The Buyer will telefax/email a copy of
+the countersigned certificates to the Seller at the time the Certificate
+is sent to the IMOD. The Seller shall submit to the Buyer a copy of each
+invoice and the associated Delivery Milestone material. The Seller shall
+submit to the IMOD six (6) copies of each invoice, each copy accompanied
+by a copy of the Certificate of Delivery Milestone Achievement. IMOD shall
+make payment to Seller within thirty (30) days of receipt of Seller's
+invoice accompanied by a Certificate of Delivery Milestone Achievement
+signed by the Seller and the Buyer and the appropriate documents as
+specified in the Article 9.
+
+8.3 When sending an invoice relating to this Contract, the Seller shall
+indicate the applicable reference number from the attached Annex III.
+Failure to do so will prevent the processing and payment of the invoice.
+In the event a Delivery Milestone payment applies to more than one (1)
+reference number, the Seller shall submit a separate invoice for each
+reference number, which covers a portion of such payment. In addition,
+Seller's invoices must as a minimum contain the relevant information
+required by the FMF Guidelines, which are attached hereto as Appendix VI
+and Seller's Certification to the DSCA, including the following
+certification: "(Full Name of Seller) acknowledges that U.S. Government
+funds are being used by the Government of Israel to finance this Contract
+and certifies that the invoice(s) submitted with respect thereto are free
+from any material false statement or misrepresentation and do not omit any
+material facts."
+
+Page 6 of 28
+
+[VALENTEC LOGO] AMMUNITION MULTI YEAR PROGRAM - CONTRACT No. 1003 [SOLTAM SYSTEMS LOGO]
+
+8.4 Payment shall be made by wire transfer as follows:
+
+Payee: VALENTEC SYSTEMS INC.
+Mail to: VALENTEC SYSTEMS INC.
+2618 YORK AVENUE
+MINDEN, LOUISIANA, 71005
+U.S.A.
+
+Payable to: BANK NAME: Bank of Hapoalim B.M. New York
+1177 Avenue of America, New York, NY 10036
+ROUTING NUMBER: ABA# 026008866
+ACCOUNT NUMBER: 01067255-01
+ACCOUNT NAME: Valentec Systems Inc.
+
+8.5 The Delivery Milestones and corresponding payments and letter of credit
+amounts shall be as set forth in the attached Annex III.
+
+8.6 IMOD's obligation to make the payments pursuant to the Delivery Milestones
+shown in Annex III is conditioned upon receipt by the Buyer of the
+Appendix IV Irrevocable Standby Letter of Credit.
+
+8.7 All Delivery Milestones must be performed in full. Notwithstanding the
+Seller's successful completion of its obligations under a particular
+Delivery Milestone, neither the Buyer nor IMOD will have any payment
+obligation for such Delivery Milestone unless the Delivery Milestone has
+been successfully completed. All tasks within a Delivery Milestone must be
+successfully completed in order for the Delivery Milestone to be
+considered as having been successfully completed.
+
+8.8 The Seller shall not deliver items prior to the dates set forth in the
+Delivery Schedule without first obtaining the prior written permission of
+the Buyer. Failure to obtain such permission shall give the Buyer and IMOD
+the right to delay processing and payment of the applicable invoice until
+the relevant payment date set forth in Annex III (with no interest
+accruing thereon). This Article is in no way intended as authorization for
+late delivery. Failure to meet the schedule as set forth in this Contract
+shall entitle the Buyer to all of its rights and remedies under this
+Contract, at law and in equity.
+
+8.9 The Seller hereby confirms that the IMOD assumes no responsibility towards
+this Contract. The Seller agrees that under no circumstances shall IMOD be
+made a party to any dispute between the Buyer and the Seller, regardless
+of the nature of such dispute.
+
+ARTICLE 9 - PAYMENT SCHEDULE
+
+9.1 The contract provides for the direct payment of the Contract Price by the
+IMOD Mission to the United States to Seller, in accordance with DSCA FMF
+Guidelines.
+
+9.2 Payment by direct wire transfer will be made NET 30 days in United States
+Dollars to Seller, Account No. 01067255-01 , Routing No. ABA# 026008866
+
+Page 7 of 28
+
+[VALENTEC LOGO] AMMUNITION MULTI YEAR PROGRAM - CONTRACT No. 1003 [SOLTAM SYSTEMS LOGO]
+
+at Bank of Hapoalim B.M. New York, 1177 Avenue of America, New York, NY
+10036.
+
+9.3 The IMOD shall pay to Seller in accordance with the payment schedule set
+forth in Annex III attached hereto.
+
+Payment will be made to Seller's aforementioned account at the bank in
+USA, against Seller's invoice in six (6) copies, each copy accompanied by
+the Certificate of Delivery Milestone Achievement.
+
+9.4 In addition with respect to the advance payment the following will apply:
+
+9.4.1 On the CED, an advance payment, equal to 15% of the Contract Price
+shall be made by IMOD to Seller. This advance payment shall be made
+against the Irrevocable Stand by Letter of Credit, as outlined in
+Annex IV, from an IMOD approved bank in USA, to be provided as per
+Section 9.4.2 below.
+
+9.4.2 This irrevocable standby letter of credit (the "Letter of Credit"),
+equal to the amount of the advance payment, will be provided by VSI
+to SOLTAM within thirty (30) days after the CED. The value of the
+Letter of Credit will be reduced at the time of Parts delivery in
+proportion to the value of the item being invoiced.
+
+9.4.3 This Letter of Credit will expire upon delivery of the last
+deliverable pursuant to Annex III. The Letter of Credit shall be
+payable to the United States Government in accordance with Article
+42 in the event Buyer is entitled to draw on the Letter of Credit in
+accordance with its terms.
+
+9.4.4 In the event that the scheduled date for completion of the final
+delivery is revised, Seller shall cause the expiration date of the
+Letter of Credit to be extended to a date one hundred twenty (120)
+days following the latest of such revised completion date.
+
+ARTICLE 10 - NOTIFICATION AND DELIVERY ADVICE
+
+Delivery advice shall be telefaxed to Buyer, fifteen (15) days prior to the
+first scheduled delivery from VALENTEC SYSTEMS INC., Minden, LA., containing
+such information as the contract number and a brief description of the
+commodities to be shipped.
+
+ARTICLE 11 - TITLE
+
+Title to the Parts shall pass from Seller to Buyer upon delivery, EX WORKS
+(INCOTERMS 2000).
+
+ARTICLE 12 - RISK OF LOSS
+
+The Parts shall be delivered to Buyer EX WORKS, VALENTEC SYSTEMS INC., 2618 York
+Avenue, Minden, L.A 71055. Risk of loss or Parts (and other deliverables set
+forth in the attached Annex III) damage to or deterioration of the Parts (and
+other deliverables set forth in the attached Annex III) from whatever cause
+arising shall be borne by Seller prior to and until their delivery to Ashdod
+port in Israel.
+
+Page 8 of 28
+
+[VALENTEC LOGO] AMMUNITION MULTI YEAR PROGRAM - CONTRACT No. 1003 [SOLTAM SYSTEMS LOGO]
+
+ARTICLE 13 - FREIGHT AND PACKING
+
+Seller shall plan, arrange and pay for land and sea transportation from and to
+and from its facility to and from Ashdod port in Israel, in accordance with
+Annex III. Seller must use US carrier and shall follow all transportation
+guidelines and restrictions.
+
+ARTICLE 14 - WARRANTY
+
+14.1 Seller warrants that the Parts delivered hereunder shall be free from
+manufacturing errors and errors, deficiencies and defects in materials and
+workmanship, and shall conform to the Specifications and their respective
+drawings (in the attached Annex II) and other provisions of this Contract.
+This warranty is limited (i) to the prompt correction of errors,
+deficiencies and defects in the Parts, and (ii) to the prompt repair,
+replacement or modification, at Seller's option, of defective goods or
+parts, and any parts damaged by reason thereof, returned to Seller,
+provided that written notice of the defect shall have been given to Seller
+within twelve (12) months of delivery of the Parts in accordance with
+Article 10 hereof; and provided further, that any warranties made by
+Subcontractors that extend beyond the term of this warranty shall inure to
+the benefit of the Buyer. Transportation charges to Seller's plant in
+connection with items returned to Seller and the return transportation
+charges for repaired, modified or replacement items shall be paid by
+Seller if Seller is responsible for repair, modification or replacement
+under the terms of this warranty and such items shall be shipped by a mode
+of transportation to reach Buyer's plant no later than 45 days after
+shipment from Seller's plant. Repaired, modified or replacement items
+shall be fully warranted again, for the full period, as any new item when
+first delivered to Buyer hereunder.
+
+14.2 Any other provisions of this contract to the contrary notwithstanding,
+this warranty, except as to title, is in lieu of all other warranties,
+express or implied, including merchantability or fitness for any
+particular purpose, whether arising by law, custom, conduct or usage of
+trade, and the rights and remedies provided herein are exclusive and in
+lieu of any other right or remedies.
+
+ARTICLE 15 - LEFT BLANK INTENTIONALLY
+
+ARTICLE 16 - BUYER FURNISHED INFORMATION
+
+16.1 Buyer has already furnished to Seller for use only in connection with this
+Contract certain information and materials. Title to said materials and
+information shall at all times remain In Buyer. Seller shall keep and
+maintain said materials in strict confidence, shall not disclose such
+information and material to any third party, and shall act with the
+information and material in accordance with the same practices it uses
+with respect to its own materials of like quality and type, and shall
+maintain control records with respect to Buyer furnished materials and
+information, which materials, information and records shall be subject to
+Buyer's inspection upon Buyer's request. Seller shall be entitled to
+disclose such information to its Subcontractors, who need to know such
+information for the sole purpose of performance of Seller's obligations
+under this Agreement, and provided that prior to such disclosure they will
+undertake in writing to be bound by the confidentiality obligations
+hereof, and further provided that Seller shall be responsible and liable
+toward Buyer for any breach by its Subcontractors of the confidentiality
+obligations hereunder. Seller shall be responsible for any loss or damage
+to Buyer furnished
+
+Page 9 of 28
+
+[VALENTEC LOGO] AMMUNITION MULTI YEAR PROGRAM - CONTRACT No. 1003 [SOLTAM SYSTEMS LOGO]
+
+materials from the time of delivery to Seller until their return to Buyer.
+At the earlier of either the completion of this Contract, at such time as
+specified elsewhere in this Contract, or Buyer's request, Seller shall
+pack and prepare for shipment and deliver EX Works Minden, LA all Buyer
+furnished information and materials (including all information and copies
+thereof), which Seller disclosed to its Subcontractors as mentioned above,
+all in accordance with directions given by Buyer.
+
+ARTICLE 17- BUYER PERSONNEL
+
+17.1 Buyer's personnel shall be entitled to conduct in-process monitoring and
+inspection of Contract performance (including all in-process testing) at
+Seller's facilities where the Work is being performed (hereinafter
+referred to as the "Seller's Plant") and at the facilities of Seller's
+major Subcontractors , subject to such major subcontractors permission,
+which Seller will make best efforts to obtain. This shall include access
+to Seller's quality assurance program. Also, the Seller will use its
+reasonable best efforts to enable the Buyer's personnel to conduct
+in-process monitoring and inspection of Subcontractors' performance at
+Subcontractor's plants. Subject to ARTICLE 17.3. the Seller shall provide
+the Buyer with access to drawings, designs, diagrams and specifications
+for the Parts and all portions thereof. The Seller shall enter into
+appropriate agreements with its Subcontractors and vendors to provide for
+the foregoing.
+
+17.2 The Buyer shall give the Seller at least thirty (30) days prior written
+notice of the visit date to the Seller's Plant and its Subcontractors.
+
+17.3 The Seller's obligations set forth in Articles 17.1 and 17.2 above are
+conditioned on the Seller obtaining all necessary approvals from the U.S.
+Government including the U.S. Department of State, and the Buyer complying
+with the applicable U.S. Government laws and security regulations and
+seller's Plant rules and escort requirements.
+
+17.4 The Buyer's personnel mentioned in this Contract may include
+representatives of the IMOD and IDF who will have the same rights as the
+Buyer's personnel.
+
+17.5 Without derogating from the aforesaid, the Program Manager has the right
+to visit at the Seller's Plant from time on a non-interference basis
+during the term of this Contract and is authorized to execute Certificates
+of Delivery Milestones Achievement or issuing comments in respect to
+technical documents requiring the Buyer's approval. The Program Manager
+shall have no authority to make Contract changes or to grant approvals,
+which require Contract changes, such approvals to be made on the Buyer's
+behalf only in writing signed by the authorized signatories of the Buyer,
+as stipulated in ARTICLE 18.3.
+
+17.6 The Seller agrees to provide the Program Manager, with normal furnished
+office space; reasonable access to office equipment, including, but not
+limited to, photocopying equipment; supplies, secretarial services; local
+and long distance domestic telephone services, at Seller's expense while
+staying at Seller's facilities.
+
+ARTICLE 18 - QUALITY CONTROL, DELIVERY AND ACCEPTANCE
+
+18.1 Seller will be obligated to receive Buyer's approval of the First Article
+(as defined in the SOW), which will be submitted by Seller to Buyer in
+accordance with Section 6 of the SOW, prior to commencing production of
+the Parts hereunder.
+
+18.2 Seller shall perform interim production, quality control, and final tests
+in accordance with the SOW, schedule and procedures and to the standards
+specified in this
+
+Page 10 of 28
+
+[VALENTEC LOGO] AMMUNITION MULTI YEAR PROGRAM - CONTRACT No. 1003 [SOLTAM SYSTEMS LOGO]
+
+Contract. All deliverable items hereunder shall be delivered in accordance
+with the Delivery Schedule, which sets forth deliverable items by name,
+quantity and delivery date relative to the effective date of the Contract.
+
+18.3 All acceptance tests shall be conducted pursuant to acceptance test plans
+and acceptance test procedures ("ATP") as set forth in the SOW. The
+Buyer's and IMOD's representatives may witness all tests set forth in the
+SOW. The Seller shall give the Buyer at least sixty (60) days prior
+written notice of the commencement date of each lot of the acceptance
+tests, the Buyer shall respond and notify the Seller within forty-five
+(45) days of receipt of the said notice, if the Buyer and/or IMOD
+representatives intend to attend the relevant test. Upon a determination
+that the acceptance test results comply with the applicable ATP and pass
+the criteria specified therein, the Buyer and the Seller shall sign
+Certificates of Completion with respect to such acceptance tests. If the
+Buyer elects not to attend the acceptance tests, or if Buyer attends the
+acceptance tests but does not act upon Seller's request for signature
+within fourteen (14) days of receipt of said request, Seller shall be
+authorized to sign the Certificate of Completion so long as the acceptance
+test results comply with the applicable ATPs and pass the criteria
+specified therein. The form for the Certificate of Completion shall be as
+set out in Annex VII attached hereto.
+
+18.4 The Seller acknowledges that each lot of Parts delivered hereunder shall
+be subject to and must pass the IDF acceptance tests set forth in the SOW.
+
+18.5 The delivery of the Parts shall be Ex-Works (INCOTERMS 2000), Seller's
+facilities at 2618 York Avenue, Minden, Louisiana, USA 71055. The Buyer
+(or IMOD) shall furnish the Seller with shipping instructions within a
+reasonable time following execution by Buyer of the Certification of
+Completion for each lot of Parts. Such shipping instructions will set
+forth the date(s) by which ocean freight containers are to be loaded by
+Seller. Seller shall provide ninety (90) days temporary storage at its
+facilities at no cost to Buyer, pending loading of the containers. Parts
+not shipped within ninety (90) days may incur storage costs. Buyer agrees
+to pay the storage costs, if any are imposed by the U.S. Army or their
+designated representatives.
+
+18.6 Neither the provisions of this Article 18, nor actions taken pursuant
+hereto, nor any approvals or comments by Buyer with respect to Seller's
+work shall affect or diminish the full and absolute responsibility of
+Seller to comply with the requirements of this Contract.
+
+18.7 Without derogating from any right or remedy available to Buyer under any
+law or Contract, it is hereby specifically clarified that any delay or
+expected delay in the delivery dates as set forth in the Delivery Schedule
+shall be notified in writing by Seller to Buyer immediately upon Seller's
+becoming aware of such delay. Seller shall specify in its notice the
+reasons for the delay and the expected date of delivery.
+
+18.8 Each Part or lot of Parts delivered by Seller to Buyer shall be
+accompanied by a certificate confirming the following:
+
+(a) That each of the Parts was built and examined in strict accordance
+with the final and approved technical documentation (Specifications
+and the production file);
+
+(b) That each of the Parts was examined and successfully passed the
+qualification acceptance tests as specified in the Specifications
+and the SOW; and
+
+Page 11 of 28
+
+[VALENTEC LOGO] AMMUNITION MULTI YEAR PROGRAM - CONTRACT No. 1003 [SOLTAM SYSTEMS LOGO]
+
+(c) That all of the Parts as a whole were examined and successfully
+passed the mutually agreed upon acceptance tests and meet the
+acceptance tests standards set forth in the SOW.
+
+ARTICLE 19 - TERMINATION FOR DEFAULT
+
+19.1 Each party shall have the right to terminate this Agreement at any time
+upon ninety (90) days prior written notice to the other party in any of
+the following events: (i) winding-up, receivership, or dissolution
+proceedings shall be commenced with respect to the other party (provided
+that if such proceedings shall be rescinded within ninety (90) days of
+their commencement, such notice of termination shall have no effect); or
+(ii) the other party shall substantially cease to carry on business; or
+(iii) a substantial part of the other party's assets shall be attached or
+levied by a court or another official agency (provided that if such
+attachment or levy shall be removed within ninety (90) days, such notice
+of termination shall have no effect); or (iv) the other party shall fail
+to perform or shall be in breach of any of its material obligations under
+this Agreement and such failure or breach shall not be rectified within
+ninety (90) days after receiving a written notice from the other party,
+specifying the failure or breach and demanding its cessation.
+
+19.3 However, if there is a dispute between Buyer and Seller concerning the
+alleged default of the Contract such dispute shall be settled under the
+Arbitration Article 22. Under a dispute situation, the amount as mentioned
+above, would not be paid to Buyer unless the Arbitration Board decided the
+dispute in favor of Buyer.
+
+19.4 Except for defaults of subcontractors at any tier, the Seller shall not be
+liable for any excess costs if the failure to perform the contract arises
+from causes beyond the control and without the fault or negligence of the
+Seller. Examples of such causes include (1) acts of God (2) fires, (3)
+floods, (4) epidemics, (5) quarantine restrictions, (6) strikes, (7)
+freight embargoes, and (8) unusually severe weather. In each instance the
+failure to perform must be beyond the control and without the fault or
+negligence of the Seller.
+
+19.4 If the failure to perform is caused by the default of a subcontractor at
+any tier, and if the cause of the default is beyond the control of both
+the Seller and subcontractor, and without the fault or negligence of
+either, the Seller shall not be liable for any excess costs for failure to
+perform, unless the subcontracted supplies or services were obtainable
+from other sources in sufficient time for the Seller to meet the required
+delivery schedule.
+
+19.5 It is agreed by and between the parties that the remedies available to
+Seller and Buyer as set forth above are the sole and exclusive remedies,
+recourse and liability to each of the parties under this Article of this
+Contract. Under no circumstances shall Buyer or Seller be liable under
+this Article or any other provision of this Contract to a cumulative
+liability greater than the Contract Price.
+
+ARTICLE 20 - TERMINATION FOR CONVENIENCE
+
+20.1 Buyer shall have the right, at its convenience and discretion, to
+terminate this Contract, in whole or from time to time in part, by
+delivery to Seller of a notice
+
+Page 12 of 28
+
+[VALENTEC LOGO] AMMUNITION MULTI YEAR PROGRAM - CONTRACT No. 1003 [SOLTAM SYSTEMS LOGO]
+
+of termination for convenience, specifying the extent to which the
+performance of the Program under this Contract is terminated, and the date
+upon which such termination shall become effective, which termination
+shall be subject to the terms set forth in Paragraph 52.249-2 of the
+September 1996 edition of the Federal Acquisition Regulation of the United
+States Government, with Buyer being substituted for the "Contracting
+Officer" and the "Government" and Seller being substituted for
+"Contractor", except that any disputes in connection herewith shall be
+resolved in accordance with ARTICLE 22 hereunder. Costs included in Seller
+termination claim may be verified by DCAA.
+
+ARTICLE 21 - SUBCONTRACTORS
+
+21.1 Seller shall notify Buyer the identity of its Subcontractors who may take
+part in the performance of Seller's obligations and undertakings pursuant
+to this Contract and in addition, the types of work in which they shall be
+engaged.
+
+21.2 Seller shall cause, that all the required provisions of this Contract,
+shall be included in each agreement between Seller and any of its
+Subcontractors, mutatis mutandis, and shall ensure that each of its
+Subcontractors shall adhere to the provisions of this Contract, provided
+that the aforesaid will apply only to the Subcontractors whose contract
+price is above US$ 500,000 (five hundred thousand U.S. Dollars).
+
+21.3 Notwithstanding the above provisions, nothing in this Contract creates
+contractual relations between Buyer and the Subcontractors or shall impose
+on Buyer any financial obligation towards the Subcontractors and/or
+diminishes Seller's responsibilities and liabilities, undertakings and
+obligations to perform this Contract as it is written, and according to
+its provisions.
+
+ARTICLE 22 - APPLICABLE LAW AND ARBITRATION
+
+22.1 Applicable Law and Enforcement
+
+It is agreed by and between the parties hereto that this Contract shall be
+construed and interpreted in accordance with the laws of New York
+(excluding conflict of laws principles). Any arbitration award shall be
+based on and accompanied by findings of fact and conclusions of law, and
+shall be conclusive. Any award shall be confirmable by any U.S. District
+Court having jurisdiction over the parties and action.
+
+22.2 Arbitration Required
+
+All disputes and/or claims between the parties hereto based upon any
+alleged breach of any of the obligations created hereunder shall be
+finally settled by an arbitrator appointed pursuant to the then rules and
+regulations of the American Arbitration Association.
+
+22.3 Language of Arbitration
+
+The arbitration proceeding shall be conducted in accordance with the rules
+of the American Arbitration Association then in force and shall be in the
+English language. The arbitration shall take place in New York, New York,
+U.S.A.
+
+22.4 Confidentiality
+
+The parties agree that any arbitration proceedings hereunder shall be
+conducted on a confidential basis, and subject to the security provisions
+of this Contract.
+
+Page 13 of 28
+
+[VALENTEC LOGO] AMMUNITION MULTI YEAR PROGRAM - CONTRACT No. 1003 [SOLTAM SYSTEMS LOGO]
+
+22.5 Costs
+
+Each party shall be responsible for its respective costs incurred in
+arbitration, except that costs and fees imposed by the arbitrator for his
+fees and expenses shall be borne equally by the parties.
+
+22.6 Scope of Awards
+
+The award of the arbitrator may be, alternatively or cumulatively, for
+monetary damages, an order requiring performance of non-mandatory
+obligations (including specific performance or an obligation to cease and
+desist) or any other appropriate order or remedy; however, under no
+circumstances shall the arbitrator be authorized to award, nor shall the
+arbitrator award, consequential damages, punitive damages or multiple
+damages. The arbitrator may issue interim awards and order any provisional
+measures that should be taken to preserve the respective right of either
+party.
+
+ARTICLE 23 - New Materials
+
+Seller warrants that the supplies and components to be provided by Seller under
+this Contract are new, not used or reconditioned (except to the extent that such
+supplies and components must be used or modified in the performance hereof), and
+that at the time of the Parts delivery, none of such supplies and components
+shall be of such age or so deteriorated as impair their usefulness or safety.
+
+ARTICLE 24 - Proprietary Rights in the Parts
+
+Buyer owns and will continue to own the proprietary rights in the Parts. Seller
+will be entitled to manufacture, assemble, test and deliver the Parts under this
+Contract.
+
+ARTICLE 25 - Proprietary Data and Confidentiality
+
+25.1 All specifications, technical data and information furnished to Seller by
+Buyer in writing prior to the date of this Contract and all
+specifications, technical data and information to be furnished to Seller
+by Buyer in the course of this Contract which are clearly and
+conspicuously marked Proprietary Data will not be disclosed by Seller to
+third parties other than the U.S. Government (and with respect to such
+disclosure to the U.S. Government only if required to do so by law or
+regulation).
+
+25.2 Each of the Parties shall keep confidential, shall not to disclose, or
+allow to be disclosed and shall not expose or allow to be exposed, all or
+any part of any information which it will be, or may be exposed to, or
+will obtain or will have access to, directly or indirectly, regarding the
+other Party's respective intellectual property, work techniques,
+technologies, any financial or commercial information, cost information,
+customer and/or client lists, suppliers, subcontractors, prices or any
+other Information regarding the other Party's business or affairs
+(hereinafter: the "Confidential information") and not to make use of the
+Confidential Information in any manner, for any purpose other than for the
+purpose of performing its respective undertakings and obligations as
+provided herein, and not to transfer any of the Confidential information
+to any third party. IMOD will not be regarded as a third party with
+respect to the limitations under this ARTICLE.
+
+Page 14 of 28
+
+[VALENTEC LOGO] AMMUNITION MULTI YEAR PROGRAM - CONTRACT No. 1003 [SOLTAM SYSTEMS LOGO]
+
+25.3 The provisions in ARTICLES 25.1 and 25.2 hereinabove shall not apply
+to Proprietary Data aforementioned or Confidential Information that
+the receiving Party can prove by documentary evidence that such
+Confidential Information:
+
+25.3.1 Has already been known to the receiving Party not in
+connection with this Contract before being disclosed to it by the
+disclosing Party;
+
+25.3.2 Has become generally known to the public through no breach of
+the receiving party's undertakings herein by such Party or on its
+behalf.
+
+24.3.3 Has been rightfully received by the receiving Party from a
+third person who did not breach any restriction of disclosure or
+obligation of confidentiality;
+
+25.3.4 Has been independently developed for the receiving Party, by
+its employees (who, at no time, have been exposed to the
+Confidential Information) without use, directly or indirectly of the
+Confidential Information or any part thereof received from the other
+Party or on its behalf.
+
+25.4 Notwithstanding anything to the contrary contained herein, in the
+event that either Seller or Buyer shall be required to provide their
+subcontractors with any of the other Party's Confidential
+Information, in order to fulfill its undertakings and obligations in
+connection to the performance of this Contract, it shall:
+
+25.4.1 Ensure that its subcontractors sign a Confidentiality
+Undertaking similar to its undertaking, pursuant to this Contract,
+and
+
+25.4.2 Receive back from its subcontractors, any and all such
+Confidential Information, promptly upon such Subcontractors
+concluding performing their respective undertakings related to the
+Confidential Information.
+
+25.5 Each of the Parties undertakes to ensure that all of their
+respective employees, consultants, officers, directors,
+shareholders, subsidiaries and anyone else affiliated or related in
+any way to either of the Parties, shall abide with the above
+undertaking. Each Party acknowledges its liability for any breach of
+the above undertaking made by one or more of the persons or entities
+referred to above.
+
+25.6 The provisions of this ARTICLE 25 shall survive any termination or
+expiration of this Contract.
+
+ARTICLE 26- INTELLECTUAL PROPERTY REPRESENTATION AND INDEMNIFICATION
+
+26.1 Seller represents that to the best of its knowledge, the items,
+data, information, drawings or any other material delivered by
+Seller hereunder are free from infringement from any patents or
+claim of other third party proprietary rights, and that Seller has
+not granted to any third party an exclusive license to manufacture
+or sell the same in Israel, and knows of no such grant.
+
+26.2 Seller shall, without limitation, at its sole cost and expense,
+indemnify and hold Buyer harmless from, and defend any claims, suits
+or proceedings arising out of, any infringement or claimed
+infringement of:
+
+(a) Any letters patent; or
+
+(b) Any other proprietary rights.
+
+26.3 Seller shall pay any judgments entered, or any settlements made with
+Seller's prior written approval, with respect to the suits or
+proceedings referred to in
+
+Page 15 of 28
+
+[VALENTEC LOGO] AMMUNITION MULTI YEAR PROGRAM - CONTRACT No. 1003 [SOLTAM SYSTEMS LOGO]
+
+ARTICLE 26.2 above. Such defense and payments under this ARTICLE 26 are
+conditioned on the following:
+
+A. Buyer shall promptly notify Seller in writing of any notice of such
+claim;
+
+B. Seller or its nominee shall have control of the defense of any
+action on such claim and all negotiations for its settlement or
+compromise; provided, however, that if the Buyer is a named
+defendant, Buyer shall have the right to approve counsel and to
+cooperate in such defense; and
+
+C. Buyer shall give Seller assistance reasonably required in connection
+with such defense or negotiations.
+
+26.4 Articles 26.2 and 26.3 shall have no application if:
+
+A. The Infringement or claimed infringement results from compliance
+with specific written instructions by Buyer directing a change in
+the supplies to be delivered or in the materials or equipment to be
+used; or
+
+B. The Infringement results from the addition to, or change in, the
+supplies or services furnished, which addition or change was made
+subsequent to delivery or performance by Seller.
+
+26.5 Should the use of any item or any part thereof delivered hereunder be
+enjoined, or in Seller's opinion be likely to become enjoined, or in the
+event Seller desires to minimize its liabilities hereunder, Seller will,
+at its option, either substitute a fully equivalent, non-infringing
+product, modify such item so that it no longer infringes but remains
+functionally equivalent, or obtain for Buyer, at the expense of Seller or
+its nominee, the right to continue use of the item or any part thereof.
+
+ARTICLE 27 - FORCE MAJEURE
+
+27.1 A delay in the performance hereunder by a party shall only be excused when
+said delay in performance is caused by an event beyond the reasonable
+control of that party and which could not have reasonably been anticipated
+and was without the party's default or neglect, including but not limited
+to acts of God, war, strikes, explosions, hijacking, accidents, Government
+acts including limitations on travel and export limitations, Seller's
+self-imposed restrictions on travel based on US State Department travel
+advisories, act of the public enemy, and failure or inability of
+subcontractors to perform due to any such causes as above unless the
+parties otherwise agree that subcontract commodities to be furnished under
+the contract are procurable in the open market. The foregoing provision
+shall not, however, release a party claiming force majeure from using its
+best efforts to avoid or diligently remove such circumstances. When a
+party is excused from performance of any of the above-mentioned
+circumstances, that party shall resume performance with utmost dispatch as
+soon as such circumstances are removed. A party claiming such an excusable
+delay, in order for it to be recognized, shall promptly give written
+notice verified by the appropriate Chamber of Commerce.
+
+Page 16 of 28
+
+[VALENTEC LOGO] AMMUNITION MULTI YEAR PROGRAM - CONTRACT No. 1003 [SOLTAM SYSTEMS LOGO]
+
+ARTICLE 28 - TAXES
+
+28.1 The Contract price includes all United States federal, state or local
+taxes, levies and duties imposed on the Seller, its Subcontractors or
+employees. The Contract price does not include any amounts for Israeli
+value added tax, custom duty, stamps or any other taxes, charges or fees
+that may be levied in Israel on the Parts to be supplied by the Seller.
+
+28.2 Any export tax, fee or other charges of any nature now existing or which
+may hereafter be imposed by the U.S. Government shall be paid by Seller.
+
+ARTICLE 29 - PERSONNEL DELEGATION
+
+29.1 It is understood and agreed that all technical specialists whose services
+are furnished to assist Buyer as contemplated herein shall operate under
+the direction of Seller, but Seller shall assure that such persons are
+fully responsive to Buyer's requirements. It is understood and agreed that
+employees of one party, while visiting the plant of the other, shall not
+be considered to be employees of the other, and that their salaries,
+traveling expenses, and living costs, as well as an liability for
+workmen's compensation, accident and health insurance or other benefits,
+shall be borne by their own employer which shall assume all responsibility
+with respect thereto. Seller shall not be liable for any injuries or death
+or for any loss or damage to property arising out of or caused by their
+performance of this Contract unless due to willful misconduct or
+negligence of Seller. Such employees shall abide by all of the plant rules
+and regulations of the plant that they are visiting or at which they are
+resident. Each party shall make its own best efforts to obtain compliance
+therewith.
+
+ARTICLE 30 - VISAS
+
+30.1 If required, Buyer shall assist Seller in obtaining Visas for Seller's
+personnel sent to Israel under this Contract.
+
+30.2.1 If required, Seller shall assist Buyer in obtaining Visas for Buyer's
+personnel sent to the U.S. under this Contract.
+
+ARTICLE 31 - HEADINGS
+
+31.1 The articles and paragraphs headings contained herein are for convenience
+and reference only, and are not a part of this Contract, nor shall they in
+any way effect the interpretation thereof.
+
+ARTICLE 32 - ENTIRE CONTRACT
+
+32.1 This Contract contains and constitutes the entire understanding and
+agreement between the parties hereto respecting the subject matter hereof
+and supersedes and cancels all previous negotiations, agreements,
+commitments and writing in connection therewith.
+
+ARTICLE 33 - WAIVER
+
+33.1 Any waiver by either party of a breach or default shall not constitute a
+waiver of any other breach or default subsequently occurring.
+
+Page 17 of 28
+
+[VALENTEC LOGO] AMMUNITION MULTI YEAR PROGRAM - CONTRACT No. 1003 [SOLTAM SYSTEMS LOGO]
+
+ARTICLE 34 - RELIABILITY
+
+34.1 The parties agree that if any portion of this Contract shall be held to be
+illegal and/or unenforceable, the parties will provide notice of such fact
+to each other and will arrive at the solution by mutual agreement. The
+remaining portions of this Contract shall continue to be binding and
+enforceable provided that the affectivity of the remaining portion of this
+Contract would not defeat the overall intent of the parties, or give one
+party any substantial financial benefit to the detriment of the other
+party.
+
+ARTICLE 35 - MODIFICATION -- CHANGES
+
+35.1 Buyer may at any time, by written order make changes within the general
+scope of this contract in any one or more of the following:
+
+(1) Drawings, designs, or specifications
+
+(2) Content of Seller scope of work
+
+35.2 If any such change causes an increase or decrease in the cost of, or the
+time required for, performance of any part of the work under this
+contract, the Buyer shall make an equitable adjustment in the contract
+price, the delivery schedule, or both, and shall modify the contract.
+Seller shall assert its right to an adjustment under this clause within 30
+days from the date of receipt of the written order. Seller shall provide
+Buyer with a proposal for equitable adjustment no later than 90 days after
+asserting its right. Buyer and Seller recognize that reductions in
+Seller's scope of work may Impact Seller's indirect cost rates, including
+but not limited to Overhead, Fringe and G&A. In those situations, Buyer
+and Seller agree that Seller's claim shall be adjusted to reflect the
+changes in rates as allowed in the latest edition of the Federal
+Acquisition Regulation of the United States Government, with Buyer being
+substituted for the "Contracting Officer" and the "Government" and Seller
+being substituted for "Contractor". DCAA shall be the audit authority for
+any claim. If Seller's proposal includes the cost of material made
+obsolete or excess by the change, the Buyer shall have the right to
+prescribe the manner of the disposition of the material. Failure of Buyer
+and Seller to agree to any adjustment shall be a considered a "dispute"
+under Article - 22-Applicable Law and Arbitration of this contract.
+
+35.3 No change altering price, payment terms or Program Schedule shall be
+effective unless accompanied by an amendment signed by the authorized
+representatives of Buyer and Seller. Seller shall not proceed with the
+change request pending the Contract amendment. If Seller does proceed with
+the change despite not having received a signed amendment to this
+Contract, all costs associated with such change shall be deemed to be
+covered by the firm fixed price of this Contract and will not be
+reimbursed by Buyer or IMOD.
+
+35.4 Any amendment to this Contract is subject to the prior written consent of
+Seller, IMOD and DSCA.
+
+35.5 Seller shall use reasonable efforts to reduce delays agreed upon by the
+Parties in the timetable, as a result of the performance of any changes.
+
+35.6 No change altering any technical or other contractual requirement shall be
+effective unless accompanied by an amendment signed by the authorized
+representatives of Buyer and Seller. Seller shall not proceed with any
+such change request pending the Contract amendment.
+
+Page 18 of 28
+
+[VALENTEC LOGO] AMMUNITION MULTI YEAR PROGRAM - CONTRACT No. 1003 [SOLTAM SYSTEMS LOGO]
+
+ARTICLE 36 - DISCLAIMER OF AGENCY
+
+The parties to this Contract are independent legal entities. There is no
+relationship existing of principal and agent. Therefore, neither party shall
+have authority to accept on behalf of the other any order, agreement, or
+contract, or to create any claim, guarantee, debt, obligation, expense or
+liability of any kind on behalf of the other party.
+
+ARTICLE 37 - DECLARATIONS
+
+It is agreed by and between the parties that they shall render one to the other
+whatever assistance is deemed appropriate in obtaining any Governmental
+approvals for this Contract, if required.
+
+ARTICLE 38 - LANGUAGE OF DOCUMENTS
+
+All documents such as shipping documents, shipping advice, markings, drawings,
+instruction manuals, guarantees, letters, telegrams, telefaxes, etc., in
+connection with the contract shall be in English, unless otherwise authorized by
+Seller.
+
+ARTICLE 39 - COMPUTATION OF TIME
+
+Time, if stated in number of days, will include Saturday, Sunday and Holidays.
+
+ARTICLE 40 - ASSIGNMENT
+
+40.1 Except as otherwise expressly provided herein, neither party shall assign
+or in any manner transfer its rights and/or obligations or any part
+thereof under this Contract without express prior written consent of the
+other party, which consent shall not be unreasonably withheld.
+
+40.2 Subject to any required governmental licensing approvals or restriction,
+either party may, without the other party's consent, assign its rights
+and/or obligations hereunder to (i) its parent company, if any; (ii) any
+complete successor in interest in the event of change in corporate name,
+merger, acquisition or consolidation of its parent or itself, or (iii) a
+wholly owned subsidiary of its parent or itself.
+
+ARTICLE 41 - NOTICES
+
+41.1 Any and all notices hereunder shall be sent by registered airmail or cable
+as follows:
+
+To Buyer:
+
+SOLTAM Systems Ltd.
+P.O.B. 13
+Yokneam 20692
+Israel
+
+Attention: Mr. Cohen Rachamim
+Program Manager
+
+Telephone: 097249896450
+Telefax: 097249896452
+E-Mail: rachamim_c@soltam.com
+
+Page 19 of 28
+
+[VALENTEC LOGO] AMMUNITION MULTI YEAR PROGRAM - CONTRACT No. 1003 [SOLTAM SYSTEMS LOGO]
+
+And MR. JACOB INBAR
+Technical Manager
+Telephone: 09724989680
+Telefax: 097249893643
+E-Mail: Jacob_i@soltam.com
+
+To Seller:
+
+Notices on all contractual matters for the Program shall be
+addressed to:
+
+VALENTEC SYSTEMS INC.,
+2618 York Avenue
+Minden, LA 71055
+Attention: Mr. James E. Hawley
+
+Telephone:318-459-5120
+Telefax: 318-459-5129
+E-Mail: kethy crafvsi@valentec.net
+
+A copy of all notices on all technical matters for the Program
+shall be addressed to:
+
+JAMES E. HAWLEY
+Program Manager
+
+Telephone: 318-459-5123
+Telefax: 318-459-5129
+E-Mail: jhawlet@valentec.net
+
+Contracts Manager
+RON MACKEY
+Telephone-318-459-5143
+Telefax-318-459-5129
+rmackey@valentec.net
+
+All airmail notices shall be effective and deemed given one week after
+posted, and all email / fax notices seventy-two (72) hours after delivery
+to the email / fax address, unless the party can confirm receipt
+otherwise.
+
+Page 20 of 28
+
+[VALENTEC LOGO] AMMUNITION MULTI YEAR PROGRAM - CONTRACT NO. 1003 [SOLTAM SYSTEMS LOGO]
+
+ARTICLE 42 - U.S. GOVERNMENT REQUIRED CERTIFICATION AND AGREEMENT
+
+42.1 Contractor's Certification - In order for Seller/IMOD to obtain approval
+of the U.S. Defense Security Cooperation Agency ("DSCA") (formerly Defense
+Security Assistance Agency) to use Foreign Military Financing ("FMF")
+credit funds for this procurement, Seller agrees to complete, execute in
+duplicate and furnish Buyer for transmittal to the DSCA the form entitled
+"Contractors Certification and Agreement with Defense Security Cooperation
+Agency", hereinafter referred to as "Contractors Certification", in the
+form attached hereto as Appendix V (or such modified form as may be
+required by DSCA). Seller agrees that any breach of any of its obligations
+under said Contractors Certification shall constitute a breach of Seller's
+obligation to Buyer/IMOD under this Contract.
+
+42.2 FMF Guidelines - Seller acknowledges receipt of the Guidelines for Foreign
+Military Financing of Direct Commercial Contracts - Israel, dated August
+2001 (the "FMF Guidelines"), a copy of which is annexed hereto as Appendix
+VI. Seller agrees to observe the FMF Guidelines. Seller will not make any
+changes to the U.S. content / non-US content identified in its
+Certification without the prior written authorization of Buyer/IMOD.
+
+42.3 Seller is fully responsible for maintaining the U.S. content percentage
+set forth in Seller's certification to the DSCA. All costs associated with
+maintaining the U.S. content percentage (i.e. shifting additional work to
+the U.S.) shall be Seller's responsibility and shall not be reimbursed by
+Buyer. In the event Seller fails to maintain such U.S. content percentages
+and because of such failure the DSCA suspends or revokes, in whole or in
+part, its FMF funding approval, Seller shall be deemed to be in material
+breach of its obligations under this contract and Buyer shall be entitles
+to return all items previously delivered (including finally accepted
+items) for full refund of all amounts previously paid by Buyer to Seller
+with no further Buyer financial obligations to Seller.
+
+42.3 Payments to the U.S. Government - In accordance with Paragraph 18 of the
+FMF Guidelines and Paragraph 19 of the Contractors Certification, Seller
+and Buyer agree that all payments to the U.S. Government must be made
+payable to the United States Treasury and remitted (1) directly by check
+to the DSCA or (2) by wire transfer to the U. S. Treasury's account.
+Checks shall be made payable to "United States Treasury" and mailed to:
+
+Defense Finance and Accounting Service (DFAS-DE/IADD)
+6760 E. Irvington Place
+Denver, CO 80279-5000
+
+The check shall be accompanied by a letter of explanation Identifying
+Israel as the purchasing country. Wire transfer payments shall be
+transferred as follows:
+
+United States Treasury
+New York, New York
+021-030-004
+DFAS-DE/IADD
+Agency Code 3801
+
+Refund from Seller, for purchases made by the Government of Israel under
+GOI Contract/Purchase Order No.
+
+Page 21 of 28
+
+[VALENTEC LOGO] AMMUNITION MULTI YEAR PROGRAM - CONTRACT NO. 1003 [SOLTAM SYSTEMS LOGO]
+
+Seller shall furnish to Buyer concurrently with any transmittal to the
+U.S. Government, copies of any check, wire transfer, letter of explanation
+or other relevant correspondence, which is sent to U.S. Government.
+
+42.4 DCMA and DCAA Administrative Services - As a condition of FMF funding of
+the Contract, Seller agrees that Defense Contract Audit Agency (DCAA)
+contract audit services will be performed to ensure that Seller is in
+compliance with the Defense Security Cooperation Agency (DSCA)
+contractor's certification. DCAA will perform contract audit services in
+accordance with the contractor's certification. To ensure contractor
+compliance, DCAA contract audit services will be provided over the life of
+the Contract and will be coordinated with the Defense Contract Management
+Agency.
+
+ARTICLE 43 - IMOD REQUIRED CERTIFICATION
+
+43.1 Seller agrees that by signing this Contract it is certifying that
+throughout the conduct of the solicitation leading to this Contract no
+officer, director, employee, representative or agent of Seller offered,
+promised or discussed with Buyer/IMOD personnel involved in this Contract
+1) the future employment of (or business opportunity with) any Buyer/IMOD
+personnel, 2) the transfer of any money, gratuity or other thing of value
+to any Buyer/IMOD personnel, and/or 3) the transfer by any Buyer/IMOD
+personnel to Seller of any proprietary or source selection information
+regarding this or any other procurement. For purposes of the preceding
+sentence (and only for purposes of such preceding sentence), Buyer/IMOD
+shall be defined so as to include officers in the Israeli Defense Forces
+or employees of Buyer. The prohibited conduct described above shall
+continue to be prohibited following the award of this Contract. Seller
+further certifies that except as disclosed to Buyer/IMOD prior to Seller's
+signature of this Contract, Seller does not currently employ any
+individual or retain any agents who at any time within the past two years
+were 1) employed by the Government of Israel Ministry of Defense
+(including, but not limited to, Its Mission to the U.S.) or 2 officers on
+active duty in the Israel Defense Forces. Any breach by Seller of the
+certifications set forth above shall constitute a breach of Seller's
+obligations to Buyer/IMOD under this contract. Such breach shall entitle
+Buyer/IMOD to terminate this Contract without any Buyer/IMOD liability to
+Seller (including the right to return items already delivered for a refund
+of amounts already paid).
+
+ARTICLE 44 - SECURITY
+
+44.1 The Program covered by this Contract is unclassified.
+
+44.2 Except as required by U.S. and Israeli law, neither Seller nor its
+Subcontractors shall release any publicity as to Buyer's identity or other
+information concerning this Contract (including publication in internal or
+trade newsletters) without the prior written consent of Buyer.
+
+44.3 The furnishing of any classified information and materials to Seller by
+Buyer in connection with this Contract requires the prior written consent
+of IMOD. IMOD's consent may be conditioned upon execution of an agreement
+between Seller and Buyer on procedures governing the treatment of such
+information and materials.
+
+Page 22 of 28
+
+[VALENTEC LOGO] AMMUNITION MULTI YEAR PROGRAM - CONTRACT NO. 1003 [SOLTAM SYSTEMS LOGO]
+
+44.4 Buyer agrees not to disclose or present the Program (or any part thereof)
+to any third party excluding the U.S. Government and Seller's
+Subcontractors on a need to know basis, without the prior written consent
+of Seller's Security Department.
+
+44.5 The disclosure, transmittal, use, storage, distribution and disposition of
+all information, data, documentation and equipment produced or exchanged
+by either Party under the terms of this Contract shall be in accordance
+with the procedure utilized by Seller for the protection of U.S.
+Government work.
+
+44.6 All of Seller's personnel, who are to perform services under this Contract
+in Israel, if any, shall be subject to Israeli security requirements.
+Buyer supplied questionnaires shall be completed by Seller personnel who
+are to perform services in Israel, if there are any, and submitted to the
+Director of Buyer's Security Department at least thirty (30) days prior to
+planned departure from the U.S.
+
+44.7 Seller agrees to insert security provisions, which conform to requirements
+of this Article in all subcontracts awarded to Subcontractors.
+
+44.8 Seller shall comply with U.S. security procedures at its plant, inter
+highlight, in order to implement the above security requirements upon the
+signing of this Contract and shall inform all employees and agents
+connected with the Contract of the provisions of this ARTICLE.
+
+44.9 Buyer and IMOD personnel shall be subject to the Visit Request procedures
+of the U.S. Government, Seller and Subcontractors.
+
+44.10 Notwithstanding any provisions in this Contract to the contrary, in no
+event shall Buyer deny Seller consent to disclose information relating to
+this Contract to U.S. Government, if such disclosure is required by U.S.
+law or regulations.
+
+44.11 The Parties' authorized representatives concerning all security matters
+relating to the performance of this Contract are as follows
+
+SOLTAM: Head of Security of SOLTAM and
+Director of Security
+Government of Israel
+Ministry of Defense
+Mission to the United States
+
+VALENTEC SYSTEMS INC.
+
+Security Chief - Mr. Jim leathers
+Valentec Systems, Inc.
+2618 York Avenue
+Minden, LA 71105
+Telephone: (318) 459-5014
+Telefax: (318)-459-5691 E-mail:jleathers@valentec.net
+
+ARTICLE 45 - STOP WORK ORDERS
+
+45.1 Buyer may, by written order to Seller at any time, require Seller to stop
+all, or any part, of the work called for by this Contract for a period of
+up to ninety (90) days after the stop work order is delivered to Seller
+and for any further period to which the parties may agree. Any such order
+shall be specifically
+
+Page 23 of 28
+
+[VALENTEC LOGO] AMMUNITION MULTI YEAR PROGRAM - CONTRACT NO. 1003 [SOLTAM SYSTEMS LOGO]
+
+identified as a stop work order issued pursuant to this ARTICLE. Upon
+receipt of such an order, Seller shall forthwith comply with its terms and
+take all reasonable steps to minimize the incurrence of cost allocable to
+the work covered by the order during the period of work stoppage. Within a
+period of ninety (90) days after a stop work order is delivered to Seller,
+or within any extension of that period to which the parties have mutually
+agreed to an extension, Buyer shall either:
+
+(i) Cancel the stop work order; or
+
+(ii) Terminate the work covered by such order by reason of Seller's
+default or as provided in ARTICLE 20, Termination for Convenience.
+
+45.2 If a stop work order issued under this ARTICLE is cancelled or the period
+of the order or any extension thereof expires, Seller shall resume work.
+An equitable adjustment shall be made in the delivery schedule or Contract
+Price, or both, and the Contract shall be modified in writing accordingly,
+if:
+
+A. The stop work order results in an increase in the time required for,
+or in Seller's cost properly allocable to, the performance of any
+part of this Contract; and
+
+B. Seller asserts a claim for such adjustment within thirty (30) days
+after the end of the period of work stoppage;
+
+ARTICLE 46 - FIELD PRICING SUPPORT
+
+46.1 Seller agrees to the requirement for field pricing support as stipulated
+hereunder. This support will be provided by Defense Contract Management
+Command (DCMC) and Defense Contract Audit Agency and will normally include
+technical and cost analysis of Seller's proposal. IMOD shall request field
+pricing support through the DCMC international Logistics Office in New
+York, NY. Field pricing support will include an audit review by the
+cognizant contract audit activity before concluding negotiation of the
+Contract or any modification. Seller will submit cost or pricing data in
+connection with the pricing of this Contract or any modification to this
+Contract which affects the price of the Contract.
+
+46.2 The U.S. Government (USG) representatives shall have the right to examine
+and audit all of Seller's books, records, documents, and other data,
+related to proposing, negotiating, pricing, or performing this Contract,
+in order to evaluate the accuracy, completeness, and currency of the cost
+or pricing data. The right of examination shall extend to all documents
+necessary to permit adequate evaluation of the cost or pricing data
+submitted, along with the computations and projections used. Seller shall
+make available at its office at all reasonable times the materials
+described above for examination, audit, or reproduction, until 3 years
+after final payment under the Contract. General access to Seller's books
+and financial records shall be limited to USG representatives. The USG
+representatives shall verbally notify the IMOD immediately of data
+provided that is so deficient as to preclude review, or where Seller has
+denied access to records or to cost or pricing data considered essential
+to the performance of a satisfactory review. This verbal notification
+shall be promptly confirmed in writing to the IMOD describing the
+deficiency or the denial of access to data or records. Seller failure to
+provide adequate cost and pricing data may disqualify the Contract from
+consideration for FMF approval.
+
+Page 24 of 28
+
+[VALENTEC LOGO] AMMUNITION MULTI YEAR PROGRAM - CONTRACT NO. 1003 [SOLTAM SYSTEMS LOGO]
+
+46.3 Field pricing support is intended to give the IMOD a detailed analysis of
+the proposal for use in the Contract negotiations to determine a fair and
+reasonable price. It normally includes an audit review by the cognizant
+audit activity and a technical analysis by DCMC. Seller has no objection
+that Buyer will receive from IMOD the results and conclusions of said
+audit.
+
+A. Cost analysis will include, as appropriate:
+
+1. Verification of cost or pricing data and evaluation of cost
+elements.
+
+2. Evaluating the effect of Seller's current practices on future
+costs to ensure that the effects of inefficient or uneconomical past
+practices are not projected into the future.
+
+B. Comparison of cost proposed by Seller for individual cost elements
+with:
+
+1 . Actual costs previously incurred by Seller;
+
+2. Previous cost estimates from Seller or from other offers for the
+same or similar items;
+
+3. Other cost estimates received in response to the IMOD's request;
+
+4. Independent cost estimates by technical personnel;
+
+5. Forecasts or planned expenditures.
+
+C. Verification that Seller's cost submissions are in accordance with
+U.S. DOD contract cost principles and procedures and, when
+applicable, the requirements and procedures of the Cost Accounting
+Standards.
+
+D. Review to determine that all cost or pricing data necessary to make
+Seller's proposal accurate, complete, and current has been either
+submitted or identified in writing by Seller.
+
+E. Analysis of the results of any make-or-buy program reviews, in
+evaluating Seller costs.
+
+46.4 Technical analysis will include, at a minimum, a review and assessment of:
+the quantities and kinds of material proposed; the need for the number and
+kinds of labor hours and the labor mix; any special tooling and facilities
+proposed; reasonableness of proposed scrap and spoilage factors; and any
+other data that may be pertinent to the cost or price analysis.
+
+46.5 Any Subcontracts meeting the $750,000.00 or more threshold will be subject
+to the same surveillance as Seller.
+
+ARTICLE 47 - MISCELLANEOUS
+
+47.1 No cancellation, modification, amendment, deletion, addition or other
+change in this Contract or any provision hereof, or waiver of any right or
+remedy herein provided, shall be effective for any purpose unless
+specifically set forth in a writing signed by the party to be bound
+thereby. No waiver of any right or remedy in respect of any occurrence or
+event on one occasion shall be deemed a waiver of such right or remedy in
+respect of such occurrence or event on any other occasion.
+
+Page 25 of 28
+
+[VALENTEC LOGO] AMMUNITION MULTI YEAR PROGRAM - CONTRACT NO. 1003 [SOLTAM SYSTEMS LOGO]
+
+47.2 This Contract supersedes all other agreements, oral or written, heretofore
+made with respect to the subject hereof and the transactions contemplated
+hereby, and contains the entire agreement of the parties, except to the
+documents references in this Contract which were executed prior to this
+Contract coming into effect.
+
+47.3 Seller shall not assign this Contract or its obligations under this
+Contract or any part of them without the prior written consent of Buyer,
+which consent shall not be unreasonably withheld, subject to provisions as
+may be determined by Buyer.
+
+47.4 Any change, modification or amendment of this Contract shall be made in
+writing, shall be signed by the duly authorized representatives of the
+Parties and shall be subject to and shall have no force and effect without
+the previous written consent of IMOD and DSCA.
+
+47.5 In no event shall either party be liable for indirect, incidental or
+consequential damages.
+
+47.6 Any provision hereof prohibited by, or that is unlawful or unenforceable
+under, any applicable law of any jurisdiction, shall as to such
+jurisdiction be ineffective without affecting any other provisions of this
+Contract; provided, however, that if the provisions of such applicable law
+may be waived, they are hereby waived, to the end that this Contract be
+deemed to be a valid and binding agreement enforceable in accordance with
+its terms.
+
+47.7 The provisions of this Contract shall be binding upon and inure to the
+benefit of Buyer and Seller and their respective successors and assigns,
+but this provision shall not be deemed to expand or otherwise affect the
+limitation on assignment and transfers set forth above, and no party is
+intended to or shall have any right or interest under this Contract,
+except as provided above.
+
+47.8 This Contract may be executed in several counterparts in the English
+language, each of which shall be deemed to be an original and all such
+counterparts together shall constitute but one and the same instrument.
+
+End of Articles
+
+(Signature page follows)
+
+Page 26 of 28
+
+[VALENTEC LOGO] AMMUNITION MULTI YEAR PROGRAM - CONTRACT NO. 1003 [SOLTAM SYSTEMS LOGO]
+
+IN WITNESS WHEREOF, the authorized representatives of the parties
+hereto have executed this Contract on the dates set forth below
+
+SOLTAM SYSTEMS LTD. VALENTEC SYSTEMS, INC.
+
+/s/ Zwika Kreizman By: /s/ Steve Shows
+-------------------------- ------------------------
+Mr. Zwika Kreizman Mr. Steve Shows
+Title: Deputy Manager & V.P for Finance Title: Vice Pres. & G.M.
+Soltam Group
+
+/s/ Cohen Rachamim By: /s/ Ronald M. Mackey
+-------------------------- ------------------------
+Mr. Cohen Rachamim Mr. Ronald M. Mackey
+i.e. V.P Sales & Marketing Title: Contracts & Purchasing
+& S.B.U Manager Mortars & Ammunition Mgr.
+
+DATE: 10/23/04 DATE: 10/23/04
+
+Page 27 of 28
+
+[SOLTAM SYSTEMS LOGO] [LOG0]
+
+Ship in Place Funding Availability Schedule
+for the Israeli Ammo Project
+
+[ILLEGIBLE]

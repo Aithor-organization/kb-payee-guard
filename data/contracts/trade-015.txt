@@ -1,0 +1,159 @@
+ENPH 06.30.2015 10-Q EX-10.4 
+
+Exhibit 10.4 
+
+Second Amendment to the 
+Supply Agreement 
+between 
+Dow Corning Corporation 
+and 
+Enphase Energy, Inc. 
+
+This Second Amendment to the Supply Agreement (the “Second Amendment”), effective as of June 30, 2015 is made by and between Dow Corning Corporation, with its principal offices located at 2200 W. Salzburg Road, Midland, MI 48686 ("Dow Corning") and Enphase Energy, Inc. with its principal offices located at 1420 N. McDowell Blvd., Petaluma, CA 94954 (“Buyer”) and amends that certain Supply Agreement (Dow Corning Accession Number CW248785), made as of April 22, 2014 by and between Dow Corning and Buyer (as amended as of August 1, 2014, the “Agreement”). 
+
+NOW, THEREFORE, in consideration of the mutual promises contained in this Second Amendment, the parties agree as follows: 
+
+1. 
+Pursuant to Section 1.1 of the Agreement, the Agreement is hereby extended for a three-year Renewal Term, from January 1, 2016 through December 31, 2018. 
+
+2. 
+Exhibit A to the Agreement is hereby deleted in its entirety and replaced by Exhibit A to this Second Amendment. 
+
+3. 
+Section 3.1 is hereby deleted in its entirety and replaced by the following: 
+
+3.1 
+The Product(s) will meet the Dow Corning Product Specifications (the “ Product Specifications ”) set forth in Exhibit B . No changes to the Product Specifications will be implemented without agreement by both Parties. The “ Minimum Shelf-Life ” for the Product(s) will be at least twelve (12) months from the date of shipment of the Product(s) to Buyer.” In the case that shipping delays, changes in forecast, or other actions result in Dow Corning having stock of material that does not meet the Minimum Shelf-Life, Dow Corning will submit a waiver to Enphase for all shipments that do not meet the Minimum Shelf-Life, and Buyer and Dow Corning will work together in good faith to facilitate Buyer’s acceptance of the Product. 
+
+4. 
+Section 5.2 is hereby deleted in its entirety and replaced by the following: 
+
+5.2 
+This Agreement is a take or pay agreement. Buyer is absolutely and irrevocably required to purchase, cumulatively, [***] kg of Product (the “Minimum Volume Commitment”) between January 1, 2015 and December 31, 2018. If Buyer fails to purchase the Minimum Volume Commitment before December 31, 2018, then Dow Corning will issue an invoice to Buyer in an amount equal to $[***]/kg for each kilogram of Product that Buyer has failed to purchase (the price per kilogram of 
+
+1 
+
+[***] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+Product in [***]), and Buyer shall pay such invoice in accordance with this Agreement. Buyer may not count any volume in excess of [***] kg of Product toward the Minimum Volume Commitment in [***], and may not count any volume in excess of [***] kg of Product toward the Minimum Volume Commitment in [***]. 
+
+5. 
+Section 5.5 is hereby added to the Agreement: 
+
+2 
+
+[***] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+5.5 
+In addition to the other volume commitments specified herein, Buyer shall purchase all of its requirements for silicon potting materials used to fill or encapsulate microinverter products exclusively from Dow Corning through December 31, 2018. 
+
+1. 
+Section 6 is hereby deleted in its entirety and replaced by the following: 
+
+6.1 Freight terms are INCOTERMS 2010 [***] to, at Buyer’s option pursuant to notice in Buyer’s purchase order issued pursuant to Section 7, any of the following locations: 
+
+• 
+Flextronics Electronics Technology (Shenzhen) Co., Ltd. 
+# 89 Yong Fu Road, Tong Fu Yu Industrial Park, Fu Yong Town, 
+Bao An District, Shenzhen, 518103 P.R. China 
+
+• 
+Flextronics International 
+260 South Milpitas Blvd, Bldg 15, Doc 12, Milpitas CA 95035 
+
+• 
+Flextronics Technologies Mexico S de RL de CV 
+Prol. Av. López Mateos Sur 2915 m. 6.5 
+
+Tlajomulco de Zúñiga, Jalisco, México 45640 
+
+• 
+or any other location agreed to by Buyer and Dow Corning. 
+
+Title and risk of loss with respect to all Products shall pass to Buyer upon delivery pursuant to [***] terms. Except as set forth in Section 6.4, Dow Corning will deliver the Product(s) in full container loads (which shall be (a) for deliveries to Shenzhen and Guadalajara, 78 drums/39 kits, double stacked, and (b) for deliveries to Milpitas, 39 drums). For shipments to Shenzhen, upon notification from Dow Corning for shipment release against a purchase order placed by Buyer to Dow Corning, Buyer or its designated agent must complete Import Customs Clearance and provide confirmation thereof to Dow Corning prior to completion of the shipment to Flextronics warehouse in Shenzhen, China. 
+
+6.2 
+For rush orders (with requested shipping date less than fifteen (15) business days prior to order, per Section 7 below), freight terms are INCOTERMS 2010 FCA Dow Corning’s warehouse in either Hong Kong, Mexico City or Carrolton, KY (at Dow Corning’s discretion and based upon stock and availability at such time). 
+
+6.3 
+Dow Corning will select the carrier and the routing. 
+
+6.4 
+In the event Buyer requests shipments in increments smaller than full container loads, freight terms are INCOTERMS 2010 FCA Dow Corning’s warehouse in either Hong Kong, Mexico City or Carrolton, KY (at Dow Corning’s discretion and based upon stock and availability at such time). 
+
+2. 
+Section 8 of the Agreement is hereby deleted in its entirety and replaced with the following: 
+
+8.1 
+On the first (1 st ) business day of each month, Buyer will provide Dow Corning a six-month rolling forecast of purchases for each Product for each shipping destination. Only the first month of each six-month forecast will be considered a binding commitment on the part of Buyer to purchase and of Dow Corning to supply the corresponding volume of Product(s) subject to the Quantity provisions set forth in this Agreement; the balance of such six-month forecast is for planning purposes only. 
+
+3 
+
+[***] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+8.2 
+If Buyer desires to purchase more than (a) [***] kg of Product in any calendar month of the Term, or (b) [***] kg of Product in any calendar year of the Term, Buyer shall provide notice to Dow Corning at least 180 days prior to its volume requirements exceeding such amount. 
+
+Except as specifically modified or amended hereby, the Agreement shall remain in full force and effect and, as modified or amended, is hereby ratified, confirmed and approved. 
+
+IN WITNESS WHEREOF, the parties have caused this Second Amendment to be executed by their duly authorized officers. 
+
+DOW CORNING CORPORATION 
+
+ENPHASE ENERGY, INC. 
+
+By: 
+/s/ John E. Church 
+
+By: 
+/s/ Paul Nahi 
+
+Name: 
+John E. Church 
+
+Name: 
+Paul Nahi 
+
+Title: 
+North America - Sales Director 
+
+Title: 
+President & CEO 
+
+Date: 
+April 28, 2015 
+
+Date: 
+April 23, 2015 
+
+4 
+
+[***] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended. 
+
+EXHIBIT A 
+
+PRODUCT(S), CONTAINERS AND PRICES 
+
+Product 
+Container 
+Period 
+Price/ KG 
+
+Dow Corning® EE-[***] Encapsulant 
+Enphase Item Numbers: 
+751-00127-01 
+751-00128-01 
+Product is sold in two parts (Part A and Part B), each of which will be packed in 225kg drums. 
+July 1, 2015 – December 31, 2015 
+US $[***] / KG 
+
+Jan 1, 2016 – December 31, 2016 
+US $[***] / KG 
+
+January 1, 2017 – December 31, 2017 
+US $[***] / KG 
+
+January 1, 2018 – December 31, 2018 
+US $[***] / KG 
+
+[***] = Certain confidential information contained in this document, marked by brackets, has been omitted and filed separately with the Securities and Exchange Commission pursuant to Rule 24b-2 of the Securities Exchange Act of 1934, as amended.

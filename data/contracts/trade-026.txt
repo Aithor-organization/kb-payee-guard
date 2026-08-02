@@ -1,0 +1,2042 @@
+E xhibit 
+10.71 
+
+[*]
+=
+CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS,
+HAS BEEN OMITTED FROM PUBLIC FILING PURSUANT TO A REQUEST FOR CONFIDENTIAL
+TREATMENT SUBMITTED TO THE U.S. SECURITIES AND EXCHANGE COMMISSION. THE OMITTED
+INFORMATION, WHICH HAS BEEN IDENTIFIED WITH THE SYMBOL “[*],” HAS BEEN FILED
+SEPARATELY WITH THE U.S. SECURITIES AND EXCHANGE COMMISSION PURSUANT TO RULE
+24B-2 OF THE SECURITIES EXCHANGE ACT OF 1934, AS AMENDED. 
+
+EQUIPMENT
+PURCHASE & SALE AGREEMENT 
+
+This
+Equipment Purchase & Sale Agreement (this “ Agreement ”),
+entered into as of April 8, 2008 (the “ Effective
+Date ”),
+by
+and between PVA TEPLA DANMARK, a corporation organized and existing under
+the
+laws of the Kingdom of Denmark (hereinafter “ SELLER ”),
+and
+HOKU MATERIALS, INC., a corporation organized and existing under the laws
+of the
+State of Delaware (hereinafter “ BUYER ”). 
+SELLER
+and BUYER are each a “ Party ”
+and
+together, the “ Parties .” 
+
+Recitals 
+
+WHEREAS,
+SELLER is a manufacturer and provider of equipment and related services for
+the
+polycrystalline silicon industry; 
+
+WHEREAS,
+BUYER is building a manufacturing facility for the production of polycrystalline
+silicon in Idaho, USA; and 
+
+WHEREAS,
+subject to the terms and conditions set forth in this Agreement, BUYER intends
+to purchase from SELLER and SELLER intends to sell to BUYER, the equipment
+and
+other Deliverables (as defined below) for use in BUYER’s polycrystalline silicon
+production plant; 
+
+NOW,
+THEREFORE, pursuant to the terms and conditions and the mutual consideration
+set
+forth herein, and for other good and valuable consideration, the receipt
+and
+sufficiency of which are acknowledged hereby, BUYER and SELLER agree as
+follows: 
+
+Agreement 
+
+1. Definitions .
+The
+following capitalized terms used in this Agreement shall have the meanings
+set
+forth below: 
+
+1.1. “ Certificate
+of Commissioning ”
+shall
+mean the certificate, in substantially the form of Appendix
+7 
+attached
+to this Agreement, to be signed by an officer of BUYER and an officer of
+SELLER
+after the successful completion of the Commissioning Test. 
+
+1.2. “ Commissioning
+Test ”
+shall
+mean the test to be completed by SELLER in the presence of BUYER at the Work
+Site that follows the procedures described in Appendix
+5 
+to
+confirm that all Equipment meets the Technical Specifications. 
+
+1.3. “ Deliverables ”
+shall
+mean, collectively, all Equipment, Technical Documentation and Technical
+Services to be provided by SELLER to BUYER pursuant to this
+Agreement. 
+
+1.4. “ Equipment ”
+shall
+mean the following items of equipment as more fully described in Appendices
+1-2 : 
+
+SELLER
+Initials & Date 
+25/3-08
+JB 
+
+BUYER
+Initials & Date DN
+4/8/08 
+
+Page
+1 of
+21 
+
+Item 
+
+Quantity 
+
+Price
+Each 
+
+Total 
+
+SR-110
+Slim rod pullers, as described in Appendix
+1 
+
+[* ] 
+
+[* ] 
+
+[* ] 
+
+FZ-14M
+analytic Float zone crystal puller, as described in Appendix
+2 
+
+[* ] 
+
+[* ] 
+
+[* ] 
+
+Total 
+
+$ 
+
+6,359,995.00 
+
+SELLER
+will utilize its best efforts to acquire slim rods on behalf of
+BUYER. 
+
+1.5. “ Factory
+Acceptance Certificate ”
+shall
+mean the certificate, in substantially the form of Appendix
+6 
+attached
+to this Agreement, to be signed by an officer of BUYER and an officer of
+SELLER
+after the successful completion of the Factory Acceptance Test. 
+
+1.6. “ Factory
+Acceptance Test ”
+shall
+mean the test to be completed by SELLER in the presence of BUYER at the SELLER
+Facility that follows the procedures described in Appendix
+4 
+to
+confirm that all Equipment meets the Technical Specifications. 
+
+1.7. “ Port
+of Shipment ”
+shall
+mean Copenhagen, Denmark. 
+
+1.8. “ Port
+of Unloading ”
+shall
+mean a port in the USA to be determined by the BUYER. 
+
+1.9. “ SELLER
+Facility ”
+shall
+mean the facility where SELLER is manufacturing the Equipment, located at
+Smedetoften 4, DK-3600 Frederikssund, Denmark. 
+
+1.10. “ Technical
+Documentation ”
+shall
+mean the documentation (in English language) that includes the technical
+data,
+specifications, drawings, inspection, erection, commissioning, performance
+testing, operating and maintenance of Equipment, as specified in Appendix
+3 . 
+
+1.11. “ Technical
+Services ”
+shall
+have the meaning set forth in Section 6 
+below. 
+
+1.12. “ Technical
+Specifications ”
+means
+the operating and other specifications of the Equipment set forth on
+Appendices
+1 and 2 attached
+hereto. 
+
+1.13. “ Warranty
+Period ”
+shall
+mean the period beginning on the Effective Date and ending twelve (12) months
+after the Certificate of Commissioning has been signed by BUYER and
+SELLER. 
+
+1.14. “ Work
+Site ”
+shall
+mean the BUYER’s polysilicon plant located in Pocatello, Idaho USA. 
+
+2. Purchase
+& Sale Commitment 
+
+2.1. Subject
+to the terms and conditions set forth herein, BUYER agrees to buy from SELLER,
+and SELLER agrees to sell to BUYER, the Deliverables. 
+
+3. Payment
+Terms 
+
+3.1. BUYER
+shall pay to SELLER the aggregate purchase price for the Equipment ordered
+pursuant to this Agreement at the per-unit price set forth in
+Section 1.4 
+above as
+the total payment for all Deliverables under this Agreement (the “ Agreement
+Price ”)
+in
+accordance with the following schedule: 
+
+SELLER
+Initials & Date 
+25/3-08
+JB 
+
+BUYER
+Initials & Date DN
+4/8/08 
+
+Page
+2 of
+21 
+
+3.1.1. Within
+one hundred and twenty (120) days after the Effective Date, BUYER shall pay
+to
+SELLER 30% of the Agreement Price as an initial payment (the “ Initial
+Payment ”).
+Notwithstanding anything to the contrary in this Agreement, BUYER may terminate
+this Agreement at any time prior to making the Initial Payment, and shall
+thereupon have no liability or further obligation to SELLER pursuant to this
+Agreement. 
+
+3.1.2. Within
+thirty (30) days after BUYER and SELLER sign the Factory Acceptance Certificate,
+and upon receipt of an invoice from SELLER, BUYER shall pay to SELLER 50%
+of the
+Agreement Price. SELLER shall not be required to ship the Equipment until
+such
+payment has been received by SELLER. 
+
+3.1.3. Within
+thirty (30) days after BUYER and SELLER sign the Certificate of Commissioning,
+and upon receipt of an invoice from SELLER, BUYER shall pay to SELLER 15%
+of the
+Agreement Price Following receipt of such payment, title to the Equipment
+shall
+pass to BUYER, free and clear of all liens, third party claims and
+encumbrances. 
+
+3.1.4. Within
+thirty (30) days after the later of (A) the expiration of the Warranty Period
+(as defined in Section 1.13 
+above),
+and (B) the final settlement or adjudication of all outstanding warranty
+claims
+pursuant to Section 7.3 
+below,
+BUYER shall pay to SELLER a final payment of 5% of the Agreement Price less
+all
+amounts that have been validly deducted to satisfy warranty claims pursuant
+to
+Section 7.3 
+below. 
+
+3.2. The
+Agreement Price includes all excise, sales, use, import, export or other
+similar
+taxes (collectively “ Taxes ”)
+levied
+by Germany, Denmark, the European Union, or any other authority in Europe,
+which
+shall be for SELLER’s account; provided that the Agreement Price does not
+include Taxes levied by the United States, the State of Idaho, or any other
+authority in the United States, which shall be for BUYER’s account.
+
+3.3. BUYER
+shall provide SELLER with five (5) copies of each invoice for the applicable
+payment pursuant to Section 3.1 
+above.
+Shipping costs and expenses, Taxes, customs and duties, if any, will be
+identified as separate items on SELLER’s invoices. All invoices shall be sent to
+BUYER’s address specified in Section 15.4 
+below,
+unless an alternate address is provided. All payments shall be made in U.S.
+Dollars. 
+
+3.4. BUYER
+shall be responsible for all transportation charges, duties or other charges
+for
+shipping and handling; thus, the price for the Deliverables shall not include
+any such charges; provided, however, that the Equipment shall be in one lot
+suitably packed for sea transport to the Work Site, FOB Port of Shipment,
+according to Incoterms 2000; and provided, further, that SELLER shall pay
+for
+all shipping, insurance, and related costs and expenses incurred in transporting
+the Equipment from the SELLER Facility to the Port of Shipment until the
+Equipment is transferred FOB to the common carrier. 
+
+3.5. All
+payments to SELLER shall be effected by wire transfer to SELLER’s bank pursuant
+to the following account information: 
+
+Danske
+Bank 
+
+Holmens
+Kanal 2-12 
+
+DK-1092
+Copenhagen K 
+
+Denmark 
+
+Telex
+27000-SWIFT-BIC: DABAKKK 
+
+IBAN
+No.
+DK 1530003430288997 
+
+Account
+no. 3430 288997 
+
+SELLER
+Initials & Date 
+25/3-08
+JB 
+
+BUYER
+Initials & Date DN
+4/8/08 
+
+Page
+3 of
+21 
+
+PVA
+TePla
+Danmark 
+
+4. Shipment;
+Documentation & Packing 
+
+4.1. Timing
+of Shipment .
+Provided that SELLER has been paid in the aggregate 80% of the Agreement Price,
+all Equipment shall be delivered FOB to the Port of Shipment, within ten (10)
+months after BUYER pays to SELLER the Initial Payment (the “ Shipment
+Date ”);
+provided, however, that SELLER shall use its best efforts to deliver one (1)
+SR-110 Slim rod puller (as described in Appendix 1) FOB to the Port of Shipment
+within six (6) months after BUYER pays to SELLER the Initial Payment (and
+provided that, prior to shipment, SELLER has been paid in the aggregate 80%
+of
+the applicable purchase price for such one (1) Slim rod puller prior to
+shipment), except that SELLER shall not be liable for paying liquidated damages
+pursuant to Section 4.4 
+below if
+SELLER is unable to meet this six-month delivery date. 
+
+4.2. Shipping
+Documentation .
+Prior
+to shipment, SELLER shall remit to BUYER the following
+documentation: 
+
+4.2.1. At
+least
+fourteen (14) days prior to shipment of the Equipment, SELLER shall notify
+BUYER
+by Fax of the following information: 
+
+(a) 
+
+Total
+volume 
+
+(b) 
+
+Total
+gross weight of packages 
+
+(c) 
+
+Total
+number of packages 
+
+(d) 
+
+Port
+of Shipment 
+
+(e) 
+
+Port
+of Unloading 
+
+(f) 
+
+Name,
+weight, IMCO No. (as per International Maritime Dangerous Goods Code)
+of
+the dangerous and/or inflammable
+goods 
+
+4.2.2. At
+least
+fourteen (14) days prior to shipment of the Equipment, SELLER shall send to
+BUYER via international courier at least six (6) copies of the
+following: 
+
+(a) 
+
+Detailed
+packing list describing with specificity all Equipment included with
+the
+applicable shipment, including Equipment specification, type, quantity,
+unit/total price, unit weight, unit/total volume, the overall dimensions
+of each package (length x width x height), and the total number of
+packages 
+
+(b) 
+
+Description
+of any dangerous and/or inflammable goods indicating names, properties,
+special protective measures and handling methods in case of
+accident 
+
+(c) 
+
+Description
+of the special precautions for the Equipment that requires special
+storage
+and transportation. 
+
+4.2.3. Within
+ten (10) calendar days before the expected departure date of the carrying vessel
+from the Port of Shipment, SELLER shall notify BUYER the nationality of the
+carrying vessel, estimated date of shipment, estimated date of arrival at the
+Port of Unloading, name of the Equipment, Equipment item no., quantity, weight,
+volume and other relevant matters. 
+
+4.2.4. Within
+two (2) days after the loading of the Equipment on the ocean vessel, SELLER
+shall airmail one (1) duplicate copy of the Bill of Lading, signed commercial
+invoice, ex-works quality certificate of origin and packing list to
+BUYER. 
+
+4.3. Risk
+of Loss .
+Risk of
+loss shall pass to BUYER FOB Port of Shipment; provided, however, that in the
+case of (A) the Equipment is shipped on deck or via transshipment; or (B) the
+Equipment is not insured in time by BUYER because SELLER has failed to provide
+the documentation required by Section 4.2 
+above,
+then SELLER shall be liable for any and all damage to the Equipment.
+Notwithstanding anything to the contrary in this Agreement, if the Equipment
+is
+lost or damaged during ocean transportation, SELLER shall upon the request
+from
+BUYER, provide replacement Equipment and Technical Documentation for the same
+Agreement Price and pursuant to the same terms and conditions described in
+this
+Agreement. 
+
+SELLER
+Initials & Date 
+25/3-08
+JB 
+
+BUYER
+Initials & Date DN
+4/8/08 
+
+Page
+4 of
+21 
+
+4.4. Damages
+for Late Delivery; Liquidated Damages .
+SELLER
+shall pay to BUYER liquidated damages (the “ Liquidated
+Damages ”)
+if (A)
+the Factory Acceptance Certificate has not been signed by SELLER and BUYER,
+or
+(B) the Equipment has not been delivered FOB to the Port of Shipment on or
+before the Shipment Date. The Liquidated Damages shall be calculated as
+follows: 
+
+a) 
+
+If
+the Equipment is delivered within four weeks after the Shipment Date,
+the
+liquidated damages shall be zero point 5 percent (0.5%) of the Agreement
+Price per week beyond the Shipment
+Date. 
+
+b) 
+
+If
+the Equipment is delivered after the fourth week, then, in addition
+to the
+Liquidated Damages pursuant to sub-paragraph (a) above, the Liquidated
+Damages shall be one percent (1%) of the Agreement Price for each
+week
+after the fourth week from the Shipment
+Date. 
+
+c) 
+
+Less
+than one week shall not be counted as a complete week for calculation
+of
+the Liquidated Damages. 
+
+d) 
+
+The
+total amount of the Liquidated Damages shall not exceed five percent
+(5.0%) of the Agreement Price. 
+
+Notwithstanding
+anything to the contrary in this Agreement: (A) the payment of Liquidated
+Damages shall not release SELLER from its obligation to deliver the
+Deliverables; and (B) any delay beyond sixty (60) days from the Shipment Date
+shall constitute a material breach of this Agreement by SELLER. 
+
+4.5. Packing
+and Marking 
+
+4.5.1. Unless
+otherwise specified in the Agreement, the Equipment shall be packed by SELLER
+in
+new wooden cases, and all packing expenses shall be for SELLER’s account.
+Necessary measures shall be taken to protect the Equipment from damages caused
+by moisture, rain, rust, corrosion, shock and to ensure the Equipment will
+withstand handling, loading and unloading as well as long distance ocean and
+inland transportation for the safe arrival of the Equipment at the Work
+Site. 
+
+4.5.2. The
+loose
+accessories in all packages and bundles shall be labeled by SELLER indicating
+the name of the Equipment to which such accessories are related, the name of
+the
+accessories and their position number, and any accessory number marked on
+assembly drawings. Spare parts and tools shall be marked with the word “Spare
+parts or tools” in addition to the above mentioned particulars. 
+
+4.5.3. SELLER
+shall, on four (4) adjacent sides of each crate, conspicuously mark the
+following information in English with indelible paint: 
+
+(a) 
+
+Shipping
+mark 
+
+(b) 
+
+Destination 
+
+(c) 
+
+Consignee 
+
+(d) 
+
+Name
+of Equipment and item No. 
+
+(e) 
+
+Case/bale
+No. 
+
+(f) 
+
+Gross/net
+weight 
+
+(g) 
+
+Measurement 
+
+SELLER
+Initials & Date 
+25/3-08
+JB 
+
+BUYER
+Initials & Date DN
+4/8/08 
+
+Page
+5 of
+21 
+
+4.5.4.
+Should
+the Equipment weigh more than 2 metric tons, the weight, gravity and hoisting
+positions shall be marked in English with international trade transportation
+marks on the four adjacent sides on each case so as to facilitate unloading
+and
+handling. In accordance with different requirements in loading, unloading
+and
+shipping, the package shall be conspicuously marked with “Handle with care,
+right side up, keep dry” in English and with appropriate international trade
+marks. 
+
+4.5.5. The
+following documents shall be enclosed in each package of the
+Equipment: 
+
+(a) 
+
+Two
+(2) duplicate copies of detailed packing
+list 
+
+(b) 
+
+Two
+(2) duplicate copies of quality
+certificate 
+
+(c) 
+
+Two
+duplicate copies of Technical Documentation for relevant
+Equipment 
+
+4.5.6. Sufficient
+shores or chocks shall be provided in order to prevent the Equipment from moving
+inside the containers. SELLER shall be liable for any damage to the Equipment
+thus incurred due to the negligence of SELLER. 
+
+4.5.7. In
+case
+of container transportation, SELLER shall examine the condition of the
+containers, so that only those in good condition shall be used for delivery
+of
+the Equipment. SELLER shall use wooden crates free from any insect infestation.
+Should insect infestation be found in quarantine inspection, SELLER shall bear
+the cost incurred in fumigation or replacement of the creates at the Port of
+Unloading, and the liquidated damages provision of Section 4.4 
+above
+shall apply to any delay in shipment caused by such quarantine
+inspection. 
+
+4.5.8. If
+the
+Equipment is damaged or lost due to improper packing or inadequate protective
+measure, SELLER shall be responsible for repair, replacement or compensation
+in
+accordance with the Agreement. If the Equipment is mis-transported due to
+mistake or ambiguousness in package or shipping marks, SELLER shall bear
+additional expenses thus incurred. 
+
+5. Standards
+& Inspections 
+
+5.1. Standards .
+SELLER
+shall engineer, design and construct the Equipment according to the Appendices
+attached hereto, using professional engineering, construction and procurement
+practices. All Equipment shall be engineered and constructed to meet all
+applicable standards for operation in Idaho, USA, including, without limitation,
+ASME, NEC, UL, and any others required to meet standards in Pocatello, Idaho
+and
+the United States as determined by the BUYER. 
+
+5.2. Factory
+Acceptance Test .
+
+5.2.1. SELLER
+shall inspect the Equipment to confirm that it meets the Technical
+Specifications, and shall thereupon send the ex-works quality certificate to
+BUYER, with notification of the planned date for the Factory Acceptance Test.
+The date for the Factory Acceptance Test must be no earlier than two (2) weeks
+from the date when the notification is received by BUYER, and shall be no later
+than nine (9) months after BUYER pays the Initial Payment to
+SELLER. 
+
+5.2.2. BUYER
+will send its technical representatives and inspectors to SELLER’s Facility to
+complete the Factory Acceptance Test together with SELLER’s technical
+representatives and inspectors. In addition to BUYER’s inspectors, BUYER’s
+lenders and shareholders may also send their inspectors. The expenses of sending
+BUYER’s inspectors, or the inspectors of BUYER’s lenders and shareholders, shall
+be for BUYER’s account. 
+
+SELLER
+Initials & Date 
+25/3-08
+JB 
+
+BUYER
+Initials & Date DN
+4/8/08 
+
+Page
+6 of
+21 
+
+5.2.3. Prior
+to
+commencement of the Factory Acceptance Test, SELLER shall provide BUYER with
+technical instruction in the operation and maintenance of the Equipment as
+described in Appendix
+4 .
+After
+completing the technical instruction, SELLER shall commence the Factory
+Acceptance Test, and provided that the Equipment meets the Technical
+Specifications, BUYER and SELLER shall sign the Factory Acceptance Certificate.
+SELLER shall ship the Equipment to BUYER as soon as practicable after successful
+completion of the Factory Acceptance Test, as evidenced by the Factory
+Acceptance Certificate signed by SELLER and BUYER; provided, however, that
+the
+SELLER may not ship the Equipment until the Factory Acceptance Certificate
+has
+been signed by BUYER; provided, however, that if BUYER does not attend the
+Factory Acceptance Test after having been given notification in accordance
+with
+Section 5.2.1 
+above,
+and if SELLER conducts the Factory Acceptance Test in BUYER’s absence, and
+confirms that the Equipment meets the Technical Specifications, then SELLER
+may
+sign the Factory Acceptance Certificate and the Factory Acceptance Test shall
+have been deemed completed without the Factory Acceptance Certificate being
+signed by BUYER. 
+
+5.2.4. In
+addition to the foregoing, BUYER, its authorized representatives and its
+lenders, shareholders and their respective authorized representatives, may
+inspect the Equipment at any time prior to delivery of the Equipment FOB to
+the
+Port of Shipment. The expenses of any such inspection shall be for BUYER’s
+account. 
+
+5.2.5. The
+Factory Acceptance Test shall not be a substitute for the inspection of the
+Equipment at the Port of Unloading or the Work Site, or as a substitute for
+the
+Commissioning Test, and the Factory Acceptance Test shall not release SELLER
+from its warranty obligations as further specified in this
+Agreement. 
+
+5.3. Installation
+and Commissioning Test . 
+
+5.3.1. Equipment
+installation and servicing shall be carried out by BUYER under the supervision
+of SELLER at the Work Site, and SELLER’s qualified technical representatives
+shall provide technical instruction to BUYER during installation and prior
+to
+completion of the Commissioning Test as described in Appendix
+5 
+to this
+Agreement. 
+
+5.3.2. BUYER
+and
+SELLER shall conduct the Commissioning Test to confirm that the Equipment
+operates in accordance with the Technical Specifications. Provided that all
+of
+the Technical Specifications for the Equipment are satisfied, BUYER and SELLER
+shall each sign the Certificate of Commissioning; provided, however, that if
+BUYER does not attend the Commissioning Test, and if SELLER conducts the
+Commissioning Test in BUYER’s absence, and confirms that the Equipment meets the
+Technical Specifications, then SELLER may sign the Certificate of Commissioning
+and the Commissioning Test shall have been deemed completed without the
+Certificate of Commissioning being signed by BUYER. 
+
+5.4. Notwithstanding
+anything to the contrary in this Agreement, BUYER or SELLER’s execution of the
+Factory Acceptance Certificate or the Certificate of Commissioning shall not
+release SELLER from its warranty for the Equipment as described in
+Section 7 
+below. 
+
+6. Technical
+Services . SELLER agrees to provide technical information regarding the
+Equipment to BUYER, and to BUYER’s designated engineering and construction
+contractors (the “ Contractors ”),
+and
+to attend meetings in the USA with the Contractors, participate in telephone
+conference calls with BUYER and the Contractors, and draft and respond to
+written correspondence, including e-mail to and from BUYER and the Contractors
+(collectively, the “ Technical Services ”).
+The
+scope of the technical information to be provided to the Contractors shall
+be
+limited to the information that is required for the Contractors to perform
+the
+engineering design work for the Work Site. The
+cost
+and expense of the Technical Services is included in the Agreement
+Price. 
+
+SELLER
+Initials & Date 
+25/3-08
+JB 
+
+BUYER
+Initials & Date DN
+4/8/08 
+
+Page
+7 of
+21 
+
+7. Representations
+and Warranties . 
+
+7.1. General .
+SELLER
+represents, warrants, and covenants that: 
+
+7.1.1. SELLER
+will not, in the course of performing its obligations under this Agreement,
+infringe or misappropriate, and neither the Deliverables nor any element thereof
+will infringe or misappropriate, any intellectual property right of any other
+person or entity; 
+
+7.1.2. neither
+the Deliverables nor any element thereof will be subject to any restriction,
+mortgage, lien, claim, pledge, security interest, or encumbrance when delivered
+by SELLER to BUYER FOB Port of Shipment; 
+
+7.1.3. SELLER
+will not grant, directly or indirectly, any right or interest in the
+Deliverables to any other person; 
+
+7.1.4. SELLER
+has full right, power, and authority to enter into and perform this Agreement
+without the consent of any third party, including the right to grant all
+licenses granted by SELLER (if any) in this Agreement; 
+
+7.1.5. All
+individuals who contribute to or participate in the conception, creation, or
+development of the Deliverables will have unconditionally and irrevocably
+assigned all of their right, title, and interest in and to the Deliverables
+(and
+all intellectual property rights thereto) to SELLER (or directly to BUYER)
+before being allowed to begin performing work pursuant to this
+Agreement; 
+
+7.1.6. SELLER
+will comply with all laws, regulations, and ordinances applicable to SELLER’s
+performance of its obligations under this Agreement, including export control
+laws, and has obtained (or before performing its obligations under this
+Agreement will obtain) all governmental permits and licenses required for SELLER
+to perform its obligations under this Agreement; and 
+
+7.1.7. SELLER
+will take all necessary or reasonable precautions to prevent injury to any
+person (including BUYER employees) or damage to any property (including BUYER
+property) during the term of this Agreement. 
+
+7.2. Performance .
+SELLER
+further represents and warrants that: (A) during the Warranty Period, the
+Deliverables will fully conform to the requirements, and other terms in the
+Appendices and elsewhere in this Agreement, including, without limitation,
+the
+Technical Specifications; (B) the Technical Documentation shall be to its best
+knowledge, complete, clear and correct so as to meet the requirements of design,
+inspection, erection, commissioning, performance test, operation and maintenance
+of the Equipment; and (C) the Equipment shall be completely brand new and comply
+in materials, workmanship in all respects with the quality and Technical
+Specifications. 
+
+7.3. Warranty
+Claims . 
+
+7.3.1. Notice
+of Claim .
+Claims
+by BUYER for breach of any of SELLER’s warranties set forth in this Agreement
+shall be made without undue delay after the discovery thereof. 
+
+7.3.2. SELLER’s
+Responsibilities .
+In the
+event of SELLER’s breach of any warranty during the Warranty Period, without
+limiting any other rights or remedies BUYER may have, and provided that BUYER
+has provided notice pursuant to Section 7.3.1 
+above,
+SELLER will at its discretion promptly repair or replace the Deliverables at
+no
+additional charge to BUYER. In the event that the warranty claim applies to
+Equipment, BUYER and SELLER shall attempt to fix the problem through BUYER’s
+remote technical assistance; provided, however, that if the Equipment cannot
+be
+fixed within 48 hours, then SELLER shall dispatch qualified technical
+representatives to the Work Site within 48 hours thereafter to provide on-site
+professional and technical service. IF
+SELLER DOES NOT ARRIVE AT BUYER’S WORK SITE WITHIN ONE WEEK AFTER CONFIRMATION
+FROM SELLER OF SUCH A NOTIFICATION, THEN SELLER SHALL PAY BUYER $5,000 PER
+DAY
+FOR EACH DAY THAT THE EQUIPMENT IS NOT OPERATIONAL DUE TO THE BREACH OF
+WARRANTY. 
+
+SELLER
+Initials & Date 
+25/3-08
+JB 
+
+BUYER
+Initials & Date DN
+4/8/08 
+
+Page
+8 of
+21 
+
+8. Indemnification .
+Notwithstanding Section 12 
+hereof,
+SELLER will indemnify and hold harmless BUYER and its affiliates, employees,
+and
+agents from and against any and all liabilities, losses, damages, costs,
+and
+other expenses (including attorneys’ and expert witnesses’ costs and fees)
+arising from or relating to any breach of any representation, warranty,
+covenant, or obligation of SELLER in this Agreement or any intentional
+misconduct or negligence by SELLER or any of SELLER’s agents or subcontractors
+in performing its obligations under this Agreement. In the event of any
+third-party claim, demand, suit, or action (a “ Claim ”)
+for
+which BUYER (or any of its affiliates, employees, or agents) is or may be
+entitled to indemnification hereunder, BUYER may, at its option, require
+SELLER
+to defend such Claim at SELLER’s sole expense. SELLER may not agree to settle
+any such Claim without BUYER’s express prior written consent. 
+
+9. Non-solicitation .
+During the term of this Agreement and for twelve (12) months thereafter,
+SELLER
+will not directly or indirectly solicit, induce, or attempt to induce any
+employee or independent contractor to terminate or breach any employment,
+contractual, or other relationship with BUYER. 
+
+10. Termination
+& Cancellation 
+
+10.1. The
+term
+of this Agreement shall begin on the Effective Date and, unless previously
+terminated as hereinafter set forth, shall remain in force until the expiration
+of the Warranty Period. 
+
+10.2. Each
+Party may, at its discretion, upon written notice to the other Party, and
+in
+addition to its rights and remedies provided under this Agreement or any
+other
+agreement executed in connection with this Agreement and at law or in equity,
+terminate this Agreement in the event of any of the following: 
+
+10.2.1. Upon
+a
+material breach of the other Party of any material provision in this Agreement,
+and failure of the other Party to cure such material breach within one hundred
+eighty (180) days after written notice thereof; provided, however, that such
+cure period shall not modify or extend the sixty (60) day cure period for
+SELLER’s delivery obligations pursuant to Section 4.4 
+above;
+and provided, further that such one hundred eighty (180) day cure period
+shall
+not apply to BUYER’s failure to make any payment to SELLER pursuant to this
+Agreement. In the event of BUYER’s failure to make payment on the 30-day payment
+terms set forth in Section 3.1 hereof, termination by SELLER shall require
+the
+issuance of a written notice of default containing the threat of immediate
+termination if payment is not made within an additional grace period of not
+less
+than ten (10) business days. 
+
+10.2.2. Upon
+the
+voluntary or involuntary initiation of bankruptcy or insolvency proceedings
+against the other Party; provided, that for an involuntary bankruptcy or
+insolvency proceeding, the Party subject to the proceeding shall have sixty
+(60)
+working days within which to dissolve the proceeding or demonstrate to the
+terminating Party’s satisfaction the lack of grounds for the initiation of such
+proceeding; 
+
+SELLER
+Initials & Date 
+25/3-08
+JB 
+
+BUYER
+Initials & Date DN
+4/8/08 
+
+Page
+9 of
+21 
+
+10.2.3. If
+the
+other Party (i) becomes unable, or admits in writing its inability, to pay
+its
+debts generally as they mature, (ii) becomes insolvent (as such term may
+be
+defined or interpreted under any applicable statute); or 
+
+10.2.4. In
+accordance with the provisions of Section 11 
+below.
+
+10.3. In
+addition to BUYER’s termination rights pursuant to Section 1 0.2 
+above,
+BUYER may terminate this Agreement upon written notice to SELLER, and without
+any further obligation or liability to SELLER, for any of the following
+reasons: 
+
+10.3.1. For
+BUYER’s convenience at any time prior to payment of the Initial Payment to
+SELLER; 
+
+10.3.2. If
+SELLER
+does not sign the Consent or provide the Legal Opinion pursuant to
+Section 13 
+below;
+
+10.3.3. If
+at any
+time prior to delivery of the Equipment, FOB Port of Shipment, BUYER has
+a
+justifiable reason to believe that SELLER will be more than sixty (60) days
+late
+in the delivery of the Equipment, BUYER may immediately cancel this agreement
+and shall, in addition to all other rights and remedies available in law
+and
+equity, be entitled to a refund of the Initial Payment plus the maximum amount
+of liquidated damages payable pursuant to Section 4.4 
+above.
+
+10.4. SELLER
+may terminate this Agreement without any further obligation or liability
+to
+BUYER if BUYER has not paid the Initial Payment within one hundred eighty
+(180)
+days after the Effective Date. Upon such termination, each of BUYER and SELLER
+shall be released from any further obligations or liability to the other
+Party
+under this Agreement. 
+
+10.5. Upon
+the
+expiration or termination of this Agreement howsoever arising, the following
+Sections shall survive such expiration or termination:
+Sections 1 
+(Definitions), 7.3 
+(Warranty Claims), 8 
+(Indemnification), 9 
+(Non-solicitation), 1 0 
+(Termination & Cancellation), 11 
+(Force
+Majeure), 12 
+(Limitations of Liability), and 14 
+(General
+Provisions). 
+
+11. Force
+Majeure . Neither Party shall be liable to the other Party for failure of or
+delay in performance of any obligation under this Agreement, directly, or
+indirectly, owing to acts of God, war, war-like condition, embargoes, riots,
+strike, lock-out and other events beyond its reasonable control which were
+not
+reasonably foreseeable and whose effects are not capable of being overcome
+without unreasonable expense and/or loss of time to the affected Party (i.e.,
+the party that is unable to perform). If such failure or delay occurs, the
+affected Party shall notify the other Party of the occurrence thereof as
+soon as
+possible, and the Parties shall discuss the best way to resolve the event
+of
+force majeure. If the performance of SELLER is delayed for Force Majeure
+for a
+cumulative period of thirty (30) days or more, SELLER will use commercially
+reasonable efforts to transition its production of the Equipment for the
+duration of the Force Majeure to an alternate source. If the conditions of
+Force
+Majeure continue to materially impede performance of any material obligation
+under this Agreement for a period of more than three (3) consecutive calendar
+months (and, only if SELLER is the affected Party, SELLER has not used
+commercially reasonable efforts to transition its production of the Deliverables
+as provided in the immediately preceding sentence), then the non-affected Party
+shall be entitled to terminate this Agreement by 30 days prior written notice
+to
+the other Party. 
+
+SELLER
+Initials & Date 
+25/3-08
+JB 
+
+BUYER
+Initials & Date DN
+4/8/08 
+
+Page
+10
+of 21 
+
+12. Limitations
+of Liability 
+
+12.1. IN
+NO
+EVENT SHALL EITHER PARTY BE LIABLE FOR INDIRECT, SPECIAL, INCIDENTAL OR
+CONSEQUENTIAL DAMAGES OR FOR EXEMPLARY OR PUNITIVE DAMAGES, EVEN IF BUYER
+OR
+SELLER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
+
+12.2. EXCEPT
+FOR BUYER’S OBLIGATION TO PAY THE AGREEMENT PRICE, NEITHER PARTY’S TOTAL
+LIABILITY TO THE OTHER FOR ANY KIND OF LOSS, DAMAGE OR LIABILITY ARISING
+UNDER
+OR IN CONNECTION WITH THIS AGREEMENT, UNDER ANY THEORY OF LIABILITY, SHALL
+EXCEED IN THE AGGREGATE FIFTY PERCENT (50%) OF THE AGREEMENT PRICE.
+
+13. Financing .
+SELLER acknowledges that BUYER will be financing the construction of its
+polysilicon production plant, including the Work Site, through a combination
+of
+debt, equity and prepayments from BUYER’s customers. SELLER hereby acknowledges
+and consents to BUYER’s assignment, in connection with BUYER’s financing of the
+construction, development and operation of improvements to the Work Site,
+as
+collateral security for its obligations relating thereto, of all of BUYER’s
+rights, title and interest in, to and under this Agreement (the “ Assigned
+Interests ”)
+to the
+financial institution named as Collateral Agent for the Secured Parties (as
+defined below) (together with its successors, designees and assigns in such
+capacity, the “ Agent ”)
+pursuant to a Security Agreement to be made by BUYER in connection with such
+financing in favor of the Agent for the benefit of certain secured parties
+described therein (the “ Secured
+Parties ”)
+and in
+that certain Collateral Agency and Intercreditor Agreement (as amended,
+restated, supplemented or otherwise modified from time to time, the
+“ Intercreditor
+Agreement ”)
+to be
+made in connection with such financing among BUYER, Hoku Materials Holdings,
+Inc., the Agent, and the other Secured Parties party thereto. SELLER shall
+not
+unreasonably withhold consent to the transfer of BUYER’s interest under this
+Agreement to the Agent or any purchaser, successor, assignee and/or designee
+(a
+“ Subsequent
+Transferee ”)
+of the
+Assigned Interests at a foreclosure sale or by a conveyance by BUYER in lieu
+of
+foreclosure and agrees that, notwithstanding any provision hereof to the
+contrary, upon such foreclosure, sale or conveyance, the Agent or such
+Subsequent Transferee shall be substituted for BUYER under this Agreement
+and
+SELLER shall perform its obligations hereunder in favor of the Agent or the
+Subsequent Transferee, as the case may be. 
+
+14. SELLER’s
+Representations & Warranties . SELLER hereby represents and warrants to
+BUYER that the following are true and correct: 
+
+14.1. SELLER
+is
+a corporation duly incorporated and validly existing in good standing under
+the
+laws of the Kingdom of Denmark. 
+
+14.2. This
+Agreement has been duly authorized by all requisite corporate action and
+duly
+executed and delivered by authorized officers of SELLER, and constitutes
+the
+valid obligations of SELLER, legally binding upon and enforceable against
+SELLER
+in accordance with its terms, except as such enforceability may be limited
+by
+(a) bankruptcy, insolvency, reorganization or other similar laws affecting
+the
+enforcement of creditors’ rights generally, and (b) general principles of equity
+(regardless of whether such enforceability is considered in a proceeding
+in
+equity or at law). 
+
+14.3. The
+execution and delivery of this Agreement, and fulfillment of and compliance
+with
+the respective provisions of this Agreement, does not conflict with, or result
+in a breach of the terms, conditions or provisions of, or constitute a default
+under, or result in any violation of, or result in the creation of any lien
+upon
+any of the properties or assets of SELLER pursuant to, or require any
+authorization, consent, approval, exemption, or other action by or notice
+to or
+filing with any court, administrative or governmental body or other person
+or
+entity pursuant to, the charter or by-laws of SELLER, any applicable law,
+statute, 
+rule or
+regulation or (insofar as is known to us after having made due inquiry with
+respect thereto) any agreement, instrument, order, judgment or decree to
+which
+SELLER is a party or otherwise subject. 
+
+SELLER
+Initials & Date 
+25/3-08
+JB 
+
+BUYER
+Initials & Date DN
+4/8/08 
+
+Page
+11
+of 21 
+
+15. General
+Provisions . 
+
+15.1. Governing
+Law; Venue .
+This
+Agreement is governed by the laws of the State of Idaho, USA, without reference
+to any conflict of laws principles that would require the application of
+the
+laws of any other jurisdiction. The United Nations Convention on Contracts
+for
+the International Sale of Goods does not apply to this Agreement. SELLER
+irrevocably consents to the personal jurisdiction of the state and federal
+courts located in the State of Idaho, USA, for any suit or action arising
+from
+or related to this Agreement, and waives any right SELLER may have to object
+to
+the venue of such courts. SELLER further agrees that these courts will have
+exclusive jurisdiction over any such suit or action initiated by SELLER against
+BUYER. SELLER also irrevocably waives any right SELLER may have to a jury
+trial. 
+
+15.2. Severability .
+If any
+provision of this Agreement is, for any reason, held to be invalid or
+unenforceable, the other provisions of this Agreement will be unimpaired
+and the
+invalid or unenforceable provision will be deemed modified so that it is
+valid
+and enforceable to the maximum extent permitted by law. 
+
+15.3. No
+Assignment .
+Except
+for assignment of payments due to SELLER pursuant to this Agreement, as
+collateral security for SELLER’s payment obligations to a third party financial
+lender, this Agreement and SELLER’s rights and obligations under this Agreement
+may not be assigned, delegated, or otherwise transferred, in whole or in
+part,
+by operation of law or otherwise, by SELLER without BUYER’s express prior
+written consent. Any attempted assignment, delegation, or transfer in violation
+of the foregoing will be null and void. BUYER may assign this Agreement,
+or any
+of its rights under this Agreement to any third party with or without SELLER’s
+consent. 
+
+15.4. Notices .
+Each
+Party must deliver all notices, consents, and approvals required or permitted
+under this Agreement in writing to the other Party at the address listed
+below
+by courier, by certified or registered mail (postage prepaid and return receipt
+requested), or by a nationally-recognized overnight carrier. Notice will
+be
+effective upon receipt or refusal of delivery. Each Party may change such
+Party’s address for receipt of notice by giving notice of such change to the
+other Party. 
+
+BUYER:
+
+HOKU
+MATERIALS, INC. 
+
+One
+Hoku
+Way 
+
+Pocatello,
+Idaho 83204 USA 
+
+Attn:
+Mr.
+Karl Taft, CTO 
+
+E-mail:
+[*] 
+
+Facsimile:
++1 (808) 682-7807 
+
+With
+a
+copy to: 
+
+HOKU
+SCIENTIFIC, INC. 
+
+1075
+Opakapaka Street 
+
+Kapolei,
+Hawaii 96707, USA 
+
+Attn:
+Mr.
+Dustin Shindo, CEO 
+
+E-mail:
+[*] 
+
+Facsimile:
++1 (808) 682-7807 
+
+SELLER
+Initials & Date 
+25/3-08
+JB 
+
+BUYER
+Initials & Date DN
+4/8/08 
+
+Page
+12
+of 21 
+
+SELLER:
+
+PVA
+TEPLA
+Danmark 
+
+Smedetoften
+4 
+
+DK-3600
+Frederikssund 
+
+Denmark 
+
+Attn:
+Jens Borregaard 
+
+E-mail:
+[*] 
+
+Facsimile:
++45 4733 7099 
+
+15.5. Legal
+Fees .
+The
+prevailing Party in any litigation between the Parties relating to this
+Agreement will be entitled to recover such Party’s reasonable attorneys’ fees
+and court costs, in addition to any other relief that such Party may be
+awarded. 
+
+15.6. Publicity .
+Neither
+Party shall make any announcement or press release regarding this Agreement
+or
+any terms thereof without the other Party’s prior written consent; provided,
+however, that either Party may publicly disclose the material terms of this
+Agreement pursuant to the United States Securities Act of 1933, as amended,
+the
+United States Securities Exchange Act of 1934, as amended, any rules of the
+German Stock Exchange that are applicable to SELLER, or other applicable
+law;
+provided, however, that the Party being required to disclose the material
+terms
+of this Agreement shall provide reasonable advance notice to the other Party,
+and shall use commercially reasonable efforts to obtain confidential treatment
+from the applicable governing entity for all technical information set forth
+in
+this Agreement. 
+
+15.7. Remedies .
+BUYER’s
+remedies for any breach of this Agreement by SELLER will include damages,
+injunctive relief, specific performance, and restitution. SELLER acknowledges
+that any breach of this Agreement by SELLER would cause irreparable injury
+to
+BUYER for which monetary damages would not be an adequate remedy and, therefore,
+BUYER will be entitled to injunctive relief (including specific performance).
+The rights and remedies provided to each Party in this Agreement are cumulative
+and in addition to any other rights and remedies available to such Party
+at law
+or in equity. 
+
+15.8. Construction .
+Section
+headings are included in this Agreement merely for convenience of reference;
+they are not to be considered part of this Agreement or used in the
+interpretation of this Agreement. When used in this Agreement, “including” means
+“including without limitation.” Whenever BUYER’s consent or approval is required
+under this Agreement, BUYER may grant or deny its consent or approval in
+its
+sole and absolute discretion. No rule of strict construction will be applied
+in
+the interpretation or construction of this Agreement. 
+
+15.9. Waiver .
+All
+waivers must be in writing and signed by the Party to be charged. Any waiver
+or
+failure to enforce any provision of this Agreement on one occasion will not
+be
+deemed a waiver of any other provision or of such provision on any other
+occasion. 
+
+15.10. Entire
+Agreement; Amendments .
+This
+Agreement is the final, complete, and exclusive agreement of the Parties
+with
+respect to the subject matter hereof and supersedes and merges all prior
+or
+contemporaneous communications and understandings between the Parties. No
+modification of or amendment to this Agreement will be effective unless in
+writing and signed by the Party to be charged. 
+
+[This
+space intentionally left blank.] 
+
+SELLER
+Initials & Date 
+25/3-08
+JB 
+
+BUYER
+Initials & Date DN
+4/8/08 
+
+Page
+13
+of 21 
+
+IN
+WITNESS WHEREOF, the parties have executed this Equipment Purchase & Sale
+Agreement as of the date first set forth above. 
+
+SELLER : 
+
+BUYER : 
+
+PVA
+TEPLA AG 
+
+HOKU
+MATERIALS, INC. 
+
+By: 
+
+/s/
+JENS BORREGAARD 
+
+By: 
+
+/s/
+DARRYL NAKAMOTO 
+
+Name: 
+
+Jens
+Borregaard 
+
+Name: 
+
+Darryl
+Nakamoto 
+
+Title: 
+
+Branch
+Manager 
+
+Title: 
+
+CFO 
+
+Authorized
+Signatory 
+
+Authorized
+Signatory 
+
+SELLER
+Initials & Date 
+25/3-08
+JB 
+
+BUYER
+Initials & Date DN
+4/8/08 
+
+Page
+14
+of 21 
+
+APPENDIX
+1 
+
+Technical
+Specification for SR-110 Slim Rod Puller 
+
+[*] 
+
+SELLER
+Initials & Date 
+25/3-08
+JB 
+
+BUYER
+Initials & Date DN
+4/8/08 
+
+Page
+15
+of 21 
+
+APPENDIX
+2 
+
+Technical
+Specifications of FZ-14M analytical puller 
+
+[*] 
+
+SELLER
+Initials & Date 
+25/3-08
+JB 
+
+BUYER
+Initials & Date DN
+4/8/08 
+
+Page
+16
+of 21 
+
+APPENDIX
+3 
+
+Specification
+of Documents 
+
+For
+the
+Equipment, detailed information will be given in the form of text, diagrams
+and
+drawings. 
+
+In
+general the documents will contain: 
+
+General
+Description 
+
+Installation
+Instructions 
+
+Operation
+Instructions 
+
+Troubleshooting
+Instructions 
+
+Maintenance
+Instructions 
+
+Assembly
+Drawings 
+
+Electrical
+Diagrams 
+
+Hydraulic
+Diagrams 
+
+Pneumatic
+Diagrams 
+
+Gas
+Diagrams 
+
+Complete
+Part Lists 
+
+Especially
+for crystal growth, very detailed information will be given. Each process
+step
+will be explained with text and drawings, and guidelines for the proper setting
+of all adjustable growth parameters will be given for each set of diameter
+of
+input polysilicon and diameter of output Silicon single crystal. 
+
+Furthermore
+general information on handling, preparation and cleaning of Silicon will
+be
+given. 
+
+Schedule 
+
+Documentation
+for preparation of installation sites: 
+
+4
+weeks from effective date of Agreement 
+
+Final
+documentation as mentioned above: 
+
+2
+weeks after shipment 
+
+SELLER
+Initials & Date 
+25/3-08
+JB 
+
+BUYER
+Initials & Date DN
+4/8/08 
+
+Page
+17
+of 21 
+
+APPENDIX
+4 
+
+Procedure
+for Factory Acceptance Test 
+
+1.
+Technical Training in Operation and Maintenance of
+Equipment. 
+
+Prior
+to
+commencement of the Factory Acceptance Test at the SELLER Facility SELLER
+shall
+provide BUYER with the following training in the operation and maintenance
+of
+the Equipment: 
+
+The
+training will fall in two parts: first in PVA TePla workshop in Denmark in
+relation to FAT (factory acceptance tests) and later in Hoku plant in relation
+to installation, commissioning and final acceptance. For each type of equipment
+the topics will be: Overall description of equipment, installation, operation,
+and maintenance. The total time spent during FAT for this purpose two week
+and
+the total at Hoku-site 6 weeks incl. time for installation supervision. The
+reason it is taken together is that the installation process is often quite
+practical also used for demonstration of certain aspects of the
+equipment. 
+
+The
+FAT
+will include 2 weeks of training for the BUYER at the SELLER
+Facility. 
+
+2.
+Factory Acceptance Test. 
+
+Phase
+I.
+In the first part of the test it will be shown that the Equipment complies
+with
+the Technical Specifications with respect to movement of spindles (precision
+and
+range of rotation and vertical movement), alignment and end vacuum. 
+
+Phase
+II.
+In the second part of the tests, the operational performance will be proven
+as
+follows: 
+
+[*] 
+
+SELLER
+will for the purpose of these tests supply the following poly
+silicon: 
+
+Two
+source rods Ø45 x 900 mm, two poly rods Ø 80 – 85 mm x 800 mm and 4 core
+rods Ø 20 x 100 mm. 
+
+SELLER
+Initials & Date 
+25/3-08
+JB 
+
+BUYER
+Initials & Date DN
+4/8/08 
+
+Page
+18
+of 21 
+
+Appendix
+5 
+
+Procedures
+for Commissioning Test 
+
+1.
+Technical Training in Operation and Maintenance of
+Equipment. 
+
+Prior
+to
+commencement of the Commissioning Test at the Work Site, SELLER shall provide
+BUYER with the following training in the operation and maintenance of the
+Equipment: 
+
+[Describe
+amount of time for training, and topics to be covered with some specificity.]
+
+The
+training will fall in two parts: first in PVATePla workshop in Denmark in
+relation to FAT (factory acceptance tests) and later in Hoku plant in relation
+to installation, commissioning and final acceptance. For each type of equipment
+the topics will be: Overall description of equipment, installation, operation,
+and maintenance. The total time spent during FAT for this purpose is two
+weeks
+and the total at Hoku-site is 6 weeks incl. time for installation supervision.
+The reason it is taken together is that the installation process is often
+quite
+practical also used for demonstration of certain aspects of the
+equipment. 
+
+The
+6
+weeks for commissioning shall include a minimum of 750 hours of Technical
+Services from qualified SELLER personnel. 
+
+2.
+Commissioning Test Certificate. 
+
+Phase
+I.
+In the first part of the test it will be shown that the Equipment complies
+with
+the Technical Specifications with respect to movement of spindles (precision
+and
+range of rotation and vertical movement), alignment and end vacuum. 
+
+Phase
+II.
+In the second part of the tests, the operational performance will be proven
+as
+follows: 
+
+[*] 
+
+SELLER
+will for the purpose of these tests supply the following poly
+silicon: 
+
+Two
+source rods Ø45 x 900 mm, two poly rods Ø 80 – 85 mm x 800 mm and 4 core
+rods Ø 20 x 100 mm. 
+
+Additional
+silicon for training of BUYER’s personnel will be supplied by BUYER 
+
+SELLER
+Initials & Date 
+25/3-08
+JB 
+
+BUYER
+Initials & Date DN
+4/8/08 
+
+Page
+19
+of 21 
+
+Appendix
+6 
+
+Factory
+Acceptance Certificate 
+
+This
+Factory Acceptance Certificate is being signed pursuant to
+Section 5.2.2 
+of the
+Equipment Purchase & Sale Agreement (the “ Agreement ”)
+dated
+_______________, 2007, by and between HOKU MATERIALS, INC., and PVA TEPLA
+AG.
+Capitalized terms not otherwise defined herein have the meaning set forth
+in the
+Agreement. 
+
+By
+signing below, each party hereby certifies to the successful completion of
+the
+Factory Acceptance Test and confirms the following: 
+
+1. 
+
+Each
+of the seven (7) SR-110 Slim Rod Pullers with the serial numbers
+listed
+below meets the Technical Specifications set forth on Appendix
+1 to the
+Agreement. 
+
+Serial
+Number: 
+
+Serial
+Number: 
+
+Serial
+Number: 
+
+Serial
+Number: 
+
+Serial
+Number: 
+
+Serial
+Number: 
+
+Serial
+Number: 
+
+2. 
+
+The
+FZ-14M analytic float zone crystal puller with the serial number
+listed
+below meets the Technical Specifications set forth on Appendix
+2 to the
+Agreement. 
+
+Serial
+Number: 
+
+PVA
+TEPLA AG 
+
+HOKU
+MATERIALS, INC. 
+
+By: 
+
+By: 
+
+Name: 
+
+Name: 
+
+Title: 
+
+Title: 
+
+Authorized
+Signatory 
+
+Authorized
+Signatory 
+
+SELLER
+Initials & Date 
+25/3-08
+JB 
+
+BUYER
+Initials & Date DN
+4/8/08 
+
+Page
+20
+of 21 
+
+Appendix
+7 
+
+Certificate
+of Commissioning 
+
+This
+Certificate of Commissioning is being signed pursuant to
+Section 5.3.2 
+of the
+Equipment Purchase & Sale Agreement (the “ Agreement ”)
+dated
+_______________, 2007, by and between HOKU MATERIALS, INC., and PVA TEPLA
+AG.
+Capitalized terms not otherwise defined herein have the meaning set forth
+in the
+Agreement. 
+
+By
+signing below, each party hereby certifies to the successful completion of
+the
+Commissioning Test and confirms the following: 
+
+1. 
+
+Each
+of the seven (7) SR-110 Slim Rod Pullers with the serial numbers
+listed
+below meets the Technical Specifications set forth on Appendix
+1 to the
+Agreement. 
+
+Serial
+Number: 
+
+Serial
+Number: 
+
+Serial
+Number: 
+
+Serial
+Number: 
+
+Serial
+Number: 
+
+Serial
+Number: 
+
+Serial
+Number: 
+
+2. 
+
+The
+FZ-14M analytic float zone crystal puller with the serial number
+listed
+below meets the Technical Specifications set forth on Appendix
+2 to the
+Agreement. 
+
+Serial
+Number: 
+
+PVA
+TEPLA AG 
+
+HOKU
+MATERIALS, INC. 
+
+By: 
+
+By: 
+
+Name: 
+
+Name: 
+
+Title: 
+
+Title: 
+
+Authorized
+Signatory 
+
+Authorized
+Signatory 
+
+SELLER
+Initials & Date 
+25/3-08
+JB 
+
+BUYER
+Initials & Date DN
+4/8/08 
+
+Page
+21
+of 21

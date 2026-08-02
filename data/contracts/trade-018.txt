@@ -1,0 +1,908 @@
+EX-10.4 
+
+Exhibit 10.4 
+
+Dated 21 August, 2014 
+
+EAST METALS AG 
+as
+Seller 
+and 
+EVRAZ
+TRADE NA LLC 
+as Buyer 
+
+OFFTAKE
+CONTRACT 
+
+TABLE OF CONTENTS 
+
+Page 
+
+1.
+
+DEFINITIONS AND INTERPRETATION 
+
+1 
+
+2.
+
+CO-OPERATION 
+
+2 
+
+3.
+
+SUBJECT OF CONTRACT 
+
+2 
+
+4.
+
+QUALITY OF MATERIAL 
+
+2 
+
+5.
+
+ORDERING AND DELIVERY OF MATERIAL 
+
+3 
+
+6.
+
+PRICE, PAYMENT AND OTHER FINANCIAL PROVISIONS 
+
+3 
+
+7.
+
+TRANSFER OF RISK AND OWNERSHIP 
+
+4 
+
+8.
+
+ACCEPTANCE OF MATERIAL 
+
+4 
+
+9.
+
+QUALITY CLAIMS 
+
+4 
+
+10.
+
+QUANTITY CLAIMS 
+
+6 
+
+11.
+
+BUYER’S DEFAULT 
+
+7 
+
+12.
+
+ANTI-DUMPING 
+
+8 
+
+13.
+
+LIMITATION OF LIABILITY 
+
+8 
+
+14.
+
+FORCE MAJEURE 
+
+8 
+
+15.
+
+TERM AND TERMINATION 
+
+8 
+
+16.
+
+MISCELLANEOUS 
+
+9 
+
+17.
+
+GOVERNING LAW 
+
+11 
+
+18.
+
+ARBITRATION 
+
+11 
+
+ANNEX - FORM OF SPECIFICATION
+
+13 
+
+THIS OFFTAKE CONTRACT (the “ Agreement ”) is dated 21 August, 2014 and made between:
+
+(1) 
+EAST METALS AG a company incorporated under the laws of Switzerland having registration number CHE-109.688.791 and with its registered address at Baarerstrasse 131, CH-6300 Zug, Switzerland (the
+“ Seller ”); and 
+
+(2) 
+EVRAZ TRADE NA LLC a limited liability company incorporated under the laws of the State of Delaware, United States of America, having registration number 5164605 and with its address at 200 East Randolph Drive,
+Suite 7800, Chicago, IL 60601, and Registered Address at c/o Corporation Services Company, 2711 Centerville Rd, Suite 400, Wilmington, DE 19808 (the “ Buyer ”). 
+
+(each a “ Party ”, together the “ Parties ”). 
+
+WHEREAS: 
+
+A. 
+The Seller wishes to sell, and the Buyer wishes to buy, the Material on the terms and conditions set out in this Agreement. 
+
+B. 
+On 12 August 2014, the Seller has entered into an up to US$900,000,000 facility agreement (the “ Facility Agreement ”) between, among others, Evraz Consolidated West Siberian Metallurgical Plant and
+Evraz Nizhny Tagil Metallurgical Plant as borrowers, the Seller as trader and Deutsche Bank AG, Amsterdam Branch as security agent (the “ Security Agent ”). 
+
+C. 
+As security for the obligations of the Obligors under the Finance Documents (in each case as defined in the Facility Agreement), the Seller has assigned or shall assign the benefit of this Agreement to the Security
+Agent (in its capacity as such for the Finance Parties (as defined in the Facility Agreement)) pursuant to an assignment agreement entered into or to be entered into with the Security Agent on or about the date of the Facility Agreement (the
+“ Assignment ”). 
+
+D. 
+The Parties each acknowledge that notwithstanding any such assignment, each Party shall remain liable for the full and timely performance of its obligations under this Contract. 
+
+IT IS AGREED as follows: 
+
+1. 
+DEFINITIONS AND INTERPRETATION 
+
+1.1 
+Definitions 
+
+In this Agreement: 
+
+“ Bill of Lading ” or “ B/L ” means the official document as defined in Art. 20 of the ICC Uniform Customs and
+Practice for Documentary Credits UCP 600. 
+“ Business Day ” means 8am to 5pm, from Monday to Friday, excluding public
+holidays in the relevant location where the Material is delivered. 
+“ Incoterms ” means Incoterms ® 2010, a series of pre-defined commercial terms published by the International Chamber of Commerce. 
+
+“ Material ” means internationally acceptable steel products as more particularly described in the relevant Specification to be
+sold and delivered by the Seller to the Buyer. 
+
+“ Metric tonne ” or “ MT ” means a measure of weight equivalent to
+one thousand kilograms (1,000 kg). 
+“ Producer ” means the mill producing the relevant Material as set out in the relevant
+Specification. 
+“ Seller’s Account ” means the Seller’s dollar denominated bank account with Deutsche Bank AG,
+Amsterdam Branch with account number NL91DEUT0265076277 or such other account as the Security Agent may notify to the Buyer in writing from time to time. 
+
+“ Specification ” means any specification substantially in the form set out in the Annex to this Agreement entered into pursuant
+to this Agreement from time to time setting out the details of each consignment of Material, including, among other things, the quality, quantity, price and time of deliveries together with any attachments thereto. 
+
+1.2 
+Interpretation 
+
+(a) 
+Clause, Annex and paragraph headings shall not affect the interpretation of this Agreement. 
+
+(b) 
+Unless the context otherwise requires, words in the singular shall include the plural and vice versa. 
+
+(c) 
+A reference to any Party shall include that Party’s personal representatives, successors and permitted assigns. 
+
+(d) 
+Any capitalized terms not defined in this Agreement shall have the meaning given to them in the relevant Specification and or any of the attachments to the relevant Specification. 
+
+(e) 
+Each Specification shall be an integral part of this Agreement. 
+
+2. 
+CO-OPERATION 
+
+2.1 
+The Parties shall use reasonable endeavours to co-operate in the performance of their respective obligations under this Agreement. 
+
+3. 
+SUBJECT OF CONTRACT 
+
+3.1 
+During the term of this Agreement, the Seller shall sell and the Buyer shall buy, accept and pay for, the Materials in accordance with the terms of this Agreement. 
+
+3.2 
+Quantity, quality, price, amount and time of each shipment of the Materials will be specified in the relevant Specification which shall be entered into by the Buyer and the Seller from time to time and form an integral
+part hereof. 
+
+4. 
+QUALITY OF MATERIAL 
+
+The Seller shall ensure that the quality of the Materials shall
+comply with the technical specifications stated in the relevant Specification and shall be confirmed by a certificate of quality from the Seller. 
+
+2 
+
+5. 
+ORDERING AND DELIVERY OF MATERIAL 
+
+5.1 
+Ordering 
+
+(a) 
+The Buyer shall buy the Material as set out in the relevant Specification. 
+
+(b) 
+A Specification shall come into force when: 
+
+(i) 
+duly signed by both Parties; or 
+
+(ii) 
+the Buyer exercises or attempts to exercise any rights or obligations in relation of that Specification already duly signed by the Seller and sent to the Buyer; or 
+
+(iii) 
+if the Buyer accepts the Material, 
+
+5.2 
+Transport and Delivery 
+
+(a) 
+The search, selection and instruction of Producers and the selection of the place of loading of the Material shall be at the Seller’s sole discretion. 
+
+(b) 
+The Material shall be delivered pursuant to the delivery terms specified in the relevant Specification. 
+
+6. 
+PRICE, PAYMENT AND OTHER FINANCIAL PROVISIONS 
+
+6.1 
+Price 
+
+(a) 
+In consideration for the provision of the Material by the Seller, the Buyer shall pay the Seller the price in US dollars set out in the applicable Specification and in accordance with this Clause 6. 
+
+(b) 
+The price agreed is based on the Incoterms and delivery place agreed in the applicable Specification. 
+
+(c) 
+The price may only be changed or adjusted in accordance with price adjustments for quality and quantity as defined in the applicable Specification. 
+
+6.2 
+Payment 
+
+(a) 
+The Buyer shall ensure that payments for the Materials shall be made within 30 days from the date of delivery. 
+
+(b) 
+Subject only to the circumstances set out in Clauses 9(j) and 10(d), all payments under this Agreement shall be made by the Buyer to the Seller’s Account in US dollars without any withholding, counterclaim,
+deduction or set off whatsoever. 
+
+(c) 
+If payment is not made in accordance with contractually agreed terms and conditions, the Seller shall notify the Buyer of impending default and if the Buyer does not remit payment within 30 days of that notice, the
+Buyer shall be in default (“ Payment Default ”). Upon Buyer’s Payment Default, the Seller may, in addition to any other rights available to it by law, exercise the rights set out in Clause 11 ( Buyer’s default ). All
+invoices shall be sent to the Buyer’s address specified in Clause 16.7 below. In no way does this Clause 6.2(c) extend the period for payment, it only specifies when a Payment Default occurs. 
+
+(d) 
+The payment obligations are satisfied once the amount due has been credited to the Seller’s Account. 
+
+3 
+
+(e) 
+Payments shall accrue interest, at a rate of the 1-month LIBOR + 2% p.a. for each day on which the Buyer is in Payment Default as defined in paragraph (c) above. 
+
+(f) 
+If the Buyer owes several, independent debts to the Seller based on the same or different legal nature, the Buyer is entitled to declare which debt shall be settled in full or in part with any payment, down-payment or
+prepayment by communicating the same to the Seller within a reasonable time before or after making such payment. 
+
+6.3 
+Bank charges, taxes and other costs 
+
+(a) 
+The price mentioned in a Specification shall be interpreted by the Parties as the price to be cashed by the Seller, net from any domestic or international correspondent bank charges or other expenses and telegraph wire
+fees of any kind whatsoever, which shall be in any case to the Buyer’s account. 
+
+(b) 
+All import taxes, duties, levies, dues etc. on the imported Material, if any, shall be borne by the Parties in accordance with Incoterms. 
+
+7. 
+TRANSFER OF RISK AND OWNERSHIP 
+
+(a) 
+The transfer of risks associated with the Material is carried out in accordance with the applicable Incoterms, unless otherwise agreed in writing between the Parties in the relevant Specification. 
+
+(b) 
+Title and ownership of the Material shall transfer in accordance with the applicable Incoterms, unless otherwise agreed in writing between the Parties in the relevant Specification. 
+
+(c) 
+Each Party shall cooperate on measures required to protect the property of the other. 
+
+(d) 
+As regards the reservation of title the law applicable at the place where the sold Material is located shall apply. If such law provides that the reservation of title does not take effect without registration or any
+other formality, the Buyer herewith consents to undertake/assist in pertinent registration or formalities. The Buyer will provide all necessary assistance in order to fulfil the formalities required under the respective local law free of charge.
+
+8. 
+ACCEPTANCE OF MATERIAL 
+
+The Materials sold under this Agreement are deemed to be
+delivered by the Seller and accepted by the Buyer: 
+
+(a) 
+in respect of quality—according to the technical protocol and specifications referenced in the PO issued by the Buyer; 
+
+(b) 
+in respect of quantity—according to the weight and, if applicable, the number of units specified in Seller’s invoice. 
+
+9. 
+QUALITY CLAIMS 
+
+(a) 
+Quality claims only arise if the quality of the Material is not in conformity with the specifications stipulated in the relevant Specification and/or the Producer’s test certificate. 
+
+4 
+
+(b) 
+Quality claims may be made on second choice Material for issues that did not cause the Material to be graded second choice. 
+
+(c) 
+In the event of a quality claim, the Buyer must notify the Seller of the claim within the time limits set out below: 
+
+(i) 
+hidden defects – 18 calendar months from the date of shipment of the Material from the place or port of loading; 
+
+(ii) 
+visible defects – 12 calendar months from the date of shipment of the Material from the place or port of loading, 
+
+unless otherwise agreed in writing, any quality claim shall be sent to the Seller by email, registered mail, or courier (for example, FedEx,
+UPS, Airborne Express or similar). 
+
+(d) 
+Any quality claim must be notified in accordance with Clause 16.7 and submitted in one original and shall contain the following information: 
+
+(i) 
+number of the Specification to which it relates; 
+
+(ii) 
+number of pieces and weight of the Material in the respect on which the quality claim is submitted; 
+
+(iii) 
+reference to the relevant shipping documents, e.g. as the case may be B/L, FCR, CMR, packing list; 
+
+(iv) 
+the marking of the Material; and 
+
+(v) 
+a detailed description of the alleged non-conformities of the Material. 
+
+(e) 
+Any quality claim must be supported by the following documents: 
+
+(i) 
+original survey report from Buyer’s metallurgist, 
+
+all the aforementioned documents shall
+be presented in or translated into English, unless said documents were provided by Seller; Seller provided documents may be presented in English or in whatever language the Seller provides them to the Buyer. 
+
+(f) 
+All Material subject to the alleged quality claim must be stocked separately, clearly marked, and must not be used for further processing until the claim is settled, unless the Seller agrees otherwise in writing within
+a reasonable time. If the Material subject to the alleged quality claim is processed or used otherwise, the quality claim forfeits. In the case of hidden defects revealed during processing, the Buyer must inform the Seller immediately and may
+continue further processing but must hold the processed material until the quality claim is settled. Notwithstanding anything else herein, the Buyer may repair quality defects in the Material and claim against the Seller the cost of such repairs. In
+this case, the Buyer must document to the extent practicable the defects and the steps taken to repair the Material. The Buyer need not hold the Material for further inspection. 
+
+(g) 
+Should the Seller dispute the quality defect or non-conformity of the Material, the Seller shall inform the Buyer accordingly and the Parties shall
+thereafter jointly appoint an independent surveyor. The Buyer is obliged to provide or cause to provide 
+
+5 
+
+the independent surveyor full access to the Material for the purpose of the inspection. The findings of the jointly appointed independent surveyor shall be final and binding on the Parties. The
+cost of the independent surveyor shall be borne by the losing Party. 
+
+(h) 
+Should the Buyer fail to notify a quality claim within the time limits stipulated in this Agreement, then the claim shall be deemed forfeited and the Seller shall be relieved from any and all responsibilities in
+relation thereto. The Buyer cannot claim on any other insurance policy of the Seller for recovery of such forfeited claim. 
+
+(i) 
+Any quality claim as regards to the Material delivered under this Agreement, and/or any losses or damages incurred in conjunction with this Agreement by the Buyer which may arise out of performance of this Agreement
+shall not entitle the Buyer to fully or partially reject the Seller’s invoice, to delay payment or to make any deduction and, subject only to the circumstances set out in paragraph (j) below, the total invoiced amount due to the Seller
+shall be paid in full without deduction, withholding or set off. 
+
+(j) 
+In the event of a quality claim where the Buyer repairs the defect, the Buyer shall invoice the Seller in US Dollars for the repairs and the Seller may apply that invoice to amounts due from the Buyer or may elect to
+pay such invoice directly. In the event a quality claim is settled by credit to the Buyer, the Seller may elect to apply that credit to any amounts owing by the Buyer or the Seller may elect to pay such amount directly in US Dollars. In any case
+where a credit is due to the Buyer, the Seller must apply that credit or remit payment within 30 days. If payment is not made within 30 days, Clauses 6.2(c) and 6.2(e) shall apply, only in this case, the term “Buyer” shall in all respects
+(including the reference to Clause 11, which will then be applied to Seller), be replaced with “Seller” and references in those Clauses to “Seller” shall be replaced with “Buyer”. 
+
+10. 
+QUANTITY CLAIMS 
+
+(a) 
+Any quantity claim must be submitted within 6 calendar months from the date of shipment from the place or port of landing. Unless otherwise agreed in writing, any quantity claim must be sent to the Seller by email,
+registered mail or courier (for example, FedEx, UPS, Airborne Express, or similar). 
+
+(b) 
+Any quantity claim must be notified in accordance with Clause 16.7 and submitted in one original and shall contain the following information: 
+
+(i) 
+number of the Specification to which it relates; 
+
+(ii) 
+number of pieces or weight of the Material in the respect on which the quantity claim is submitted; 
+
+(iii) 
+reference to the relevant shipping documents, e.g. B/L, FCR, CMR, invoice packing list; 
+
+(iv) 
+the marking of the Material; and 
+
+(v) 
+a detailed description of the alleged non-conformities of the Material. 
+
+(c) 
+Any quantity claim must be supported by the following documents: 
+
+6 
+
+(i) 
+copy of the calibration certificate of weighing machinery at the place or port of discharge, if weight is used to measure quantity and if requested by the Seller, 
+
+all the aforementioned documents shall be presented in or translated into English, unless said documents were provided by Seller; Seller
+provided documents may be presented in English or in whatever language the Seller provides them to the Buyer. 
+
+(d) 
+In the event of a proven difference between the invoiced and the received Material weight, a deductible franchise of 0.5% will be applicable. Only a difference outside of the deductible franchise can be reimbursed and
+shall give the Buyer rise to a claim. Such quantity claim will be settled through the submission of a respective debit note to the Seller. The relevant debit note will be settled within 30 calendar days after receiving the relevant debit note in
+case of Buyer’s claim is raised within above stated time period and it is supported by required documents. The Parties will reflect their agreement in a pertinent settlement agreement or the Buyer may deduct such an amount from any invoice.
+
+(e) 
+Should the Seller dispute any difference in quantity and such difference is outside of 0.5% of the franchise, the Seller shall inform the Buyer accordingly and the Parties shall—after the presentation of the claim
+by the Buyer—jointly endeavour to resolve the dispute. Each party shall document their evidence but the Buyer shall be entitled to process, sell, and ship the Material in dispute before the dispute is resolved. 
+
+(f) 
+Should the Buyer fail to notify a quantity claim within the time limits stipulated in this Agreement, then the claim shall be deemed forfeited and the Seller shall be relieved from any and all responsibilities in
+relation thereto. The Buyer cannot claim on any other insurance policy of the Seller for recovery of such precluded claim. 
+
+(g) 
+Any quantity claims as regards to the Material delivered under this Agreement, and/or any losses and damages in conjunction with this Agreement incurred by the Buyer which may arise out of performance of this Agreement
+shall not, subject only to the circumstances set out in paragraph (d) above, entitle the Buyer to fully or partially reject the Seller’s invoice, to delay payment or to make any deduction, i.e. the total invoiced amount due to the Seller
+shall be paid in full without deduction, withholding or set off. 
+
+11. 
+BUYER’S DEFAULT 
+
+If the Buyer is in default of the performance of any of its
+obligations under this Agreement, the Seller may, after serving notice upon the Buyer and providing for thirty (30) days for the Buyer to cure such default, in addition to any other rights available to it by law, take any one or more of the
+following actions with no financial consequences for the Seller: 
+
+(a) 
+cease or suspend its performance under this Agreement, in particular withhold delivery or stop any Material in transit until the Buyer has paid in full all amounts due, (whether such right would otherwise exist by law
+or not); 
+
+(b) 
+declare immediately due and owing, on demand, the entire outstanding balance due from the Buyer for any Material already delivered under this Agreement, whereupon the same shall become immediately due and owing;
+
+(c) 
+recover costs of any enforcement proceedings arising from the Buyer’s default. 
+
+7 
+
+12. 
+ANTI-DUMPING 
+
+(a) 
+The Buyer warrants and represents that it shall remain fully responsible for observing anti-dumping norms, rules and procedures in the final destination country and any other market in which it may sell the Material.
+Any active resell in any other country than the final destination country shall be agreed with the Seller in advance and in writing. 
+
+(b) 
+Should, nevertheless, a third party claim that such anti-dumping norms, rules and procedures have been infringed and initiate proceedings against the Seller or the Producer, the Seller shall notify the Buyer of this
+fact in writing. It is expressly agreed that the Buyer shall be involved in anti-dumping proceedings commenced in or by a country to which the Buyer has supplied the Material. The Buyer shall bear all legal and other costs in connection with any
+initiated proceedings. The Buyer shall indemnify the Seller (and/or the Producer and their respective officers, directors, employees, shareholders, customers, agents and successors) against all and any loss, damages, liabilities, settlements, costs
+and expenses (including but not limited to margin costs, legal expenses including any retroactive import duties imposed on the Buyer and or the Producer regarding Material imported into the pertinent territory and the expenses of other
+professionals) resulting from a judgment, regulation or settlement, provided such costs were not caused by gross negligence of the Seller. 
+
+13. 
+LIMITATION OF LIABILITY 
+
+(a) 
+The Seller’s liability for any direct loss or damage, howsoever caused, which the Buyer may sustain in connection with the performance of this Agreement, shall be limited to the invoice value of the Material
+actually proved to be deficient or defective together with the actual costs of transportation and logistics, any processing labour, and any customer claims, except if the loss or damage is caused by gross negligence or wilful misconduct of the
+Seller and except in respect of repairs carried out by the Buyer following a quality claim, when such limit shall be the actual cost of repair. 
+
+(b) 
+In no event or circumstance, unless otherwise provided by applicable law, or identified in paragraph (a) above, shall the Seller be liable for any indirect loss or incidental, consequential or special damages,
+including, but not limited to loss of business or profits, unrealized savings, additional expenses incurred, etc. 
+
+14. 
+FORCE MAJEURE 
+
+(a) 
+The Force Majeure (Exemption) clause of the International Chamber of Commerce (ICC Publication No. 650) is hereby incorporated by reference into this Agreement. Circumstances affecting the Seller’s affiliates
+shall be deemed as affecting the Seller. 
+
+(b) 
+If the non-fulfilment of any obligations under this Agreement lasts for more than 90 calendar days the Parties shall have the right to refuse further fulfilment of their respective obligations under this Agreement or
+any relevant Specification and in that case neither Party shall have the right to claim compensation for losses suffered from the other Party. 
+
+15. 
+TERM AND TERMINATION 
+
+15.1 
+Term 
+
+This Agreement is valid for a period of 64 months commencing on the date stated at
+the beginning of this Agreement. 
+
+8 
+
+15.2 
+Termination by either Party 
+
+Without prejudice to any right or remedy either Party may
+have against the other for breach or non-performance of this Agreement or termination following a force majeure event, either Party shall have the right by notice in writing to the other Party to terminate this Agreement with immediate effect, after
+obtaining knowledge of any of the following events: 
+
+(a) 
+the passing by the other Party of a resolution for its winding-up (except in connection with a bona fide business re-organisation) or the making by a court of competent jurisdiction of an order for the winding-up of the
+other Party or the dissolution, liquidation or closing of the other Party; 
+
+(b) 
+the making of a request for the opening of bankruptcy proceedings or opening of bankruptcy proceedings against the other Party. For the avoidance of doubt this does not include the application for the commencement of
+debt enforcement proceedings (“ Betreibungsbegehren ”); 
+
+(c) 
+the granting of an adjournment on the opening of bankruptcy proceedings against the other Party; 
+
+(d) 
+the approval of a provisional or definitive moratorium of debt enforcement (composition proceedings) of one Party or opening of similar proceedings against the other Party. 
+
+15.3 
+Consequences of Termination 
+
+(a) 
+Following termination of this Agreement for any reason, the price for any Material delivered to the Buyer prior to the date of termination of this Agreement becomes immediately due. 
+
+(b) 
+Any cancellation charges, if any, will be specified in each relevant Specification. 
+
+16. 
+MISCELLANEOUS 
+
+16.1 
+Confidentiality 
+
+(a) 
+Each Party undertakes to treat any data or information received from the other Party in the context of or pursuant to this Agreement in a confidential manner, and neither to convey or disclose such data or information
+to third parties nor to use it for purposes other than for the performance of this Agreement. Disclosure of the afore-mentioned information within the Seller’s group of companies shall not constitute a breach of the Seller’s
+confidentiality obligation. 
+
+(b) 
+Each Party hereby consents to the disclosure of any written or verbal information or documents to a lender or lenders (or any agent or trustee acting on their behalf) in relation to any financing provided by such lender
+or lenders. 
+
+16.2 
+No waiver 
+
+No single or partial exercise, or failure or delay in exercising any right,
+power or remedy by any Party shall constitute a waiver by that Party of, or impair or preclude any further exercise of, that or any other right, power or remedy arising under this Agreement or otherwise. 
+
+9 
+
+16.3 
+Entire agreement 
+
+(a) 
+This Agreement sets out the entire agreement and understanding between the Parties and supersedes all previous agreements and understandings between the Parties relating to the subject matter hereof. 
+
+(b) 
+Any general terms and conditions sent by the Buyer to the Seller are explicitly rejected and do not form part of this Agreement. 
+
+16.4 
+Conflict 
+
+In the event of any conflict between the provisions of a Specification and
+those of this Agreement, the provisions of that Specification shall prevail. 
+
+16.5 
+Severability 
+
+To the extent that any provision of this Agreement is found by any court
+or competent authority to be invalid, unlawful or unenforceable in any jurisdiction, the Parties (or the tribunal or the competent authority, as the case may be) will seek a provision which economically comes as close as possible to the invalid,
+unlawful or unenforceable provision. The Parties expressly agree that such finding shall not affect the enforceability of the remainder of this Agreement nor shall it affect the validity, lawfulness or enforceability of that provision in any other
+jurisdiction. 
+
+16.6 
+Amendments 
+
+All amendments to this Agreement including any amendment to any
+Specification shall be valid only if they are in writing and signed by the authorized representatives of the Parties. 
+
+16.7 
+Notices and communication 
+
+Except as expressly provided otherwise in this Agreement, in
+proving service of a notice or document under this Agreement it shall be sufficient to prove that the notice or document was properly addressed and delivered by courier or posted as a prepaid, first class or airmail, with a recorded delivery letter:
+
+(a) 
+to the Buyer 
+
+Address: 200 East Randolph Drive, Suite 7800, Chicago, IL 60601 
+
+Attention: General Counsel 
+
+(b) 
+to the Seller 
+
+Address: Baarerstrasse 131, CH-6300 Zug, Switzerland 
+
+Attention: Treasury 
+or to any
+other address provided by a Party to the other Party on five Business Days notice. 
+
+16.8 
+Assignment 
+
+(a) 
+Neither Party has the right to assign its rights and obligations under this Agreement to any person other than the Security Agent without the prior written consent of the Security Agent and the other Party.
+
+(b) 
+This Agreement shall be binding upon any successors in interest or title of the Parties. 
+
+10 
+
+16.9 
+Counterparts 
+
+This Agreement and any Specification may be executed in any number of
+counterparts and this has the same effect as if the signatures on the counterparts were on a single copy of this Agreement or that Specification. 
+
+17. 
+GOVERNING LAW 
+
+This Agreement shall be governed by and construed in accordance with the
+laws of England and Wales, with the exclusion of the Vienna Convention on the International Sale of Goods (CISG). 
+
+18. 
+ARBITRATION 
+
+18.1 
+Any dispute, controversy or claim arising out of, or in relation to, this Agreement, including the validity, invalidity, breach or termination thereof, shall be settled by arbitration administered by the International
+Centre for Dispute Resolution in accordance with its International Arbitration Rules. 
+
+18.2 
+The number of arbitrators shall be three. 
+
+18.3 
+The seat of the arbitration shall be New York, United States of America and the arbitration proceedings shall be conducted in English. 
+
+This Agreement has been entered into on the date stated at the beginning of this Agreement. 
+
+11 
+
+Signatures 
+
+The Seller 
+
+EAST METALS AG 
+
+By: 
+
+/s/ Giacomo Baizini 
+
+Name: 
+
+Giacomo Baizini 
+
+Title: 
+
+Director 
+
+The Buyer 
+
+EVRAZ TRADE NA, LLC 
+
+By: 
+
+/s/ Conrad Winkler 
+
+Name: 
+
+Conrad Winkler 
+
+Title: 
+
+Member 
+
+12 
+
+ANNEX 
+
+FORM OF SPECIFICATION 
+COMMERCIAL
+SPECIFICATIONS 
+
+1. 
+
+Material 
+
+[°°°type of material, e.g. bloom, billet or slab form in accordance with relevant technical standards°°°]
+
+[°°°specify type of long-finished product, e.g., Hot Rolled Prime Hot Steel
+Plates°°°]
+
+2. 
+
+Size(s) 
+
+[°°°in mm (Thickness x Wide x Length)°°°] 
+
+3. 
+
+Size (s) Tolerance 
+
+[°°°size tolerance +/- [°°°]%°°°] 
+
+4. 
+
+Specification/Chemical composition 
+
+[°°°as per attachment to this Specification°°°] 
+
+5. 
+
+Physical Properties in Final Form 
+
+[°°°sharpie test°°°], [°°°dwtt°°°], [°°°inclusion free°°°] 
+
+6. 
+
+Grades 
+
+[°°°according to applicable technical and quality standards for Semi-finished products, e.g. A572 VD/V or ST52.3-1 VD°°°] 
+
+7. 
+
+Packing type 
+
+[°°°packing type details, e.g. “loose”, if parties provided for specific packing, otherwise delete this clause°°°] 
+
+8. 
+
+Producer / Country of origin 
+
+[°°°EMAG to add producing mill (e.g. Azovstal Iron and Steel Works)°°°] 
+
+9. 
+
+Total Quantity (in MT) 
+
+[°°°insert quantity°°°] 
+
+10. 
+
+Tolerance on Quantity (at Seller’s option) 
+
+[°°°e.g. 5% or 10%°°°] 
+
+11. 
+
+Sales price 
+
+[°°°insert
+
+- amount, currency°°°]/MT,
+
+- CIF Incoterms 2010 and
+
+- place of final destination (Port of Portland or Port of Vancouver, USA)°°°]
+
+12. 
+
+Shipment date 
+
+Estimated shipment date shall be the [°°°DD Month YYYY°°°] (loading port), subject to any unforeseen circumstances. 
+
+13. 
+
+Delivery terms 
+
+CIF Port of Portland or Port of Vancouver (Incoterms 2010) unless updated in the Specification.
+
+Seller is not obliged to seek the Buyer’s approval of the date of shipment in case it
+is within the agreed delivery terms.
+
+13 
+
+14. 
+
+Port / station of loading 
+
+- [°°°insert location, country of origin°°°] 
+
+15. 
+
+Marking 
+
+[°°°insert details or refer to attachment of this Specification for further details°°°] 
+
+16. 
+
+Invoicing 
+
+[Based on °°° insert pertinent document°°°].
+
+All payments under this Specification shall be made by the Buyer to the Seller’s Account in US dollars without any withholding, counterclaim, deduction or
+set off whatsoever, except as expressly permitted under the Agreement.
+
+The Seller
+shall be entitled to invoice/issue debit note to the Buyer in case of a difference between the invoiced and received Materials. However the quantity of Material received in excess to the invoiced one must exceed 0.5% franchise in order to be subject
+of subsequent invoicing by the Seller. This invoice/debit note should be settled within 30 calendar days from date of issuance by the Seller.
+
+17. 
+
+Destination 
+
+Destination/Discharge Port 
+
+18. 
+
+Documents 
+
+[°°°insert relevant documents to be provided to the client (e.g., The Seller shall provide the following shipping documents to
+the Buyer. Subject of adjustment per each client) °°°]
+
+1. Original
+commercial invoice in 1 original
+
+2. 3/3 Original Bills of Lading.
+
+3. Mill’s Test Certificate
+
+4. Certificate of Origin
+
+5. Insurance certificate
+
+6. Certificate of non radioactivity
+
+7. Fumigation certificate for wood dunnage and Phytosanitary Certificate during annual
+Asian Gypsy Moth (AGM) Season (if applicable).
+
+TRANSPORT CONDITIONS 
+
+CIF clause: 
+
+1. 
+The Buyer shall guarantee one (1) good safe port, one (1) good safe berth (always afloat, always accessible) at the discharge port. The vessel’s agent to be nominated by the vessel-owner and/or the
+Seller as well as the unloading costs at the destination shall be exclusively borne by the Buyer, except if the agreed discharging conditions are LO. 
+
+14 
+
+2. 
+Discharge rate: CQD or at rate [°°°]. Notice of readiness to be tendered [°°°] 
+
+3. 
+Any duties/taxes at destination port for whatsoever reason are to be borne by the Buyer. 
+
+4. 
+/°°° The Buyer shall be liable for, and shall make prompt payment (and if necessary shall indemnify the Seller) for any damage to the vessel caused, at the discharge port, by stevedores, including but not
+limited to the necessary repairs to the vessel up to master/class satisfaction and any consequential time loss directly or indirectly as a result of stevedoring damages. The buyer may endeavor to insure against this risk and if does, “prompt
+payment” will be subject to the process of making any paying insurance claims. 
+
+5. 
+The opening and closing of the hatches shall always be done by the ship’s crew unless prohibited by local labor law regulations, in which case to the Buyer shall undertake these actions at its own costs and time.
+The vessel’s operations at the port of discharge shall be governed by the applicable regulations and customs of the port and in compliance with terms and conditions of this Agreement. Expenses for shifting the ship, if requested by anyone at
+the port of discharge, are to be borne by the Buyer. 
+
+6. 
+Damages for detention at discharging port shall by borne by the Buyer. Any/all stoppages / delays at discharge port due to lack of trucks, railcars, documents or any other receiving means which may prevent the Material
+to be discharged as fast as the vessel can deliver, shall be for the Buyer’s account. The detention rate is to be informed by the Seller upon performing vessel’s nomination. Damages for detention /eventually demurrage have to be settled
+within 5 (five) calendar days after completion of discharge. 
+
+15

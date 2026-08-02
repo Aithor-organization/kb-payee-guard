@@ -1,0 +1,1100 @@
+{
+ "trade-001.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/727207/000100009605000378/accelr88kexh101.txt",
+  "company": "ACCELR8 TECHNOLOGY CORP  (AXDX)  (CIK 0000727207)",
+  "form": "",
+  "file_type": "EX-10.1",
+  "description": "SUPPLY AGREEMENT",
+  "filed": "2005-06-08",
+  "query": "\"ex works\"",
+  "chars": 28024,
+  "trade_signals": [
+   "incoterms",
+   "fobcif",
+   "customs",
+   "ship"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-002.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/737243/000095013405023122/d31010exv10w4.txt",
+  "company": "ACORN HOLDING CORP  (CIK 0000737243)",
+  "form": "",
+  "file_type": "EX-10.4",
+  "description": "AMMUNITION MULTI YEAR PROGRAM - CONTACT NO. 1003",
+  "filed": "2005-12-14",
+  "query": "\"ex works\"",
+  "chars": 74034,
+  "trade_signals": [
+   "incoterms",
+   "fobcif",
+   "lic",
+   "ship"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-003.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1331427/000114420409065211/v169279_ex10-24.htm",
+  "company": "Agfeed Industries, Inc  (CIK 0001331427)",
+  "form": "",
+  "file_type": "EX-10.24",
+  "description": "",
+  "filed": "2009-12-17",
+  "query": "\"ex works\"",
+  "chars": 28168,
+  "trade_signals": [
+   "incoterms",
+   "fobcif",
+   "lcpay"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-004.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1575295/000147793223008954/alid_ex102.htm",
+  "company": "Allied Corp.  (ALID)  (CIK 0001575295)",
+  "form": "",
+  "file_type": "EX-10.2",
+  "description": "FORWARD PURCHASE AGREEMENT",
+  "filed": "2023-12-05",
+  "query": "\"Incoterms\"",
+  "chars": 22339,
+  "trade_signals": [
+   "incoterms",
+   "fobcif",
+   "lic"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-005.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/9326/000091431707000794/ex10_1.txt",
+  "company": "BALCHEM CORP  (BCPC)  (CIK 0000009326)",
+  "form": "",
+  "file_type": "EX-10.1",
+  "description": "",
+  "filed": "2007-03-21",
+  "query": "\"ex works\"",
+  "chars": 35736,
+  "trade_signals": [
+   "fobcif",
+   "cisg",
+   "ship"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-006.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1568385/000155335013000058/btmt_ex10z10.htm",
+  "company": "Bright Mountain Holdings, Inc./FL  (BMTM)  (CIK 0001568385)",
+  "form": "",
+  "file_type": "EX-10.10",
+  "description": "AGREEMENT WITH WYNIT DISTRIBUTION, LLC",
+  "filed": "2013-04-12",
+  "query": "\"international sale of goods\"",
+  "chars": 19267,
+  "trade_signals": [
+   "fobcif",
+   "cisg",
+   "customs"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-007.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1221029/000119312513183427/d527611dex41.htm",
+  "company": "CEMENTOS PACASMAYO SAA  (CPAC)  (CIK 0001221029)",
+  "form": "",
+  "file_type": "EX-4.1",
+  "description": "EX-4.1",
+  "filed": "2013-04-30",
+  "query": "\"FOB port\"",
+  "chars": 42160,
+  "trade_signals": [
+   "incoterms",
+   "bol",
+   "port",
+   "fobcif",
+   "customs",
+   "lcpay",
+   "ship"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-008.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1375877/000095012309011999/h03379exv4w4.htm",
+  "company": "Canadian Solar Inc.  (CSIQ)  (CIK 0001375877)",
+  "form": "",
+  "file_type": "EX-4.4",
+  "description": "EX-4.4",
+  "filed": "2009-06-08",
+  "query": "\"Incoterms\"",
+  "chars": 20084,
+  "trade_signals": [
+   "incoterms",
+   "bol",
+   "port",
+   "fobcif",
+   "lcpay",
+   "ship"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-009.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1375877/000095012309011999/h03379exv4w5.htm",
+  "company": "Canadian Solar Inc.  (CSIQ)  (CIK 0001375877)",
+  "form": "",
+  "file_type": "EX-4.5",
+  "description": "EX-4.5",
+  "filed": "2009-06-08",
+  "query": "\"Incoterms\"",
+  "chars": 20202,
+  "trade_signals": [
+   "incoterms",
+   "bol",
+   "port",
+   "fobcif",
+   "lcpay",
+   "ship"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-010.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/351998/000035199816000065/exhibit10_31boschagmt.htm",
+  "company": "DATA I/O CORP  (DAIO)  (CIK 0000351998)",
+  "form": "",
+  "file_type": "EX-10",
+  "description": "",
+  "filed": "2016-11-14",
+  "query": "\"international sale of goods\"",
+  "chars": 38546,
+  "trade_signals": [
+   "incoterms",
+   "fobcif",
+   "cisg"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-011.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1023512/000102351223000055/exhibit47.htm",
+  "company": "DRDGOLD LTD  (DRD, DRDGF)  (CIK 0001023512)",
+  "form": "",
+  "file_type": "EX-4.7",
+  "description": "EX-4.7",
+  "filed": "2023-10-30",
+  "query": "\"FOB port\"",
+  "chars": 101035,
+  "trade_signals": [
+   "incoterms",
+   "fobcif",
+   "lic"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-012.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1637736/000106299316011692/exhibit10-1.htm",
+  "company": "ELECTRAMECCANICA VEHICLES CORP.  (CIK 0001637736)",
+  "form": "",
+  "file_type": "EX-10.1",
+  "description": "EXHIBIT 10.1",
+  "filed": "2016-10-12",
+  "query": "\"international sale of goods\"",
+  "chars": 69852,
+  "trade_signals": [
+   "incoterms",
+   "fobcif",
+   "cisg"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-013.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/350917/000089256903002223/a93229exv10w21.txt",
+  "company": "EMULEX CORP /DE/  (CIK 0000350917)",
+  "form": "",
+  "file_type": "EX-10.21",
+  "description": "EXHIBIT 10.21",
+  "filed": "2003-09-24",
+  "query": "\"ex works\"",
+  "chars": 61791,
+  "trade_signals": [
+   "fobcif",
+   "customs",
+   "lic",
+   "ship"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-014.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/939767/000093976722000026/exel20211231exhibit1042.htm",
+  "company": "EXELIXIS, INC.  (EXEL)  (CIK 0000939767)",
+  "form": "",
+  "file_type": "EX-10.42",
+  "description": "EX-10.42",
+  "filed": "2022-02-18",
+  "query": "\"Incoterms\"",
+  "chars": 6515,
+  "trade_signals": [
+   "incoterms",
+   "fobcif",
+   "ship"
+  ],
+  "doc_type": "amendment"
+ },
+ "trade-015.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1463101/000146310115000029/enph0630201510-qexx104.htm",
+  "company": "Enphase Energy, Inc.  (ENPH)  (CIK 0001463101)",
+  "form": "",
+  "file_type": "EX-10.4",
+  "description": "EXHIBIT 10.4",
+  "filed": "2015-08-05",
+  "query": "\"Incoterms\"",
+  "chars": 8347,
+  "trade_signals": [
+   "incoterms",
+   "fobcif",
+   "customs"
+  ],
+  "doc_type": "amendment"
+ },
+ "trade-016.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1371217/000119312512344128/d347760dex106.htm",
+  "company": "EnteroMedics Inc  (CIK 0001371217)",
+  "form": "",
+  "file_type": "EX-10.6",
+  "description": "EX-10.6",
+  "filed": "2012-08-08",
+  "query": "\"ex works\"",
+  "chars": 19352,
+  "trade_signals": [
+   "incoterms",
+   "fobcif",
+   "customs"
+  ],
+  "doc_type": "amendment"
+ },
+ "trade-017.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1618717/000119312514400780/d786505dex103.htm",
+  "company": "Evraz North America Ltd  (CIK 0001618717)",
+  "form": "",
+  "file_type": "EX-10.3",
+  "description": "EX-10.3",
+  "filed": "2014-11-06",
+  "query": "\"Incoterms\"",
+  "chars": 34432,
+  "trade_signals": [
+   "incoterms",
+   "bol",
+   "port",
+   "fobcif",
+   "cisg",
+   "lcpay",
+   "lic",
+   "ship"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-018.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1618717/000119312514400780/d786505dex104.htm",
+  "company": "Evraz North America Ltd  (CIK 0001618717)",
+  "form": "",
+  "file_type": "EX-10.4",
+  "description": "EX-10.4",
+  "filed": "2014-11-06",
+  "query": "\"Incoterms\"",
+  "chars": 34475,
+  "trade_signals": [
+   "incoterms",
+   "bol",
+   "port",
+   "fobcif",
+   "cisg",
+   "lcpay",
+   "lic",
+   "ship"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-019.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1618717/000119312514447961/d786505dex106.htm",
+  "company": "Evraz North America plc  (CIK 0001618717)",
+  "form": "",
+  "file_type": "EX-10.6",
+  "description": "EX-10.6",
+  "filed": "2014-12-19",
+  "query": "\"Incoterms\"",
+  "chars": 34422,
+  "trade_signals": [
+   "incoterms",
+   "bol",
+   "port",
+   "fobcif",
+   "cisg",
+   "lcpay",
+   "lic",
+   "ship"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-020.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1618717/000119312514447961/d786505dex107.htm",
+  "company": "Evraz North America plc  (CIK 0001618717)",
+  "form": "",
+  "file_type": "EX-10.7",
+  "description": "EX-10.7",
+  "filed": "2014-12-19",
+  "query": "\"Incoterms\"",
+  "chars": 34464,
+  "trade_signals": [
+   "incoterms",
+   "bol",
+   "port",
+   "fobcif",
+   "cisg",
+   "lcpay",
+   "lic",
+   "ship"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-021.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1619055/000147793215003355/fwfholdings_ex1001.htm",
+  "company": "FWF Holdings Inc.  (CIK 0001619055)",
+  "form": "",
+  "file_type": "EX-10.01",
+  "description": "COMMERCIAL AGREEMENT",
+  "filed": "2015-05-19",
+  "query": "\"ex works\"",
+  "chars": 8673,
+  "trade_signals": [
+   "incoterms",
+   "fobcif",
+   "cisg",
+   "customs"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-022.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/319671/000143774913008623/gbgd20130710_8kex10-3.htm",
+  "company": "GLOBAL GOLD CORP  (CIK 0000319671)",
+  "form": "",
+  "file_type": "EX-10",
+  "description": "EXHIBIT 10.3",
+  "filed": "2013-07-10",
+  "query": "\"ex works\"",
+  "chars": 9510,
+  "trade_signals": [
+   "bol",
+   "fobcif",
+   "customs",
+   "lic",
+   "ship"
+  ],
+  "doc_type": "amendment"
+ },
+ "trade-023.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1160791/000119312512347981/d365476dex103.htm",
+  "company": "GOLD RESOURCE CORP  (GORO)  (CIK 0001160791)",
+  "form": "",
+  "file_type": "EX-10.3",
+  "description": "PURCHASE CONTRACT [103-11CMX-019-0-P] EFFECTIVE MARCH 28, 2011",
+  "filed": "2012-08-09",
+  "query": "\"Incoterms\"",
+  "chars": 23243,
+  "trade_signals": [
+   "incoterms",
+   "cisg",
+   "customs",
+   "lcpay",
+   "lic",
+   "ship"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-024.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1160791/000119312512347981/d365476dex105.htm",
+  "company": "GOLD RESOURCE CORP  (GORO)  (CIK 0001160791)",
+  "form": "",
+  "file_type": "EX-10.5",
+  "description": "PURCHASE CONTRACT [203-11CMX-020-0-P] EFFECTIVE DATE MARCH 28, 2011",
+  "filed": "2012-08-09",
+  "query": "\"Incoterms\"",
+  "chars": 22265,
+  "trade_signals": [
+   "incoterms",
+   "cisg",
+   "customs",
+   "lcpay",
+   "lic",
+   "ship"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-025.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1097313/000095012907005514/h51233exv10w1.htm",
+  "company": "GRANT PRIDECO INC  (CIK 0001097313)",
+  "form": "",
+  "file_type": "EX-10.1",
+  "description": "SUPPLY AGREEMENT",
+  "filed": "2007-11-09",
+  "query": "\"ex works\"",
+  "chars": 37129,
+  "trade_signals": [
+   "incoterms",
+   "bol",
+   "port",
+   "cisg"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-026.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1178336/000114420408034076/v0116183_ex10-71.htm",
+  "company": "HOKU SCIENTIFIC INC  (CIK 0001178336)",
+  "form": "",
+  "file_type": "EX-10.71",
+  "description": "",
+  "filed": "2008-06-06",
+  "query": "\"FOB port\"",
+  "chars": 50653,
+  "trade_signals": [
+   "incoterms",
+   "bol",
+   "port",
+   "fobcif",
+   "cisg",
+   "lic",
+   "ship"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-027.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1119985/000113031902000628/t072860rex4-26.txt",
+  "company": "HYDROGENICS CORP  (CIK 0001119985)",
+  "form": "",
+  "file_type": "EX-4.26",
+  "description": "DISTRIBUTION AGREEMENT",
+  "filed": "2002-06-26",
+  "query": "\"international sale of goods\"",
+  "chars": 47742,
+  "trade_signals": [
+   "incoterms",
+   "fobcif",
+   "cisg"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-028.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/790066/000108496609000022/exhibit101.htm",
+  "company": "Homeland Security Network, Inc.  (CIK 0000790066)",
+  "form": "",
+  "file_type": "EX-10.1",
+  "description": "PURCHASE ORDER AGREEMENT",
+  "filed": "2009-07-08",
+  "query": "",
+  "chars": 18529,
+  "trade_signals": [
+   "bill_of_lading",
+   "port_load",
+   "fob_cif",
+   "cisg",
+   "customs",
+   "export_licence",
+   "shipment"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-029.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1381697/000119312507121562/dex1011.htm",
+  "company": "Imperium Renewables Inc  (CIK 0001381697)",
+  "form": "",
+  "file_type": "EX-10.11",
+  "description": "METHANOL SALES AGREEMENT",
+  "filed": "2007-05-23",
+  "query": "\"Incoterms\"",
+  "chars": 37352,
+  "trade_signals": [
+   "incoterms",
+   "bol",
+   "port",
+   "fobcif",
+   "customs",
+   "ship"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-030.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1481513/000119312510242749/dex1033.htm",
+  "company": "JinkoSolar Holding Co., Ltd.  (JKS)  (CIK 0001481513)",
+  "form": "",
+  "file_type": "EX-10.33",
+  "description": "SALES CONTRACT",
+  "filed": "2010-11-01",
+  "query": "\"Incoterms\"",
+  "chars": 13577,
+  "trade_signals": [
+   "incoterms",
+   "port",
+   "fobcif",
+   "lcpay",
+   "ship"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-031.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1481513/000119312510116879/dex1056.htm",
+  "company": "JinkoSolar Holding Co., Ltd.  (JKS)  (CIK 0001481513)",
+  "form": "",
+  "file_type": "EX-10.56",
+  "description": "SALES CONTRACT BETWEEN SHANGRAO JINKO SOLAR IMPORT AND EXPORT CO., LTD.",
+  "filed": "2010-05-12",
+  "query": "\"Incoterms\"",
+  "chars": 22838,
+  "trade_signals": [
+   "incoterms",
+   "bol",
+   "port",
+   "fobcif",
+   "lcpay",
+   "ship"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-032.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/318996/000095012309041737/c90030exv10w1.htm",
+  "company": "KEY ENERGY SERVICES INC  (CIK 0000318996)",
+  "form": "",
+  "file_type": "EX-10.1",
+  "description": "EXHIBIT 10.1",
+  "filed": "2009-09-08",
+  "query": "\"Incoterms\"",
+  "chars": 24138,
+  "trade_signals": [
+   "incoterms",
+   "bol",
+   "port",
+   "fobcif",
+   "customs",
+   "lic",
+   "ship"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-033.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1049011/000114420408019004/v108558_ex10-3.htm",
+  "company": "KID CASTLE EDUCATIONAL CORP  (KDCE)  (CIK 0001049011)",
+  "form": "",
+  "file_type": "EX-10.3",
+  "description": "",
+  "filed": "2008-03-31",
+  "query": "",
+  "chars": 106542,
+  "trade_signals": [
+   "bill_of_lading",
+   "lc_pay",
+   "export_licence",
+   "shipment"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-034.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1389034/000100201414000161/exh10-33.htm",
+  "company": "Kallo Inc.  (CIK 0001389034)",
+  "form": "",
+  "file_type": "EX-10.33",
+  "description": "CONTRACT FOR THE SUPPLY OF KALLO MOBILECARETM & RURALCARETM.",
+  "filed": "2014-04-15",
+  "query": "\"Incoterms\"",
+  "chars": 100066,
+  "trade_signals": [
+   "incoterms",
+   "bol",
+   "port",
+   "fobcif",
+   "customs",
+   "lcpay",
+   "lic",
+   "ship"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-035.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1389034/000152013820000641/kalo-20201222_8kex99z43a.htm",
+  "company": "Kallo Inc.  (CIK 0001389034)",
+  "form": "",
+  "file_type": "EX-99.43A",
+  "description": "EXHIBIT 99.43A",
+  "filed": "2020-12-23",
+  "query": "\"Incoterms\"",
+  "chars": 41232,
+  "trade_signals": [
+   "incoterms",
+   "bol",
+   "port",
+   "fobcif",
+   "customs",
+   "lic",
+   "ship"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-036.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1239819/000119312506231902/dex106.htm",
+  "company": "LUNA INNOVATIONS INC  (LUNA)  (CIK 0001239819)",
+  "form": "",
+  "file_type": "EX-10.6",
+  "description": "EXHIBIT 10.6",
+  "filed": "2006-11-13",
+  "query": "\"ex works\"",
+  "chars": 32435,
+  "trade_signals": [
+   "fobcif",
+   "cisg",
+   "lic"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-037.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1823882/000182912621005352/newbeginnings_ex10-41.htm",
+  "company": "New Beginnings Acquisition Corp.  (MIMOQ)  (CIK 0001823882)",
+  "form": "",
+  "file_type": "EX-10.41",
+  "description": "EXHIBIT 10.41",
+  "filed": "2021-06-21",
+  "query": "",
+  "chars": 5963,
+  "trade_signals": [
+   "customs",
+   "lc_pay",
+   "export_licence"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-038.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1304280/000120621204000258/m14995a3exv10w8.txt",
+  "company": "Novelis Inc.  (CIK 0001304280)",
+  "form": "",
+  "file_type": "EX-10.8",
+  "description": "ALUMINA RAW MATERIALS CONTRACT",
+  "filed": "2004-12-20",
+  "query": "\"FOB port\"",
+  "chars": 15276,
+  "trade_signals": [
+   "incoterms",
+   "bol",
+   "port",
+   "fobcif",
+   "ship"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-039.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1021604/000113207202000161/s15-2914_ex1029.txt",
+  "company": "ON TRACK INNOVATIONS LTD  (CIK 0001021604)",
+  "form": "",
+  "file_type": "EX-10",
+  "description": "EX. 10.29",
+  "filed": "2002-06-14",
+  "query": "\"ex works\"",
+  "chars": 71768,
+  "trade_signals": [
+   "fobcif",
+   "lcpay",
+   "lic"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-040.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1349426/000095012306000462/y16354exv10w12.txt",
+  "company": "Omrix Biopharmaceuticals, Inc.  (CIK 0001349426)",
+  "form": "",
+  "file_type": "EX-10.12",
+  "description": "EX-10.12: PLANOVA SALES AGREEMENT",
+  "filed": "2006-01-18",
+  "query": "\"Incoterms\"",
+  "chars": 39984,
+  "trade_signals": [
+   "incoterms",
+   "fobcif",
+   "ship"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-041.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1295947/000100579408000040/exhibit101.htm",
+  "company": "Prestige Brands Holdings, Inc.  (PBH)  (CIK 0001295947)",
+  "form": "",
+  "file_type": "EX-10.1",
+  "description": "EXHIBIT 10.1",
+  "filed": "2008-02-08",
+  "query": "\"ex works\"",
+  "chars": 35807,
+  "trade_signals": [
+   "incoterms",
+   "fobcif",
+   "ship"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-042.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1295947/000100579408000040/exhibit102.htm",
+  "company": "Prestige Brands Holdings, Inc.  (PBH)  (CIK 0001295947)",
+  "form": "",
+  "file_type": "EX-10.2",
+  "description": "EXHIBIT 10.2",
+  "filed": "2008-02-08",
+  "query": "\"ex works\"",
+  "chars": 34826,
+  "trade_signals": [
+   "incoterms",
+   "fobcif",
+   "ship"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-043.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1029893/000119312505172548/dex101.htm",
+  "company": "RADNOR HOLDINGS CORP  (CIK 0001029893)",
+  "form": "",
+  "file_type": "EX-10.1",
+  "description": "AMENDED AND RESTATED AGREEMENT",
+  "filed": "2005-08-22",
+  "query": "\"Incoterms\"",
+  "chars": 28782,
+  "trade_signals": [
+   "incoterms",
+   "bol",
+   "fobcif",
+   "ship"
+  ],
+  "doc_type": "amendment"
+ },
+ "trade-044.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1479290/000147929021000057/ex1031_amendementabpsxfy20.htm",
+  "company": "Revance Therapeutics, Inc.  (RVNC)  (CIK 0001479290)",
+  "form": "",
+  "file_type": "EX-10.31",
+  "description": "EX-10.31",
+  "filed": "2021-02-25",
+  "query": "\"Incoterms\"",
+  "chars": 22118,
+  "trade_signals": [
+   "incoterms",
+   "fobcif",
+   "ship"
+  ],
+  "doc_type": "amendment"
+ },
+ "trade-045.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/718789/000110465905044516/a05-16194_1ex10d1.htm",
+  "company": "SHUFFLE MASTER INC  (CIK 0000718789)",
+  "form": "",
+  "file_type": "EX-10.1",
+  "description": "EX-10.1",
+  "filed": "2005-09-16",
+  "query": "\"ex works\"",
+  "chars": 52827,
+  "trade_signals": [
+   "incoterms",
+   "fobcif",
+   "lcpay"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-046.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/92827/000095016801500935/dex1004.txt",
+  "company": "SPEIZMAN INDUSTRIES INC  (CIK 0000092827)",
+  "form": "",
+  "file_type": "EX-10.04",
+  "description": "FIRST AMD. TO AGENCY AGREEMENT",
+  "filed": "2001-09-28",
+  "query": "",
+  "chars": 19082,
+  "trade_signals": [
+   "incoterms",
+   "bill_of_lading",
+   "fob_cif",
+   "lc_pay"
+  ],
+  "doc_type": "amendment"
+ },
+ "trade-047.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/92827/000102140802012072/dex1042.txt",
+  "company": "SPEIZMAN INDUSTRIES INC  (CIK 0000092827)",
+  "form": "",
+  "file_type": "EX-10.42",
+  "description": "FIRST AMENDMENT TO LICENSE AGREEMENT",
+  "filed": "2002-09-27",
+  "query": "\"international sale of goods\"",
+  "chars": 18730,
+  "trade_signals": [
+   "fobcif",
+   "cisg",
+   "lcpay",
+   "lic"
+  ],
+  "doc_type": "amendment"
+ },
+ "trade-048.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/867773/000119312505199494/dex1022.htm",
+  "company": "SUNPOWER CORP  (SPWRQ)  (CIK 0000867773)",
+  "form": "",
+  "file_type": "EX-10.22",
+  "description": "SUPPLY AGREEMENT, DATED AUGUST 23, 2005",
+  "filed": "2005-10-11",
+  "query": "\"international sale of goods\"",
+  "chars": 22783,
+  "trade_signals": [
+   "incoterms",
+   "fobcif",
+   "cisg"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-049.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1434477/000125529411000240/ex10_7.htm",
+  "company": "SUNVALLEY SOLAR, INC.  (CIK 0001434477)",
+  "form": "",
+  "file_type": "EX-10.7",
+  "description": "EXHIBIT 10.7",
+  "filed": "2011-04-15",
+  "query": "\"Incoterms\"",
+  "chars": 19727,
+  "trade_signals": [
+   "incoterms",
+   "bol",
+   "port",
+   "fobcif",
+   "customs",
+   "ship"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-050.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1434477/000125529410000812/ex99_1.htm",
+  "company": "SUNVALLEY SOLAR, INC.  (CIK 0001434477)",
+  "form": "",
+  "file_type": "EX-99.1",
+  "description": "EXHIBIT 99.1",
+  "filed": "2010-09-17",
+  "query": "\"Incoterms\"",
+  "chars": 19024,
+  "trade_signals": [
+   "incoterms",
+   "bol",
+   "port",
+   "fobcif",
+   "customs",
+   "ship"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-051.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1371541/000114554907002099/h01649exv10w33.txt",
+  "company": "Solarfun Power Holdings Co., Ltd.  (CIK 0001371541)",
+  "form": "",
+  "file_type": "EX-10.33",
+  "description": "EX-10.33 CONTRACT OF PURCHASE",
+  "filed": "2007-11-27",
+  "query": "\"Incoterms\"",
+  "chars": 14056,
+  "trade_signals": [
+   "incoterms",
+   "bol",
+   "port",
+   "fobcif",
+   "cisg",
+   "lcpay",
+   "lic",
+   "ship"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-052.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1498710/000149871024000117/save-ex10562x20231231x10k.htm",
+  "company": "Spirit Airlines, Inc.  (SAVE)  (CIK 0001498710)",
+  "form": "",
+  "file_type": "EX-10.56",
+  "description": "EX-10.56",
+  "filed": "2024-02-09",
+  "query": "\"international sale of goods\"",
+  "chars": 390558,
+  "trade_signals": [
+   "incoterms",
+   "fobcif",
+   "cisg",
+   "customs"
+  ],
+  "doc_type": "amendment"
+ },
+ "trade-053.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/2007855/000200785526000040/exhibit109-q12026.htm",
+  "company": "Venture Global, Inc.  (VG)  (CIK 0002007855)",
+  "form": "",
+  "file_type": "EX-10.9",
+  "description": "EX-10.9",
+  "filed": "2026-05-12",
+  "query": "\"Incoterms\"",
+  "chars": 23038,
+  "trade_signals": [
+   "incoterms",
+   "fobcif",
+   "customs",
+   "ship"
+  ],
+  "doc_type": "amendment"
+ },
+ "trade-054.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1401678/000095012307009751/y35652exv10w6.htm",
+  "company": "Voltaire Ltd.  (CIK 0001401678)",
+  "form": "",
+  "file_type": "EX-10.6",
+  "description": "EX-10.6: LETTER AGREEMENT",
+  "filed": "2007-07-10",
+  "query": "\"ex works\"",
+  "chars": 14290,
+  "trade_signals": [
+   "incoterms",
+   "fobcif",
+   "customs",
+   "lic"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-055.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/105770/000010577011000034/exh101.htm",
+  "company": "WEST PHARMACEUTICAL SERVICES INC  (WST)  (CIK 0000105770)",
+  "form": "",
+  "file_type": "EX-10.1",
+  "description": "GLOBAL SUPPLY AGREEMENT",
+  "filed": "2011-07-01",
+  "query": "\"international sale of goods\"",
+  "chars": 78186,
+  "trade_signals": [
+   "incoterms",
+   "bol",
+   "fobcif",
+   "cisg",
+   "customs",
+   "lic",
+   "ship"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-056.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/105770/000010577014000050/ex101globalsupplyagreement.htm",
+  "company": "WEST PHARMACEUTICAL SERVICES INC  (WST)  (CIK 0000105770)",
+  "form": "",
+  "file_type": "EX-10.1",
+  "description": "GLOBAL SUPPLY AGREEMENT",
+  "filed": "2014-08-15",
+  "query": "\"international sale of goods\"",
+  "chars": 61119,
+  "trade_signals": [
+   "incoterms",
+   "bol",
+   "fobcif",
+   "cisg",
+   "customs",
+   "lic",
+   "ship"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-057.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/839470/000110465924010334/tm245176d1_ex10-1.htm",
+  "company": "WESTWATER RESOURCES, INC.  (WWR)  (CIK 0000839470)",
+  "form": "",
+  "file_type": "EX-10.1",
+  "description": "EXHIBIT 10.1",
+  "filed": "2024-02-05",
+  "query": "\"Incoterms\"",
+  "chars": 16240,
+  "trade_signals": [
+   "incoterms",
+   "bol",
+   "fobcif",
+   "cisg",
+   "lcpay",
+   "lic",
+   "ship"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-058.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1212235/000110465907039502/a07-13702_1ex10d10.htm",
+  "company": "XTENT INC  (CIK 0001212235)",
+  "form": "",
+  "file_type": "EX-10.10",
+  "description": "EX-10.10",
+  "filed": "2007-05-14",
+  "query": "\"ex works\"",
+  "chars": 38032,
+  "trade_signals": [
+   "incoterms",
+   "bol",
+   "fobcif",
+   "customs",
+   "ship"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-059.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1394029/000114554907000992/h00847a2exv10w29.htm",
+  "company": "YINGLI GREEN ENERGY HOLDING CO LTD  (CIK 0001394029)",
+  "form": "",
+  "file_type": "EX-10.29",
+  "description": "EX-10.29 SUPPLY AGREEMENT, DATED NOVEMBER 13, 2006",
+  "filed": "2007-06-04",
+  "query": "\"international sale of goods\"",
+  "chars": 24212,
+  "trade_signals": [
+   "incoterms",
+   "fobcif",
+   "cisg"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-060.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/1394029/000114554907000992/h00847a2exv10w30.htm",
+  "company": "YINGLI GREEN ENERGY HOLDING CO LTD  (CIK 0001394029)",
+  "form": "",
+  "file_type": "EX-10.30",
+  "description": "EX-10.30 SUPPLY AGREEMENT, DATED AUGUST 10, 2006",
+  "filed": "2007-06-04",
+  "query": "\"international sale of goods\"",
+  "chars": 24203,
+  "trade_signals": [
+   "incoterms",
+   "fobcif",
+   "cisg"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-061.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/890923/000143774913008292/zolt20130628_10kaex10-8.htm",
+  "company": "ZOLTEK COMPANIES INC  (CIK 0000890923)",
+  "form": "",
+  "file_type": "EX-10",
+  "description": "EXHIBIT 10.8",
+  "filed": "2013-07-02",
+  "query": "\"Incoterms\"",
+  "chars": 145670,
+  "trade_signals": [
+   "incoterms",
+   "cisg",
+   "lic"
+  ],
+  "doc_type": "agreement"
+ },
+ "trade-062.txt": {
+  "url": "https://www.sec.gov/Archives/edgar/data/890923/000143774913005178/ex10-8.htm",
+  "company": "ZOLTEK COMPANIES INC  (CIK 0000890923)",
+  "form": "",
+  "file_type": "EX-10.8",
+  "description": "EXHIBIT 10.8",
+  "filed": "2013-05-02",
+  "query": "\"Incoterms\"",
+  "chars": 145706,
+  "trade_signals": [
+   "incoterms",
+   "cisg",
+   "lic"
+  ],
+  "doc_type": "agreement"
+ }
+}

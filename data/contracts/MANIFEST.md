@@ -255,3 +255,206 @@ data/contracts/
 ```
 
 재현: `python3 detect_clauses.py` (표준 라이브러리만 사용, 의존성 없음)
+
+---
+
+## 7. 무역·국문 확장 수집 (2026-08-02)
+
+> 기존 §1~§5(미국 상용계약 151 + ITC 모델 9)는 **그대로 둔다**. 본 절은 그 위에 얹는 **무역 전용 영문 62건 + 국문 49건**이다. 세 모집단은 **절대 합산하지 않는다** — §7-3에서 보듯 조항 존재율이 서로 크게 다르다.
+
+### 7-1. 확보 현황
+
+| 구분 | 건수 | 목표 | 성격 | 출처 | 라이선스 | 재배포 |
+|---|---:|---:|---|---|---|:--:|
+| 무역/수출입 영문 `trade-NNN.txt` | **62** | 30+ | 실물 상용계약 | SEC EDGAR 전문검색 (EX-10.x/EX-4.x/EX-2.x) | 미국 정부 공시자료 (public domain 취급) | 가능 |
+| 국문 `kr-NNN.txt` | **49** | 20+ | **표준서식** (실물 아님) | 국가법령정보센터 law.go.kr (계약예규·고시·훈령·예규·지침·공고) | **저작권법 제7조제2호** — 국가의 고시·공고·훈령 그 밖에 이와 유사한 것은 저작권 보호 대상 아님 | 가능 |
+
+🔴 **국문 49건은 전부 표준서식이다. 실물 국문 계약서는 0건.** MANIFEST §1의 "실물과 모델을 섞지 않는다" 규율이 그대로 적용된다 — 표준서식은 기안자가 조항을 빠짐없이 넣도록 설계된 문서이므로 존재율이 실물보다 높게 나오는 방향으로 편향된다. 다만 §7-3에서 보듯 **국문 표준서식의 notices는 오히려 26.5%로 극단적으로 낮다** — 편향 방향이 조항마다 다르므로 일괄 보정은 불가능하다.
+
+### 7-2. 판정 방법
+
+- **영문 62건**: 본 디렉토리 `detect_clauses.py` (v4) **그대로** 사용. 기존 151건과 동일 코드 → 비교 가능.
+- **국문 49건**: 영문 v4의 *의미론*을 한국어로 옮긴 별도 검출기로 판정. 코드는 **`detect_clauses_kr.py`** (본 디렉토리, `detect_clauses.py` 옆. 프로젝트 `src/`·`tests/`·`scripts/` 미변경). 영문 v4가 그랬듯 **수기 감사로 4회 개정**했다:
+
+| 수기 감사로 발견한 오류 | 조치 |
+|---|---|
+| 한국어 조 제목은 **서술형**이다 — `제24조(납품예정일자의 통지)`, `제12조(변동사항 통보의무)`, `제26조(선적 통보)`. 제목에 "통지"가 들어간다고 §Notices로 세면 **34건 중 21건이 오탐** | 제목이 *통지 그 자체에 관한 것*일 때만 인정 (`통지`/`통지 등`/`통지방법`/`상호통지`/`회원에 대한 통지 및 공지`). 사건 특정 수식어가 붙으면 배제 |
+| 본문 경로에서 `지체 없이 계약담당공무원에게 서면으로 통지하여야 한다`(개별 의무)를 §Notices로 오판 — 7건 전부 오탐 | 통지어 **직전**에 총칭(`모든`/`일체의`/`각종`) 또는 이 계약 범위 지정이 있어야 하고, **직후 220자**에 실제 전달수단·도달간주 규칙이 있어야 함 |
+| `하수급인의 변경 또는 하도급 계약내용의 변경을 요구할 수 있다`(kr-024)를 §Amendment로 오판 | 변경 대상이 **타인·타 계약**(하도급/하수급인/구성원/대표자/주소)이면 배제. `계약금액`·`계약기간`은 자기참조에서 제외 — 한국 공공계약의 `계약금액의 조정`은 별개 제도 |
+| `약관의 변경 등`·`약관의 개정`(kr-013/014/036)을 놓침 | 약관형 문서의 변경조항을 제목 패턴에 추가 |
+| `대가의 지급, 기성검사 … 등은 일반조건에서 정한 바에 따른다`(편입참조)를 결제조건으로 오판 | 편입참조 어미 배제 + 결제어 **직후 80자** 내 지급의무 표현 요구. `지불`·`정보제공료`·`대금결제` 어휘 누락도 함께 보정 |
+
+**정밀도 감사 결과**: 국문 판정 전건에 대해 근거 문장/제목을 출력해 수기 판독. notices Y 13건 전수 확인(오탐 0), amendment 본문매칭 4건 전수 확인(오탐 0), payment 본문매칭 전수 확인. 재현율 감사는 N 판정 전건의 조 제목 목록을 훑어 누락 조항을 역추적(→ 약관 변경조항 3건, kr-029 `제21조(대금결제)` 1건 복구).
+
+⚠️ **약한 판정 1종을 명시한다**: amendment Y 41건 중 **5건**(kr-001/002/003/004/037)은 `기타 계약내용의 변경으로 인한 계약금액의 조정` 제목으로만 잡힌다. 이는 계약변경을 *전제로* 금액을 조정하는 조항이지 "서면 합의로만 변경" 조항이 아니다. 이 5건을 빼면 **36/49 = 73.5%**. 아래 표는 넓은 정의(83.7%)를 싣되 두 값을 함께 보고한다.
+
+### 7-3. 🎯 핵심 산출물 — 모집단별 조항 존재율
+
+| 모집단 | n | notices | amendment | payment_terms | contact | **email** |
+|---|---:|---:|---:|---:|---:|---:|
+| **무역 영문** (실물) | 62 | 32/62 = **51.6%** | 43/62 = **69.4%** | 51/62 = **82.3%** | 53/62 = 85.5% | 7/62 = **11.3%** |
+| **국문** (표준서식) | 49 | 13/49 = **26.5%** | 41/49 = **83.7%** (엄격 73.5%) | 38/49 = **77.6%** | 30/49 = 61.2% | 0/49 = **0.0%** |
+| (참고) 기존 미국 상용 실물 | 151 | 128/151 = 84.8% | 131/151 = 86.8% | 119/151 = 78.8% | 139/151 = 92.1% | 30/151 = 19.9% |
+| (참고) ITC 모델 (재배포 금지) | 9 | 100.0% | 100.0% | 66.7% | 44.4% | 11.1% |
+
+**읽는 법 — 세 가지가 뒤집혔다**
+
+1. 🔴 **§Notices가 무너진다.** 미국 상용 84.8% → 무역 영문 51.6% → 국문 26.5%. 무역 계약서는 짧은 매매계약(sales contract)이 많아 통지 *메커니즘* 조항 자체를 두지 않고, 국문 공공 표준서식은 통지 절차를 **국가계약법령에 위임**하기 때문에 문서 안에 없다. → 통지조항을 전제하는 탐지 로직은 실제 대상 문서의 **과반에서 발화하지 않는다**.
+2. ✅ **결제조건은 오히려 올라간다.** 78.8% → 82.3%. 무역계약은 L/C·T/T·Incoterms를 본문에 반드시 적기 때문이다. S10(결제조건 대조)은 실제 대상에서 **더 자주 발화한다**.
+3. 🔴 **이메일이 사실상 사라진다.** 19.9% → 무역 11.3% → 국문 **0.0%**. 국문 표준서식은 당사자 기재란이 별지 서식으로 분리돼 본문에 연락처가 아예 없다. → 이메일 주소를 앵커로 삼는 탐지는 국문에서 **전면 무효**다.
+
+**amendment**: 미국 86.8% → 무역 69.4% → 국문 83.7%(엄격 73.5%). 무역계약의 하락폭이 가장 크다.
+
+**무역 영문에서 amendment/change order 10건을 뺀 완결계약 52건만**(§7-4 `doc_type=agreement`):
+
+| n | notices | amendment | payment_terms | contact | email |
+|---:|---:|---:|---:|---:|---:|
+| 52 | 31/52 = **59.6%** | 39/52 = **75.0%** | 46/52 = **88.5%** | 46/52 = 88.5% | 7/52 = 13.5% |
+
+부분문서를 제외해도 결론은 같다 — notices는 미국 상용 84.8% 대비 **25%p 낮고**, payment_terms는 78.8% 대비 **10%p 높다**. 방향이 뒤집힌 것은 표본 구성 artifact가 아니다.
+
+### 7-4. 무역 영문 목록 (`trade-NNN.txt`, n=62)
+
+전부 SEC EDGAR 공시본 · 실물 · EN · 무역여부 Y · public domain · 재배포 가능.
+
+| 파일 | 회사 | exhibit | 공시일 | 종류 | 무역신호 | notices | amend | pay | email |
+|---|---|---|---|---|---|:--:|:--:|:--:|:--:|
+| `trade-001.txt` | ACCELR8 TECHNOLOGY CORP  (AXDX) | EX-10.1 | 2005-06-08 | agreement | incoterms,fobcif,customs,ship | Y | Y | Y | N |
+| `trade-002.txt` | ACORN HOLDING CORP | EX-10.4 | 2005-12-14 | agreement | incoterms,fobcif,lic,ship | Y | Y | Y | Y |
+| `trade-003.txt` | Agfeed Industries, Inc | EX-10.24 | 2009-12-17 | agreement | incoterms,fobcif,lcpay | Y | Y | Y | N |
+| `trade-004.txt` | Allied Corp.  (ALID) | EX-10.2 | 2023-12-05 | agreement | incoterms,fobcif,lic | N | Y | Y | N |
+| `trade-005.txt` | BALCHEM CORP  (BCPC) | EX-10.1 | 2007-03-21 | agreement | fobcif,cisg,ship | Y | Y | N | N |
+| `trade-006.txt` | Bright Mountain Holdings, Inc./FL  | EX-10.10 | 2013-04-12 | agreement | fobcif,cisg,customs | N | N | Y | N |
+| `trade-007.txt` | CEMENTOS PACASMAYO SAA  (CPAC) | EX-4.1 | 2013-04-30 | agreement | incoterms,bol,port,fobcif | Y | Y | Y | Y |
+| `trade-008.txt` | Canadian Solar Inc.  (CSIQ) | EX-4.4 | 2009-06-08 | agreement | incoterms,bol,port,fobcif | N | Y | Y | N |
+| `trade-009.txt` | Canadian Solar Inc.  (CSIQ) | EX-4.5 | 2009-06-08 | agreement | incoterms,bol,port,fobcif | N | Y | Y | N |
+| `trade-010.txt` | DATA I/O CORP  (DAIO) | EX-10 | 2016-11-14 | agreement | incoterms,fobcif,cisg | N | Y | N | Y |
+| `trade-011.txt` | DRDGOLD LTD  (DRD, DRDGF) | EX-4.7 | 2023-10-30 | agreement | incoterms,fobcif,lic | Y | Y | N | Y |
+| `trade-012.txt` | ELECTRAMECCANICA VEHICLES CORP. | EX-10.1 | 2016-10-12 | agreement | incoterms,fobcif,cisg | Y | Y | Y | N |
+| `trade-013.txt` | EMULEX CORP /DE/ | EX-10.21 | 2003-09-24 | agreement | fobcif,customs,lic,ship | Y | Y | Y | N |
+| `trade-014.txt` | EXELIXIS, INC.  (EXEL) | EX-10.42 | 2022-02-18 | amendment | incoterms,fobcif,ship | N | N | N | N |
+| `trade-015.txt` | Enphase Energy, Inc.  (ENPH) | EX-10.4 | 2015-08-05 | amendment | incoterms,fobcif,customs | N | N | N | N |
+| `trade-016.txt` | EnteroMedics Inc | EX-10.6 | 2012-08-08 | amendment | incoterms,fobcif,customs | N | N | N | N |
+| `trade-017.txt` | Evraz North America Ltd | EX-10.3 | 2014-11-06 | agreement | incoterms,bol,port,fobcif | Y | Y | Y | N |
+| `trade-018.txt` | Evraz North America Ltd | EX-10.4 | 2014-11-06 | agreement | incoterms,bol,port,fobcif | Y | Y | Y | N |
+| `trade-019.txt` | Evraz North America plc | EX-10.6 | 2014-12-19 | agreement | incoterms,bol,port,fobcif | Y | Y | Y | N |
+| `trade-020.txt` | Evraz North America plc | EX-10.7 | 2014-12-19 | agreement | incoterms,bol,port,fobcif | Y | Y | Y | N |
+| `trade-021.txt` | FWF Holdings Inc. | EX-10.01 | 2015-05-19 | agreement | incoterms,fobcif,cisg,customs | N | N | Y | N |
+| `trade-022.txt` | GLOBAL GOLD CORP | EX-10 | 2013-07-10 | amendment | bol,fobcif,customs,lic | N | N | Y | N |
+| `trade-023.txt` | GOLD RESOURCE CORP  (GORO) | EX-10.3 | 2012-08-09 | agreement | incoterms,cisg,customs,lcpay | Y | N | Y | N |
+| `trade-024.txt` | GOLD RESOURCE CORP  (GORO) | EX-10.5 | 2012-08-09 | agreement | incoterms,cisg,customs,lcpay | Y | N | Y | N |
+| `trade-025.txt` | GRANT PRIDECO INC | EX-10.1 | 2007-11-09 | agreement | incoterms,bol,port,cisg | Y | Y | Y | N |
+| `trade-026.txt` | HOKU SCIENTIFIC INC | EX-10.71 | 2008-06-06 | agreement | incoterms,bol,port,fobcif | Y | Y | Y | N |
+| `trade-027.txt` | HYDROGENICS CORP | EX-4.26 | 2002-06-26 | agreement | incoterms,fobcif,cisg | Y | Y | N | N |
+| `trade-028.txt` | Homeland Security Network, Inc. | EX-10.1 | 2009-07-08 | agreement | bill_of_lading,port_load,fob_cif,cisg | N | N | Y | N |
+| `trade-029.txt` | Imperium Renewables Inc | EX-10.11 | 2007-05-23 | agreement | incoterms,bol,port,fobcif | Y | N | Y | N |
+| `trade-030.txt` | JinkoSolar Holding Co., Ltd.  (JKS | EX-10.33 | 2010-11-01 | agreement | incoterms,port,fobcif,lcpay | N | N | Y | N |
+| `trade-031.txt` | JinkoSolar Holding Co., Ltd.  (JKS | EX-10.56 | 2010-05-12 | agreement | incoterms,bol,port,fobcif | N | N | Y | N |
+| `trade-032.txt` | KEY ENERGY SERVICES INC | EX-10.1 | 2009-09-08 | agreement | incoterms,bol,port,fobcif | N | N | Y | N |
+| `trade-033.txt` | KID CASTLE EDUCATIONAL CORP  (KDCE | EX-10.3 | 2008-03-31 | agreement | bill_of_lading,lc_pay,export_licence,shipment | Y | N | Y | N |
+| `trade-034.txt` | Kallo Inc. | EX-10.33 | 2014-04-15 | agreement | incoterms,bol,port,fobcif | Y | Y | Y | N |
+| `trade-035.txt` | Kallo Inc. | EX-99.43A | 2020-12-23 | agreement | incoterms,bol,port,fobcif | Y | Y | Y | N |
+| `trade-036.txt` | LUNA INNOVATIONS INC  (LUNA) | EX-10.6 | 2006-11-13 | agreement | fobcif,cisg,lic | Y | Y | N | N |
+| `trade-037.txt` | New Beginnings Acquisition Corp.   | EX-10.41 | 2021-06-21 | agreement | customs,lc_pay,export_licence | N | Y | Y | N |
+| `trade-038.txt` | Novelis Inc. | EX-10.8 | 2004-12-20 | agreement | incoterms,bol,port,fobcif | N | N | Y | N |
+| `trade-039.txt` | ON TRACK INNOVATIONS LTD | EX-10 | 2002-06-14 | agreement | fobcif,lcpay,lic | Y | Y | Y | N |
+| `trade-040.txt` | Omrix Biopharmaceuticals, Inc. | EX-10.12 | 2006-01-18 | agreement | incoterms,fobcif,ship | Y | Y | Y | N |
+| `trade-041.txt` | Prestige Brands Holdings, Inc.  (P | EX-10.1 | 2008-02-08 | agreement | incoterms,fobcif,ship | Y | Y | Y | N |
+| `trade-042.txt` | Prestige Brands Holdings, Inc.  (P | EX-10.2 | 2008-02-08 | agreement | incoterms,fobcif,ship | Y | Y | Y | N |
+| `trade-043.txt` | RADNOR HOLDINGS CORP | EX-10.1 | 2005-08-22 | amendment | incoterms,bol,fobcif,ship | Y | Y | N | N |
+| `trade-044.txt` | Revance Therapeutics, Inc.  (RVNC) | EX-10.31 | 2021-02-25 | amendment | incoterms,fobcif,ship | N | N | N | N |
+| `trade-045.txt` | SHUFFLE MASTER INC | EX-10.1 | 2005-09-16 | agreement | incoterms,fobcif,lcpay | Y | Y | Y | N |
+| `trade-046.txt` | SPEIZMAN INDUSTRIES INC | EX-10.04 | 2001-09-28 | amendment | incoterms,bill_of_lading,fob_cif,lc_pay | N | N | Y | N |
+| `trade-047.txt` | SPEIZMAN INDUSTRIES INC | EX-10.42 | 2002-09-27 | amendment | fobcif,cisg,lcpay,lic | N | Y | Y | N |
+| `trade-048.txt` | SUNPOWER CORP  (SPWRQ) | EX-10.22 | 2005-10-11 | agreement | incoterms,fobcif,cisg | N | Y | Y | N |
+| `trade-049.txt` | SUNVALLEY SOLAR, INC. | EX-10.7 | 2011-04-15 | agreement | incoterms,bol,port,fobcif | N | Y | Y | N |
+| `trade-050.txt` | SUNVALLEY SOLAR, INC. | EX-99.1 | 2010-09-17 | agreement | incoterms,bol,port,fobcif | N | Y | Y | N |
+| `trade-051.txt` | Solarfun Power Holdings Co., Ltd. | EX-10.33 | 2007-11-27 | agreement | incoterms,bol,port,fobcif | Y | Y | Y | Y |
+| `trade-052.txt` | Spirit Airlines, Inc.  (SAVE) | EX-10.56 | 2024-02-09 | amendment | incoterms,fobcif,cisg,customs | N | Y | Y | N |
+| `trade-053.txt` | Venture Global, Inc.  (VG) | EX-10.9 | 2026-05-12 | amendment | incoterms,fobcif,customs,ship | N | Y | Y | N |
+| `trade-054.txt` | Voltaire Ltd. | EX-10.6 | 2007-07-10 | agreement | incoterms,fobcif,customs,lic | N | Y | N | N |
+| `trade-055.txt` | WEST PHARMACEUTICAL SERVICES INC   | EX-10.1 | 2011-07-01 | agreement | incoterms,bol,fobcif,cisg | N | Y | Y | N |
+| `trade-056.txt` | WEST PHARMACEUTICAL SERVICES INC   | EX-10.1 | 2014-08-15 | agreement | incoterms,bol,fobcif,cisg | N | Y | Y | N |
+| `trade-057.txt` | WESTWATER RESOURCES, INC.  (WWR) | EX-10.1 | 2024-02-05 | agreement | incoterms,bol,fobcif,cisg | N | N | Y | N |
+| `trade-058.txt` | XTENT INC | EX-10.10 | 2007-05-14 | agreement | incoterms,bol,fobcif,customs | Y | Y | Y | N |
+| `trade-059.txt` | YINGLI GREEN ENERGY HOLDING CO LTD | EX-10.29 | 2007-06-04 | agreement | incoterms,fobcif,cisg | N | Y | Y | N |
+| `trade-060.txt` | YINGLI GREEN ENERGY HOLDING CO LTD | EX-10.30 | 2007-06-04 | agreement | incoterms,fobcif,cisg | N | Y | Y | N |
+| `trade-061.txt` | ZOLTEK COMPANIES INC | EX-10 | 2013-07-02 | agreement | incoterms,cisg,lic | Y | Y | Y | Y |
+| `trade-062.txt` | ZOLTEK COMPANIES INC | EX-10.8 | 2013-05-02 | agreement | incoterms,cisg,lic | Y | N | Y | Y |
+
+### 7-5. 국문 목록 (`kr-NNN.txt`, n=49)
+
+전부 국가법령정보센터 · **표준서식** · KO · 저작권법 제7조제2호 → 재배포 가능.
+무역여부 `xb`: 본문에 외자/수입/수출/신용장/선하증권/통관/Incoterms 등 신호 5회 이상.
+
+| 파일 | 문서명 | 종류 | 소관 | xb | notices | amend | pay | email |
+|---|---|---|---|:--:|:--:|:--:|:--:|:--:|
+| `kr-001.txt` | (계약예규) 공사계약일반조건 | 계약예규 | 재정경제부 | N | Y | Y | Y | N |
+| `kr-002.txt` | (계약예규) 물품구매(제조)계약일반조건 | 계약예규 | 재정경제부 | N | Y | Y | Y | N |
+| `kr-003.txt` | (계약예규) 용역계약일반조건 | 계약예규 | 재정경제부 | N | Y | Y | Y | N |
+| `kr-004.txt` | 건축공사 표준계약서 | 고시 | 국토교통부 | N | N | Y | Y | N |
+| `kr-005.txt` | 건축물의 공사감리 표준계약서 | 고시 | 국토교통부 | N | Y | Y | Y | N |
+| `kr-006.txt` | 건축물의 설계표준계약서 | 고시 | 국토교통부 | N | Y | Y | Y | N |
+| `kr-007.txt` | 공공주택 건설기술(건설사업관리) 용역계약 특수조건 | 훈령 | 조달청 | N | N | Y | N | N |
+| `kr-008.txt` | 공공주택 건설기술(설계) 용역계약 특수조건 | 훈령 | 조달청 | N | N | Y | N | N |
+| `kr-009.txt` | 공사계약특수조건 | 지침 | 조달청 | N | N | Y | Y | N |
+| `kr-010.txt` | 국가기관용 건설기술(건설사업관리) 용역계약 특수조건 | 지침 | 조달청 | N | N | Y | N | N |
+| `kr-011.txt` | 국가기관용 건설기술(설계) 용역계약 특수조건 | 지침 | 조달청 | N | N | Y | N | N |
+| `kr-012.txt` | 디지털서비스 카탈로그계약 특수조건 | 공고 | 조달청 | N | N | Y | Y | N |
+| `kr-013.txt` | 디지털콘텐츠 중개 표준약관 | 고시 | 과학기술정보통신부 | N | Y | Y | Y | N |
+| `kr-014.txt` | 디지털콘텐츠 표준약관 | 고시 | 과학기술정보통신부 | N | Y | Y | Y | N |
+| `kr-015.txt` | 디지털콘텐츠(영상) 공급표준계약서 | 고시 | 문화체육관광부 | N | Y | Y | Y | N |
+| `kr-016.txt` | 디지털콘텐츠(음악) 공급표준계약서 | 고시 | 문화체육관광부 | N | Y | Y | Y | N |
+| `kr-017.txt` | 레미콘 다수공급자계약 특수조건 | 공고 | 조달청 | N | N | Y | Y | N |
+| `kr-018.txt` | 물품 다수공급자계약 특수조건 | 공고 | 조달청 | N | N | Y | Y | N |
+| `kr-019.txt` | 물품 제조·구매 계약특수조건 표준(일반 및 방산) | 예규 | 방위사업청 | Y | N | Y | Y | N |
+| `kr-020.txt` | 물품 제조·구매 계약특수조건 표준(특정조달) | 예규 | 방위사업청 | Y | N | Y | Y | N |
+| `kr-021.txt` | 물품구매(제조)계약 특수조건 | 지침 | 조달청 | N | N | N | Y | N |
+| `kr-022.txt` | 물품구매(제조)계약추가특수조건 | 공고 | 조달청 | N | N | Y | Y | N |
+| `kr-023.txt` | 민간 국가유산수리 설계용역 표준계약서 | 고시 | 국가유산청 | N | Y | Y | Y | N |
+| `kr-024.txt` | 민간 국가유산수리 표준도급계약서 | 고시 | 국가유산청 | N | N | N | Y | N |
+| `kr-025.txt` | 상용소프트웨어 다수공급자계약 특수조건 | 공고 | 조달청 | N | N | Y | Y | N |
+| `kr-026.txt` | 상용소프트웨어 제3자단가계약 추가특수조건 | 지침 | 조달청 | N | N | Y | N | N |
+| `kr-027.txt` | 시설대여(리스)계약 일반 조건 | 지침 | 조달청 | N | N | Y | Y | N |
+| `kr-028.txt` | 아스콘 다수공급자계약 특수조건 | 공고 | 조달청 | N | N | Y | Y | N |
+| `kr-029.txt` | 외자계약일반조건(General Provisions for Foreign Contract) | 훈령 | 조달청 | Y | N | N | Y | N |
+| `kr-030.txt` | 외주정비 계약특수조건 표준 | 예규 | 방위사업청 | Y | N | Y | Y | N |
+| `kr-031.txt` | 용역 계약특수조건 표준 | 예규 | 방위사업청 | N | N | Y | Y | N |
+| `kr-032.txt` | 용역 다수공급자계약 특수조건 | 공고 | 조달청 | N | N | Y | Y | N |
+| `kr-033.txt` | 용역 카탈로그계약 특수조건 | 공고 | 조달청 | N | N | Y | Y | N |
+| `kr-034.txt` | 우수조달물품 임차계약 추가특수조건 | 공고 | 조달청 | N | N | N | N | N |
+| `kr-035.txt` | 우주물체 제작 계약특수조건 표준 | 예규 | 방위사업청 | Y | N | Y | Y | N |
+| `kr-036.txt` | 이러닝(전자학습) 이용표준약관 | 고시 | 산업통상부 | N | Y | Y | Y | N |
+| `kr-037.txt` | 일괄입찰 등의 공사계약특수조건 | 지침 | 조달청 | N | Y | Y | Y | N |
+| `kr-038.txt` | 일반무기체계 연구개발 계약특수조건 표준 | 예규 | 방위사업청 | Y | N | Y | Y | N |
+| `kr-039.txt` | 일반용역계약특수조건 | 지침 | 조달청 | N | N | N | Y | N |
+| `kr-040.txt` | 전자정부사업관리 위탁용역계약 특수조건 | 예규 | 행정안전부 | N | N | N | N | N |
+| `kr-041.txt` | 조달청 공공주택 공사계약특수조건 | 훈령 | 조달청 | N | N | Y | Y | N |
+| `kr-042.txt` | 조달청 군수품 구매(제조)계약 추가특수조건 | 지침 | 조달청 | N | N | N | N | N |
+| `kr-043.txt` | 지방자치단체용 건설기술(건설사업관리) 용역계약 특수조건 | 지침 | 조달청 | N | N | Y | N | N |
+| `kr-044.txt` | 지방자치단체용 건설기술(설계) 용역계약 특수조건 | 지침 | 조달청 | N | N | Y | N | N |
+| `kr-045.txt` | 철근 다수공급자계약 추가특수조건 | 공고 | 조달청 | N | N | Y | N | N |
+| `kr-046.txt` | 함정건조 계약특수조건 표준(일반 및 방산) | 예규 | 방위사업청 | Y | N | Y | Y | N |
+| `kr-047.txt` | 혁신제품 시범구매계약 추가특수조건 | 지침 | 조달청 | N | N | N | Y | N |
+| `kr-048.txt` | 혁신제품 제3자단가계약 추가특수조건 | 공고 | 조달청 | N | N | Y | Y | N |
+| `kr-049.txt` | 화물자동차 운송사업 표준 위·수탁계약서 | 고시 | 국토교통부 | N | Y | Y | Y | N |
+
+### 7-6. 접근 실패 / 라이선스로 배제한 소스
+
+| 소스 | 결과 | 사유 |
+|---|---|---|
+| 공정거래위원회 표준하도급계약서 (59종) | **미수집** | 게시판 상세 페이지가 JS로 첨부파일 링크를 생성 — 정적 HTML에 hwp/hwpx/pdf 경로 없음. 우회하지 않고 중단 |
+| DART (dart.fss.or.kr) 공시 첨부 | **미수집** | 검색 엔드포인트는 응답하나, 국문 주요계약 공시는 요약표 중심이고 계약서 전문 첨부가 희소. 실물 국문 확보 실패의 주원인 |
+| 한국무역협회(KITA) 무역서식 | **배제** | 사이트 표기 `Copyright © KITA All rights reserved` — 재배포 불가. 다운로드 자체를 하지 않음 |
+| 대한상사중재원(KCAB) 표준계약서 | **배제** | 목록 페이지가 "등록된 정보가 없습니다" + `Copyright ⓒ KCAB. All Rights Reserved` |
+| ITC/UNCITRAL/ICC 모델계약 | **추가 수집 안 함** | 기존 9건이 이미 재배포 금지로 `.gitignore` 처리됨. 같은 사고 반복 회피 |
+| 조달청 나라장터(g2b.go.kr) | **미수집** | 표준서식이 law.go.kr 계약예규·특수조건으로 이미 확보돼 중복 |
+
+🟢 **재배포 불가로 격리한 파일: 0건.** 라이선스가 불명하거나 금지인 소스는 `_restricted/`에 넣지 않고 **애초에 내려받지 않았다** — 저장 전 확인 원칙 준수. 따라서 `.gitignore` 추가분도 없다.
+
+### 7-7. 남은 한계
+
+1. **실물 국문 계약서 0건** — 목표 20건은 표준서식으로 채웠다. 국문 *실물*의 조항 존재율은 여전히 미측정.
+2. **국문 무역 전용은 사실상 1건** (`kr-029` 외자계약일반조건 — 조달청 국외조달, 제21조 대금결제에 취소불능 상업신용장). 국문 × 무역 교차 셀은 통계로 쓸 수 없다.
+3. **국문 검출기는 영문 v4와 다른 코드다.** 존재율 차이의 일부가 검출기 차이일 가능성을 배제하지 못한다. 다만 두 검출기 모두 "메커니즘/구속력이 있어야 Y"라는 동일 기준으로 수기 감사를 거쳤다.
+4. **무역 영문 62건 중 10건이 amendment/change order** — 완결된 계약서가 아니다. `doc_type` 열로 식별 가능하며, 제외한 52건 수치는 §7-3에 함께 실었다(결론 불변).

@@ -1,0 +1,1444 @@
+EXHIBIT 10.21
+
+MANUFACTURING AGREEMENT
+
+BETWEEN
+
+EMULEX CORPORATION
+
+AND
+
+BENCHMARK ELECTRONICS INCORPORATED
+
+This Agreement is entered into by and between Benchmark Electronics, Inc.
+("Benchmark") a Texas corporation having its principal place of business at 3000
+Technology Drive, Angleton, Texas 77515, and Emulex Corporation ("Emulex"), a
+California corporation having its principal place of business at 3535 Harbor
+Boulevard, Costa Mesa, California 92626, and shall be effective as of the later
+of the dates on which the parties execute the Agreement ("Effective Date").
+
+Now, therefore, the parties agree as follows:
+
+1. DEFINITIONS
+
+1.1 "Product" means the Emulex product listed in Attachment A,
+manufactured by Benchmark in accordance with this Agreement.
+The parties may add other Emulex products to this Agreement in
+accordance with the Product Quotation Acceptance Methodology
+described in Section 8.
+
+1.2 "Product Documentation" means information required for the
+manufacture of the Product, including BOM, AVL, drawings,
+specifications, packaging requirements, unique test equipment,
+test procedures, and software code.
+
+1.3 "Purchase Order" or "Order" means Emulex's purchase order,
+which may be submitted to Benchmark in writing,
+electronically, or other format mutually agreed to, and any
+documents incorporated therein by reference.
+
+1.4 "Manufacturing Lead Time" means the total aggregate lead time
+of the Material of the Product having the longest lead time,
+plus the time necessary for receiving, inspection,
+manufacturing, systems integration, test and shipment of the
+Product, all as agreed by the parties.
+
+1.5 "Materials" means component line items, including but not
+limited to, long lead time components, minimum and multiple
+buys, reel quantities, components that are at time of purchase
+by Benchmark, or become, non-cancelable non-returnable
+components, on the BOM, which are collectively assembled to
+produce the Product.
+
+1.6 "BOM" means Emulex's bill of Materials.
+
+1.7 "RMA" means return material authorization.
+
+1.8 "Obsolete Materials" means Materials on hand and/or on order
+that can no longer be used in the Product.
+
+Page 1 of 23
+
+1.9 "Excess Materials" means Materials on hand and/or on order in
+excess of twelve (12) weeks' forecasted demand (based upon
+Emulex's Orders and/or then current Forecast) resulting from
+Emulex's cancellations, reschedules, or other delays or
+changes.
+
+1.10 "AVL" means Emulex's approved vendor list, updated from time
+to time, which specifies vendors approved by Emulex to supply
+Materials specified in a BOM, from which Benchmark may
+purchase or procure Materials.
+
+1.11 "Delivery" or "Delivery Date" means the date the Product is
+shipped from Benchmark's place of manufacture.
+
+2. SCOPE OF AGREEMENT
+
+Benchmark agrees to manufacture Products for Emulex in accordance with
+the terms and conditions of this Agreement and at the manufacturing
+locations listed in Attachment A. This Agreement is non-exclusive and
+the parties may enter into similar agreements with other parties.
+Except for Purchase Orders issued to Benchmark, Emulex shall not be
+obligated to purchase any Products from Benchmark hereunder.
+
+Local Contracts: If a subsidiary of Benchmark manufactures Products for
+Emulex, the sale of such Products shall be subject to the terms and
+conditions of this Agreement upon the execution by Emulex and the
+Benchmark subsidiary of a local contract incorporating all of the terms
+and conditions of this Agreement and adding any additional terms
+necessary to reflect the manufacturing and business requirements unique
+to the relationship between Emulex and the Benchmark subsidiary ("Local
+Contract"). Benchmark's subsidiary reserves the right to review the
+financial condition of Emulex prior to entering into such Local
+Contract. The Local Contract shall only be binding if signed by the
+authorized officers and/or directors of Emulex and the Benchmark
+subsidiary.
+
+3. TERM AND TERMINATION
+
+3.1 Subject to the provisions of sub-Sections 3.2 and 3.3, below,
+the initial term of this Agreement shall be for a period of
+one year from the Effective Date. This Agreement shall
+automatically renew at the end of the initial term for
+successive periods of one year each, unless one party notifies
+the other in writing of its intent to terminate the Agreement.
+Such notice shall be delivered no later than ninety days prior
+to the end of the initial or renewal term then in effect.
+
+3.2 Emulex may terminate this Agreement and/or an Order for
+convenience at any time by giving Benchmark at least ninety
+days' prior written notice. Termination of the Agreement will
+not relieve the parties of any obligations incurred prior to
+the date of termination.
+
+3.3 In addition to the termination rights specified in sub-Section
+3.2, above, either party may immediately terminate this
+Agreement and/or an Order if the other party:
+
+(a) becomes insolvent or bankrupt, files or has filed
+against it a petition in bankruptcy, or undergoes a
+reorganization pursuant to a petition in bankruptcy
+filed with respect to it; or
+
+Page 2 of 23
+
+(b) is dissolved or liquidated, or has a petition for
+dissolution or liquidation filed with respect to it;
+or
+
+(c) is subject to property attachment, court injunction,
+or court order which substantially and negatively
+affects its operations; or
+
+(d) makes an assignment for the benefit of creditors; or
+
+(e) ceases to function as a going concern or to conduct
+its operations in the normal course of business.
+
+3.4 Either party may immediately terminate this Agreement and/or
+an Order if the other party fails to perform any of the
+material obligations imposed upon it under the terms of this
+Agreement so as to be in default hereunder and fails to cure
+such default, or to give adequate assurance of performance,
+within thirty days after receiving written notice thereof,
+except in the case of payment-related defaults, for which the
+cure period shall be ten business days.
+
+3.5 In the event either party terminates or cancels this Agreement
+or an Order for any reason, Emulex shall pay Benchmark, within
+thirty (30) days of Benchmark's invoice setting forth the
+following termination charges: (1) the price for all finished
+Products existing (a) for termination by Benchmark, on the
+date that the termination notice is sent to Emulex, and (b)
+for termination by Emulex, on the date Benchmark receives the
+termination notice; (2) Benchmark's actual and documented cost
+(including labor, Materials and a reasonable mark-up) for all
+work in process; (3) Benchmark's Delivered Cost (defined as
+Benchmark's actual cost of the Materials plus a six percent
+(6%) handling charge for freight in, importation costs,
+receiving and inspection, stocking, cycle count, pick and
+pack, attrition, etc.) for Materials purchased pursuant to
+Section 7 (Forecast) herein; and (4) any vendor cancellation
+and restocking charges, provided that Benchmark makes
+commercially reasonable efforts to minimize the quantities of
+such items and the amounts of such cancellation and restocking
+fees.
+
+3.6 The parties hereby agree to negotiate in good faith to resolve
+any other costs associated with the termination of the
+Agreement or an Order that are in addition to those costs
+specified above in Section 3.5.
+
+4. EMULEX PROPERTY
+
+4.1 Information Required for Product Manufacture
+
+Subject to the provisions of Sections 5 and 16, Emulex will
+provide Benchmark with the Product Documentation. Emulex
+reserves the right to change the content of the Product
+Documentation at any time, provided such changes are made
+pursuant to the process for engineering changes in Section
+12.1.
+
+4.2 Emulex-Provided Equipment and Tools
+
+(a) All Emulex owned equipment and tools (collectively
+"Equipment") will be marked with Emulex's control
+numbers prior to shipment to Benchmark. If Benchmark
+purchases such Equipment on Emulex's behalf, Emulex
+will provide Benchmark with the appropriate control
+numbers and labels to identify it as Equipment.
+Benchmark is authorized to use such Equipment at no
+charge in concert with Product Documentation to
+produce Product, and shall only be
+
+Page 3 of 23
+
+responsible for damage to such Equipment caused by
+Benchmark's negligence or willful misconduct. Damage
+due to normal wear and tear and replacement of the
+Equipment or worn or defective parts thereof and
+maintenance or calibration of such Equipment shall be
+the sole responsibility of Emulex unless otherwise
+agreed by the parties.
+
+(b) Benchmark will notify Emulex if it reasonably
+believes that Equipment is required to meet Emulex's
+Product manufacturing requirements or schedules, and
+will obtain Emulex's approval before purchasing such
+Equipment. This Equipment may consist of in-circuit
+test equipment, functional test equipment, special
+component tooling, special assembly tooling, PCBA
+pallets and/or other items as agreed between the
+parties. Emulex will reimburse Benchmark for such
+Equipment according to the terms of Section 8.2. Any
+Equipment purchased under this Section 4.2 will
+become the property of Emulex, and Benchmark shall
+ship, Ex Works (Incoterm 2000) Benchmark's plant, all
+such Equipment at the sole cost and direction of
+Emulex upon the termination or expiration of this
+Agreement. Notwithstanding the Ex Works shipment
+term, Benchmark shall be responsible for loading the
+Equipment onto the carrier's truck at Benchmark's
+plant and shall have risk of loss for the Equipment
+until such Equipment is loaded onto the carrier's
+truck.
+
+5. INTELLECTUAL PROPERTY RIGHTS
+
+5.1 During the term of this Agreement, Emulex grants Benchmark
+only those specific rights and licenses under Emulex's
+applicable patents, copyrights, trademarks, trade names,
+logos, and other intellectual property rights necessary for
+Benchmark to manufacture the Products for Emulex under this
+Agreement. Benchmark's rights and licenses granted hereunder
+end upon termination of this Agreement.
+
+5.2 Benchmark shall not publicize or use the name or trademark of
+Emulex in any manner related to this Agreement without
+Emulex's prior written consent.
+
+6. APPROVAL OF VENDORS AND MATERIALS
+
+Emulex is responsible for any change in AVL, Materials or Product.
+Benchmark will purchase Materials only from the AVL, which will be
+provided to Benchmark by Emulex and updated as changes warrant. Emulex
+shall provide Benchmark with all updated AVL lists. Upon Benchmark's
+receipt of an updated AVL list, Benchmark will provide Emulex with an
+impact statement on any impact on the Product price, including price
+for BOM, and/or the Delivery Date of Products, and the parties shall
+mutually agree upon any necessary adjustment to Product pricing and/or
+Delivery Dates. Any changes in vendors proposed by Benchmark are
+subject to Emulex's advance written consent. If Emulex refuses to give
+such consent or fails to respond to a change in vendor proposed by
+Benchmark within five days, and if Benchmark has used commercially
+reasonable efforts to purchase Materials from approved vendors but
+shortages or allocations exist, Benchmark shall not be liable for
+failing to deliver affected Products on time.
+
+7. FORECASTS
+
+Emulex will make commercially reasonable efforts to provide Benchmark
+with a twelve-month rolling forecast, updated monthly ("Forecast");
+however, the parties acknowledge that, due to the
+
+Page 4 of 23
+
+end of life status of the Products, such Forecasts may be unavailable
+or inaccurate. Emulex authorizes Benchmark to procure Materials in
+accordance with component lead time for Orders, net of yield losses,
+and to support Forecasts. These actions may result in Excess Materials,
+which may be subject to the terms of Section 14. Emulex may limit its
+liability hereunder by specifying in writing a maximum amount of
+purchases of Materials by Benchmark in excess of Material required for
+Orders. If Emulex elects to specify a maximum amount, Benchmark will
+purchase only to that amount and will notify Emulex of the impact to
+Emulex's Orders and will not be liable for failure to deliver Products
+on time if such failure results directly from Emulex's Materials
+purchase limitations.
+
+8. PRICING AND PAYMENT TERMS
+
+8.1 The prices to be paid by Emulex for any Products ordered
+pursuant to this Agreement shall be listed in Attachment A.
+Any price changes to Products, or addition of new Products and
+its prices, will be agreed to between the parties in
+accordance with the following methodology: To introduce
+revised prices for current Products or to add new Products and
+its prices, Benchmark shall provide a product quotation
+("Product Quotation") to Emulex listing the Product and the
+new or revised prices for each assembly of the Product. To
+indicate Emulex's acceptance of the Product Quotation, Emulex
+shall either provide Benchmark with written acceptance by
+email or fax, or issue an Order or revise an existing Order,
+to reflect the revised prices for the current Products or the
+new Product and its prices as specified in the Product
+Quotation ("Product Quotation Acceptance Methodology"). All
+accepted Product Quotations shall be incorporated herein by
+reference and made a part of this Agreement. All prices and
+fees described or contemplated under this Agreement are in
+U.S. dollars. Product pricing does not include federal, state,
+or local excise, sales, or use taxes; export licensing of the
+Product, or payment of broker's fees, duties, tariffs or other
+similar charges; cost of compliance with any environmental
+legislation which relates to the return of end of life Product
+from Emulex to Benchmark for disposal; setup, tooling, or
+non-recurring engineering activities (collectively "Charges").
+If such Charges are applicable, they shall be set out as a
+separate line item on Benchmark's invoice. Emulex agrees to
+provide to Benchmark a valid Reseller's Certificate for
+exemption from any potentially applicable sales and use taxes.
+
+8.2 Payment terms shall be net forty-five (45) days from the date
+of Benchmark's invoice. On any invoice not paid by maturity
+date, Benchmark has the right to charge Emulex interest from
+maturity to date of payment at the rate of four percent (4%)
+per annum, or the maximum amount permitted by law, whichever
+is the lesser. Benchmark's invoice shall be contain the
+following information: 1) description of the Product, 2) unit
+price of the Product, 3) total quantity of the Product, 4) any
+applicable Charges as a separate line item, 5) total amount of
+the invoice, 6) date Product is shipped, 7) location Product
+is shipped to, 8) Emulex's billing address, 9) Benchmark's
+payment address. If the invoice contains the foregoing
+information, it shall be deemed a correct invoice unless
+Emulex notifies Benchmark in writing of an error in the
+invoice within ten (10) calendar days of Emulex's receipt of
+such invoice. If Emulex notifies Benchmark in writing of an
+error in an invoice within such ten day period and Benchmark
+agrees that the error specified by Emulex error exists,
+Benchmark shall issue a revised invoice to correct the error
+within ten (10) calendar days of Benchmark's receipt of
+Emulex's notice. Payment of an invoice shall not constitute or
+imply acceptance of the Product or relieve Benchmark of any
+
+Page 5 of 23
+
+obligations assumed under this Agreement, nor prevent Emulex
+from asserting any other rights it may have under this
+Agreement.
+
+8.3 During the term of this Agreement, the parties may make price
+adjustments for documented Materials price variances occurring
+as a result of, without limitation, schedule adjustments,
+worldwide supply of Materials, BOM changes, engineering
+changes, process changes, or changes to Forecasts. Benchmark
+shall permit Emulex to conduct an audit, at Emulex's expense,
+of actual costs incurred by Benchmark for Product Orders at
+the end of each quarter, provided Emulex gives Benchmark at
+least five (5) days prior written notice and such audit is
+conducted during normal business hours and does not unduly
+interfere with Benchmark's business operations. Benchmark will
+provide, upon Emulex's reasonable request, financial and other
+information necessary to substantiate Product prices and to
+assist the parties in identifying areas where price reductions
+may be achieved, provided that Benchmark is not restricted
+from doing so under applicable securities laws and/or
+confidentiality agreements with third parties. If Benchmark is
+subject to such confidentiality agreements, Benchmark shall
+make all commercially reasonable efforts to obtain permission
+to disclose the relevant information to Emulex, including
+without limitation, requesting the relevant parties to sign
+three-party confidentiality agreements.
+
+8.4 Benchmark will obtain Emulex's approval prior to procurement
+of any Material when the actual per unit cost of any Material
+exceeds Benchmark's quoted per unit cost for such Material (as
+specified in Benchmark's Product Quotation) by more than 1%
+only when Benchmark intends to increase the Product price by
+the increased cost in the Material. Upon Emulex's approval,
+Benchmark will invoice Emulex for the difference between the
+actual and quoted cost of the Material, and Emulex agrees to
+pay for all such approved costs.
+
+9. PURCHASE ORDERS
+
+9.1 Emulex will provide Benchmark with Purchase Orders in the form
+of hard copy, by facsimile, or by electronic transfer.
+Purchase Orders will specify part numbers, quantity, prices,
+Product revisions, and requested Delivery Dates and locations.
+The parties acknowledge that the Manufacturing Lead Time will
+change due to reasons beyond Benchmark's reasonable control;
+therefore, Benchmark will exercise commercially reasonable
+efforts to notify Emulex immediately of any change in
+Manufacturing Lead Time. Benchmark has the right to accept or
+reject the Purchase Order within five (5) business days of
+receiving the Purchase Order. If Benchmark does not accept or
+reject the Purchase Order within the five day period, the
+Purchase Order shall be deemed accepted provided that
+Benchmark has actually received the Purchase Order from
+Emulex. In the event Benchmark is unable to meet the delivery
+schedule set forth in a proposed Purchase Order, or finds the
+schedule to be unacceptable for some other reason, the parties
+shall negotiate in good faith to resolve the disputed
+matter(s).
+
+9.2 Benchmark will use commercially reasonable efforts to meet
+Product quantity increases within the Manufacturing Lead Time,
+subject to Materials availability, other scheduled
+manufacturing, and manufacturing capacity. Any premium,
+expediting, or other increased charges that are required in
+order to meet Emulex's increased requirements must be approved
+in advance by Emulex. Emulex agrees to pay for all such
+approved costs.
+
+Page 6 of 23
+
+9.3 Emulex shall have the right to reschedule delivery for each
+Purchase Order or partial Purchase Order without Benchmark's
+consent under the following conditions: (i) in accordance with
+the chart specified below; (ii) the original Delivery Date for
+Products in each Purchase Order may only be rescheduled by
+Emulex up to three (3) times, unless otherwise consented by
+Benchmark; (iii) the rescheduled Delivery Date for each
+reschedule permitted in subsection (ii) herein shall not
+exceed the reschedule period below.
+
+-----------------------------------------------------------------------------------------
+Days Before Scheduled Purchase Order Percentage Allowed To Extend
+Delivery Date Delivery Date Reschedule Period
+-----------------------------------------------------------------------------------------
+
+0 - 29 25% 30 days
+-----------------------------------------------------------------------------------------
+30 - 59 50% 60 days
+-----------------------------------------------------------------------------------------
+60 - 89 75% 90 days
+-----------------------------------------------------------------------------------------
+> 90 100% No limit
+-----------------------------------------------------------------------------------------
+
+9.4 Emulex shall have the right to cancel delivery of a Purchase
+Order without Benchmark's consent, provided however, that
+Benchmark must be notified in writing of the cancellation at
+least thirty days prior to the scheduled delivery date, and
+Emulex shall be responsible for any cancellation charges
+specified in Section 3.5.
+
+10. DELIVERY
+
+10.1 Benchmark shall follow all instructions contained in Emulex's
+routing instructions, which Emulex will provide to Benchmark
+and which will be specified on each Order. Emulex may modify
+its routing instructions from time to time and will provide
+Benchmark with an updated version of any such modified
+instructions. Emulex is responsible for all freight charges
+for Products that are shipped in accordance with Emulex's
+routing instructions. Benchmark shall be responsible for any
+freight charges incurred for Product shipped outside the
+routing instructions to include, but not be limited to, use of
+other than Emulex's preferred carriers. If there are any
+conflicts between the current version of routing instructions
+provided to Benchmark and the contents of this Section 10, the
+current routing instructions will prevail. Benchmark and
+Emulex will review freight forwarders for cost reduction
+opportunities. Any changes in freight carriers will require
+Emulex's approval.
+
+10.2 Deliveries will be considered on time if they are shipped no
+more than three business days earlier or no days later than
+the Delivery Date specified in the Emulex Purchase Order. If
+Emulex agrees to take partial delivery of any Order, each such
+partial delivery shall be deemed a separate sale.
+
+10.3 If Benchmark anticipates or becomes aware that it will not
+supply the Product on the delivery date committed by
+Benchmark, for any reason to include but not be limited to
+Material shortage, process changes, capacity limitations or
+causes due to common carriers, Benchmark shall notify Emulex
+immediately after Benchmark has knowledge of the situation.
+The notification may be communicated by facsimile, telephone,
+electronic mail or any other method agreed to by the parties,
+provided that Benchmark shall obtain Emulex's actual
+acknowledgment of the notice of anticipated delay. Emulex and
+Benchmark will jointly develop alternatives to resolve any
+late delivery of the Product,
+
+Page 7 of 23
+
+including use of premium routing. Benchmark will develop
+recovery plans with new committed Delivery Dates and
+communicate such plans to Emulex within 24 hours of missed
+deliveries. If Benchmark is unable to ship the Product on the
+committed Delivery Date due to Benchmark's fault that is not
+excused by force majeure or that results from Benchmark's
+negligence or willful misconduct, Emulex may require Benchmark
+to pay for any additional charge or premium beyond the normal
+freight fees for expedited delivery.
+
+10.4 Except as provided for otherwise in Sections 10.1 and 10.3,
+above, the terms of sale are Ex Works Benchmark's place of
+manufacture as specified in Attachment A. All shipments shall
+be uninsured unless otherwise specified by Emulex's
+procurement agents. Prepay and bill shipment shall be used
+only when specified by Emulex's procurement agents. In the
+event that prepay and bill is used, Benchmark shall indicate
+the number of shipping containers, weight of each shipment and
+carrier name on the invoice. Notwithstanding the Ex Works
+shipment term, Benchmark shall be responsible for loading the
+Products onto the carrier's truck and risk of loss and title
+shall pass to Emulex after the Products have been loaded onto
+the carrier's truck at Benchmark's facility.
+
+10.5 Each shipment of the Product by Benchmark shall include a
+packing slip which contains, at a minimum, (i) Benchmark's
+name, (ii) box number (e.g., 1 of 3, 2 of 3), (iii) receiving
+address, (iv) Emulex's purchase order number, (v) Emulex's
+part number, (vi) shipping quantity, (vii) date of shipment,
+and (viii) RMA number when applicable.
+
+10.6 All Products shall be packaged, marked and otherwise prepared
+in accordance with Product Documentation, and if none are
+specified or required, with good commercial practices. In
+packaging Products, Benchmark shall also take any additional
+steps needed to ensure reasonable protection from damage due
+to rough handling and other hazards that might occur during
+transit. Packaging for export/import shipments may also be
+subject to specific instructions, which Emulex will provide to
+Benchmark in writing in the form of Product Documentation
+pursuant to Section 4.1.
+
+10.7 Emulex will provide the following information about its
+Products in writing to Benchmark: (i) country of origin; (ii)
+Harmonized Tariff Schedule of the United States ("HTSUS") ,
+and (iii) Export Control Classification Number ("ECCN").
+Emulex will provide the commercial invoice. Benchmark will
+prepare all international shipping documentation, including
+NAFTA certificate, including NAFTA preference criteria (as
+applicable), Shipper's Letter of Instruction, Shipper's Export
+Declaration and any other necessary documentation for
+international shipments. Emulex will be the exporter of
+record.
+
+11. WARRANTY
+
+11.1 Benchmark warrants that Products provided under this Agreement
+will be free of Benchmark's workmanship defects for a period
+of three (3) years from date of Delivery. For the purpose of
+this Section, "workmanship" shall mean manufacture in
+accordance with IPC-A-610, Class 2 or Emulex's workmanship
+standards set forth in the Product Documentation and/or
+Quality Plan. In addition, Benchmark will pass on to Emulex
+all manufacturer's Material warranties to the extent that they
+are transferable, but will not independently warrant any
+Materials.
+
+Page 8 of 23
+
+11.2 Subject to Section 11.3 below, Emulex's sole remedy and
+Benchmark's sole obligation shall be to repair or replace, at
+Benchmark's option, Product found to be defective in
+accordance with Section 11.1. The warranty period for any
+Product returned for repair or replacement shall be the
+greater of the remainder of the original warranty period or
+sixty (60) days from the date that the repaired or replaced
+Product is Delivered to the Product owner.
+
+11.3 Benchmark's warranty shall be void if the Product has been
+subjected to abuse, misuse, accident, disaster, neglect,
+improper handling, testing, storage or installation (including
+improper handling in accordance with static sensitive
+electronic device handling requirements) and/or operation
+outside the parameters or environment identified in Emulex's
+Product specifications, or unauthorized repair or alterations
+by anyone other than Benchmark. Benchmark's warranty does not
+cover Products that have defects or failures resulting from
+Emulex's design, specification, Product Documentation, or
+Emulex Equipment or test software.
+
+11.4 Emulex shall contact Benchmark for an RMA prior to returning
+any Product for repair. Benchmark will provide the RMA within
+two business days of receipt (one business day for priority
+requests) of Emulex's request. Benchmark shall pay all
+transportation costs for valid returns of the Products to
+Benchmark. Benchmark will exercise commercially reasonable
+efforts to ship the repaired or replaced Product to Emulex
+freight prepaid, Ex Works Benchmark's manufacturing facility,
+as quickly as is practical, with the goal of shipping it by no
+later than five days from the date Benchmark received the
+defective Product. If Benchmark reasonably determines there is
+an excessive number of invalid or "no defect found" ("NDF")
+returns, Benchmark will notify Emulex and the parties shall in
+good faith work together to resolve NDF returns and any
+associated costs. Notwithstanding the Ex Works shipment term,
+Benchmark shall be responsible for loading the repaired or
+replacement Product onto the carrier's truck at Benchmark's
+plant and shall have risk of loss for the Product until such
+Product is loaded onto the carrier's truck.
+
+11.5 Out of Warranty Product Repair
+
+Benchmark shall provide out of warranty Product repair during
+the term of the Agreement and for a period of not less than
+seven years following the last date of Benchmark's Product
+manufacture under this Agreement, provided Materials and/or
+custom test equipment are available to Benchmark and the
+parties agree on pricing for such repair work. Charges for out
+of warranty Product repair will be quoted and mutually agreed
+to by the parties. Transportation costs to ship the
+out-of-warranty Product to Benchmark and for Benchmark to ship
+the repaired Product to Emulex shall be at Emulex's sole
+expense. Benchmark's repair activities shall include, but not
+be limited to Product (i) testing, (ii) repair, (iii) failure
+analysis, (iv) root cause analysis, and (v) corrective
+actions. Out of warranty Products repaired by Benchmark shall
+be subject to all of the provisions applicable to in-warranty
+Product set out in this Section 11 solely with respect to the
+repair work; such warranty shall not apply to the entire
+Product.
+
+11.6 THESE WARRANTY PROVISIONS ARE THE EXCLUSIVE WARRANTIES FOR ANY
+PRODUCT PROVIDED BY BENCHMARK HEREUNDER AND SETS OUT THE
+EXCLUSIVE REMEDIES FOR CLAIMS BASED ON DEFECTS IN
+
+Page 9 of 23
+
+OR FAILURE OF ANY PRODUCT. NO OTHER WARRANTY, EXPRESS OR
+IMPLIED, SHALL APPLY. BENCHMARK SPECIFICALLY DISCLAIMS THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND/OR FITNESS FOR A
+PARTICULAR PURPOSE. BENCHMARK FURTHER MAKES NO WARRANTY THAT
+THE PRODUCTS WILL MEET ANY SPECIFICATIONS NOT MADE KNOWN TO
+AND/OR EXPRESSLY AGREED TO BY BENCHMARK OR RECEIVE THE
+APPROVAL OF OR BE CERTIFIED BY ANY FEDERAL, STATE, LOCAL, OR
+FOREIGN GOVERNMENT AGENCY OR ANY OTHER PERSON OR CERTIFYING
+ENTITY AND BENCHMARK ASSUMES NO RESPONSIBILITY FOR OBTAINING
+SUCH APPROVALS OR CERTIFICATIONS.
+
+12. ENGINEERING CHANGES
+
+12.1 Emulex Requested Changes
+
+(a) In the event that changes are required to make the
+Product conform to safety and/or regulatory agency
+requirements or for design improvements or other
+factors, Benchmark shall use its commercially
+reasonable efforts to implement the proposed
+engineering changes in existing inventory, work in
+process, new production of the Product, and into
+Product going through Benchmark's repair process as
+instructed by Emulex. Emulex shall provide Benchmark
+with written notice of any proposed engineering
+change, including new Product Documentation, as soon
+as possible after Emulex knows of such change. Upon
+Benchmark's receipt of Emulex's notice of such
+proposed engineering change, Benchmark shall provide
+Emulex with an impact statement, including but not
+limited to, the effect such change may have on
+Product costs, Material (such as the BOM, Excess
+and/or Obsolete Material), and/or Delivery Dates of
+affected Products, and the parties shall mutually
+agree upon such items before Benchmark implements the
+proposed change.
+
+(b) For implementing engineering changes on previously
+delivered Product, Emulex will request an RMA number
+and return, or cause the return of, the affected
+Product to Benchmark or an authorized repair facility
+for repair or replacement at Emulex's expense. Upon
+such repair or replacement, Benchmark shall ship, at
+Emulex's expense, the repair or replacement Product
+back to the Product's owner under the shipment terms
+specified in Section 10.
+
+12.2 Benchmark Requested Changes
+
+Benchmark may request, in writing, that Emulex evaluate an
+engineering change to the Product or a change in the method of
+packing, packaging, or shipment of the Product. Such request
+will include a description of the proposed change sufficient
+to permit Emulex to evaluate its feasibility, including the
+impact, if any, on the Product price and Product quality
+resulting from the proposed change.
+
+12.3 Cost Reductions
+
+The parties agree that competitive pressures necessitate a
+program of continuous improvement. Each party shall cooperate
+in good faith to implement a Product cost
+
+Page 10 of 23
+
+reduction program involving new technologies, Material cost
+reduction, productivity, quality and reliability improvements,
+and manufacturing processes (including cycle time and assembly
+costs). The parties shall conduct quarterly program reviews
+with specific emphasis on quality, delivery, and cost
+improvements. Any cost savings which are achieved by Benchmark
+as a result of implementing cost reductions proposed solely by
+Emulex (without any input from Benchmark) shall reduce the
+price of Products by the entire amount of Benchmark's cost
+savings. Any cost savings which are achieved jointly by the
+parties or by Benchmark as a result of changes proposed solely
+by Benchmark shall be shared equally by the parties for a
+period of twelve (12) months and shall be retained exclusively
+by Emulex after twelve months. Notwithstanding the foregoing,
+cost reductions arising out of a reduction in Material costs
+will commence only after all current Purchase Orders have been
+closed and all on-hand Materials have been consumed by
+Benchmark.
+
+12.4 Any changed Product resulting from application of this Section
+12 shall be considered added to this Agreement and subject to
+its terms and conditions.
+
+13. PRODUCT QUALITY
+
+Emulex Quality Management and Benchmark shall jointly develop and
+implement a mutually acceptable quality plan for the manufacture of the
+Product ("Quality Plan") s by using the guidelines set forth in
+Attachment B. Benchmark shall use commercially reasonable efforts,
+acceptable to Emulex, to continually meet or exceed the quality and
+reliability requirements outlined in the Quality Plan.
+
+The current approved master revision Quality Plan shall be retained by
+Emulex Quality Management.
+
+The Quality Plan will pay particular attention to:
+
+(a) Quality system design, maintenance and reporting
+
+(b) Supplier management
+
+(c) Continuous (process) improvement
+
+(d) Preventive actions
+
+(e) Process and change control
+
+(f) Product and process traceability (as defined in Emulex's
+General Traceability Requirements)
+
+(g) Customer satisfaction and timely complaint resolution
+
+The effective execution of the Quality Plan will be reviewed at the
+quarterly business reviews described in Section 15.
+
+14. INVENTORY MANAGEMENT
+
+14.1 If, at any time, Materials on hand and/or on order become
+Excess and/or Obsolete Materials, and Benchmark has procured
+said Materials in accordance with this Agreement and used
+commercially reasonable efforts to minimize the quantities on
+hand and/or on order of such Excess and/or Obsolete Materials,
+Benchmark may require Emulex to purchase such Materials at the
+Delivered Cost price. Emulex will provide to Benchmark an
+Order within ten days of being notified by Benchmark of
+Materials on
+
+Page 11 of 23
+
+hand and/or on order that are Excess or Obsolete, and will pay
+Benchmark within thirty days of the date of Benchmark's
+invoice.
+
+14.2 If Emulex desires to store Excess or Obsolete Materials at
+Benchmark, Benchmark will provide a consignment service to
+Emulex for a consignment fee to be mutually agreed to by
+Emulex and Benchmark. On a monthly basis, Benchmark will
+provide Emulex with a purchase order summarizing the quantity
+and Delivered Cost of Materials utilized by Benchmark in the
+previous month to manufacture Products. Upon Emulex's receipt
+of such purchase order, Emulex shall invoice Benchmark no
+later than thirty (30) days from such receipt. Benchmark shall
+pay Emulex within thirty (30) days of the date of Emulex's
+invoice.
+
+14.3 If Emulex elects not to store Excess or Obsolete Materials at
+Benchmark and instead elects to have such Materials shipped to
+Emulex or another destination designated by Emulex, Benchmark
+will ship, at Emulex's expense, such Materials Ex Works
+Benchmark's location. Notwithstanding the Ex Works shipment
+term, Benchmark shall be responsible for loading the Materials
+onto the carrier's truck at Benchmark's plant and shall have
+risk of loss for the Materials until such Materials are loaded
+onto the carrier's truck.
+
+15. REVIEW AND PLANNING MEETINGS
+
+15.1 Emulex hereby appoints its Director of Manufacturing as its
+liaison to monitor Benchmark's performance and delivery of
+Product under this Agreement. Benchmark hereby appoints its
+designated Supplier Business Manager as its liaison to monitor
+Emulex's performance hereunder. These liaisons will also be
+responsible for coordinating meetings and discussions and
+reports provided for in this Agreement. The names, telephone
+and facsimile numbers of the liaisons will be provided by the
+parties to each other and the liaisons may be changed by
+written notice from one party to the other.
+
+15.2 Emulex's designated liaison will conduct a quarterly
+performance and planning review with Benchmark's account
+management team. The location and times for these meetings
+will be determined by Benchmark and Emulex. The purposes of
+these meetings are listed below:
+
+(a) Review Benchmark's performance over the previous
+quarter;
+
+(b) Review action items and resolution;
+
+(c) Identify opportunities and areas of improvement;
+
+(d) Agreement on commitments, set target dates and define
+"persons" responsible;
+
+(e) Review appropriate Benchmark reports;
+
+(f) Review Benchmark's quality and reliability
+improvement plans; and
+
+(g) Publish minutes to EMULEX and Benchmark.
+
+16. CONFIDENTIAL INFORMATION
+
+16.1 Both parties may, in connection with this Agreement, disclose
+to the other party information considered confidential and
+proprietary information of the disclosing party ("Confidential
+Information"). Information shall be considered Confidential
+Information if identified as confidential in nature by the
+disclosing party at the time of disclosure, or which by its
+nature is normally and reasonably considered confidential,
+such as
+
+Page 12 of 23
+
+information related to past, present or future research,
+development, or business affairs, any proprietary products,
+materials or methodologies, manufacturing processes or
+designs, or any other information which provides the
+disclosing party with a competitive advantage. Neither party
+shall disclose such Confidential Information to any third
+party without the prior written consent of the disclosing
+party (except that Benchmark may disclose Emulex's
+Confidential Information to Benchmark's suppliers solely to
+fulfill the purpose of this Agreement provided Benchmark binds
+such supplier to substantially similar terms of
+confidentiality and restricted use herein) nor use such
+Confidential Information other than to fulfill the purpose of
+this Agreement. The receiving party shall protect the
+disclosing party's Confidential Information with the same
+degree of care that it regularly uses to protect its own
+Confidential Information from unauthorized use or disclosure.
+No rights or licenses under patents, trademarks, trade
+secrets, or copyrights are granted or implied by any
+disclosure of Confidential Information.
+
+16.2 The obligations of confidentiality imposed by this Agreement
+shall not apply to any Confidential Information that: (a) is
+rightfully received from a third party without accompanying
+markings or disclosure restrictions; (b) is independently
+developed by employees of the receiving party who have not had
+access to such Confidential Information; (c) is or becomes
+publicly available through no wrongful act of the receiving
+party; (d) is already known by the receiving party as
+evidenced by documentation bearing a date prior to the date of
+disclosure; or, (e) is approved for release in writing by an
+authorized representative of the disclosing party. In
+addition, each party shall be entitled to disclose the other
+party's Confidential Information to the extent such disclosure
+is required by the order of a court of competent jurisdiction,
+administrative agency, or other governmental body, provided
+that the party required to make the disclosure shall provide
+prompt, advance notice thereof to enable the other party to
+seek a protective order or otherwise prevent such disclosure.
+
+16.3 The terms and conditions of this Agreement, but not its
+existence, are considered Confidential Information.
+
+17. INDEMNIFICATION
+
+17.1 Emulex agrees, at its expense, to defend and indemnify
+Benchmark in any suit or action brought or any claim asserted
+(collectively, a "Claim") against Benchmark alleging that any
+Product or any part thereof manufactured pursuant to this
+Agreement and in material compliance with Emulex's
+specifications, Product Documentation and directions, and/or
+Benchmark's use of Emulex Equipment: (i) directly or
+indirectly infringes any patent, copyright, trademark or
+service mark; or (ii) has caused injury to the property or
+person of any third party, except to the extent directly
+attributable to Benchmark's manufacturing processes. Emulex
+will indemnify and hold Benchmark harmless from and against
+any loss, cost, damage or expense, including without
+limitation reasonable attorneys' fees (collectively, "Costs"),
+incurred by Benchmark as a direct result of, including defense
+against, any such Claim.
+
+17.2 Benchmark agrees, at its expense, to defend and indemnify
+Emulex with respect to any Claim against Emulex to the extent
+such Claim alleges that Benchmark's manufacturing processes
+(i) directly or indirectly infringe any patent, copyright,
+trademark or service mark; or (ii) have caused injury to the
+property or person of any third party, provided that such
+Claim does not relate to Emulex's specifications or written
+instructions to
+
+Page 13 of 23
+
+Benchmark. Benchmark will indemnify and hold Emulex harmless
+from and against any Costs incurred by Emulex as a direct
+result of, including defense against, any such Claim.
+
+17.3 Emulex will indemnify Benchmark with respect to any Claim
+which results from or arises out of: (i) the presence of
+Emulex, or Equipment, or Benchmark's equipment, tools, or
+facilities ("Tools") used by Emulex in the performance of this
+Agreement on Benchmark's property; (ii) the performance by
+Emulex or its personnel of services for or on behalf of
+Benchmark; (iii) the acts, errors, omissions, or negligence of
+Emulex or Emulex's personnel that occur on Benchmark's
+property in performance of Emulex's obligations under this
+Agreement; or (iv) the use by Emulex of Benchmark's Tools,
+except to the extent that any Claim is based upon the
+condition of the Tools or Benchmark's, its agent's, or its
+employee's alleged negligence in permitting such Tools' use.
+
+17.4 The indemnities in this section are provided on the condition
+that: (i) the indemnified party promptly notifies the
+indemnifying party in writing of any Claim; (ii) the
+indemnifying party has sole control of the defense and all
+related settlement negotiations (except that the indemnifying
+party shall not settle any Claim affecting the indemnified
+party's interest without the indemnified party's prior written
+consent); and (iii) the indemnified party gives the
+indemnifying party full and complete authority, information
+and assistance to defend against such Claim and fully
+cooperates in the defense and furnishes all related evidence
+in its control at the indemnifying party's expense.
+
+18. LIMITATION OF LIABILITY
+
+EXCEPT WITH RESPECT TO DAMAGES TO THIRD PARTIES UNDER INDEMNIFICATION
+OBLIGATIONS OR DAMAGES PROXIMATELY CAUSED BY A BREACH OF
+CONFIDENTIALITY OBLIGATIONS SOLELY DUE TO THE BREACHING PARTY'S GROSS
+NEGLIGENCE OR WILLFUL MISCONDUCT, NEITHER PARTY SHALL BE LIABLE TO THE
+OTHER UNDER ANY CONTRACT, STRICT LIABILITY, NEGLIGENCE OR OTHER THEORY
+FOR ANY INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES, INCLUDING
+WITHOUT LIMITATION LOST PROFITS, IN CONNECTION WITH THE SUBJECT MATTER
+OF THIS AGREEMENT OR ANY PURCHASE ORDER EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES. NOTWITHSTANDING ANYTHING TO THE CONTRARY
+HEREIN, IN NO EVENT SHALL EITHER PARTY'S LIABILITY TO THE OTHER FOR
+BREACH OF CONFIDENTIALITY OBLIGATIONS ARISING UNDER THIS AGREEMENT
+EXCEED ONE MILLION U.S. DOLLARS ($1,000,000.00), WITHOUT LIMITING
+INJUNCTIVE REMEDIES.
+
+19. INSURANCE
+
+19.1 Benchmark shall maintain insurance against fire, theft and
+damage to any Emulex property held by Benchmark, including
+without limitation consigned Materials, in-circuit test
+fixtures, capital equipment, returned Materials and other
+Emulex Product and property in Benchmark's possession.
+Benchmark shall also maintain commercial general liability
+insurance, which covers contractual liability and product
+liability, in the amounts of $5 million per occurrence and $10
+million in the aggregate for Benchmark's manufacturing
+defects. Such insurance will name Emulex as an additional
+insured with
+
+Page 14 of 23
+
+respect to claims of bodily injury, including death, and
+property damage to the extent such claims arise from
+Benchmark's negligent manufacturing of the Products or is
+proximately caused by the negligent and/or intentional acts or
+omissions of Benchmark, and will remain in effect for a period
+of three years after termination of this Agreement. Benchmark
+will provide Emulex with a certificate of insurance evidencing
+such coverage.
+
+19.2 Emulex shall maintain errors and omissions insurance in the
+amounts of $5 million per occurrence and $10 million in the
+aggregate for product liability. Such insurance will name
+Benchmark as an additional insured and will remain in effect
+for a period of three years after termination of this
+agreement. Emulex will provide Benchmark with a certificate of
+insurance evidencing such coverage.
+
+20. MISCELLANEOUS
+
+20.1 Governing Law
+
+This Agreement shall be governed by and construed in
+accordance with the laws of the state of California, without
+regard for its rules concerning the conflicts of law. The
+United Nations Convention on Contracts for the International
+Sales of Goods is hereby expressly excluded from application
+to this Agreement.
+
+20.2 Remedies
+
+Both parties acknowledge and agree that monetary damages may
+not be a sufficient remedy for breach of this Agreement.
+Benchmark further acknowledges that its breach of Sections 5
+and/or 16 of this Agreement would cause irreparable harm to
+Emulex. Emulex also acknowledges that its breach of Section 16
+of this Agreement would cause irreparable harm to Benchmark.
+Therefore, the non-breaching party shall be entitled, without
+waiving any other rights or remedies, to such injunctive
+relief as may be deemed proper by a court of competent
+jurisdiction.
+
+20.3 Relationship of the Parties
+
+The parties are and shall remain at all times, independent
+contractors in the performance of this Agreement and nothing
+herein shall be deemed to create a joint venture, partnership
+or agency relationship between the parties. Neither party
+shall have the right or authority to assume or to create any
+obligation or responsibility, express or implied, on behalf of
+the other except as may be expressly provided otherwise in
+this Agreement. Each party shall be solely responsible for the
+performance of its employees hereunder and for all costs and
+expenses of its employees, to include but not be limited to
+employee benefits.
+
+20.4 Waiver
+
+The failure of either party to insist upon or enforce strict
+conformance by the other party of any provision of this
+Agreement or to exercise any right under this Agreement shall
+not be construed as a waiver or relinquishment of such party's
+right unless made in writing and shall not constitute any
+subsequent waiver or relinquishment.
+
+Page 15 of 23
+
+20.5 Amendment and Modification
+
+To be valid, amendments or modifications to the Agreement must
+be in writing and signed by authorized representatives of both
+parties. Any verbal agreements, discussions, and
+understandings, expressed or implied, shall not constitute an
+amendment to this Agreement.
+
+20.6 Invalid Provisions
+
+If any provision of this Agreement is finally held by a court
+of competent jurisdiction to be illegal or unenforceable, the
+legality, validity, and enforceability of the remaining
+provisions of this Agreement shall not be affected or
+impaired.
+
+20.7 Survivorship
+
+The provisions of this Agreement which by their nature survive
+termination or expiration of the Agreement, including but not
+limited to the provisions of Section 5 (Intellectual Property
+Rights, Section 11 (Warranty), Section 16 (Confidential
+Information), Section 17 (Indemnification), Section 18
+(Limitation of Liability), Section 19 (Insurance), Section
+20.1 (Governing Law), Section 20.2 (Remedies) of this
+Agreement shall survive the termination or expiration of this
+Agreement. Outstanding Purchase Orders shall survive the
+termination of this Agreement, unless Emulex or Benchmark
+cancels the Purchase Orders in accordance with this Agreement.
+
+20.8 Force Majeure
+
+Neither party shall be responsible for any delay in performing
+this Agreement to the extent that such delay is caused by the
+occurrence of unforeseen circumstances beyond a party's
+control and without such party's negligence or intentional
+misconduct, including, but not limited to, fire, flood,
+hurricane, earthquake, explosion, war, acts of terrorism,
+strike, boycott, shortage, riot, lockout, labor dispute, civil
+commotion, embargo, government law or regulation, act by any
+governmental authority, action of civil or military authority,
+act of God, or act or inaction of the other party, including
+but not limited to, failure to timely provide Equipment,
+Product Documentation, or approval of purchase of Materials
+under Section 4 herein.
+
+20.9 Successors and Assigns
+
+Neither party may assign any rights hereunder without the
+prior written consent of the other party, which consent shall
+not be unreasonably withheld. Any assignment of rights shall
+not work as a novation of obligations hereunder without
+written agreement. Any attempt to assign any rights, duties or
+obligations hereunder without the other party's written
+consent will be void. Notwithstanding the above, either party
+may assign this Agreement to a surviving entity in connection
+with any merger, acquisition or consolidation of not less than
+a majority ownership in the merged, acquired or consolidated
+company by the surviving entity.
+
+Page 16 of 23
+
+20.10 Notices
+
+Unless otherwise expressly provided for, all notices,
+requests, demands, consents or other communications required
+or pertaining to this Agreement shall be sent by next business
+day courier, fax followed by confirmation by mail, e-mail, or
+some other method that provides proof of delivery, to the
+address set forth below:
+
+EMULEX: Emulex Corporation
+3535 Harbor Blvd.
+Costa Mesa, CA 92626
+Attn: Contracts Administration
+
+Benchmark: Benchmark Electronics Huntsville, Inc.
+4807 Bradford Drive
+Huntsville, AL 35805
+Attn: Central Group President
+
+With a copy to: Benchmark Electronics, Inc.
+3000 Technology Drive
+Angleton, Texas 77515
+Attn: Legal Department
+
+In case of mailing, the effective date of delivery of any
+notice, demand, or consent shall be considered to be five days
+after proper mailing.
+
+20.11 Headings
+
+The section and paragraph headings of this Agreement are
+intended as a convenience only, and shall not affect the
+interpretation of its provisions.
+
+20.12 Conflicting Terms
+
+The parties agree that the terms and conditions of this
+Agreement shall prevail, notwithstanding any contrary or
+additional terms in any Purchase Order, sales acknowledgment,
+confirmation or any other document issued by either party
+effecting the purchase and/or sale of Products ("Documents").
+When interpreting this Agreement, precedence shall be given to
+the respective parts in the following descending order: (a)
+this Agreement; (b) Attachments to this Agreement; (c)
+Benchmark's Product Quotation accepted by Emulex and (d) if
+Orders are used to release product, those portions of the
+Order that are not pre-printed and which are accepted by
+Benchmark. The Parties acknowledge that the preprinted
+provisions on the reverse side of any Document shall be deemed
+deleted and of no effect whatsoever.
+
+21. ENTIRE AGREEMENT
+
+This Agreement, including all Attachments, constitutes the entire
+Agreement between the parties and supersedes all prior or
+contemporaneous agreements, discussions, and understandings between the
+parties, either express or implied. The following Attachments are part
+of this Agreement and are incorporated herein by this reference.
+
+Page 17 of 23
+
+A Product and Price Schedule
+
+B Product Quality
+
+IN WITNESS WHEREOF, the parties have caused this Agreement to be executed by
+their duly authorized representatives.
+
+EMULEX CORPORATION BENCHMARK ELECTRONICS, INC.
+
+By: /s/ Paul Folino By: /s/ Cary Fu
+----------------------- --------------------------------------
+(Signature) (Signature)
+
+Name: Paul Folino Name: Cary Fu
+
+Title: Chairman and CEO Title: President & Chief Operating Officer
+
+Date: 6/2/03 Date: 6/2/03
+
+Page 18 of 23
+
+ATTACHMENT A
+
+INITIAL PRODUCTS AND PRICE SCHEDULE
+
+1. PRODUCT AND PRICE SCHEDULE
+
+The following table sets forth the Products, and Product price, which
+may be changed from time to time pursuant to Sections 8.1 and 8.3 of
+the Agreement.
+
+--------------------------------------------------------------------
+PRODUCT
+NUMBER DESCRIPTION AND ANNUAL VOLUME QUOTED INITIAL PRICE
+--------------------------------------------------------------------
+
+--------------------------------------------------------------------
+LP9802-F2 HBA - 100,000 units TBD*
+--------------------------------------------------------------------
+
+--------------------------------------------------------------------
+
+--------------------------------------------------------------------
+
+--------------------------------------------------------------------
+
+--------------------------------------------------------------------
+
+*TBD means to be determined by mutual agreement of the parties. This is
+a non-binding forecast of annual volumes.
+
+2. Manufacturing Locations: 4807 Bradford Drive, Huntsville, Alabama
+35805; Circuito de Productividad #132, Parque Industrial, Guadalajara
+Las Pintas, El Salto, Jal. 45690, Mexico; 94 Moo 1, Hitech Industrial
+Estate, Banlane, Bang Pa-in, Ayudhaya 13160, Thailand; and others as
+agreed between the parties.
+
+Page 19 of 23
+
+ATTACHMENT B
+
+GUIDELINES FOR DEVELOPING A PRODUCT QUALITY PLAN
+
+1. PURPOSE:
+
+To define the methods and controls to manufacture and deliver all
+Emulex Products.
+
+2. SCOPE:
+
+All Emulex Products produced by Benchmark.
+
+3. RELATED DOCUMENTS:
+
+(a) ISO 9000: 2000 (Quality Systems - Model for quality
+assurance).
+
+(b) ANSI/IPC-R-700C Modification, Rework, Repairs of Printed
+Boards and Assemblies
+
+(c) ANSI/IPC-A-610 Workmanship Standards
+
+(d) IPC-A-600 Acceptability of Printed Boards
+
+4. RESPONSIBILITY:
+
+Implementation and control of the quality plan is the responsibility of
+Benchmark's quality department in conjunction with Benchmark
+engineering and production management.
+
+5. MANUFACTURING QUALITY PLAN CHANGES:
+
+Changes to the Manufacturing Quality Plan will be agreed in writing
+between Emulex and Benchmark.
+
+6. DOCUMENT CONTROL:
+
+Benchmark will, through the relevant product engineer, ensure all
+Product changes are reviewed internally. All Product changes must be
+handled through Benchmark's ECO Procedure.
+
+7. ESD:
+
+These requirements apply to the storage, packaging, handling and
+assembly of all ESD-sensitive Materials. They also apply to items such
+as PWB's, tools, and packaging material which come into contact with
+ESD-sensitive Materials.
+
+Direct handling of ESD sensitive parts, including assemblies and
+Products, shall be by grounded personnel at static safe workstations.
+ESD sensitive Materials should be kept in static shielding
+containers/Metro's.
+
+Wrist straps and heel straps are the preferred personal grounding
+device. They are required when components or boards are handled.
+
+Straps are to be tested daily (before handling ESD sensitive items) and
+replaced if they do not pass. A daily log of test results must be
+current and visible.
+
+Page 20 of 23
+
+Static dissipative smocks shall be worn in areas which contain ESD
+sensitive components. These areas include production, test, shipping,
+inspection and warehouses. They should be kept clean and always be worn
+fastened with the sleeves down, touching the skin.
+
+Power tools, including soldering irons, need to be grounded (three
+prong plugs). Work stations and tables at which components or boards
+are not in protective packaging must have grounded surfaces.
+
+8. PURCHASING:
+
+All Materials used in the production of Emulex's Products will be
+sourced as per the AVL supplied by Emulex.
+
+9. GOODS RECEIVING:
+
+All Materials received for production of the Emulex Products will be
+inspected against the Emulex-supplied AVL. Alternative sources or parts
+may only be accepted through concession from Emulex.
+
+Customized parts in incoming inspection will be inspected as follows:
+visual inspection of the parts for workmanship defects, verification of
+certificate of conformity ("COC") and ensuring all parts are as per
+Emulex-supplied AVL (AQL as mutually agreed). Records will be
+maintained for the above part, verifying the COC received is
+appropriate to the specification. These records will be maintained by
+Benchmark Receiving.
+
+10. STORES OPERATION:
+
+10.1 Received goods checked against carrier paperwork to confirm
+correct amount of packages and with no transportation damage
+and signed for accordingly.
+
+For any discrepancy with shipment, the receiving personnel
+ensures courier acknowledges, adjusts paperwork and signed by
+receiving personnel and courier. Copy of this paper is sent by
+receiving to relevant buyer at Benchmark.
+
+Goods are unpacked and checked against Purchase Order and
+against supplier documentation. Any discrepancy is reported
+directly to the relevant buyer at Benchmark. The discrepancy
+is also recorded and is sent to relevant buyer, and the
+Material is held until the "action" section is compiled by the
+buyer and returned to receiving.
+
+PO received quantity is confirmed
+
+Cleared Materials are identified and marked accordingly.
+
+10.2 Material is put away by locations by stores personnel.
+Accountability for the warehouse locations is by warehouse
+personal individual ownership. This ownership includes, stock
+accuracy, housekeeping, and cycle count.
+
+10.3 FIFO process will be maintained.
+
+Page 21 of 23
+
+11. NON CONFORMING MATERIAL REVIEW:
+
+Process related non-conforming material ("NCM") is reviewed and
+dispositioned in manufacturing by the appropriate engineer. Supplier
+related NCM is dispositioned at least weekly by the supplier quality
+engineer and quality, and Supplier corrective action measures are
+applied where deemed necessary.
+
+A secure MRB room is located the warehouse.
+
+12.0 CONTROL AND MAINTENANCE OF MANUFACTURING, INSPECTION, MEASURING AND
+TEST EQUIPMENT:
+
+All manufacturing equipment shall be maintained on a regular basis and
+is included in a preventative maintenance schedule.
+
+All inspection, measuring and test equipment used to check conformance
+of the Product to specified requirements is subjected to a planned
+calibration program.
+
+13. PROCESS INSTRUCTIONS:
+
+Standard operating procedures are available for all automated assembly
+stages and for each PCB, placement programs and reflow/wave profiles
+are uniquely identified.
+
+In addition, process documentation is available for all component
+prework operations, manual assembly, box build and packing operations.
+
+14. PRODUCT IDENTIFICATION:
+
+All Products will be fitted with an assembly number and a serial number
+(which includes Product revision).
+
+15. MARKING AND LABELLING:
+
+All Products prior to shipment will have the following labels attached:
+the Emulex label, as per process instruction document.
+
+16. INSPECTION AND TESTING:
+
+All products will be 100% inspected and tested at the intervals shown
+in the process flow by production personnel. The results of this test
+are logged and retained for a minimum of two years in the Quality
+Department.
+
+17. REPAIR:
+
+The standard to be used for all rework resulting from inspection or
+test rejection will be ANSI/IPC-R-700-C, "Modification, Rework, Repairs
+of Printed Boards and Assemblies."
+
+Page 22 of 23
+
+18. DATA COLLECTION AND REPORTING:
+
+REFERENCED PROCEDURES: SPC Data Collection & Corrective Action
+Procedures: Doc 115 0108.
+
+Weekly quality reports will be provided to Emulex detailing the
+following:
+
+- Inspection process stages
+
+- In-circuit test
+
+- Functional test
+
+- Outgoing QA inspection
+
+This information will be provided in DPU, DPMO and % yield format
+
+The results from all inspection and test stations will be recorded and
+reviewed. Quality meetings will be conducted to review the SPC process
+data and corrective actions required.
+
+19. CUSTOMER COMPLAINTS:
+
+All customer complaints must be directed to the quality director who
+will immediately acknowledge the complaint by means of fax or E-mail.
+
+This complaint is then submitted by the quality department and all
+relevant people are automatically notified through e-mail for input to
+the CLCA system.
+
+Once the complaint has been submitted it is then assigned to the person
+responsible for identifying root cause and corrective/preventive
+action. This may include a short term and long tern solution also
+effective date.
+
+The status of a complaint is closed upon satisfactory completion of
+these actions and its effectiveness checked by quality.
+
+Each new customer complaint will automatically receive a new tracking
+number from the database system. All records are filed in quality.
+
+Customer complaints will be reviewed by site management at least
+weekly.
+
+20. RETURNS (RMA):
+
+All field returns will be returned to Benchmark in accordance with
+Benchmark's returns procedure. This procedure operates a full
+comprehensive RMA facility.
+
+21. RELEASE AUDITING:
+
+All units will be the subject of a sample audit inspection carried out
+by the quality department prior to shipment to the customer. The
+release audit consists of a visual inspection. Sample sizes will based
+on AQL as mutually agreed.
+
+Page 23 of 23

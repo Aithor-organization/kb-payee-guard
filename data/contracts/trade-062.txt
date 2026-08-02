@@ -1,0 +1,3464 @@
+ex10-8.htm 
+
+Exhibit 10.8 
+
+[Certain portions of this Exhibit have been filed separately with the Securities and Exchange Commission (the “Commission”) pursuant to a confidential treatment request in accordance with Rule 24b-2 of the Securities Exchange Act of 1934, as amended. The location of each omitted portion is indicated by a series of three astericks in brackets(“[***]”)]. 
+
+Purchase Agreement 
+
+between 
+
+Vestas Blades A/S 
+
+and 
+
+Zoltek Companies Inc. 
+
+No. 01012012 
+
+Page 1 of 76 
+
+Content 
+
+1 
+Scope of Agreement 
+
+4 
+
+2 
+Products 
+
+7 
+
+3 
+Logistics 
+
+7 
+
+4 
+Quality, Safety and Environment 
+
+12 
+
+5 
+Warranty and Liability for Defects 
+
+14 
+
+6 
+Force Majeure 
+
+17 
+
+7 
+General Indemnification 
+
+17 
+
+8 
+Confidentiality 
+
+18 
+
+9 
+Public and Products Liability Insurance 
+
+19 
+
+10 
+Research and Development and Intellectual Property Rights 
+
+19 
+
+11 
+Validity and Termination of the PA 
+
+22 
+
+12 
+Disputes and Applicable Law 
+
+25 
+
+13 
+Miscellaneous 
+
+25 
+
+14 
+Signatures 
+
+26 
+
+SCHEDULE 1 DEFINITIONS 
+
+28 
+
+Appendix A Products, Prices and Lead-times 
+
+31 
+
+Appendix B Technical Purchase Specifications 
+
+35 
+
+Appendix D Contact Diagram 
+
+48 
+
+Appendix E – Sustainability 
+
+49 
+
+Appendix F Non-Disclosure Agreement 
+
+60 
+
+Appendix G Quality Agreement 
+
+66 
+
+Page 2 of 76 
+
+This Purchase Agreement (hereinafter this “Agreement” or the “PA”) is entered into between 
+
+Vestas Blades A/S (on behalf of the Vestas Group) 
+
+Hedeager 44 
+
+DK-8200 Aarhus N 
+
+Denmark 
+
+Company reg. no. 27 98 82 10 
+
+hereinafter called “VESTAS” 
+
+and 
+
+Zoltek Companies Inc. 
+
+3101 McKelvey Rd. 
+
+St. Luis, Missouri 63044 
+
+USA 
+
+Company reg. no. 00 25 63 16 
+
+hereinafter called “SUPPLIER”. 
+
+VESTAS and SUPPLIER are also hereinafter referred to individually as a “Party” and collectively as “the Parties”. 
+
+RECITALS 
+
+A. The Vestas Group develops, manufactures, supplies and services wind turbine generators (hereinafter “WTG”). 
+
+B. SUPPLIER is a manufacturer and/or supplier of carbon fibre materials suitable for WTG applications. 
+
+C. The Parties have since 2004 cooperated in connection with a Trade Agreement signed on 6 November 2004 and subsequently under a Second Trade Agreement signed 29 May 2007 according to which VESTAS has agreed to buy and Supplier has agreed to sell certain products. These agreements are hereinafter referred to as the “Previous Agreements”. 
+
+D. Following negotiations the Parties now wishes to enter into a multiyear partnership agreement securing capacity for PAN based carbon fibres for VESTAS’ [***] [***] [***] [***] [***] [***] [***] [***] [***] (hereinafter referred to as “Products”) for VESTAS, capacity expansion at SUPPLIER and maximizing profit for both companies as well as setting out the terms and conditions under which SUPPLIER will produce and supply and VESTAS will purchase any Product ordered after the Effective Date. 
+
+E. In order to accommodate existing and future market demands technically and commercially VESTAS expects that SUPPLIER will increase the available production capacity to support Vestas' growth as well as remain the industry leader in developing low cost carbon fiber materials to be used in VESTAS WTG’s as further set out below. 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+Page 3 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+F. SUPPLIER on its side has agreed to establish relevant regional manufacturing capacity based on the business scenarios and economical aspects presented in order to fulfil its commitments to Vestas. SUPPLIER acknowledges and agrees that failure to follow the Vestas global production footprint might result in SUPPLIER losing its [***] [***] [***] [***] [***] generally or for relevant markets. 
+
+G. Irrespective of the preferred relationship to be initiated and enhanced between the Parties, SUPPLIER fully acknowledges that [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] on any component, materials etc. Accordingly, rights and obligations in connection with this strategic partnership must necessarily be understood and structured in view hereof and indeed incorporate relevant comforts in terms of VESTAS' freedom to operate with alternative suppliers as further described in clause 1.3 below. 
+
+H. Accordingly, by entering into this strategic Purchase Agreement, the Parties wish with effect from 1 January 2012 (the “Effective Date”) to revise some of the terms and conditions which have hitherto been the basis for the cooperation. 
+
+NOW, THEREFORE, in consideration of the foregoing, the mutual agreements herein contained, and other good consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties agree as follows. 
+
+1 
+
+Scope of Agreement 
+
+1.1 
+
+Definitions 
+
+Definitions applicable for this PA are set out in Schedule 1 and/or in connection with individual relevant provisions below. 
+
+1.2 
+
+Preferred customer relationship 
+
+VESTAS shall during the term of this PA be the preferred customer of SUPPLIER. This shall include that the cooperation between the SUPPLIER and VESTAS shall be given absolute top priority on all levels of cooperation, including in connection with (i) daily management, (ii) bookings on SUPPLIER’s capacity, and (iii) SUPPLIER continuously giving first priority to orders, deliveries, and where relevant to remedy work and service towards VESTAS and VESTAS’ end-customers. 
+
+SUPPLIER understands that VESTAS as of the Effective Date practically as well as contractually relies on SUPPLIER for [***] [***] of its needs for the Products and has entered into this PA based on SUPPLIER’s commitment to at all times meet such needs as further set out in clause 3 below. 
+
+1.3 
+
+SUPPLIER [***] [***] [***] [***] [***] 
+
+The Parties confirm that SUPPLIER as of the Effective Date will be a [***] [***] [***] to VESTAS of the Products. SUPPLIER however acknowledges and agrees that VESTAS at the Effective Date has [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]. 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+Page 4 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+Further, SUPPLIER understands that it is responsible [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***][***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]. 
+
+[***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]. 
+
+[***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]. 
+
+Finally, it is stressed that VESTAS will never be obliged to take delivery of Products which does not meet agreed requirements including those set out in the Technical Purchase Specification. SUPPLIER must consequently at all times have the highest focus on maintaining world-class Product- and process quality in all its manufacturing facilities as anything else will entitle VESTAS to re-consider or even terminate SUPPLIER’s [***] [***] [***] [***] [***] [***] in accordance with clause 11.2 below. 
+
+SUPPLIER may further become a supplier to VESTAS of other products provided the Parties can agree on terms and conditions for such purchase, including the capacity commitments either Party can make in relation to such other products. It is not envisaged that such supply of other products will be [***] [***] [***] [***] [***]. 
+
+1.4 
+
+SUPPLIER’s General Obligations 
+
+The SUPPLIER shall, with due care and diligence, manufacture, deliver and where relevant offer technical support with regard to the Products, their functionality, quality and performance as further set out in this PA. 
+
+1.5 
+
+Vestas Group Members 
+
+This PA is made between SUPPLIER (on behalf of itself and its Affiliates and Subsidiaries) on the one side and VESTAS on behalf of its Affiliates and Subsidiaries and all existing and future companies within the Vestas Group on the other side. Accordingly, if a company within the Vestas Group should wish to deal with the SUPPLIER or any of SUPPLIER’s Subsidiaries or Affiliate the conditions of this PA are to be valid. 
+
+1.6 
+
+Communication and amendments 
+
+All amendments, changes or adjustments to this PA including any of its schedules and appendixes shall be made in writing. Appendix D sets out the individual job functions with both Parties 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+Page 5 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+authorised to sign such amendments, changes or adjustments. Consequently, amendments, changes and adjustments to this PA shall only be valid if made in writing and signed by persons holding the job functions set out in Appendix D however in all cases respecting VESTAS’ internal rules on delegation of authority and power to bind. 
+
+As for information requests SUPPLIER shall answer ordinary technical questions in relation to installation and service from any persons within the Vestas Group directly to the person/unit from which the question came, but always with a copy to VESTAS. Constructive changes and technical discussions in guarantee and warranty cases shall be discussed only with Vestas Wind Systems A/S, Technology R&D in Denmark. 
+
+All quality related questions in respect to process qualifications, production quality requirements, process improvements, non-confirming material dispositions and surveillance auditing related questions shall be handled in accordance with the QA (Appendix G). 
+
+1.7 
+
+Status of the PA 
+
+As of the Effective Date this PA and its Appendices shall subject to the restrictions set out below constitute the entire agreement between the Parties in relation to the subject matter hereof. Thus, this PA shall prevail over all previous correspondence and documentation, all suggested terms and conditions and documents exchanged prior to the signing of this PA, signed by both Parties or by one of them, relating to this PA and its conclusion. 
+
+With effect from the Effective Date any Previous Agreements (excluding only the NDA attached to this Agreement as Appendix F) shall cease to have effect as between the Parties with respect to Products ordered after the Effective Date and all future cooperation including development and supply of any new products shall be subject to this PA and its Appendices. 
+
+The Previous Agreements shall however continue to cover rights and liabilities with regard to products ordered prior to the Effective Date irrespective of whether such products are delivered or not prior to such date. However, with respect to determination of whether Generic Defects exists under this PA cf. clause 5.3 both products ordered under the Previous Agreements and products ordered under this PA shall be included. 
+
+For the sake of clarification, agreements and other documents agreed in relation to products ordered prior to the Effective Date shall continue in full force and effect. 
+
+1.8 
+
+Priority of the Documents 
+
+The documents forming this PA are to be taken as mutually explanatory of one another. For the purposes of interpretation the priority of the documents shall be in accordance with the following sequence: 
+
+1. 
+
+The PA including the definitions set out in Schedule 1 
+
+2. 
+
+The Appendices 
+
+3. 
+
+VESTAS’ order 
+
+4. 
+
+SUPPLIER’s order confirmation or acknowledgement 
+
+Page 6 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+No reference to SUPPLIER’s offers, quotations, order confirmations, invoices or the like and VESTAS’ inquiries, orders or the like, nor any of SUPPLIER’s own terms and conditions of sale and delivery and VESTAS’ general terms and conditions, shall have any validity between the Parties and shall thus involve no deviation from the provisions of the present PA, unless this is agreed upon in writing by the Parties in connection with specific Contracts. 
+
+2 
+
+Products 
+
+2.1 
+
+Products 
+
+This PA covers the Products stated in Appendix A and all other products delivered from SUPPLIER. For the sake of good order and notwithstanding anything else set out in this PA [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]. 
+
+No changes in SUPPLIER’s design, manufacturing processes, quality or content of the Products and/or Product Documentation shall be taken into effect without prior agreement between the Parties. 
+
+2.2 
+
+Technical Purchase Specifications and Documentation 
+
+Technical Purchase Specifications (“TPS”) for relevant Products setting out general requirements as to functionality and quality will on a general level be submitted by VESTAS to SUPPLIER. However, it is an essential presumption that SUPPLIER shall afford VESTAS all SUPPLIER’s experience, technical knowledge and skill to ensure that the Products are produced and delivered according to the general requirements of this PA and TPS from VESTAS. 
+
+The TPS is attached to this PA as Appendix B and shall be updated on a continuous basis by mutual agreement. 
+
+Any documentation presented to SUPPLIER, or by SUPPLIER to VESTAS, must be checked for errors and/or discrepancies to or with other documents relative to the Products. In the event SUPPLIER discovers any error or discrepancy, SUPPLIER shall immediately inform VESTAS, who shall take all necessary action to instruct the SUPPLIER accordingly. In the event that the SUPPLIER fails to immediately inform VESTAS, SUPPLIER shall be liable for all consequences, claims, costs and the like, thereof. 
+
+3 
+
+Logistics 
+
+3.1 Prices and Price Reviews 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+Page 7 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+3.1.1 
+
+Agreement on Prices 
+
+The Parties have agreed upon the prices stated in Appendix A. 
+
+Prices are stated [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] (Incoterms 2010), unless otherwise stated in Appendix A or in a specific Contract. 
+
+Appendix A will additionally include an individual split of included transport prices. 
+
+Prices are set out in detail in Appendix A and are based on [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]. 
+
+Prices for the Product shall follow Appendix A for the duration of this PA and shall not be subject to change from the principles set out in Appendix A unless (i) in consequence of continuous improvements, cf. Clause 3.1.4 below, (ii) changes or modifications accepted by VESTAS and fulfilling the requirements stated in Clause 3.1.3 below, and/or (iii) in the event of special projects agreed upon by the Parties. 
+
+3.1.2 
+
+Currency 
+
+Prices are stated in the currencies specified in Appendix A. 
+
+3.1.3 
+
+Changes 
+
+If and to the extent modifications or changes of Products as approved by VESTAS include a material improvement of performance, quality and functionality of one or more of the Products and lead to documented substantial additional costs or savings for SUPPLIER, prices can be re-negotiated, irrespective of Clause 3.1.1 and 3.1.2 always provided that such changes or modifications are not fully or partly a result of SUPPLIER’s failure to fulfil its obligations under this PA. 
+
+3.1.4 
+
+Continuous Improvements 
+
+The Parties agree to work for continuous improvement of the Products, their applications and the reduction of cost in order to have the most favourable prices and conditions. VESTAS is relying on SUPPLIER’s expertise to maximise cost effectiveness, quality and reliability of the Products supplied. SUPPLIER will commit the resources reasonably necessary to achieve continuously year-over-year total cost improvement of the Products through improved efficiency, reengineering, new product development, standardisation, application optimisation, etc. The impact of total costs improvement efforts shall be reviewed on an annual basis and shall be fully mirrored in all future prices. 
+
+SUPPLIER understands that it has been chosen [***] [***] [***] [***] [***] of the Products because of its competences regarding continuous improvements and product development. Where VESTAS has been involved in the development of new products, SUPPLIER shall as a minimum grant VESTAS a first right of refusal to exclusively buy any such new products developed and manufactured by SUPPLIER for use within the wind industry. Reference is further made to clause 10.2 below. 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+Page 8 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+3.2 
+
+Terms of Payment and Set-off 
+
+Invoices shall be paid within end of month [***] [***] [***] days from delivery of said invoices to VESTAS. Payments made by VESTAS to SUPPLIER shall not release SUPPLIER of any liability or responsibility – actual or potential - in accordance with this PA nor include a waiver by VESTAS with regard to such liability or responsibility. 
+
+Without prejudice to any other remedy, which VESTAS may have under this PA or under applicable law, VESTAS shall be entitled to deduct from any amounts otherwise falling due to SUPPLIER under this PA any amount for which SUPPLIER is liable to VESTAS, irrespective of whether such amounts originates from different purchase orders regarding the Products and/or is based on other legal circumstances. 
+
+If VESTAS fails to pay by the stipulated date, SUPPLIER shall be entitled to interest from the day on which the payment was due. The rate of interest is [***] [***] [***] [***] [***] [***] [***] [***]. 
+
+If VESTAS has not paid the amount due within [***] [***] [***], and this is not caused or contributed to by an act, default or omission of SUPPLIER, [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]. SUPPLIER is at all times obligated to minimise the loss incurred in relation to this Clause. 
+
+3.3 
+
+Supply Capacity 
+
+SUPPLIER commits to at all times to have sufficient capacity to manufacture and deliver Products according to VESTAS’ non-binding long-term forecast according to Appendix C (“Supply Capacity”) and that VESTAS’ orders and the fulfilment hereof at all times shall have first priority. 
+
+SUPPLIER is obligated to confirm orders and deliver in accordance with orders received from VESTAS, which are in accordance with the Supply Capacity within (3) three days. 
+
+In case SUPPLIER is not able to confirm orders within the agreed Supply Capacity, SUPPLIER shall pay liquidated damages as set forth in Clause 3.7. as if a formal Contract had been established. 
+
+3.4 
+
+Orders and Order Confirmations - Contracts 
+
+3.4.1 
+
+Contracts 
+
+The Parties agree that for practical/booking reasons VESTAS’ ordering and purchase of Products shall be made by the exchange of an order issued by VESTAS and an order confirmation issued by SUPPLIER (collectively a “Contract”) and that any such Contract shall be or be deemed made incorporating the terms and conditions of this PA even without this PA being referred to or attached to such Contract. 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+Page 9 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+All orders and stipulated terms of delivery are binding for SUPPLIER provided that the order is in accordance with the terms and conditions of this PA including the Supply Capacity. Thus, an order issued within a valid Supply Capacity will thus be considered a formal Contract, despite SUPPLIER’s failure to issue an order confirmation, and any late delivery will be subject to payment of LD’s for late delivery in accordance with clause 3.7 as if a formal Contract was entered into. 
+
+Notwithstanding anything set out above, the Parties however agree that order confirmations should always be issued, also for orders placed within a valid Supply Capacity. 
+
+Deviating terms and conditions need the explicit written approval of both Parties. 
+
+3.4.2 
+
+Reference to VESTAS’ Order 
+
+SUPPLIER shall on all relevant material (order confirmation, delivery note, invoice etc.) refer to VESTAS’ order. If the invoice received by VESTAS does not refer to an order VESTAS will without delay return the invoice to SUPPLIER. 
+
+3.4.3 
+
+Lead-time 
+
+Lead-time for Product(s) is stated in Appendix A, except when otherwise agreed upon in writing for the respective Contract or in the Supply Capacity. The Parties agree that there shall be a constant focus on reducing any applicable/agreed lead times. 
+
+3.5 
+
+Postponement and Cancellation of Orders 
+
+3.5.1 
+
+Postponement 
+
+SUPPLIER accepts that VESTAS can postpone orders for a period of up to six (6) months without any costs or compensation to be paid by VESTAS provided that such postponement is advised four (4) weeks prior to the agreed time of delivery. 
+
+If any orders are postponed SUPPLIER shall diligently store the postponed Products at own risk. 
+
+3.5.2 
+
+Cancellation 
+
+SUPPLIER acknowledges and accepts that VESTAS may wish to cancel any part of a Contract. The Parties will agree on the cancellation costs based on SUPPLIER’s actual cancellation costs incurred as a direct result of the request for cancellation reduced to the extent reasonable possible. Cancellation costs can, however, never exceed the Direct Documented Costs related to the production of the Product. 
+
+3.6 
+
+Delivery 
+
+Page 10 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+Terms of delivery are [***] (Incoterms 2010) [***] [***] [***] [***] [***] [***] [***] [***] [***] unless otherwise stated in Appendix A or in the specific Contract. 
+
+SUPPLIER understands and acknowledges that proper delivery at the agreed time of delivery is of the essence to VESTAS. Unless otherwise agreed upon the Products shall be delivered on the date and address set out in the order. Title to the Products shall pass to VESTAS at the time of delivery. 
+
+Upon request of VESTAS, SUPPLIER is obligated to deliver in accordance with this PA to appointed sub-suppliers of VESTAS. In such case, a copy of the delivery note must be forwarded to VESTAS without delay upon request of VESTAS. 
+
+3.7 
+
+Delayed Delivery 
+
+If the Products and the Product Documentation are not delivered at the time of delivery (as defined in the Contract or if SUPPLIER has failed to issue an order confirmation for orders placed within the Supply Capacity the delivery time set out in the purchase order), and this is not due to (i) an event of Force Majeure, cf. Clause 8 below, or (ii) reasons for which VESTAS in all material aspects is responsible, VESTAS is entitled to claim liquidated damages from the date on which delivery should have taken place. 
+
+The liquidated damages shall be payable at a rate of five (5) % of the Purchase Price for the whole Contract for each commenced week of delay. The liquidated damages shall not exceed sixty (60) % of the Purchase Price of the Contract. 
+
+If only part of the quantity is delayed, the liquidated damages shall be calculated on that part of the purchase price which is attributable to such part of the Products as cannot in consequence of the delay be used as intended by VESTAS. 
+
+The liquidated damages become due at VESTAS’ written demand. VESTAS shall forfeit VESTAS’ right to liquidated damages if VESTAS has not raised a claim for such damages within six (6) months after the time when delivery should have taken place. 
+
+If delay exceeds six (6) weeks VESTAS may – without prejudice to any other rights under applicable law under this PA – place orders for the delivery of the Products from an alternative supplier. Given that smaller volumes of the Products are hard to purchase separately, VESTAS will regardless of the size of the order delayed be entitled to place such alternative order for up to 500 tonnes of the Product, SUPPLIER must reimburse all additional cost incurred by VESTAS in respect of such alternative order being placed. 
+
+In addition, if the delay in delivery exceeds twelve (12) weeks VESTAS may – without prejudice to any other rights under applicable law or under this PA - by notice in writing to SUPPLIER terminate this Agreement. 
+
+In the event of delay VESTAS may also demand that SUPPLIER delivers the Products by the fastest means of delivery/transport whereupon any additional delivery charges in excess of those that would apply for the usual means of delivery shall be borne by SUPPLIER. 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+Page 11 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+3.8 
+
+Notice of Envisaged Delay 
+
+If for any reason SUPPLIER envisages a delay and/or capacity problems being unavoidable or threatening in connection with serial production, SUPPLIER shall without delay notify VESTAS in respect hereof in order to agree the right priorities. Such notice shall not relieve SUPPLIER of its responsibility to deliver (and where relevant repair) on time nor prevent VESTAS from claiming compensation for losses, liquidated damages etc. all as set out in this PA. 
+
+3.9 
+
+Quantity 
+
+All orders must be delivered in accordance with the quantity stated in the order. Part and excess deliveries have to be agreed upon in writing between the Parties. 
+
+3.10 
+
+Packing 
+
+SUPPLIER must pack all Products in a secure way for land and sea transport, in consideration of the nature of the goods and the method of transport, but at all times in accordance with VESTAS specification. SUPPLIER is responsible for securing that the packaging fulfils international requirements including the international standards on marking (as for example on positioning, fragile or water sensitive goods). VESTAS reserves the right to approve the packing and the corrosion protection. Country of origin and taric code must be supplied to VESTAS on all Products. 
+
+In addition to any normal packaging labels, all goods must be labelled with international handling symbols according to DIN 55402 or ISO 780. 
+
+4 
+
+Quality, Safety and Environment 
+
+4.1 
+
+Quality 
+
+The Parties will during Q1 2012 enter into a QA substantially in a form as attached as Appendix G. The Parties thus are yet to finally agree on the specific and obligatory quality requirements and targets to be followed and complied with at all times whereas they in principle agree on the overall procedures set out in Appendix G. By signing this PA SUPPLIER thus does not agree to specific CTQ’s or specific targets for such CTQ’s but agree only that such CTQ’s and target levels are to be defined in the Q1 workshop which will precede the final execution of the QA. 
+
+Page 12 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+4.2 
+
+Sustainability 
+
+SUPPLIER has been introduced to VESTAS Responsible Supplier Management initiative (“RSM” as defined in Appendix E). RSM has as its main goal to ensure a general improvement across the VESTAS supplier base on the 10 areas mentioned in Appendix E as well as in relation to general issues regarding sustainability. 
+
+SUPPLIER, by signing this Agreement, acknowledges receipt of the documents and material referenced in Appendix E hereto and further agrees to meet all requirements set out in Appendix E. Moreover SUPPLIER agrees to participate in specific improvement initiatives under RSM at VESTAS’ reasonable request and at SUPPLIER’s own cost. 
+
+If SUPPLIER fails to live up to the requirements (not identified as MAJOR RISK Issues) set out in Appendix E, SUPPLIER must correct these issues within reasonable time. The Parties will in such case discuss the possible involvement of VESTAS in relevant improvement initiatives as well as the deadlines within which improvement should be implemented. Should SUPPLIER fail to meet its obligations under this provision within such reasonable time, or should SUPPLIER be in breach of the Major Risk Issues listed in Appendix E such failure will constitute material breach and will entitle VESTAS to terminate this Agreement in accordance with Clause 13.2 below with immediate effect, i.e. the thirty (30) day remedy grace period set out in Clause 13.2 shall not apply. 
+
+For the sake of good order it is stressed that VESTAS’ right to perform audits set out in Clause 4.4 below and subsequently in the QA also includes a right for VESTAS to perform audits under RSM. 
+
+4.3 
+
+Audits and inspection 
+
+SUPPLIER shall assure full and unlimited access to audits and inspections including in accordance with the QA in appendix G. Until such time as the QA is finally agreed, the below provisions on this clause 4.3 shall apply; 
+
+Subject to SUPPLIER’s rights to keep proprietary information confidential, VESTAS’ customers, customer representatives and/or type approving/certifying authorities are, together with a representative from VESTAS, entitled to carry out quality audits of SUPPLIER within relevant areas. This entitlement is subject to that the third parties concerned are not competitors to SUPPLIER, and, to the extent required by SUPPLIER, undertakes reasonable confidentiality obligations towards SUPPLIER. 
+
+An audit can be carried out as a system audit or a Product audit, or as a combination of these. Audits can be done without notification. 
+
+If, as a result of an audit or inspection it is found that any already delivered Products do not conform to the requirements, the Parties shall assess whether such non-conformities may actually or potentially cause generic defects. If this is the case VESTAS may demand that the procedure and remedial steps as described in Clause 5.4 below shall be undertaken regardless of whether a defect has in fact manifested itself in actual errors or defects in the individual delivered Products. 
+
+Page 13 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+4.4 
+
+Traceability 
+
+The Parties agree that despite the fact that the QA has not yet been signed, the provisions on traceability as set out therein (Appendix G) shall apply to this PA. 
+
+4.5 
+
+Documentation 
+
+All documentation as stated in the TPS shall be maintained for fifteen (15) years in a way where it is retrievable and protected for damage such as water, fire and dust. Information stored on electronic media shall be evaluated for readability in planned sequences in order to assure the above requirements. Documentation shall be delivered to VESTAS in the required media without any delay. 
+
+4.6 
+
+Certification 
+
+SUPPLIER shall ensure that all Products and their documentation are sufficient to be approved and certified by Det Norske Veritas, Germanischer Lloyd or another certifying body/classification society as specified in the Technical Purchase Specification. If not specified otherwise the certification shall be executed in accordance with IEC WT 01. 
+
+5 
+
+Warranty and Liability for Defects 
+
+SUPPLIER shall treat all claims from the Vestas Group as though they were raised by VESTAS. 
+
+5.1 
+
+Scope of Warranty 
+
+For the period set forth below in clause 5.2 and any potential extension thereof, SUPPLIER guarantees and warrants (i) that the Products are free from defects in design, materials, workmanship and (ii) the that Products at the time of delivery comply with the requirements, description and quality stated in this PA including the Technical Purchase Specifications set forth in Appendix B, iii) that SUPPLIER conveys good title to the Products, and such Products shall be delivered free from any lawful security interest, lien or encumbrance. 
+
+SUPLIER is not liable for defects arising out of materials provided by or a design solely stipulated or solely specified by VESTAS. 
+
+SUPPLIER is not liable for defects arising from overload conditions, faulty installations and/or modifications made without SUPPLIER’S approval. 
+
+Page 14 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+SUPPLIER is not liable for defects arising from composite material or other materials used in producing the Blades or the manufacturing process employed by VESTAS. 
+
+SUPPLIER is not liable for defects arising from the design or the manufacture of the Blades. 
+
+5.2 
+
+Warranty Period 
+
+The warranty shall endure for a period of five (5) years from the date of delivery of the Products. 
+
+5.3 
+
+Transfer of Warranty 
+
+SUPPLIER confirms that in case VESTAS no longer conducts business, all rights under this warranty can be transferred/assigned to VESTAS’ end-costumers. 
+
+5.4 
+
+Agreed Action/Response to Defects 
+
+SUPPLIER shall provide full and immediate assistance including by providing all necessary personal and technical resources, in order to identify the cause of any matter, which in VESTAS' reasonable opinion may constitute a defect i.e. that the Product is later found out or discovered by either Party to have not lived up to the warranty set out in clause 5.1. 
+
+In case it is subsequently proven that no defect of any type is found in the Products inspected, VESTAS shall pay SUPPLIER its reasonable Direct Documented Costs incurred to provide such assistance. 
+
+Immediately after becoming aware of the existence or risk of a defect, SUPPLIER shall notify VESTAS and visa versa. Promptly and within five (5) working days after the date of such notice, SUPPLIER shall provide VESTAS with a preliminary report regarding the nature and extent of such defect or the risk thereof including general proposal(s) for actions. 
+
+The remedial action shall be designed so as to ensure that the defective Products meet the requirements set out in this PA. The scope of the remedial action shall be agreed upon. 
+
+After the remedial action is approved by VESTAS, the Parties shall promptly implement the remedial action in all relevant Products, which remedial steps shall be undertaken regardless of whether the defect has in fact manifested itself in actual errors or defects in the individual delivered Products. 
+
+A final report regarding mentioned subjects, including a time schedule indicating a proposal for necessary improvements relating to all future delivery of Products to Vestas shall be provided by SUPPLIER to VESTAS as soon as possible and no later than ten (10) weeks following the date of the abovementioned notice. 
+
+In connection with such actions, the Parties shall cooperate to ensure the most cost-efficient implementation and to minimize the involved costs. Any direct costs incurred by VESTAS, SUPPLIER or third parties in connection with such remedial actions shall be borne by SUPPLIER. 
+
+Page 15 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+5.5 
+
+Notice of Defects 
+
+VESTAS shall give SUPPLIER notice of defective Products as soon as possible after (i) the defect has been detected and (ii) reasonable and relevant measures and analyses have been conducted by or on behalf of VESTAS in order to ascertain and describe the defect. 
+
+SUPPLIER is aware that VESTAS will not upon delivery perform any testing or control measures regarding delivered Products. 
+
+5.6 
+
+Root Cause Analyses of any Defect 
+
+Whether in relation to individual defects or Generic Defects, VESTAS shall be invited to, involved in and approve, any root cause analyses in connection with any defects. 
+
+Accordingly, in connection with any defects, the Parties shall - upon VESTAS request - gather a joint team the highest and first priority of which shall be without delay (i) to agree on immediate corrective action for the Product in the production process/service/operation (ii) analyse the root cause (iii) design, verify and agree on preventive actions for ongoing production and deliveries and (iv) design, verify and agree on permanent corrective action for Products in production process/service/operation. 
+
+Both Parties shall be entitled to hire an independent expert for further assessment of the cause of the defects, always subject to final arbitration proceedings, cf. clause 14 of this PA. Both Parties shall be obliged at own costs to fully cooperate and participate in connection with such potential independent investigations. 
+
+5.7 
+
+Remedial Action of Defects 
+
+If a Defect is discovered prior to incorporation of the Products into Blades SUPPLIER shall be obliged – at its own cost and expense to: 
+
+a) 
+
+Deliver a replacement Product in a volume equal to the defective Products 
+
+b) 
+
+Cover all transportation cost for delivery of such replacement Product 
+
+c) 
+
+Pay compensation for any production stoppage if the defect in terms of quantity is so substantial seen in conjunction also with the delivery time for replacement products as to cause a production stop. 
+
+If a Defect is discovered after incorporation of the Products into Blades SUPPLIER shall be obliged – at its own cost and expense to: 
+
+a) 
+
+Deliver a replacement Product in a volume equal to the defective Products 
+
+Page 16 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+b) 
+
+Cover all transportation cost for delivery of such replacement Product including where relevant transportation of a new Blade in replacement of such Blade where the Defect Products is incorporated as well as any cost related to replacement of the Blade, including for example crane cost. 
+
+c) 
+
+Cover any other Direct Documented Cost incurred 
+
+The Parties agree that defects discovered after incorporation of the Products into Blades can only be remedied by a full replacement of the relevant Blade/Blades in question. 
+
+6 
+
+Force Majeure 
+
+6.1 
+
+Definition and Consequences 
+
+Neither Party can be held responsible for non-fulfilment of the Agreement, provided this Party proves that this is caused by force majeure, including labour conflict involving other than ZOLTEK’ employees unless the involvement is due to national labour conflicts, fire, export and import prohibitions, unanticipated production stops caused by acts of God, currency restrictions or other obstructions beyond its control, which it could not reasonably have avoided or limited. 
+
+6.2 
+
+Notice 
+
+The Party who does not fulfil the Agreement because of force majeure is obligated without delay to inform in writing the other Party of the obstruction(s) and the implication of this for the fulfilment/performance of the Agreement. This Party is furthermore obligated loyally to co-operate in the limitation of the consequences in a force majeure situation. 
+
+6.3 
+
+Cancellation 
+
+In case the force majeure situation is not expected to be brought to a termination within six (6) months, the other Party is entitled to cancel this Agreement by written notice. 
+
+7 
+
+General Indemnification 
+
+7.1 
+
+Indemnification 
+
+Subject to limitations set out herein, either party (“Breaching Party”) shall indemnify and hold harmless the other party (“Other Party”) against and from (i) any breach, non-observance or non- 
+
+Page 17 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+performance by Breaching Party, its servants or agents of the provisions of this PA, and (ii) any claim, demand, proceeding, damage, cost, charge or expense due to or resulting from any negligence or breach of duty on the part of the Breaching Party, its servants or agents caused by or arising out of or in connection with the execution of this PA and/or underlying Contracts. 
+
+7.2 
+
+Indirect loss 
+
+Save as elsewhere stated in this PA, there shall be no liability for either Party towards the other Party for loss of production, loss of profit, loss of use, loss of contracts or for any consequential, financial or indirect loss whatsoever. 
+
+7.3 
+
+Limitation of liability 
+
+No exclusion or limitation of liability as set out in this PA (including in this clause 7), shall apply in the event of wilful misconduct, fraudulence or gross negligence. 
+
+No exclusion or limitation of liability as set out in this PA shall apply or have any validity in the event of any death or personal injury that is the result of the negligence of either Party or of someone for which such Party is responsible or in the event of third party claims in accordance with clause 9.2. 
+
+8 
+
+Confidentiality 
+
+8.1 
+
+Confidentiality 
+
+During the duration of this PA and after the termination of this PA both Parties must treat all technical documents and commercial information, which have been received from the other Party in accordance with this PA, in confidentiality. The Party who receives confidential information, is not permitted to copy the information, or disclose information to a third party or otherwise make use of the information apart from that necessary to fulfil this PA and/or agreements with VESTAS’ end-customers, or to have work carried out by SUPPLIER’s sub-suppliers after prior written approval by VESTAS. References are made to the enclosed Non-Disclosure Agreement, and/or other agreements referred to in this PA, if any, which agreements shall continue to have full effect. 
+
+8.2 
+
+Third Party 
+
+The contents of this present PA are confidential and must not be passed on to a third party during the validity of this PA or after the termination of this without mutual, written consent. This also applies to suppliers who are not affected by the PA, to the press and others. 
+
+Page 18 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+9 
+
+Public and Products Liability Insurance 
+
+9.1 
+
+Insurance 
+
+SUPPLIER shall maintain and keep in force adequate business and products liability insurance covering the Products and performances delivered to VESTAS. 
+
+The insurance is to be valid as long as the business co-operation continues and for a period of five (5) years hereafter. As proof of this VESTAS is entitled to demand an insurance certificate issued on name Coverage of injuries on persons or damages to property should be valid worldwide incl. USA and Canada at minimum USD 4,000,000 per injury/damage with an aggregate amount per year of no more that USD 10,000,000 and with deductibles not higher than USD 200,000. The insurance shall contain a provision stating that the insurance cannot be terminated without giving VESTAS a thirty (30) day notice containing an offer to continue coverage in respect of supplies to VESTAS either on the same terms and conditions as applicable for SUPPLIER or on terms and conditions otherwise agreed upon between VESTAS and SUPPLIER’s insurance company 
+
+Furthermore, the insurance should be expanded to cover the responsibility for damages on or losses concerning objects (incl. objects belonging to VESTAS), that SUPPLIER’s Products or performances are: 
+
+a) 
+
+made part of, mixed with or incorporated in, joint with, used for packing of or in any other way connected with, 
+
+b) 
+
+worked up with or used for working up of, 
+
+c) 
+
+used for production or working up of or any kind of handling of. 
+
+SUPPLIER’s liability is not limited to the sum insured. 
+
+9.2 
+
+Product Liability Claims 
+
+SUPPLIER shall assume full responsibility and liability for any product liability claims. SUPPLIER shall thus indemnify VESTAS and hold it harmless from and against all liability to third party for personal injury, property damage and other losses caused by defects in the Products delivered by SUPPLIER under this PA. 
+
+10 
+
+Research and Development and Intellectual Property Rights 
+
+10.1 
+
+Research and Development (R&D) obligations 
+
+The SUPPLIER acknowledges that it is a requirement of VESTAS that the SUPPLIER will participate in joint R&D projects to increase the value of the Product for VESTAS or to optimize VESTAS’ processes. 
+
+Page 19 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+The Parties agree to work for continuous improvement of the Product and/or jointly work on R&D projects relating to the Product, handling of the Product and application processes at VESTAS. The Parties will commit the resources necessary to implement the agreed projects. 
+
+Each Party can propose potential cost improvement projects and it is the Parties’ goal that such projects will be agreed each calendar year for the term of this PA. An agreed project is a project accepted by both Parties with a signed off business case. The business cases will be used to prioritize the agreed projects. 
+
+An agreed project is deemed completed when VESTAS’ releases an engineering change order for continuous production and SUPPLIER confirms its ability to support an agreed implementation schedule for such change. 
+
+Failure on the part of SUPPLIER to participate and support R&D projects will entitle VESTAS to terminate the PA in accordance with clause 11.2 in full or in part, [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]. 
+
+10.2 
+
+Intellectual Property Rights (IPR) 
+
+Any and all IPR furnished by either party to this PA (Owner) to the other party (Recipient) may not be used for pur­poses other than performance of this PA without specific written ap­proval of Owner. As between the Parties, Owner shall retain any IPR in and to the above-mentioned information furnished by Owner. Owner is the owner of this information and no ownership of any kind passes to Recipient by this PA. For the sake of clarity it is emphasized that VESTAS shall have full copyright to Technical Purchase Specifications, irrespective of SUPPLIER’s expected participation and responsibilities in the preparation and content hereof. 
+
+SUPPLIER will not use trademarks or trade names owned or used by the Vestas Group or pictures of installed WTG as reference in sales brochures, press releases, or any other material used for general promotion purposes, unless such material is reviewed and explicitly approved in writing by VESTAS prior to such use. 
+
+10.3 
+
+Product Development 
+
+As also further set out above the Parties foresee and mutually expect to be involved in relevant new product developments and Product upgrades. In this respect it is agreed that any future upgrade of existing Products will be effected under development programmes established under an individual Product Development Agreement (“PDA”). 
+
+With regard to R&D projects being successfully developed in cooperation between the Parties under an individual PDA it follows from the PDA that once a Release For Production certificate has been issued, confirming the successful development of a specific product and the release of such product for serial production, the individual PDA shall be considered as terminated with respect to such individual product. 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+Page 20 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+Irrespective hereof, the Parties agree that with respect to such mutually developed products, the provisions of the PDA relating to the division, protection, ownership and enforcement of intellectual property rights, agreed exclusivity, confidentiality undertakings and provisions relating to potential license rights granted to VESTAS (and/or any other entity within the Vestas Group) shall survive the termination of the PDA and thus continue in full force in connection with subsequent cooperation under this PA. 
+
+In this connection the Parties agree that any new IPR and/or Know-how relating to the processing of carbon fibres resulting directly from the collaboration between VESTAS and SUPPLIER shall be/remain the sole and exclusive property of the inventor of said IRP and Know-how. The other Party shall be granted a perpetual, non-assignable, world-wide, royalty free license with no power to grant sub-licenses except within each Party’s respective Group to utilize said IPR within its field of business. SUPPLIER however understands that VESTAS will not grant SUPPLIER a license to use its fully owned IPR and/or Know-how for SUPPLIER’s use in supplying direct or indirect competitors of VESTAS. 
+
+If the IPR is determined to be collaborative property, in other words a co-invention with co-inventors from both VESTAS and SUPPLIER, then the IPR shall be jointly owned in equal and undivided shares with each owner granting the other Party a perpetual, non-assignable, world-wide, royalty free license with no power to grant sub-licenses except within each Party’s respective Group to utilize said IPR . 
+
+New IPR is considered co-invented or co-developed when a Party cannot document that the other Party’s contribution to New IPR was insignificant. When assessing whether a Party's contribution was insignificant all contributions in written form can be considered significant, including emails, memoranda and minutes of meetings. If a Party’s contribution to New IPR was insignificant, such New IPR shall be considered as solely developed by the Party that created the New IPR. The Parties agree that New IPR and/or know how related to the Vestas Shimoda processes such shall be deemed to be solely invented by VESTAS who shall consequently be the exclusive owner thereof. VESTAS agrees to reasonably consider any request made by SUPPLIER for the licensing of such New IPR and/or Know-how to SUPPLIER. 
+
+For the avoidance of doubt, this clause shall not apply to any IPR developed by SUPPLIER independently of this collaboration. 
+
+10.4 
+
+Third Party Claims 
+
+SUPPLIER warrants that it owns all right, title and interest in, to and under all IPR concerning the Products and/or possesses valid, transferable, irrevocable, perpetual and world-wide licenses to relevant IPR owned by third parties entitling SUPPLIER and VESTAS to exploit such third party IPR in the Products, the production process or otherwise without limitation. 
+
+If a third party asserts a claim against VESTAS based on alleged infringement of an Intellectual Property Right by the Products, SUPPLIER shall indemnify VESTAS and hold VESTAS harmless from and against any liability in claims or costs awarded in any infringement suit or action against VESTAS and SUPPLIER shall be liable for any damage suffered by VESTAS due to the infringement. 
+
+Page 21 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+11 
+
+Validity and Termination of the PA 
+
+11.1 
+
+Term 
+
+Unless otherwise provided, this PA shall be valid until the earlier of (a) termination by either Party pursuant to Clause 11.2 below (b) by way of mutual agreement in writing, or (c) termination by either Party with sixty (60) months written notice. 
+
+[***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]. 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+Page 22 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+By means of example this means that if 
+
+[***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] 
+
+[***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]; 
+
+[***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] 
+
+([***] [***] [***] [***] [***] [***] [***] [***] [***] [***][***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]) 
+
+[***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] 
+
+[***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] 
+
+[***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]. 
+
+For the sake of good order it is stressed that for the volumes that either Party is continuously obliged to buy or deliver during any termination period the agreed prices set out herein shall continue to apply. It is however envisaged that the Parties will agree to re-negotiate the terms of this Agreement should either Party decide to invoke its right to terminate the obligation to buy or deliver [***] [***] [***] [***] [***]. 
+
+11.2 
+
+Termination 
+
+This PA can only be terminated as a result of a material breach of a material term of this PA which has not been remedied within thirty (30) days of receipt of notice from the other Party of such breach. 
+
+In addition to, and without prejudice to the generality of the rule immediately above, VESTAS may terminate the PA (i) if SUPPLIER suspends payment and/or a trustee or receiver is appointed by a court for all or a substantial portion of the assets of the Supplier, OR (ii) if SUPPLIER is wound up, files a voluntary petition in bankruptcy, is adjusted as bankruptcy and/or a court assumes jurisdiction of the assets of the SUPPLIER or its Affiliates under any relevant insolvency, OR (iii) a Change of Control situation occurs in accordance with clause 11.3 below OR (iv) in the event SUPPLIER does not comply with the QA, including but not limited to SUPPLIER not meeting the Quality Performance Targets as set out in the QA when finally agreed, OR (v) in the event SUPPLIER does not participate and/or support R&D projects as detailed in section 10.1. 
+
+11.3 
+
+Change of Control 
+
+Both Parties have stressed the importance of full and proper performance of this PA despite any Change of Control of either Party occurring during the term of this PA. The Parties have therefore agreed as follows; 
+
+A Party shall promptly report to the other Party any Change of Control in writing. 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+Page 23 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+Either Party shall on the sale of all or substantially all of its assets ensure that all rights and obligations hereunder are assigned in full to the buyer of any such assets, provided however that the ordinary rules on a creditor’s acceptance of a new debtor shall still apply. I.e. the buyer of all or substantially all assets belonging to a Party shall have an unconditional obligation but not a right to step into this PA. 
+
+If SUPPLIER experiences a Change a Control by a direct or indirect substantial competitor of VESTAS and such Change of Control may in the sole, reasonable opinion of VESTAS be detrimental to the existing and future business of VESTAS, VESTAS may then at its own option (i) terminate this PA immediately in full or in part or (ii) alternatively by giving twelve (12) months' written notice thereof at any time following such Change of Control irrespective of clause 11.1 and 11.2 above. If the latter option is chosen by VESTAS, supply and purchase of Products shall continue as agreed herein with the sole exception that VESTAS may at any time terminate this PA by giving a twelve (12) months written notice. 
+
+11.4 
+
+Consequences of Termination and Cancellation 
+
+The Parties are obligated to fulfil all orders, which have been placed before the termination becomes effective at the end of the termination period. Should the PA be terminated, all IPR, documents, test equipment, subsidiary material and the like, which belong to the Vestas Group, must promptly be returned to VESTAS. 
+
+Termination of the PA shall not have any effect on the obligations of SUPPLIER under existing Contracts or in relation to Clause 8 regarding confidentiality, Clause 9 regarding public and product liability, Clause 12 regarding disputes and applicable law or SUPPLIER’s obligations, including, but not limited to warranties and related covenants with regard to already delivered Products. It is expressly understood that such obligations shall survive the termination of this PA. 
+
+If termination or cancellation is initiated by VESTAS due to SUPPLIER’s failure to comply with the obligations and responsibilities set out in this PA and/or underlying Contracts, SUPPLIER shall indemnify and hold harmless VESTAS against and from any claim, demand, proceeding, damage, cost, charge or expense due to or resulting from any negligence or breach of duty on the part of SUPPLIER, his servants or agents caused by or arising out of or in connection with the execution of this PA and/or underlying Contracts. 
+
+11.5 
+
+Agreement Review 
+
+The Parties will as a minimum meet every three (3) years after the Effective Date to discuss and agree on amending any terms and conditions of this Agreement which may during such period have become obsolete or otherwise due for revision. The Parties are not as such obliged to make any changes to the Agreement but agree to dedicate high level resources to discuss if changes are needed. 
+
+Page 24 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+12 
+
+Disputes and Applicable Law 
+
+12.1 
+
+Disputes 
+
+All disputes arising in connection with this Agreement shall be finally settled under the Rules of Arbitration of the Danish Institute of Arbitration (Copenhagen Arbitration) in Copenhagen, Denmark by one or more arbitrators appointed in accordance with the said rules, supplemented as necessary by the procedural rules of Danish Law. 
+
+Irrespective hereof VESTAS shall not be prevented from giving third party notice to SUPPLIER if VESTAS is taken to court by a customer. 
+
+12.2 
+
+Applicable Law 
+
+This Agreement shall be construed and governed in accordance with Danish law; however, the United Nations Convention on Contracts for the International Sale of Goods from 11 April 1980 (CISG) shall not apply to this Agreement. 
+
+13 
+
+Miscellaneous 
+
+13.1 
+
+Headings 
+
+The headings in this PA are inserted for convenience of reference only and shall not affect the interpretation of this PA. 
+
+13.2 
+
+Assignment 
+
+This PA and/or any VESTAS’ order or any claim relating to or resulting from such documents cannot be assigned, sold, transferred or pledged by SUPPLIER in any way without prior written consent from VESTAS in each and every instance. 
+
+13.3 
+
+Replacement Terms 
+
+In case this PA or any part thereof is declared invalid or unenforceable by any legitimated authority, the remainder of the PA shall continue on unchanged terms and conditions, and the Parties shall agree on replacement terms, which to the extent possible shall express the initial intention of the Parties. 
+
+Page 25 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+13.4 
+
+Annual Report 
+
+Once a year, SUPPLIER shall submit its annual report including financial figures to VESTAS. The report must be endorsed. 
+
+13.5 
+
+No Waiver 
+
+A Party's failure to enforce any of the provisions of this PA or any rights with respect thereto or failure to exercise any election provided for herein shall in no way be considered a waiver of such provisions, rights or elections or in any way to affect the validity of this PA. A Party's waiver or failure to enforce any of said provisions, rights or elections in any one instance shall not preclude or prejudice such Party from later enforcing or exercising the same or any other provisions, rights or elections which it may have under this PA in other instances. 
+
+13.6 
+
+Correspondence 
+
+All correspondence between the Parties concerning this PA must be in English. 
+
+14 
+
+Signatures 
+
+14.1 
+
+Validation 
+
+This PA is not valid unless signed by two persons from both Parties. 
+
+14.2 
+
+Signature 
+
+This PA is hereby accepted and comes into force immediately with respect to delivery of Products which takes place after 1 January 2012. 
+
+Lem, 
+
+St. Louis 
+
+/s/ Ole Preben Borup Jakobsen 
+
+/s/ Zsolt Rumy 
+
+Name Ole Preben Borup Jakobsen 
+
+Position President 
+
+Name Zsolt Rumy 
+
+Position Chairman and CEO 
+
+Vestas Blades A/S 
+
+Zoltek Companies Inc. 
+
+Page 26 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+/s/ Lars Naur 
+
+/s/ Philip L. Shell 
+
+Name Lars Naur 
+
+Position VP Sourcing & Procurement 
+
+Name Philip L. Shell 
+
+Position VP Marketing & Sales 
+
+Vestas Blades A/S 
+
+Zoltek Companies Inc. 
+
+Page 27 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+SCHEDULE 1 DEFINITIONS 
+
+ACN means Acrylonitrile CAS 107-13-l; UN l093, which is the mail raw material used in the production of carbon fiber. Synonyms include AN, cyanoethylene, propenenitrile, VCN, vinyl cyanide, carbacryl, fumigain, and ventox. 
+
+Affiliate means any legal entity/Person controlling, being controlled by or under common control with either VESTAS or SUPPLIER respectively. As used in this definition, “controlling” means (i) with respect to a Person that is a company or corporation, the ownership, directly or indirectly through one or more intermediaries, of more than 50% of the voting rights attributable to the shares of capital stock of that company or corporation and more than 50% of all capital stock of that company or corporation; and (ii) with respect to a Person that is not a company or corporation, the ownership, directly or indirectly, of more than 50% of the equity capital of that Person and the power to direct or cause the direction of the management and policies of the Person. 
+
+Agreement means this Purchase Agreement including all Schedules, Appendixes and Exhibits. 
+
+Blade means a blade installed on the rotor of a WTG. 
+
+Change of Control means the acquisition by any person or group with a beneficial ownership or power to vote of more than fifty (50) percent of the outstanding capital stock of SUPPLIER or an Affiliate of SUPPLIER or the acquisition by any person or group of substantially all the assets of SUPPLIER. 
+
+CISG means the United Nations convention on Contracts for the International Sale of Goods dated April 1980 as updated from time to time. 
+
+[***] [***] shall be defined in accordance with Appendix A. 
+
+Contract means unless otherwise set out in clause 3 of the Agreement an order and an order confirmation for a specific purchase of Products. 
+
+[***] means [***] [***] [***] in accordance with Incoterms 2010. 
+
+[***] means [***] [***] [***] in accordance with Incoterms 2010. 
+
+[***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]. 
+
+ECB means the European Central Bank 
+
+Effective Date shall mean the date set out in Recital H. 
+
+EURIBOR means the European Interbank Offered Rate. 
+
+Force Majeure shall be defined in clause 8 of the Agreement. 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+Page 28 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+IEC WT 01 means the International Electrotechnical Commission System for Conformity Testing and Certification of Wind Turbines in effect at any time during the term of this PA. 
+
+IPR or Intellectual Property Rights include, but are not limited to include, ownership rights, patents, copyrights, rights of use or distribution, design rights, rights to technical documentation including the Manufacturing Documentation, descriptions, drawings and rights to confidential Information and know-how. 
+
+Major Risk shall have the meaning assigned to it in Appendix E. 
+
+MSDS means Material Safety Data Sheets. 
+
+NDA means the Non-Disclosure Agreement attached as Appendix F to this Agreement. 
+
+PA means this Purchase Agreement including all Schedules, Appendixes and Exhibits. 
+
+PAN means polyacrylonitrile. 
+
+Party means VESTAS or SUPPLIER respectively, jointly referred to as the Parties. 
+
+Previous Agreements means the Trade Agreement signed 6 November 2004 and the Second Trade Agreement signed 29 May 2007. 
+
+Product Development Agreement (PDA) means an agreement which in future may be entered into by the Parties in relation to specific development projects as further set out in clause 10.2 of the Agreement. 
+
+Products shall have the meaning ascribed to this term in Recital D. 
+
+Purchase Price means the total price for a specific order exclusive of VAT. 
+
+Product Documentation includes, without limitation such specifications, documents, drawings and manuals to be supplied together with the Product. 
+
+Products are defined as the products manufactured and delivered by SUPPLIER and listed in Appendix A meaning both new products and components for repair (the Products). Appendix A will be continuously updated by mutual agreement and new products will hence be considered as part of this PA. 
+
+“Quality Agreement” (“QA”) means the Quality Agreement to be entered into by the Parties during Q1 2012 substantially in the form set out as Appendix G. 
+
+"Quality Performance Targets" means the quality targets set out in the QA. 
+
+Responsible Supplier Management Initiative (RSM) shall have the meaning assigned to this term in clause 4 and in Appendix E. 
+
+Page 29 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+Subsidiary means a company, where Vestas Wind Systems A/S or VESTAS on the Vestas-side or SUPPLIER on its side is holding more than 50% of the voting shares of such company or of one that such respective company is in a position to control. 
+
+SUPPLIER means Zoltek Companies Inc. including all Affiliates and Subsidiaries. 
+
+Supply Capacity means the supply commitment by SUPPLIER at all times to have sufficient capacity to manufacture Products as agreed according to Appendix C. 
+
+Transferred Know-how is defined as all knowledge, drawings, documents, part lists, prototypes, software specifications and skills no matter form or media to be transferred by VESTAS to SUPPLIER enabling SUPPLIER to manufacture the Products. 
+
+Transferred Technology is defined as all machinery and tools to be delivered by VESTAS to SUPPLIER enabling SUPPLIER to manufacture the Products. 
+
+Technical Purchase Specification or TPS means the final and detailed product specifications –attached as Appendix B to this Agreement as updated from time to time. 
+
+VESTAS means Vestas Blades A/S and all other companies within the Vestas Group. 
+
+Vestas Group includes Vestas Wind Systems A/S, its Subsidiaries and Affiliates and their subsidiaries and affiliates in existence at any time. 
+
+WTG means Wind Turbine Generators. 
+
+Page 30 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+Appendix A Products, Prices and Lead-times 
+
+Products 
+
+Vestas item number 096497, delivered according to the TPS in Appendix B as updated from time to time. 
+
+Prices 
+
+It’s agreed to follow the prizing model as described in the table below 
+
+Price concepts 
+
+[***] [***] [***] (incoterms 2010) [***] [***] [***] [***] [***] [***] 
+
+[***] [***] 
+
+· 
+
+[***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] 
+
+· 
+
+[***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] 
+
+· 
+
+[***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] 
+
+· 
+
+Agreed [***] prices: 
+
+[***] [***] 
+
+Year 
+
+EUR/kg 
+
+USD/kg 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] [***] [***] 
+
+[***] 
+
+[***] 
+
+[***] [***] 
+
+· 
+
+[***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] 
+
+a. 
+
+[***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] 
+
+· 
+
+[***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] 
+
+· 
+
+[***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] 
+
+· 
+
+[***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] 
+
+a. 
+
+[***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+Page 31 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+b. 
+
+[***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] 
+
+c. 
+
+[***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***][***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] 
+
+d. 
+
+[***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] 
+
+Table 1 Calculation of [***] [***] [***] [***] [***] [***] [***] [***] 
+
+[***] 
+
+[***] [***] [***] [***] [***] 
+
+[***] [***] [***] [***] 
+
+Start of calculation interval 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***][***][***][***][***][***] 
+
+[***] 
+
+[***] [***] [***] [***] [***] [***] 
+
+[***] [***] [***] [***] 
+
+Report Date 
+
+Low (USD) 
+
+High (USD) 
+
+Average (USD) 
+
+Average (EUR) 
+
+USD 
+
+EUR 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+Table 2 [***] [***] [***] [***] [***] [***] [***] [***] 
+
+[***] [***] [***] 
+
+[***] [***] [***] [***] [***] 
+
+[***] [***] [***] 
+
+[***] [***] 
+
+[***] [***] 
+
+From 
+
+To 
+
+USD/MT 
+
+EUR/MT 
+
+USD 
+
+EUR 
+
+USD 
+
+EUR 
+
+USD 
+
+EUR 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+Other price concepts 
+
+[***] (incoterms 2010) price reductions 
+
+If VESTAS in partly or in fully wishes to change the delivery terms from [***] (incoterms 2010) to [***] (incoterms 2010) from SUPPLIERS [***] stock, then the following figures will be deducted from the [***] (incoterms 2010) [***] [***] 
+
+Table 3 Deduction in [***] (incoterms 2010) conversion price to go to [***] (incoterms 2010) [***] [***] 
+
+Destination and transport cost 
+
+transport costs 
+
+Transport load in kg per truck 
+
+Cost per kg to be deducted from the [***] (incoterms 2010) [***] [***] 
+
+Hungary to Spain: Euros [***] 
+
+EUR 
+
+[***] 
+
+[***] 
+[***] 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+Page 32 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+Hungary to Lem: Euros [***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+Hungary to Germany: Euros [***] 
+
+EUR 
+
+[***] 
+
+[***] 
+
+[***] 
+
+Hungary to Italy: Euros [***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+Mexico to China: $ [***] 
+
+USD 
+
+[***] 
+
+[***] 
+
+[***] 
+
+Mexico to Colorado: approx. $ [***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+Abilene to Colorado: $ [***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+Duties 
+
+Even though the SUPPLIER is delivering [***] (incoterms 2010) he has the obligation to always secure the lowest possible [***] (incoterms 2010) costs for VESTAS in the deliveries. 
+
+Transport 
+
+Cost for Transport is included as part of the [***] [***] and as such in the [***] [***] (Incoterms 2010) price, see also clause 3.1.1 of the PA. SUPPLIER is obligated at any given time to disclose their costs for transport for all VESTAS’ appointed places of delivery. 
+
+To minimize carbon footprint and minimize SUPPLIER’s cost of transport it is agreed to base continued deliveries on a principle of filling up the trucks/containers, thus minimizing the delivery costs. Below table specifies the minimum order, multiple and maximum quantities per purchase order: 
+
+From 
+
+To 
+
+Minimum 
+
+Order Quantity 
+
+Multiple 
+
+Order Quantity 
+
+Maximum 
+
+Order Quantity 
+
+Hun 
+
+[***] 
+
+[***] [***] 
+
+[***] [***] 
+
+[***] [***] 
+
+Hun 
+
+[***] 
+
+[***] [***] 
+
+[***] [***] 
+
+[***] [***] 
+
+Hun 
+
+[***] 
+
+[***] [***] 
+
+[***] [***] 
+
+[***] [***] 
+
+Hun 
+
+[***] 
+
+[***] [***] 
+
+[***] [***] 
+
+[***] [***] 
+
+Abl 
+
+[***] 
+
+[***] [***] 
+
+[***] [***] 
+
+[***] [***] 
+
+Mex 
+
+[***] 
+
+[***] [***] 
+
+[***] [***] 
+
+[***] [***] 
+
+Mex 
+
+[***] 
+
+[***] [***] 
+
+[***] [***] 
+
+[***] [***] 
+
+SUPPLIER understands and accepts that VESTAS in special cases can have specific need for lower order sizes and hereby deviate from the principle of filling up trucks/containers. A non-exhaustive list of examples could be start-up or restart of VESTAS’ production factories, sampling batches, changes in warehouse organizing etc. The timeline for a special case period is not to exceed four (4) months. The Parties will split the extra cost per kg. delivered carbon resulting from smaller order sizes. 
+
+Lead-times 
+
+SUPPLIER will deliver supplies to VESTAS out of the agreed Safety Stocks set out in Appendix C after a “First-in-first-out” (FIFO) principle. 
+
+Lead times has been agreed to follow the formula: Order confirmation time + transport time 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+Page 33 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+Table 4 Leadtime scheme: Maximum Time to Deliver* 
+
+From: location of Safety Stock 
+
+To: Vestas sites 
+
+Order confirmation time (in weekdays) 
+
+Delivery time (in working days) 
+
+Total delivery time to factory (in week days 
+
+[***] 
+
+[***] [***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] [***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] [***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] [***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] [***] 
+
+[***] [***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] [***] 
+
+[***] [***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] [***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] [***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] [***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+[***] [***] [***] 
+
+[***] 
+
+[***] 
+
+[***] 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+Page 34 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+Appendix B Technical Purchase Specifications 
+
+*** Appendix B, which consists of ten pages, has been omitted in its entirety and filed separately with the Commission. Confidential treatment has been requested with respect to Appendix B.. 
+
+Page 35 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+*** Appendix B, which consists of ten pages, has been omitted in its entirety and filed separately with the Commission. Confidential treatment has been requested with respect to Appendix B.. 
+
+Page 36 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+*** Appendix B, which consists of ten pages, has been omitted in its entirety and filed separately with the Commission. Confidential treatment has been requested with respect to Appendix B.. 
+
+Page 37 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+*** Appendix B, which consists of ten pages, has been omitted in its entirety and filed separately with the Commission. Confidential treatment has been requested with respect to Appendix B.. 
+
+Page 38 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+*** Appendix B, which consists of ten pages, has been omitted in its entirety and filed separately with the Commission. Confidential treatment has been requested with respect to Appendix B.. 
+
+Page 39 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+*** Appendix B, which consists of ten pages, has been omitted in its entirety and filed separately with the Commission. Confidential treatment has been requested with respect to Appendix B.. 
+
+Page 40 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+*** Appendix B, which consists of ten pages, has been omitted in its entirety and filed separately with the Commission. Confidential treatment has been requested with respect to Appendix B.. 
+
+Page 41 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+*** Appendix B, which consists of ten pages, has been omitted in its entirety and filed separately with the Commission. Confidential treatment has been requested with respect to Appendix B.. 
+
+Page 42 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+*** Appendix B, which consists of ten pages, has been omitted in its entirety and filed separately with the Commission. Confidential treatment has been requested with respect to Appendix B.. 
+
+Page 43 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+*** Appendix B, which consists of ten pages, has been omitted in its entirety and filed separately with the Commission. Confidential treatment has been requested with respect to Appendix B.. 
+
+Page 44 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+Appendix C Supply Capacity 
+
+Introduction – [***] [***] [***] 
+
+SUPPLIER’s [***] [***] [***] [***] [***] [***] to VESTAS in this Agreement means that VESTAS will [***] [***] [***] [***] [***] [***] [***] [***] [***] subject to the exceptions set out in the PA including but not limited to clauses 1.3, 3.7 and 11.1. 
+
+SUPPLIER’s [***] [***] [***] [***] [***] does not oblige VESTAS to buy any Products from SUPPLIER [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] (subject to the above mentioned exceptions). 
+
+General SUPPLIER Warranties re. Capacity 
+
+Given SUPPLIER’s [***] [***] [***] [***] [***] [***] to VESTAS, VESTAS will need strong and firm commitments from SUPPLIER ensuring that SUPPLIER will at all times and without delay be able to meet VESTAS demands for Products. 
+
+SUPPLIER thus warrants that it at all times has and will continue to have enough capacity to manufacture and deliver Products to VESTAS according to the Supply Capacity as further defined below. This includes an obligation to not enter into binding commitments towards other customers which may in any way endanger SUPPLIER’s deliveries to VESTAS. 
+
+Should SUPPLIER fail to live up to its commitments and warranties set out herein, VESTAS may, without any prejudice to any other rights available to VESTAS under the PA, this Appendix C and/or applicable law chose to terminate the PA in part or in full, including by terminating SUPPLIER’s [***] [***] [***] [***] [***] [***] in full or in part. 
+
+Any delay in delivery, including any failure by SUPPLIER to deliver such quantities as are ordered by VESTAS in accordance with a valid Supply Capacity but not confirmed by SUPPLIER cf. below and section 3.4.1of the PA and will be dealt with under clause 3.7 of the PA. 
+
+Forecasting and supply commitment (0-12 months) 
+
+VESTAS will on a monthly basis release a new non-binding 12-month rolling forecast illustrating VESTAS’ forecasted Product needs to the SUPPLIER. The forecast will by VESTAS be split into regional areas (US, Europe and China) and shown on factory level. The newest Vestas released 12-month non-binding rolling forecast will be referred to as the Supply Capacity. 
+
+Limitations on SUPPLIER’s obligation to manufacture and deliver Products to VESTAS according to the Supply Capacity: 
+
+o 
+
+Within a one to twenty-six (1-26) week horizon on the Supply Capacity the SUPPLIER is obligated to meet any upward fluctuations in the Supply Capacity not exceeding the Supply Capacity + five percent (5 %). 
+
+o 
+
+Within a twenty-seven to fifty-two (27-52) week horizon on the Supply Capacity the SUPPLIER is obligated to meet any upward fluctuations in the Supply Capacity not exceeding the Supply Capacity + fifteen percent (15 %). 
+
+SUPPLIER further commits to using its best possible endeavours to at all times manufacture and deliver Products also in quantities exceeding the Supply Capacity and it’s limitations as set out in the above. 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+Page 45 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+Nothing set out herein changes that fact that VESTAS at all times shall be obliged only to order in accordance with its actual demand. Downward fluctuation may thus happen as long as VESTAS meets its obligation to source [***] [***] [***] [***] [***] for Products from SUPPLIER subject to the exceptions set out in the PA including but not limited to clauses 1.3, 3.7 and 11.1. 
+
+Any orders issued by VESTAS within a valid Supply Capacity will be binding on SUPPLIER cf. also clause 3.3 according to which SUPPLIER has an unconditional obligation to confirm orders placed within such Supply Capacity. Thus, an order issued within a valid Supply Capacity will thus be considered a formal Contract, despite SUPPLIER’s failure to issue an order confirmation, and any late delivery will be subject to payment of LD’s for late delivery in accordance with clause 3.7 as if a formal Contract was entered into. 
+
+Notwithstanding anything set out above, the Parties however agree that order confirmations should always be issued, also for orders placed within a valid Supply Capacity. 
+
+[***] [***] [***] 
+
+[***] [***] [***] [***] [***] [***] [***] [***] [***] [***][***] [***] [***] [***] [***] [***] [***] [***] [***] [***][***] [***] [***] [***] [***] [***] [***] [***] [***] [***][***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]. 
+
+In case VESTAS is planning to make significant changes to [***] [***] [***] whereby this is increased by more than [***] [***] [***] [***] VESTAS must notify SUPPLIER thereof. 
+
+Upon receipt of such notice SUPPLIER has one-and-a-half (1½) years to secure SUPPLIER’s ability to honour VESTAS’ changes in Supply Capacity following such change in [***] [***]. The SUPPLIER is also obligated to meet the demands for [***] [***] [***] [***] [***] [***] as described in section 1.3 of the PA and the [***] [***] [***] [***] in this appendix C. 
+
+Any failure by SUPPLIER to meet VESTAS current or future [***] [***] demand as set forth herein shall without any prejudice to any other rights available to VESTAS under the PA, this Appendix C and/or applicable law entitle VESTAS to terminate the PA in part or in full, including by terminating SUPPLIER’s [***] [***] [***] [***] [***] [***] in full or in part. 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+Page 46 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+[***] [***] [***] [***] 
+
+SUPPLIER is at any time obligated to hold a safety stock of Products at a minimum inventory level of [***] [***] [***] [***] of VESTAS most recent Supply Capacity (“Safety Stock”). 
+
+[***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]. 
+
+The Safety Stocks must be exclusively reserved for VESTAS and may not be used for any other purpose by the SUPPLIER. SUPPLIER must on a monthly basis account for the stock levels [***] [***] [***] [***]. The information must on a monthly basis be communicated in writing to the responsible Category Manager at VESTAS (see appendix D). The Safety Stock(s) must be clearly marked as VESTAS committed stocks and SUPPLIER accepts that this can and will be subject to announced as well as unannounced inspection by VESTAS. 
+
+The Safety Stocks must be organized by SUPPLIER after the “First-in-first-out” (FIFO) principle. Any Products withdrawn from the Safety Stocks for delivery to VESTAS must be immediately re-stocked. 
+
+The SUPPIER is obligated to [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]. The new Safety Stock must be located [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]. The SUPPLIER has one (1½) year from the day of VESTAS giving [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***] [***]. 
+
+Any failure by SUPPLIER to establish and maintain the above [***] Safety Stocks shall without any prejudice to any other rights available to VESTAS under the PA, this Appendix C and/or applicable law entitle VESTAS to terminate the PA in part or in full, including by terminating SUPPLIER’s [***] [***] [***] [***] [***] [***] in full or in part. 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+Page 47 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+Appendix D Contact Diagram 
+
+Area 
+
+VESTAS 
+
+SUPPLIER 
+
+Strategic 
+
+Nikolaj Cederquist 
+
+D +45 9730 4866 
+
+M +45 4116 2738 
+
+niced@vestas.com 
+
+Philip Schell 
+
+R&D 
+
+Dr. Ian Stewart 
+
+D +441983201467 
+
+M +44 7918630839 
+
+iaste@vestas.com 
+
+Dr. Attila Lazar 
+
++36 33 53 6022 
+
+alazar@zoltek.hu 
+
+Quality 
+
+Tanya Sørensen 
+
+D +45 9730 3523 
+
+M +45 2514 6155 
+
+tasor@vestas.com 
+
+Istvan Kinter 
+
++ 36 33 53 6146 
+
+Page 48 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+Appendix E – Sustainability 
+
+The requirements in this Appendix are based on the ten principles from the UN Global Compact, of which VESTAS is a signatory. 
+
+The requirements set out below are incorporated into this Agreement in order to make VESTAS’ commitment to respecting and promoting the international standards set forth in e.g. international human rights, labour and anti-corruption conventions and promoted through global multilateral initiatives such as the United Nations Global Compact, an integrated part of VESTAS’ purchasing policies. 
+
+1. RSM 
+
+Definition of RSM: 
+
+VESTAS is committed to adhering to national legislation and universally recognized standards which includes respect for health and safety, the environment, human rights, labour rights and anti-corruption and anti-bribery. Through a combination of requirements, advice and guidance in the above fields VESTAS seeks to influence and increase awareness of these standards among our supplier’s. We call this initiative ‘Responsible Supplier Management’. 
+
+The ‘Responsible Supplier Management’ initiative is about integrating health, safety, environmental and human rights and anti-corruption considerations into purchasing decisions with the aim of ensuring that not only VESTAS' production, but the whole product and the preparation thereof, is sustainable in the broadest sense. This means that when selecting and approving new or existing suppliers VESTAS will take reasonable steps that enables us to become aware of, prevent, address and develop suppliers that are facing challenges implementing our requirements. 
+
+The VESTAS Responsible Supplier Management approach is to work with suppliers to remediate any violation to the requirements set forth below and endeavour to limit exit to circumstances when a supplier is unwilling to remediate or does not have the capability to remediate. 
+
+2. Compliance with Laws 
+
+Supplementary to the provisions set out in the PA on applicable laws SUPPLIER must comply with relevant international conventions and all applicable national and/or local laws and regulations related to the RSM, including but not limited to those related to human rights and labour, immigration, health and safety and the environment in the jurisdictions where SUPPLIER produces such Products as are delivered to VESTAS as well as in the country(ies) from which they are sold. 
+
+3. Health and Safety 
+
+Health and Safety are key within VESTAS and SUPPLIER is expected to give issues regarding health and safety the highest priority. 
+
+Page 49 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+SUPPLIER must provide workers with a safe and healthy work environment and, where applicable, safe and healthy residential facilities. SUPPLIER must take proactive measures to prevent workplace hazards. 
+
+4. Environment, Materials and Chemicals 
+
+SUPPLIER is obligated to ensure that materials and chemicals used in Products or services delivered to VESTAS at any point in time fulfil the requirements stated in the Chemical and Material Blacklist set out in the attached Exhibit 1 to this Appendix E. The Chemical and Material Blacklist list chemicals that are either prohibited or restricted. 
+
+Chemicals and materials prohibited by applicable law or set out in the Chemical and Material Blacklist must not be present in Products or services sold to VESTAS. 
+
+Chemicals and materials that are restricted in the Chemical and Material Blacklist can only be present in products or services sold to Vestas to the extent phase out plans are in place. 
+
+The continuous updated Chemical and Material Blacklist can be found on “ http://www.vestas.com/en/about-vestas/sustainability/suppliers.aspx ”. 
+
+Chemicals supplied to VESTAS must be delivered with Material Safety Data Sheets (MSDS) in local language. Updates of MSDS must be sent to VESTAS. 
+
+SUPPLIER must identify and manage chemicals and other materials posing a hazard to workers and the community if released into the environment and must ensure safe handling, movement, storage, recycling or reuse, and disposal of such materials. SUPPLIER shall work to prevent accidental releases of hazardous materials and adverse environmental impacts on the local community. 
+
+SUPPLIER must monitor wastewater and solid waste generated from operations, processes and sanitation facilities and control and treat such substances in accordance with applicable law and in an environment friendly way, prior to discharge or disposal. 
+
+SUPPLIER is expected to categorize, monitor, control and treat air emissions, as required by applicable law, prior to discharge. 
+
+SUPPLIER must promote the development of an environmentally responsible behaviour. 
+
+5. Child Labour and Voluntary Labour 
+
+All labour must be voluntary. Child labour and forced, bonded, or involuntary prison labour must be abolished. 
+
+6. Hiring and Employment Practices 
+
+SUPPLIER must implement hiring practices that accurately verify that the relevant workers have the legal right to work in the country in question as well as meet applicable age requirements prior to employment. All terms and conditions of employment including, but not limited to, hiring, pay, 
+
+Page 50 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+promotion, termination, and retirement must be based on an individual’s ability and willingness to do the job.
+
+7. Freedom of Association and Collective Bargaining 
+
+SUPPLIER must respect the right of workers to choose whether to lawfully and peacefully form or join trade unions of their choosing and to bargain collectively in accordance with applicable law or practice of the country in which SUPPLIER operates. 
+
+8. Anti-Corruption and anti-Bribery 
+
+SUPPLIER shall not, and shall ensure that its employees, directors, agents or anyone acting on its behalf shall not, offer, promise or request or accept any undue advantage, whether directly or indirectly to or from (i) a public official, (ii) a political candidate, party or party official or (iii) any private sector employee (including a person who directs or works for a private sector enterprise in any capacity), in order to influence public official action, or to obtain, retain or direct business or to secure any other improper advantage in the conduct of business. 
+
+SUPPLIER shall comply with any anti-corruption laws in the country in which it carries out business or provides goods or services to VESTAS, including but not limited to compliance with the US Foreign Corrupt Practices and the English anti-corruption legislation wherever these are applicable. 
+
+SUPPLIER confirms that it has on the Effective Date of the PA or will have within reasonable time of the Effective Date of the PA implemented an effective program to counter bribery that includes code of ethics, policies and procedures, training, guidance and oversight. 
+
+9. Gifts and Entertainment 
+
+SUPPLIER shall not offer, directly or indirectly, gifts to VESTAS employees or representatives or anyone closely related to such persons except for promotional items of minimal value. Any gifts provided by SUPPLIER to VESTAS employees or representatives or anyone closely related to such persons shall always be provided in full compliance with VESTAS’ Gifts and Entertainment Policy as set out in the Vestas Code of Conduct which can be found on “www.vestas.com/en/about-vestas/sustainability/code-of-conduct”. 
+
+Hospitality such as social events, meals or entertainment may be offered if there is a clear business reason, but the costs must be kept within reasonable limits. Any travel and accommodation and other expenses linked to a hospitality event for the individuals representing VESTAS will ordinarily be paid by VESTAS and only by SUPPLIER if in full compliance with VESTAS’ Gifts and Entertainment Policy as set out in the VESTAS Code of Conduct. 
+
+The following hospitality, expenses, gifts or other favours may never be offered by the SUPPLIER: 
+
+· 
+
+Anything that would be illegal; 
+
+· 
+
+Gifts or entertainment involving parties engaged in a tender or competitive bidding process; 
+
+· 
+
+Any gift of cash or a cash equivalent; 
+
+· 
+
+Any gift or entertainment that is offered for something in return; 
+
+Page 51 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+· 
+
+Any entertainment that is potentially offensive, sexually oriented, discriminatory or otherwise conflicts with VESTAS’ values and which might harm VESTAS’ reputation 
+
+Further, SUPPLIER will not offer or give any gift or political contribution to or entertain any public official on behalf of VESTAS without the prior written approval of VESTAS. 
+
+10. Standards towards SUPPLIERS own suppliers 
+
+SUPPLIER shall promote the implementation of the above principles or substantially similar principles towards SUPPLIER’s sub-tier suppliers. 
+
+Major Risk Issues shall be defined as deviations to the above principles which result in severe impact to individual rights, life, safety and/or VESTAS’ reputation including but not limited to: 
+
+· 
+
+Systematic health and safety risk leading to fatality or disability 
+
+· 
+
+Prohibited chemicals and materials are present in Products or services delivered to VESTAS 
+
+· 
+
+Actual accident(s) or a high risk of environmental accident that affects human safety, local community or the environment to a noticeable extent 
+
+· 
+
+Waste is not managed and there is a risk of polluting the surroundings and the recipient environment 
+
+· 
+
+Employees performing involuntary work 
+
+· 
+
+Employees below the age of 15 (or higher local minimum age) 
+
+· 
+
+Systematic physical abuse in the company 
+
+· 
+
+SUPPLIER’s breach of clauses 8 or 9 in this Appendix. 
+
+Page 52 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+Exhibit 1 to Appendix E – Chemical and Material Blacklist 
+
+Chemical and Material Blacklist 
+
+Vestas System Instruction 
+
+Document number: 
+
+INS <01.12.01> 
+
+Writer: 
+
+<MEMOG> 
+
+Valid from: 
+
+2008-09-01 
+
+Rev.:<02> 
+
+Chemical and Material Blacklist 
+
+Limitations of the use of certain chemical compounds at Vestas Wind Systems A/S 
+
+(Chemical and Material Blacklist) 
+
+Purpose: 
+
+The purpose of this document is to avoid the use of substances, which cannot be legally applied at Vestas Wind Systems A/S or to avoid the use of undesirable substances that are constituents of the company's products. Furthermore, it is meant to ensure that undesirable substances will not be applied unless they have been thoroughly considered. 
+
+Responsibility: 
+
+Any person who introduces a new product to Vestas Wind Systems A/S is responsible for examining if the product contains one or several of the chemical compounds on the Chemical and Material Blacklist. 
+
+The inventory is divided in two: 
+
+1. 
+
+List of chemical compounds, which are not to be used at Vestas Wind Systems A/S. 
+
+2. 
+
+List of chemical compounds, which are only to be used to a limited extent at Vestas Wind Systems A/S. 
+
+Page 53 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+1. 
+
+Chemical compounds, which are not to be used at Vestas Wind Systems A/S 
+
+Below list shows which chemical compounds are 
+
+- 
+
+banned according to national or international legislation 
+
+- 
+
+decided as not wanted by the management at Vestas Wind Systems A/S 
+
+New products containing one or several of the chemical compounds from below list must not be applied at Vestas Wind Systems A/S. 
+
+If one of the listed chemical compounds is used in the production, a plan for termination of use of the product must be prepared. The plan must contain a date of the final termination. 
+
+The prohibition applies to any calculated use of the chemical compounds on the list. However, the prohibition does not apply in cases where the chemical compounds occur as impurities in an applied product, i.e. undesirable occurrence in very small amounts. 
+
+Any person who introduces a new product at Vestas Wind Systems A/S is responsible for checking if the product contains one or several of the chemical compounds represented on the list. 
+
+Group 
+
+Substance 
+
+CAS-no. 
+
+Toxicity classification 
+
+Examples of use 
+
+Remarks 1 / reference 
+
+Poly-chlorinated biphenyl 
+
+Polychlorinated triphenyl 
+
+PCB 
+
+PCT 
+
+1336-36-3 
+
+12642-23-8 
+
+Xn; N 
+
+Condensator, transformer, substances in paint, sealing and plastic. 
+
+B/3/4/5 
+
+Chloroform 
+
+67-66-3 
+
+Xn; Xi; Carc3 
+
+Solvent 
+
+B/3 
+
+Tetrachloromethane 
+
+56-23-5 
+
+T; Carc3; N 
+
+Solvent 
+
+B/3/6 
+
+1,1,1-trichloroethane 
+
+71-55-6 
+
+Xn; N 
+
+Solvent 
+
+B/3/16 
+
+1,1,2-trichloroethane 
+
+79-00-5 
+
+Xn 
+
+Solvent 
+
+B/3 
+
+Chlorinated compounds 
+
+1,1,1,2-tetrachloroethane 
+
+630-20-6 
+
+Solvent 
+
+B/3 
+
+1,1,2,2-tetrachloroethane 
+
+79-34-5 
+
+Tx; N 
+
+Solvent 
+
+B/3 
+
+Pentachloroethane 
+
+76-01-7 
+
+Carc3; T; N 
+
+Solvent 
+
+B/3 
+
+1,1-dichloroethylene 
+
+75-35-4 
+
+Fx; Xn 
+
+Solvent 
+
+B/3 
+
+Hexachlorethan 
+
+67-72-1 
+
+Xn; N 
+
+Solvent for removal of impurities from molten metals, recovering metals from ores or smelting products, and improving the quality of various metals and alloys 
+
+B/3 
+
+1 B- Use banned
+
+Page 54 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+Alkanes, C10-C13, chloro 
+
+(short-chain chlorinated paraffins) 
+
+(SCCPs) for processing of metals 
+
+85535-84-8 
+
+Xn; N 
+
+Processing of metals i.e. lubricants and additives 
+
+B/3 
+
+Monomethyl-tetrachlorodiphenylmethan 
+
+76253-60-6 
+
+N 
+
+Dielectric fluid in capacitors, transformers and hydraulic fuel. 
+
+B/3 
+
+Monomethyl-dichloro-diphenyl methane 
+
+Unknown 
+
+N 
+
+Dielectric fluid in capacitors, transformers and hydraulic fuel. 
+
+B/3 
+
+Monomethyl-dibromo-diphenyl 
+
+Methane (DBBT) 
+
+99688-47-8 
+
+Xn; N 
+
+Dielectric fluid in capacitors, transformers and hydraulic fuel. 
+
+B/3 
+
+Mirex 
+
+2385-85-5 
+
+Carc 
+
+Flame retardant material 
+
+B/4/5 
+
+Organic compounds 
+
+Benzene in products with concentrations above 0.1 weight percent 
+
+71-43-2 
+
+F; Carc1; Mut2; T; Xn; Xi 
+
+Ingredient in fuel, paint, solvents, lubricants 
+
+B/3 
+
+Nonylphenol 
+
+Nonylphenol ethoxylate 
+
+The ban does not apply to epoxy in fibreglass production 
+
+25154-52-3 
+
+9016-45-9 
+
+Processing of metals and fibreglass production. 
+
+Soap and lotion. 
+
+B/3 
+
+2,4,6-tri-tertbutylphenol 
+
+732-26-3 
+
+Additive to fuel and oil products 
+
+B/5 
+
+Trichlorofluormethane (CFC-11) 
+
+75-69-4 
+
+Coolant, freon 
+
+B/6 
+
+Dichlorodifluormethane (CFC-12) 
+
+75-71-8 
+
+Coolant, freon 
+
+B/6 
+
+Trichlorotrifluorethane (CFC-113) 
+
+76-13-1 
+
+Coolant, freon 
+
+B/6 
+
+Ozone depleting 
+
+Dichlorotetrafluoroethane (CFC-114) 
+
+76-14-2 
+
+Coolant, freon 
+
+B/6 
+
+substances 
+
+Chloropentafluoroethane (CFC-115) 
+
+76-15-3 
+
+Coolant, freon 
+
+B/6 
+
+Bromochlorodifluoromethane (halon-1211) 
+
+353-59-3 
+
+Flame retardant material 
+
+B/6 
+
+Trifluorobromomethane (halon-1301) 
+
+75-63-8 
+
+Flame retardant material 
+
+B/6 
+
+I.e. CFC, Halons, 
+
+HBFC, HCFC, etc.) 
+
+Dibromotetrafluoroethane (halon-2402) 
+
+124-73-2 
+
+Flame retardant material 
+
+B/6 
+
+HCFC’s 
+
+Hydrobromofluorocarbon (HBFC) 
+
+Several Options 
+
+B/6 
+
+Page 55 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+Bromochloromethane 
+
+74-97-5 
+
+Flame retardant material 
+
+B/6 
+
+Methyl bromide 
+
+74-83-9 
+
+Flame retardant material 
+
+B/6 
+
+Chlorodifluoromethane (HCFC-22) 
+
+75-45-6 
+
+Coolant 
+
+B/6 
+
+Dichlorotrifluoroethane (HCFC-123) 
+
+306-83-2 
+
+Coolant 
+
+B/6 
+
+Dichlorofluoroethane (HCFC-141) 
+
+1717-00-6 
+
+N 
+
+Coolant 
+
+B/6 
+
+Chlorodifluoroethane (HCFC-142b) 
+
+75-68-3 
+
+Coolant 
+
+B/6 
+
+Polybrominated biphenyls 
+
+Polybrominated biphenyls (PBB) 
+
+59536-65-1 
+
+Flame retardant chemical used in plastics 
+
+B/3/5 
+
+Diphenyl ether, 
+
+polybromo 
+
+derivative 
+
+Diphenyl ether, Penta- 
+
+bromo derivative 
+
+and 
+
+octabromo derivative 
+
+32534-81-9 
+
+32536-52-0 
+
+Xn, N 
+
+T 
+
+Fire retardant in plastics, rubber, and electrical goods. 
+
+B/3/5 
+
+Asbestos fibres 
+
+Asbestos 
+
+12001-28-4 
+
+12001-29-5 
+
+12172-73-5 
+
+132207-32-0 
+
+1332-21-4 
+
+77536-66-4 
+
+77536-67-5 
+
+77536-68-6 
+
+Carc1;T 
+
+Brakes, insulating material, cement 
+
+B/3/5 
+
+Heavy metals 
+
+Lead – The ban does not apply to electrical equipment for the wind turbine and anti corrosive paint 
+
+Several options 
+
+Brake lining, plastic tubes, lubricant, electric and electronic components 
+
+FB/B/1 
+
+Mercury compounds 
+
+Several options 
+
+Compounds for preventing fouling by micro-organisms, plants or animals of 
+
+submerged appliances and 
+
+equipment 
+
+B/3 
+
+Arsenic compounds 
+
+Several options 
+
+Compounds for preventing fouling by micro-organisms, plants or animals of 
+
+submerged appliances and 
+
+equipment 
+
+B/3 
+
+Cadmium compounds - 
+
+Page 56 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+The ban does not apply to electrical contacts in any sector of 
+use, on account of the reliability 
+
+required of the apparatus on which 
+
+they are installed 
+
+Several options 
+
+Color to finished plastic products and paints 
+B/3 
+
+Chrome VI in cement and cement-containing 
+
+preparations in concentrations above 0.0002% of the total dry weight of the cement. 
+
+Several options 
+
+Cement and cement-containing preparations 
+
+B/3 
+
+Organostannic compounds 
+
+Organostannic compounds 
+
+Several options 
+
+Compounds for preventing fouling by micro-organisms, plants or animals of 
+
+submerged appliances and 
+
+equipment 
+
+B/3 
+
+Table 1: Chemical compounds, which are not to be used at Vestas Wind Systems A/S 
+
+2. 
+
+Chemical compounds, which are only to be used to a limited extent at Vestas Wind Systems A/S 
+
+This list contains chemical compounds, which: 
+
+- 
+
+are expected to become banned within the near future 
+
+The use of products that contain one or several of the chemical compounds on the below list must be controlled at Vestas Wind Systems A/S. Furthermore, more gentle alternatives regarding safety and environment should be searched for when it is considered technically and financially justifiable. 
+
+Before use of a product containing one or several of the chemical compounds on the list, it must be evaluated if it is possible to use an alternative, which is gentler. This evaluation should be conducted in corporation with the BU QSE department and approved by the BU President. 
+
+The evaluation shall include: 
+
+- 
+
+Name of responsible person at Vestas Wind Systems A/S 
+
+- 
+
+Chemical compound 
+
+- 
+
+Description of the product that contains the chemical 
+
+- 
+
+Concentration of the chemical 
+
+- 
+
+Estimated quantity per year 
+
+- 
+
+Where is the product used (Dept., BU) 
+
+Page 57 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+- 
+
+What is the product used for 
+
+- 
+
+Name of the supplier/manufacture (one evaluation per. Supplier/manufacture) 
+
+- 
+
+The reason for the chemical to be in the product 
+
+- 
+
+Description of the actions taken to substitute the chemical 
+
+The approved evaluation is to be sent to Group HSE. 
+
+Any person who introduces a new product at Vestas Wind Systems A/S is responsible for examining if the product contains one or several of the chemical compounds on the list and if this is the case, the person must initiate an assessment of the possibility of substituting the product with a gentler alternative. 
+
+Group 
+
+Substance 
+
+CAS-no. 
+
+Toxicity classification 
+
+Examples of use 
+
+Remark 2 / reference 
+
+Metalline lead and chemical lead compounds 
+
+Lead – the group only contains electrical equipment for the wind turbine and anti corrosive paint 
+
+Several options 
+
+Electronic equipment, anti corrosive paint 
+
+FB/B/1 
+
+Electric and electronic components 
+
+Polybrominated biphenyl (PBB) 
+
+Several options 
+
+Flame retardant 
+
+FB/2 
+
+Polybrominated diphenyl ether (PBDE) 
+
+Several options 
+
+Flame retardant 
+
+FB/2 
+
+Cadmium 
+
+Several options 
+
+Several options 
+
+FB/2 
+
+Hexavalent 
+
+chromium 
+
+Several options 
+
+Several options 
+
+FB/2 
+
+Chemical compounds labelled mutagenic, carcinogenic, toxic or toxic to reproduction 
+
+Several options 
+
+Table 2: Chemical compounds for which the use must be limited at Vestas Wind Systems A/S. 
+
+2 FB = Future ban. 
+
+Page 58 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+References: 
+
+1. 
+
+Miljø- og Energiministeriets bek. nr. 1082 af 13. september 2007 om forbud mod import og salg af produkter, der indeholder bly. (The Danish Ministry of Environment and Energy’s regulation no. 1082 of 13 September 2007 on banned import and sale of plumbiferous products.) 
+
+2. 
+
+EUROPA-PARLAMENTETS OG RÅDETS DIREKTIV 2002/95/EF af 27. januar 2003 om begrænsning af anvendelsen af visse farlige stoffer i elektrisk og elektronisk udstyr. ( The European Parliament and Council’s regulation 2002/95/EF of 27 January 2003 on limitation of the use of certain harmful substances in electric and electronic equipment.) 
+
+3. 
+
+Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC 
+
+4. 
+
+STOCKHOLM CONVENTION ON PERSISTENT ORGANIC POLLUTANTS (POPs) 
+
+5. 
+
+ROTTERDAM CONVENTION, PIC CIRCULAR XXV – June 2007 
+
+6. 
+
+The Montreal Protocol on Substances that Deplete the Ozone Layer 
+
+Page 59 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+Appendix F Non-Disclosure Agreement 
+
+NON-DISCLOSURE AGREEMENT 
+
+This non-disclosure agreement (the “Agreement”) is made by and between 
+
+Vestas Wind Systems A/S, Hedeager 44, DK-8200 Aarhus N, Denmark, reg. no. 10403782 and Vestas Blades A/S Hedeager 44, DK-8200 Aarhus N, Denmark reg. no. 27988210 (“Vestas”) 
+
+and 
+
+Zoltek Companies Inc., 3101 McKelvey Rd. St. Luis, Missouri 63044, USA reg. no. 00256316, (“Zoltek”) 
+
+(hereinafter jointly referred to as the "Parties" and individually as a "Party") 
+
+WHEREAS 
+
+A. 
+
+Vestas is part of a group of companies engaged in the business of developing, manufacturing, supplying and servicing wind turbine generators worldwide. 
+
+B. 
+
+Zoltek is engaged in the business of manufacturing and delivering Carbon Fiber materials to the Wind Turbine Generator (“WTG”) Industry. 
+
+C. 
+
+The Parties intend to enter into a cooperation where Vestas will purchase and Zoltek deliver Products/products under a purchase agreement entered into or to be entered into between the parties” (the “Project”). 
+
+NOW, THEREFORE the Parties hereto agree as follows: 
+
+1 
+
+SCOPE AND PURPOSE 
+
+1.1 
+
+This Agreement sets forth the rights and obligations of the Parties with respect to use, handling and protection of Confidential Information disclosed by the Parties and/or their Affiliates in connection with the Project (as defined above). For the purpose of this Agreement “Affiliate” shall mean any company which directly or indirectly (through one or more subsidiaries) (i) controls a Party; (ii) is controlled by a Party; or (iii) is controlled by the same parent company as a Party (with “control” meaning ownership of more than fifty percent (50%) of the voting stock). 
+
+1.2 
+
+The obligations with respect to Confidential Information placed upon the recipient Party in this Agreement shall apply to any and all Confidential Information disclosed to the recipient Party in connection with the Project, irrespective of whether such disclosure is made by or on behalf of the other Party or by or on behalf of the other Party’s Affiliates. 
+
+1.3 
+
+This Agreement does not transfer any interest, title or ownership in any intellectual property nor does it grant any license to any such intellectual property. 
+
+2 
+
+CONFIDENTIAL INFORMATION 
+
+Page 60 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+2.1 
+
+For the purpose of this Agreement “Confidential Information” shall mean any and all technical and commercial information, know-how, sensitive business and financial information, and any other information or data, including but not limited to concepts, descriptions, drawings, samples, computer software and source code, disclosed orally, visually or in writing (including electronic transfer and by any media) irrespective of whether or not the information is related to the Project, unless it is evident, due to the nature of the information, that it should not be considered sensitive. 
+
+2.2 
+
+Furthermore, the commercial and technical details of the relationship between the Parties as well as the contents of this Agreement shall be deemed Confidential Information. 
+
+3 
+
+CONFIDENTIALITY, NON-USE AND NON-EXPLOITATION 
+
+3.1 
+
+The recipient Party will not use or exploit Confidential Information for any pur­pose other than the Project and will keep such Confidential Information strictly confidential and not disclose it to any natural or legal person, unless the recipient Party is specifically authorized to do so by the provisions set out herein below or has received prior written approval from the disclosing Party. 
+
+3.2 
+
+The recipient Party shall be entitled to disclose Confidential Information to: 
+
+a) 
+
+those employees, directors and officers of the recipient Party and its Affiliates, who need to know in connection with the Project and have been instructed that Confidential Information must be kept confidential; 
+
+b) 
+
+consultants hired by the recipient Party or its Affiliates and working as part of the team involved in the Project, provided that such consultants (i) need to know in connection with the Project; (ii) have been instructed that Confidential Information must be kept confidential; and (iii) are bound by confidentiality obligations substantially similar to those set out in this Agreement; and 
+
+c) 
+
+external lawyers who, under the laws of the country in which they are formally registered, are subject to confidentiality obligations and required to have a third party liability insurance covering any breach of their confidentiality obligations. 
+
+3.3 
+
+Notwithstanding anything to the contrary in this Agreement Zoltek agrees not to disclose Confidential Information to any third party, including any Affiliates of Zoltek, that is a wind turbine manufacturer or otherwise competing directly or indirectly with Vestas or one or more of Vestas’ Affiliates. 
+
+3.4 
+
+Each Party shall (i) establish and maintain effective security measures to safeguard Confidential Information from access or use not authorized by this Agreement; (ii) retain any confidential information stamps or markings on such Confidential Information; and (iii) immediately notify the other Party of any suspected or actual unauthorized use or disclosure of Confidential Information. 
+
+4 
+
+EXCEPTIONS 
+
+4.1 
+
+The restrictions on use and disclosure of Confidential Information set forth in this Agreement are not applicable to any part of the Confidential Informa­tion which: 
+
+a) 
+
+prior to the date of disclosure was generally available to the public or subsequently becomes generally available to the public through no wrongful act on the part of the recipient Party or anyone for whom the recipient Party is responsible; 
+
+b) 
+
+prior to the date of disclosure was in the recipient Party’s pos­se­ssion (as evidenced by written records) or subse­quently has been indepen­dently developed by employees who have not had access to Confidential Informa­tion; or 
+
+Page 61 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+c) 
+
+is disclosed to the recipient Party by a third party who is lawfully in possession thereof and has a lawful right to make disclosure to the general public. 
+
+4.2 
+
+The restrictions on disclosure of Confidential Information set forth in this Agreement are not applicable to any part of the Confidential Informa­tion which is required to be disclosed pursuant to legislation or by order of a competent court or governmental authority, provided that the recipient Party (i) without undue delay after becoming aware of such requirement notifies the disclosing Party thereof, thus permitting the disclosing Party to seek protective order or take other appropriate legal action; (ii) only discloses that portion of the Confidential Information that is legally required to be disclosed; and (iii) exercises reasonable efforts to obtain assurance that Confidential Information, which is disclosed, receives confidential treatment. 
+
+5 
+
+RETURN OR DESTRUCTION OF CONFIDENTIAL INFORMATION 
+
+5.1 
+
+Within thirty (30) days following a written request from the disclosing Party all Confidential Information (including all copies and other reproductions thereof) shall be returned to the disclosing Party or destroyed (with written confirmation of such destruction). The disclosing Party shall be entitled to make such a request at any time during the term of this Agreement, unless this would be contrary to other agreements between the Parties and/or the purpose for which the Confidential Information has been disclosed. Whether to return or destroy the Confidential Information shall be at the recipient Party’s discretion, however any tools, product samples, models, prototypes and similar items belonging to the disclosing Party shall always be returned. 
+
+5.2 
+
+Notwithstanding a request for return or destruction, the recipient Party shall be entitled to keep (i) any copies of the Confidential Information which the recipient Party is required by law to retain; and (ii) any electronic copies made as part of the recipient Party’s backup or archival practices. 
+
+5.3 
+
+If the recipient Party exercises its right to keep any copies of Confidential Information in accordance with Clause 5.2 above, any and all obligations with respect to such Confidential Information placed upon the recipient Party in this Agreement shall remain in force until the return or destruction of the Confidential Information or the expiry of this Agreement in accordance with Clause 10.1, whichever date is the latest. 
+
+6 
+
+NO WARRANTY 
+
+6.1 
+
+All Confidential Information is provided “as is” and this Agreement does not grant any warranty, guarantee, or representation with respect to any exchanged information, or its accuracy, adequacy or suitability for any particular purpose. Each Party disclaims and excludes any and all liability for damages resulting from the other Party's reliance on or use of the information provided hereunder. 
+
+7 
+
+EXPORT CONTROL 
+
+7.1 
+
+Each Party agrees to comply with all applicable export control laws and regulations. Without limiting the foregoing, and in addition to the other limitations on disclosure set out herein, each Party agrees that any transfer or disclosure of received information which requires an export license will not be made without the authority of such an export license. 
+
+8 
+
+BREACH 
+
+8.1 
+
+If the recipient Party breaches its obligations in respect of confidentiality, non-use and non-exploitation the recipient Party shall pay to the disclosing Party the sum of EUR 150,000 as liquidated damages for each 
+
+Page 62 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+individual breach. The disclosing Party shall be entitled to recover damages exceeding the liquidated damages in accordance with applicable law. 
+
+8.2 
+
+If the recipient Party breaches any of its other obligations under this Agreement the disclosing Party shall be entitled to recover damages in accordance with applicable law. 
+
+8.3 
+
+In addition to the remedies set out in Clauses 8.1 and 8.2 above, the disclosing Party shall be entitled to exercise any and all other rights and remedies available in case of breach, including but not limited to seeking injunctive relief. 
+
+8.4 
+
+The recipient Party shall be responsible and liable for disclosure and use of Confidential Information by any natural or legal person to whom the recipient Party has disclosed such Confidential Information in the same way as for its own disclosure and use. Furthermore, if a Party (the “Involving Party”) involves any third parties, including any of its Affiliates, in the Project and Confidential Information in this connection is disclosed directly to such third parties by the other Party or its Affiliates, the Involving Party shall be responsible and liable for disclosure and use of such Confidential Information by such third parties in the same way as for its own disclosure and use. 
+
+9 
+
+CONTACT 
+
+9.1 
+
+Each Party may designate in writing one or more individuals within its or­ganiz­ation as the primary contact person(s) for receiving Confidential Information. 
+
+10 
+
+TERM AND TERMINATION 
+
+10.1 
+
+This Agreement shall come into force on 01-01-2012 and shall remain in force for a period of five (5) years from the last disclosure of Confidential Information in connection with the Project. 
+
+11 
+
+APPLICABLE LAW AND ARBITRATION 
+
+11.1 
+
+This Agreement shall be governed by and construed exclusively in accordance with Danish law. 
+
+11.2 
+
+Any dispute arising out of or in connection with this Agreement, including any disputes regarding the existence, validity or termination thereof, shall be finally settled by arbitration arranged by The Danish Institute of Arbitration in accordance with the rules of arbitration procedure adopted by The Danish Institute of Arbitration and in force at the time when such proceedings are commenced. The place of arbitration shall be Copenhagen, Denmark. The language of the arbitration shall be English, unless otherwise agreed between the Parties. All aspects of the arbitration shall be treated as Confidential Information subject to the terms of this Agreement. 
+
+11.3 
+
+This arbitration clause shall not prevent a Party from seeking injunctive relief or any other interim relief from a court of competent jurisdiction. 
+
+12 
+
+MISCELLANEOUS 
+
+12.1 
+
+This Agreement contains the entire understanding between the Par­ties, super­seding all prior communications, agreements and under­standings between the Parties with respect to the subject matter of this Agreement. 
+
+Page 63 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+12.2 
+
+Delay or failure of a Party to take any action under this Agreement shall not in any way affect, limit or waive the right of that Party thereafter to enforce and demand strict compliance with each and every condition hereof, unless a waiver is made expressly and in writing. 
+
+12.3 
+
+No change, modification, alteration or addition to any provision of this A­gree­ment shall be binding unless in writing and signed by an au­thorized representa­tive of each Party. 
+
+12.4 
+
+Unless otherwise agreed, any notice given under this Agreement must be in writing and (i) delivered personally to the addressee; (ii) transmitted by recognized courier service; or (iii) transmitted by postage prepaid registered or certified mail (airmail if international), return receipt. Notice shall be deemed given upon delivery at the address of the relevant Party. 
+
+12.5 
+
+If any provision of this Agreement is held illegal, invalid or unenforceable in whole or in part in any jurisdiction, this shall not affect the validity or enforceability in that jurisdiction of any other provision of this Agreement or the validity or enforceability of that provision or any other provision in any other jurisdiction. The Parties shall in good faith negotiate replacement provisions which in a legal, valid and enforceable way to the nearest extent reflect the original intent of the Parties. 
+
+Page 64 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+IN WITNESS WHEREOF the Parties have caused this Agreement to be executed by their duly authorized representatives 3 
+
+Lem, 
+
+Name Ole Preben Borup Jakobsen 
+
+Position President 
+
+Name Zsolt Rumy 
+
+Position Chairman and CEO 
+
+Vestas Blades A/S 
+
+Zoltek Companies Inc. 
+
+Name Lars Naur 
+
+Position VP Sourcing & Procurement 
+
+Name Philip L. Shell 
+
+Position VP Marketing & Sales 
+
+Vestas Blades A/S 
+
+Zoltek Companies Inc. 
+
+3 All companies that are parties to the Agreement must be added as signatories. 
+
+Page 65 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+Appendix G Quality Agreement 
+
+This Quality Agreement (hereinafter the "QA") is made and entered into as part of the PA between VESTAS and SUPPLIER 
+
+RECITALS 
+
+A. 
+
+VESTAS requires an experienced manufacturer that will ensure delivery of high quality products and related services achieved with the Six Sigma Methodology as necessary for the Vestas Group to meet the quality requirements and targets of its customers. 
+
+B. 
+
+The QA is a strategic part of the Vestas Group’s sourcing process and sets out quality requirements, targets, processes, methods and tools which must be applied throughout the cooperation between a supplier and VESTAS, including during the qualification, re-qualification of a potential supplier as a supplier to VESTAS and the continuous improvement of products delivered from a supplier. 
+
+C. 
+
+Accordingly, by entering into this QA, the Parties wish for the terms and conditions set out below to constitute the basis for their cooperation in achieving and keeping the agreed quality targets and continuously improving the quality of the Product(s) delivered to VESTAS. 
+
+SCOPE 
+
+This QA shall have precedence of any existing quality agreement, quality specification or similar document between the Parties (including any quality provisions in any other existing agreement between the Parties, e.g. a Purchase Agreement). 
+
+Definitions applicable for this QA are set out in Appendix 1 and/or in the individual relevant provisions of this QA. 
+
+1 
+
+General requirements 
+
+1.1 
+
+Systems and Standards 
+
+SUPPLIER must as a minimum be certified according to the latest edition of ISO 9001 or an equivalent system accepted by VESTAS. Compliance to the certification requirement must be demonstrated by a copy to VESTAS of the current certification and VESTAS’ access to SUPPLIERS latest ISO 9001 report or equivalent report as accepted by VESTAS. 
+
+Page 66 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+SUPPLIER must have carried out implementation of an Environmental Health & Safety system. The Environmental Health & Safety system must be certified according to ISO14001, OHSAS 18001 or an equivalent system accepted by VESTAS. 
+
+2 
+
+Vestas Supplier Management Program 
+
+2.1 
+
+Vestas Supply Chain Quality System 
+
+It is the responsibility of SUPPLIER to implement and comply with this QA, including the obligations, and targets, set out in Chapter 2 (Vestas Supplier Management Program). SUPPLIER must at all times upon request from VESTAS demonstrate compliance with the Vestas Supplier Management Program: 
+
+2.2 
+
+Vestas Tools and Processes 
+
+The following Vestas Tools and Processes constitute an integrated part of Vestas Supplier Management Program, and SUPPLIER must as part of the Vestas Supplier Management Program comply with the requirements and obligations set out herein: 
+
+· 
+
+SA (Self Assessment) 
+
+· 
+
+PA (Pre-Assessment) 
+
+· 
+
+WS (Work Shop) 
+
+· 
+
+PPAP 
+
+· 
+
+CTQ Identification and monitoring 
+
+· 
+
+ECM Process 
+
+The stages of application of the Vestas Tools and Processes are set out in section 0 below. 
+
+2.3 
+
+Obligations 
+
+Record Retention 
+
+SUPPLIER shall have a written procedure for the documentation and retention of quality data of the Product(s) and processes related to Product(s) supplied to VESTAS. The record retention period shall be a minimum of twenty (20) years unless otherwise specified by VESTAS. Records shall include, but are not limited to, product and process quality or inspections, test plans and results, material specifications and certificates of conformity. VESTAS will specifically approve the level, content and quality of the recorded quality data. Specific requirements as to component record and other additional requirements 
+
+Page 67 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+on traceability may be specified in VESTAS purchase orders or the Applicable Specification. It is the responsibility of SUPPLIER to determine the appropriate storage means to meet the retention requirement and allow for timely retrieval of records.
+
+On request from VESTAS, SUPPLIER shall share and exchange quality data records of the Product(s) and related processes.
+
+Documents, Data and Reports 
+
+SUPPLIER shall throughout its cooperation with VESTAS, including during the stages of application of the Vestas Processes as described in Chapter 2.C below, provide to VESTAS copies of the documents, data and reports as required under the relevant Vestas Processes and any additional quality related documentation which in VESTAS' opinion is relevant for the assessment of SUPPLIER's production processes and/or the quality of the Product(s). 
+
+Traceability 
+
+SUPPLIER will at the request of VESTAS be obliged to ensure traceability on the Product(s). VESTAS will determine the traceability level required. The traceability level will be set out in the TPS The necessary bar code format to be used for the Product(s) will be determined by VESTAS in the TPS. 
+
+Inspection and Test Witness Requirements 
+
+VESTAS may, choose to inspect SUPPLIER’s facilities during processing, production, assembly, testing or at final inspection. Unless in the situations mentioned below, VESTAS shall give SUPPLIER a prior written notice in reasonable time before an inspection is carried out. VESTAS may carry out an inspection of SUPPLIER's facilities without prior notice if such inspection is initiated as a consequence of (i) requirement from a VESTAS customer; (ii) requirements from a public authority; or (iii) VESTAS’ suspicion of material defects or defaults in the Product(s) or SUPPLIER’s production facilities. Additional Product specific inspections and test witness requirements may be identified in the Applicable Specifications. 
+
+Continuous Improvement 
+
+Resources and Capabilities 
+
+SUPPLIER shall commit the necessary resources and capabilities in order to achieve the Quality Performance Targets set out in section 2.4 within each relevant year. SUPPLIER acknowledges that the final goal is to reach and maintain a Sigma levels as specified in 
+
+Page 68 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+appendix 2 of this QA agreement and will continuously commit the necessary resources and capabilities in order to reach this goal.
+
+Performance Dialog Meetings 
+
+In order to support the continuous improvement of the Product(s), VESTAS and SUPPLIER shall meet to discuss the performance of the Product(s) and any improvement hereof. Both VESTAS and SUPPLIER shall ensure that the relevant people with the right competences participate in such meetings. 
+
+2.4 
+
+TARGETS 
+
+Quality Targets 
+
+SUPPLIER is required to support and improve the quality of the relevant processes and the Product(s). The SUPPLIER and VESTAS will work together on continuously improve the quality of the Products delivered 
+
+SUPPLIER acknowledges that it is a requirement of VESTAS that the Quality Performance Targets set out in Appendix 2 are achieved. The targets in Appendix 2 are the overall targets set by VESTAS. Furthermore the SUPPLIER acknowledges that the Quality Performance Targets are the level that the SUPPLIER must obtain for to hold the conversion cost prices (specified in appendix B) fixed through the period. 
+
+CTQs - and the measuring criteria in relation to CTQs - used in measuring whether SUPPLIER is achieving the Quality Performance Targets will be determined by VESTAS. If the above mentioned Quality Performance Targets at any relevant point in time are not achieved, SUPPLIER must submit to VESTAS a detailed road map on how to achieve the Quality Performance Targets within a time frame and implement any containment actions agreed with VESTAS. It is an essential precondition for achieving the Quality Performance Targets that SUPPLIER, with the assistance from VESTAS, on a continuous basis improves its production processes, procedures etc. by committing the necessary resources to carry out and implement such improvement. The Parties will agree on regular meetings between the parties necessary to (as a minimum) archive the Quality Performance targets. 
+
+Achieving the Quality Performance Targets does not relieve SUPPLIER of its obligations, including warranty obligations, under a Purchase Agreement with VESTAS. 
+
+Page 69 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+Continued failure on the part of SUPPLIER to meet the Quality Performance Targets will entitle VESTAS to terminate the PA in accordance with clause 11.2 in full or in part, including by revoking SUPPLIER’s [***] [***] [***] [***] [***] [***] of the Products. 
+
+The Parties agree that they will finish a review process of the current CTQ’s before end of the 2 nd half year 2012. Current CTQ’s can be removed and new CTQ can be inserted if deemed appropriate by the Parties. The Parties will allocate the resources necessary to meet the deadline. If the Parties can’t find an agreement in the review process then the current CTQ’s will remain valid. 
+
+2.5 
+
+PROCESSES, TOOLS AND METHODS 
+
+Supplier Approval Process 
+
+In order to qualify as a supplier to VESTAS of the Product(s), SUPPLIER must participate in - and complete to VESTAS' satisfaction - the Supplier Approval Process. The Supplier Approval Process must furthermore be followed and completed by SUPPLIER whenever a significant change takes place in SUPPLIERS production of the Product. The evaluation and decision on whether it’s a significant change or not relies with Vestas. Examples could be start of a new production SUPPLIER production plant, a new production line and/or new processes in SUPPLIERS production. 
+
+Overview: 
+
+Applicable Tools and Processes 
+
+SA 
+
+PA 
+
+WS 
+
+During the Supplier Approval Process the Self Assessment, Pre-Assessment and Work Shop will be carried out in close cooperation between SUPPLIER and VESTAS. The Supplier Approval Process may at VESTAS' discretion be applied one or more times in relation to each Product(s) and any variations hereof. 
+
+SA (Self Assessment) 
+
+The Self Assessment consists of a questionnaire provided by VESTAS regarding SUPPLIER’s quality systems, tools and processes which has to be filled in by SUPPLIER and delivered to VESTAS within the time frame specified by VESTAS. 
+
+*** Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 
+
+Page 70 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+PA (Pre-Assessment) 
+
+The Pre-Assessment consists of the same questionnaire as used under the Self Assessment which will be filled in by VESTAS and SUPPLIER together during a visit at SUPPLIER’s production facility(-ies). 
+
+WS (Work Shop) 
+
+The Work Shop consists of a comprehensive questionnaire regarding SUPPLIER’s quality systems, tools and processes which will be completed during a work shop between VESTAS and SUPPLIER at SUPPLIER’s production facility. 
+
+CTQ Identification 
+
+During the Work Shop or at a separate meeting(s) product CTQs will be defined by VESTAS and included in the Applicable Specification. VESTAS and SUPPLIER will work together to identify the process related CTQs based upon: 
+
+· 
+
+Process FMEA (Failure Mode & Effect Analysis) from SUPPLIER 
+
+· 
+
+SUPPLIER's process knowledge 
+
+· 
+
+Control Plan from SUPPLIER 
+
+· 
+
+Historical data and NCRs / CIM cases 
+
+The CTQ identification process will take place in connection with the Supplier Approval Process but additional CTQs may be defined at any later stage. 
+
+Production Part Approval Process (PPAP) 
+
+SUPPLIER must continuously be qualified for specific processes and parts. PPAP documentation has to be established whenever requested by VESTAS. Through the PPAP, SUPPLIER must demonstrate the ability to repeatedly provide quality parts in accordance with the requirements and expectations of VESTAS. 
+
+The content of the PPAP will be specified by VESTAS. Some of the key elements of a PPAP are the following: 
+
+· 
+
+PSW 
+
+· 
+
+Process Flow Chart 
+
+Page 71 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+· 
+
+P-FMEA 
+
+· 
+
+D-FMEA 
+
+· 
+
+Control Plan 
+
+· 
+
+Test Report (Dimensional, Material, and Performance) 
+
+· 
+
+Initial Process Capability Studies (CTQs) 
+
+· 
+
+Fit to Function Test (internal VESTAS) 
+
+· 
+
+MSA 
+
+However, the exact content of the PPAP will be determined by VESTAS. 
+
+Once a PPAP, including the PSW, has been approved by VESTAS, SUPPLIER is approved for serial delivery in relation to the specific process and parts. PPAP approval does not relieve SUPPLIER of the full liability of the Product(s) delivered to VESTAS and the responsibility, on subsequent orders, to assure that the manufacturing processes qualified during PPAP remain in control and the Product(s) or service supplied meets all requirements in the Applicable Specification. 
+
+Continuous Improvement and Problem Solving Processes 
+
+After SOP, SUPPLIER must work for a continuous improvement of the Product(s) delivered to VESTAS (see also Clause “continuous improvements “above). VESTAS can assist with a list and introduction of applicable tools upon request of the SUPPLIER. 
+
+CTQ Process 
+
+SUPPLIER shall measure, document, control and analyze all the product and process CTQs identified by VESTAS and such which may have been identified in connection with the Supplier Approval Process or at a later stage. SUPPLIER shall collect the data and send them to VESTAS in a frequency and format determined by VESTAS. Although the data will be analyzed and monitored by VESTAS, SUPPLIER shall complete its own analysis and react as necessary to the data using appropriate statistical tools with Statistical Process Control (SPC) being the most important tool. VESTAS is entitled to request SUPPLIER to execute improvement projects based on the analysis. The sigma level of CTQs must be at or above the targets set out in Appendix 2 or other target levels agreed upon between VESTAS and SUPPLIER. If they are below the targets, the appropriate actions as agreed to by VESTAS must be initiated by SUPPLIER. 
+
+Page 72 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+ECM Process (Internal Vestas Process) 
+
+Any changes or modifications (whether such changes or modifications are made by VESTAS, SUPPLIER or a Sub-Tier Supplier) in (i) design of the Product(s), (ii) manufacturing processes directly or indirectly related or connected to the Product(s), (iii) sub-tier suppliers (i.e. any changes in relation to the supply chain related to the Product(s)), (iv) quality of the Product(s), (v) content of the Product(s), and/or (vi) any such changes mentioned in (i)-(v) above in components or materials of the Product(s), are handled through a VESTAS internal Engineering Change Management Process (“ECM”) and shall not be taken into effect prior to written agreement between the Parties. Such agreement shall be coordinated between SUPPLIER and VESTAS. Any change or modification covered by the ECM Process may in VESTAS’ sole discretion require conduction of PPAP. 
+
+VESTAS’ acceptance of changes or modifications as set out above does not change the fact that SUPPLIER towards VESTAS is solely liable for defects in the Product(s), including defects arising after and/or as a consequence of the implementation of such changes/modification. 
+
+To the extent the Parties have entered into an agreement regarding ECM prior to this agreement on this QA, the terms and conditions related to ECM in such prior agreement shall prevail. 
+
+3 
+
+Miscellaneous 
+
+3.1 
+
+Communication 
+
+The VESTAS Category Management Team is the primary commercial, quality and technical contact at VESTAS. SUPPLIER must identify and notify the VESTAS Category Management Team of its designated point of contact(s). VESTAS will provide SUPPLIER with a list of the members of the VESTAS Category Management Team. 
+
+3.2 
+
+Validity and Expiry 
+
+This QA shall remain in force until terminated by one or both of the Parties. However, this QA cannot be terminated as long as the Parties are delivering and purchasing Products unless such termination takes place by mutual agreement between the Parties. 
+
+Page 73 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+Appendix 1 - Definitions 
+
+Applicable Specification means any drawing, TPS, data sheets, etc., issued or approved by VESTAS and applicable for the Product(s) 
+
+Category Manager means a manager of a Vestas product category team with a core team consisting of members from procurement, quality and technology 
+
+Control Plan means a written description of the system for controlling production parts and processes 
+
+Cpk is the capability index based on Rbar (average range of a series of subgroups) 
+
+CTQ (Critical to Quality ) means a feature whose variation has the greatest impact on the fit, performance, or service life of the Product(s) 
+
+D-FMEA – (Design Failure Mode and Effects Analysis) means a process for analysing a product's functionality associated with the design 
+
+ECM-Process (Engineering Change Management) means an internal Vestas system to handle change requests, externally usually triggered by a SCR (Supplier Change Request) 
+
+FMEA – (Failure Mode and Effects Analysis) means an analytic process for identifying potential problems in the design or manufacture of a product. The FMEA examines all the potential failure modes, the potential effects of failure and the causes for failure. An FMEA determines a risk number to prioritize design or process activities for correction or mitigation. FMEAs can be made for processes and products 
+
+Initial Process Capability Studies are part of the PPAP process and are used to demonstrate compliance with the Quality Performance Targets 
+
+KPI (Key Performance Indicators) are indicators to help the organisation to measure performance and achieve its goals 
+
+Page 74 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+MSA (Measurement System Analysis) means an analysis the aim of which is to ensure an effective use of any measurement system and an understanding of the sources of variation in the system 
+
+NCR (Non-Conformity Report) means a Vestas non-conformance report initiated during processing through a Vestas factory or location used by manufacturing or other functions to document non-conformances to specification, bills of material, or other documents 
+
+PA means 
+
+a) in the context of assessments “Pre-Assessment” 
+
+b) in the context of procurement “Purchase Agreement” 
+
+PPAP (Production Part Approval Process) means a determination of characteristics of a representative sample and the production process of a given component or item with the belonging documentation 
+
+Ppk is the capability index based on the overall standard deviation 
+
+Process Flow Chart means a schematic representation of the process flow 
+
+Product(s) means materials, components, services and tooling to be delivered from SUPPLIER 
+
+PSW (Part Submission Warrant) means a signed document used in the PPAP process in which the Parties confirm that inspections and tests on production parts and processes show conformance to VESTAS requirements and approval for serial delivery will be given by VESTAS 
+
+Quality Performance Targets means the targets set out in Appendix 2 
+
+specifications, engineering instructions, etc.) 
+
+Sigma Level is the capability index used in Vestas. The sigma level is equal to Zbench and is calculated using the mean and the standard deviation based on Rbar (Cpk based) and the total standard deviation (Ppk based) 
+
+Six Sigma Methodology is a systematic approach to process improvement using appropriate statistical tools 
+
+Page 75 of 76 
+
+Purchase Agreement between Vestas Wind Systems A/S and Zoltek Companies Inc. 
+
+SOP (Start of serial production) means the start of serial production of the Product(s) at SUPPLIER 
+
+Stage Gate Model is a Vestas internal Project Management Tool 
+
+Supplier Approval Process means the process comprised by Clause 0 
+
+Test Reports are part of the PPAP documentation and demonstrates compliance with a set of requirements 
+
+TPS (Technical Purchase Specification) means a specification in which requirements for the Product are described 
+
+Vestas Tools and Processes means specific Vestas tailored tools and processes which have to be applied in order to being qualified as a Vestas supplier. Those tools and processes build on but go beyond Quality Management Systems like the ISO 9001 
+
+WTG means wind turbine generator 
+
+Page 76 of 76

@@ -1,0 +1,894 @@
+EX-4.1 
+
+EXHIBIT 4.1 
+EQUIPMENT SUPPLY CONTRACT 
+BETWEEN 
+
+Cementos Pacasmayo S.A.A. 
+Calle La Colonia 150 
+Urbanización El Vivero, Monterrico 
+
+Lima 33 
+Peru
+
+AND 
+
+Loesche GmbH 
+Hansaallee 243 
+40549 Düsseldorf 
+
+Germany 
+
+TABLE OF CONTENTS 
+
+CLAUSE 1. 
+
+OBJECT 
+
+03 
+
+CLAUSE 2. 
+
+CONTRACTUAL DOCUMENTS 
+
+03 
+
+CLAUSE 3. 
+
+DURATION TIME, DELIVERY SCHEDULE AND TERMS OF DELIVERY 
+
+04 
+
+CLAUSE 4. 
+
+PRICE AND PAYMENT TERMS 
+
+04 
+
+CLAUSE 5. 
+
+THE PURCHASER’S OBLIGATIONS 
+
+06 
+
+CLAUSE 6 
+
+THE SUPPLIER’S OBLIGATIONS 
+
+07 
+
+CLAUSE 7 
+
+THE SUPPLIER’S WARRANTIES 
+
+08 
+
+CLAUSE 8 
+
+INSPECTION AND TESTS AT SUPPLIER’S PLANT 
+
+09 
+
+CLAUSE 9. 
+
+PACKING, TRANSPORTATION AND INSURANCE 
+
+10 
+
+CLAUSE 10. 
+
+TECHNICAL ACCEPTANCE OF THE EQUIPMENT 
+
+10 
+
+CLAUSE 11. 
+
+ASSIGNMENT AND SUBCONTRACTING 
+
+11 
+
+CLAUSE 12. 
+
+INTELLECTUAL PROPERTY RIGHTS 
+
+11 
+
+CLAUSE 13. 
+
+CONFIDENTIALITY 
+
+12 
+
+CLAUSE 14. 
+
+RESPONSIBILITY AND LIQUIDATED DAMAGES 
+
+12 
+
+CLAUSE 15. 
+
+VARIATIONS AND SEVERABILITY 
+
+13 
+
+CLAUSE 16. 
+
+FORCE MAJEURE 
+
+13 
+
+CLAUSE 17. 
+
+TERMINATION 
+
+14 
+
+CLAUSE 18. 
+
+INSURANCE 
+
+14 
+
+CLAUSE 19. 
+
+NOTICES 
+
+14 
+
+CLAUSE 20. 
+
+GOVERNING LAW AND DISPUTE RESOLUTION 
+
+14 
+
+CLAUSE 21. 
+
+COMING INTO FORCE OF THE CONTRACT 
+
+14 
+
+This Equipment Supply Contract (hereinafter called “Contract”) is made and
+entered on September 28 th , 2012 by and between Cementos Pacasmayo S.A.A. , a company duly organized under the laws of Peru, having its principal place of business at Calle La Colonia N° 150, Urb. El Vivero, Santiago de Surco,
+Lima, Peru (hereinafter called “PURCHASER”), and Loesche GmbH having its head offices at Hansaallee 243, 40549 Düsseldorf, Germany, (hereinafter called “SUPPLIER”). 
+
+The PURCHASER and THE SUPPLIER are hereinafter individually referred to as “Party” and collectively referred to as “Parties”.
+
+WHEREAS: 
+
+I. 
+The PURCHASER owns a plant site located in Piura, Peru. 
+
+II. 
+The PURCHASER is interested in acquiring certain equipment from THE SUPPLIER, said equipment to be installed and used at the mentioned plant site for the new cement
+plant at Piura, Peru with a capacity of 3000 tpd of clinker and 230 tph of cement grinding capacity (hereinafter referred to as “PROJECT”); 
+
+III. 
+The Parties, having agreed upon such supply, wish to formalize their purpose; 
+
+NOW, THEREFORE , the Parties have agreed to enter into this Contract, which shall be governed by the following terms and conditions: 
+
+Clause 1. 
+OBJECT 
+
+1.1 
+The object of this Contract is the supply by Loesche GmbH of the Equipment mentioned at Annex “B” and further described in the technical specification in
+Annex E attached hereto (hereinafter referred to as “EQUIPMENT”) and the Basic and Detailed Engineering for the EQUIPMENT, included in Annex E (hereinafter referred to as “ENGINEERING”), for a new cement plant located in Piura,
+Peru. 
+
+Clause 2. 
+CONTRACTUAL DOCUMENTS 
+
+2.1 
+The following Annexes, enclosed to this Contract, shall constitute an integral part hereof: 
+
+2.1.1 
+Annex A: Pricelist 
+
+2.1.2 
+Annex B: Scope of supply 
+
+2.1.3 
+Annex C: Supervision of erection and commissioning 
+
+2.1.4 
+Annex D: Time Schedule 
+
+2.1.5 
+Annex E: Technical Specification 
+
+2.1.6 
+Annex F: Technical Guarantees 
+
+2.1.7 
+Annex G: Material Investigation 
+
+2.1.8 
+Annex H: Advanced Payment and Performance Bond 
+
+2.1.9 
+Annex I: Affidavit regarding the ENGINEERING 
+
+2.2 
+In the event of dissent or controversy between the terms of this Contract and those of the documents listed above, the terms of this Contract shall prevail.
+
+2.3 
+In the event of controversy between the terms and conditions of the Annexes hereto, the terms of the Annexes will prevail in the numeric order of precedence set forth
+above, except for the “Technical Specification” (Annex E) and “Technical Guarantees” (Annex F) which will always prevail. 
+
+Clause 3. 
+DURATION TIME, DELIVERY SCHEDULE AND TERMS OF DELIVERY 
+
+3.1 
+Delivery Schedule of the EQUIPMENT: 
+
+• 
+
+For Mechanical Equipment: 10 - 15 months from coming into force of the contract according to Clause 21, as detailed in Annex “D”.
+
+• 
+
+For Electrical Equipment: 10 - 18 months from coming into force of the contract according to Clause 21, as detailed in Annex “D”.
+
+3.2 
+Terms of Delivery of the EQUIPMENT 
+
+FOB port of origin according to INCOTERMS 2010. 
+
+3.3 
+Delivery Schedule of the ENGINEERING: 
+
+• 
+
+Basic and Detailed: 1 - 17 months from coming into force of the contract according to Clause 21, as detailed in Annex “E”.
+
+Clause 4. 
+PRICE AND PAYMENT TERMS 
+
+4.1 
+For the supply of the EQUIPMENT and the ENGINEERING, the PURCHASER shall pay to the SUPPLIER the price of € 24,967,200.00 (Twenty Four Million, Nine Hundred
+and Sixty-Seven Thousand and Two Hundred Euros) (hereinafter referred to as the “Contract Price”), according the following: 
+
+• 
+
+For the EQUIPMENT: € 24,218,700.00 (Twenty Four Million, Two Hundred and Eighteen Thousand and Seven Hundred Euros) (herein after referred to as
+the “EQUIPMENT Price”). 
+
+• 
+
+For the ENGINEERING: € 748,500.00 (Seven Hundred and Forty-Eight Thousand and Five Hundred Euros) (herein after referred to as the
+“ENGINEERING Price”). 
+
+The Parties agree that the prices for the supply of the EQUIPMENT and the
+ENGINEERING are fixed, and shall remain valid and invariable until the fulfilment of all SUPPLIER’s obligations, according to the terms of this Contract. 
+
+4.1.1 
+FOB prices for each section of the Plant (EQUIPMENT) can be found at Annex “A”. 
+
+4.1.2 
+The scope of the ENGINEERING can be found at Annex “E”. 
+
+4.2 
+Payment Conditions 
+
+For values
+in Euro to be paid to the SUPPLIER: 
+30% of the ENGINEERING Price, payable within 15 days after signing the Contract, against
+submittal of invoice and the Advance Payment Bond as per Annex H. This Bond shall be valid and effective until the completion of the supply of the ENGINEERING and shall be automatically and proportionally reduced without the prior approval of the
+PURCHASER of the value of each commercial invoice issued to the PURCHASER under this Contract. 
+30% of the EQUIPMENT Price,
+payable within 15 days after signing the Contract, against submittal of invoice and the Advance Payment Bond as per Annex H. This Bond shall be valid and effective until the completion of the supply of the EQUIPMENT and shall be automatically and
+proportionally reduced without the prior approval of the PURCHASER of the value of each commercial invoice issued to the PURCHASER under this Contract. 
+
+70% of the Contract Price, payable out of a Letter of Credit (L/C), according to the
+following: 
+
+• 
+
+For the EQUIPMENT Price, against presentation of SUPPLIER’s documents of dispatch, or warehouse receipt, pro rata supplies, and the Performance
+Bond up to the 10% of the Contract Price, as per Annex H, for the last major shipment. This Bond shall be valid and effective until the issuance of the Certificate of Technical Acceptance by the PURCHASER However, this Performance Bond shall expire
+at the latest 48 months after effectiveness of this Contract. 
+
+Documents of dispatch means: Bill of Lading
+or Airway Bill or Warehouse Receipt, Packing List and Invoice. Documents of dispatch shall be delivered by the SUPPLIER to the PURCHASER via-email, immediately after the departure of the carrying vessel from the Port of Shipment. 
+
+• 
+
+For the ENGINEERING Price, against the PURCHASER’s confirmation receipt of the ENGINEERING documentation to the SUPPLIER. If the SUPPLIER does not
+receive the PURCHASER’s confirmation receipt within 15 days from the delivery of ENGINEERING documentation, the SUPPLIER shall be able to present the courier delivery note under the L/C, instead of PURCHASER’s confirmation receipt.
+ENGINEERING documentation means: General Layout and General Arrangement Drawings. Consequently, the 70% of the ENGINEERING Price, shall be paid by the PURCHASER in two (02) tranches: 
+
+• 
+
+€ 261,975.00 (Two Hundred and Sixty-One Thousand and Nine Hundred and Seventy-Five Euros) for the General Layout. 
+
+• 
+
+€ 261,975.00 (Two Hundred and Sixty-One Thousand and Nine Hundred and Seventy-Five Euros) for the General Arrangement Drawings.
+
+To cover the payment of 70% of the Price Contract, within 30 days after signing the Contract, the PURCHASER
+shall open one irrevocable Letter of Credit (L/C), in the amount of € 17,477,040.00 (Seventeen Million, Four Hundred and Seventy-Seven Thousand and Forty Euros) in favor of the SUPPLIER. The L/C shall be advised and confirmed by a First Class
+International Bank in Germany, acceptable to the SUPPLIER. 
+
+4.3 
+Each payment not covered by the Letter of Credit shall be effected to the following bank account: 
+
+For Loesche GmbH 
+
+Stadtsparkasse Düsseldorf 
+
+SWIFT/BIC Code : DUSSDEDDXXX 
+
+Bank account no.: 10025005 
+
+BLZ 300 501 10 
+
+IBAN : DE25 3005 0110 0010 0250 05 
+
+4.4 
+Taxes and Duties 
+
+All taxes
+until FOB port of origin are included in the supply. Local taxes or duties, such as but not limited, to customs clearance, import taxes, any Peruvian withholding tax and IVA are expressly not included and shall be borne by the PURCHASER. 
+
+4.5 
+Invoices 
+
+4.5.1 SUPPLIER shall
+deliver to the PURCHASER two (02) originals and two (02) copies of each respective invoice for each payment milestone as provided for in Clause 4.2 above for the amounts indicated above. 
+
+4.5.2 The invoices issued in connection with the payment milestones set forth in Clause 4.2 above shall state the following: 
+
+• 
+
+For the EQUIPMENT: 
+
+• 
+
+SUPPLIER’s Name and Address; 
+
+• 
+
+EQUIPMENT’s description; 
+
+• 
+
+Unit price and total amount; 
+
+• 
+
+Currency. 
+
+• 
+
+For the ENGINEERING: 
+
+• 
+
+SUPPLIER’s Name and Address; 
+
+• 
+
+ENGINEERING description; 
+
+• 
+
+Unit price; 
+
+• 
+
+Total amount; 
+
+• 
+
+Peruvian withholding Tax (15% of total amount); 
+
+• 
+
+Net Price; 
+
+• 
+
+Currency. 
+
+4.6 All copies of the invoices shall be issued to the PURCHASER and sent to the address indicated in Clause 19.1 within five (5) days
+from the issuance date of the documents. 
+
+Clause 5. 
+THE PURCHASER’S OBLIGATIONS 
+
+The
+PURCHASER shall be obliged to: 
+
+5.1 
+Provide THE SUPPLIER, in due time, with any reasonable information necessary for the supply of the EQUIPMENT. The PURCHASER shall, within ten (10) days from its
+respective receipt, approve the documents provided by THE SUPPLIER related to the Contract and, in case such documents are deemed not to be in accordance with THE SUPPLIER’S obligations, the PURCHASER shall return the documents to THE SUPPLIER,
+clearly stating the reasons for such disagreement, and require its correction within fifteen (15) days from the date of receipt of the documents at the SUPPLIER’S office. 
+
+In case the PURCHASER does not disagree with the documents by returning them or does not expressly approve them within the period stated
+above, all documents sent by THE SUPPLIER shall be deemed approved. 
+The aforementioned rules shall not apply for amendments,
+additions, variations or modifications of any term provision of this Contract. In such cases, Clause 15 shall apply. 
+
+5.2 
+Pay the price as established in Clause 4. 
+
+5.3 
+Provide all requisites and fulfil all preconditions expressly set in Annex E and F, which are necessary to enable THE SUPPLIER to comply with the performance warranties
+as stipulated in the Contract. 
+
+5.4 
+Coordinate the execution of the supply to be conducted by the SUPPLIER with other supplies and works related to the PROJECT, except the supplies and works performed by
+Thyssenkrupp Polysius AG and affiliates companies. 
+
+5.5 
+Notify THE SUPPLIER in writing and within 15 days after signing the Contract, of any internal rules and/or regulations as well as any particular proceedings and or
+structures which the PURCHASER wishes to apply for the execution of the Contract. In the event the SUPPLIER is not being notified in accordance with this Clause 5.5, the SUPPLIER shall have no obligation with regard to the adherence to any such
+rules, regulations, proceedings and/or structures as mentioned above. 
+
+5.6 
+Obtain and maintain, at its own cost, any and all licenses and/or authorizations which may be necessary for the execution of the PROJECT. 
+
+5.7 
+Execute the erection, commissioning and performance test work, according to Annex C, which will become an integral part of a future “Erection Supervision and
+Commissioning Services Agreement” to be entered by and between the PURCHASER and the SUPPLIER. 
+
+5.8 
+PURCHASER shall be responsible to name the vessel for FOB delivery according to 3.2 within 21 days of the SUPPLIER’S notice of readiness for dispatch. In the event
+no vessel has been named within the above period, the SUPPLIER shall be entitled to put the respective part of the EQUIPMENT in storage and receive the respective payment according to 4.2 against presentation of warehouse receipt.
+
+Clause 6. 
+THE SUPPLIER’S OBLIGATIONS 
+
+6.1. 
+Supply the EQUIPMENT in accordance with the specifications described in Annex A, B, D, E and F. The parties agree that the following items are excluded from the
+EQUIPMENT: buildings, foundations, backing, pipelines, insulation, painting (except first primer), utility lines for cooling water, compressed air, gas, oil, electrical fittings and installations, cables, transmitters for field instrumentation,
+measurement and control systems, first oil fillings, welding electrodes, grouting material for mill gearbox, fitting, civil design, construction, scaffolding, lifting equipment, earth works, piling, lighting, fencing, offices, stores, canteens,
+safety equipment, medical equipment and firefighting equipment, and all other supplies and services which are not explicitly specified in this CONTRACT and Annex E. 
+
+6.2 
+Provide the necessary technical documents according to the requirements of the Contract, including manuals, projects, designs, plans, related to the supply, operation
+and maintenance of the EQUIPMENT, all of which shall be in the English and/or Spanish language. 
+
+6.3 
+Issue the Advance Payment Bond and the Performance Bond as per Clause 4.2 and Annex “H”. 
+
+6.4 
+Issue of the Affidavit regarding the ENGINEERING, mentioned in Annex I. 
+
+Clause 7. 
+WARRANTIES 
+
+7.1 
+Warranty regarding the material 
+
+7.1.1 
+The SUPPLIER hereby warrants that the EQUIPMENT shall be new and free from any defects in workmanship and materials, applying to the standards set forth in this
+Contract and in the Annexes hereto. 
+
+7.1.2 
+The warranty obligations shall be effective against defects in workmanship and materials or wrong instructions by the SUPPLIER’s Supervisory Personnel for: 12
+months after issuance of the Certificate of Technical Acceptance by the PURCHASER from the date of commissioning, however not longer than 48 months after coming into force of the Contract according to Clause 21, whichever occurs first
+(“WARRANTY PERIOD”). In the event that the delivery will be delayed due to reasons attributable to the SUPPLIER, the warranty latest date shall be prolonged according to the duration of the delay. Notwithstanding the above, the
+PURCHASER’s rights to claim the Liquidated Damages set forth in Clause 14 shall not be affected hereby. 
+
+Within the WARRANTY PERIOD, the SUPPLIER undertakes, for his scope of supply and if requested by the PURCHASER in writing, to replace,
+modify, and/or repair pieces or components of the EQUIPMENT, which are found defective due to reasons of fabrication or material, at its own option, if possible at the place of operation, provided that those defects of the pieces of the equipment or
+components are not the consequence of natural wear, misuse by the PURCHASER or third persons, or pieces and components which have been operated and/or stored in discordance with the operation and maintenance manuals of the SUPPLIER or the defects
+have occurred due to any act of negligence by the PURCHASER or by third persons, or due to chemical or electrolytic influences. Wear and tear parts are also not included in the warranties. The request referred to above shall contain the nature of
+the nonconformity with the technical specification as agreed in Annex E. 
+The parts, pieces or components of the EQUIPMENT
+which have been removed and replaced within the WARRANTY PERIOD as stipulated above shall become the property of the SUPPLIER and the warranty period for replaced and repaired parts shall be one (1) year from the date of repair or replacement,
+however not longer than 48 months after coming into force of the Contract according to Clause 21, whichever occurs first. 
+
+7.2 
+Liability for Defective Engineering 
+
+During the WARRANTY PERIOD as per item 7.1.2 the SUPPLIER’S sole obligation regarding faulty engineering shall be to correct by replacement any error or omission detected in the drawings, manuals and
+catalogues which have been supplied as per Annex E within 60 days as from the date the SUPPLIER have received the respective documents from the PURCHASER as per Clause 5.1. However, it shall be expressly agreed that the SUPPLIER shall have no
+liability for errors or omissions detected in the documents which have been supplied as per Annex “A” unless such error or omission is attributable to the SUPPLIER, and not based on incorrect information, drawings or documents provided by
+the PURCHASER. 
+
+7.3 
+Warranties for the Performance of the EQUIPMENT 
+
+Performance warranties and its respective liquidated damages in case of non-fulfilment are stipulated on Annex F of this Contract. 
+The Parties agree that if the specified service life of the grinding parts is not achieved, then the SUPPLIER shall credit the difference between the agreed and the achieved service life in accordance
+with the comparative cost proportion for a new set of grinding parts FOB European port in accordance with INCOTERMS 2010. However, this only applies if the PURCHASER attests the actual service life by an operating hours counter or similar
+recordings. 
+
+7.4 
+It is expressly agreed that the PURCHASER shall not be entitled to claim any further rights and/or remedies regarding the non-fulfilment of the warranties of the
+EQUIPMENT, except as provided for in this Clause 7, Clause 10 and Annex F of this Contract. 
+
+7.5 
+The warranties stipulated in this Clause 7 shall be exclusive and conclusive and no further warranty obligations, whether express or implied shall apply nor shall any
+of the above given warranty be construed as any special warranty for merchantability or satisfactory quality or fitness for a particular purpose. Furthermore, the warranties stipulated above shall apply only if the EQUIPMENT has been erected and
+commissioned either by the SUPPLIER or with the technical assistance of the SUPPLIER. 
+
+Clause 8. 
+INSPECTION AND TESTS AT SUPPLIER’S PLANT 
+
+8.1 
+The PURCHASER shall be entitled during manufacture to witness inspections, examinations and tests of the EQUIPMENT and workmanship at the SUPPLIER’S premises,
+during normal working hours, as well as to check the progress of manufacture of all main items, parts or components of the EQUIPMENT to be supplied under the Contract. If the mentioned items, parts, components or EQUIPMENT is being manufactured at
+other premises, the SUPPLIER shall do its best efforts to get the permission for the PURCHASER to witness such inspections, examinations and tests. All travelling charges and other costs directly related to the inspection of the PURCHASER or its
+inspectors, shall be for the PURCHASER’s account. The inspections, examinations and tests shall be executed in accordance with the SUPPLIER’S inspections and test procedures. 
+
+Clause 9. 
+PACKING, TRANSPORTATION AND INSURANCE 
+
+The EQUIPMENT shall be delivered FOB port of origin as per INCOTERMS last version, including seaworthy packing if necessary. The supply does not include overseas transportation and respective insurance,
+custom clearance, import taxes or fees, land transportation and respective insurance and/or any taxes or duties to be paid in Peru. 
+
+Clause 10. 
+TECHNICAL ACCEPTANCE OF THE EQUIPMENT 
+
+10.1 
+The SUPPLIER warrants the performance of the EQUIPMENT in accordance with the provisions as stipulated in Clause 7.3 and Annex F. 
+
+10.2 
+The warranty obligations of the SUPPLIER with respect to the performance of the EQUIPMENT shall be fulfilled if either the operation books show the achievement of the
+warranted performance figures as per Annex F or a performance test has been carried out in accordance with the provisions as set forth in Annex F and the EQUIPMENT has thereby been proven to achieve the warranted performance figures as per Annex F.
+
+10.3 
+In case a performance test is required, the PURCHASER shall conduct the performance tests with the technical assistance of the SUPPLIER in accordance with the
+regulations stipulated in Annex F. 
+
+10.4 
+Once it is proven that the EQUIPMENT achieves the warranted performance figures as per Annex F, the PURCHASER shall issue a Certificate of Technical Acceptance for the
+EQUIPMENT. 
+
+10.5 
+If the aforesaid test shows that the EQUIPMENT does not achieve the warranted performance figures as stipulated in Annex “F” due to reasons attributable
+to the SUPPLIER, the SUPPLIER, upon receipt of notice from the PURCHASER, shall have a period of ten (10) business days, to start taking all the necessary measures at its own option for substituting or making corrections and the above mentioned
+test shall be repeated as soon as reasonable practicable thereafter. 
+
+10.6 
+Where repairs or adjustments have been made, and if the EQUIPMENT after a repeated performance test achieves the warranted performance figures as per Annex F, the
+PURCHASER shall issue a Certificate of Technical Acceptance immediately after the test has been finished. 
+
+10.7 
+If a repeated performance test shows that the EQUIPMENT does not achieve the warranted performance figures as per Annex F within a reasonable period of time to be
+agreed between the Parties, due to reasons attributable to the SUPPLIER and the SUPPLIER does not start to make the necessary corrections for attaining the performance levels stipulated in Annex F within the period as per Clause 10.5, the PURCHASER
+shall be entitled to claim the respective liquidated damages as provided in Annex F immediately. 
+
+Upon payment of
+such liquidated damages the PURCHASER shall issue a release statement to the SUPPLIER (hereinafter referred to as “Release Statement”) from the responsibilities to achieve the failed specific performance warranty, as per Annex F. In
+the event, the PURCHASER does not unreasonably issue the Release Statement within 15 days from the payment of such liquidated damages; the SUPPLIER shall be able to issue the “Release Statement” on behalf of the PURCHASER. 
+
+10.8 
+In case a performance test cannot be carried out within 48 months after coming into force of the Contract according to Clause 21, or the operation books do not
+show the achievement of the performance figures as per Annex F by that time for reasons not attributable to the SUPPLIER, the PURCHASER shall issue a Certificate of Technical Acceptance, and the SUPPLIER shall be released from any responsibility
+regarding the performance of the EQUIPMENT. If the SUPPLIER has paid the maximum amount of liquidated damages provided for in Annex F, Clause 10.7 shall be applied. 
+
+Clause 11. 
+ASSIGNMENT AND SUBCONTRACTING 
+
+The SUPPLIER may use parts of the EQUIPMENT supplied by qualified subcontractors having a quality control system and capability satisfactory to the SUPPLIER; however, subcontracting shall not relieve the
+SUPPLIER from full and entire responsibility for performance of its obligations and its subcontractors in accordance with this Contract. 
+
+Clause 12. 
+INTELLECTUAL PROPERTY RIGHTS 
+
+12.1. 
+The SUPPLIER shall indemnify the PURCHASER against all claims of infringement of any patent, registered design, copyright, trade mark or trade name or other
+intellectual property right provided that all of the following conditions are satisfied: 
+
+(i) 
+The claim or proceedings arise out of the design, construction, manufacture or use of the EQUIPMENT supplied by the SUPPLIER. 
+
+(ii) 
+The infringement was not caused by any use of the EQUIPMENTS otherwise than for the purpose indicated by or reasonably to be inferred from Annex E.
+
+(iii) 
+The infringement was not caused by the use of any EQUIPMENT in association or combination with any equipment not supplied by the SUPPLIER, unless such association or
+combination was performed by Thyssenkrupp Polysius AG or its affiliates companies or disclosed to the SUPPLIER prior to the date of signing of the Contract, or was not reasonably to be inferred from the specification. 
+
+(iv) 
+The infringement or allegation of infringement was not a necessary consequence of the SUPPLIER following the design or specific written instructions of the PURCHASER.
+
+12.2 
+If during the execution of this Contract industrial property rights or copyrights might be generated, those belong to the SUPPLIER and the PURCHASER herewith already
+obliges itself to observe secrecy regarding those rights and to render every assistance necessary for the SUPPLIER to make the arrangements for the registration with the competent organ. 
+
+12.3 
+The industrial property of the SUPPLIER such as drawings, patents, copyrights, data, calculations and other elaborations, know-how, etc. put at the disposal of the
+PURCHASER within the scope of this Contract shall neither be transferred to the PURCHASER nor shall any license for the exploitation of the industrial property as mentioned above be issued. 
+
+Clause 13. 
+CONFIDENTIALITY 
+
+13.1 
+During the term of this Contract and for a period of five (5) years thereafter, the parties shall keep all information disclosed or otherwise made available
+pursuant to or in the course of this Contract, whether orally or in any other manner, hereinafter refer to “Confidential Information”, strictly confidential and it shall not disclose any Confidential Information to any third parties
+without having obtained the other party ’s prior express written permission to do so, unless specifically provided for herein below. 
+
+13.2 
+The obligation of confidentiality imposed upon the parties pursuant this Clause 13 shall not apply to any information (i) that was already in the possession of the
+PURCHASER at the time of disclosure, or is rightfully obtained from a source other than from the SUPPLIER or vice versa; (ii) which at any time becomes available to the public or is or has gone into the public domain through no fault of the
+PURCHASER or vice versa; (iii) which, after disclosure by the SUPPLIER to the PURCHASER, is at any time lawfully obtained by the PURCHASER from third parties who are under no confidential obligation to the SUPPLIER or vice versa; or
+(iv) which is required by law to be disclosed by the receiving Party or (v) pursuant to an order of a court or administrative body of competent jurisdiction or government agency, provided that the PURCHASER shall notify the SUPPLIER in the
+event the PURCHASER elects to legally contest, request confidential treatment, or otherwise avoid such disclosure or vice versa. 
+
+13.3 
+Notwithstanding the aforementioned, the SUPPLIER shall be allowed to publish the basic data of the PROJECT in its webpage, brochures and new releases, after written
+authorization from the PURCHASER. The PURCHASER shall not unreasonably withhold that authorization. 
+
+Clause 14. 
+RESPONSIBILITY AND LIQUIDATED DAMAGES 
+
+14.1. 
+The SUPPLIER shall be responsible exclusively in accordance with the terms in this Clause 14. 
+
+14.2. 
+The parties shall in no event be liable for any indirect, consequential or accidental losses and damages, such as, but not limited to loss of use of the equipment and
+services, loss of profit or loss of production, no matter if those are based on this contract, tort, violation of accessory obligations or any other reclamations resulting from loss of production and loss of profit. 
+
+14.3. 
+In case the SUPPLIER does not comply with its delivery dates stipulated in the Contract, they shall be subject to liquidated damages corresponding to 0,5 % of the FOB
+value of the section of the EQUIPMENT in delay per each full week in delay, counted from the beginning of the non-fulfillment until effective fulfillment of the obligation, up to a maximum amount corresponding to 5% of the section of the EQUIPMENT
+in delay. 
+
+14.4. 
+The maximum amount of liquidated damages to be paid under this Contract for the reason of delay shall be limited to 5 % of the FOB price of the plant section in
+delay. The PURCHASER shall not be entitled to any liquidated damages for delay in the event the time schedule for the PROJECT is not affected by the SUPPLIER’S delay. 
+
+14.5. 
+The Parties agree that the reference value for the calculation of all possible indemnifications stipulated in this Contract shall be the prices stipulated in Annex A
+and that the total maximum responsibility of the SUPPLIER towards the PURCHASER for the execution of this Contract, including the obligation to pay liquidated damages for delay as set in Clause 14.3 or for nonperformance as set in Clause 10.7 shall
+be expressly limited to 10% of the contract price. 
+
+14.6 
+The whole liability and responsibility of the parties are agreed upon completely and exclusively in this Contract. Whenever a right and/or remedy is stipulated in the
+Contract such right and/or remedy shall be the sole right and/or remedy regarding the subject and other rights and/or remedies shall be excluded. Notwithstanding the aforementioned, the SUPPLIER hereby agrees to indemnify, defend and hold harmless
+the PURCHASER, and any of its subsidiaries, parents or affiliates, and their respective directors, officers, agents, employees and designees, from and against any and all losses, claims, liabilities, injuries, damages and expenses, including,
+without limitation, attorneys’ fees and court costs, arising out of, or occurring in connection with, (i) the performance or lack of performance by the SUPPLIER of its duties and obligations under or pursuant to this Contract, and/or
+(ii) any error, omission or act (negligent or otherwise) by the SUPPLIER, or its employees, agents, affiliates or other representatives. 
+
+The whole liability and responsibility of the SUPPLIER is agreed upon completely and exclusively in this Contract, and shall be limited to 10% of the Contract Price whether such liability arises from
+anyone or more claims or actions for breach of contract, tort (including negligence), delayed completion, warranty, indemnity, strict liability or otherwise. Whenever a right and/or remedy is stipulated in the Contract such right and/or remedy shall
+be the sole right and/or remedy regarding the subject and other rights and/or remedies shall be excluded. 
+
+Clause 15. 
+VARIATIONS AND SEVERABILITY 
+
+No amendment, addition, variation, or modification of any term or provision of this Contract shall be effective unless both Parties confirm it by a written addendum, duly executed. 
+
+If, for any reason whatsoever, any provision of this Contract is held to be invalid, illegal or ineffective, such provision shall be
+replaced by the Parties by an admissible one, aiming at the same economic and legal results and the validity, legality and effectiveness of the remaining provisions of this Contract shall not thereby be affected or compromised in any manner.
+
+Clause 16. 
+FORCE MAJEURE 
+
+16.1 
+Neither Party shall be liable for delay or failure in performing all or any part of this Contract to the extent that its performance has been obstructed due to a Force
+Majeure Event. Force Majeure as used in this Contract shall mean any event and circumstances beyond the control of the Parties. Such events shall include but shall not be limited to fires, explosions, flood, facts of the elements, acts of public
+enemies, sabotage, wars, riots, civil or political disturbance, interference by military authorities, prohibitions of exports or imports, epidemics, pandemics. 
+
+16.2 
+If an event of Force Majeure occurs the time stipulated for the fulfilment of the obligations of the affected Party shall be extended or suspended for
+a period equal to the duration of such event or circumstance, without any liability, provided that the Party so affected informs the other promptly in 
+
+writing or by e-mail or facsimile together with supporting documents confirming the event which causes such Force Majeure. Such notice shall set forth in reasonable details the nature of the
+Force Majeure and the best estimate by the Party so claiming of the duration thereof. The Party so affected shall not be liable to the other for damages caused by the occurrence of a Force Majeure event. In the event of Force Majeure, the Parties
+shall immediately consult with each other to find an equitable solution and shall use their best efforts to minimize the consequences of such Force Majeure event. 
+
+16.3 
+As soon as reasonably possible after the end of the Force Majeure event the affected Party shall notify the other Party in writing that the Force Majeure event has
+ceased and resume the performance of its obligations under this Contract. 
+
+16.4 
+In the event that a case of Force Majeure persists for duration of sixty (60) or more days, the Parties shall convene and mutually agree how to proceed.
+
+Clause 17. 
+TERMINATION 
+
+17.1 
+The Parties may terminate this Contract by a written notice if the other Party becomes bankrupt or insolvent, goes into liquidation, has a receiving or administration
+order made against it, or carries on business under a receiver 
+
+17.2 
+THE SUPPLIER may terminate this Agreement in the event that the PURCHASER unjustifiably delays payments due for more than sixty (60) days and in the event of
+Clause 21.2; 
+
+17.3 
+THE PURCHASER may terminate this Agreement in the event that the SUPPLIER unjustifiably delays the supply of the EQUIPMENT for more than sixty (60) days;
+
+17.4 
+In the event of termination due to any reasons not attributable to the SUPPLIER, the SUPPLIER shall be compensated for all such actual, reasonable and duly evidenced
+costs which have been occurred until the date of termination, not to exceed the Contract Price, which means for: 
+
+(i) 
+All equipment ordered and already started manufacturing; 
+
+(ii) 
+All cancellation fees incurred by the SUPPLIER, and; 
+
+(iii) 
+All engineering work already executed. 
+
+After the SUPPLIER has received the compensation, the L/C mentioned at Clause 4.2, shall hereafter be voided automatically. 
+
+17.5 
+All other rights and/or remedies of the PURCHASER with regard to the termination reason shall be expressly excluded. 
+
+Clause 18. 
+INSURANCE 
+
+18.1. 
+All relevant Contract insurances shall be provided by the PURCHASER at his cost and the insurances so provided and maintained by the PURCHASER shall include a waiver of
+subrogation, which shall state that the insurer waives all right of subrogation against the SUPPLIER, its representatives, employees, agents, affiliates and Sub-Suppliers. The PURCHASER shall indemnify and hold the SUPPLIER harmless for all and any
+claims which may arise against SUPPLIER in this regard. All relevant Contract insurances means: EQUIPMENT Transport Insurance, All Risk Insurance with the SUPPLIER co-insured. 
+
+18.2 
+It is a condition of the Contract that the PURCHASER shall authorize the insurers to pay any insurance claim arising out of the Contract direct to the SUPPLIER without
+any deduction except in respect of the stipulated insurances. 
+
+Clause 19. 
+NOTICES 
+
+19.1 
+Any notice or communication to be made hereunder by the SUPPLIER to the PURCHASER shall be addressed as follows: 
+
+Mr. Juan Teevin 
+
+Piura Cement Plant Project Manager 
+
+Cementos Pacasmayo S.A.A. 
+
+Calle La Colonia N° 150, Urb. El Vivero 
+
+Lima 33, Peru 
+
+Email: jteevin@cpsaa.com.pe 
+
+Tel: (511) 317-6000, Ext.: 2078 
+
+19.2 
+Any notice or communication to be made hereunder by the PURCHASER to the SUPPLIER shall be addressed as follows: 
+
+Ariel Edgardo Gamburgo 
+Polysius do Brasil 
+Dept. 100 – Cordinación de Proyectos / Contract
+Management 
+Av. Brig. Faria Lima, 1572 – 14º andar 
+
+CEP 01451-917 São Paulo – SP - Brasil 
+Phone: +55 11 3811 4459 / 
++55 11 98254 2385 
+
+E-mail address: ariel.gamburgo@thyssenkrupp.com 
+With copy to: 
+Peter Berg 
+
+Project manager 
+
+Loesche GmbH 
+
+Hansaallee 243 
+
+40549 Düsseldorf 
+Germany 
+Email: peter.berg@loesche.de 
+
+Tel: +49- 211-5353-351 
+
+19.3 
+Notices can also be made to any other address or person that the Parties may inform to each other during the term of this Contract. 
+
+19.4 
+Any correspondence between the Parties shall be in the English language. 
+
+Clause 20. 
+GOVERNING LAW AND DISPUTE RESOLUTION 
+
+20.1 
+This Contract shall be governed by and construed in accordance with the laws of Peru and Rules of the United Nations Convention on Contracts for the International Sale
+of Goods shall apply supplementary. 
+
+20.2 
+Negotiation 
+
+If a dispute
+arises between the Parties relating to or arising out of this Contract, then within thirty (30) days of a Party in writing notifying the other Party of a dispute, senior representatives from each Party must meet and use reasonable endeavours
+acting in good faith to resolve the dispute. 
+
+20.3 
+Mediation 
+
+If a dispute
+arising under this Contract is not resolved within 15 days of notification of the dispute under Clause 20.2, the Parties will, if mutually agreed, submit the matter to mediation before two mediators, each one to be appointed by the CEO’s of
+both parties. The mediation process will cease if the dispute is not settled within thirty (30) days of the last mediator being appointed, or such longer period as the Parties may agree. 
+
+20.4 
+Arbitration 
+
+If a dispute
+arising under this Contract is not resolved under clause 20.3 (or if no agreement is reached to refer the dispute to mediation within thirty (30) days of notification of the dispute under clause 20.3, either Party may, by written notice to the
+other, refer the dispute to arbitration in accordance with the Rules for Arbitration of ICC (International Chamber of Commerce, Paris) by three (3) arbitrators appointed in accordance with the said Rules. The arbitration shall be conducted in
+English and held in the city of Paris, France, unless all parties to the arbitration agree otherwise. The determination of the arbitrators shall be final and binding upon the Parties and the enforcement of the award may be entered in any court
+having jurisdiction for such enforcement. 
+
+Clause 21. 
+COMING INTO FORCE OF THE CONTRACT 
+
+21.1. 
+This Contract shall come into force upon the signature by all Parties, the receipt of the pre-advance payment as per Clause 4.2 and emission of the Letter of Credit
+according to Clause 4.2. 
+
+21.2 
+In case the Letter of Credit is not issued within 30 days after signing the Contract and/or the advance payments according to Clause 4.2 have not been made by the
+PURCHASER within 30 days after signing the Contract, the Parties shall meet to negotiate any further procedure. 
+
+IN WITNESS
+WHEREOF , the Parties have caused this Contract to be duly executed by their legal representatives in two (2) counterparts of identical content, in the presence of the undersigned witnesses. 
+
+PLACE AND DATE: September 28 th , 2012 
+
+Cementos Pacasmayo S.A.A. 
+
+Cementos Pacasmayo S.A.A. 
+
+/s/ Humberto Nadal del Carpio 
+
+/s/ Carlos Julio Pomarino 
+
+Humberto Nadal 
+
+Carlos Julio Pomarino 
+
+Loesche GmbH 
+
+Loesche GmbH 
+
+/s/ Jürgen Triep 
+
+/s/ Thomas Komarek 
+
+Jürgen Triep 
+
+Thomas Komarek 
+
+Annex I: 
+AFFIDAVIT REGARDING THE ENGINEERING 
+
+September 28 th , 2012 
+
+Gentlemen: 
+Cementos Pacasmayo
+S.A.A . 
+I write this letter in my condition of representative of Loesche GmbH, in order to issue the present Affidavit, by means of
+which we certificate that by virtue of the Engineering Services referred in the “Equipment Supply Contract N° 2020-0126/2012”, our company will render technical assistant services to Cementos Pacasmayo S.A.A. to develop the Basic and
+Detailed Engineering for the Cementos Piura 3000 tpd of Clinker Greenfield Plant. 
+The referred services will be rendered during the following
+term: since the day hereof to the term indicated at Clause 3.3 of the Contract above mentioned. This term could be extended if both parties agree so. For these services rendering, we will send the corresponding invoices, we will pay the
+corresponding local taxes, we will register them in our accounting books and we will include them in the Statement to be filled before the corresponding public entities. 
+Signed on September 28 th , 2012, as you requested and according to the section f) of the article 56 of the Peruvian Income Tax Law, according to the Law No. 28442 amendment, in force since January 1, 2005; and other
+complementary and amended norms. 
+
+Sincerely, 
+
+Loesche GmbH 
+
+Spanish Translation 
+
+DECLARACIÓN JURADA 
+28 de Septiembre de 2012 
+Sres. 
+Cementos Pacasmayo S.A.A . 
+De mi mayor consideración: 
+
+Me dirijo a ustedes en mi calidad de representante de Loesche GmbH, a efectos de emitir la presente declaración jurada, la cual
+tiene por finalidad certificar que en virtud del “Contrato N° 2020-0126/2012”, nuestra empresa prestará servicios de Asistencia Técnica a Cementos Pacasmayo S.A.A. para desarrollar la Ingeniería Básica y de
+Detalle para su nueva Planta de Cemento de 3000 tpd de Clinker en Piura, Perú. 
+Los referidos servicios serán
+prestados desde la fecha de emisión del presente documento hasta el término del plazo indicado en la Cláusula 3.3 del contrato antes mencionado. Dicho plazo podrá ser ampliado por acuerdo de las partes. Por la
+prestación de dichos servicios, enviaremos las respectivas facturas, nos haremos cargo de los impuestos locales en Alemania, correspondientes a las mismas, las asentaremos en nuestros libros contables y las incluiremos en las declaraciones
+que deban presentarse ante los organismos públicos correspondientes en Alemania. 
+La presente declaración se
+realiza a los 28 días del mes de Septiembre de 2012, a vuestra solicitud y en cumplimiento de lo establecido en el inciso f) del Artículo 56° de la Ley del Impuesto a la Renta peruana, según modificación introducida
+por la Ley N° 28442, vigente a partir del 1 de enero de 2005. 
+
+Atentamente, 
+
+Loesche GmbH

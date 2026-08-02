@@ -1,0 +1,645 @@
+Methanol Sales Agreement 
+
+Exhibit 10.11 
+
+*** CONFIDENTIAL TREATMENT HAS BEEN REQUESTED FOR PORTIONS OF THIS EXHIBIT.
+THE COPY FILED HEREWITH OMITS THE INFORMATION SUBJECT TO THE CONFIDENTIALITY REQUEST. OMISSIONS ARE DESIGNATED AS [****]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE
+COMMISSION. 
+
+METHANOL SALES AGREEMENT 
+This METHANOL SALES AGREEMENT (the “ Agreement ”) is made on December 8th, 2006 between Methanex Methanol Company at 15301 Dallas
+Parkway, Suite 1150, Addison, TX 75001-6480, (“ Seller ”), and Imperium Renewables, 1418 Third Avenue, Suite 300, Seattle, WA, 98101, (“Buyer”). 
+COMMERCIAL TERMS 
+WHEREAS: 
+Seller has agreed to supply Methanol (defined below) to Buyer, and Buyer has agreed to purchase such Methanol from Seller, on the terms and conditions set out in this Agreement. 
+
+1. 
+Interpretation: 
+
+This Agreement consists of these Commercial Terms,
+Schedule A—Methanol Specification and Schedule B—General Terms and Conditions. Words contained in these Commercial Terms with an initial capital letter shall have the meaning given to such word in these Commercial Terms or in
+Section 1 of Schedule B attached. Unless expressly stated otherwise, references to sections, clauses or articles in these Commercial Terms shall be deemed to be references to sections, clauses and articles of these Commercial Terms. 
+
+2. 
+Specification 
+
+Methanol (“ Methanol ” or
+“ Product ”) delivered in accordance with this Agreement shall comply with the specification set forth in Schedule A attached hereto and made a part hereof. 
+
+3. 
+Quantity of Product 
+
+Subject to the terms and conditions contained
+in this Agreement, Seller agrees to sell to Buyer, and Buyer agrees to purchase from Seller, 95% of Buyer’s total annual requirements of Methanol at Buyer’s facility in Gray’s Harbor, WA, estimated to be [****] each Year during the
+Term (defined below) of this Agreement. The actual quantity of Product purchased by Buyer during a Year is to be nominated by Buyer in accordance with the provision of this Agreement. Buyer shall use its best efforts to take Product evenly over the
+Term of this Agreement. 
+
+4. 
+Term and Termination 
+
+4.1 Subject to earlier termination in
+accordance with these Commercial Terms or Section 12 of Schedule B, the initial term (“ Initial Term ”) of this Agreement shall commence on May 1, 2007 and expire on April 30, 2010. This Agreement shall be automatically
+renewed for a further 2 year period (each a “ Renewal Term ”), unless and until terminated by either party by service of at least six months on the other party, such notice not to be served before October 31, 2009. For the
+purposes of this Agreement the word “ Term ” means the Initial Term and any Renewal Term, if applicable. 
+4.2 As soon as reasonably
+practicable after notice having been served by either party pursuant to this Section 4, the parties shall meet to discuss in good faith the reasons for termination and the possible continuation of this Agreement. 
+
+5. 
+Price 
+
+(a) 
+For the period from May 1, 2007 until the earlier of: (i) January 1, 2008, and (ii) the Terminal Commencement Date, provided such date is prior to
+January 1, 2008, the price (“ Gray’s Harbor CPT 
+
+1 of 11 
+
+*** CONFIDENTIAL TREATMENT HAS BEEN REQUESTED FOR PORTIONS OF THIS EXHIBIT. THE COPY FILED
+HEREWITH OMITS THE INFORMATION SUBJECT TO THE CONFIDENTIALITY REQUEST. OMISSIONS ARE DESIGNATED AS [****]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION. 
+
+Price”) in US cents per gallon of Methanol sold by Seller to Buyer at the Gray’s
+Harbor CPT Point (defined below) for each calendar month shall be determined as follows: 
+Gray’s Harbor CPT Price = MNDRP + RF + L +
+G 
+
+(b) 
+For the period from January 1, 2008 until the Terminal Commencement Date, provided such date is after January 1, 2008, the price (“ Gray’s Harbor CPT
+Price”) in US cents per gallon of Methanol sold by Seller to Buyer at the Gray’s Harbor CPT Point (defined below) for each calendar month shall be determined as follows: 
+
+Gray’s Harbor CPT Price = MNDRP + F + G 
+
+(c) 
+The price (“Vancouver WA FCA Price”) in US cents par gallon of Methanol sold by Seller to Buyer at the Vancouver, WA FCA Point (defined below) for each calendar
+month shall be determined as follows: 
+
+Vancouver 
+WA FCA Price = MNDRP + G 
+
+(d) 
+For the purposes of Section 5, the following terms shall have the following meaning: 
+
+“MNDRP” is the Methanex US Gulf Coast Non-Discounted Reference Price, which is the market index price per gallon of Methanol determined by Seller on a monthly basis. This price is announced to
+customers directly by Seller, and is also made available in the trade publications; 
+“RF” is the actual rail freight cost
+of transporting Product to the property line of Buyer’s facility in Gray’s Harbor, WA from Seller’s terminal in Kitimat, British Columbia (defined below). “F” shall be subject to monthly adjustments to reflect actual rail
+freight plus fuel surcharge costs incurred by Seller in transporting Product to Buyer’s facility in Gray’s Harbor, WA during the Term of this Agreement; 
+“F” is the actual freight cost of transporting Product to the property line of Buyer’s facility in Gray’s Harbor, WA from the Vancouver Washington Terminal (defined below) by tank truck.
+
+“L” is the cost to hold the railcars in service for deliveries of Product, and “L” includes actual railcar lease
+and management costs. “L” shall be set at $0.03 per gallon for the first eighteen (18) months of the agreement and then be subject to adjustment to reflect any cost changes incurred by Seller thereafter; and 
+“G” is equal to $[****] per gallon representing the geographic differential compared to USGC ($[****] per Tonne). 
+
+(e) 
+In the event Buyer purchases from Seller during any consecutive six month period starting from May 1, 2007 a quantity of Product greater than [****], then Buyer shall be
+entitled to a rebate (“ Rebate ”) calculated monthly for such six month period as follows: the MNDRP applicable for the month multiplied by [****]% multiplied by the quantity of Product sold by Buyer to Seller during such month.
+Seller shall pay Buyer the Discount within 30 days from the last day of the sixth month. 
+
+6. 
+Taxes and Duty 
+
+The prices set out in Sections 5(a), (b) and
+(c) are is exclusive of any applicable taxes, duties, and impositions which, if applicable, shall be paid by Buyer to Seller at the same time as the price of the Product set forth in Section 5(a), (b) and (c) is paid. 
+
+2 of 11 
+
+*** CONFIDENTIAL TREATMENT HAS BEEN REQUESTED FOR PORTIONS OF THIS EXHIBIT. THE COPY FILED
+HEREWITH OMITS THE INFORMATION SUBJECT TO THE CONFIDENTIALITY REQUEST. OMISSIONS ARE DESIGNATED AS [****]. A COMPLETE VERSION OF THIS EXHIBIT HAS BEEN FILED SEPARATELY WITH THE SECURITIES AND EXCHANGE COMMISSION. 
+
+7. Invoicing and Payment Terms 
+Seller shall invoice Buyer for Product on a monthly basis, at the end of each calendar month, based upon the quantity of Product delivered during such calendar month and the price for such Product as set forth in
+Section 5 above. 
+
+7.1 
+Buyer shall make payment to Seller, in the full amount of any invoice, within 15 days from receipt of invoice. 
+
+7.2 
+Payment of all invoices shall be made by Buyer to Seller by wire transfer to Seller’s bank below, or provided Seller agrees in writing, to the Seller’s nominated agent.
+
+LaSalle National Bank 
+ABA No.: [****] 
+Account of: Methanex Methanol Company 
+Account No.: [****] 
+
+8. 
+Delivery Incoterm 
+
+8.1 
+Product sold by Seller to Buyer under this Agreement is sold as follows: 
+
+(a) 
+CPT (as defined by Incoterms) Buyer’s facility in Gray’s Harbor, WA (the “ Gray’s Harbor CPT Point ”). Seller shall deliver the Product to Buyer at the
+Gray’s Harbor CPT Point by means of Seller’s (or Seller’s lessor’s) railcars; 
+
+(b) 
+from and after the Terminal Commencement Date (defined below), FCA (as defined by Incoterms) Vancouver Washington Terminal (the “ Vancouver WA FCA Point ”). Seller
+shall deliver the Product to the Buyer at the Vancouver WA FCA Point into tank trucks procured by Buyer. 
+
+8.2 
+Buyer and Seller acknowledge that Seller is in the process of securing methanol storage tanks at a terminal in Vancouver, WA (the “Vancouver Washington Terminal”). Seller
+shall provide Buyer with not less than [30] days written notice of the date on which the Vancouver Washington Terminal will become operational (such date, the “Terminal Commencement Date”). Buyer shall provide Seller with not less than
+[45] days written notice of the date whereby Buyer will commence FCA deliveries. 
+
+9. 
+Product to be Used Only by Buyer 
+
+Buyer covenants and agrees that
+the Product purchased by it from Seller is to be used solely and exclusively at Gray’s Harbor, WA by Buyer for Buyer’s own captive consumption and that Buyer will not sell or otherwise directly or indirectly dispose of the Product to any
+other person, firm, corporation or other similar entity. 
+
+10. 
+Forecasting and Nomination Procedures 
+
+a) By the first day of each
+calendar month preceding a calendar quarter Buyer will provide a rolling forecast of Product expected to be required in each of the next four calendar quarters. For the avoidance of doubt, this forecast is not a commitment to purchase any Product
+during such calendar quarters. 
+b) Buyer shall, no later than the fifteenth day of each calendar month, provide to Seller a rolling three month forecast of
+Product expected to be required by Buyer in each of the next three calendar months, the forecast for the first calendar month of which shall constitute a firm commitment of the Buyer to take delivery of and pay for such Product for that calendar
+month. In preparing the forecast hereunder, Buyer shall use its best efforts to provide an accurate forecast. If Buyer fails to provide said forecast, Buyer agrees to accept Seller’s forecast for the first calendar month. 
+c) Buyer shall advise Seller of any event or circumstance that may impact Buyer’s consumption/demand 
+
+3 of 11 
+
+for Product as forecasted by Buyer in accordance with Sections 10(a) and (b) above, as soon as practical after Buyer becomes aware of such event or
+circumstance. 
+
+11. 
+Entire Agreement 
+
+This Agreement, consisting of this document
+(“ Commercial Terms ”) and the following listed Schedules, which are incorporated into and form an integral part of this Agreement: 
+
+Schedule 
+A – Methanol Specification 
+
+Schedule 
+B – General Terms and Conditions 
+
+In the event of any inconsistency
+or conflict between any terms or conditions of these Commercial Terms and any Schedule, the terms or conditions contained in these Commercial Terms shall govern. 
+
+Signed for and on behalf of: 
+
+Signed for and on behalf of: 
+
+IMPERIUM RENEWABLES 
+
+METHANEX METHANOL COMPANY by its 
+General Partner, Methanex Gulf Coast Inc. 
+
+/s/ John Plaza 
+
+/s/ C.J.
+Caudell 
+
+By: 
+
+John Plaza 
+
+By: 
+
+C.J. Caudell 
+
+Title: 
+
+President 
+
+Title: 
+
+President 
+
+/s/ Tangela
+Blain 
+
+By: 
+
+Tangela Blain 
+
+Title: 
+
+Vice President 
+
+4 of 11 
+
+SCHEDULE A TO THE METHANOL SALES AGREEMENT 
+
+5 of 11 
+
+SCHEDULE B TO THE METHANOL SALES AGREEMENT 
+GENERAL TERMS AND CONDITIONS 
+
+1. 
+INTERPRETATION 
+
+1.1 
+No term or condition contained in any purchase order, order acknowledgement, sale confirmation or any other instrument or document issued by Buyer in respect of the subject matter
+of this Agreement shall be binding upon Seller nor shall such term or condition become a part of this Agreement unless specifically agreed to by Seller in writing. 
+
+1.2 
+Unless otherwise agreed in writing, all currency references shall be deemed to be references to U.S. dollars and cents and all references to gallons shall be deemed to be references
+to U.S. gallons. 
+
+1.3 
+In the event of any inconsistency or conflict between any term or conditions of this Schedule “B” and any term or condition contained in the Commercial Terms, the term or
+condition contained in the Commercial Terms shall govern. 
+
+1.4 
+“Agreement” means the Methanol Sales Agreement entered into between the parties hereto and is comprised of the Commercial Terms, Schedule “A” (Specifications),
+this Schedule “B” (General Terms and Conditions) and such other schedules that are deemed to form a part of this Agreement in accordance with the Commercial Terms. 
+
+1.5 
+“B/L Date” means the day the Bill of Lading is issued with respect to the delivery of a particular shipment of Methanol by Seller to Buyer. 
+
+1.6 
+“Bill of Lading” means the form of bill of lading used by Seller and which is issued by the vessel owner’s nominated agent with respect to a particular shipment of
+Methanol. 
+
+1.7 
+“Commercial Terms” means the document entitled “Commercial Terms” attached to and forming part of this Agreement and expressly incorporating the terms of this
+Schedule “B”. 
+
+1.8 
+“Gallons” means US gallons. 
+
+1.9 
+“Incoterms” means the standardized definitions relating to the import and export of goods published by the International Chamber of Commerce as revised in 2000.
+
+1.10 
+“Tonne” and “MT” mean a metric weight tonne equating to 1,000 kilograms. 
+
+1.11 
+Section headings used in this Schedule “B” and in the Commercial Terms are for convenience only. Words contained in this Schedule “B” with an initial capital
+letter that are defined in the Commercial Terms and not otherwise defined in this Schedule “B” shall have the meaning given to such words as in the Commercial Terms. 
+
+2. 
+DELIVERY 
+
+2.1 
+Where Buyer wishes to use its own tank trucks or barges, as applicable, in respect of Product delivered FOB or FCA (as such terms are defined by Incoterms), such tank trucks and
+barges will be accepted at the Delivery Point on a first-come, first-served basis. 
+
+2.2 
+Buyer shall be responsible for promptly taking delivery of the Product at the Delivery Point. Buyer shall be liable for all costs associated with Buyer’s failure to arrange
+timely payment for Product and/or Buyer’s failure to take delivery of Product that Buyer has committed to take including, without limitation, dead freight costs for Product not loaded and demurrage costs for any waiting time incurred by a
+barge, or railcar, as the case may be, at the Delivery Point, as applicable, and other similar costs. 
+
+2.3 
+Seller or its carrier may provide Buyer with unloading or shipment equipment to facilitate the unloading of the Product. Such equipment is used by Buyer at Buyer’s sole risk
+and Buyer shall ensure that such equipment is used and maintained in a proper, safe and reliable manner. Buyer shall promptly return all unloading or shipment equipment and comply with any instructions as given by Seller or its carrier with respect
+to the return of any unloading or shipment equipment. 
+
+3. 
+RISK OF LOSS AND TRANSFER OF TITLE 
+
+Unless
+otherwise expressly stated in the Commercial Terms: (i) Product sold under this Agreement shall be delivered as defined by the Incoterms stated in the Commercial Terms; (ii) risk of loss in the Product shall pass from Seller to Buyer as
+specifically defined by the Incoterms stated in the Commercial Terms; and (iii) title in the Product shall pass from Seller to Buyer at the point when the risk of loss passes from the Seller to the Buyer. 
+
+4. 
+INSPECTION 
+
+4.1 
+For all Product delivered CIF or CFR (as such terms are defined in Incoterms) Delivery Point by barge: 
+
+(a) 
+the quality of Product shall be determined at the port of shipment based on the most recent certificate of analysis issued by an independent surveyor selected by Seller in respect
+of the applicable storage tank; and 
+
+(b) 
+the quantity of Product loaded into the barge shall be certified by an independent surveyor based on land tank measurements before and after loading the Product into the barge.
+
+6 of 11 
+
+The surveyor’s certificate of analysis and the barge load report shall be final and binding upon the
+parties, save in the case of fraud or manifest error. A copy of the certificate of analysis and the barge load report shall be issued by the surveyor to both Buyer and Seller. 
+
+4.2 
+Intentionally deleted. 
+
+4.3 
+For all Product delivered FCA (as defined in Incoterms) Delivery Point by rail car, pipeline or tank truck: 
+
+(a) 
+the quality of the Product loaded into railcars, pipeline or tank trucks at such Delivery Point shall be determined based on the most recent certificate of analysis issued by an
+independent surveyor selected by Seller in respect of the applicable storage tank. This surveyor’s certificate of analysis shall be final and binding upon the parties, save in the case of fraud or manifest error. 
+
+(b) 
+the quantity of Product shall be determined at the Delivery Point using the method which is customary for the particular loading facility provided that it is within accepted
+industry practice, which methods may include positive displacement meter, weigh scales, official tank car capacity tables or gauged by an independent surveyor. Any surveyor’s fees payable shall be shared equally by Buyer and Seller.
+
+(c) 
+Seller or Seller’s terminal agent may refuse to load Product onto a rail car or tank truck if Seller or Seller’s terminal agent reasonably believes the rail car or tank
+truck, as the case may be, is defective or not clean. Neither Seller nor Seller’s terminal agent shall be liable to Buyer for any loss or delay as a result of the failure by the Seller or Seller’s terminal agent to load Product in a timely
+manner due to the lack of cleanliness of, or a defect in, a rail car or tank truck. Seller shall, unless otherwise notified by Buyer or the Commercial Terms stipulate otherwise, effect the delivery of such Product to Buyer on the next available,
+suitable rail car or tank truck. 
+
+4.4 
+For all Product delivered CPT (as defined in Incoterms) Delivery Point by rail car: 
+
+(a) 
+the quality of the Product loaded into railcars at such Delivery Point shall be determined based on the most recent certificate of analysis issued by an independent surveyor
+selected by Seller in respect of the applicable storage tank. This surveyor’s certificate of analysis shall be final and binding upon the parties, save in the case of fraud or manifest error; and 
+
+(b) 
+the quantity of Product shall be determined at the Delivery Point using the method which is customary for the particular loading facility provided that it is within accepted
+industry practice, which methods may include positive displacement meter, weigh scales or official tank car capacity tables. 
+
+4.5 
+Variations in the quantity of any Product delivered under this Agreement from the invoice or Bill of Lading quantity of 1.0% or less in the case of tank trucks, pipelines or
+railcars and 0.5% or less in the case of barges, shall be disregarded and Seller shall have no liability or obligation to adjust for such minor variances. 
+
+4.6 
+Subject to Section 4.5 above, if the surveyor or loading facility, as the case may be, advises Seller in writing of any shipment containing less Product than that quantity
+nominated by Buyer, then Seller shall, at its sole option: 
+
+a) 
+deliver to Buyer, within a reasonable period of time, a quantity of Product equal to the amount of the shortfall, such delivery to be made on the same terms and conditions as are
+provided in this Agreement; or 
+
+b) 
+provide a credit note to Buyer for the amount of the shortfall if Buyer has paid for such nominated quantity of Product in full, or adjust the amount of the invoice for such Product
+if Buyer has not paid for such nominated quantity of Product in full. 
+
+Buyer’s sole and exclusive remedy and
+Seller’s only liability or obligation for any shortfall in Product delivered hereunder shall be limited to the performance by Seller of one of the alternatives described in this Section 4.6. 
+
+4.7 
+Notice of any claim by Buyer respecting a particular shipment of Product pursuant to this Section 4 shall be immediately given in writing by Buyer to Seller, together with all
+relevant supporting documentation in Buyer’s possession or control, in any event no later than one month following delivery date of such shipment. 
+
+5. 
+LATE PAYMENT 
+
+5.1 
+If Buyer fails to pay the full amount of any invoice when due, or if Buyer’s financial status deteriorates or Seller perceives, acting reasonably, that Buyer’s financial
+status has deteriorated, Seller may, in its sole discretion, require payment in cash, or the establishment of a form of payment security, before any further shipments of Product are made under this Agreement. Upon request by Seller and within 60
+days of such request, Buyer agrees to deliver to Seller for the purposes of determining Buyer’s credit limit, if applicable, its annual audited financial statements, and quarterly unaudited financial statement. 
+
+5.2 
+If Buyer does not pay Seller in full for Product delivered by the due date, Seller shall be entitled to charge Buyer interest on the unpaid amount, from the due
+date up to the date of actual payment, at a rate of 
+
+7 of 11 
+
+2% per month or the maximum rate permitted by law, if lower. Such interest shall accrue on a daily basis on the amount outstanding until payment is made
+in full and shall be payable by Buyer forthwith on demand. 
+
+6. 
+NO SET-OFF OR DEDUCTION 
+
+6.1 
+All amounts due under the Agreement (including demurrage owed by Buyer under the Agreement) shall be paid in full by Buyer without set-off or deduction. 
+
+7. 
+TAXES 
+
+7.1 
+The price for Product delivered hereunder does not include any sales, use or value added tax, customs duty, federal, provincial, state or municipal tax or any other taxes, charges,
+tariffs or duties of whatever sort levied or which may be levied by any governmental or taxing authority (“ Taxes ”) upon the purchase, import, delivery, consumption or use of the Product. Buyer agrees to be responsible for the
+payment of such Taxes together with any penalties, fines, additions to tax, interest or other charges thereon and to indemnify Seller from liability in respect of such Taxes. Such obligation shall survive termination of this Agreement and shall
+continue in force until discharged in full. 
+
+8. 
+WARRANTIES, LIMITATION OF LIABILITY AND INSURANCE 
+
+8.1 
+AT THE POINT WHERE RISK IN THE PRODUCT PASSES, AS DESCRIBED IN THE COMMERCIAL TERMS OR OTHERWISE IN SECTION 3 ABOVE, SELLER WARRANTS TO BUYER THAT: I) IT HAS GOOD TITLE TO THE
+PRODUCT SOLD HEREUNDER; II) THE PRODUCT SOLD HEREUNDER CONFORMS TO THE SPECIFICATIONS DESCRIBED IN SCHEDULE “A”; AND III) THE PRODUCTION OF THE PRODUCT BY SELLER OR SALE OF THE PRODUCT HEREUNDER WILL NOT INFRINGE ANY PATENT COVERING THE
+PRODUCT. BUYER MAY NOT PASS ON THE BENEFITS OF SUCH WARRANTIES TO ANY THIRD PARTY. 
+
+8.2 
+EXCEPT AS EXPRESSLY SET OUT IN THIS AGREEMENT, THERE ARE NO FURTHER REPRESENTATIONS, WARRANTIES OR CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE
+INCLUDING ANY WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. 
+
+8.3 
+THE LIABILITY OF SELLER, INCLUDING ITS AFFILIATES AND THEIR RESPECTIVE DIRECTORS, OFFICERS, EMPLOYEES, REPRESENTATIVES OR AGENTS (COLLECTIVELY, “ SELLER’S
+REPRESENTATIVES ”), AND THE SOLE REMEDY OF THE BUYER, FOR BREACH OF THE WARRANTIES DESCRIBED IN CLAUSE 8.1 IS LIMITED TO EITHER, AT THE OPTION OF SELLER, THE REPLACEMENT OF THE AFFECTED PRODUCT OR A REFUND OF THE AMOUNT PAID FOR SUCH
+PRODUCT. SUCH REMEDY IS IN SUBSTITUTION FOR DAMAGES OR LOSSES TO WHICH BUYER MIGHT OTHERWISE BE ENTITLED AT LAW OR AT EQUITY AND, IN PARTICULAR, BUYER ACKNOWLEDGES THAT IN LIEU OF ANY ACTION FOR FUNDAMENTAL BREACH OF CONTRACT OR BREACH OF A
+FUNDAMENTAL TERM OF THE COMMERCIAL TERMS, BUYER WILL RELY ON THE PROVISION OF THE WARRANTIES DESCRIBED IN SECTION 8.1 ABOVE. 
+
+8.4 
+NEITHER SELLER NOR ANY OF SELLER’S REPRESENTATIVES SHALL BE LIABLE TO BUYER OR ITS EMPLOYEES, REPRESENTATIVES OR AGENTS FOR ANY LOSSES, DAMAGES, COST, EXPENSES OR CLAIMS
+(“ LOSSES ”) TO OR RESPECTING BUYER’S PHYSICAL PROPERTY, OR RESULTING FROM OR RELATED TO PERSONAL INJURY (INCLUDING DEATH) TO ANY PERSON, WHETHER OR NOT SUCH LOSSES ARISE OUT OF OR ARE CAUSED BY ANY ACT OR OMISSION, WHETHER
+NEGLIGENT OR OTHERWISE OF SELLER OR ANY OF SELLER’S REPRESENTATIVES. 
+
+8.5 
+SELLER’S MAXIMUM LIABILITY IN RESPECT OF OR IN ANY MANNER ARISING OUT OF THIS AGREEMENT FOR ALL LOSSES, DAMAGES, OR LIABILITY WHATSOEVER AND HOWSOEVER ARISING (INCLUDING
+NEGLIGENCE) SHALL NOT EXCEED AN AMOUNT EQUAL TO THE AMOUNT PAYABLE BY BUYER TO SELLER FOR THE SUPPLY OF PRODUCT HEREUNDER FOR THE ONE MONTH IMMEDIATELY PRECEDING THE DATE OF THE CLAIM. 
+
+8.6 
+NOTWITHSTANDING ANY OTHER TERM OF THIS AGREEMENT, NEITHER SELLER NOR ANY OF SELLER’S REPRESENTATIVE SHALL BE LIABLE FOR ANY CLAIM FOR ANY LOSS OF REVENUE, PRODUCTION, ACTUAL OR
+ANTICIPATED PROFITS, CONTRACTS, BUSINESS, SAVINGS, ANTICIPATED SAVINGS, OPPORTUNITY, GOODWILL, REPUTATION OR ECONOMIC LOSSES OR FOR SPECIAL, INDIRECT OR CONSEQUENTIAL LOSSES OF ANY KIND WHATSOEVER AND HOWSOEVER ARISING. 
+
+8.7 
+Except as may be described in the Commercial Terms, Buyer shall, at its expense, procure suitable and adequate insurance cover of each individual shipment of the Methanol under the
+Agreement from the time risk passes to Buyer in accordance with the Commercial Terms or Section 3 above, as the case may be. 
+
+9. 
+FORCE MAJEURE 
+
+9.1 
+Neither party shall be liable in damages or otherwise for any failure or delay in performance of any obligations hereunder, other than the obligation to make
+payment hereunder, where such failure or delay is caused by Force Majeure. The term “Force Majeure” shall mean any event, occurrence, or circumstance beyond the reasonable control of the 
+
+8 of 11 
+
+party claiming excuse, and provided such definition is met, may include, mechanical or electrical failure of plant, machinery or vessels (including the need
+for Seller to undertake remedial work on plant or equipment to prevent an event that otherwise would have been a Force Majeure), accident to port facilities, failure or delay caused by or resulting from acts of God, strikes, fires, floods, wars
+(whether declared or undeclared), riots, destruction of the product, perils of the seas, embargoes, accidents, interruption or cessation in the flow of gas (including, for the avoidance of doubt, any reduction in the supply of gas arising from a
+loss of contractual entitlements due to a redetermination of reserves or otherwise), or voluntary or mandatory restrictions imposed by any government authority. A lack of funds or insolvency shall in no event constitute an event of Force Majeure.
+Force Majeure affecting Seller’s supplier of gas, any other feedstock (including electricity) or, if applicable, methanol shall be deemed to be Force Majeure affecting Seller. 
+
+9.2 
+If either party fails to observe or perform any of the obligations imposed upon it under this Agreement and such failure shall have been as a consequence of Force Majeure, such
+failure shall be deemed not to be a breach of this Agreement and the performance or observance of such obligation will be suspended during the continuation of the Force Majeure provided that the party claiming Force Majeure shall:
+
+a) 
+give written notice to the other party specifying full particulars of such Force Majeure as soon as is reasonably possible; 
+
+b) 
+as far as possible remedy the Force Majeure as soon as reasonably possible; and 
+
+c) 
+give written notice to the other party after the Force Majeure has been remedied as soon as reasonably possible. 
+
+9.3 
+Notwithstanding any other provision of this Agreement, a claim of Force Majeure shall not under any circumstances suspend the obligation of Buyer to make payment for any Product
+delivered under this Agreement. 
+
+9.4 
+From date of notification of the Force Majeure, the affected party may, in its absolute discretion, by written notice to the other either: 
+
+(i) 
+cancel from the Agreement the quantities which have not been shipped due to Force Majeure, without affecting the balance of the Agreement, or 
+
+(ii) 
+ship such quantities after such Force Majeure has ended, on the same terms as set forth in the Agreement, where Seller is the affected party, or 
+
+(iii) 
+allocate its available supply of Methanol among all of its customers and itself in an equitable manner where Seller is the affected party. 
+
+9.5 
+Buyer shall not be excused from performing any of its obligations in respect of any shipment by the occurrence or notification to Seller of an event of Force Majeure after the time
+that the Product is delivered to Buyer. 
+
+9.6 
+The party affected by the Force Majeure shall use all commercially reasonable endeavors to minimize the Force Majeure so that it may promptly perform its remaining obligations under
+the Agreement. 
+
+10. 
+TERMINATION 
+
+10.1 
+Either party may, without prejudice to any other rights at law or in equity, terminate the Agreement forthwith at any time by written notice to the other party if:
+
+(i) 
+the primary, or all of the, business activities of the other party are permanently or indefinitely suspended; or 
+
+(ii) 
+the other party: 
+
+(A) 
+is, becomes, or is deemed or presumed to be, insolvent, unable to pay its debts as they fall due or bankrupt; or 
+
+(B) 
+makes an assignment for the benefit of, or enters into or makes any arrangements, composition or compromise with, its creditors; or 
+
+(C) 
+has an administrator, receiver, trustee, manager, statutory manager or similar official appointed in respect of all or any of its property; or 
+
+(D) 
+avails itself of laws for the protection of debtors; or 
+
+(E) 
+suffers any analogous events in any jurisdiction; or 
+
+(iii) 
+any resolution is passed, or any proceeding is commenced, for the other party’s winding up or liquidation; or 
+
+(iv) 
+the other party breaches any of its material obligations under the Agreement and any such breach, if capable of remedy, shall remain unremedied for a period of 20 business days
+after written notice by the party not in breach, to the party in breach, requiring the breach to be remedied. 
+
+10.2 
+The termination of the Agreement shall not, of itself, relieve a party of due performance by such party of any obligation assumed by or imposed on it under the Agreement at any time
+prior to such termination provided that Seller shall not be required to deliver or ship any Methanol to Buyer, and Buyer shall not be obligated to purchase or accept any Methanol pursuant to the Agreement after the date of termination.
+
+11. 
+
+RESPONSIBLE CARE ® 
+
+11.1 
+Each of Buyer and Seller shall comply with all of the principles and codes of practice of the Responsible 
+
+9 of 11 
+
+Care ® initiative as established by the Canadian Chemical Producers Association (or other relevant body such as American Chemistry Council). 
+
+11.2 
+
+Either party may conduct assessments of the other in accordance with Responsible Care ® . The parties hereto shall meet and cooperate in using reasonable efforts to take corrective actions where required.
+
+12. 
+CONFIDENTIALITY 
+
+12.1 
+Except for information which: i) is already known by a party; or ii) is in the public domain; or iii) is required to be disclosed by law; or iv) either party has authorized the
+other, in writing, to disclose; all information regarding the parties, their operations and this Agreement including its terms shall be kept strictly confidential. This provision shall survive the termination of the Agreement.
+
+13. 
+MISCELLANEOUS 
+
+13.1 
+This Agreement sets forth the entire agreement and understanding between the parties hereto in respect of the subject matter of this Agreement and this Agreement supersedes all
+previous discussions, negotiations and agreements (whether oral or written) which shall cease to have any further force or effect. It is agreed by the parties hereto that: 
+
+(a) 
+no party has entered into this Agreement in reliance upon any representation, warranty, condition or undertaking of any other party that is not expressly set out or referred to in
+this Agreement; 
+
+(b) 
+no party will have any claim or remedy in respect of misrepresentation (whether negligent or otherwise, and whether made prior to, and/or in, this Agreement) or untrue statement
+made by any other party; 
+
+(c) 
+save as expressly set out in this Agreement, no party shall owe any duty of care, nor have any liability in tort or otherwise, to any other party in respect of, arising out of, or
+in any way relating to this Agreement; and 
+
+(d) 
+this Section 13.1 shall not exclude any liability for, or remedy in respect of, fraudulent misrepresentation save that any claim for fraudulent misrepresentation shall be
+subject to the limitation of liability provided for in Section 8.6 above. 
+
+13.2 
+Each party’s right to require strict performance of the obligations of the other party under this Agreement shall not be extinguished or impaired by the waiver of any default
+under this Agreement unless such waiver is in writing and is signed by a duly authorized representative of the waiving party, and no such waiver shall affect the rights of the waiving party with respect to any other or future defaults, whether
+similar or not. 
+
+13.3 
+Each shipment under this Agreement shall be a separate and independent transaction. 
+
+13.4 
+Neither party may assign this Agreement without the prior written consent of the other party, which consent shall not be unreasonably withheld provided, however, that Seller shall
+be entitled to assign this Agreement in whole or in part to one of its affiliated companies. 
+
+13.5 
+This Agreement shall be binding upon and inure to the benefit of each of the parties hereto and their respective permitted assigns. 
+
+13.6 
+The parties expressly agree that this Agreement contains the sole and exclusive remedies of the parties and that the full extent of the parties’ liabilities are as contained
+herein. 
+
+13.7 
+Nothing in this Agreement constitutes Buyer as a partner or agent of Seller and Buyer has no authority to represent, bind, act for, undertake or create any obligation or
+responsibility on behalf of, or in the name of, Seller or represent that it is the agent of Seller unless expressly agreed in writing by Seller. 
+
+13.8 
+To the extent that any term or condition of the Agreement is in whole or in part unenforceable or void, that term or condition shall be severed from the remaining terms and
+conditions which shall apply and be enforceable as though the severed term or condition had not been included in the Agreement. 
+
+13.9 
+This Agreement may be executed in two or more counterparts each of which shall be deemed an original but all of which together shall constitute one and the same instrument and a
+facsimile evidence of execution by any party to the Agreement shall be sufficient proof of execution. 
+
+14. 
+LAWS 
+
+14.1 
+Each party shall comply with all applicable laws, regulations, by-laws or ordinances arising in connection with the matters described in this Agreement. This Agreement and the
+rights and obligations of the parties under this Agreement, shall be subjected to all present and future laws, regulations, orders, permits, licenses and authorisations of any government, governmental body or public authority having jurisdiction.
+
+14.2 
+The construction validity and performance of the Agreement shall be governed by the laws of Texas. 
+
+15. 
+ARBITRATION 
+
+15.1 
+All disputes arising in connection with the Methanol Sales Agreement, including in determining the price of any shipment, shall be finally settled under the Rules of Conciliation
+and Arbitration of the International Chamber of Commerce in accordance with such rules and the following principles: 
+
+(a) 
+Unless the parties to the dispute otherwise agree in writing, any arbitration shall be conducted in English, before one arbitrator, 
+
+10 of 11 
+
+and in [relevant jurisdiction]; 
+
+(b) 
+Each party to the dispute shall be entitled to call one or more expert witnesses nominated by it to give evidence (whether oral or in writing, at the election of the arbitrators);
+
+(c) 
+Each party shall make all necessary advances of costs, and generally shall act in such manner as shall facilitate the expeditious commencement and conduct of the arbitration and the
+issue of the arbitral award. 
+
+(d) 
+The award rendered by the arbitrators shall be final and binding on the parties concerned. 
+
+16. 
+NOTICES 
+
+16.1 
+All notices or other communications required or permitted to be given or made under the Agreement shall be in writing and delivered to the address and facsimile number set out on
+the first page of the Agreement, provided the transmitting machine demonstrates a satisfactory transmission. Any notice or other communication shall be deemed to have been duly given immediately (if given or made by confirmed facsimile), or 5
+business days after posting (if given or made by letter addressed to a location within the country in which it is posted), or 10 business days after mailing (if given or made by letter addressed to a location outside the country in which it is
+posted) provided notices received after 5 pm on a business day shall be deemed to be received on the next following business day. Any party may change its address or facsimile number to which notices or communications are given or made provided such
+party promptly informs the other well in advance of any change of address and facsimile which may impede the sending and receiving of notices. 
+
+11 of 11
