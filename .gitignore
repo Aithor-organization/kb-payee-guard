@@ -34,3 +34,7 @@ node_modules/
 # R-7 집계에서도 제외 (모델 계약서는 조항 존재율이 구조적으로 100%에 가까움)
 data/contracts/itc-*.txt
 data/contracts/_raw/itc-*
+
+# 제출 산출물 (매 빌드 재생성 — 커밋 불필요)
+submission/dist/
+node_modules/

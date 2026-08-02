@@ -433,7 +433,17 @@ class LLMExtractor:
     last_dropped: list[str] | None = None
 
     def _provider(self):
-        from aithor_agent_framework.llm_providers import OpenAIProvider
+        """프레임워크가 있으면 그것을, 없으면 동일 인터페이스의 최소 구현을 쓴다.
+
+        🔴 2026-08-02: 제출 zip 을 풀어 심사자 환경을 재현하니 **테스트 13건이 깨졌다.**
+           프레임워크 경로가 `parents[3]` 상대경로라 zip 위치가 바뀌면 성립하지 않고,
+           애초에 AITHOR-Agent-Framework 는 private repo 라 심사자가 클론할 수 없다.
+           **제출물은 단독으로 돌아야 한다.** 프레임워크는 있으면 쓰는 것이지 전제가 아니다.
+        """
+        try:
+            from aithor_agent_framework.llm_providers import OpenAIProvider
+        except ImportError:
+            from ._provider_fallback import OpenAIProvider
 
         if not self.transport:
             load_dotenv()   # 실호출일 때만 — stub transport 테스트는 키가 필요 없다

@@ -221,3 +221,50 @@ class TestSpanUnwrap(unittest.TestCase):
         }))).extract(CONTRACT)
         self.assertIsNone(f.counterparty_country)
         self.assertIsNone(f.counterparty_name)
+
+
+class TestStandaloneOperation(unittest.TestCase):
+    """🔴 제출물은 **단독으로** 돌아야 한다 — 2026-08-02 실측으로 발견.
+
+    제출 zip 을 풀어 심사자 환경을 재현했더니 테스트 13건이 깨졌다.
+    `_FRAMEWORK_SRC` 가 `parents[3]` 상대경로라 zip 위치가 바뀌면 성립하지 않고,
+    애초에 AITHOR-Agent-Framework 는 private repo 라 심사자가 클론할 수 없다.
+    프레임워크는 **있으면 쓰는 것**이지 전제가 아니다.
+    """
+
+    def test_fallback_provider_has_same_interface(self):
+        from kb_payee_guard._provider_fallback import OpenAIProvider as Fallback
+        p = Fallback(model="gpt-4o-mini", temperature=0.0,
+                     json_schema={"type": "object"}, schema_name="x",
+                     transport=lambda *a: {}, api_key="test")
+        self.assertTrue(hasattr(p, "complete"))
+        rf = p.response_format
+        self.assertEqual(rf["type"], "json_schema")
+        self.assertTrue(rf["json_schema"]["strict"],
+                        "strict 를 잃으면 INV-6 의 기계적 근거가 사라진다")
+
+    def test_extraction_works_without_framework(self):
+        """프레임워크 import 를 막아도 추출이 동작해야 한다."""
+        import builtins
+        real_import = builtins.__import__
+
+        def blocked(name, *a, **kw):
+            if name.startswith("aithor_agent_framework"):
+                raise ImportError("simulated: framework absent")
+            return real_import(name, *a, **kw)
+
+        builtins.__import__ = blocked
+        try:
+            f = LLMExtractor(transport=_stub(_good_payload())).extract(CONTRACT)
+        finally:
+            builtins.__import__ = real_import
+        self.assertEqual(f.counterparty_name, "BAUER GmbH")
+        self.assertTrue(f.amendment_clause_requires_written)
+
+    def test_fallback_refuses_without_key_or_transport(self):
+        """키도 transport 도 없으면 조용히 실패하지 말고 명확히 거부한다."""
+        from kb_payee_guard._provider_fallback import OpenAIProvider as Fallback
+        p = Fallback(api_key="", transport=None)
+        with self.assertRaises(RuntimeError) as cm:
+            p.complete([{"role": "user", "content": "x"}], [])
+        self.assertIn("OPENAI_API_KEY", str(cm.exception))

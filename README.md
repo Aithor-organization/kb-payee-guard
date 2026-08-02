@@ -164,10 +164,10 @@
 
 ## 현재 상태 (2026-08-02)
 
-**판정 엔진과 계약서 판독기가 동작합니다.** 테스트 **94건이 외부 API 없이 0.14초에** 완주합니다.
+**판정 엔진과 계약서 판독기가 동작합니다.** 테스트 **97건이 외부 API 없이 0.15초에** 완주합니다.
 
 ```bash
-python3.12 -m unittest discover -s tests      # 94 tests, API 키 불필요
+python3.12 -m unittest discover -s tests      # 97 tests, API 키 불필요
 python3.12 scripts/run_baselines.py --with-c  # 추출 정확도 A/C 재현 (OpenAI 호출)
 python3.12 scripts/run_e2e.py --extract C     # 탐지율·오탐률 재현
 ```
