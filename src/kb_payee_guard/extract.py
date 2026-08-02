@@ -39,25 +39,39 @@ class Extractor(Protocol):
 # ── 공통 어휘 ─────────────────────────────────────────────────────────────────
 
 _PAYMENT_PATTERNS: list[tuple[re.Pattern, PaymentTerms]] = [
-    (re.compile(r"\b(irrevocable\s+)?(documentary\s+)?letter\s+of\s+credit\b|\bL/?C\b|화환신용장", re.I), PaymentTerms.LC),
-    (re.compile(r"\btelegraphic\s+transfer\b|\bT/?T\b|전신송금", re.I), PaymentTerms.TT),
-    (re.compile(r"\bdocuments?\s+against\s+payment\b|\bD/?P\b", re.I), PaymentTerms.DP),
-    (re.compile(r"\bdocuments?\s+against\s+acceptance\b|\bD/?A\b", re.I), PaymentTerms.DA),
-    (re.compile(r"\bcash\s+against\s+documents?\b|\bCAD\b", re.I), PaymentTerms.CAD),
-    (re.compile(r"\bopen\s+account\b", re.I), PaymentTerms.OA),
+    (re.compile(r"\b(irrevocable\s+)?(documentary\s+)?letter\s+of\s+credit\b|\bL/?C\b"
+                r"|화환신용장|취소불능\s*신용장|신용장", re.I), PaymentTerms.LC),
+    (re.compile(r"\btelegraphic\s+transfer\b|\bT/?T\b|전신환?\s*송금|단순송금", re.I), PaymentTerms.TT),
+    (re.compile(r"\bdocuments?\s+against\s+payment\b|\bD/?P\b|지급인도", re.I), PaymentTerms.DP),
+    (re.compile(r"\bdocuments?\s+against\s+acceptance\b|\bD/?A\b|인수인도", re.I), PaymentTerms.DA),
+    (re.compile(r"\bcash\s+against\s+documents?\b|\bCAD\b|서류상환지급", re.I), PaymentTerms.CAD),
+    (re.compile(r"\bopen\s+account\b|사후\s*송금|외상\s*수출", re.I), PaymentTerms.OA),
 ]
 
 _EMAIL_RE = re.compile(r"[\w.+-]+@[\w-]+\.[\w.-]+")
 
 # 조항 heading 은 계약마다 다르다 — 번호 체계도(§14 / Article 12 / Clause 8.3), 언어도.
+#
+# 🔴 국문은 형태가 다르다: `제14조 (계약의 변경)` — 번호와 키워드 사이에 `조`와
+#    괄호 제목이 낀다. 영문 패턴(번호 직후 키워드)으로는 못 잡는다.
+#    실측(2026-08-02): 국문 계약서에서 A 의 변경조항 탐지가 전건 실패했다.
+#    A 는 비교 대상 baseline 이므로 언어 때문에 불리해지면 A/C 비교 자체가 무의미해진다.
+_KO_HEAD_NUM = r"(?:제\s*[\d일이삼사오육칠팔구십]{1,4}\s*조)?\s*[.)（(]?\s*[^)\n]{0,12}?"
+
 _NOTICE_HEAD = re.compile(
-    r"^\s*(?:§|Article|Clause|Section|제)?\s*[\dIVXA-Z.]{0,6}\s*[.)]?\s*"
-    r"(Notices?|Notification|Communications?|통\s*지|통\s*보)\b.*$",
+    r"^\s*(?:"
+    r"(?:§|Article|Clause|Section)?\s*[\dIVXA-Z.]{0,6}\s*[.)]?\s*"
+    r"(?:Notices?|Notification|Communications?)"
+    r"|" + _KO_HEAD_NUM + r"(?:통\s*지|통\s*보)"
+    r").*$",
     re.I | re.M,
 )
 _AMEND_HEAD = re.compile(
-    r"^\s*(?:§|Article|Clause|Section|제)?\s*[\dIVXA-Z.]{0,6}\s*[.)]?\s*"
-    r"(Amendments?|Modifications?|Variation|Entire\s+Agreement|변\s*경|수\s*정)\b.*$",
+    r"^\s*(?:"
+    r"(?:§|Article|Clause|Section)?\s*[\dIVXA-Z.]{0,6}\s*[.)]?\s*"
+    r"(?:Amendments?|Modifications?|Variation|Entire\s+Agreement)"
+    r"|" + _KO_HEAD_NUM + r"(?:변\s*경|수\s*정|개\s*정)"
+    r").*$",
     re.I | re.M,
 )
 

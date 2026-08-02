@@ -211,12 +211,22 @@ _P1_PROCEDURE = re.compile(
     r"(?:amended|modified|changed|varied|altered|supplemented)\b"
     r"|(?:may|shall)\s+be\s+(?:amended|modified)\s+only\b"
     r"|amended\s+only\s+by\b"
-    r"|any\s+(?:amendment|modification|variation|change)(?:\s*,?\s*(?:or|and)\s+\w+){0,3}\s+(?:of|to)\b)",
+    r"|any\s+(?:amendment|modification|variation|change)(?:\s*,?\s*(?:or|and)\s+\w+){0,3}\s+(?:of|to)\b"
+    # ── 국문 ────────────────────────────────────────────────────────────
+    # 국문 계약서의 변경 조항은 대개 "본 계약의 변경은 … 서면 합의에 의한다" 꼴이다.
+    # '변경'만으로는 물량·사양 변경까지 다 걸리므로 **계약/조항 지시어와 서면/합의를 함께** 요구한다.
+    r"|(?:본|이)\s*계약[^.\n]{0,40}?(?:변경|수정|개정)"
+    r"|(?:변경|수정|개정)[^.\n]{0,30}?서면[^.\n]{0,20}?(?:합의|동의|약정)"
+    r"|서면[^.\n]{0,20}?(?:합의|동의)[^.\n]{0,30}?(?:변경|수정)"
+    r"|계약[^.\n]{0,20}?내용[^.\n]{0,20}?변경)",
     re.I,
 )
-_P3_NOTICE = re.compile(r"\bnotices?\b|\bnotification\b", re.I)
+# 국문은 조항 제목이 "제12조 (통지)" 형태다 — 괄호까지 보지 않고 단어만 잡아도 충분하다.
+_P3_NOTICE = re.compile(r"\bnotices?\b|\bnotification\b|통\s*지|통\s*보", re.I)
 _P4_PAYMENT = re.compile(
-    r"\bletter\s+of\s+credit\b|\bL/?C\b|\btelegraphic\s+transfer\b|\bT/?T\b|\bpayment\s+terms?\b", re.I
+    r"\bletter\s+of\s+credit\b|\bL/?C\b|\btelegraphic\s+transfer\b|\bT/?T\b|\bpayment\s+terms?\b"
+    r"|신용장|화환신용장|전신환?\s*송금|대금\s*지급|지급\s*조건|결제\s*조건|인수인도|지급인도",
+    re.I,
 )
 
 _HEAD_CHARS = 3_500      # 당사자·소재국 — 거의 항상 문서 앞머리
