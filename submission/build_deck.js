@@ -325,9 +325,16 @@ function footnote(s, text) {
     s.addText(body, { x: M + 0.62, y: y + 0.36, w: 8.2, h: 0.55, fontSize: 11.5, fontFace: B, color: PAPER, lineSpacing: 16, margin: 0 });
     y += 1.05;
   });
-  card(s, { x: M, y: 4.55, w: W - M * 2, h: 0.5, fill: "24506B" });
-  s.addText("판정에 튜닝할 가중치도 임계값도 없습니다. 규칙의 조건이 곧 사용자에게 보이는 문장입니다.", {
-    x: M + 0.28, y: 4.66, w: 8.5, h: 0.3, fontSize: 12, fontFace: B, color: "FFFFFF", margin: 0,
+  card(s, { x: M, y: 4.5, w: W - M * 2, h: 0.72, fill: "24506B" });
+  s.addText([
+    { text: "그리고 위험 판정이 나오면 사람 승인 없이는 못 지나갑니다.\n", options: { bold: true, color: AMBER, breakLine: true } },
+    { text: "게이트는 승인 ", options: {} },
+    { text: "객체", options: { bold: true } },
+    { text: "를 받지 않고 ", options: {} },
+    { text: "id 문자열만", options: { bold: true } },
+    { text: " 받아 원장에서 조회합니다 — 모델이 승인을 지어낼 경로가 타입 수준에 없습니다.", options: {} },
+  ], {
+    x: M + 0.28, y: 4.62, w: 8.5, h: 0.55, fontSize: 11.5, fontFace: B, color: "FFFFFF", lineSpacing: 16, margin: 0,
   });
 }
 
@@ -341,7 +348,7 @@ function footnote(s, text) {
     { text: "무역 62건 · 국문 49건 추가 집계", options: { bullet: true, breakLine: true } },
     { text: "추출 정확도 A/C — 30건 전수", options: { bullet: true, breakLine: true } },
     { text: "탐지율·오탐률 — 150건 전수", options: { bullet: true, breakLine: true } },
-    { text: "테스트 94건, 외부 API 없이 0.14초", options: { bullet: true } },
+    { text: "테스트 122건, 외부 API 없이 1초 미만", options: { bullet: true } },
   ], {
     x: M + 0.25, y: 1.95, w: 3.85, h: 2.2, fontSize: 11.5, fontFace: B, color: "FFFFFF", lineSpacing: 20, margin: 0,
   });
@@ -369,13 +376,14 @@ function footnote(s, text) {
   const done = [
     "L1 계약서 판독 — 정규식·LLM 2종",
     "L2 대조 신호 S9·S10·S11·S12·S16",
-    "L4 규칙 테이블 R0~R11 + 도달성 검사",
+    "L4 규칙 테이블 11개 + 도달성 검사",
+    "승인 게이트 + 원장 — 1회용·건·계좌 결박·TTL",
     "인젝션 3중 방어 · 근거 원문 대조",
   ];
   const todo = [
     "L3 보조 신호 LLM 축 (M6·M7·M8)",
+    "L5 근거 서술 (현재는 결정론 문장)",
     "송금 신청 화면 시뮬레이터",
-    "승인 원장 + 감사 로그 배선",
     "무역·국문 실물 표본 확대",
   ];
   card(s, { x: M, y: 1.42, w: 4.35, h: 2.3, fill: "12352E" });
@@ -393,7 +401,7 @@ function footnote(s, text) {
   card(s, { x: M, y: 3.92, w: W - M * 2, h: 1.0, fill: "24506B" });
   s.addText([
     { text: "실현 가능성의 근거 — 외부 의존이 없습니다.\n", options: { bold: true, color: AMBER, breakLine: true } },
-    { text: "법정 제출 서류만 사용해 은행 내부 API 의존 0 · 코어는 표준 라이브러리만 · 테스트 94건이 API 키 없이 완주합니다.", options: {} },
+    { text: "법정 제출 서류만 사용해 은행 내부 API 의존 0 · 코어는 표준 라이브러리만 · 테스트 122건이 API 키 없이 완주합니다.", options: {} },
   ], {
     x: M + 0.28, y: 4.08, w: 8.5, h: 0.7, fontSize: 12, fontFace: B, color: "FFFFFF", lineSpacing: 18, margin: 0,
   });
