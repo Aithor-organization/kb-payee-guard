@@ -1,0 +1,266 @@
+{
+ "model": "gpt-4o-mini",
+ "n": 30,
+ "A-regex": {
+  "n": 30,
+  "TP": 5,
+  "FP": 2,
+  "TN": 4,
+  "FN": 19,
+  "accuracy": 0.3,
+  "precision": 0.7142857142857143,
+  "recall": 0.20833333333333334
+ },
+ "C-llm": {
+  "n": 30,
+  "TP": 22,
+  "FP": 1,
+  "TN": 5,
+  "FN": 2,
+  "accuracy": 0.9,
+  "precision": 0.9565217391304348,
+  "recall": 0.9166666666666666
+ },
+ "rows": [
+  {
+   "file": "cuad-001.txt",
+   "gold": true,
+   "A": false,
+   "C_error": null,
+   "C": true,
+   "C_secs": 3.4
+  },
+  {
+   "file": "cuad-002.txt",
+   "gold": true,
+   "A": false,
+   "C_error": null,
+   "C": true,
+   "C_secs": 2.2
+  },
+  {
+   "file": "cuad-003.txt",
+   "gold": true,
+   "A": false,
+   "C_error": null,
+   "C": true,
+   "C_secs": 1.9
+  },
+  {
+   "file": "cuad-004.txt",
+   "gold": true,
+   "A": false,
+   "C_error": null,
+   "C": true,
+   "C_secs": 2.6
+  },
+  {
+   "file": "cuad-006.txt",
+   "gold": true,
+   "A": true,
+   "C_error": null,
+   "C": true,
+   "C_secs": 1.7
+  },
+  {
+   "file": "cuad-008.txt",
+   "gold": false,
+   "A": false,
+   "C_error": null,
+   "C": false,
+   "C_secs": 1.6
+  },
+  {
+   "file": "cuad-009.txt",
+   "gold": false,
+   "A": true,
+   "C_error": null,
+   "C": false,
+   "C_secs": 2.2
+  },
+  {
+   "file": "cuad-010.txt",
+   "gold": true,
+   "A": false,
+   "C_error": null,
+   "C": true,
+   "C_secs": 2.0
+  },
+  {
+   "file": "cuad-011.txt",
+   "gold": true,
+   "A": false,
+   "C_error": null,
+   "C": true,
+   "C_secs": 2.1
+  },
+  {
+   "file": "cuad-012.txt",
+   "gold": true,
+   "A": true,
+   "C_error": null,
+   "C": true,
+   "C_secs": 2.3
+  },
+  {
+   "file": "cuad-013.txt",
+   "gold": true,
+   "A": false,
+   "C_error": null,
+   "C": true,
+   "C_secs": 2.6
+  },
+  {
+   "file": "cuad-015.txt",
+   "gold": true,
+   "A": false,
+   "C_error": null,
+   "C": true,
+   "C_secs": 2.6
+  },
+  {
+   "file": "cuad-019.txt",
+   "gold": true,
+   "A": false,
+   "C_error": null,
+   "C": true,
+   "C_secs": 2.1
+  },
+  {
+   "file": "cuad-020.txt",
+   "gold": true,
+   "A": true,
+   "C_error": null,
+   "C": false,
+   "C_secs": 1.8
+  },
+  {
+   "file": "cuad-021.txt",
+   "gold": true,
+   "A": false,
+   "C_error": null,
+   "C": false,
+   "C_secs": 1.6
+  },
+  {
+   "file": "cuad-022.txt",
+   "gold": false,
+   "A": true,
+   "C_error": null,
+   "C": false,
+   "C_secs": 1.1
+  },
+  {
+   "file": "cuad-024.txt",
+   "gold": false,
+   "A": false,
+   "C_error": null,
+   "C": true,
+   "C_secs": 2.4
+  },
+  {
+   "file": "cuad-025.txt",
+   "gold": true,
+   "A": false,
+   "C_error": null,
+   "C": true,
+   "C_secs": 1.9
+  },
+  {
+   "file": "cuad-026.txt",
+   "gold": true,
+   "A": true,
+   "C_error": null,
+   "C": true,
+   "C_secs": 1.7
+  },
+  {
+   "file": "cuad-028.txt",
+   "gold": true,
+   "A": false,
+   "C_error": null,
+   "C": true,
+   "C_secs": 1.8
+  },
+  {
+   "file": "cuad-029.txt",
+   "gold": false,
+   "A": false,
+   "C_error": null,
+   "C": false,
+   "C_secs": 1.1
+  },
+  {
+   "file": "cuad-030.txt",
+   "gold": true,
+   "A": false,
+   "C_error": null,
+   "C": true,
+   "C_secs": 1.6
+  },
+  {
+   "file": "cuad-031.txt",
+   "gold": true,
+   "A": false,
+   "C_error": null,
+   "C": true,
+   "C_secs": 1.5
+  },
+  {
+   "file": "cuad-032.txt",
+   "gold": true,
+   "A": false,
+   "C_error": null,
+   "C": true,
+   "C_secs": 2.1
+  },
+  {
+   "file": "cuad-033.txt",
+   "gold": true,
+   "A": false,
+   "C_error": null,
+   "C": true,
+   "C_secs": 2.0
+  },
+  {
+   "file": "cuad-034.txt",
+   "gold": true,
+   "A": false,
+   "C_error": null,
+   "C": true,
+   "C_secs": 2.0
+  },
+  {
+   "file": "cuad-035.txt",
+   "gold": false,
+   "A": false,
+   "C_error": null,
+   "C": false,
+   "C_secs": 1.2
+  },
+  {
+   "file": "cuad-038.txt",
+   "gold": true,
+   "A": true,
+   "C_error": null,
+   "C": true,
+   "C_secs": 2.1
+  },
+  {
+   "file": "cuad-039.txt",
+   "gold": true,
+   "A": false,
+   "C_error": null,
+   "C": true,
+   "C_secs": 2.9
+  },
+  {
+   "file": "cuad-040.txt",
+   "gold": true,
+   "A": false,
+   "C_error": null,
+   "C": true,
+   "C_secs": 1.9
+  }
+ ]
+}

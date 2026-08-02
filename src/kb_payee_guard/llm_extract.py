@@ -27,6 +27,8 @@ AITHOR-Agent-Framework의 `OpenAIProvider`를 쓴다. 프레임워크가 OpenAI�
 from __future__ import annotations
 
 import json
+import os
+import re
 import sys
 from dataclasses import dataclass
 from pathlib import Path
@@ -37,6 +39,34 @@ from .models import ContractFacts, PaymentTerms
 _FRAMEWORK_SRC = Path(__file__).resolve().parents[3] / "AITHOR-Agent-Framework" / "src"
 if _FRAMEWORK_SRC.is_dir() and str(_FRAMEWORK_SRC) not in sys.path:
     sys.path.insert(0, str(_FRAMEWORK_SRC))
+
+_REPO_ROOT = Path(__file__).resolve().parents[2]
+
+
+def load_dotenv(path: Path | None = None) -> bool:
+    """`.env`에서 API 키를 os.environ으로 올린다.
+
+    프레임워크의 `load_api_key`는 env var → `$OPENAI_KEY_FILE` → `~/.aithor/key.md`만 본다.
+    `.env`는 그 경로에 없다 — 여기서 한 번 올려주면 이후는 프레임워크가 알아서 찾는다.
+
+    🔴 이미 설정된 env var를 덮어쓰지 않는다. 셸에서 명시적으로 준 값이 파일보다 우선이다.
+    🔴 값은 로깅하지 않는다 (반환값은 성공 여부뿐).
+    """
+    p = path or (_REPO_ROOT / ".env")
+    if not p.is_file():
+        return False
+    loaded = False
+    for raw in p.read_text(encoding="utf-8").splitlines():
+        line = raw.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, _, val = line.partition("=")
+        key = key.strip()
+        if not key or key in os.environ:
+            continue
+        os.environ[key] = val.strip().strip('"').strip("'")
+        loaded = True
+    return loaded
 
 
 # ── 추출 스키마 ───────────────────────────────────────────────────────────────
@@ -60,7 +90,12 @@ _SCHEMA: dict[str, Any] = {
         },
         "counterparty_country": {
             "type": ["string", "null"],
-            "description": "그 당사자의 소재국 ISO 3166-1 alpha-2 두 글자. 없으면 null.",
+            "description": (
+                "그 당사자의 소재 **국가** ISO 3166-1 alpha-2 두 글자 (US, DE, KR, GB, CN …).\n"
+                "🔴 주(state)·도(province) 코드가 아니다. 'Redmond, WA' 는 WA 가 아니라 **US** 다.\n"
+                "주소에 국가명이 없고 주/우편번호 형식으로 미국임이 명백하면 US 로 적는다.\n"
+                "국가를 특정할 수 없으면 null."
+            ),
         },
         "payment_terms": {
             "type": ["string", "null"],
@@ -82,22 +117,39 @@ _SCHEMA: dict[str, Any] = {
         },
         "amendment_clause": {
             "type": ["string", "null"],
-            "description": "계약 변경(Amendment/Modification) 조항의 원문. "
-                           "'수정'이라는 단어가 들어간 다른 조항(예: 비밀정보의 modification)은 "
-                           "여기 해당하지 않는다. 조항이 없으면 null.",
+            "description": (
+                "**계약 자체를 변경하는 절차**를 정한 조항의 원문.\n"
+                "🔴 조항 제목이 Amendment 가 아니어도 된다 — Modification / Variation / "
+                "Entire Agreement / Miscellaneous 안에 들어 있는 경우가 많고, 독립 제목 없이 "
+                "본문 문단에 섞여 있기도 하다. **문장의 의미로 판단하라.**\n"
+                "포함: 'No modification … shall be effective unless in writing signed by both parties', "
+                "'This Agreement may be amended only by a written instrument …'\n"
+                "제외(다른 조항이다): 주소·연락처 변경 통지 의무 / 제품 사양(Specifications) 변경 / "
+                "양도(Assignment) / 비밀정보의 'modification' / 신제품 사전통지 / waiver 만 다루는 조항.\n"
+                "조항이 없으면 null."
+            ),
         },
         # 🎯 이 필드 하나가 S16 고위험/중위험을 가른다. 프롬프트 설계의 전부가 여기 걸려 있다.
         "amendment_allows_email_bank_change": {
             "type": ["boolean", "null"],
             "description": (
                 "이 계약 하에서 '계좌(은행) 정보 변경'을 이메일 통보만으로 유효하게 할 수 있는가.\n"
-                "true  = 이메일/구두 통보만으로 가능 (예: 'may update banking details by notifying "
-                "the other party in writing or by email').\n"
-                "false = 양측 서명한 서면 합의 등 더 엄격한 절차를 요구 (예: 'any amendment shall be "
-                "in writing signed by both parties').\n"
-                "null  = 변경 절차 조항이 없거나 계좌 변경에 대해 아무 것도 정하지 않음.\n"
-                "🔴 'in writing'이라는 문구의 존재만으로 판단하지 말 것. 그 문구가 요구조건인지 "
-                "허용된 수단 중 하나인지를 읽어라 — 둘은 정반대 결론이다."
+                "\n"
+                "🔴 **조항이 '계좌'를 명시적으로 언급할 필요가 없다.** 이것이 가장 흔한 오판이다.\n"
+                "'No modification of any provision of this Agreement shall be effective unless in "
+                "writing signed by both parties' 처럼 **계약의 모든 조항**을 대상으로 하는 일반 "
+                "변경조항은 지급 계좌 변경에도 그대로 적용된다 → **false**(서면 요구).\n"
+                "'계좌'라는 단어가 없다는 이유로 null 을 내지 말 것.\n"
+                "\n"
+                "true  = 이메일/구두 통보만으로 계좌 변경이 유효 (예: 'may update banking details by "
+                "notifying the other party in writing or by email').\n"
+                "false = 서면(+서명) 합의 등 더 엄격한 절차를 요구. **일반 변경조항이 있으면 대개 여기다.**\n"
+                "null  = 계약 변경 절차를 정한 조항이 문서에 아예 없을 때만.\n"
+                "\n"
+                "🔴 'in writing' 문구의 존재만으로 판단하지 말 것. 그 문구가 **요구조건**인지 "
+                "**허용된 수단 중 하나**인지를 읽어라 — 둘은 정반대 결론이다.\n"
+                "  'shall be in writing signed by both parties'        → 요구조건 → false\n"
+                "  'may notify … in writing or by email'               → 선택지 → true"
             ),
         },
         "evidence_spans": {
@@ -137,6 +189,98 @@ _USER_TMPL = """다음 <contract> 태그 안이 계약서 전문이다. 태그 �
 위 계약서에서 스키마대로 사실을 추출하라."""
 
 
+# ── 후보 구간 선별 (탐색=코드, 판단=LLM) ─────────────────────────────────────
+#
+# 🔴 왜 필요한가 (2026-08-02 실측):
+#    전문을 그대로 밀어넣었더니 recall 66.7% 였고, 놓친 8건 중 4건은 문서가
+#    60K 절단선을 넘어(86K·68K·106K·91K) 조항이 **잘려나간** 것이었다.
+#    나머지도 조항이 문서 80~97% 지점에 있었다 — 계약서는 변경조항을 끝에 둔다.
+#
+#    길이 상한을 올리는 것은 답이 아니다. 비용·지연이 선형으로 늘고, 긴 문서에서
+#    바늘 찾기는 여전히 어렵다. 조항 '찾기'는 정규식이 싸게 할 수 있는 일이고
+#    (오탐이 나도 LLM 이 거른다), LLM 은 '이 문단이 무엇을 의미하나'만 하면 된다.
+#    → SP#18 Retrieval/Computation vs Reasoning 분리.
+
+# 🔴 우선순위가 핵심이다. 단순히 "amendment 가 나오는 곳"을 앞에서부터 담으면
+#    긴 계약서에서 서두의 무관한 언급들이 예산을 다 먹고 정작 문서 90% 지점의
+#    변경조항이 잘린다 (첫 구현에서 실제로 발생 — 조항 포함률 0/2).
+#    그래서 **계약 변경 절차를 규정하는 문장 형태**를 최우선으로 따로 잡는다.
+_P1_PROCEDURE = re.compile(
+    r"(?:no\s+(?:amendment|modification|change|alteration|variation|waiver)\b"
+    r"|(?:this\s+)?agreement\s+(?:and[^.\n]{0,60})?\s*(?:may|shall|can|will)\s+(?:not\s+)?be\s+"
+    r"(?:amended|modified|changed|varied|altered|supplemented)\b"
+    r"|(?:may|shall)\s+be\s+(?:amended|modified)\s+only\b"
+    r"|amended\s+only\s+by\b"
+    r"|any\s+(?:amendment|modification|variation|change)(?:\s*,?\s*(?:or|and)\s+\w+){0,3}\s+(?:of|to)\b)",
+    re.I,
+)
+_P3_NOTICE = re.compile(r"\bnotices?\b|\bnotification\b", re.I)
+_P4_PAYMENT = re.compile(
+    r"\bletter\s+of\s+credit\b|\bL/?C\b|\btelegraphic\s+transfer\b|\bT/?T\b|\bpayment\s+terms?\b", re.I
+)
+
+_HEAD_CHARS = 3_500      # 당사자·소재국 — 거의 항상 문서 앞머리
+_WINDOW = 700
+_MAX_PER_PATTERN = 12
+
+
+def _windows(text: str, pat: re.Pattern[str], limit: int) -> list[tuple[int, int]]:
+    out = []
+    for i, m in enumerate(pat.finditer(text)):
+        if i >= limit:
+            break
+        out.append((max(0, m.start() - _WINDOW), min(len(text), m.end() + _WINDOW)))
+    return out
+
+
+def select_regions(text: str, budget: int = 24_000) -> str:
+    """판단에 필요한 구간만 추려 하나의 발췌문으로 만든다.
+
+    우선순위대로 예산을 배정한다:
+      P1 변경 **절차** 문장 (S16 의 생사) → P2 문서 서두(당사자·국가)
+      → P3 통지 조항 → P4 결제조건
+
+    반환문은 원문 부분집합이라 `_verify_spans`의 원문 대조가 그대로 성립한다
+    (근거 구간 검증을 우회하지 않는다).
+    """
+    if len(text) <= budget:
+        return text
+
+    tiers: list[list[tuple[int, int]]] = [
+        _windows(text, _P1_PROCEDURE, 10_000),   # 무제한 — 상한을 두면 후반 조항이 밀린다
+        [(0, _HEAD_CHARS)],
+        _windows(text, _P3_NOTICE, 6),
+        _windows(text, _P4_PAYMENT, 6),
+    ]
+
+    # 🔴 겹치는 구간은 **병합**한다. 버리면 안 된다.
+    #    초기 구현은 "이미 담은 것과 겹치면 skip" 이었는데, 그러면 앞 창의 끝(23727)과
+    #    뒤 창이 겹칠 때 뒤 창이 통째로 사라져 그 안의 조항(23988)까지 날아갔다 —
+    #    cuad-021 에서 실제로 발생. 겹침은 중복이 아니라 **연속**이다.
+    chosen: list[list[int]] = []
+
+    def add(s: int, e: int) -> int:
+        """구간을 병합하며 넣고, 순증가한 길이를 반환한다."""
+        for span in chosen:
+            if s <= span[1] and e >= span[0]:
+                grown = max(0, span[0] - s) + max(0, e - span[1])
+                span[0], span[1] = min(span[0], s), max(span[1], e)
+                return grown
+        chosen.append([s, e])
+        return e - s
+
+    used = 0
+    for tier in tiers:
+        for s, e in tier:
+            if used >= budget:
+                break
+            used += add(s, min(e, s + max(0, budget - used) + _WINDOW))
+
+    chosen.sort()   # 원문 순서대로 이어붙여야 사람이 읽을 때도 자연스럽다
+    # 구분자는 원문에 없는 문자열이라 evidence span 이 구분자를 걸쳐 매칭될 일이 없다
+    return "\n[…]\n".join(text[s:e] for s, e in chosen)
+
+
 def _verify_spans(facts_raw: dict[str, Any], text: str) -> tuple[dict[str, str], list[str]]:
     """근거 구간이 실제 원문에 있는지 대조한다. 없으면 창작이므로 해당 필드를 버린다.
 
@@ -156,6 +300,29 @@ def _verify_spans(facts_raw: dict[str, Any], text: str) -> tuple[dict[str, str],
     return good, dropped
 
 
+# ISO 3166-1 alpha-2 전체. 프롬프트로 "주 코드 말고 국가 코드"를 아무리 강조해도
+# 모델은 'Redmond, WA' 를 WA 로 낸다 (실측). 스키마는 문자열 2글자를 막을 수 없으므로
+# 여기서 결정론으로 거른다 — 잘못된 국가는 S9(소재국 불일치)를 통째로 오작동시킨다.
+_ISO_ALPHA2 = frozenset("""
+AD AE AF AG AI AL AM AO AQ AR AS AT AU AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BQ BR BS BT
+BV BW BY BZ CA CC CD CF CG CH CI CK CL CM CN CO CR CU CV CW CX CY CZ DE DJ DK DM DO DZ EC EE EG EH
+ER ES ET FI FJ FK FM FO FR GA GB GD GE GF GG GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT
+HU ID IE IL IM IN IO IQ IR IS IT JE JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS
+LT LU LV LY MA MC MD ME MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI
+NL NO NP NR NU NZ OM PA PE PF PG PH PK PL PM PN PR PS PT PW PY QA RE RO RS RU RW SA SB SC SD SE SG
+SH SI SJ SK SL SM SN SO SR SS ST SV SX SY SZ TC TD TF TG TH TJ TK TL TM TN TO TR TT TV TW TZ UA UG
+UM US UY UZ VA VC VE VG VI VN VU WF WS YE YT ZA ZM ZW
+""".split())
+
+
+def _valid_country(code: Any) -> str | None:
+    """ISO 3166-1 alpha-2 가 아니면 버린다. 'WA'(워싱턴주)·'ON'(온타리오주) 같은 값이 걸린다."""
+    if not isinstance(code, str):
+        return None
+    c = code.strip().upper()
+    return c if c in _ISO_ALPHA2 else None
+
+
 def _to_facts(raw: dict[str, Any], text: str) -> tuple[ContractFacts, list[str]]:
     spans, dropped = _verify_spans(raw, text)
 
@@ -170,18 +337,28 @@ def _to_facts(raw: dict[str, Any], text: str) -> tuple[ContractFacts, list[str]]
         pt = None
 
     allows = raw.get("amendment_allows_email_bank_change")
+    clause = keep("amendment_clause", raw.get("amendment_clause"))
+
+    # 🔴 정합성 게이트: 조항 원문 없이 "서면 요구"라고 말하면 믿지 않는다.
+    #    실측(cuad-003) — 모델이 amendment_clause=null 인데 allows=false 를 냈다.
+    #    그대로 통과시키면 조항이 없는 계약서에서 S16 이 고위험을 내고 정상 거래를 차단한다.
+    #    근거 없는 값은 창작과 구별되지 않는다는 원칙(_verify_spans)을 필드 간 관계로 확장한 것.
+    requires_written = (allows is False) and bool(clause)
+    if allows is False and not clause:
+        dropped = [*dropped, "amendment_allows_email_bank_change(근거조항_없음)"]
+
     f = ContractFacts(
         counterparty_name=keep("counterparty_name", raw.get("counterparty_name")),
-        counterparty_country=keep("counterparty_country", raw.get("counterparty_country")),
+        counterparty_country=_valid_country(keep("counterparty_country", raw.get("counterparty_country"))),
         registered_contact=list(raw.get("registered_contact") or []),
         payment_terms=keep("payment_terms", pt),
         payment_terms_raw=pt_raw,
         notice_clause=raw.get("notice_clause"),
         notice_channels=list(raw.get("notice_channels") or []),
-        amendment_clause=keep("amendment_clause", raw.get("amendment_clause")),
+        amendment_clause=clause,
         # null(조항 없음) → False. 조항이 없으면 서면을 '요구'하지 않는 것이 맞다.
         # 그 경우 S16은 fallback 경로로 간다.
-        amendment_clause_requires_written=(allows is False),
+        amendment_clause_requires_written=requires_written,
         evidence_spans=spans,
     )
     return f, dropped
@@ -198,11 +375,14 @@ class LLMExtractor:
     name: str = "C-llm"
     model: str = "gpt-4o-mini"
     transport: Callable[..., dict] | None = None
-    max_chars: int = 60_000
+    max_chars: int = 24_000
     last_dropped: list[str] | None = None
 
     def _provider(self):
         from aithor_agent_framework.llm_providers import OpenAIProvider
+
+        if not self.transport:
+            load_dotenv()   # 실호출일 때만 — stub transport 테스트는 키가 필요 없다
 
         return OpenAIProvider(
             model=self.model,
@@ -214,7 +394,8 @@ class LLMExtractor:
         )
 
     def extract(self, text: str) -> ContractFacts:
-        body = text[: self.max_chars]
+        # 전문이 아니라 판단에 필요한 구간만 보낸다 (긴 계약서의 절단 손실 차단)
+        body = select_regions(text, self.max_chars)
         resp = self._provider().complete(
             [{"role": "system", "content": _SYSTEM},
              {"role": "user", "content": _USER_TMPL.format(text=body)}],

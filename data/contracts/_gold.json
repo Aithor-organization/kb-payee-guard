@@ -1,47 +1,146 @@
 {
-  "_meta": {
-    "labeled_at": "2026-07-31",
-    "labeler": "main session (사람 검토 필요 — 1차 라벨)",
-    "n": 30,
-    "sample": "_amend_sentences.json 의 정규식 후보 중 파일명 오름차순 상위 30",
-    "field": "amendment_clause_kind",
-    "labels": {
-      "written": "계약 변경을 서면(+서명)으로 제한하는 진짜 변경 절차 조항",
-      "email_ok": "계약 변경을 이메일/구두 통보만으로 허용하는 조항",
-      "none": "변경 절차 조항이 아님 — 정규식 오탐 (통지의무·사양변경·양도·제품수정 등)"
-    },
-    "note": "라벨 근거는 _amend_sentences.json 의 해당 문장. 판정이 갈릴 수 있는 건은 rationale 에 사유를 남긴다."
-  },
+ "_meta": {
+  "labeled_at": "2026-08-02 (v2 재라벨)",
+  "labeler": "main session (v2 — 전 문서 스캔). 여전히 단일 라벨러·교차검증 없음",
+  "n": 30,
+  "sample": "_amend_sentences.json 의 정규식 후보 중 파일명 오름차순 상위 30",
+  "field": "amendment_clause_kind",
   "labels": {
-    "cuad-001.txt": {"kind": "written", "rationale": "amendment shall only be effective if confirmed in writing"},
-    "cuad-002.txt": {"kind": "written", "rationale": "no modification/amendment/waiver unless in writing signed by both"},
-    "cuad-003.txt": {"kind": "none", "rationale": "주소 변경 시 written notice 의무 — 계약 변경 절차가 아님"},
-    "cuad-004.txt": {"kind": "none", "rationale": "라이선스 상태 변경 통지 의무"},
-    "cuad-006.txt": {"kind": "written", "rationale": "no amendment unless in writing signed by duly authorized officer"},
-    "cuad-008.txt": {"kind": "none", "rationale": "양도(assignment) 조항"},
-    "cuad-009.txt": {"kind": "none", "rationale": "규제기관 Master File 관련"},
-    "cuad-010.txt": {"kind": "written", "rationale": "may not be amended except by a writing signed"},
-    "cuad-011.txt": {"kind": "written", "rationale": "no modification valid unless in writing and signed"},
-    "cuad-012.txt": {"kind": "written", "rationale": "any amendment shall be in writing and executed by authorized reps"},
-    "cuad-013.txt": {"kind": "none", "rationale": "Specifications 변경 절차 — 계약 자체의 변경이 아님. 경계 사례"},
-    "cuad-015.txt": {"kind": "written", "rationale": "may be amended or waived only with written consent of both"},
-    "cuad-019.txt": {"kind": "none", "rationale": "메일주소·담당자 변경 시 통지 의무 — 변경 절차 조항 아님. 경계 사례(연락처 변경을 다루나 계약 변경은 아님)"},
-    "cuad-020.txt": {"kind": "written", "rationale": "MODIFICATION — may not be modified except by express written agreement signed"},
-    "cuad-021.txt": {"kind": "none", "rationale": "특허/상표 침해 면책"},
-    "cuad-022.txt": {"kind": "none", "rationale": "제품 결합사용 면책"},
-    "cuad-024.txt": {"kind": "none", "rationale": "waiver 만 규정 — amendment 절차 아님. 경계 사례"},
-    "cuad-025.txt": {"kind": "written", "rationale": "no amendment or waiver binding unless executed in writing"},
-    "cuad-026.txt": {"kind": "written", "rationale": "Variation — no amendment effective unless in writing and signed"},
-    "cuad-028.txt": {"kind": "written", "rationale": "may be amended only by a writing signed by each Party"},
-    "cuad-029.txt": {"kind": "none", "rationale": "활동/데이터 무결성 영향 변경의 사전 승인 — 운영 변경관리"},
-    "cuad-030.txt": {"kind": "none", "rationale": "경업금지"},
-    "cuad-031.txt": {"kind": "written", "rationale": "may be amended only by a written instrument executed by authorized reps"},
-    "cuad-032.txt": {"kind": "none", "rationale": "사양 변경에 따른 원가 재협상"},
-    "cuad-033.txt": {"kind": "written", "rationale": "no modification/change/amendment effective unless in writing signed by both"},
-    "cuad-034.txt": {"kind": "written", "rationale": "no amendment valid unless made in writing signed"},
-    "cuad-035.txt": {"kind": "none", "rationale": "제품 개선 제안 통지 의무"},
-    "cuad-038.txt": {"kind": "written", "rationale": "shall not be modified or amended except by a written agreement executed by both"},
-    "cuad-039.txt": {"kind": "none", "rationale": "신제품 사전통지 조항"},
-    "cuad-040.txt": {"kind": "written", "rationale": "may not be modified except by a further writing executed by both"}
+   "written": "계약 변경을 서면(+서명)으로 제한하는 진짜 변경 절차 조항",
+   "email_ok": "계약 변경을 이메일/구두 통보만으로 허용하는 조항",
+   "none": "변경 절차 조항이 아님 — 정규식 오탐 (통지의무·사양변경·양도·제품수정 등)"
+  },
+  "note": "라벨 근거는 _amend_sentences.json 의 해당 문장. 판정이 갈릴 수 있는 건은 rationale 에 사유를 남긴다.",
+  "revision": "v1 은 정규식이 뽑은 **첫 문장만** 읽고 라벨했다. 계약서는 변경조항을 문서 뒤쪽 Miscellaneous 에 두는 경우가 많아 첫 히트가 무관한 문장(특허 면책·사양 변경)인 일이 잦다. v2 는 전 문서를 스캔해 '계약 자체'를 대상으로 하는 변경 문장을 모두 뽑아 재판정했다 — none 14건 중 8건이 실제로는 written 이었다. v1 기반 수치(A recall 31.2% 등)는 전부 무효다."
+ },
+ "labels": {
+  "cuad-001.txt": {
+   "kind": "written",
+   "rationale": "amendment shall only be effective if confirmed in writing"
+  },
+  "cuad-002.txt": {
+   "kind": "written",
+   "rationale": "no modification/amendment/waiver unless in writing signed by both"
+  },
+  "cuad-003.txt": {
+   "kind": "written",
+   "rationale": "전문 재스캔: 'This Agreement ... shall be modified only by an instrument in writing and signed by duly-authorized officers'",
+   "corrected_from": "none"
+  },
+  "cuad-004.txt": {
+   "kind": "written",
+   "rationale": "전문 재스캔: 'No amendment, supplement, restatement or termination of any provision of this Agreement is binding ... unless it is in writing and signed'",
+   "corrected_from": "none"
+  },
+  "cuad-006.txt": {
+   "kind": "written",
+   "rationale": "no amendment unless in writing signed by duly authorized officer"
+  },
+  "cuad-008.txt": {
+   "kind": "none",
+   "rationale": "양도(assignment) 조항"
+  },
+  "cuad-009.txt": {
+   "kind": "none",
+   "rationale": "규제기관 Master File 관련"
+  },
+  "cuad-010.txt": {
+   "kind": "written",
+   "rationale": "may not be amended except by a writing signed"
+  },
+  "cuad-011.txt": {
+   "kind": "written",
+   "rationale": "no modification valid unless in writing and signed"
+  },
+  "cuad-012.txt": {
+   "kind": "written",
+   "rationale": "any amendment shall be in writing and executed by authorized reps"
+  },
+  "cuad-013.txt": {
+   "kind": "written",
+   "rationale": "전문 재스캔: 'This Agreement may not be amended except by an instrument in writing duly executed'",
+   "corrected_from": "none"
+  },
+  "cuad-015.txt": {
+   "kind": "written",
+   "rationale": "may be amended or waived only with written consent of both"
+  },
+  "cuad-019.txt": {
+   "kind": "written",
+   "rationale": "전문 재스캔: 'No modification of or amendment to this Agreement ... shall be effective unless in writing signed by the parties'",
+   "corrected_from": "none"
+  },
+  "cuad-020.txt": {
+   "kind": "written",
+   "rationale": "MODIFICATION — may not be modified except by express written agreement signed"
+  },
+  "cuad-021.txt": {
+   "kind": "written",
+   "rationale": "전문 재스캔: 'This Agreement may be modified only in writing signed by an officer of each party'",
+   "corrected_from": "none"
+  },
+  "cuad-022.txt": {
+   "kind": "none",
+   "rationale": "제품 결합사용 면책"
+  },
+  "cuad-024.txt": {
+   "kind": "none",
+   "rationale": "waiver 만 규정 — amendment 절차 아님. 경계 사례"
+  },
+  "cuad-025.txt": {
+   "kind": "written",
+   "rationale": "no amendment or waiver binding unless executed in writing"
+  },
+  "cuad-026.txt": {
+   "kind": "written",
+   "rationale": "Variation — no amendment effective unless in writing and signed"
+  },
+  "cuad-028.txt": {
+   "kind": "written",
+   "rationale": "may be amended only by a writing signed by each Party"
+  },
+  "cuad-029.txt": {
+   "kind": "none",
+   "rationale": "활동/데이터 무결성 영향 변경의 사전 승인 — 운영 변경관리"
+  },
+  "cuad-030.txt": {
+   "kind": "written",
+   "rationale": "전문 재스캔: 'This Agreement may not be modified except by a writing signed by a duly authorized representative'",
+   "corrected_from": "none"
+  },
+  "cuad-031.txt": {
+   "kind": "written",
+   "rationale": "may be amended only by a written instrument executed by authorized reps"
+  },
+  "cuad-032.txt": {
+   "kind": "written",
+   "rationale": "전문 재스캔: 'This Agreement may be amended, modified and supplemented only by written agreement duly executed'",
+   "corrected_from": "none"
+  },
+  "cuad-033.txt": {
+   "kind": "written",
+   "rationale": "no modification/change/amendment effective unless in writing signed by both"
+  },
+  "cuad-034.txt": {
+   "kind": "written",
+   "rationale": "no amendment valid unless made in writing signed"
+  },
+  "cuad-035.txt": {
+   "kind": "none",
+   "rationale": "제품 개선 제안 통지 의무"
+  },
+  "cuad-038.txt": {
+   "kind": "written",
+   "rationale": "shall not be modified or amended except by a written agreement executed by both"
+  },
+  "cuad-039.txt": {
+   "kind": "written",
+   "rationale": "전문 재스캔: 'This Agreement may not be altered, amended or modified, except by written instrument signed by the parties'",
+   "corrected_from": "none"
+  },
+  "cuad-040.txt": {
+   "kind": "written",
+   "rationale": "may not be modified except by a further writing executed by both"
   }
+ }
 }
