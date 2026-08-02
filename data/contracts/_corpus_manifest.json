@@ -1,0 +1,1841 @@
+{
+ "criterion": "체결 당사자가 채워지지 않은 공식 표준서식·일반조건은 '체결된 해외무역계약' 평가 대상이 아니다. 접두사가 아니라 문서별로 판정한다.",
+ "note": "(a) 법인격 표기 부재 AND (b) 제목이 표준서식/일반조건류 인 경우만 off_target. 국문 여부는 기준이 아니며 전 코퍼스에 동일 적용한다.",
+ "changelog": "2026-08-03 정규식 공백 허용(`일반\\\\s*조건`) — kr-027('…계약 일반 조건')이 누락되던 버그. 비대상 48→49건, 대상 문서군 위조제외 92.4→92.9%.",
+ "documents": [
+  {
+   "file": "cuad-001.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": false,
+   "title": "Exhibit 10.31 PURSUANT TO 17 C.F.R. § 240.24B-2, CONFIDENTIAL INFORMATION (INDIC"
+  },
+  {
+   "file": "cuad-002.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": false,
+   "title": "Exhibit 10d-2 RESELLER AGREEMENT BY AND BETWEEN "
+  },
+  {
+   "file": "cuad-003.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.5 Note: Portions of this exhibit indicated by\"[*]\" are subject to a c"
+  },
+  {
+   "file": "cuad-004.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.5 Reseller Agreement This Agreement is made and entered into by and b"
+  },
+  {
+   "file": "cuad-005.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": false,
+   "title": "ODM - SUPPLY AGREEMENT BETWEEN: ORGANIC PREPARATIONS INC. 2nd Floor, Transpacifi"
+  },
+  {
+   "file": "cuad-006.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.3 [***] INDICATES MATERIAL THAT HAS BEEN OMITTED AND FOR WHICH CONFID"
+  },
+  {
+   "file": "cuad-007.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.19 CONFIDENTIAL TREATMENT REQUESTED Certain portions of this document"
+  },
+  {
+   "file": "cuad-008.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EXHIBIT 10.32 CO-BRANDING, MARKETING AND DISTRIBUTION AGREEMENT This Agreement, "
+  },
+  {
+   "file": "cuad-009.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.1 [***] = Certain confidential information contained in this document"
+  },
+  {
+   "file": "cuad-010.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EXHIBIT 10.18 CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKE"
+  },
+  {
+   "file": "cuad-011.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 4.17 EXECUTION COPY SUPPLY AGREEMENT FERRER INTERNACIONAL, S.A. AND CUTA"
+  },
+  {
+   "file": "cuad-012.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.1 DISTRIBUTOR AGREEMENT THIS AGREEMENT is made this 1st day of August"
+  },
+  {
+   "file": "cuad-013.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.12 CERTAIN IDENTIFIED INFORMATION CONTAINED IN THIS DOCUMENT, MARKED "
+  },
+  {
+   "file": "cuad-014.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "AMENDMENT NO. 2 TO STREMICK'S HERITAGE FOODS, LLC and PREMIER NUTRITION CORPORAT"
+  },
+  {
+   "file": "cuad-015.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EXHIBIT 10.1 RESELLER AGREEMENT THIS RESELLER AGREEMENT (this \"Agreement\") is ma"
+  },
+  {
+   "file": "cuad-018.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "RESELLER AGREEMENT This agreement (\"Agreement\") dated as of January 11, 2011 (\"E"
+  },
+  {
+   "file": "cuad-019.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": false,
+   "title": "MANUFACTURING AGREEMENT This Manufacturing Agreement (the \"Agreement\") is effect"
+  },
+  {
+   "file": "cuad-020.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.5 DISTRIBUTOR AGREEMENT This Agreement is entered into as of January "
+  },
+  {
+   "file": "cuad-021.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EXHIBIT 10.8 DISTRIBUTOR AGREEMENT Tripath Technology, Inc. 3900 Freedom Circle "
+  },
+  {
+   "file": "cuad-022.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EXHIBIT 10.6 EXHIBIT 10.06 WATCHGUARD TECHNOLOGIES, INC. "
+  },
+  {
+   "file": "cuad-023.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 4.44 THIS LICENSE AND RESELLER AGREEMENT dated as of the October 30, 201"
+  },
+  {
+   "file": "cuad-024.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.1 Information identified with \"[***]\" has been excluded from this exh"
+  },
+  {
+   "file": "cuad-025.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.17 Supply Agreement - FUSION CERTAIN CONFIDENTIAL PORTIONS OF THIS EX"
+  },
+  {
+   "file": "cuad-026.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EXHIBIT 10.43 Dated 29/3/18 Distributorship agreement between Signature Orthopae"
+  },
+  {
+   "file": "cuad-027.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EXHIBIT 4 AFFILIATE AGREEMENT ------------------- Physici"
+  },
+  {
+   "file": "cuad-028.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 6.1 DISTRIBUTOR AGREEMENT THIS DISTRIBUTOR AGREEMENT (this \"Agreement\") "
+  },
+  {
+   "file": "cuad-029.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.1 Sales, Marketing, Distribution, and Supply Agreement {***} WHEREAS "
+  },
+  {
+   "file": "cuad-030.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "1 EXCLUSIVE DISTRIBUTOR AGREEMENT EXCLUSIVE DISTRIBUTOR AGREEMENT (\"Agreement\") "
+  },
+  {
+   "file": "cuad-031.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "WALABOT-HOME RESELLER AGREEMENT This Walabot-HOME Reseller Agreement (\"Agreement"
+  },
+  {
+   "file": "cuad-032.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.1 [*] Certain confidential information contained in this document, ma"
+  },
+  {
+   "file": "cuad-033.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": false,
+   "title": "EXHIBIT 10.5 NON-EXCLUSIVE DISTRIBUTOR AGREEMENT This Non-Exclusive Distributor "
+  },
+  {
+   "file": "cuad-034.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.9 TURN - KEY MANUFACTURING AGREEMENT This Turn - Key Manufacturing Ag"
+  },
+  {
+   "file": "cuad-035.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.6 ATTACHMENT A ERCHONIA CORPORATION EXCLUSIVE DISTRIBUTOR AGREEMENT T"
+  },
+  {
+   "file": "cuad-036.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 99.1 [***] = Certain confidential information contained in this document"
+  },
+  {
+   "file": "cuad-037.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 4.15 THE SYMBOL \"****\" DENOTES PLACES WHERE PORTIONS OF THIS DOCUMENT HA"
+  },
+  {
+   "file": "cuad-038.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EXHIBIT 10.2 DISTRIBUTOR AGREEMENT EXHIBIT 10.2 EXCLUSIVE DISTR"
+  },
+  {
+   "file": "cuad-039.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EXHIBIT 10.6 DISTRIBUTOR AGREEMENT THIS DISTRIBUTOR AGREEMENT (the \"Agreemen"
+  },
+  {
+   "file": "cuad-040.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EXHIBIT 10.2 [LOGO AMERICAN EXPRESS] INCENTIVE SERVICES ------------------------"
+  },
+  {
+   "file": "cuad-041.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EXHIBIT 10.9 DISTRIBUTOR AGREEMENT This Distributor Agreement (the 'Agreement') "
+  },
+  {
+   "file": "cuad-042.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.16 SUPPLY CONTRACT Contract No: Date: The buyer/End-User: Shenzhen LO"
+  },
+  {
+   "file": "cuad-043.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.14 OUTSOURCING AGREEMENT BETWEEN "
+  },
+  {
+   "file": "cuad-044.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.6 MediWound Ltd. and Challenge Bioproducts Corporation Ltd. Supply Ag"
+  },
+  {
+   "file": "cuad-045.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.10 CONFIDENTIAL TREATMENT REQUESTED. INFORMATION FOR WHICH CONFIDENTI"
+  },
+  {
+   "file": "cuad-046.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": false,
+   "title": "Exhibit 99.1 DISTRIBUTOR AGREEMENT THIS AGREEMENT, dated as of October 24, 2005 "
+  },
+  {
+   "file": "cuad-047.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 16.1 AUTOMOTIVE REFINISH DISTRIBUTOR AGREEMENT "
+  },
+  {
+   "file": "cuad-048.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "DISTRIBUTOR AGREEMENT by and between PEREGRINE/BRIDGE TRAN"
+  },
+  {
+   "file": "cuad-049.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "CONFIDENTIAL TREATMENT REQUEST * Portions denoted with an asterisk have been omi"
+  },
+  {
+   "file": "cuad-050.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.36 [Pursuant to Item 601(b)(10) of Regulation S-K, certain confidenti"
+  },
+  {
+   "file": "cuad-051.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EXHIBIT 10.25 RESELLER AGREEMENT THIS AGREEMENT (the \"AGREEMENT\") entered into a"
+  },
+  {
+   "file": "cuad-052.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": false,
+   "title": "DISTRIBUTOR AGREEMENT 1. CERTIFICATION AND IDENTIFICATION: COMWARE TECHNICAL SER"
+  },
+  {
+   "file": "cuad-053.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.13 Confidential Materials omitted and filed separately with the Secur"
+  },
+  {
+   "file": "cuad-054.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 4.5 SUPPLY AGREEMENT between PROFOUND MEDICAL INC. and PHILIPS MEDICAL S"
+  },
+  {
+   "file": "cuad-055.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.2 Portions of this Exhibit have been omitted pursuant to a request fo"
+  },
+  {
+   "file": "cuad-056.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.18 MASTER SUPPLY AGREEMENT MASTER SUPPLY AGREEMENT (the \"Agreement\") "
+  },
+  {
+   "file": "cuad-057.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.1 CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED"
+  },
+  {
+   "file": "cuad-058.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.2 IN ACCORDANCE WITH ITEM 601(b) OF REGULATION S-K, CERTAIN IDENTIFIE"
+  },
+  {
+   "file": "cuad-059.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.38 IN ACCORDANCE WITH ITEM 601(b) OF REGULATION S-K, CERTAIN IDENTIFI"
+  },
+  {
+   "file": "cuad-060.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.38 EXHIBIT C Software License Agreement [v.08.05.03] PLEASE READ THIS"
+  },
+  {
+   "file": "cuad-061.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.39 IN ACCORDANCE WITH ITEM 601(b) OF REGULATION S-K, CERTAIN IDENTIFI"
+  },
+  {
+   "file": "cuad-062.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EXHIBIT 10.1 STRATEGIC SALES & MARKETING AGREEMENT THIS STRATEGIC SALES & MARKET"
+  },
+  {
+   "file": "cuad-063.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 6.7 EXCLUSIVE DISTRIBUTOR AGREEMENT This Distributor Agreement (\"Agreeme"
+  },
+  {
+   "file": "cuad-064.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.07 [*] Certain confidential information contained in this document, m"
+  },
+  {
+   "file": "cuad-065.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": false,
+   "title": "Exhibit 10.37 DISTRIBUTORSHIP AGREEMENT THIS DISTRIBUTORSHIP AGREEMENT (the \"Agr"
+  },
+  {
+   "file": "cuad-066.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 4.10 MARKETING AND RESELLER AGREEMENT (the \"Agreement\") THIS AGREEMENT i"
+  },
+  {
+   "file": "cuad-067.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.9 SUPPLY AGREEMENT between CREMER OLEO GmbH & Co KG, Glockengiesserwa"
+  },
+  {
+   "file": "cuad-068.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 2.6 FINAL VERSION FORM OF MANUFACTURING AND SUPPLY AGREEMENT BY AND BETW"
+  },
+  {
+   "file": "cuad-069.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.14 [* * *] = Certain confidential information contained in this docum"
+  },
+  {
+   "file": "cuad-070.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.19 CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKE"
+  },
+  {
+   "file": "cuad-071.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.10 CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT HAVE BEEN OMITTED AN"
+  },
+  {
+   "file": "cuad-072.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "DISTRIBUTOR AGREEMENT This Agreement is made and entered into this 7th day of Ap"
+  },
+  {
+   "file": "cuad-073.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.26 CONFIDENTIAL TREATMENT HAS BEEN REQUESTED AS TO CERTAIN PORTIONS O"
+  },
+  {
+   "file": "cuad-074.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": false,
+   "title": "EXHIBIT 10.2 TOUCHSTAR SOFTWARE CORPORATION RESELLER AGREEMENT DATED SEPTEMB"
+  },
+  {
+   "file": "cuad-075.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.12 EXCLUSIVE DISTRIBUTOR AGREEMENT THIS EXCLUSIVE DISTRIBUTOR AGREEME"
+  },
+  {
+   "file": "cuad-076.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.1 [*****] Text omitted for confidential treatment. The redacted infor"
+  },
+  {
+   "file": "cuad-077.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.2 CERTAIN INFORMATION (INDICATED BY ASTERISKS) HAS BEEN OMITTED FROM "
+  },
+  {
+   "file": "cuad-078.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.1 MANUFACTURING, DESIGN AND MARKETING AGREEMENT This MANUFACTURING, D"
+  },
+  {
+   "file": "kr-001.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "(계약예규) 공사계약일반조건 (계약예규 · 재정경제부 · 발령 20260401 · 시행 20260430) 출처: 국가법령정보센터 https://"
+  },
+  {
+   "file": "kr-002.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "(계약예규) 물품구매(제조)계약일반조건 (계약예규 · 재정경제부 · 발령 20260401 · 시행 20260430) 출처: 국가법령정보센터 ht"
+  },
+  {
+   "file": "kr-003.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "(계약예규) 용역계약일반조건 (계약예규 · 재정경제부 · 발령 20260401 · 시행 20260430) 출처: 국가법령정보센터 https://"
+  },
+  {
+   "file": "kr-004.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "건축공사 표준계약서 (고시 · 국토교통부 · 발령 20160408 · 시행 20160408) 출처: 국가법령정보센터 https://www.law"
+  },
+  {
+   "file": "kr-005.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "건축물의 공사감리 표준계약서 (고시 · 국토교통부 · 발령 20191231 · 시행 20191231) 출처: 국가법령정보센터 https://ww"
+  },
+  {
+   "file": "kr-006.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "건축물의 설계표준계약서 (고시 · 국토교통부 · 발령 20191231 · 시행 20191231) 출처: 국가법령정보센터 https://www.l"
+  },
+  {
+   "file": "kr-007.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "공공주택 건설기술(건설사업관리) 용역계약 특수조건 (훈령 · 조달청 · 발령 20240604 · 시행 20240604) 출처: 국가법령정보센터 "
+  },
+  {
+   "file": "kr-008.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "공공주택 건설기술(설계) 용역계약 특수조건 (훈령 · 조달청 · 발령 20240604 · 시행 20240604) 출처: 국가법령정보센터 http"
+  },
+  {
+   "file": "kr-009.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "공사계약특수조건 (지침 · 조달청 · 발령 20260129 · 시행 20260202) 출처: 국가법령정보센터 https://www.law.go."
+  },
+  {
+   "file": "kr-010.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "국가기관용 건설기술(건설사업관리) 용역계약 특수조건 (지침 · 조달청 · 발령 20250630 · 시행 20250702) 출처: 국가법령정보센터"
+  },
+  {
+   "file": "kr-011.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "국가기관용 건설기술(설계) 용역계약 특수조건 (지침 · 조달청 · 발령 20250630 · 시행 20250702) 출처: 국가법령정보센터 htt"
+  },
+  {
+   "file": "kr-012.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "디지털서비스 카탈로그계약 특수조건 (공고 · 조달청 · 발령 20251222 · 시행 20260101) 출처: 국가법령정보센터 https://w"
+  },
+  {
+   "file": "kr-013.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "디지털콘텐츠 중개 표준약관 (고시 · 과학기술정보통신부 · 발령 20221122 · 시행 20221128) 출처: 국가법령정보센터 https:/"
+  },
+  {
+   "file": "kr-014.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "디지털콘텐츠 표준약관 (고시 · 과학기술정보통신부 · 발령 20221122 · 시행 20221128) 출처: 국가법령정보센터 https://ww"
+  },
+  {
+   "file": "kr-015.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "디지털콘텐츠(영상) 공급표준계약서 (고시 · 문화체육관광부 · 발령 20230201 · 시행 20230201) 출처: 국가법령정보센터 https"
+  },
+  {
+   "file": "kr-016.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "디지털콘텐츠(음악) 공급표준계약서 (고시 · 문화체육관광부 · 발령 20230202 · 시행 20230202) 출처: 국가법령정보센터 https"
+  },
+  {
+   "file": "kr-017.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "레미콘 다수공급자계약 특수조건 (공고 · 조달청 · 발령 20260226 · 시행 20260301) 출처: 국가법령정보센터 https://www"
+  },
+  {
+   "file": "kr-018.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "물품 다수공급자계약 특수조건 (공고 · 조달청 · 발령 20260529 · 시행 20260601) 출처: 국가법령정보센터 https://www."
+  },
+  {
+   "file": "kr-019.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "물품 제조·구매 계약특수조건 표준(일반 및 방산) (예규 · 방위사업청 · 발령 20260716 · 시행 20260716) 출처: 국가법령정보센"
+  },
+  {
+   "file": "kr-020.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "물품 제조·구매 계약특수조건 표준(특정조달) (예규 · 방위사업청 · 발령 20260716 · 시행 20260716) 출처: 국가법령정보센터 h"
+  },
+  {
+   "file": "kr-021.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "물품구매(제조)계약 특수조건 (지침 · 조달청 · 발령 20251230 · 시행 20260101) 출처: 국가법령정보센터 https://www."
+  },
+  {
+   "file": "kr-022.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "물품구매(제조)계약추가특수조건 (공고 · 조달청 · 발령 20260423 · 시행 20260427) 출처: 국가법령정보센터 https://www"
+  },
+  {
+   "file": "kr-023.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "민간 국가유산수리 설계용역 표준계약서 (고시 · 국가유산청 · 발령 20250428 · 시행 20250501) 출처: 국가법령정보센터 https"
+  },
+  {
+   "file": "kr-024.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "민간 국가유산수리 표준도급계약서 (고시 · 국가유산청 · 발령 20240108 · 시행 20240517) 출처: 국가법령정보센터 https://"
+  },
+  {
+   "file": "kr-025.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "상용소프트웨어 다수공급자계약 특수조건 (공고 · 조달청 · 발령 20251222 · 시행 20260101) 출처: 국가법령정보센터 https:/"
+  },
+  {
+   "file": "kr-026.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "상용소프트웨어 제3자단가계약 추가특수조건 (지침 · 조달청 · 발령 20251222 · 시행 20260101) 출처: 국가법령정보센터 https"
+  },
+  {
+   "file": "kr-027.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "시설대여(리스)계약 일반 조건 (지침 · 조달청 · 발령 20180330 · 시행 20180401) 출처: 국가법령정보센터 https://www"
+  },
+  {
+   "file": "kr-028.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "아스콘 다수공급자계약 특수조건 (공고 · 조달청 · 발령 20260226 · 시행 20260301) 출처: 국가법령정보센터 https://www"
+  },
+  {
+   "file": "kr-029.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "외자계약일반조건(General Provisions for Foreign Contract) (훈령 · 조달청 · 발령 20251202 · 시행 2"
+  },
+  {
+   "file": "kr-030.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "외주정비 계약특수조건 표준 (예규 · 방위사업청 · 발령 20260716 · 시행 20260716) 출처: 국가법령정보센터 https://www"
+  },
+  {
+   "file": "kr-031.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "용역 계약특수조건 표준 (예규 · 방위사업청 · 발령 20260716 · 시행 20260716) 출처: 국가법령정보센터 https://www.l"
+  },
+  {
+   "file": "kr-032.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "용역 다수공급자계약 특수조건 (공고 · 조달청 · 발령 20260108 · 시행 20260201) 출처: 국가법령정보센터 https://www."
+  },
+  {
+   "file": "kr-033.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "용역 카탈로그계약 특수조건 (공고 · 조달청 · 발령 20260108 · 시행 20260201) 출처: 국가법령정보센터 https://www.l"
+  },
+  {
+   "file": "kr-034.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "우수조달물품 임차계약 추가특수조건 (공고 · 조달청 · 발령 20251105 · 시행 20251105) 출처: 국가법령정보센터 https://w"
+  },
+  {
+   "file": "kr-035.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "우주물체 제작 계약특수조건 표준 (예규 · 방위사업청 · 발령 20230131 · 시행 20230131) 출처: 국가법령정보센터 https://"
+  },
+  {
+   "file": "kr-036.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "이러닝(전자학습) 이용표준약관 (고시 · 산업통상부 · 발령 20130621 · 시행 20130621) 출처: 국가법령정보센터 https://w"
+  },
+  {
+   "file": "kr-037.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "일괄입찰 등의 공사계약특수조건 (지침 · 조달청 · 발령 20260129 · 시행 20260202) 출처: 국가법령정보센터 https://www"
+  },
+  {
+   "file": "kr-038.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "일반무기체계 연구개발 계약특수조건 표준 (예규 · 방위사업청 · 발령 20260716 · 시행 20260716) 출처: 국가법령정보센터 http"
+  },
+  {
+   "file": "kr-039.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "일반용역계약특수조건 (지침 · 조달청 · 발령 20260108 · 시행 20260112) 출처: 국가법령정보센터 https://www.law.g"
+  },
+  {
+   "file": "kr-040.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "전자정부사업관리 위탁용역계약 특수조건 (예규 · 행정안전부 · 발령 20240627 · 시행 20240627) 출처: 국가법령정보센터 https"
+  },
+  {
+   "file": "kr-041.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "조달청 공공주택 공사계약특수조건 (훈령 · 조달청 · 발령 20260123 · 시행 20260123) 출처: 국가법령정보센터 https://ww"
+  },
+  {
+   "file": "kr-042.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "조달청 군수품 구매(제조)계약 추가특수조건 (지침 · 조달청 · 발령 20231108 · 시행 20231110) 출처: 국가법령정보센터 http"
+  },
+  {
+   "file": "kr-043.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "지방자치단체용 건설기술(건설사업관리) 용역계약 특수조건 (지침 · 조달청 · 발령 20250630 · 시행 20250702) 출처: 국가법령정보"
+  },
+  {
+   "file": "kr-044.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "지방자치단체용 건설기술(설계) 용역계약 특수조건 (지침 · 조달청 · 발령 20250630 · 시행 20250702) 출처: 국가법령정보센터 h"
+  },
+  {
+   "file": "kr-045.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "철근 다수공급자계약 추가특수조건 (공고 · 조달청 · 발령 20260625 · 시행 20260701) 출처: 국가법령정보센터 https://ww"
+  },
+  {
+   "file": "kr-046.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "함정건조 계약특수조건 표준(일반 및 방산) (예규 · 방위사업청 · 발령 20260716 · 시행 20260716) 출처: 국가법령정보센터 ht"
+  },
+  {
+   "file": "kr-047.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "혁신제품 시범구매계약 추가특수조건 (지침 · 조달청 · 발령 20260309 · 시행 20260309) 출처: 국가법령정보센터 https://w"
+  },
+  {
+   "file": "kr-048.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "혁신제품 제3자단가계약 추가특수조건 (공고 · 조달청 · 발령 20260801 · 시행 20260801) 출처: 국가법령정보센터 https://"
+  },
+  {
+   "file": "kr-049.txt",
+   "off_target": true,
+   "reason": "당사자 미기재 공식 표준서식·일반조건 (체결 계약 아님)",
+   "has_party_entity": false,
+   "title": "화물자동차 운송사업 표준 위·수탁계약서 (고시 · 국토교통부 · 발령 20161219 · 시행 20161219) 출처: 국가법령정보센터 http"
+  },
+  {
+   "file": "sec-001.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": false,
+   "title": "EX-10.10 2 dex1010.htm SUPPLY AGREEMENT Supply Agreement Exhibit 10.10 *** Indic"
+  },
+  {
+   "file": "sec-002.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.12 7 h13458exv10w12.txt SUPPLY AGREEMENT EXHIBIT 10.12 SUPPLY AGREEMENT Co"
+  },
+  {
+   "file": "sec-003.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": false,
+   "title": "EX-10.32 2 exh10-32.txt SUPPLY AGREEMENT EXHIBIT 10.32 * Confidential Treatment "
+  },
+  {
+   "file": "sec-005.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.26 8 dex1026.htm SUPPLY AGREEMENT DATED JULY 30, 2004 BTWN BIOMARIN AND DS"
+  },
+  {
+   "file": "sec-009.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.50 5 dex1050.htm MASTER SUPPLY AGREEMENT, DATE JUNE 13, 2003 Master Supply"
+  },
+  {
+   "file": "sec-010.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.W 14 b45002ssexv10ww.txt NEWBURY PARK WAFER SUPPLY AND SERVICES AGREEMENT "
+  },
+  {
+   "file": "sec-012.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.25 2 dex1025.txt DURECT SUPPLY AGREEMENT Exhibit 10.25 DURECT SUPPLY AGREE"
+  },
+  {
+   "file": "sec-015.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.12 6 dex1012.htm SUPPLY AGREEMENT Supply Agreement Exhibit 10.12 REDACTED "
+  },
+  {
+   "file": "sec-016.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.6 3 c61002ex10-6.txt SUPPLY AGREEMENT DATED 1/1/01 1 EXHIBIT 10.6 SUPPLY A"
+  },
+  {
+   "file": "sec-017.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.42 2 dex1042.htm SUPPLY AGREEMENT, DATED JANUARY 17, 2007 Supply Agreement"
+  },
+  {
+   "file": "sec-020.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.1 2 dex101.htm SUPPLY AGREEMENT - PEPSI-COLA ADVERTISING AND MARKETING, IN"
+  },
+  {
+   "file": "sec-023.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.12 4 c73700exv10w12.txt EX-10.12 REAGENT SUPPLY AGREEMENT EXHIBIT 10.12 RE"
+  },
+  {
+   "file": "sec-024.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": false,
+   "title": "EX-10.10 7 dex1010.htm SUPPLY AGREEMENT Supply Agreement Exhibit 10.10 SUPPLY AG"
+  },
+  {
+   "file": "sec-025.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.100 8 ex10-100.htm AMENDED & RESTATED SUPPLY AGREEMENT WITH JIANGXI JINKO "
+  },
+  {
+   "file": "sec-026.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": false,
+   "title": "EX-10.15 2 dex1015.htm MANUFACTURING AGREEMENT WITH PRODUITS CHEMQUES AUXILIAIRE"
+  },
+  {
+   "file": "sec-027.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.30 3 file002.txt SUPPLY CONTRACT WITH MONARCH NOTE: PORTIONS OF THIS EXHIB"
+  },
+  {
+   "file": "sec-028.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": false,
+   "title": "EX-10.37 2 dex1037.htm MANUFACTURING SUPPLY AGREEMENT Manufacturing Supply Agree"
+  },
+  {
+   "file": "sec-029.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.18 6 dex1018.htm SUPPLY & MANUFACTURE AGREEMENT Supply & Manufacture Agree"
+  },
+  {
+   "file": "sec-030.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.47 4 dex1047.htm MASTER DEVELOPMENT AND SUPPLY AGREEMENT Master Developmen"
+  },
+  {
+   "file": "sec-031.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.40 17 d04354exv10w40.txt EX-10.40 ACCESS CONTROL SUPPLY AGREEMENT EXHIBIT "
+  },
+  {
+   "file": "sec-032.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.17 18 dex1017.htm THIRD AMENDED AND RESTATED MEMBRANE MANUFACTURE AND SUPP"
+  },
+  {
+   "file": "sec-033.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.18 3 w32201exv10w18.htm DEVELOPMENT AND SUPPLY AGREEMENT exv10w18 Confiden"
+  },
+  {
+   "file": "sec-035.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.43 4 dex1043.htm SUPPLY AND LICENSE AGREEMENT Supply and License Agreement"
+  },
+  {
+   "file": "sec-036.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.61 2 dex1061.htm POLYSILICON SUPPLY AGREEMENT, DATED DECEMBER 22, 2006 Pol"
+  },
+  {
+   "file": "sec-037.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.43 9 d260205dex1043.htm SUPPLY AGREEMENT Supply Agreement EXHIBIT 10.43 **"
+  },
+  {
+   "file": "sec-038.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.62 3 dex1062.htm INGOT SUPPLY AGREEMENT, DATED DECEMBER 22, 2006 Ingot Sup"
+  },
+  {
+   "file": "sec-039.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.26 7 d101398dex1026.htm SUPPLY AGREEMENT Supply Agreement Exhibit 10.26 **"
+  },
+  {
+   "file": "sec-040.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.38 3 ptn_ex1038.htm MANUFACTURING PREPARATION AND SERVICES AGREEMENT Bluep"
+  },
+  {
+   "file": "sec-041.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.1 2 ex-10_1.htm STRATEGIC ALLIANCE AND SUPPLY AGREEMENT ex-10_1.htm Vista "
+  },
+  {
+   "file": "sec-042.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.37 5 file5.htm SUPPLY AGREEMENT EXHIBIT 10.37 SUPPLY AGREEMENT This Supply"
+  },
+  {
+   "file": "sec-043.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.II.B.4 3 y13681exv10wiiwbw4.htm EX-10.II.B.4: EXTERNAL MANUFACTURING SERVI"
+  },
+  {
+   "file": "sec-044.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.35 2 ea023904801ex10-35_nutriband.htm COMMERCIAL DEVELOPMENT AND CLINICAL "
+  },
+  {
+   "file": "sec-045.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.56 3 dex1056.txt SUPPLY AGREEMENT DATED AS OF MAY 1, 2001 EXHIBIT 10.56 --"
+  },
+  {
+   "file": "sec-046.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.15 5 dex1015.txt AMENDED MANUFACTURING AND SUPPLY AGREEMENT Exhibit 10.15 "
+  },
+  {
+   "file": "sec-047.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.64 5 dex1064.txt SUPPLY AGREEMENT EXHIBIT 10.64 SUPPLY AGREEMENT This Supp"
+  },
+  {
+   "file": "sec-048.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.24 8 vasc070378_ex10-24.htm THROMBIN JMI SUPPLY AGREEMENT Exhibit 10.24 to"
+  },
+  {
+   "file": "sec-049.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.23 7 vasc070378_ex10-23.htm DEVICE SUPPLY AGREEMENT Exhibit 10.23 to Vascu"
+  },
+  {
+   "file": "sec-050.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.15 6 d52002_ex10-15.txt DEVELOPMENT, LICENSE AND SUPPLY AGREEMENT Exhibit "
+  },
+  {
+   "file": "sec-051.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.3 2 f10k2016ex10iii_myosrenstech.htm AMENDED SUPPLY AGREEMENT BY AND BETWE"
+  },
+  {
+   "file": "sec-052.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.5 8 dex105.htm SUPPLY AGREEMENT DATED JULY 31, 2005 Supply Agreement dated"
+  },
+  {
+   "file": "sec-053.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.1 2 once_ex101.htm LONG-TERM SUPPLY AGREEMENT once_ex101.htm EXHIBIT 10.1 "
+  },
+  {
+   "file": "sec-054.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.1 2 loop_ex101.htm MASTER TERM AND CONDITIONS SUPPLY AGREEMENT loop_ex101."
+  },
+  {
+   "file": "sec-056.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.2 3 filing_374-2.htm WATSON SUPPLY AGREEMENT CONFIDENTIAL SUPPLY AGREEMENT"
+  },
+  {
+   "file": "sec-057.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.1 2 dex101.htm MASTER SUPPLY AGREEMENT, EFFECTIVE AS OF AUGUST 1, 2006 Mas"
+  },
+  {
+   "file": "sec-058.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.2 3 dex102.htm SUPPLY AGREEMENT Supply Agreement Exhibit 10.2 [***]CERTAIN"
+  },
+  {
+   "file": "sec-059.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": false,
+   "title": "EX-10.1 2 exh101.htm MASTER INNOVATION AND SUPPLY AGREEMENT exh101.htm Exhibit 1"
+  },
+  {
+   "file": "sec-060.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.5 6 k98871exv10w5.txt PURCHASE AND SUPPLY AGREEMENT, DATED AS OF SEPTEMBER"
+  },
+  {
+   "file": "sec-061.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": false,
+   "title": "EX-10 2 phonak09.htm SUPPLY AGREEMENT BY AND BETWEEN NVE CORPORATION AND PHONAK "
+  },
+  {
+   "file": "sec-062.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10 3 iec10kex10-64.txt EX-10.64 VIVENDI DISTRIBUTION AGREEMENT #4 EXHIBIT 10."
+  },
+  {
+   "file": "sec-063.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10 4 iec10kex10-65.txt EX-10.65 VIVENDI DISTRIBUTION AGREEMENT #5 EXHIBIT 10."
+  },
+  {
+   "file": "sec-064.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10 3 ex10agri.txt 10.3H BOVINE VACCINE DISTRIBUTION AGREEMENT [CONFIDENTIAL T"
+  },
+  {
+   "file": "sec-065.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": false,
+   "title": "EX-10.19 5 dex1019.htm MICROSOFT OEM MOBILE WINDOWS DISTRIBUTION AGREEMENT Micro"
+  },
+  {
+   "file": "sec-066.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.21 2 b37527amex10-21.txt MASTER DISTRIBUTION AGREEMENT 1 Exhibit 10.21 Con"
+  },
+  {
+   "file": "sec-067.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.33 4 sonoma_ex1033.htm DISTRIBUTION AGREEMENT Exhibit 10.33 Execution Copy"
+  },
+  {
+   "file": "sec-068.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.11 8 w46067ex10-11.txt DISTRIBUTION AGREEMENT DATED SEPTEMBER 25, 1995 1 E"
+  },
+  {
+   "file": "sec-069.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.29 7 f10k2014ex10xxix_oxysure.htm EXCLUSIVE DISTRIBUTION AGREEMENT Exhibit"
+  },
+  {
+   "file": "sec-070.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10 3 e14877ex10.txt SALES AND DISTRIBUTIOIN AGREEMENT Exhibit 10 SALES AND DI"
+  },
+  {
+   "file": "sec-071.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.37 3 dex1037.htm NATIONAL BRAND DISTRIBUTION AGREEMENT National Brand Dist"
+  },
+  {
+   "file": "sec-072.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.12 3 b329629ex_10-12.txt EXCLUSIVE DISTRIBUTION AGREEMENT EXHIBIT 10.12b E"
+  },
+  {
+   "file": "sec-073.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.14 8 dex1014.htm LICENSE AND DISTRIBUTION AGREEMENT LICENSE AND DISTRIBUTI"
+  },
+  {
+   "file": "sec-074.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.28 2 dex1028.htm DISTRIBUTION AGREEMENT BY AND BETWEEN MACROMEDIA, INC. AN"
+  },
+  {
+   "file": "sec-076.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.3 2 y98069exv10w3.txt DISTRIBUTION AGREEMENT Exhibit 10.3 Distribution Agr"
+  },
+  {
+   "file": "sec-077.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.16 4 g67461ex10-16.txt DISTRIBUTION AGREEMENT 1 EXHIBIT 10.16 Banco Popula"
+  },
+  {
+   "file": "sec-078.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.44 2 dex1044.htm LICENSE, DEVELOPMENT, SUPPLY & DISTRIBUTION AGREEMENT Lic"
+  },
+  {
+   "file": "sec-079.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.48 5 exh10-48_11775.txt EXCLUSIVE DISTRIBUTION AGREEMENT EXHIBIT 10.48 ---"
+  },
+  {
+   "file": "sec-081.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.16 5 dex1016.txt EXCLUSIVE DISTRIBUTION AGREEMENT Confidential Materials o"
+  },
+  {
+   "file": "sec-082.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": false,
+   "title": "EX-10.36 9 b400552ex10_36.htm MARKETIING AND DISTRIBUTION AGREEMENT Prepared and"
+  },
+  {
+   "file": "sec-083.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.3 3 f10k2012ex10iii_eternity.htm REVISED DISTRIBUTION AGREEMENT DATED JUNE"
+  },
+  {
+   "file": "sec-084.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10 10 master-distrib_agr.txt EX. 10.61 - MASTER DISTRIBUTION AGREEMENT MASTER"
+  },
+  {
+   "file": "sec-086.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.49 19 g76743exv10w49.txt AMENDED & RESTATED DISTRIBUTION AGREEMENT EXHIBIT"
+  },
+  {
+   "file": "sec-087.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.3 2 dex103.htm DISTRIBUTION AGREEMENT BY AND BETWEEN JAMBA JUICE COMPANY A"
+  },
+  {
+   "file": "sec-088.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.15 5 d71435_ex10-15.htm INTERNATIONAL DISTRIBUTOR AGREEMENT Exhibit 10.15 "
+  },
+  {
+   "file": "sec-089.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.8 5 k23205exv10w8.txt DISTRIBUTOR AGREEMENT DATED OCTOBER 31, 2006 BETWEEN"
+  },
+  {
+   "file": "sec-090.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.4 3 d11884exv10w4.htm EX-10.4 AUTHORIZED DISTRIBUTOR AGREEMENT FOR 2003 ex"
+  },
+  {
+   "file": "sec-091.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.13 8 exh10_13.htm DISTRIBUTOR AGREEMENT Converted by EDGARwiz Exhibit 10.1"
+  },
+  {
+   "file": "trade-001.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EXHIBIT 10.1 SUPPLY AGREEMENT This Agreement is made and entered into as of June"
+  },
+  {
+   "file": "trade-002.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": ". . . EXHIBIT 10.4 [VALENTEC LOGO] AMMUNITION MULTI YEAR PROGRAM - CONTRACT No. "
+  },
+  {
+   "file": "trade-003.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "10.24 PRODUCTION AND DISTRIBUTION AGREEMENT This Agreement will enter into force"
+  },
+  {
+   "file": "trade-004.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "alid_ex102.htm EXHIBIT 10.2 Forward Purchase Agreement This Forward Purchase Agr"
+  },
+  {
+   "file": "trade-005.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "TOLLING AGREEMENT This TOLLING AGREEMENT (this \"Agreement\") is entered into as o"
+  },
+  {
+   "file": "trade-006.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Agreement with WYNIT Distribution, LLC Exhibit 10.10 wynit We Distribute Oct 27,"
+  },
+  {
+   "file": "trade-007.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-4.1 EXHIBIT 4.1 EQUIPMENT SUPPLY CONTRACT BETWEEN Cementos Pacasmayo S.A.A. C"
+  },
+  {
+   "file": "trade-008.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-4.4 EXHIBIT 4.4 [Letterhead of Canadian Solar Inc.] Sales Contract July. 15th"
+  },
+  {
+   "file": "trade-009.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-4.5 EXHIBIT 4.5 [Letterhead of Canadian Solar Inc.] Sales Contract September "
+  },
+  {
+   "file": "trade-010.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Data I/O Corporation 6645 185 th Ave NE, Suite 100 Redmond, WA 98052 USA Negotia"
+  },
+  {
+   "file": "trade-011.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": false,
+   "title": "exhibit47 Exhibit 4.7 THE SYMBOL “[REDACTED]” DENOTES PLACES WHERE CERTAIN INFOR"
+  },
+  {
+   "file": "trade-012.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Electrameccanica Vehicles Corp. - Exhibit 10.1 - Filed by newsfilecorp.com JOINT"
+  },
+  {
+   "file": "trade-013.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EXHIBIT 10.21 MANUFACTURING AGREEMENT BETWEEN EMULEX CORPORATION AND BENCHMARK E"
+  },
+  {
+   "file": "trade-014.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Document Exhibit 10.42 Confidential Execution Version THIRD AMENDMENT TO SUPPLY "
+  },
+  {
+   "file": "trade-015.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "ENPH 06.30.2015 10-Q EX-10.4 Exhibit 10.4 Second Amendment to the Supply Agreeme"
+  },
+  {
+   "file": "trade-016.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.6 Exhibit 10.6 FIRST AMENDMENT TO DISTRIBUTION AGREEMENT This First Amendm"
+  },
+  {
+   "file": "trade-017.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": false,
+   "title": "EX-10.3 Exhibit 10.3 Dated 21 August, 2014 EAST METALS AG as Seller and EVRAZ IN"
+  },
+  {
+   "file": "trade-018.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.4 Exhibit 10.4 Dated 21 August, 2014 EAST METALS AG as Seller and EVRAZ TR"
+  },
+  {
+   "file": "trade-019.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": false,
+   "title": "EX-10.6 Exhibit 10.6 Dated 21 August, 2014 EAST METALS AG as Seller and EVRAZ IN"
+  },
+  {
+   "file": "trade-020.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.7 Exhibit 10.7 Dated 21 August, 2014 EAST METALS AG as Seller and EVRAZ TR"
+  },
+  {
+   "file": "trade-021.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EXHIBIT 10.01 Commercial Agreement April 29, 2015 The sale and purchase of goods"
+  },
+  {
+   "file": "trade-022.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "gbgd20130710_8kex10-3.htm Exhibit 10.3 ADDENDUM NO 1 TO THE GOLD CONCENTRATE SUP"
+  },
+  {
+   "file": "trade-023.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Purchase Contract [103-11CMX-019-0-P] effective March 28, 2011 Exhibit 10.3 CONS"
+  },
+  {
+   "file": "trade-024.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Purchase Contract [203-11CMX-020-0-P] effective date March 28, 2011 Exhibit 10.5"
+  },
+  {
+   "file": "trade-025.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "exv10w1 SUPPLY AGREEMENT Concluded on the date set forth below by and between vo"
+  },
+  {
+   "file": "trade-026.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "E xhibit 10.71 [*] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT"
+  },
+  {
+   "file": "trade-027.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EXHIBIT 4.26 DISTRIBUTION AGREEMENT THIS AGREEMENT is made as of the 22nd day of"
+  },
+  {
+   "file": "trade-028.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Converted by EDGARwiz Purchase Order Number: 062009 Date: June 15, 2009 Purchase"
+  },
+  {
+   "file": "trade-029.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Methanol Sales Agreement Exhibit 10.11 *** CONFIDENTIAL TREATMENT HAS BEEN REQUE"
+  },
+  {
+   "file": "trade-030.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Sales Contract Exhibit 10.33 **** INDICATES CONFIDENTIAL MATERIAL OMITTED PURSUA"
+  },
+  {
+   "file": "trade-031.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Sales Contract between Shangrao Jinko Solar Import and Export Co., Ltd. Exhibit "
+  },
+  {
+   "file": "trade-032.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.1 Exhibit 10.1 EXECUTION COPY MASTER EQUIPMENT PURCHASE AND SALE AGRE"
+  },
+  {
+   "file": "trade-033.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": false,
+   "title": "0704-729446349-01 FIRST SINO BANK Company Name: Kid Castle Educational Software "
+  },
+  {
+   "file": "trade-034.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "exh10-33.htm Exhibit 10.33 ENGLISH VERSION CONTRACT FOR THE SUPPLY OF KALLO MOBI"
+  },
+  {
+   "file": "trade-035.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "CONTRACT FOR NATIONAL HEALTHCARE PROJECTS MINISTRY OF HEALTH The State of ERITRE"
+  },
+  {
+   "file": "trade-036.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": false,
+   "title": "Exhibit 10.6 Exhibit 10.6 CONFIDENTIAL TREATMENT REQUESTED: Certain portions of "
+  },
+  {
+   "file": "trade-037.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.41 THE USE OF THE FOLLOWING NOTATION IN THIS EXHIBIT INDICATES THAT T"
+  },
+  {
+   "file": "trade-038.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EXHIBIT 10.8 [LETTERHEAD] Alcan Deutschland GmbH . Postf. 5149 . D-65726 Eschbor"
+  },
+  {
+   "file": "trade-039.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EXHIBIT 10.29 DISTRIBUTION AGREEMENT This agreement (\"THIS AGREEMENT\") is made a"
+  },
+  {
+   "file": "trade-040.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "FORM: JANUARY 2004 EXHIBIT 10.12 PLANOVA(TM) SALES AGREEMENT THIS PLANOVA SALES "
+  },
+  {
+   "file": "trade-041.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "exhibit101.htm Exhibit 10.1 CONTRACT MANUFACTURING AGREEMENT The undersigned, Me"
+  },
+  {
+   "file": "trade-042.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "exhibit102.htm Exhibit 10.2 CONTRACT MANUFACTURING AGREEMENT The undersigned, Me"
+  },
+  {
+   "file": "trade-043.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Amended and Restated Agreement EXHIBIT 10.1 CONFIDENTIAL TREATMENT PORTIONS OF T"
+  },
+  {
+   "file": "trade-044.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Document Exhibit 10.31 AMENDMENT NO. 1 TO THE TECHNOLOGY TRANSFER, VALIDATION AN"
+  },
+  {
+   "file": "trade-045.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.1 *** Confidential Treatment Requested Under 17 C.F.R. Section 240.24"
+  },
+  {
+   "file": "trade-046.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": false,
+   "title": "Exhibit 10.4 FIRST AMENDMENT TO AGENCY AGREEMENT -------------------------------"
+  },
+  {
+   "file": "trade-047.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EXHIBIT 10.42 FIRST AMENDMENT TO LICENSE AGREEMENT AND GRANT OF DISTRIBUTORSHIP "
+  },
+  {
+   "file": "trade-048.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Supply Agreement, dated August 23, 2005 Exhibit 10.22 CONFIDENTIAL TREATMENT REQ"
+  },
+  {
+   "file": "trade-049.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "(Chinese translation has been omitted) DISTRIBUTION CONTRACT July 30, 2008 Contr"
+  },
+  {
+   "file": "trade-050.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "ex99_1.htm DISTRIBUTION CONTRACT December 16th, 2009 Contract No.: Entered into "
+  },
+  {
+   "file": "trade-051.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": false,
+   "title": "Exhibit 10.33 CONTRACT OF PURCHASE BETWEEN SCHUCO INTERNATIONAL KG AND JIANGSU L"
+  },
+  {
+   "file": "trade-052.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Document Exhibit 10.56 THE USE OF THE FOLLOWING NOTATION IN THIS EXHIBIT INDICAT"
+  },
+  {
+   "file": "trade-053.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Document Exhibit 10.9 Execution Version Certain identified information has been "
+  },
+  {
+   "file": "trade-054.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.6 Exhibit 10.6 LETTER OF AGREEMENT This Letter of Agreement (“LOA”) is mad"
+  },
+  {
+   "file": "trade-055.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "exh101.htm Exhibit 10.1 MATERIAL NOTED WITH [**] IS CONFIDENTIAL AND HAS BEEN DE"
+  },
+  {
+   "file": "trade-056.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX 10.1 Global Supply Agreement Exhibit 10.1 MATERIAL NOTED WITH [**] IS CONFIDE"
+  },
+  {
+   "file": "trade-057.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.1 Portions of this document have been redacted pursuant to Item 601(b"
+  },
+  {
+   "file": "trade-058.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "Exhibit 10.10 SUPPLY AGREEMENT On the date of signature this Supply Agreement ha"
+  },
+  {
+   "file": "trade-059.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.29 SUPPLY AGREEMENT, DTED NOV 13, 2006 Exhibit 10.29 SUPPLY AGREEMENT betw"
+  },
+  {
+   "file": "trade-060.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "EX-10.30 SUPPLY AGREEMENT, DATED AUGUST 10, 2006 Exhibit 10.30 SUPPLY AGREEMENT "
+  },
+  {
+   "file": "trade-061.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "zolt20130628_10kaex10-8.htm Exhibit 10.8 [Certain portions of this Exhibit have "
+  },
+  {
+   "file": "trade-062.txt",
+   "off_target": false,
+   "reason": "",
+   "has_party_entity": true,
+   "title": "ex10-8.htm Exhibit 10.8 [Certain portions of this Exhibit have been filed separa"
+  }
+ ]
+}

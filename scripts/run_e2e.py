@@ -199,7 +199,17 @@ def main() -> int:
     #
     #   그래서 평균 하나로 뭉뚱그리면 "국문에서 무너진다" 는 **틀린 진단**이 나온다.
     #   대상 문서군과 비대상을 나눠 **둘 다** 보고한다 — 낮은 쪽을 숨기지 않기 위해서다.
-    OFF_TARGET = {"kr"}          # 국내 조달 표준서식 — 송금 계약 아님
+    # 🔴 접두사 하드코딩을 버리고 **문서별 매니페스트**를 읽는다 (2026-08-03).
+    #    `OFF_TARGET={"kr"}` 는 접두사 하나만 추가하면 숫자가 올라가는 구조라
+    #    cross-model 리뷰가 "조작 가능"으로 지적했다. 매니페스트는 문서마다 사유를
+    #    적게 강제하므로 같은 조작이 눈에 보인다. 판정 기준은 국문 여부가 아니라
+    #    **"체결 당사자가 채워졌는가"** 이고 전 코퍼스에 동일 적용한다.
+    _man = CONTRACTS / "_corpus_manifest.json"
+    _off_files: set[str] = set()
+    if _man.exists():
+        _off_files = {d["file"] for d in json.loads(_man.read_text(encoding="utf-8"))["documents"]
+                      if d["off_target"]}
+    OFF_TARGET = {f.split("-")[0] for f in _off_files}   # 표시용 접두사 요약
     by_corpus: dict[str, dict[str, int]] = {}
     for r in rows:
         c = r["file"].split("-")[0]
@@ -248,6 +258,13 @@ def main() -> int:
                   f"   정상 UNKNOWN {unk:>6.1%}")
             if c not in OFF_TARGET:
                 tb += d["atk_excl_blocked"]; tt += d["atk_excl_total"]
+        # 파일 단위 재확인 (접두사 요약과 어긋나면 매니페스트가 정본)
+        fb = sum(1 for r in rows if r["expect_block"] and r["kind"] != "attack_forged_amendment"
+                 and r["file"] not in _off_files and r["verdict"] in {"HOLD", "BLOCK_PENDING"})
+        ft = sum(1 for r in rows if r["expect_block"] and r["kind"] != "attack_forged_amendment"
+                 and r["file"] not in _off_files)
+        if ft and (fb, ft) != (tb, tt):
+            print(f"      (파일 단위 매니페스트 기준: {fb}/{ft} = {fb/ft:.1%})")
         if tt:
             print(f"      {'대상 문서군만':<12} {tb:>4}/{tt:<4} = {tb/tt:>6.1%}"
                   f"   ({', '.join(sorted(set(by_corpus) - OFF_TARGET))})")
