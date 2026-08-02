@@ -15,7 +15,11 @@ from enum import Enum
 
 
 class InstructionSource(str, Enum):
-    """이 계좌를 어디서 받았는가. 은행이 송금 신청 필드로 묻는다 — 사용자 능동성 0."""
+    """이 계좌를 어디서 받았는가 (S16 오른쪽 입력).
+
+    🔴 은행 송금 신청 서식에 이 항목이 **이미 있는지는 미확인**이다 (U-19, 서식 실물 미확보).
+    없다면 드롭다운 1개 추가가 필요하다 — 새 서류가 아니라 기존 폼의 필드다.
+    """
 
     CONTRACT = "contract"      # 계약서에 명시된 계좌
     AMENDMENT = "amendment"    # 계약 수정 합의서
