@@ -287,3 +287,50 @@ class TestReachability(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main(verbosity=2)
+
+
+class TestNoticeChannelTypeMismatch(unittest.TestCase):
+    """🎯 계약이 통지 '수단'을 정했는데 다른 수단으로 계좌 지시가 왔다.
+
+    왜 필요한가 (03_R7_측정 §3-2 실측): 계약서에 이메일 **주소**가 있는 비율은 19.9%뿐이다.
+    우편 82.8% · 팩스/전화 40.4%. 주소 대조만 하면 8할의 계약서에서 fallback 이 죽는다.
+    수단을 보면 통지 조항 보유율(84.3%)만큼 커버리지가 올라간다.
+    """
+
+    def test_postal_only_contract_flags_email_instruction(self):
+        f = _facts(notice_channel_types=["postal", "fax"], registered_contact=[])
+        hit = signals.check_s16(f, AccountInstruction(InstructionSource.EMAIL, "x@y.z"))
+        self.assertIs(hit.severity, Severity.HIGH)
+        self.assertIn("이메일", hit.detail)
+
+    def test_designated_channel_is_not_flagged_by_this_rule(self):
+        """계약이 이메일을 지정했으면 이 규칙으로 막지 않는다 — 과잉차단 방지."""
+        f = _facts(notice_channel_types=["email"], notice_channels=["hans@bauer-gmbh.de"])
+        hit = signals.check_s16(f, AccountInstruction(InstructionSource.EMAIL,
+                                                     "hans@bauer-gmbh.de"))
+        self.assertIsNot(hit.severity, Severity.HIGH)
+
+    def test_empty_channel_types_does_not_fire(self):
+        """조항이 수단을 지정하지 않았으면(빈 배열) 이 규칙은 침묵한다.
+        빈 배열을 '아무것도 허용 안 함'으로 읽으면 전건 차단이 된다."""
+        f = _facts(notice_channel_types=[], registered_contact=["hans@bauer-gmbh.de"])
+        hit = signals.check_s16(f, AccountInstruction(InstructionSource.EMAIL,
+                                                     "hans@bauer-gmbh.de"))
+        self.assertIsNot(hit.severity, Severity.HIGH)
+
+    def test_contract_sourced_instruction_still_passes(self):
+        """계약서/수정합의서 출처는 수단 검사 이전에 통과한다 — 순서가 중요하다."""
+        f = _facts(notice_channel_types=["postal"])
+        for src in (InstructionSource.CONTRACT, InstructionSource.AMENDMENT):
+            with self.subTest(src=src):
+                self.assertIs(signals.check_s16(f, AccountInstruction(src)).severity,
+                              Severity.NONE)
+
+    def test_written_amendment_clause_takes_precedence(self):
+        """서면 요구 조항이 있으면 그 사유가 먼저 나와야 한다 (더 강한 근거)."""
+        f = _facts(amendment_clause="§14 서면 합의로만",
+                   amendment_clause_requires_written=True,
+                   notice_channel_types=["postal"])
+        hit = signals.check_s16(f, AccountInstruction(InstructionSource.EMAIL, "x@y.z"))
+        self.assertIs(hit.severity, Severity.HIGH)
+        self.assertIn("서면 합의", hit.detail)

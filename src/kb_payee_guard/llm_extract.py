@@ -80,6 +80,7 @@ _SCHEMA: dict[str, Any] = {
     "required": [
         "counterparty_name", "counterparty_country", "payment_terms",
         "registered_contact", "notice_clause", "notice_channels",
+        "notice_channel_types",
         "amendment_clause", "amendment_allows_email_bank_change",
         "evidence_spans",
     ],
@@ -114,6 +115,21 @@ _SCHEMA: dict[str, Any] = {
             "type": "array", "items": {"type": "string"},
             "description": "통지 조항이 통지 수단으로 '지정'한 이메일 주소들. "
                            "조항이 주소를 지정하지 않으면 빈 배열.",
+        },
+        # 🎯 주소가 아니라 **수단**. 계약서에 이메일 주소가 있는 비율은 19.9%뿐이지만
+        #    통지 조항 자체는 84.3%가 갖고 있다 — 수단을 보면 커버리지가 4배가 된다.
+        "notice_channel_types": {
+            "type": "array",
+            "items": {"type": "string",
+                      "enum": ["postal", "fax", "email", "courier", "in_person", "other"]},
+            "description": (
+                "통지 조항이 **통지 수단**으로 지정한 것들. 주소가 아니라 수단의 종류다.\n"
+                "예: 'notices shall be given in writing by registered mail or facsimile'\n"
+                "    → [\"postal\", \"fax\"]   (email 은 지정되지 않았으므로 넣지 않는다)\n"
+                "    'by email to the address below' → [\"email\"]\n"
+                "🔴 조항이 수단을 지정하지 않았거나 통지 조항 자체가 없으면 **빈 배열**.\n"
+                "   추측해서 채우지 말 것 — 빈 배열과 잘못된 값은 결과가 다르다."
+            ),
         },
         "amendment_clause": {
             "type": ["string", "null"],
@@ -392,6 +408,7 @@ def _to_facts(raw: dict[str, Any], text: str) -> tuple[ContractFacts, list[str]]
         payment_terms_raw=pt_raw,
         notice_clause=raw.get("notice_clause"),
         notice_channels=list(raw.get("notice_channels") or []),
+        notice_channel_types=list(raw.get("notice_channel_types") or []),
         amendment_clause=clause,
         # null(조항 없음) → False. 조항이 없으면 서면을 '요구'하지 않는 것이 맞다.
         # 그 경우 S16은 fallback 경로로 간다.

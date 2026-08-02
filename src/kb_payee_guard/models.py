@@ -97,7 +97,13 @@ class ContractFacts:
 
     # §Notices / §Amendment — S16의 준거
     notice_clause: str | None = None
-    notice_channels: list[str] = field(default_factory=list)  # 지정 경로·주소
+    notice_channels: list[str] = field(default_factory=list)  # 지정 이메일 주소
+    # 🎯 통지 조항이 지정한 **수단의 종류**. 주소가 아니라 채널이다.
+    #    실측(03_R7_측정 §3-2): 계약서에 이메일 주소가 있는 비율은 19.9%뿐인데
+    #    우편 주소는 82.8%, 팩스·전화는 40.4%다. 주소만 보면 8할을 못 쓴다.
+    #    "계약은 서면·팩스 통지를 정했는데 계좌 지시는 이메일"도 절차 이탈이다.
+    #    값: postal | fax | email | courier | in_person | other
+    notice_channel_types: list[str] = field(default_factory=list)
     amendment_clause: str | None = None
     amendment_clause_requires_written: bool = False
 

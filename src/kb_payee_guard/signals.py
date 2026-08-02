@@ -219,6 +219,23 @@ def check_s16(facts: ContractFacts, instr: AccountInstruction) -> SignalHit:
             facts.notice_clause,
         )
 
+    # 3-bis. 🎯 통지 조항이 **수단**을 지정했는데 이번 지시가 그 수단이 아니다.
+    #
+    #    왜 필요한가 (03_R7_측정 §3-2 실측): 계약서에 이메일 **주소**가 있는 비율은 19.9%뿐이다.
+    #    우편 주소 82.8% · 팩스/전화 40.4%. 주소 대조만 하면 8할의 계약서에서 fallback 이 죽는다.
+    #    그런데 "통지는 서면 또는 팩스로 한다"고 정한 계약서에 **이메일로 계좌 변경**이 오면
+    #    주소를 몰라도 절차 이탈이다 — 수단 자체가 다르다.
+    if facts.notice_channel_types:
+        allowed = {c.strip().lower() for c in facts.notice_channel_types}
+        actual = _CHANNEL_OF.get(instr.source)
+        if actual and actual not in allowed:
+            return SignalHit(
+                "S16", "ACCOUNT_INSTRUCTION_PROVENANCE", Severity.HIGH,
+                f"계약서는 통지 수단을 {'·'.join(_CHANNEL_KO.get(c, c) for c in sorted(allowed))}"
+                f"(으)로 정했는데 이번 계좌 지시는 {_SOURCE_KO[instr.source]}입니다.",
+                facts.notice_clause,
+            )
+
     # 4. 🎯 S16-b fallback — 절차 조항이 없을 때 계약서 기재 연락처를 준거로 쓴다.
     #
     #    왜 필요한가: 3번까지만 있으면 §Notices·§Amendment가 없는 계약서에서 S16이
@@ -253,6 +270,20 @@ def check_s16(facts: ContractFacts, instr: AccountInstruction) -> SignalHit:
         f"계약서에 계좌 변경 절차 조항이 없고, 이번 지시는 {_SOURCE_KO[instr.source]}입니다.",
     )
 
+
+# 지시 출처 → 통지 '수단' 종류. 계약서/수정합의서는 위에서 이미 통과 처리되므로 여기 없다.
+_CHANNEL_OF = {
+    InstructionSource.EMAIL: "email",
+    InstructionSource.FAX: "fax",
+    InstructionSource.PHONE: "phone",
+    InstructionSource.PORTAL: "portal",
+}
+
+_CHANNEL_KO = {
+    "postal": "우편(서면)", "fax": "팩스", "email": "이메일",
+    "courier": "특송", "in_person": "직접 교부", "phone": "전화",
+    "portal": "포털", "other": "기타",
+}
 
 _SOURCE_KO = {
     InstructionSource.CONTRACT: "계약서",
