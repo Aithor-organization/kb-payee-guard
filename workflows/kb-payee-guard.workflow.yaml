@@ -1,6 +1,6 @@
 schema_version: aithor-agent-workflow/v1
 name: kb-payee-guard
-version: 3.1.0
+version: 3.2.0
 purpose: >
   해외송금 신청 시 법정 제출 계약서를 읽어, 수취계좌 개설국·결제방식이 계약과 어긋나면
   사람이 확인하기 전까지 송금을 보류한다.
@@ -221,12 +221,19 @@ nodes:
   # ── 게이트 ────────────────────────────────────────────────
   - id: hitl_gate
     owner: security-agent
-    kind: guard
+    kind: guard              # 🔴 결정론 — LLM 개입 지점 없음
+    implemented_by: src/kb_payee_guard/gate.py::ApprovalLedger.gate   # 2026-08-02 구현
     description: >
-      risk_level in [HOLD, BLOCK_PENDING, UNKNOWN] 이면 승인 토큰 없이 통과 불가 (INV-2).
+      risk_level in [HOLD, BLOCK_PENDING, UNKNOWN] 이면 승인 없이 통과 불가 (INV-2).
       승인은 case_id + account_fingerprint + consumed + TTL 로 결박 (INV-3).
-      모델이 스스로 approval_id 를 만들어 넘는 것은 런타임이 차단 (INV-7).
-      확인 채널은 화이트리스트만 — 계약서 기재 연락처 최우선.
+      확인 채널은 화이트리스트만 — 계약서 기재 연락처 최우선 (§6.2).
+
+      🎯 INV-7 의 기계적 형태: gate() 는 approval_id **문자열만** 받고 원장에서 조회한다.
+         승인 객체를 인자로 받으면 "그럴듯한 객체를 만들어 넘기는 것"이 곧 우회다.
+         원장에 쓰는 유일한 경로는 issue() 이고 그것은 사람 확인 채널을 요구한다.
+         tests/test_gate.py::T10 이 이 시그니처를 고정한다.
+
+      PASS / NOTICE 는 승인을 요구하지 않는다 — 정상 건까지 사람을 부르면 게이트가 꺼진다.
     outputs: [gate_result]
 
   - id: audit_append

@@ -164,23 +164,77 @@
 
 ## 현재 상태 (2026-08-02)
 
-**판정 엔진과 계약서 판독기가 동작합니다.** 테스트 **97건이 외부 API 없이 1초 안에** 완주합니다
-(macOS 3회 실측 0.23~0.35초 — 머신에 따라 다르므로 초 단위를 못 박지 않습니다).
+**판정 엔진 · 계약서 판독기 · 승인 게이트가 동작합니다.**
+테스트 **122건이 외부 API 없이 1초 안에** 완주합니다
+(macOS 실측 0.23~0.39초 — 머신에 따라 다르므로 초 단위를 못 박지 않습니다).
+
+## ▶ 실행 방법
+
+### 1단계 — API 키 **없이** 되는 것 (여기부터 해보세요)
 
 ```bash
-python3.12 -m unittest discover -s tests      # 97 tests, API 키 불필요
-python3.12 scripts/run_baselines.py --with-c  # 추출 정확도 A/C 재현 (OpenAI 호출)
-python3.12 scripts/run_e2e.py --extract C     # 탐지율·오탐률 재현
+git clone https://github.com/Aithor-organization/kb-payee-guard.git
+cd kb-payee-guard
+python3.12 -m unittest discover -s tests
 ```
+
+```
+Ran 122 tests in 0.3s
+
+OK
+```
+
+**이게 전부입니다.** `pip install` 없습니다 — 코어가 stdlib only라 의존성이 0입니다.
+판정 규칙 · 승인 게이트 · 인젝션 방어 · dead rule 검사가 전부 여기서 검증됩니다.
+
+```bash
+python3.12 scripts/run_e2e.py --extract A   # 정규식 경로 탐지율 (키 불필요)
+```
+
+### 2단계 — API 키가 **필요한** 것
+
+LLM 추출(경로 C)을 재현하려면 OpenAI 키가 필요합니다. 둘 중 하나:
+
+```bash
+# 방법 1 — 환경변수
+export OPENAI_API_KEY="sk-..."
+
+# 방법 2 — 저장소 루트에 .env  (.gitignore에 있어 커밋되지 않습니다)
+echo 'OPENAI_API_KEY=sk-...' > .env
+```
+
+```bash
+python3.12 scripts/run_baselines.py --with-c   # 추출 정확도 A vs C (30건, 약 1분)
+python3.12 scripts/run_e2e.py --extract C      # 탐지율·오탐률 (150건, 약 3분)
+```
+
+기본 모델은 `gpt-4o-mini`입니다 ([`_provider_fallback.py`](src/kb_payee_guard/_provider_fallback.py)).
+30건 추출 기준 **1달러 미만**입니다 `[추정]`.
+
+> 🔴 **키가 없으면** 위 두 명령은 다음으로 멈춥니다 — 조용히 잘못된 결과를 내지 않습니다:
+> ```
+> LLMProviderError: no API key (set OPENAI_API_KEY or OPENAI_KEY_FILE)
+> ```
+> **1단계 122건은 키 없이 그대로 통과합니다.** 심사에 필요한 안전 불변식은 전부 1단계에 있습니다.
+
+> ⚠️ `run_e2e.py` 는 실행할 때마다 `data/contracts/_e2e_result.json` 을 **덮어씁니다.**
+> 저장소에 커밋된 것은 `gold`(추출 완벽 시 상한) 실행 결과입니다.
+> `--extract A`/`C` 를 돌리면 그 파일이 해당 경로 결과로 바뀝니다 —
+> 세 경로 수치를 비교하려면 [`docs/06`](docs/06_E2E_탐지율_오탐률.md) 표를 보세요.
+
+### 구현 현황
 
 | 층 | 내용 | 상태 |
 |---|---|:---:|
-| L1 판독 | A(정규식) · **C(LLM, strict json_schema)** | ✅ |
+| L1 판독 | A(정규식) · **C(LLM, strict json_schema)** · Form | ✅ |
 | L2 대조 | S9·S10·S11·S12·**S16**(판정 축) | ✅ |
 | L4 규칙 | R1~R9·R11·R0 (11개) + 도달성 전수 검사 | ✅ |
+| **L6 승인 게이트 + 원장** | INV-2·3·7 · TTL · 1회용 · 건·계좌 결박 · 채널 화이트리스트 | ✅ |
+| **감사 로그** | INV-4 `trace_id` 전 구간 전파 · append-only | ✅ |
 | 안전 | 인젝션 3중 방어 · 근거 구간 원문 대조 | ✅ |
 | **L5 근거 서술 (LLM)** | 명세서 §4.5 설계. **현재는 규칙이 낸 결정론 문장을 그대로 쓴다** | ⬜ |
-| L3 보조(LLM) · 시뮬레이터 · 감사원장 | 본선 구간 | ⬜ |
+| L3 보조 신호 M3·M4·M6·M7·M8 | M1·M2만 구현 | ⬜ |
+| 시뮬레이터 UI · REST API | 본선 구간 | ⬜ |
 
 > **R10은 없다** — 2026-08-02에 제거했다 (S1 단독 차단이 정당한 변경을 100% 막았다).
 > `R0~R11` 로 적으면 12개로 읽히므로 쓰지 않는다. 실제 규칙은 **11개**다.
