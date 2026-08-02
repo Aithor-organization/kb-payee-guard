@@ -27,3 +27,10 @@ node_modules/
 *.log
 /tmp/
 /scratch/
+
+
+# 재배포 금지 자료 — 로컬 분석용으로만 보관
+# ITC Model Contracts: (c) International Trade Centre 2010 — MANIFEST 3절 참조
+# R-7 집계에서도 제외 (모델 계약서는 조항 존재율이 구조적으로 100%에 가까움)
+data/contracts/itc-*.txt
+data/contracts/_raw/itc-*
