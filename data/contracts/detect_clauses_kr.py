@@ -10,15 +10,28 @@ import json, os, re, sys
 C = "/Users/aithor/Documents/workspace/kb-payee-guard/data/contracts"
 
 # ---- article headings: 제12조(통지) / 제12조의2(계약의 변경) ----
+# 🔴 2026-08-02 — 조 제목 구획 방식이 문서마다 다르다.
+#    표준서식(계약예규)은 `제12조(통지)` 괄호 규약을 지키지만 **실물 계약서는 제각각**이다.
+#    실측: 8개 형태 중 괄호형 1개만 인식했다. 이대로 실물을 재면 조항이 있어도 0%가 나오고
+#    "표준서식 vs 실물" 비교가 **검출기 인공물**이 된다 — 편향을 재려다 편향을 만드는 셈.
+#    → 구획자를 넓힌다: ( ) [ ] 「 」 【 】 · 마침표 · 줄바꿈까지.
+#    `조` 없는 `12. 통지`는 **넣지 않는다** — 목차·번호목록과 구별이 안 돼 오탐이 폭발한다.
+_ART_NUM = r"【?\s*제\s*\d+\s*조(?:\s*의\s*\d+)?\s*】?"
+_OPEN = r"(?:\(|\[|「|『|\.|:|：)?\s*"
+_CLOSE = r"\s*(?:\)|\]|」|』|$|\n)"
+
 def head(pat):
-    return re.compile(r"제\d+조(?:의\d+)?\s*\(\s*[^)\n]{0,24}" + pat + r"[^)\n]{0,24}\s*\)")
+    return re.compile(_ART_NUM + r"\s*" + _OPEN + r"[^)\]」』\n]{0,24}" + pat
+                      + r"[^)\]」』\n]{0,24}" + _CLOSE, re.M)
 
 # 🔴 Korean article titles are DESCRIPTIVE ("제24조(납품예정일자의 통지)"), unlike the
 # English "§Notices". Matching any title containing 통지/통보 gave 21 false positives
 # out of 34 in the hand audit (변동사항 통보의무 / 우대가격 통보의무 / 납품지체 통지 /
 # 선적 통보 …) — all event-specific duties, not notice mechanics. So the title must be
 # ABOUT notice itself, with only generic modifiers allowed.
-ART = re.compile(r"제(\d+)조(?:의\d+)?\s*\(\s*([^)\n]{1,40}?)\s*\)")
+ART = re.compile(r"【?\s*제\s*(\d+)\s*조(?:\s*의\s*\d+)?\s*】?\s*"
+                 r"(?:\(|\[|「|『|\.|:|：)?\s*([^)\]」』\n]{1,40}?)\s*"
+                 r"(?:\)|\]|」|』|$)", re.M)
 NOTICE_TITLE = re.compile(
     r"^(?:(?:서\s*면|상\s*호|계약당사자\s*간의?|양?\s*당사자\s*간의?|"
     r"(?:회원|이용자|당사자|상대방)에\s*대한)\s*)?"
