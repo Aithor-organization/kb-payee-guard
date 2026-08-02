@@ -267,27 +267,75 @@ OK
 python3.12 scripts/run_e2e.py --extract A   # 정규식 경로 탐지율 (키 불필요)
 ```
 
-### 2단계 — API 키가 필요한 것
+### 2단계 — OpenAI API 키를 넣고 LLM 추출까지 재현하기
 
-LLM 추출(경로 C) 재현에는 OpenAI 키가 필요합니다.
+**1단계는 키가 필요 없습니다.** 여기부터는 계약서에서 조항을 실제로 뽑는 경로(C)라
+OpenAI 키가 필요합니다. 아래 그대로 따라 하시면 됩니다.
+
+#### ① 키 발급
+
+[platform.openai.com/api-keys](https://platform.openai.com/api-keys) → **Create new secret key**
+→ `sk-` 로 시작하는 문자열을 복사합니다. (결제수단 등록이 되어 있어야 호출이 됩니다.)
+
+#### ② 키 등록 — 둘 중 편한 쪽
 
 ```bash
-export OPENAI_API_KEY="sk-..."          # 또는 저장소 루트에 .env (커밋되지 않음)
+# 방법 1. 저장소 루트에 .env 파일  (권장 — .gitignore 에 있어 커밋되지 않습니다)
+cd kb-payee-guard
+echo 'OPENAI_API_KEY=sk-여기에-키를-붙여넣으세요' > .env
 
-python3.12 scripts/run_baselines.py --with-c   # 추출 정확도 A vs C (30건, 약 1분)
-python3.12 scripts/run_e2e.py --extract C      # 탐지율·오탐률 (150건, 약 3분)
+# 방법 2. 환경변수  (현재 셸에서만 유효)
+export OPENAI_API_KEY="sk-여기에-키를-붙여넣으세요"
 ```
 
-기본 모델 `gpt-4o-mini`, 30건 추출 기준 **1달러 미만** `[추정]`.
+> 🔒 `.env` 는 `.gitignore` 에 등재되어 있습니다 — `git check-ignore -v .env` 로 확인 가능합니다.
+> 키를 코드나 커밋에 넣지 마세요.
 
-> **키가 없으면** 위 두 명령은 다음으로 멈춥니다 — 조용히 잘못된 결과를 내지 않습니다:
-> ```
-> LLMProviderError: no API key (set OPENAI_API_KEY or OPENAI_KEY_FILE)
-> ```
-> **1단계 122건은 키 없이 통과합니다.** 심사에 필요한 안전 불변식은 전부 1단계에 있습니다.
+#### ③ 등록 확인
 
-> ⚠️ `run_e2e.py`는 실행할 때마다 `data/contracts/_e2e_result.json`을 덮어씁니다.
-> 커밋된 것은 `gold`(추출 완벽 시 상한) 결과입니다. 세 경로 비교는 [`docs/06`](docs/06_E2E_탐지율_오탐률.md) 표를 보세요.
+```bash
+python3.12 -c "import os,pathlib
+[os.environ.setdefault(*l.split('=',1)) for l in pathlib.Path('.env').read_text().splitlines() if '=' in l]
+k=os.environ.get('OPENAI_API_KEY','')
+print('✅ 키 인식됨' if k.startswith('sk-') else '🔴 키 없음')"
+```
+
+#### ④ 실행
+
+```bash
+python3.12 scripts/run_baselines.py --with-c              # 추출 정확도 A vs C  (30건 · 약 1분)
+python3.12 scripts/run_e2e.py --extract C                 # 탐지율·오탐률       (150건 · 약 3분)
+python3.12 scripts/run_e2e.py --corpus holdout --extract C # holdout 재측정      (232건 · 약 10분)
+```
+
+#### 💰 비용 — 생각보다 훨씬 쌉니다
+
+| 실행 | 계약서 | 실제 전송 | 비용 |
+|---|--:|--:|--:|
+| `run_baselines.py --with-c` | 30 | 0.4 MB | **약 $0.02** |
+| `run_e2e.py --extract C` | 30 | 0.4 MB | **약 $0.02** |
+| `run_e2e.py --corpus holdout --extract C` | 232 | 2.9 MB | **약 $0.17** |
+
+계약서를 통째로 보내지 않기 때문입니다 — `max_chars=24,000` 으로 **§Notices·§Amendment
+주변만 발췌**해 보냅니다. 390KB 계약서도 24K자만 전송되고, 원본 12.8MB 중 **22%만** 나갑니다.
+모델은 `gpt-4o-mini`(입력 $0.15/1M · 출력 $0.60/1M)입니다.
+`[추정]` — 실측 전송 문자수 × 4자/토큰 가정 × 공개 단가. 정확한 값은 OpenAI Usage 페이지에서 확인하세요.
+
+#### 키가 없거나 잘못됐을 때
+
+조용히 잘못된 결과를 내지 않고 **멈춥니다**:
+
+```
+LLMProviderError: no API key (set OPENAI_API_KEY or OPENAI_KEY_FILE)
+```
+
+> **1단계 122건은 키 없이 그대로 통과합니다.** 심사에 필요한 안전 불변식(승인 게이트 ·
+> 인젝션 방어 · dead rule 검사)은 전부 1단계에 있습니다.
+
+> ⚠️ `run_e2e.py`는 실행할 때마다 결과 파일을 덮어씁니다 —
+> `--corpus gold` 는 `_e2e_result.json`, `--corpus holdout` 은 `_e2e_holdout_{A,C}.json` 입니다
+> (추출기별로 분리되어 A 결과를 C 실행이 덮지 않습니다).
+> 커밋된 `_e2e_result.json` 은 `gold`(추출 완벽 시 상한) 결과입니다.
 
 ---
 

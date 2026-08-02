@@ -25,6 +25,7 @@ from __future__ import annotations
 import argparse
 import json
 import sys
+import time
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -36,8 +37,18 @@ from kb_payee_guard.models import ContractFacts, PaymentTerms, Verdict  # noqa: 
 
 GOLD = ROOT / "data" / "contracts" / "_gold.json"
 OUT = ROOT / "data" / "contracts" / "_e2e_result.json"
-OUT_HOLDOUT = ROOT / "data" / "contracts" / "_e2e_holdout.json"
 CONTRACTS = ROOT / "data" / "contracts"
+
+
+def holdout_out(extractor: str) -> Path:
+    """🔴 holdout 결과는 **추출기별로 파일을 나눈다.**
+
+    한 파일을 공유하면 `--extract A` 결과를 `--extract C` 실행이 조용히 덮는다.
+    2026-08-02 에 실제로 당했다 — A 로 232건을 돌려놓고 C 를 3건만 시험 실행했더니
+    A 결과가 사라졌고, 덮인 뒤에 백업해서 백업조차 무의미했다.
+    실행이 오래 걸리는(232건 × 약 4초) 산출물이라 재실행 비용이 크므로 분리한다.
+    """
+    return CONTRACTS / f"_e2e_holdout_{extractor}.json"
 
 
 def gold_facts(fn: str, kind: str, text: str) -> ContractFacts:
@@ -56,6 +67,37 @@ def gold_facts(fn: str, kind: str, text: str) -> ContractFacts:
         amendment_clause_requires_written=(kind == "written"),
         evidence_spans={"_source": "gold"},
     )
+
+
+EXTRACT_RETRIES = 3
+EXTRACT_BACKOFF = (2.0, 8.0)
+
+
+def extract_resilient(extractor, text: str, fn: str):
+    """추출 1건이 실패해도 **전체 실행을 죽이지 않는다**.
+
+    🔴 2026-08-02 실사건: holdout 232건 평가가 130번째(`sec-047.txt`)에서
+       `TimeoutError` 로 두 번 연속 중단됐다. 그때까지의 129건 결과가 통째로 사라졌다.
+
+       처음엔 `_provider_fallback._default_transport` 에 재시도를 넣었는데
+       **효과가 없었다** — `llm_extract` 가 sibling repo 를 `sys.path` 에 넣어
+       내 머신에서는 프레임워크 provider 가 쓰이기 때문이다(심사자 환경에서는 fallback).
+       그래서 **provider 아래가 아니라 위**에 둔다. 어느 구현을 쓰든 동일하게 걸린다.
+
+       재시도해도 안 되면 그 건만 포기하고 진행한다 — 빈 `ContractFacts` 는
+       R1 이 `UNKNOWN` 으로 처리하므로 **통과가 아니라 보류**다 (INV-5 유지).
+    """
+    for attempt in range(EXTRACT_RETRIES):
+        try:
+            return extractor.extract(text)
+        except Exception as exc:                     # noqa: BLE001 — 어떤 실패든 전체를 죽이면 안 된다
+            tag = f"{type(exc).__name__}: {str(exc)[:80]}"
+            if attempt < EXTRACT_RETRIES - 1:
+                print(f"      ↻ {fn} 재시도 {attempt + 1}/{EXTRACT_RETRIES - 1} ({tag})", flush=True)
+                time.sleep(EXTRACT_BACKOFF[attempt])
+            else:
+                print(f"      ⚠️  {fn} 추출 포기 → UNKNOWN 으로 계산 ({tag})", flush=True)
+    return None
 
 
 def main() -> int:
@@ -91,10 +133,18 @@ def main() -> int:
         "unknown": 0,
     }
 
+    extract_failed: list[str] = []
     for i, fn in enumerate(files, 1):
         text = (ROOT / "data" / "contracts" / fn).read_text(encoding="utf-8", errors="replace")
-        facts = (gold_facts(fn, gold[fn]["kind"], text) if extractor is None
-                 else extractor.extract(text))
+        if extractor is None:
+            facts = gold_facts(fn, gold[fn]["kind"], text)
+        else:
+            facts = extract_resilient(extractor, text, fn)
+            if facts is None:
+                # 🔴 한 건이 죽어도 전체를 버리지 않는다. 빈 사실 = 추출 실패 =
+                #    R1 이 UNKNOWN 을 내므로 **통과가 아니라 보류**로 계산된다 (INV-5).
+                extract_failed.append(fn)
+                facts = ContractFacts()
 
         for sc in scenarios.build(facts, fn):
             d = rules.evaluate(facts, sc.request)
@@ -119,9 +169,9 @@ def main() -> int:
                      and r["kind"] != "attack_forged_amendment"]
     det_excl = sum(r["ok"] for r in other_attacks) / (len(other_attacks) or 1)
     fp = 1 - stats["normal_passed"] / (stats["normal_total"] or 1)
-    result = {"corpus": args.corpus, "extractor": args.extract, "n_contracts": len(files),
+    result = {"extract_failed": extract_failed, "corpus": args.corpus, "extractor": args.extract, "n_contracts": len(files),
               "detection_rate": det, "false_positive_rate": fp, **stats, "rows": rows}
-    out_path = OUT_HOLDOUT if args.corpus == "holdout" else OUT
+    out_path = holdout_out(args.extract) if args.corpus == "holdout" else OUT
     out_path.write_text(json.dumps(result, ensure_ascii=False, indent=1), encoding="utf-8")
 
     per = len(rows) // (len(files) or 1)
@@ -141,6 +191,10 @@ def main() -> int:
     print(f"\n  {'시나리오':<26}{'정답률':>8}")
     for k, v in by_kind.items():
         print(f"  {k:<26}{sum(v)/len(v):>7.1%}")
+    if extract_failed:
+        print(f"\n⚠️  추출 실패 {len(extract_failed)}건 (UNKNOWN 처리): "
+              f"{', '.join(extract_failed[:5])}"
+              f"{' 외 ' + str(len(extract_failed) - 5) + '건' if len(extract_failed) > 5 else ''}")
     print(f"\n결과: {out_path.relative_to(ROOT)}")
     return 0
 

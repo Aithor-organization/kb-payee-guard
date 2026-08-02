@@ -32,6 +32,7 @@ from __future__ import annotations
 
 import json
 import os
+import time
 import urllib.error
 import urllib.request
 from dataclasses import dataclass, field
@@ -50,15 +51,40 @@ class LLMResponse:
     usage: dict[str, int] | None = None
 
 
+MAX_RETRIES = 3                 # 최초 시도 포함 총 3회
+RETRY_BACKOFF = (1.0, 4.0)      # 재시도 전 대기(초) — 지수 백오프
+RETRYABLE_HTTP = frozenset({408, 429, 500, 502, 503, 504})
+
+
 def _default_transport(url: str, headers: dict[str, str], body: bytes,
                        timeout: float) -> dict[str, Any]:
+    """🔴 일시적 실패는 재시도한다 (2026-08-02 추가).
+
+    이전에는 재시도가 없어 **읽기 타임아웃 한 번에 전체 실행이 죽었다.**
+    실제로 holdout 232건 평가가 129건째에서 `TimeoutError` 로 중단돼
+    10분치 작업과 그때까지의 결과가 통째로 사라졌다.
+
+    재시도 대상은 **네트워크 계층 오류와 서버측 일시 오류**뿐이다.
+    4xx(401 키 오류·400 스키마 오류 등)는 재시도해도 같은 답이 오므로
+    즉시 올린다 — 조용히 3배 느려지면서 같은 에러를 내는 것이 더 나쁘다.
+    """
     req = urllib.request.Request(url, data=body, headers=headers, method="POST")
-    try:
-        with urllib.request.urlopen(req, timeout=timeout) as f:
-            return json.loads(f.read().decode("utf-8"))
-    except urllib.error.HTTPError as e:
-        detail = e.read().decode("utf-8", "replace")[:400]
-        raise RuntimeError(f"OpenAI HTTP {e.code}: {detail}") from e
+    last: Exception | None = None
+    for attempt in range(MAX_RETRIES):
+        try:
+            with urllib.request.urlopen(req, timeout=timeout) as f:
+                return json.loads(f.read().decode("utf-8"))
+        except urllib.error.HTTPError as e:
+            detail = e.read().decode("utf-8", "replace")[:400]
+            exc = RuntimeError(f"OpenAI HTTP {e.code}: {detail}")
+            if e.code not in RETRYABLE_HTTP:
+                raise exc from e          # 4xx 대부분 — 재시도 무의미
+            last = exc
+        except (TimeoutError, urllib.error.URLError, OSError) as e:
+            last = RuntimeError(f"OpenAI 전송 실패: {type(e).__name__}: {e}")
+        if attempt < MAX_RETRIES - 1:
+            time.sleep(RETRY_BACKOFF[attempt])
+    raise last if last else RuntimeError("OpenAI 전송 실패 (원인 불명)")
 
 
 @dataclass
