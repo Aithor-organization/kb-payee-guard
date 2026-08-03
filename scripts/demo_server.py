@@ -75,21 +75,21 @@ def load_facts() -> tuple[ContractFacts, str]:
 #   화면의 "시나리오" 버튼이 폼을 이 값으로 채운다. 직접 고쳐서 눌러도 된다.
 SCENARIOS = {
     "normal": {
-        "label": "정상 — 계약서대로 송금",
+        "label": "계약서대로 송금", "risk": "normal",
         "desc": "계약서 §4 의 독일 LBBW 계좌로, 계약서가 정한 L/C 로 보낸다.",
         "form": dict(account="DE44600501010002034567", bic="SOLADEST600",
                      amount="184500", currency="EUR", remittance_type="LC",
                      source="CONTRACT", channel_detail="", sender="", in_reply_to=""),
     },
     "legit_change": {
-        "label": "정상 — 적법한 계좌 변경",
+        "label": "적법한 계좌 변경", "risk": "normal",
         "desc": "양측이 서명한 수정합의서로 계좌를 바꿨다. 국가·결제조건은 그대로.",
         "form": dict(account="DE89370400440532013000", bic="COBADEFF",
                      amount="184500", currency="EUR", remittance_type="LC",
                      source="AMENDMENT", channel_detail="", sender="", in_reply_to=""),
     },
     "bec_swap": {
-        "label": "🔴 사기 — 같은 나라, 계좌만 교체 (최빈 BEC)",
+        "label": "같은 나라, 계좌만 교체 (최빈 BEC)", "risk": "attack",
         "desc": "국가·이름·결제조건 전부 그대로. 이메일 한 통으로 계좌만 바꿔 달라고 한다.",
         "form": dict(account="DE12500105170648489890", bic="INGDDEFF",
                      amount="184500", currency="EUR", remittance_type="LC",
@@ -97,7 +97,7 @@ SCENARIOS = {
                      sender="ap@bauer-gmbh.co", in_reply_to=""),
     },
     "bec_hop": {
-        "label": "🔴 사기 — 제3국 계좌 + 결제조건 변경",
+        "label": "제3국 계좌 + 결제조건 변경", "risk": "attack",
         "desc": "독일 회사인데 리투아니아 계좌, L/C 였는데 T/T 로. 금감원 지시 항목에 해당.",
         "form": dict(account="LT121000011101001047", bic="REVOLT21",
                      amount="184500", currency="EUR", remittance_type="TT",
@@ -105,7 +105,7 @@ SCENARIOS = {
                      sender="ap@bauer-gmbh.co", in_reply_to=""),
     },
     "forged": {
-        "label": "⚠️ 사기 — 위조 수정합의서 (알려진 미탐)",
+        "label": "위조 수정합의서 (알려진 미탐)", "risk": "gap",
         "desc": "가짜 수정합의서를 만들어 절차를 지킨 것처럼 꾸민다. 이 게이트는 못 막는다.",
         "form": dict(account="DE12500105170648489890", bic="INGDDEFF",
                      amount="184500", currency="EUR", remittance_type="LC",
@@ -147,138 +147,263 @@ def judge(form: dict) -> dict:
 
 
 # ── 화면 ──────────────────────────────────────────────────────────────────────
+# ── 화면 ──────────────────────────────────────────────────────────────────────
+#
+#  KB 노란색(#FFBC00)은 **강조 3곳에만** — 상단 마크 · 주 버튼 · 핵심 입력의 좌측 바.
+#  판정 결과에는 절대 쓰지 않는다: 브랜드색과 상태색이 섞이면 위험 신호가 죽는다.
+#  🔴 아이콘은 전부 **인라인 SVG**다 — 이모지는 OS 마다 모양이 달라 금융 UI 에서 신뢰를 깎는다.
+#  외부 리소스 0(폰트·아이콘·스크립트 전부 인라인) — 오프라인·폐쇄망에서도 그대로 뜬다.
 PAGE = """<!doctype html><html lang=ko><meta charset=utf-8>
-<title>KB Payee Guard — 로컬 데모</title>
+<title>KB Payee Guard — 해외송금 수취인 검증</title>
 <meta name=viewport content="width=device-width,initial-scale=1">
 <style>
+/* ── 토큰 ────────────────────────────────────────────────────────────────────
+   KB 노란색은 **강조에만** 쓴다 — 상단 바 · 주 버튼 · 활성 탭 3곳.
+   판정 결과에는 절대 쓰지 않는다(브랜드색과 상태색이 섞이면 위험 신호가 죽는다).   */
+:root{
+  --kb-yellow:#FFBC00; --kb-yellow-d:#F0A800; --kb-gray:#60584C;
+  --ink:#1B1D1F; --ink-2:#4A4E54; --ink-3:#797F87;
+  --bg:#F4F5F7; --surface:#FFF; --line:#E2E5E9; --line-2:#EFF1F4;
+  --danger:#D6323C; --danger-bg:#FDF2F3; --danger-line:#F3C9CD;
+  --warn:#B87400;   --warn-bg:#FFF8EC;   --warn-line:#F2DDB4;
+  --hold:#5B6169;   --hold-bg:#F4F5F7;   --hold-line:#DDE1E6;
+  --safe:#0F7B5F;   --safe-bg:#F0F8F5;   --safe-line:#BFE0D4;
+  --r:10px; --r-s:7px;
+  --mono:ui-monospace,SFMono-Regular,"SF Mono",Menlo,monospace;
+}
 *{box-sizing:border-box}
-body{margin:0;font:15px/1.65 -apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo",sans-serif;
-     background:#f6f7f9;color:#1a1d21}
-.wrap{max-width:1180px;margin:0 auto;padding:28px 20px 60px}
-h1{font-size:21px;margin:0 0 4px} .sub{color:#666;font-size:13px;margin-bottom:22px}
-.warn{background:#fff8e1;border:1px solid #f0d48a;border-radius:8px;padding:10px 14px;
-      font-size:13px;margin-bottom:20px}
-.grid{display:grid;grid-template-columns:1fr 1fr;gap:20px}
-@media(max-width:900px){.grid{grid-template-columns:1fr}}
-.card{background:#fff;border:1px solid #e3e6ea;border-radius:10px;padding:18px 20px}
-.card h2{font-size:14px;margin:0 0 14px;color:#444;letter-spacing:.02em}
-label{display:block;font-size:12px;color:#666;margin:11px 0 4px}
-input,select{width:100%;padding:8px 10px;border:1px solid #ccd1d7;border-radius:6px;
-             font:13px/1.4 ui-monospace,SFMono-Regular,Menlo,monospace;background:#fff}
-.row{display:grid;grid-template-columns:1fr 1fr;gap:12px}
-button{cursor:pointer;font-family:inherit}
-.sc{display:flex;flex-wrap:wrap;gap:7px;margin-bottom:6px}
-.sc button{padding:7px 11px;font-size:12px;border:1px solid #ccd1d7;background:#fff;
-           border-radius:16px;color:#333}
-.sc button:hover{border-color:#8b93a0;background:#f2f4f7}
-.sc button.on{background:#1a1d21;color:#fff;border-color:#1a1d21}
-#desc{font-size:12px;color:#666;min-height:34px;margin:2px 0 10px}
-#go{width:100%;margin-top:18px;padding:12px;font-size:14px;font-weight:600;
-    background:#1a1d21;color:#fff;border:0;border-radius:7px}
-#go:hover{background:#000}
-pre{background:#0f1115;color:#e6e9ef;padding:14px;border-radius:8px;overflow:auto;
-    font:12px/1.6 ui-monospace,SFMono-Regular,Menlo,monospace;white-space:pre-wrap;margin:0}
-.v{font-size:22px;font-weight:700;padding:14px 16px;border-radius:9px;margin-bottom:14px}
-.v small{display:block;font-size:12px;font-weight:400;opacity:.85;margin-top:3px}
-.BLOCK_PENDING{background:#fdecec;color:#b3261e;border:1px solid #f3b9b4}
-.HOLD{background:#fff5e5;color:#a35b00;border:1px solid #f0cf9a}
-.UNKNOWN{background:#eef0f3;color:#4a4f57;border:1px solid #d3d8de}
-.PASS,.NOTICE{background:#e9f7ec;color:#166a30;border:1px solid #b3e0c0}
-ul{margin:0;padding-left:19px} li{margin:5px 0;font-size:13.5px}
-.meta{font-size:11.5px;color:#777;margin-top:12px;border-top:1px solid #eceef1;padding-top:9px}
-details{margin-top:14px} summary{cursor:pointer;font-size:12px;color:#666}
-#doc{max-height:340px;overflow:auto;background:#fbfcfd;border:1px solid #e8eaee;border-radius:7px;
-     padding:12px;font:11.5px/1.6 ui-monospace,Menlo,monospace;white-space:pre-wrap;color:#333}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);
+  font:15px/1.6 -apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;
+  -webkit-font-smoothing:antialiased}
+
+/* ── 상단 바 ── */
+.gnb{background:var(--surface);border-bottom:1px solid var(--line)}
+.gnb-in{max-width:1240px;margin:0 auto;padding:0 24px;height:60px;display:flex;align-items:center;gap:13px}
+.mark{width:30px;height:30px;border-radius:8px;background:var(--kb-yellow);
+  display:grid;place-items:center;flex:none}
+.brand{font-size:16.5px;font-weight:700;letter-spacing:-.01em}
+.brand span{color:var(--ink-3);font-weight:500}
+.tag{margin-left:auto;font-size:11.5px;color:var(--ink-3);border:1px solid var(--line);
+  padding:4px 9px;border-radius:20px;letter-spacing:.02em}
+
+/* ── 레이아웃 ── */
+.wrap{max-width:1240px;margin:0 auto;padding:24px 24px 72px}
+.notice{display:flex;gap:10px;background:var(--warn-bg);border:1px solid var(--warn-line);
+  border-radius:var(--r);padding:12px 15px;font-size:13px;color:#7A5200;margin-bottom:20px;line-height:1.55}
+.notice b{color:#6B4700}
+.grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:20px;align-items:start}
+@media(max-width:940px){.grid{grid-template-columns:minmax(0,1fr)}}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);overflow:hidden}
+.hd{padding:15px 20px;border-bottom:1px solid var(--line-2);display:flex;align-items:center;gap:9px}
+.hd h2{margin:0;font-size:13.5px;font-weight:700;letter-spacing:-.005em}
+.hd .n{width:19px;height:19px;border-radius:5px;background:var(--ink);color:#fff;font-size:11px;
+  font-weight:700;display:grid;place-items:center;flex:none}
+.bd{padding:18px 20px 20px}
+
+/* ── 시나리오 탭 ── */
+.sc{display:flex;flex-wrap:wrap;gap:6px}
+.sc button{display:flex;align-items:center;gap:6px;padding:7px 11px 7px 8px;font:500 12.5px/1 inherit;
+  border:1px solid var(--line);background:var(--surface);border-radius:18px;color:var(--ink-2);
+  cursor:pointer;transition:.13s}
+.sc button:hover{border-color:#C3C8CF;background:#FAFBFC}
+.sc button[aria-pressed=true]{background:var(--ink);border-color:var(--ink);color:#fff}
+.sc button[aria-pressed=true] .dot{box-shadow:0 0 0 2px rgba(255,255,255,.35)}
+.dot{width:7px;height:7px;border-radius:50%;flex:none}
+.dot.normal{background:var(--safe)} .dot.attack{background:var(--danger)} .dot.gap{background:var(--warn)}
+.scd{font-size:12.5px;color:var(--ink-3);line-height:1.5;margin:11px 0 4px;min-height:38px}
+
+/* ── 폼 ── */
+.f{margin-top:13px}
+.f>label{display:block;font-size:12px;font-weight:600;color:var(--ink-2);margin-bottom:5px}
+.f .help{font-weight:400;color:var(--ink-3)}
+input,select{width:100%;padding:9px 11px;border:1px solid #CFD4DA;border-radius:var(--r-s);
+  font:14px/1.4 inherit;background:var(--surface);color:var(--ink);transition:.12s}
+input.mono{font-family:var(--mono);font-size:13.5px;letter-spacing:.01em}
+input:focus,select:focus{outline:0;border-color:var(--kb-yellow-d);box-shadow:0 0 0 3px rgba(255,188,0,.18)}
+select{appearance:none;background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='11' height='7'><path d='M1 1l4.5 4.5L10 1' stroke='%23797F87' stroke-width='1.6' fill='none' stroke-linecap='round'/></svg>");
+  background-repeat:no-repeat;background-position:right 11px center;padding-right:32px}
+.r2{display:grid;grid-template-columns:1fr 1fr;gap:11px}
+.key{border-left:3px solid var(--kb-yellow);padding-left:11px;margin-top:17px;
+  background:linear-gradient(90deg,rgba(255,188,0,.05),transparent 60%)}
+#go{width:100%;margin-top:20px;padding:13px;border:0;border-radius:var(--r-s);cursor:pointer;
+  background:var(--kb-yellow);color:#231A00;font:700 14.5px/1 inherit;letter-spacing:-.01em;transition:.13s}
+#go:hover{background:var(--kb-yellow-d)}
+#go:active{transform:translateY(1px)}
+
+/* ── 판정 ── */
+.ph{color:var(--ink-3);font-size:13px;padding:26px 4px;text-align:center;line-height:1.7}
+.vd{display:flex;gap:12px;padding:15px 16px;border-radius:var(--r);margin-bottom:15px;align-items:flex-start}
+.vd svg{flex:none;margin-top:1px}
+.vd .t{font-size:16.5px;font-weight:700;letter-spacing:-.015em;line-height:1.35}
+.vd .s{font-size:11.5px;font-family:var(--mono);opacity:.72;margin-top:3px;letter-spacing:.02em}
+.vd.BLOCK_PENDING{background:var(--danger-bg);border:1px solid var(--danger-line);color:var(--danger)}
+.vd.HOLD{background:var(--warn-bg);border:1px solid var(--warn-line);color:var(--warn)}
+.vd.UNKNOWN{background:var(--hold-bg);border:1px solid var(--hold-line);color:var(--hold)}
+.vd.PASS,.vd.NOTICE{background:var(--safe-bg);border:1px solid var(--safe-line);color:var(--safe)}
+.rs{margin:0;padding:0;list-style:none;border-top:1px solid var(--line-2)}
+.rs li{display:flex;gap:9px;padding:11px 2px;border-bottom:1px solid var(--line-2);font-size:13.5px;
+  color:var(--ink-2);line-height:1.55}
+.rs li b{flex:none;width:5px;height:5px;border-radius:50%;background:currentColor;margin-top:8px;opacity:.4}
+.src{margin-top:14px;font-size:11.5px;color:var(--ink-3);display:flex;align-items:center;gap:6px}
+details{margin-top:12px}
+summary{cursor:pointer;font-size:12px;color:var(--ink-3);padding:4px 0;list-style:none}
+summary::-webkit-details-marker{display:none}
+summary::before{content:"▸ ";color:#A9AFB7}
+details[open] summary::before{content:"▾ "}
+pre{background:#1B1D1F;color:#E8EAED;padding:13px 15px;border-radius:var(--r-s);overflow:auto;margin:9px 0 0;
+  font:11.5px/1.65 var(--mono);white-space:pre-wrap;word-break:break-all}
+
+/* ── 계약서 ── */
+.doc-hd{display:flex;align-items:center;gap:9px;padding:15px 20px;border-bottom:1px solid var(--line-2)}
+.doc-hd .p{margin-left:auto;font:11px/1 var(--mono);color:var(--ink-3);background:var(--bg);
+  padding:5px 9px;border-radius:5px}
+#doc{max-height:400px;overflow:auto;padding:16px 20px;margin:0;background:#FCFCFD;
+  font:11.5px/1.72 var(--mono);white-space:pre-wrap;color:#3A3E44}
+#doc::-webkit-scrollbar{width:9px} #doc::-webkit-scrollbar-thumb{background:#D5DAE0;border-radius:9px}
+.foot{margin-top:22px;font-size:11.5px;color:#9AA0A8;text-align:center;line-height:1.7}
 </style>
+
+<header class=gnb><div class=gnb-in>
+  <div class=mark><svg width=17 height=17 viewBox="0 0 20 20" fill="none">
+    <path d="M10 1.7 3.2 4.3v5.1c0 4.2 2.8 7.6 6.8 9 4-1.4 6.8-4.8 6.8-9V4.3L10 1.7Z"
+          stroke="#231A00" stroke-width="1.7" stroke-linejoin="round"/>
+    <path d="m7.1 9.9 2.1 2.1 4-4.2" stroke="#231A00" stroke-width="1.7"
+          stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+  <div class=brand>KB Payee&nbsp;Guard <span>· 해외송금 수취인 검증</span></div>
+  <div class=tag>DEMO</div>
+</div></header>
+
 <div class=wrap>
-<h1>KB Payee Guard — 로컬 데모</h1>
-<div class=sub>계약서가 정한 계좌 변경 절차와 이번 송금을 대조합니다.</div>
-
-<div class=warn>🔴 <b>은행 연동도 프로덕션 API도 아닙니다.</b> 판정 엔진을 손으로 눌러 보는
-확인용 화면입니다 — 인증·영속·감사원장 없음, 127.0.0.1 전용.</div>
-
-<div class=grid>
-  <div class=card>
-    <h2>① 시나리오를 고르거나 값을 직접 고치세요</h2>
-    <div class=sc id=sc></div>
-    <div id=desc></div>
-    <label>수취 계좌 (IBAN)</label><input id=account>
-    <div class=row>
-      <div><label>BIC</label><input id=bic></div>
-      <div><label>송금 방식</label><select id=remittance_type>
-        <option value=TT>T/T (전신송금)</option><option value=LC>L/C (신용장)</option>
-        <option value=DP>D/P</option><option value=DA>D/A</option></select></div>
-    </div>
-    <div class=row>
-      <div><label>금액</label><input id=amount></div>
-      <div><label>통화</label><input id=currency></div>
-    </div>
-    <label>이 계좌를 <b>어디서 받았습니까</b> (S16 의 핵심 입력)</label>
-    <select id=source>
-      <option value=CONTRACT>계약서에 적힌 계좌</option>
-      <option value=AMENDMENT>수정 합의서</option>
-      <option value=EMAIL>이메일</option>
-      <option value=PHONE>전화</option>
-      <option value=FAX>팩스</option>
-      <option value=PORTAL>포털</option>
-      <option value=INVOICE>인보이스</option>
-    </select>
-    <div class=row>
-      <div><label>지시가 온 주소/번호</label><input id=channel_detail placeholder="ap@bauer-gmbh.co"></div>
-      <div><label>메일 발신자</label><input id=sender placeholder="ap@bauer-gmbh.co"></div>
-    </div>
-    <label>메일 In-Reply-To (기존 스레드에 이어지면 값 입력)</label>
-    <input id=in_reply_to placeholder="비우면 새 스레드로 간주">
-    <button id=go>판정하기</button>
+  <div class=notice>
+    <svg width=16 height=16 viewBox="0 0 16 16" fill=none style="flex:none;margin-top:1px">
+      <circle cx=8 cy=8 r=6.6 stroke="#B87400" stroke-width=1.5/>
+      <path d="M8 4.6v4.2" stroke="#B87400" stroke-width=1.7 stroke-linecap=round/>
+      <circle cx=8 cy=11.3 r=.95 fill="#B87400"/></svg>
+    <div><b>실제 은행 서비스가 아닙니다.</b> 판정 엔진을 손으로 눌러 보는 로컬 확인용 화면입니다 —
+      인증·영속·감사원장이 없고 <code style="font-family:var(--mono);font-size:12px">127.0.0.1</code> 에만
+      바인딩합니다. KB국민은행과 무관한 공모전 제출용 데모이며 화면의 색·서식은 제출작 자체 구성입니다.</div>
   </div>
 
-  <div class=card>
-    <h2>② 판정 결과</h2>
-    <div id=out><div style="color:#999;font-size:13px">왼쪽에서 시나리오를 고르고 판정하기를 누르세요.</div></div>
-  </div>
-</div>
+  <div class=grid>
+    <div class=card>
+      <div class=hd><div class=n>1</div><h2>송금 신청 정보</h2></div>
+      <div class=bd>
+        <div class=sc id=sc></div>
+        <div class=scd id=scd></div>
 
-<div class=card style="margin-top:20px">
-  <h2>③ 게이트가 읽은 계약서 (목업) — <code>data/demo/mock_contract.txt</code></h2>
-  <div id=doc>불러오는 중…</div>
-</div>
+        <div class=f><label>수취 계좌 <span class=help>IBAN</span></label>
+          <input id=account class=mono spellcheck=false></div>
+        <div class="f r2">
+          <div><label>BIC / SWIFT</label><input id=bic class=mono spellcheck=false></div>
+          <div><label>송금 방식</label><select id=remittance_type>
+            <option value=TT>T/T · 전신송금</option><option value=LC>L/C · 신용장</option>
+            <option value=DP>D/P</option><option value=DA>D/A</option></select></div>
+        </div>
+        <div class="f r2">
+          <div><label>송금액</label><input id=amount class=mono inputmode=decimal></div>
+          <div><label>통화</label><input id=currency class=mono maxlength=3></div>
+        </div>
+
+        <div class="f key"><label>이 계좌 정보를 어디서 받으셨습니까?
+            <span class=help>— 판정의 핵심 입력</span></label>
+          <select id=source>
+            <option value=CONTRACT>계약서에 기재된 계좌</option>
+            <option value=AMENDMENT>양측 서명 수정합의서</option>
+            <option value=EMAIL>이메일 안내</option>
+            <option value=PHONE>전화 안내</option>
+            <option value=FAX>팩스</option>
+            <option value=PORTAL>거래처 포털</option>
+            <option value=INVOICE>인보이스 기재</option>
+          </select></div>
+
+        <div class="f r2">
+          <div><label>지시가 온 주소·번호</label>
+            <input id=channel_detail class=mono placeholder="ap@bauer-gmbh.co" spellcheck=false></div>
+          <div><label>메일 발신자</label>
+            <input id=sender class=mono placeholder="ap@bauer-gmbh.co" spellcheck=false></div>
+        </div>
+        <div class=f><label>메일 스레드 <span class=help>In-Reply-To — 비우면 새 메일</span></label>
+          <input id=in_reply_to class=mono spellcheck=false></div>
+
+        <button id=go>송금 심사 실행</button>
+      </div>
+    </div>
+
+    <div class=card>
+      <div class=hd><div class=n>2</div><h2>심사 결과</h2></div>
+      <div class=bd><div id=out><div class=ph>왼쪽에서 시나리오를 고르고<br><b>송금 심사 실행</b>을 누르세요.</div></div></div>
+    </div>
+  </div>
+
+  <div class="card" style="margin-top:20px">
+    <div class=doc-hd><div class=n style="width:19px;height:19px;border-radius:5px;background:var(--ink);color:#fff;font:700 11px/1 inherit;display:grid;place-items:center">3</div>
+      <h2 style="margin:0;font-size:13.5px;font-weight:700">게이트가 대조한 계약서</h2>
+      <div class=p>data/demo/mock_contract.txt</div></div>
+    <pre id=doc>불러오는 중…</pre>
+  </div>
+
+  <div class=foot>제8회 KB A.I Challenge · 팀 aithor<br>
+    화면의 색상·서식은 제출작 자체 구성이며 KB국민은행 공식 디자인이 아닙니다.</div>
 </div>
 
 <script>
 const S = __SCENARIOS__;
 const F = ['account','bic','amount','currency','remittance_type','source','channel_detail','sender','in_reply_to'];
-const sc = document.getElementById('sc');
+const sc = document.getElementById('sc'), scd = document.getElementById('scd');
+
 Object.entries(S).forEach(([k,v],i)=>{
-  const b=document.createElement('button'); b.textContent=v.label; b.dataset.k=k;
-  b.onclick=()=>{ [...sc.children].forEach(c=>c.classList.remove('on')); b.classList.add('on');
+  const b=document.createElement('button');
+  b.type='button'; b.setAttribute('aria-pressed','false');
+  b.innerHTML='<span class="dot '+(v.risk||'normal')+'"></span>'+v.label;
+  b.onclick=()=>{
+    [...sc.children].forEach(c=>c.setAttribute('aria-pressed','false'));
+    b.setAttribute('aria-pressed','true');
     F.forEach(f=>document.getElementById(f).value = v.form[f] ?? '');
-    document.getElementById('desc').textContent = v.desc; };
-  sc.appendChild(b); if(i===0) setTimeout(()=>b.click(),0);
+    scd.textContent = v.desc;
+  };
+  sc.appendChild(b); if(i===0) b.click();
 });
+
+const ICON = {
+  BLOCK_PENDING:'<svg width=22 height=22 viewBox="0 0 22 22" fill=none><circle cx=11 cy=11 r=9 stroke="currentColor" stroke-width=1.8/><path d="M11 6.4v5.4" stroke="currentColor" stroke-width=2 stroke-linecap=round/><circle cx=11 cy=15.2 r=1.15 fill="currentColor"/></svg>',
+  HOLD:'<svg width=22 height=22 viewBox="0 0 22 22" fill=none><circle cx=11 cy=11 r=9 stroke="currentColor" stroke-width=1.8/><path d="M11 6.2v5l3 1.9" stroke="currentColor" stroke-width=1.9 stroke-linecap=round stroke-linejoin=round/></svg>',
+  UNKNOWN:'<svg width=22 height=22 viewBox="0 0 22 22" fill=none><circle cx=11 cy=11 r=9 stroke="currentColor" stroke-width=1.8/><path d="M8.6 8.5a2.5 2.5 0 1 1 3.3 2.4c-.6.2-.9.7-.9 1.3v.4" stroke="currentColor" stroke-width=1.8 stroke-linecap=round/><circle cx=11 cy=15.4 r=1.05 fill="currentColor"/></svg>',
+  PASS:'<svg width=22 height=22 viewBox="0 0 22 22" fill=none><circle cx=11 cy=11 r=9 stroke="currentColor" stroke-width=1.8/><path d="m7.3 11.2 2.6 2.6 5-5.4" stroke="currentColor" stroke-width=2 stroke-linecap=round stroke-linejoin=round/></svg>'};
+ICON.NOTICE = ICON.PASS;
+
+const KO = {BLOCK_PENDING:['송금 보류','승인 없이는 진행할 수 없습니다'],
+            HOLD:['송금 보류','담당자 확인이 필요합니다'],
+            UNKNOWN:['판정 불가','근거가 부족해 승인 없이는 진행할 수 없습니다'],
+            PASS:['이상 없음','계약이 정한 절차와 일치합니다'],
+            NOTICE:['이상 없음','참고 사항이 있습니다']};
+
 document.getElementById('go').onclick = async () => {
   const body={}; F.forEach(f=>body[f]=document.getElementById(f).value);
   const out=document.getElementById('out');
-  out.innerHTML='<div style="color:#999;font-size:13px">판정 중…</div>';
+  out.innerHTML='<div class=ph>심사 중…</div>';
   try{
     const r=await fetch('/judge',{method:'POST',headers:{'Content-Type':'application/json'},
                                  body:JSON.stringify(body)});
     const d=await r.json();
-    if(d.error){ out.innerHTML='<pre>'+d.error+'\\n\\n'+(d.trace||'')+'</pre>'; return; }
-    const KO={BLOCK_PENDING:'송금 보류 — 사람 승인 필요',HOLD:'보류 — 사람 승인 필요',
-              UNKNOWN:'판정 불가 — 사람 승인 필요',PASS:'통과',NOTICE:'통과 (참고 사항 있음)'};
-    out.innerHTML =
-      '<div class="v '+d.verdict+'">'+(KO[d.verdict]||d.verdict)+
-        '<small>'+d.verdict+' · 규칙 '+d.rule+'</small></div>'+
-      (d.reasons.length? '<ul>'+d.reasons.map(x=>'<li>'+x.replace(/</g,'&lt;')+'</li>').join('')+'</ul>'
-                       : '<div style="font-size:13px;color:#555">이 요청에서 발화한 위험 신호가 없습니다.</div>')+
-      '<div class=meta>계약서 사실 출처: '+d.facts_origin+'</div>'+
-      '<details><summary>발화 신호 · 추출된 계약서 사실 보기</summary><pre>'+
-        JSON.stringify({신호:d.signals,계약서_사실:d.facts},null,1)+'</pre></details>';
-  }catch(e){ out.innerHTML='<pre>요청 실패: '+e+'</pre>'; }
+    if(d.error){ out.innerHTML='<pre>'+esc(d.error)+'\\n\\n'+esc(d.trace||'')+'</pre>'; return; }
+    const [t,s]=KO[d.verdict]||[d.verdict,''];
+    out.innerHTML=
+      '<div class="vd '+d.verdict+'">'+(ICON[d.verdict]||'')+
+        '<div><div class=t>'+t+'</div><div class=s>'+d.verdict+' · 규칙 '+d.rule+' — '+s+'</div></div></div>'+
+      (d.reasons.length
+        ? '<ul class=rs>'+d.reasons.map(x=>'<li><b></b><span>'+esc(x)+'</span></li>').join('')+'</ul>'
+        : '<div style="font-size:13.5px;color:var(--ink-2);padding:2px">발화한 위험 신호가 없습니다.</div>')+
+      '<div class=src><svg width=13 height=13 viewBox="0 0 14 14" fill=none><circle cx=7 cy=7 r=5.6 stroke="#797F87" stroke-width=1.3/><path d="M7 4.3v3.4" stroke="#797F87" stroke-width=1.4 stroke-linecap=round/><circle cx=7 cy=9.7 r=.8 fill="#797F87"/></svg>계약서 사실 출처: '+esc(d.facts_origin)+'</div>'+
+      '<details><summary>발화 신호 · 추출된 계약서 사실</summary><pre>'+
+        esc(JSON.stringify({신호:d.signals,계약서_사실:d.facts},null,1))+'</pre></details>';
+  }catch(e){ out.innerHTML='<pre>요청 실패: '+esc(String(e))+'</pre>'; }
 };
+function esc(s){return String(s).replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));}
 fetch('/contract').then(r=>r.text()).then(t=>document.getElementById('doc').textContent=t);
 </script>
-</html>"""
+</html>
+"""
 
 
 class Handler(BaseHTTPRequestHandler):
