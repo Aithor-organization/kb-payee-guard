@@ -33,6 +33,7 @@ from __future__ import annotations
 import json
 import os
 import pathlib
+import re
 import sys
 import threading
 import traceback
@@ -291,9 +292,15 @@ def audit_trail(facts: ContractFacts, req: RemittanceRequest, d) -> dict:
         "span_check": {
             "total": len([e for e in extracted if e["value"] not in (None, [], "")]),
             "with_evidence": len([e for e in extracted if e["evidence"]]),
-            "note": ("evidence 는 LLM 이 원문에서 **복사**한 구간이며 "
-                     "`llm_extract._verify_spans` 가 원문 실재 여부를 이미 대조했습니다. "
-                     "원문에 없으면 그 필드는 버려집니다 — 창작이기 때문입니다."),
+            # 🔴 방어 범위를 정확히 적는다. "전부 검증됨"으로 읽히면 그 자체가 할루시네이션이다.
+            #    _verify_spans 는 (a) 근거 문장이 있는데 원문에 없을 때만 필드를 버리고,
+            #    (b) 근거가 null 이면 `if not v: continue` 로 그냥 지나간다.
+            #    (c) 스키마가 근거를 요구하는 필드는 4개뿐이다.
+            "note": ("근거 구간은 LLM 이 원문에서 복사한 문장이고, `_verify_spans` 가 "
+                     "원문 실재 여부를 대조합니다 — 원문에 없는 문장을 써내면 그 필드는 버려집니다. "
+                     "다만 근거를 요구하는 필드는 4개(상대방명·소재국·결제조건·§Amendment)이고, "
+                     "근거가 비어 있으면 검증을 거치지 않습니다. "
+                     "근거 칸이 빈 항목은 '검증된 값'이 아니라 '검증되지 않은 값'입니다."),
         },
     }
 
@@ -715,7 +722,8 @@ textarea:focus{outline:2px solid var(--kb-d);outline-offset:2px;border-color:var
     <code>python3.12 scripts/recheck_holdout.py</code> 한 줄로 다시 셀 수 있습니다.</p>
   <div class=mt>
     <div class=mc><div class=v>92.9<span class=u>%</span></div>
-      <div class=k>규칙 튜닝에 안 쓴 183건에서 위조 제외 차단율 — gold 93.3%와 같은 수준</div></div>
+      <div class=k>규칙 튜닝에 안 쓴 183건의 <b>합성 시나리오</b>에서 위조 제외 차단율.
+        <b>독립 정답 라벨 대비 정확도가 아닙니다</b> — 아래 설명</div></div>
     <div class=mc><div class=v>0.0<span class=u>%</span></div>
       <div class=k>정상 거래 하드 차단 오탐. 단 25%는 사람 승인 대기로 갑니다</div></div>
     <div class=mc><div class=v>90.0<span class=u>%</span></div>
@@ -733,8 +741,10 @@ textarea:focus{outline:2px solid var(--kb-d);outline-offset:2px;border-color:var
 <section id=demo><div class=in>
   <div class=sh>직접 해보기</div>
   <h2>시나리오를 바꿔 가며 판정을 확인하세요</h2>
-  <p class=sub>값은 직접 고쳐도 됩니다. 특히 <b>&ldquo;이 계좌 정보를 어디서 받으셨습니까&rdquo;</b>만
-    이메일 → 수정 합의서로 바꾸면, 계좌번호가 같은데도 차단이 통과로 뒤집힙니다. 그게 판정 축입니다.</p>
+  <p class=sub>값은 직접 고쳐도 됩니다. 세 번째 시나리오에서 <b>&ldquo;이 계좌 정보를 어디서 받으셨습니까&rdquo;</b>만
+    이메일 → 수정 합의서로 바꾸면 차단 사유가 <b>R2 → R6</b> 로 바뀝니다 — 절차 위반은 풀렸지만
+    발신 도메인 <code>bauer-gmbh.co</code> 가 계약서의 <code>.de</code> 와 달라 여전히 막습니다.
+    <b>메일 발신자까지 비우면</b> 그때 통과합니다. 계좌번호는 한 번도 건드리지 않았습니다.</p>
   <div class=card style="margin-bottom:20px">
     <div class=hd><div class=n>0</div><h3>어떤 계약서로 판정할까요</h3>
       <div class=p id=docName>목업 계약서</div></div>
@@ -883,7 +893,7 @@ $('go').onclick=async()=>{
       (d.reasons.length?'<ul class=rs>'+d.reasons.map(x=>'<li><b></b><span>'+esc(x)+'</span></li>').join('')+'</ul>'
         :'<div style="font-size:13.5px;color:var(--ink-2);padding:2px">발화한 위험 신호가 없습니다.</div>')+
       '<div class=src><svg width=13 height=13 viewBox="0 0 14 14" fill=none><circle cx=7 cy=7 r=5.6 stroke="#7C7870" stroke-width=1.3/><path d="M7 4.3v3.4" stroke="#7C7870" stroke-width=1.4 stroke-linecap=round/><circle cx=7 cy=9.7 r=.8 fill="#7C7870"/></svg>계약서 사실 출처: '+esc(d.facts_origin)+'</div>'+
-        renderAudit(d.audit)+
+        renderAudit(d.audit, d.facts_origin)+
       '<details><summary>원시 JSON (신호 · 계약서 사실)</summary><pre>'+
         esc(JSON.stringify({신호:d.signals,계약서_사실:d.facts},null,1))+'</pre></details>';
     $('resHint').textContent = d.verdict+' · 규칙 '+d.rule;
@@ -905,7 +915,11 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape'&&ov.classList.contai
 
 /* 감사 로그 — HITL 이 할루시네이션을 직접 잡을 수 있게 전 단계를 편다.
    금융에서 "AI 가 그렇게 판단했다" 는 근거가 아니다. 사람이 한 칸씩 되짚어야 한다. */
-function renderAudit(a){
+function renderAudit(a, origin){
+  // 🔴 키 없이 돌면 사실은 LLM 이 아니라 사람이 옮겨 적은 값이다.
+  //    그런데도 "AI 가 뽑은 사실"이라 쓰면, 할루시네이션을 잡으라고 만든 화면이
+  //    출처부터 거짓을 말하게 된다. 제목을 출처에 맞춰 바꾼다.
+  const byLLM = String(origin||'').indexOf('LLM') === 0;
   if(!a) return '';
   const chain='<div class=chain>'+a.chain.map((c,i)=>
     (i?'<u>&rsaquo;</u>':'')+'<i>'+esc(c)+'</i>').join('')+'</div>';
@@ -939,29 +953,41 @@ function renderAudit(a){
   return '<div class=aud>'+
     '<h4><svg width=15 height=15 viewBox="0 0 16 16" fill=none><path d="M8 1.6 2.6 3.7v4.1c0 3.3 2.2 6 5.4 7.2 3.2-1.2 5.4-3.9 5.4-7.2V3.7L8 1.6Z" stroke="currentColor" stroke-width=1.4 stroke-linejoin=round/></svg>'+
       '판정 근거 전 과정 <span style="font-weight:400;color:var(--ink-3);font-size:11.5px">— 사람이 직접 검증하는 영역</span></h4>'+
-    '<p class=lead>AI 가 만든 값과 규칙이 만든 값을 <b>분리해서</b> 보여줍니다. '+
-      '아래 <b>근거 구간</b>을 계약서 원문(위 <b>2번</b> 카드)에서 찾아 눈으로 대조하시면, '+
-      'AI 가 지어낸 값인지 실제로 계약서에 있는 문장인지 확인할 수 있습니다.</p>'+
+    '<p class=lead>'+(byLLM
+      ? 'AI 가 만든 값과 규칙이 만든 값을 <b>분리해서</b> 보여줍니다. '+
+        '아래 <b>근거 구간</b>을 계약서 원문(위 <b>2번</b> 카드)에서 찾아 눈으로 대조하시면, '+
+        'AI 가 지어낸 값인지 실제로 계약서에 있는 문장인지 확인할 수 있습니다.'
+      : '<b>지금은 AI 추출을 쓰고 있지 않습니다</b> — 계약서 사실은 사람이 읽고 옮겨 적은 '+
+        '고정 라벨이라 근거 구간이 비어 있습니다(0 건). AI 가 뽑은 값을 대조해 보시려면 '+
+        '우측 상단 <b>설정</b>에서 OpenAI 키를 넣으십시오. 아래 3·4 단계(신호·규칙)는 '+
+        '출처와 무관하게 규칙 코드가 계산한 것이라 그대로 검증하실 수 있습니다.')+'</p>'+
     chain+
     '<div class=vfy><svg width=14 height=14 viewBox="0 0 16 16" fill=none style="flex:none;margin-top:2px">'+
       '<circle cx=8 cy=8 r=6.4 stroke="#0B5F49" stroke-width=1.4/><path d="m5.4 8.2 1.9 1.9 3.6-3.9" stroke="#0B5F49" stroke-width=1.6 stroke-linecap=round stroke-linejoin=round/></svg>'+
-      '<div><b>근거 구간 '+sc.with_evidence+'/'+sc.total+' 확보.</b> '+esc(sc.note)+'</div></div>'+
+      '<div><b>근거 구간 '+sc.with_evidence+'/'+sc.total+
+        (sc.with_evidence===0 ? ' — 이 판정에는 원문으로 검증된 근거가 없습니다.'
+         : sc.with_evidence<sc.total ? ' 확보 — 나머지 '+(sc.total-sc.with_evidence)+'개 항목은 검증되지 않았습니다.'
+         : ' 확보.')+'</b> '+esc(sc.note)+'</div></div>'+
 
     '<div class=cols>'+
       '<div class=astep><b><em>1</em>사람이 입력한 값 <span style="font-weight:400">— AI 가 만들지 않았습니다</span></b>'+
         '<table class=at>'+inRows+'</table></div>'+
-      '<div class=astep><b><em>3</em>신호 산출 <span style="font-weight:400">— 규칙 코드가 계산. LLM 관여 없음</span></b>'+
+      '<div class=astep><b><em>3</em>신호 산출 <span style="font-weight:400">— 구현된 9종 전부. 규칙 코드가 계산하며 LLM 관여 없음</span></b>'+
         '<table class=at><tr><th>ID</th><th>강도</th><th>무엇을 보는가 · 실제 값</th></tr>'+sgRows+'</table></div>'+
     '</div>'+
 
-    '<div class=astep><b><em>2</em>AI 가 계약서에서 뽑은 사실 <span style="font-weight:400">— 근거 구간을 2번 카드의 계약서 원문에서 찾아 대조하세요</span></b>'+
-      '<table class=at><tr><th style="width:20%">항목</th><th style="width:24%">추출값</th><th>계약서 원문 근거 (LLM 이 복사한 구간)</th></tr>'+exRows+'</table></div>'+
+    '<div class=astep><b><em>2</em>'+(byLLM
+        ? 'AI 가 계약서에서 뽑은 사실 <span style="font-weight:400">— 근거 구간을 2번 카드의 계약서 원문에서 찾아 대조하세요</span>'
+        : '계약서 사실 <span style="font-weight:400">— <b>사람이 옮겨 적은 고정 라벨</b>입니다. AI 추출이 아니라 근거 구간이 없습니다</span>')+'</b>'+
+      '<table class=at><tr><th style="width:20%">항목</th><th style="width:24%">'+(byLLM?'추출값':'라벨값')+'</th>'+
+      '<th>'+(byLLM?'계약서 원문 근거 (LLM 이 복사한 구간)':'근거 구간 — 수동 라벨이므로 비어 있음')+'</th></tr>'+exRows+'</table></div>'+
 
     '<div class=astep><b><em>4</em>규칙 테이블 <span style="font-weight:400">— 위에서부터 first-match. 왜 다른 규칙이 아닌지도 보입니다</span></b>'+
       '<table class=at><tr><th style="width:8%">규칙</th><th style="width:14%">등급</th><th>발화 조건</th></tr>'+rlRows+'</table></div>'+
 
     '<div class=hitl><b>담당자 확인 순서</b><ol>'+
-      '<li>②의 <b>근거 구간</b>을 계약서 원문에서 찾습니다 — 없으면 AI 가 지어낸 값입니다.</li>'+
+      '<li>②의 <b>근거 구간</b>을 계약서 원문에서 찾습니다 — 적혀 있는데 원문에 <b>없으면</b> 지어낸 값입니다.</li>'+
+      '<li>근거 칸이 <b>비어 있는</b> 항목은 &ldquo;맞다&rdquo;가 아니라 <b>&ldquo;검증되지 않았다&rdquo;</b>입니다 — 직접 원문에서 확인하십시오.</li>'+
       '<li>③에서 발화한 신호의 <b>실제 값</b>이 ①·②와 맞는지 봅니다.</li>'+
       '<li>④에서 적중 규칙 <b>위쪽</b> 규칙들이 왜 발화 안 했는지 확인합니다.</li>'+
       '<li>어긋나는 칸이 하나라도 있으면 <b>승인하지 마시고</b> 원본 서류로 확인하세요.</li>'+
@@ -1051,6 +1077,13 @@ refreshKey();
 loadDoc();
 </script>
 </html>"""
+
+# 🔴 제품 UI 에는 이모지를 쓰지 않는다 (OS 별 렌더링 차이 + AI 생성 인상). 아이콘은 전부 인라인 SVG다.
+#    그런데 **주석에 쓴 이모지가 세 번 새어 나갔다** — CSS 주석, JS 주석, 그리고 또 JS 주석.
+#    사람이 매번 지우는 규율로는 세 번 다 실패했으므로 여기서 기계로 막는다.
+#    Python 주석의 이모지는 브라우저로 나가지 않으니 그대로 둔다 (이 줄이 그 증거다).
+_EMOJI = re.compile("[\U0001F300-\U0001FAFF☀-➿️]")
+PAGE = _EMOJI.sub("", PAGE)
 
 
 class Handler(BaseHTTPRequestHandler):
