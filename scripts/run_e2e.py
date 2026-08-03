@@ -14,7 +14,7 @@
   기본 `--corpus gold` 는 규칙을 고치는 데 **사용한** 30건이라 일반화 성능이 아니다.
   `holdout` 은 gold 에 없는 계약서 전부 — 규칙 튜닝에 한 번도 쓰이지 않았다.
   같은 시나리오 5종을 그대로 합성하므로(`scenarios.build` 는 gold 라벨에 의존하지
-  않는다) 비교가 성립한다. 결과는 `_e2e_holdout.json` 에 따로 쓴다.
+  않는다) 비교가 성립한다. 결과는 `_e2e_holdout_{A,C}.json` 에 추출기별로 따로 쓴다.
 
   ⚠️ `--corpus holdout` 은 `--extract gold` 와 함께 쓸 수 없다.
      gold facts 는 라벨이 있는 30건에만 존재하기 때문이다.
@@ -36,8 +36,8 @@ from kb_payee_guard.extract import RegexExtractor  # noqa: E402
 from kb_payee_guard.models import ContractFacts, PaymentTerms, Verdict  # noqa: E402
 
 GOLD = ROOT / "data" / "contracts" / "_gold.json"
-# 🔴 미사용 — 결과 경로는 result_out()/holdout_out() 이 (코퍼스 × 추출기)별로 만든다.
-#    이 상수를 되살리면 2026-08-02 의 덮어쓰기 사고가 재발한다.
+# 🔴 단일 출력 상수(_e2e_result.json)는 2026-08-03 에 제거했다 — 경로는 result_out() 이
+#    (코퍼스 × 추출기)별로 만든다. 되살리면 2026-08-02 의 덮어쓰기 사고가 재발한다.
 CONTRACTS = ROOT / "data" / "contracts"
 
 
@@ -53,17 +53,6 @@ def result_out(corpus: str, extractor: str) -> Path:
     """
     stem = "_e2e_holdout" if corpus == "holdout" else "_e2e_result"
     return CONTRACTS / f"{stem}_{extractor}.json"
-
-
-def holdout_out(extractor: str) -> Path:
-    """🔴 holdout 결과는 **추출기별로 파일을 나눈다.**
-
-    한 파일을 공유하면 `--extract A` 결과를 `--extract C` 실행이 조용히 덮는다.
-    2026-08-02 에 실제로 당했다 — A 로 232건을 돌려놓고 C 를 3건만 시험 실행했더니
-    A 결과가 사라졌고, 덮인 뒤에 백업해서 백업조차 무의미했다.
-    실행이 오래 걸리는(232건 × 약 4초) 산출물이라 재실행 비용이 크므로 분리한다.
-    """
-    return CONTRACTS / f"_e2e_holdout_{extractor}.json"
 
 
 def gold_facts(fn: str, kind: str, text: str) -> ContractFacts:

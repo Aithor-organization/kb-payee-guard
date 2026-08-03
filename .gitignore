@@ -38,3 +38,7 @@ data/contracts/_raw/itc-*
 # 제출 산출물 (매 빌드 재생성 — 커밋 불필요)
 submission/dist/
 node_modules/
+
+# 제출 필수서류 서명본 — 개인정보 포함, 절대 커밋 금지
+submission/_필수서류_원본/
+submission/dist/

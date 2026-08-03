@@ -20,9 +20,11 @@
 
 from __future__ import annotations
 
+import os
 import shutil
 import sys
 import zipfile
+import pathlib
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -30,6 +32,16 @@ OUT = ROOT / "submission" / "dist"
 STAGE = OUT / "KB_Payee_Guard"
 ZIP = OUT / "KB_Payee_Guard_제출.zip"
 DECK = ROOT / "submission" / "기술설명서_KB_Payee_Guard.pptx"
+
+# 🔴 서명한 필수서류(PDF)를 **어디서** 가져오는가 (2026-08-03 수정).
+#
+#    이전 설계는 "STAGE/필수서류/ 에 넣고 다시 실행하세요" 였는데, main() 이 매 실행마다
+#    `shutil.rmtree(STAGE)` 로 그 폴더를 **지우고 시작**한다. 넣어도 다음 실행에서 사라지는
+#    catch-22 였고, 실제로 생성 ZIP 에 PDF 가 0건이었다.
+#    → 지워지지 않는 별도 입력 디렉터리에서 읽는다. 환경변수로 덮어쓸 수 있다.
+#
+#    ⚠️ 서명본에는 개인정보가 있다. 이 디렉터리는 .gitignore 에 있으며 커밋하지 않는다.
+DOCS_SRC = pathlib.Path(os.environ.get("KB_DOCS_DIR") or (ROOT / "submission" / "_필수서류_원본"))
 
 # 🔴 재배포 금지·비밀·파생물 — 스테이징에서 제거한다 (git 추적 여부와 무관하게 이중 차단)
 EXCLUDE_NAMES = {".env", ".DS_Store"}
@@ -85,11 +97,25 @@ def main() -> int:
 
     prune(STAGE)
 
-    # 4. 필수서류 자리
+    # 4. 필수서류 — 지워지지 않는 입력 디렉터리에서 복사한다
     docs_dir = STAGE / "필수서류"
     docs_dir.mkdir()
+    copied = []
+    if DOCS_SRC.is_dir():
+        for pdf in sorted(DOCS_SRC.glob("*.pdf")):
+            shutil.copy2(pdf, docs_dir / pdf.name)
+            copied.append(pdf.name)
+    if copied:
+        print(f"  필수서류 {len(copied)}건 복사 ({DOCS_SRC})")
+        for n in copied:
+            print(f"    · {n}")
+    else:
+        print(f"  ⚠️  필수서류 0건 — {DOCS_SRC} 에 서명본 PDF 를 넣으십시오"
+              f" (또는 KB_DOCS_DIR 환경변수로 경로 지정)")
     (docs_dir / "_여기에_넣으세요.txt").write_text(
-        "아래 3건을 이 폴더에 넣고 다시 실행하세요 (python3.12 submission/build_zip.py).\n\n"
+        "아래 3건을 **submission/_필수서류_원본/** 에 넣고 다시 실행하세요\n"
+        "(python3.12 submission/build_zip.py · 다른 경로면 KB_DOCS_DIR 환경변수).\n"
+        "🔴 이 폴더는 매 실행마다 삭제되므로 여기 넣으면 사라집니다.\n\n"
         "  1. 제8회 Future Finance AI Challenge 참가신청서.pdf   (작성 + 서명)\n"
         "  2. 제8회 Future Finance AI Challenge 서약서.pdf        (서명/날인)\n"
         "  3. [필수]개인정보 수집·이용 동의서.pdf                  (서명/날인)\n\n"
@@ -157,7 +183,8 @@ API 키 없이도 **테스트 128건 전부**가 통과합니다. 판정 엔진�
         ("프로토타입 코드", "prototype/src/" in joined, True),
         ("테스트", "prototype/tests/" in joined, True),
         ("측정 문서", "prototype/docs/" in joined, True),
-        ("필수서류(서명본)", any("필수서류" in n and n.endswith(".pdf") for n in names), False),
+        # 🔴 서류 미비는 실격 사유다 — 경고가 아니라 차단으로 둔다 (종료코드 2).
+        ("필수서류(서명본)", any("필수서류" in n and n.endswith(".pdf") for n in names), True),
         ("재배포 금지 자료 없음", not any("itc-" in n or "_restricted" in n for n in names), True),
         ("비밀키 없음", not any(n.endswith(".env") for n in names), True),
         ("3GB 이하", size_mb < 3000, True),
