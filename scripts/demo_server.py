@@ -194,6 +194,110 @@ SCENARIOS = {
 }
 
 
+# 규칙 테이블을 사람이 읽을 수 있게 — 판정에 **쓰였지만 발화하지 않은** 규칙까지 보여준다.
+#   "왜 이 규칙이 아니라 저 규칙인가" 는 발화한 규칙만 봐서는 답할 수 없다.
+_RULE_DESC = {
+    "R1": ("판정 불가", "계약서 부재 또는 추출 실패"),
+    "R2": ("송금 보류", "계좌 지시가 계약 절차 조항을 위반한 경로로 옴 (최빈 BEC)"),
+    "R3": ("송금 보류", "계약 상대방 소재국과 계좌 개설국 불일치"),
+    "R4": ("송금 보류", "결제조건이 위험한 방향으로 전환됨 (L/C → T/T 등)"),
+    "R5": ("송금 보류", "계약 수익자명과 수취인명 불일치"),
+    "R6": ("송금 보류", "발신 도메인이 계약서 기재 도메인과 유사하지만 다름"),
+    "R7": ("보류", "계좌 지시 근거가 약함 (절차 조항 부재 또는 인보이스 단독)"),
+    "R8": ("보류", "송금액이 계약 금액을 초과"),
+    "R9": ("보류", "근거 서류는 갖췄으나 동봉 메일이 수상"),
+    "R11": ("참고", "신규 수취계좌 (트리거일 뿐 판별자 아님)"),
+    "R0": ("이상 없음", "발화한 위험 신호 없음 — 계약이 정한 절차와 일치"),
+}
+
+_SIGNAL_DESC = {
+    "S16": "계좌 지시가 계약이 정한 경로(§Notices·§Amendment)로 왔는가 — 이 제품의 판정 축",
+    "S9":  "계약 상대방 소재국 ≠ 수취계좌 개설국 (금감원 지시 항목)",
+    "S10": "계약서 결제조건 ≠ 이번 송금 방식 (방향 구분 — T/T→L/C 는 침묵)",
+    "S11": "계약서 수익자명 ≠ 수취인명",
+    "S12": "송금액이 계약 금액을 초과",
+    "S1":  "신규 수취계좌 — 트리거일 뿐 판별자가 아니다",
+    "S5":  "계좌 지시 근거 서류 유형",
+    "M1":  "발신 도메인이 계약서 기재 도메인과 유사(편집거리·homoglyph·TLD 치환)",
+    "M2":  "계좌 변경 요청 메일이 기존 스레드에 이어지지 않음 (In-Reply-To 부재)",
+}
+
+
+def audit_trail(facts: ContractFacts, req: RemittanceRequest, d) -> dict:
+    """🔴 HITL 이 할루시네이션을 직접 잡을 수 있게 **전 단계를 그대로 편다**.
+
+    금융에서 "AI 가 그렇게 판단했다" 는 근거가 아니다. 사람이 다음 사슬을
+    **한 칸씩 되짚을 수 있어야** 한다:
+
+        계약서 원문 → (근거 구간) → 추출된 사실 → (신호) → 발화 → (규칙) → 판정
+
+    각 칸마다 "무엇을 근거로 이 값이 되었는가" 를 원문 그대로 붙인다.
+    특히 `evidence_spans` 는 **LLM 이 원문에서 복사한 구간**이고,
+    `llm_extract._verify_spans` 가 원문에 실재하는지 이미 대조한 값이다 —
+    사람은 그 구간을 계약서에서 찾아 눈으로 확인만 하면 된다.
+    """
+    fired = {h.signal_id for h in d.hits}
+    spans = facts.evidence_spans or {}
+
+    # ① 추출된 사실 — 값 + 근거 구간
+    FIELDS = [("counterparty_name", "계약 상대방(수취인)"),
+              ("counterparty_country", "상대방 소재국"),
+              ("payment_terms", "계약 결제조건"),
+              ("contract_amount", "계약 금액"),
+              ("notice_channel_types", "§Notices 통지 경로"),
+              ("registered_contact", "계약서 기재 연락처"),
+              ("amendment_clause", "§Amendment 변경 조항"),
+              ("amendment_clause_requires_written", "변경에 서면 요구")]
+    extracted = []
+    for key, label in FIELDS:
+        v = getattr(facts, key, None)
+        extracted.append({
+            "field": key, "label": label,
+            "value": (v.value if hasattr(v, "value") else
+                      (f"{v.amount:,.0f} {v.currency}" if hasattr(v, "currency") else
+                       (list(v) if isinstance(v, (list, tuple)) else v))),
+            "evidence": spans.get(key),        # 🔴 원문에서 복사·대조된 구간
+        })
+
+    # ② 신호 — 발화한 것 + 발화하지 않은 것
+    signals = [{"id": h.signal_id, "name": h.name, "severity": h.severity.name,
+                "fired": True, "what": _SIGNAL_DESC.get(h.signal_id, ""),
+                "detail": h.detail, "evidence": h.evidence} for h in d.hits]
+    for sid, what in _SIGNAL_DESC.items():
+        if sid not in fired:
+            signals.append({"id": sid, "name": "", "severity": "NONE",
+                            "fired": False, "what": what, "detail": None, "evidence": None})
+
+    # ③ 규칙 — 어떤 규칙이 적중했고 나머지는 왜 아닌가
+    rules_tbl = [{"id": rid, "verdict": _RULE_DESC[rid][0], "cond": _RULE_DESC[rid][1],
+                  "matched": rid == d.rule_id}
+                 for rid in _RULE_DESC if rid in set(rules.RULE_IDS)]
+
+    return {
+        "chain": ["계약서 원문", "근거 구간 대조", "추출된 사실", "신호 산출", "규칙 테이블", "판정"],
+        "input": {
+            "수취 계좌": req.new_account.number, "BIC": req.new_account.bic,
+            "금액": f"{req.amount.amount:,.0f} {req.amount.currency}",
+            "송금 방식": req.remittance_type.value if req.remittance_type else None,
+            "계좌 지시 출처": req.account_instruction.source.name,
+            "지시가 온 경로": req.account_instruction.channel_detail,
+            "메일 발신자": req.change_request_sender,
+            "메일 스레드(In-Reply-To)": req.change_request_in_reply_to or "(없음 — 새 메일)",
+        },
+        "extracted": extracted,
+        "signals": signals,
+        "rules": rules_tbl,
+        "matched_rule": d.rule_id,
+        "span_check": {
+            "total": len([e for e in extracted if e["value"] not in (None, [], "")]),
+            "with_evidence": len([e for e in extracted if e["evidence"]]),
+            "note": ("evidence 는 LLM 이 원문에서 **복사**한 구간이며 "
+                     "`llm_extract._verify_spans` 가 원문 실재 여부를 이미 대조했습니다. "
+                     "원문에 없으면 그 필드는 버려집니다 — 창작이기 때문입니다."),
+        },
+    }
+
+
 def judge(form: dict) -> dict:
     facts, origin = load_facts()
     req = RemittanceRequest(
@@ -212,6 +316,7 @@ def judge(form: dict) -> dict:
     d = rules.evaluate(facts, req)
     return {
         "verdict": d.verdict.value, "rule": d.rule_id, "reasons": list(d.reasons()),
+        "audit": audit_trail(facts, req, d),
         "signals": [f"{h.signal_id} {h.name} ({h.severity.name})" for h in d.hits],
         "facts_origin": origin,
         "facts": {"상대방": facts.counterparty_name, "소재국": facts.counterparty_country,
@@ -426,6 +531,49 @@ textarea:focus{outline:2px solid var(--kb-d);outline-offset:2px;border-color:var
 .fgrid dt{color:var(--ink-3);white-space:nowrap}
 .fgrid dd{margin:0;font-family:var(--mono);font-size:11.5px;word-break:break-all}
 .fgrid dd.miss{color:var(--warn)}
+
+/* AUDIT — HITL 검증 */
+.aud{margin-top:16px;border-top:1px solid var(--line);padding-top:16px}
+.aud h4{margin:0 0 4px;font-size:13px;font-weight:700;display:flex;align-items:center;gap:7px}
+.aud .lead{font-size:12px;color:var(--ink-3);line-height:1.6;margin:0 0 13px}
+.chain{display:flex;flex-wrap:wrap;gap:5px;align-items:center;margin-bottom:15px;
+  font-size:11px;color:var(--ink-3)}
+.chain i{font-style:normal;background:var(--bg);border:1px solid var(--line);border-radius:12px;
+  padding:4px 9px;white-space:nowrap}
+.chain u{text-decoration:none;color:#B4AFA6}
+.astep{margin-bottom:15px}
+.astep>b{display:flex;align-items:center;gap:6px;font-size:11.5px;font-weight:700;color:var(--ink-3);
+  letter-spacing:.03em;margin-bottom:7px}
+.astep>b em{font-style:normal;width:17px;height:17px;border-radius:4px;background:var(--ink);color:#fff;
+  font-size:10px;display:grid;place-items:center;flex:none}
+.at{width:100%;border-collapse:collapse;font-size:12px;border:1px solid var(--line);border-radius:7px;
+  overflow:hidden;table-layout:fixed}
+.at th{background:var(--bg);text-align:left;padding:7px 10px;font-size:10.5px;font-weight:700;
+  color:var(--ink-3);border-bottom:1px solid var(--line)}
+.at td{padding:8px 10px;border-bottom:1px solid var(--line-2);vertical-align:top;line-height:1.55;
+  word-break:break-word}
+.at tr:last-child td{border-bottom:0}
+.at .v{font-family:var(--mono);font-size:11.5px;font-variant-numeric:tabular-nums}
+.at .ev{font-family:var(--mono);font-size:10.5px;color:var(--ink-2);background:rgba(15,123,95,.06);
+  border:1px solid rgba(15,123,95,.22);border-radius:4px;padding:4px 6px;display:inline-block}
+.at .no{color:var(--warn);font-size:11px}
+.at tr.hit td{background:rgba(214,50,60,.055)}
+.at tr.miss td{color:#A9A49B}
+.at tr.mrule td{background:rgba(255,188,0,.10);font-weight:600}
+.sev{display:inline-block;font:700 9.5px/1 var(--mono);padding:3px 5px;border-radius:3px;letter-spacing:.03em}
+.sev.HIGH{background:rgba(214,50,60,.13);color:var(--danger)}
+.sev.MEDIUM{background:rgba(184,116,0,.14);color:var(--warn)}
+.sev.LOW,.sev.NOTICE{background:rgba(91,97,105,.11);color:var(--hold)}
+.sev.NONE{background:var(--line-2);color:#A9A49B}
+.vfy{display:flex;gap:8px;align-items:flex-start;padding:10px 12px;border:1px solid rgba(15,123,95,.3);
+  background:rgba(15,123,95,.06);border-radius:7px;font-size:11.5px;line-height:1.62;color:var(--ink-2);
+  margin-bottom:14px}
+.vfy b{color:var(--safe)}
+.hitl{padding:11px 13px;border:1px solid var(--line);border-radius:7px;background:var(--bg);
+  font-size:11.5px;line-height:1.66;color:var(--ink-2);margin-top:4px}
+.hitl b{display:block;font-size:12px;color:var(--ink);margin-bottom:5px}
+.hitl ol{margin:0;padding-left:17px}
+.hitl li{margin:3px 0}
 
 /* SETTINGS */
 .ov{position:fixed;inset:0;background:rgba(28,26,22,.45);z-index:60;display:none;
@@ -703,7 +851,8 @@ $('go').onclick=async()=>{
       (d.reasons.length?'<ul class=rs>'+d.reasons.map(x=>'<li><b></b><span>'+esc(x)+'</span></li>').join('')+'</ul>'
         :'<div style="font-size:13.5px;color:var(--ink-2);padding:2px">발화한 위험 신호가 없습니다.</div>')+
       '<div class=src><svg width=13 height=13 viewBox="0 0 14 14" fill=none><circle cx=7 cy=7 r=5.6 stroke="#7C7870" stroke-width=1.3/><path d="M7 4.3v3.4" stroke="#7C7870" stroke-width=1.4 stroke-linecap=round/><circle cx=7 cy=9.7 r=.8 fill="#7C7870"/></svg>계약서 사실 출처: '+esc(d.facts_origin)+'</div>'+
-      '<details><summary>발화 신호 · 추출된 계약서 사실</summary><pre>'+
+      renderAudit(d.audit)+
+      '<details><summary>원시 JSON (신호 · 계약서 사실)</summary><pre>'+
         esc(JSON.stringify({신호:d.signals,계약서_사실:d.facts},null,1))+'</pre></details>';
     refreshKey();
   }catch(e){$('out').innerHTML='<pre>요청 실패: '+esc(String(e))+'</pre>';}
@@ -715,6 +864,70 @@ $('openSet').onclick=()=>{ov.classList.add('open');$('keyIn').focus();};
 $('closeSet').onclick=closeSet;
 ov.onclick=e=>{if(e.target===ov)closeSet();};
 document.addEventListener('keydown',e=>{if(e.key==='Escape'&&ov.classList.contains('open'))closeSet();});
+
+/* 감사 로그 — HITL 이 할루시네이션을 직접 잡을 수 있게 전 단계를 편다.
+   금융에서 "AI 가 그렇게 판단했다" 는 근거가 아니다. 사람이 한 칸씩 되짚어야 한다. */
+function renderAudit(a){
+  if(!a) return '';
+  const chain='<div class=chain>'+a.chain.map((c,i)=>
+    (i?'<u>&rsaquo;</u>':'')+'<i>'+esc(c)+'</i>').join('')+'</div>';
+
+  const inRows=Object.entries(a.input).map(([k,v])=>
+    '<tr><td style="width:38%">'+esc(k)+'</td><td class=v>'+esc(v??'(없음)')+'</td></tr>').join('');
+
+  const exRows=a.extracted.map(e=>{
+    const val=e.value===null||e.value===undefined||e.value===''||(Array.isArray(e.value)&&!e.value.length)
+      ? '<span class=no>추출 안 됨</span>' : '<span class=v>'+esc(Array.isArray(e.value)?e.value.join(', '):e.value)+'</span>';
+    const ev=e.evidence
+      ? '<span class=ev>'+esc(e.evidence.length>150?e.evidence.slice(0,150)+'…':e.evidence)+'</span>'
+      : '<span class=no>근거 구간 없음 — 이 값은 판정에 쓰지 마세요</span>';
+    return '<tr><td style="width:24%">'+esc(e.label)+'</td><td style="width:26%">'+val+'</td><td>'+ev+'</td></tr>';
+  }).join('');
+
+  const sg=[...a.signals].sort((x,y)=>(y.fired-x.fired));
+  const sgRows=sg.map(x=>
+    '<tr class="'+(x.fired?'hit':'miss')+'"><td style="width:9%"><span class=v>'+esc(x.id)+'</span></td>'+
+    '<td style="width:11%"><span class="sev '+esc(x.severity)+'">'+esc(x.fired?x.severity:'침묵')+'</span></td>'+
+    '<td>'+esc(x.what)+(x.detail?'<br><span class=v style="color:var(--ink-3)">'+esc(x.detail)+'</span>':'')+
+    (x.evidence?'<br><span class=ev style="margin-top:4px">'+esc(String(x.evidence).slice(0,150))+'</span>':'')+
+    '</td></tr>').join('');
+
+  const rlRows=a.rules.map(r=>
+    '<tr class="'+(r.matched?'mrule':'')+'"><td style="width:9%"><span class=v>'+esc(r.id)+'</span></td>'+
+    '<td style="width:16%">'+esc(r.verdict)+'</td><td>'+esc(r.cond)+
+    (r.matched?' <b style="color:var(--warn)">← 이 규칙이 적중</b>':'')+'</td></tr>').join('');
+
+  const sc=a.span_check;
+  return '<div class=aud>'+
+    '<h4><svg width=15 height=15 viewBox="0 0 16 16" fill=none><path d="M8 1.6 2.6 3.7v4.1c0 3.3 2.2 6 5.4 7.2 3.2-1.2 5.4-3.9 5.4-7.2V3.7L8 1.6Z" stroke="currentColor" stroke-width=1.4 stroke-linejoin=round/></svg>'+
+      '판정 근거 전 과정 <span style="font-weight:400;color:var(--ink-3);font-size:11.5px">— 사람이 직접 검증하는 영역</span></h4>'+
+    '<p class=lead>AI 가 만든 값과 규칙이 만든 값을 <b>분리해서</b> 보여줍니다. '+
+      '아래 <b>근거 구간</b>을 계약서 원문(③번 카드)에서 찾아 눈으로 대조하시면, '+
+      'AI 가 지어낸 값인지 실제로 계약서에 있는 문장인지 확인할 수 있습니다.</p>'+
+    chain+
+    '<div class=vfy><svg width=14 height=14 viewBox="0 0 16 16" fill=none style="flex:none;margin-top:2px">'+
+      '<circle cx=8 cy=8 r=6.4 stroke="#0B5F49" stroke-width=1.4/><path d="m5.4 8.2 1.9 1.9 3.6-3.9" stroke="#0B5F49" stroke-width=1.6 stroke-linecap=round stroke-linejoin=round/></svg>'+
+      '<div><b>근거 구간 '+sc.with_evidence+'/'+sc.total+' 확보.</b> '+esc(sc.note)+'</div></div>'+
+
+    '<div class=astep><b><em>1</em>사람이 입력한 값 <span style="font-weight:400;text-transform:none">— AI 가 만들지 않았습니다</span></b>'+
+      '<table class=at>'+inRows+'</table></div>'+
+
+    '<div class=astep><b><em>2</em>AI 가 계약서에서 뽑은 사실 <span style="font-weight:400;text-transform:none">— 근거 구간을 원문과 대조하세요</span></b>'+
+      '<table class=at><tr><th>항목</th><th>추출값</th><th>계약서 원문 근거 (LLM 이 복사한 구간)</th></tr>'+exRows+'</table></div>'+
+
+    '<div class=astep><b><em>3</em>신호 산출 <span style="font-weight:400;text-transform:none">— 규칙 코드가 계산합니다. LLM 관여 없음</span></b>'+
+      '<table class=at><tr><th>ID</th><th>강도</th><th>무엇을 보는가 · 실제 값</th></tr>'+sgRows+'</table></div>'+
+
+    '<div class=astep><b><em>4</em>규칙 테이블 <span style="font-weight:400;text-transform:none">— 위에서부터 first-match. 왜 다른 규칙이 아닌지도 보입니다</span></b>'+
+      '<table class=at><tr><th>규칙</th><th>등급</th><th>발화 조건</th></tr>'+rlRows+'</table></div>'+
+
+    '<div class=hitl><b>담당자 확인 순서</b><ol>'+
+      '<li>②의 <b>근거 구간</b>을 계약서 원문에서 찾습니다 — 없으면 AI 가 지어낸 값입니다.</li>'+
+      '<li>③에서 발화한 신호의 <b>실제 값</b>이 ①·②와 맞는지 봅니다.</li>'+
+      '<li>④에서 적중 규칙 <b>위쪽</b> 규칙들이 왜 발화 안 했는지 확인합니다.</li>'+
+      '<li>어긋나는 칸이 하나라도 있으면 <b>승인하지 마시고</b> 원본 서류로 확인하세요.</li>'+
+    '</ol></div></div>';
+}
 
 async function refreshKey(){
   try{
