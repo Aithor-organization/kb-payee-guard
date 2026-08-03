@@ -56,6 +56,14 @@ PORT = int(os.environ.get("PORT", "8765"))
 _key_lock = threading.Lock()
 _session_key: str | None = None
 
+# ── 업로드된 계약서 ────────────────────────────────────────────────────────────
+#   🔴 키와 같은 정책 — **메모리에만** 둔다. 디스크에 쓰지 않는다.
+#      추출은 업로드 시 **1회만** 하고 결과를 캐시한다. 판정마다 LLM 을 다시 부르면
+#      비용과 지연이 판정 횟수에 비례해 늘어나는데, 계약서가 바뀌지 않았으니 의미가 없다.
+_doc_lock = threading.Lock()
+_session_doc: dict | None = None          # {"name","text","facts","origin"}
+MAX_DOC_BYTES = 400_000                   # 400KB — 계약서 한 건으로 충분하고 남는다
+
 
 def active_key() -> tuple[str | None, str]:
     """(키, 출처). 화면 입력이 환경변수보다 우선한다."""
@@ -94,8 +102,34 @@ _FALLBACK_FACTS = dict(
 )
 
 
+def extract_facts(text: str) -> tuple[ContractFacts, str]:
+    """임의 계약서 원문 → 사실. **API 키가 반드시 필요하다.**
+
+    목업 계약서에는 사람이 옮겨 적은 값(`_FALLBACK_FACTS`)이 있지만, 사용자가 올린
+    계약서에는 그런 것이 있을 수 없다. 키가 없으면 추출 자체가 불가능하므로
+    조용히 빈 사실로 넘어가지 않고 **명시적으로 실패**시킨다 —
+    빈 사실로 판정하면 전부 `UNKNOWN` 이 나오는데 그게 "판정했다"로 보이면 안 된다.
+    """
+    key, _ = active_key()
+    if not key:
+        raise RuntimeError("계약서를 읽으려면 OpenAI API 키가 필요합니다. 설정에서 등록하세요.")
+    prev = os.environ.get("OPENAI_API_KEY")
+    try:
+        os.environ["OPENAI_API_KEY"] = key
+        from kb_payee_guard.llm_extract import LLMExtractor
+        return LLMExtractor().extract(text), "LLM 추출 · gpt-4o-mini (업로드 계약서)"
+    finally:
+        if prev is None:
+            os.environ.pop("OPENAI_API_KEY", None)
+        else:
+            os.environ["OPENAI_API_KEY"] = prev
+
+
 def load_facts() -> tuple[ContractFacts, str]:
-    """계약서 → 사실. 키가 있으면 LLM 추출, 없으면 수동 라벨."""
+    """계약서 → 사실. 업로드본이 있으면 그것(추출 캐시), 없으면 목업."""
+    with _doc_lock:
+        if _session_doc:
+            return _session_doc["facts"], _session_doc["origin"]
     text = CONTRACT_PATH.read_text(encoding="utf-8")
     key, src = active_key()
     if key:
@@ -364,6 +398,35 @@ pre{background:var(--ink);color:#EDEAE4;padding:13px 15px;border-radius:var(--r-
 #doc{max-height:400px;overflow:auto;padding:16px 20px;margin:0;background:#FCFCFB;color:#3E3A34;
   font:11.5px/1.72 var(--mono);white-space:pre-wrap;font-variant-numeric:tabular-nums}
 
+/* UPLOAD */
+.up{display:grid;grid-template-columns:1fr 1fr;gap:9px;margin-bottom:14px}
+@media(max-width:640px){.up{grid-template-columns:1fr}}
+.up button{border:1px solid var(--line);background:var(--sf);border-radius:var(--r-s);padding:11px 13px;
+  cursor:pointer;text-align:left;min-height:44px;transition:background 150ms var(--ease),border-color 150ms var(--ease)}
+.up button:hover{background:var(--bg);border-color:#CFCBC4}
+.up button[aria-pressed=true]{border-color:var(--kb-d);background:rgba(255,188,0,.07)}
+.up b{display:block;font-size:13px;font-weight:700}
+.up span{font-size:11.5px;color:var(--ink-3)}
+#upBox{border:1px solid var(--line);border-radius:var(--r-s);padding:14px;background:var(--bg);margin-bottom:14px}
+#upBox[hidden]{display:none}
+textarea{width:100%;min-height:118px;padding:10px 11px;border:1px solid #CFCBC4;border-radius:var(--r-s);
+  font:12px/1.6 var(--mono);background:var(--sf);color:var(--ink);resize:vertical;
+  transition:border-color 150ms var(--ease)}
+textarea:focus{outline:2px solid var(--kb-d);outline-offset:2px;border-color:var(--kb-d)}
+.uprow{display:flex;gap:9px;align-items:center;margin-top:10px;flex-wrap:wrap}
+.uprow .btn-p{min-height:38px;padding:0 16px;font-size:13.5px}
+.fx{font-size:12px;color:var(--ink-3);cursor:pointer;text-decoration:underline;
+  text-underline-offset:3px;background:0;border:0;padding:6px 0}
+.dstat{display:flex;gap:9px;align-items:flex-start;padding:11px 13px;border:1px solid var(--line);
+  border-radius:var(--r-s);font-size:12.5px;line-height:1.6;margin-bottom:14px}
+.dstat.up-on{border-color:rgba(15,123,95,.34);background:rgba(15,123,95,.06)}
+.dstat .nm{font-weight:700;font-size:13px}
+.dstat .rm{margin-left:auto;flex:none}
+.fgrid{display:grid;grid-template-columns:auto 1fr;gap:4px 12px;margin-top:8px;font-size:12px}
+.fgrid dt{color:var(--ink-3);white-space:nowrap}
+.fgrid dd{margin:0;font-family:var(--mono);font-size:11.5px;word-break:break-all}
+.fgrid dd.miss{color:var(--warn)}
+
 /* SETTINGS */
 .ov{position:fixed;inset:0;background:rgba(28,26,22,.45);z-index:60;display:none;
   align-items:flex-start;justify-content:center;padding:70px 20px 20px;overflow:auto}
@@ -495,6 +558,37 @@ pre{background:var(--ink);color:#EDEAE4;padding:13px 15px;border-radius:var(--r-
   <h2>시나리오를 바꿔 가며 판정을 확인하세요</h2>
   <p class=sub>값은 직접 고쳐도 됩니다. 특히 <b>&ldquo;이 계좌 정보를 어디서 받으셨습니까&rdquo;</b>만
     이메일 → 수정 합의서로 바꾸면, 계좌번호가 같은데도 차단이 통과로 뒤집힙니다. 그게 판정 축입니다.</p>
+  <div class=card style="margin-bottom:20px">
+    <div class=hd><div class=n>0</div><h3>어떤 계약서로 판정할까요</h3>
+      <div class=p id=docName>목업 계약서</div></div>
+    <div class=bd>
+      <div class=up>
+        <button type=button id=useMock aria-pressed=true>
+          <b>목업 계약서로 보기</b><span>키 없이 즉시 · BAUER GmbH ↔ 한성정밀</span></button>
+        <button type=button id=useMine aria-pressed=false>
+          <b>내 계약서 올리기</b><span>실제 계약서로 추출부터 판정까지</span></button>
+      </div>
+      <div class=dstat id=dstat><svg width=15 height=15 viewBox="0 0 16 16" fill=none style="flex:none;margin-top:2px">
+          <path d="M9 1.6H4.2a1.2 1.2 0 0 0-1.2 1.2v10.4a1.2 1.2 0 0 0 1.2 1.2h7.6a1.2 1.2 0 0 0 1.2-1.2V5.6L9 1.6Z"
+            stroke="#7C7870" stroke-width=1.4 stroke-linejoin=round/>
+          <path d="M9 1.6v4h4" stroke="#7C7870" stroke-width=1.4 stroke-linejoin=round/></svg>
+        <div id=dstatT>목업 무역계약서로 판정합니다.</div>
+        <button class="btn-s rm" id=clearDoc hidden>목업으로 되돌리기</button></div>
+      <div id=upBox hidden>
+        <label style="display:block;font-size:12px;font-weight:600;color:var(--ink-2);margin-bottom:6px">
+          계약서 전문을 붙여 넣거나 <button class=fx id=pickFile>.txt 파일 선택</button>
+          <input type=file id=fileIn accept=".txt,.md,text/plain" hidden></label>
+        <textarea id=docText placeholder="INTERNATIONAL SALES CONTRACT&#10;&#10;1. PARTIES ...&#10;&#10;12. NOTICES ...&#10;&#10;14. AMENDMENT ..." spellcheck=false></textarea>
+        <div class=uprow>
+          <button class=btn-p id=upGo>이 계약서로 판정하기</button>
+          <span style="font-size:11.5px;color:var(--ink-3)">
+            OpenAI 키 필요 · 1회 추출 후 캐시 · 원문은 메모리에만</span>
+        </div>
+        <div class=err id=upErr></div>
+      </div>
+    </div>
+  </div>
+
   <div class=grid>
     <div class=card>
       <div class=hd><div class=n>1</div><h3>송금 신청 정보</h3></div>
@@ -643,8 +737,65 @@ $('saveKey').onclick=async()=>{
 };
 $('clearKey').onclick=async()=>{await fetch('/settings/key',{method:'DELETE'});await refreshKey();};
 
+/* 계약서 업로드 */
+const upBox=$('upBox');
+function setTab(mine){
+  $('useMock').setAttribute('aria-pressed', String(!mine));
+  $('useMine').setAttribute('aria-pressed', String(mine));
+  upBox.hidden=!mine;
+}
+$('useMock').onclick=()=>setTab(false);
+$('useMine').onclick=()=>{setTab(true);$('docText').focus();};
+$('pickFile').onclick=e=>{e.preventDefault();$('fileIn').click();};
+$('fileIn').onchange=e=>{
+  const f=e.target.files[0]; if(!f) return;
+  const r=new FileReader();
+  r.onload=()=>{$('docText').value=r.result; $('docText').dataset.name=f.name;};
+  r.readAsText(f,'utf-8');
+};
+
+async function loadDoc(){
+  try{
+    const d=await(await fetch('/doc')).json();
+    $('docName').textContent = d.loaded ? d.name : '목업 계약서';
+    $('dstat').className='dstat'+(d.loaded?' up-on':'');
+    $('clearDoc').hidden=!d.loaded;
+    if(d.loaded){
+      const f=d.facts||{};
+      const row=(k,v)=>'<dt>'+k+'</dt><dd'+(v?'':' class=miss')+'>'+esc(v??'추출 실패 — 판정이 UNKNOWN 이 됩니다')+'</dd>';
+      $('dstatT').innerHTML='<span class=nm>'+esc(d.name)+'</span>'+
+        '<span style="color:var(--ink-3)">'+d.chars.toLocaleString()+'자 · 추출된 사실로 판정합니다</span>'+
+        '<dl class=fgrid>'+row('상대방',f['상대방'])+row('소재국',f['소재국'])+
+        row('결제조건',f['결제조건'])+row('변경에 서면 요구',
+          f['변경에 서면 요구']===true?'예 (§Amendment 있음)':(f['변경에 서면 요구']===false?'아니오':null))+'</dl>';
+      setTab(true);
+    }else{
+      $('dstatT').textContent='목업 무역계약서로 판정합니다. 내 계약서를 올리면 그것으로 바뀝니다.';
+    }
+  }catch(e){}
+  fetch('/doc/text').then(r=>r.text()).then(t=>$('doc').textContent=t);
+}
+
+$('upGo').onclick=async()=>{
+  const text=$('docText').value.trim(); $('upErr').textContent='';
+  if(text.length<200){$('upErr').textContent='계약서 전문을 붙여 넣으세요 (200자 이상).';return;}
+  const btn=$('upGo'); btn.disabled=true; btn.textContent='추출 중… (10~20초)';
+  try{
+    const r=await(await fetch('/doc',{method:'POST',headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({text,name:$('docText').dataset.name||'업로드한 계약서'})})).json();
+    if(r.error){$('upErr').textContent=r.error;return;}
+    await loadDoc();
+    $('out').innerHTML='<div class=ph>계약서가 바뀌었습니다.<br><b>송금 심사 실행</b>을 다시 눌러 주세요.</div>';
+  }catch(e){$('upErr').textContent='업로드 실패: '+String(e);}
+  finally{btn.disabled=false; btn.textContent='이 계약서로 판정하기';}
+};
+$('clearDoc').onclick=async()=>{
+  await fetch('/doc',{method:'DELETE'}); $('docText').value=''; delete $('docText').dataset.name;
+  setTab(false); await loadDoc();
+};
+
 refreshKey();
-fetch('/contract').then(r=>r.text()).then(t=>$('doc').textContent=t);
+loadDoc();
 </script>
 </html>"""
 
@@ -665,6 +816,21 @@ class Handler(BaseHTTPRequestHandler):
         n = int(self.headers.get("Content-Length") or 0)
         return json.loads(self.rfile.read(n) or b"{}")
 
+    def _doc_status(self) -> dict:
+        with _doc_lock:
+            if not _session_doc:
+                return {"loaded": False, "source": "mock",
+                        "name": "목업 무역계약서 (BAUER GmbH ↔ 한성정밀)"}
+            d = _session_doc
+            f = d["facts"]
+            return {"loaded": True, "source": "upload", "name": d["name"],
+                    "chars": len(d["text"]),
+                    "facts": {"상대방": f.counterparty_name, "소재국": f.counterparty_country,
+                              "결제조건": f.payment_terms.value if f.payment_terms else None,
+                              "통지 경로": f.notice_channel_types,
+                              "변경에 서면 요구": f.amendment_clause_requires_written,
+                              "§Amendment 조항": (f.amendment_clause or "")[:200] or None}}
+
     def do_GET(self) -> None:                                        # noqa: N802
         if self.path in ("/", "/index.html"):
             page = PAGE.replace("__SCENARIOS__", json.dumps(SCENARIOS, ensure_ascii=False))
@@ -673,6 +839,13 @@ class Handler(BaseHTTPRequestHandler):
             self._send(200, CONTRACT_PATH.read_bytes(), "text/plain; charset=utf-8")
         elif self.path == "/settings/key":
             self._json(key_status())                       # 🔴 마스킹된 값만 나간다
+        elif self.path == "/doc":
+            self._json(self._doc_status())
+        elif self.path == "/doc/text":
+            with _doc_lock:
+                body = (_session_doc["text"] if _session_doc
+                        else CONTRACT_PATH.read_text(encoding="utf-8")).encode("utf-8")
+            self._send(200, body, "text/plain; charset=utf-8")
         else:
             self._send(404, b"not found", "text/plain")
 
@@ -693,6 +866,33 @@ class Handler(BaseHTTPRequestHandler):
             self._json(key_status())
             return
 
+        if self.path == "/doc":
+            global _session_doc
+            try:
+                b = self._body()
+                text = (b.get("text") or "").strip()
+                name = (b.get("name") or "업로드한 계약서").strip()[:80]
+            except Exception:                                        # noqa: BLE001
+                self._json({"error": "요청을 읽지 못했습니다."}, 400); return
+            if len(text) < 200:
+                self._json({"error": "계약서가 너무 짧습니다 (200자 이상 필요). "
+                                     "PDF 라면 텍스트를 복사해 붙여 넣으세요."}, 400); return
+            if len(text.encode("utf-8")) > MAX_DOC_BYTES:
+                self._json({"error": f"파일이 너무 큽니다 (최대 {MAX_DOC_BYTES // 1000}KB)."}, 400)
+                return
+            try:
+                facts, origin = extract_facts(text)
+            except Exception as exc:                                 # noqa: BLE001
+                # 🔴 키가 섞여 나갈 수 있으므로 RuntimeError(우리가 만든 안내문)만 그대로,
+                #    그 외 예외는 타입 이름만 노출한다.
+                msg = str(exc) if isinstance(exc, RuntimeError) else \
+                      f"추출에 실패했습니다 ({type(exc).__name__})."
+                self._json({"error": msg}, 400); return
+            with _doc_lock:
+                _session_doc = {"name": name, "text": text, "facts": facts, "origin": origin}
+            print(f"  계약서 업로드됨: {name} ({len(text):,}자, 메모리 보관)")
+            self._json(self._doc_status()); return
+
         if self.path != "/judge":
             self._send(404, b"not found", "text/plain")
             return
@@ -703,7 +903,11 @@ class Handler(BaseHTTPRequestHandler):
         self._json(result)
 
     def do_DELETE(self) -> None:                                     # noqa: N802
-        global _session_key
+        global _session_key, _session_doc
+        if self.path == "/doc":
+            with _doc_lock:
+                _session_doc = None
+            self._json(self._doc_status()); return
         if self.path == "/settings/key":
             with _key_lock:
                 _session_key = None
