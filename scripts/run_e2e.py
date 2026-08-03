@@ -36,7 +36,8 @@ from kb_payee_guard.extract import RegexExtractor  # noqa: E402
 from kb_payee_guard.models import ContractFacts, PaymentTerms, Verdict  # noqa: E402
 
 GOLD = ROOT / "data" / "contracts" / "_gold.json"
-OUT = ROOT / "data" / "contracts" / "_e2e_result.json"
+# 🔴 미사용 — 결과 경로는 result_out()/holdout_out() 이 (코퍼스 × 추출기)별로 만든다.
+#    이 상수를 되살리면 2026-08-02 의 덮어쓰기 사고가 재발한다.
 CONTRACTS = ROOT / "data" / "contracts"
 
 

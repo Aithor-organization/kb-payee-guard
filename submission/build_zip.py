@@ -73,8 +73,11 @@ def main() -> int:
     # 3. 평가 재현용 데이터 — 라이선스 확인된 산출물만 (원문 코퍼스는 넣지 않는다)
     dc = proto / "data" / "contracts"
     dc.mkdir(parents=True)
-    for f in ("MANIFEST.md", "_gold.json", "_baseline_result.json",
-              "_e2e_result.json", "_detect.json",
+    # 🔴 `_e2e_result.json` 은 2026-08-03 에 (코퍼스 × 추출기)별로 분리됐다.
+    #    옛 이름만 복사하면 ZIP 에서 E2E 원자료가 통째로 빠진다 — 실제로 그랬다.
+    for f in ("MANIFEST.md", "_gold.json", "_baseline_result.json", "_corpus_manifest.json",
+              "_e2e_result_gold.json", "_e2e_result_A.json", "_e2e_result_C.json",
+              "_e2e_holdout_A.json", "_e2e_holdout_C.json", "_detect.json",
               "detect_clauses.py", "detect_clauses_kr.py"):
         p = ROOT / "data" / "contracts" / f
         if p.is_file():
