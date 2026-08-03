@@ -452,9 +452,16 @@ h2{margin:0 0 14px;font-size:29px;line-height:1.34;letter-spacing:-.026em;font-w
    `min-height:0` 이 없으면 flex 자식이 내용만큼 부풀어 스크롤이 안 생긴다. */
 .grid>.card{display:flex;flex-direction:column}
 .grid>.card>.bd{flex:1 1 auto;min-height:0}
+/* 계약서 카드가 **행 높이를 밀어 올리면 안 된다** — 기준은 폼 카드다.
+   `flex:1 1 auto` 는 flex-basis 가 내용 높이라 6천 자 원문이 그대로 높이가 되고,
+   align-items:stretch 가 그 높이를 폼에도 강제해 **폼이 늘어난다**(직전 구현의 실수).
+   래퍼를 `flex-basis:0` 으로 두고 원문을 absolute 로 띄우면 내용이 흐름에서 빠져
+   카드의 고유 높이는 헤더뿐이 된다 → 행 높이는 폼이 정하고, 원문은 그 안에서 스크롤. */
+.docbody{position:relative;flex:1 1 0;min-height:0}
 @media(max-width:940px){.grid{grid-template-columns:minmax(0,1fr)}
-  .grid>.card{display:block}   /* 1단에서는 높이 맞출 상대가 없다 */
-  #doc{max-height:420px}}
+  .grid>.card{display:block}       /* 1단에서는 높이 맞출 상대가 없다 */
+  .docbody{position:static}
+  #doc{position:static;max-height:420px}}
 .card{background:var(--sf);border:1px solid var(--line);border-radius:var(--r);overflow:hidden}
 .hd{padding:15px 20px;border-bottom:1px solid var(--line-2);display:flex;align-items:center;gap:9px}
 .hd h3{margin:0;font-size:13.5px;font-weight:700}
@@ -507,7 +514,7 @@ summary::before{content:"▸ ";color:#B4AFA6}
 details[open] summary::before{content:"▾ "}
 pre{background:var(--ink);color:#EDEAE4;padding:13px 15px;border-radius:var(--r-s);overflow:auto;margin:9px 0 0;
   font:11.5px/1.65 var(--mono);white-space:pre-wrap;word-break:break-all}
-#doc{flex:1 1 auto;min-height:280px;overflow-y:auto;overscroll-behavior:contain;
+#doc{position:absolute;inset:0;overflow-y:auto;overscroll-behavior:contain;
   padding:16px 20px;margin:0;background:#FCFCFB;color:#3E3A34;
   font:11.5px/1.72 var(--mono);white-space:pre-wrap;font-variant-numeric:tabular-nums}
 
@@ -791,7 +798,7 @@ textarea:focus{outline:2px solid var(--kb-d);outline-offset:2px;border-color:var
     <div class=card>
       <div class=hd><div class=n>2</div><h3>게이트가 대조한 계약서</h3>
         <div class=p id=docPath>data/demo/mock_contract.txt</div></div>
-      <pre id=doc>불러오는 중…</pre>
+      <div class=docbody><pre id=doc>불러오는 중…</pre></div>
     </div>
   </div>
 
