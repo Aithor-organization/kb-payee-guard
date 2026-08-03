@@ -446,8 +446,15 @@ h2{margin:0 0 14px;font-size:29px;line-height:1.34;letter-spacing:-.026em;font-w
 .note{margin-top:16px;font-size:12.5px;color:var(--ink-3);line-height:1.75;max-width:78ch}
 
 /* DEMO */
-.grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:20px;align-items:start}
-@media(max-width:940px){.grid{grid-template-columns:minmax(0,1fr)}}
+.grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:20px;align-items:stretch}
+/* 계약서 카드가 폼 카드와 **같은 높이**를 갖고, 남는 공간을 원문이 채운 뒤 스크롤한다.
+   card 를 flex column 으로 만들어야 원문 블록이 헤더를 뺀 나머지를 정확히 차지한다.
+   `min-height:0` 이 없으면 flex 자식이 내용만큼 부풀어 스크롤이 안 생긴다. */
+.grid>.card{display:flex;flex-direction:column}
+.grid>.card>.bd{flex:1 1 auto;min-height:0}
+@media(max-width:940px){.grid{grid-template-columns:minmax(0,1fr)}
+  .grid>.card{display:block}   /* 1단에서는 높이 맞출 상대가 없다 */
+  #doc{max-height:420px}}
 .card{background:var(--sf);border:1px solid var(--line);border-radius:var(--r);overflow:hidden}
 .hd{padding:15px 20px;border-bottom:1px solid var(--line-2);display:flex;align-items:center;gap:9px}
 .hd h3{margin:0;font-size:13.5px;font-weight:700}
@@ -500,7 +507,8 @@ summary::before{content:"▸ ";color:#B4AFA6}
 details[open] summary::before{content:"▾ "}
 pre{background:var(--ink);color:#EDEAE4;padding:13px 15px;border-radius:var(--r-s);overflow:auto;margin:9px 0 0;
   font:11.5px/1.65 var(--mono);white-space:pre-wrap;word-break:break-all}
-#doc{max-height:620px;overflow:auto;padding:16px 20px;margin:0;background:#FCFCFB;color:#3E3A34;
+#doc{flex:1 1 auto;min-height:280px;overflow-y:auto;overscroll-behavior:contain;
+  padding:16px 20px;margin:0;background:#FCFCFB;color:#3E3A34;
   font:11.5px/1.72 var(--mono);white-space:pre-wrap;font-variant-numeric:tabular-nums}
 
 /* UPLOAD */
@@ -534,6 +542,8 @@ textarea:focus{outline:2px solid var(--kb-d);outline-offset:2px;border-color:var
 
 /* 결과 카드 — 전폭 · 높이 제한 · 판정 배너는 스크롤해도 보이게 고정 */
 #outWrap{max-height:600px;overflow-y:auto;overscroll-behavior:contain;padding-top:0}
+#doc::-webkit-scrollbar{width:10px}
+#doc::-webkit-scrollbar-thumb{background:#D8D4CD;border-radius:9px;border:3px solid #FCFCFB}
 #outWrap::-webkit-scrollbar{width:10px}
 #outWrap::-webkit-scrollbar-thumb{background:#D8D4CD;border-radius:9px;border:3px solid var(--sf)}
 #outWrap::-webkit-scrollbar-thumb:hover{background:#C5C0B8}
@@ -542,7 +552,6 @@ textarea:focus{outline:2px solid var(--kb-d);outline-offset:2px;border-color:var
 @media(min-width:1000px){
   .aud .cols{display:grid;grid-template-columns:1fr 1fr;gap:14px;align-items:start}
 }
-#doc{max-height:none}
 .card>#doc{border-top:0}
 
 /* AUDIT — HITL 검증 */
