@@ -1,12 +1,12 @@
 #!/usr/bin/env python3.12
-"""브라우저에서 게이트를 직접 눌러 보는 **로컬 데모 서버** (stdlib only).
+"""브라우저에서 게이트를 직접 눌러 보는 **로컬 데모 사이트** (stdlib only).
 
     python3.12 scripts/demo_server.py      →  http://127.0.0.1:8765
 
 ## 이게 무엇이고 무엇이 아닌가
 
 🔴 **은행 연동도, 프로덕션 REST API 도 아니다.** 판정 엔진(`rules.evaluate`)을 손으로
-눌러 볼 수 있게 감싼 **로컬 확인용 화면**이다. 인증·영속·감사원장·동시성 처리가 없고
+눌러 볼 수 있게 감싼 **로컬 확인용 사이트**다. 인증·영속·감사원장·동시성 처리가 없고
 127.0.0.1 에만 바인딩한다. README 의 "REST API·송금 신청 화면 미구현(P7)" 은 그대로다.
 
 ## 왜 stdlib 만 쓰나
@@ -14,11 +14,18 @@
 코어가 `pip install` 없이 도는 것이 이 저장소의 전제다(README §직접 돌려보기).
 데모 하나 때문에 Flask 를 끌어오면 그 전제가 깨진다. `http.server` 로 충분하다.
 
+## API 키를 화면에서 받는다 — 다루는 방식
+
+`설정`에서 사용자가 OpenAI 키를 넣으면 그 키로 계약서 추출이 돈다.
+🔴 **메모리에만 둔다**: 파일·로그·응답 어디에도 원문을 쓰지 않는다. 상태 조회는
+`sk-…` + 뒤 4자만 돌려주고, 프로세스를 끄면 사라진다. 지우기 버튼도 둔다.
+`.env`/환경변수의 키가 이미 있으면 그것을 쓰고, 화면 입력이 그보다 우선한다.
+
 ## 계약서는 어디서 오나
 
-`data/demo/mock_contract.txt` (목업 무역계약서). **API 키가 있으면** 이 원문을 LLM 추출기에
+`data/demo/mock_contract.txt` (목업 무역계약서). **키가 있으면** 이 원문을 LLM 추출기에
 넣어 사실을 뽑고, **없으면** 같은 계약서를 사람이 읽고 옮겨 적은 값(`_FALLBACK_FACTS`)을 쓴다.
-→ 키가 없어도 화면은 완전히 동작하며, 어느 경로를 썼는지 응답에 표시한다.
+→ 키가 없어도 사이트는 완전히 동작하며, 어느 경로를 썼는지 매 판정마다 화면에 표시한다.
 """
 
 from __future__ import annotations
@@ -27,6 +34,7 @@ import json
 import os
 import pathlib
 import sys
+import threading
 import traceback
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 
@@ -41,6 +49,33 @@ from kb_payee_guard.models import (                                  # noqa: E40
 
 CONTRACT_PATH = ROOT / "data" / "demo" / "mock_contract.txt"
 PORT = int(os.environ.get("PORT", "8765"))
+
+# ── API 키 보관 ────────────────────────────────────────────────────────────────
+#   🔴 프로세스 메모리에만 둔다. 디스크·로그·응답 본문 어디에도 원문이 나가지 않는다.
+#      ThreadingHTTPServer 라 여러 요청이 동시에 읽고 쓸 수 있어 Lock 을 건다.
+_key_lock = threading.Lock()
+_session_key: str | None = None
+
+
+def active_key() -> tuple[str | None, str]:
+    """(키, 출처). 화면 입력이 환경변수보다 우선한다."""
+    with _key_lock:
+        if _session_key:
+            return _session_key, "session"
+    env = os.environ.get("OPENAI_API_KEY")
+    return (env, "env") if env else (None, "none")
+
+
+def mask(k: str) -> str:
+    """`sk-…a1b2` — 앞 3자와 뒤 4자만. 나머지는 절대 밖으로 내보내지 않는다."""
+    return f"{k[:3]}…{k[-4:]}" if len(k) > 10 else "sk-…"
+
+
+def key_status() -> dict:
+    k, src = active_key()
+    return {"present": bool(k), "masked": mask(k) if k else None, "source": src,
+            "mode": "LLM 추출" if k else "수동 라벨"}
+
 
 # 목업 계약서를 사람이 읽고 옮겨 적은 사실 — 키 없이 돌릴 때 쓴다.
 # 🔴 이 값들은 LLM 이 뽑은 것이 아니라 **손으로 라벨링한 것**이다. 화면에 그렇게 표시한다.
@@ -62,17 +97,28 @@ _FALLBACK_FACTS = dict(
 def load_facts() -> tuple[ContractFacts, str]:
     """계약서 → 사실. 키가 있으면 LLM 추출, 없으면 수동 라벨."""
     text = CONTRACT_PATH.read_text(encoding="utf-8")
-    if os.environ.get("OPENAI_API_KEY"):
+    key, src = active_key()
+    if key:
+        prev = os.environ.get("OPENAI_API_KEY")
         try:
+            os.environ["OPENAI_API_KEY"] = key
             from kb_payee_guard.llm_extract import LLMExtractor
-            return LLMExtractor().extract(text), "LLM 추출 (gpt-4o-mini)"
+            where = "설정에 입력한 키" if src == "session" else "환경변수 키"
+            return LLMExtractor().extract(text), f"LLM 추출 · gpt-4o-mini ({where})"
         except Exception as exc:                                   # noqa: BLE001
-            print(f"  ⚠️  LLM 추출 실패 → 수동 라벨로 대체: {type(exc).__name__}: {exc}")
-    return ContractFacts(**_FALLBACK_FACTS), "수동 라벨 (키 없음 — 추출기 미사용)"
+            # 🔴 예외 문자열에 키가 섞여 나갈 수 있으므로 **타입 이름만** 남긴다.
+            print(f"  LLM 추출 실패 → 수동 라벨로 대체: {type(exc).__name__}")
+            return (ContractFacts(**_FALLBACK_FACTS),
+                    f"수동 라벨 (LLM 추출 실패: {type(exc).__name__})")
+        finally:
+            if prev is None:
+                os.environ.pop("OPENAI_API_KEY", None)
+            else:
+                os.environ["OPENAI_API_KEY"] = prev
+    return ContractFacts(**_FALLBACK_FACTS), "수동 라벨 (API 키 없음 — 추출기 미사용)"
 
 
 # ── 시나리오 프리셋 ────────────────────────────────────────────────────────────
-#   화면의 "시나리오" 버튼이 폼을 이 값으로 채운다. 직접 고쳐서 눌러도 된다.
 SCENARIOS = {
     "normal": {
         "label": "계약서대로 송금", "risk": "normal",
@@ -89,8 +135,8 @@ SCENARIOS = {
                      source="AMENDMENT", channel_detail="", sender="", in_reply_to=""),
     },
     "bec_swap": {
-        "label": "같은 나라, 계좌만 교체 (최빈 BEC)", "risk": "attack",
-        "desc": "국가·이름·결제조건 전부 그대로. 이메일 한 통으로 계좌만 바꿔 달라고 한다.",
+        "label": "같은 나라, 계좌만 교체", "risk": "attack",
+        "desc": "국가·이름·결제조건 전부 그대로. 이메일 한 통으로 계좌만 바꿔 달라고 한다. 가장 흔한 형태다.",
         "form": dict(account="DE12500105170648489890", bic="INGDDEFF",
                      amount="184500", currency="EUR", remittance_type="LC",
                      source="EMAIL", channel_detail="ap@bauer-gmbh.co",
@@ -98,15 +144,15 @@ SCENARIOS = {
     },
     "bec_hop": {
         "label": "제3국 계좌 + 결제조건 변경", "risk": "attack",
-        "desc": "독일 회사인데 리투아니아 계좌, L/C 였는데 T/T 로. 금감원 지시 항목에 해당.",
+        "desc": "독일 회사인데 리투아니아 계좌, L/C 였는데 T/T 로. 금감원 지시 항목에 해당한다.",
         "form": dict(account="LT121000011101001047", bic="REVOLT21",
                      amount="184500", currency="EUR", remittance_type="TT",
                      source="EMAIL", channel_detail="ap@bauer-gmbh.co",
                      sender="ap@bauer-gmbh.co", in_reply_to=""),
     },
     "forged": {
-        "label": "위조 수정합의서 (알려진 미탐)", "risk": "gap",
-        "desc": "가짜 수정합의서를 만들어 절차를 지킨 것처럼 꾸민다. 이 게이트는 못 막는다.",
+        "label": "위조 수정합의서", "risk": "gap",
+        "desc": "가짜 수정합의서로 절차를 지킨 것처럼 꾸민다. 이 게이트는 못 막는다 — 알려진 사각지대다.",
         "form": dict(account="DE12500105170648489890", bic="INGDDEFF",
                      amount="184500", currency="EUR", remittance_type="LC",
                      source="AMENDMENT", channel_detail="", sender="", in_reply_to=""),
@@ -115,9 +161,7 @@ SCENARIOS = {
 
 
 def judge(form: dict) -> dict:
-    """폼 입력 → 판정. 실패해도 500 대신 사유를 돌려준다."""
     facts, origin = load_facts()
-    instr_src = InstructionSource[form.get("source", "EMAIL")]
     req = RemittanceRequest(
         case_id=form.get("case_id") or "DEMO-0001",
         payee_name=facts.counterparty_name or "BAUER Maschinenbau GmbH",
@@ -125,294 +169,484 @@ def judge(form: dict) -> dict:
         amount=Money(float(form.get("amount") or 0), form.get("currency") or "EUR"),
         remittance_type=PaymentTerms[form.get("remittance_type", "TT")],
         account_instruction=AccountInstruction(
-            source=instr_src, channel_detail=form.get("channel_detail") or None),
+            source=InstructionSource[form.get("source", "EMAIL")],
+            channel_detail=form.get("channel_detail") or None),
         has_contract=True,
         change_request_sender=form.get("sender") or None,
         change_request_in_reply_to=form.get("in_reply_to") or None,
     )
     d = rules.evaluate(facts, req)
     return {
-        "verdict": d.verdict.value,
-        "rule": d.rule_id,
-        "reasons": list(d.reasons()),
+        "verdict": d.verdict.value, "rule": d.rule_id, "reasons": list(d.reasons()),
         "signals": [f"{h.signal_id} {h.name} ({h.severity.name})" for h in d.hits],
         "facts_origin": origin,
-        "facts": {
-            "상대방": facts.counterparty_name, "소재국": facts.counterparty_country,
-            "결제조건": facts.payment_terms.value if facts.payment_terms else None,
-            "통지 경로": facts.notice_channel_types,
-            "변경에 서면 요구": facts.amendment_clause_requires_written,
-        },
+        "facts": {"상대방": facts.counterparty_name, "소재국": facts.counterparty_country,
+                  "결제조건": facts.payment_terms.value if facts.payment_terms else None,
+                  "통지 경로": facts.notice_channel_types,
+                  "변경에 서면 요구": facts.amendment_clause_requires_written},
     }
 
 
 # ── 화면 ──────────────────────────────────────────────────────────────────────
-# ── 화면 ──────────────────────────────────────────────────────────────────────
 #
-#  KB 노란색(#FFBC00)은 **강조 3곳에만** — 상단 마크 · 주 버튼 · 핵심 입력의 좌측 바.
-#  판정 결과에는 절대 쓰지 않는다: 브랜드색과 상태색이 섞이면 위험 신호가 죽는다.
-#  🔴 아이콘은 전부 **인라인 SVG**다 — 이모지는 OS 마다 모양이 달라 금융 UI 에서 신뢰를 깎는다.
-#  외부 리소스 0(폰트·아이콘·스크립트 전부 인라인) — 오프라인·폐쇄망에서도 그대로 뜬다.
+#  디자인 근거는 impeccable-design-system + AI-research-SKILLs 감사 결과를 따른다:
+#   · KB 노란색은 **강조에만** — 마크·주 버튼·핵심 입력·hero 하이라이트.
+#     판정 결과에는 쓰지 않는다 (브랜드색이 상태색과 섞이면 위험 신호가 죽는다).
+#   · 그림자 0 — 깊이는 1px 보더로 (Revolut "ZERO shadows" · Wise "ring only" 계열).
+#   · 컬러 border-left 는 1px 까지 (craft-floor Refuse: "1px 초과 금지").
+#   · 금융 숫자는 tabular numeral (stripe DESIGN.md §3 `tnum`).
+#   · 배지는 bg 색상 ~9% / border ~34% / 진한 텍스트 (stripe §4 공식).
+#   · focus 는 outline 2px + offset 2px, `transition: all` 금지, reduced-motion 대체 경로.
+#   · 아이콘은 전부 인라인 SVG — 이모지는 OS 마다 모양이 달라 금융 UI 의 신뢰를 깎는다.
+#   · 외부 리소스 0(폰트·아이콘·스크립트 전부 인라인) — 폐쇄망에서도 그대로 뜬다.
 PAGE = """<!doctype html><html lang=ko><meta charset=utf-8>
-<title>KB Payee Guard — 해외송금 수취인 검증</title>
+<title>KB Payee Guard — 계약서로 검증하는 해외송금 게이트</title>
 <meta name=viewport content="width=device-width,initial-scale=1">
 <style>
-/* ── 토큰 ────────────────────────────────────────────────────────────────────
-   KB 노란색은 **강조에만** 쓴다 — 상단 바 · 주 버튼 · 활성 탭 3곳.
-   판정 결과에는 절대 쓰지 않는다(브랜드색과 상태색이 섞이면 위험 신호가 죽는다).   */
 :root{
-  --kb-yellow:#FFBC00; --kb-yellow-d:#F0A800; --kb-gray:#60584C;
+  --kb:#FFBC00; --kb-d:#F0A800;
   --ink:#1C1A16; --ink-2:#4C4941; --ink-3:#7C7870;
-  --bg:#F5F4F2; --surface:#FFF; --line:#E5E2DD; --line-2:#F0EEEA;
-  --danger:#D6323C; --danger-bg:#FDF2F3; --danger-line:#F3C9CD;
-  --warn:#B87400;   --warn-bg:#FFF8EC;   --warn-line:#F2DDB4;
-  --hold:#5B6169;   --hold-bg:#F4F5F7;   --hold-line:#DDE1E6;
-  --safe:#0F7B5F;   --safe-bg:#F0F8F5;   --safe-line:#BFE0D4;
+  --bg:#F5F4F2; --sf:#FFF; --line:#E5E2DD; --line-2:#F0EEEA;
+  --danger:#A81E28; --warn:#8A5600; --hold:#454B53; --safe:#0B5F49;
   --r:10px; --r-s:7px; --ease:cubic-bezier(.23,1,.32,1);
   --mono:ui-monospace,SFMono-Regular,"SF Mono",Menlo,monospace;
 }
 *{box-sizing:border-box}
-html{-webkit-text-size-adjust:100%}
-body{margin:0;background:var(--bg);color:var(--ink);
-  font:15px/1.6 -apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth}
+body{margin:0;background:var(--sf);color:var(--ink);
+  font:15px/1.65 -apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;
   -webkit-font-smoothing:antialiased}
+@media(prefers-reduced-motion:reduce){*{transition:none!important}html{scroll-behavior:auto}}
+.in{max-width:1160px;margin:0 auto;padding:0 24px}
+code{font-family:var(--mono);font-size:.92em}
 
-/* ── 상단 바 ── */
-.gnb{background:var(--surface);border-bottom:1px solid var(--line)}
-.gnb-in{max-width:1240px;margin:0 auto;padding:0 24px;height:60px;display:flex;align-items:center;gap:13px}
-.mark{width:30px;height:30px;border-radius:8px;background:var(--kb-yellow);
-  display:grid;place-items:center;flex:none}
-.brand{font-size:16.5px;font-weight:700;letter-spacing:-.01em}
-.brand span{color:var(--ink-3);font-weight:500}
-.tag{margin-left:auto;font-size:11.5px;color:var(--ink-3);border:1px solid var(--line);
-  padding:4px 9px;border-radius:20px;letter-spacing:.02em}
+/* GNB */
+.gnb{position:sticky;top:0;z-index:40;background:rgba(255,255,255,.95);
+  border-bottom:1px solid var(--line)}
+.gnb .in{height:60px;display:flex;align-items:center;gap:12px}
+.mk{width:30px;height:30px;border-radius:8px;background:var(--kb);display:grid;place-items:center;flex:none}
+.bn{font-size:16px;font-weight:700;letter-spacing:-.015em;white-space:nowrap}
+nav{margin-left:26px;display:flex;gap:3px}
+nav a{padding:7px 11px;border-radius:6px;font-size:13.5px;color:var(--ink-2);text-decoration:none;
+  transition:background 150ms var(--ease),color 150ms var(--ease)}
+nav a:hover{background:var(--bg);color:var(--ink)}
+@media(max-width:860px){nav{display:none}}
+.rt{margin-left:auto;display:flex;align-items:center;gap:9px}
+.chip{display:flex;align-items:center;gap:6px;font-size:12px;color:var(--ink-2);
+  border:1px solid var(--line);border-radius:20px;padding:5px 11px}
+.chip .d{width:6px;height:6px;border-radius:50%;background:#B9BDC3;flex:none}
+.chip.on .d{background:var(--safe)}
+@media(max-width:520px){.chip{display:none}}
+button{font-family:inherit}
+.btn-s{border:1px solid var(--line);background:var(--sf);color:var(--ink-2);border-radius:var(--r-s);
+  padding:7px 13px;font:600 13px/1 inherit;cursor:pointer;min-height:34px;
+  transition:background 150ms var(--ease),border-color 150ms var(--ease)}
+.btn-s:hover{background:var(--bg);border-color:#CFCBC4}
+button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible{
+  outline:2px solid var(--kb-d);outline-offset:2px}
 
-/* ── 레이아웃 ── */
-.wrap{max-width:1240px;margin:0 auto;padding:24px 24px 72px}
-.notice{display:flex;gap:10px;background:var(--warn-bg);border:1px solid var(--warn-line);
-  border-radius:var(--r);padding:12px 15px;font-size:13px;color:#7A5200;margin-bottom:20px;line-height:1.55}
-.notice b{color:#6B4700}
+/* HERO */
+.hero{padding:76px 0 64px;border-bottom:1px solid var(--line);
+  background:radial-gradient(1100px 300px at 50% -140px,rgba(255,188,0,.13),transparent 70%)}
+.eyebrow{font-size:12.5px;font-weight:600;color:var(--warn);letter-spacing:.02em;margin-bottom:14px}
+h1{margin:0 0 20px;font-size:44px;line-height:1.2;letter-spacing:-.032em;font-weight:700;max-width:20ch}
+h1 em{font-style:normal;background:linear-gradient(transparent 62%,rgba(255,188,0,.45) 62%)}
+.lead{font-size:17px;line-height:1.72;color:var(--ink-2);max-width:62ch;margin:0 0 30px}
+.cta{display:flex;gap:10px;flex-wrap:wrap}
+.btn-p{background:var(--kb);color:#231A00;border:0;border-radius:var(--r-s);padding:0 22px;
+  min-height:46px;font:700 15px/1 inherit;cursor:pointer;display:inline-flex;align-items:center;gap:8px;
+  text-decoration:none;transition:background 150ms var(--ease)}
+.btn-p:hover{background:var(--kb-d)}
+.btn-o{border:1px solid #D6D2CB;background:var(--sf);color:var(--ink);border-radius:var(--r-s);
+  padding:0 20px;min-height:46px;font:600 15px/1 inherit;cursor:pointer;display:inline-flex;
+  align-items:center;text-decoration:none;transition:background 150ms var(--ease)}
+.btn-o:hover{background:var(--bg)}
+@media(max-width:640px){h1{font-size:31px}.hero{padding:52px 0 44px}}
+
+/* SECTION */
+section{padding:72px 0;border-bottom:1px solid var(--line)}
+section.alt{background:var(--bg)}
+.sh{font-size:12.5px;font-weight:700;color:var(--warn);letter-spacing:.05em;margin-bottom:11px}
+h2{margin:0 0 14px;font-size:29px;line-height:1.34;letter-spacing:-.026em;font-weight:700}
+.sub{font-size:15.5px;color:var(--ink-2);max-width:68ch;margin:0 0 32px;line-height:1.74}
+@media(max-width:640px){h2{font-size:24px}section{padding:52px 0}}
+
+.pr{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+@media(max-width:860px){.pr{grid-template-columns:1fr}}
+.pc{background:var(--sf);border:1px solid var(--line);border-radius:var(--r);padding:22px}
+.pc .n{font:700 27px/1 var(--mono);font-variant-numeric:tabular-nums;letter-spacing:-.02em;margin-bottom:9px}
+.pc h3{margin:0 0 7px;font-size:14.5px;font-weight:700}
+.pc p{margin:0;font-size:13.5px;color:var(--ink-2);line-height:1.68}
+
+.wrapx{overflow-x:auto}
+.tbl{width:100%;border-collapse:collapse;font-size:13.5px;background:var(--sf);
+  border:1px solid var(--line);border-radius:var(--r);overflow:hidden;min-width:640px}
+.tbl th{text-align:left;padding:11px 15px;font-size:12px;font-weight:700;color:var(--ink-3);
+  background:var(--bg);border-bottom:1px solid var(--line)}
+.tbl td{padding:12px 15px;border-bottom:1px solid var(--line-2);color:var(--ink-2);vertical-align:top}
+.tbl tr:last-child td{border-bottom:0}
+.tbl tr.us td{background:rgba(255,188,0,.07);color:var(--ink);font-weight:600}
+
+.flow{display:grid;grid-template-columns:1fr auto 1fr;gap:20px;align-items:center;
+  background:var(--sf);border:1px solid var(--line);border-radius:var(--r);padding:26px}
+@media(max-width:860px){.flow{grid-template-columns:1fr;gap:14px}.flow .ar{transform:rotate(90deg);justify-self:center}}
+.fb{border:1px solid var(--line);border-radius:var(--r-s);padding:16px 18px}
+.fb h4{margin:0 0 10px;font-size:12px;font-weight:700;color:var(--ink-3);letter-spacing:.03em}
+.fb dl{margin:0;display:grid;grid-template-columns:auto 1fr;gap:5px 13px;font-size:13px}
+.fb dt{color:var(--ink-3);white-space:nowrap}
+.fb dd{margin:0;font-family:var(--mono);font-size:12.5px;font-variant-numeric:tabular-nums}
+.q{margin-top:22px;padding:18px 20px;border:1px solid rgba(255,188,0,.5);background:rgba(255,188,0,.06);
+  border-radius:var(--r);font-size:16.5px;font-weight:700;letter-spacing:-.015em;text-align:center}
+
+.mt{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-bottom:22px}
+@media(max-width:860px){.mt{grid-template-columns:repeat(2,1fr)}}
+.mc{background:var(--sf);border:1px solid var(--line);border-radius:var(--r);padding:18px}
+.mc .v{font:700 25px/1.15 var(--mono);font-variant-numeric:tabular-nums;letter-spacing:-.025em}
+.mc .u{font-size:15px}
+.mc .k{font-size:12px;color:var(--ink-3);margin-top:7px;line-height:1.55}
+.note{margin-top:16px;font-size:12.5px;color:var(--ink-3);line-height:1.75;max-width:78ch}
+
+/* DEMO */
 .grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:20px;align-items:start}
 @media(max-width:940px){.grid{grid-template-columns:minmax(0,1fr)}}
-.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);overflow:hidden}
+.card{background:var(--sf);border:1px solid var(--line);border-radius:var(--r);overflow:hidden}
 .hd{padding:15px 20px;border-bottom:1px solid var(--line-2);display:flex;align-items:center;gap:9px}
-.hd h2{margin:0;font-size:13.5px;font-weight:700;letter-spacing:-.005em}
-.hd .n{width:19px;height:19px;border-radius:5px;background:var(--ink);color:#fff;font-size:11px;
-  font-weight:700;display:grid;place-items:center;flex:none}
+.hd h3{margin:0;font-size:13.5px;font-weight:700}
+.hd .n{width:19px;height:19px;border-radius:5px;background:var(--ink);color:#fff;font:700 11px/1 inherit;
+  display:grid;place-items:center;flex:none}
+.hd .p{margin-left:auto;font:11px/1 var(--mono);color:var(--ink-3);background:var(--bg);padding:5px 9px;border-radius:5px}
 .bd{padding:18px 20px 20px}
-
-/* ── 시나리오 탭 ── */
 .sc{display:flex;flex-wrap:wrap;gap:6px}
 .sc button{display:flex;align-items:center;gap:6px;padding:7px 11px 7px 8px;font:500 12.5px/1 inherit;
-  border:1px solid var(--line);background:var(--surface);border-radius:18px;color:var(--ink-2);
-  cursor:pointer;min-height:34px;
-  transition:background 150ms var(--ease),border-color 150ms var(--ease),color 150ms var(--ease)}
-.sc button:hover{border-color:#C3C8CF;background:#FAFBFC}
-@media(prefers-reduced-motion:reduce){*{transition:none!important}}
+  border:1px solid var(--line);background:var(--sf);border-radius:18px;color:var(--ink-2);cursor:pointer;
+  min-height:34px;transition:background 150ms var(--ease),border-color 150ms var(--ease),color 150ms var(--ease)}
+.sc button:hover{border-color:#CFCBC4;background:var(--bg)}
 .sc button[aria-pressed=true]{background:var(--ink);border-color:var(--ink);color:#fff}
-.sc button[aria-pressed=true] .dot{opacity:.95}
 .dot{width:7px;height:7px;border-radius:50%;flex:none}
-.dot.normal{background:var(--safe)} .dot.attack{background:var(--danger)} .dot.gap{background:var(--warn)}
-.scd{font-size:12.5px;color:var(--ink-3);line-height:1.5;margin:11px 0 4px;min-height:38px}
-
-/* ── 폼 ── */
+.dot.normal{background:var(--safe)}.dot.attack{background:var(--danger)}.dot.gap{background:var(--warn)}
+.scd{font-size:12.5px;color:var(--ink-3);line-height:1.58;margin:11px 0 4px;min-height:38px}
 .f{margin-top:13px}
 .f>label{display:block;font-size:12px;font-weight:600;color:var(--ink-2);margin-bottom:5px}
 .f .help{font-weight:400;color:var(--ink-3)}
-input,select{width:100%;padding:9px 11px;border:1px solid #CFD4DA;border-radius:var(--r-s);
-  font:14px/1.4 inherit;background:var(--surface);color:var(--ink);
-  transition:border-color 150ms var(--ease)}
-input.mono{font-family:var(--mono);font-size:13.5px;letter-spacing:.01em;
-  font-variant-numeric:tabular-nums}
-input:focus-visible,select:focus-visible,button:focus-visible{
-  outline:2px solid var(--kb-yellow-d);outline-offset:2px}
-input:focus,select:focus{border-color:var(--kb-yellow-d)}
-select{appearance:none;background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='11' height='7'><path d='M1 1l4.5 4.5L10 1' stroke='%23797F87' stroke-width='1.6' fill='none' stroke-linecap='round'/></svg>");
+input,select{width:100%;padding:9px 11px;border:1px solid #CFCBC4;border-radius:var(--r-s);
+  font:14px/1.4 inherit;background:var(--sf);color:var(--ink);transition:border-color 150ms var(--ease)}
+input.mono{font-family:var(--mono);font-size:13.5px;font-variant-numeric:tabular-nums}
+input:focus,select:focus{border-color:var(--kb-d)}
+select{appearance:none;background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='11' height='7'><path d='M1 1l4.5 4.5L10 1' stroke='%237C7870' stroke-width='1.6' fill='none' stroke-linecap='round'/></svg>");
   background-repeat:no-repeat;background-position:right 11px center;padding-right:32px}
 .r2{display:grid;grid-template-columns:1fr 1fr;gap:11px}
-.key{border:1px solid rgba(255,188,0,.45);background:rgba(255,188,0,.055);
-  padding:12px 13px 13px;border-radius:var(--r-s);margin-top:18px}
-#go{width:100%;margin-top:20px;padding:13px;border:0;border-radius:var(--r-s);cursor:pointer;
-  background:var(--kb-yellow);color:#231A00;font:700 14.5px/1 inherit;letter-spacing:-.01em;
-  min-height:44px;transition:background 150ms var(--ease)}
-#go:hover{background:var(--kb-yellow-d)}
-#go:active{transform:translateY(1px)}
-
-/* ── 판정 ── */
-.ph{color:var(--ink-3);font-size:13px;padding:26px 4px;text-align:center;line-height:1.7}
+.key{border:1px solid rgba(255,188,0,.45);background:rgba(255,188,0,.055);padding:12px 13px 13px;
+  border-radius:var(--r-s);margin-top:18px}
+#go{width:100%;margin-top:20px;padding:13px;border:0;border-radius:var(--r-s);cursor:pointer;min-height:44px;
+  background:var(--kb);color:#231A00;font:700 14.5px/1 inherit;transition:background 150ms var(--ease)}
+#go:hover{background:var(--kb-d)}
+.ph{color:var(--ink-3);font-size:13px;padding:26px 4px;text-align:center;line-height:1.75}
 .vd{display:flex;gap:12px;padding:15px 16px;border-radius:var(--r);margin-bottom:15px;align-items:flex-start}
 .vd svg{flex:none;margin-top:1px}
 .vd .t{font-size:16.5px;font-weight:700;letter-spacing:-.015em;line-height:1.35}
-.vd .s{font-size:11.5px;font-family:var(--mono);opacity:.75;margin-top:3px;letter-spacing:.02em;
-  font-variant-numeric:tabular-nums}
-.vd.BLOCK_PENDING{background:rgba(214,50,60,.09);border:1px solid rgba(214,50,60,.34);color:#A81E28}
-.vd.HOLD{background:rgba(184,116,0,.10);border:1px solid rgba(184,116,0,.32);color:#8A5600}
-.vd.UNKNOWN{background:rgba(91,97,105,.08);border:1px solid rgba(91,97,105,.28);color:#454B53}
-.vd.PASS,.vd.NOTICE{background:rgba(15,123,95,.09);border:1px solid rgba(15,123,95,.32);color:#0B5F49}
+.vd .s{font-size:11.5px;font-family:var(--mono);opacity:.75;margin-top:3px;font-variant-numeric:tabular-nums}
+.vd.BLOCK_PENDING{background:rgba(214,50,60,.09);border:1px solid rgba(214,50,60,.34);color:var(--danger)}
+.vd.HOLD{background:rgba(184,116,0,.10);border:1px solid rgba(184,116,0,.32);color:var(--warn)}
+.vd.UNKNOWN{background:rgba(91,97,105,.08);border:1px solid rgba(91,97,105,.28);color:var(--hold)}
+.vd.PASS,.vd.NOTICE{background:rgba(15,123,95,.09);border:1px solid rgba(15,123,95,.32);color:var(--safe)}
 .rs{margin:0;padding:0;list-style:none;border-top:1px solid var(--line-2)}
 .rs li{display:flex;gap:9px;padding:11px 2px;border-bottom:1px solid var(--line-2);font-size:13.5px;
-  color:var(--ink-2);line-height:1.55}
+  color:var(--ink-2);line-height:1.6}
 .rs li b{flex:none;width:5px;height:5px;border-radius:50%;background:currentColor;margin-top:8px;opacity:.4}
 .src{margin-top:14px;font-size:11.5px;color:var(--ink-3);display:flex;align-items:center;gap:6px}
 details{margin-top:12px}
 summary{cursor:pointer;font-size:12px;color:var(--ink-3);padding:4px 0;list-style:none}
 summary::-webkit-details-marker{display:none}
-summary::before{content:"▸ ";color:#A9AFB7}
+summary::before{content:"▸ ";color:#B4AFA6}
 details[open] summary::before{content:"▾ "}
-pre{background:#1B1D1F;color:#E8EAED;padding:13px 15px;border-radius:var(--r-s);overflow:auto;margin:9px 0 0;
+pre{background:var(--ink);color:#EDEAE4;padding:13px 15px;border-radius:var(--r-s);overflow:auto;margin:9px 0 0;
   font:11.5px/1.65 var(--mono);white-space:pre-wrap;word-break:break-all}
+#doc{max-height:400px;overflow:auto;padding:16px 20px;margin:0;background:#FCFCFB;color:#3E3A34;
+  font:11.5px/1.72 var(--mono);white-space:pre-wrap;font-variant-numeric:tabular-nums}
 
-/* ── 계약서 ── */
-.doc-hd{display:flex;align-items:center;gap:9px;padding:15px 20px;border-bottom:1px solid var(--line-2)}
-.doc-hd .p{margin-left:auto;font:11px/1 var(--mono);color:var(--ink-3);background:var(--bg);
-  padding:5px 9px;border-radius:5px}
-#doc{max-height:400px;overflow:auto;padding:16px 20px;margin:0;background:#FCFCFB;
-  font-variant-numeric:tabular-nums;
-  font:11.5px/1.72 var(--mono);white-space:pre-wrap;color:#3A3E44}
-#doc::-webkit-scrollbar{width:9px} #doc::-webkit-scrollbar-thumb{background:#D5DAE0;border-radius:9px}
-.foot{margin-top:22px;font-size:11.5px;color:#9AA0A8;text-align:center;line-height:1.7}
+/* SETTINGS */
+.ov{position:fixed;inset:0;background:rgba(28,26,22,.45);z-index:60;display:none;
+  align-items:flex-start;justify-content:center;padding:70px 20px 20px;overflow:auto}
+.ov.open{display:flex}
+.md{background:var(--sf);border:1px solid var(--line);border-radius:12px;max-width:560px;width:100%}
+.md .hd h3{font-size:15px}
+.md .bd{padding:20px}
+.mrow{display:flex;gap:9px;align-items:flex-start;padding:11px 13px;border:1px solid var(--line);
+  border-radius:var(--r-s);background:var(--bg);font-size:12.5px;color:var(--ink-2);line-height:1.64;margin-bottom:16px}
+.st{display:flex;align-items:center;gap:10px;padding:12px 14px;border:1px solid var(--line);
+  border-radius:var(--r-s);margin-bottom:16px}
+.st .d{width:8px;height:8px;border-radius:50%;background:#B9BDC3;flex:none}
+.st.on .d{background:var(--safe)}
+.st .txt b{display:block;font-size:13.5px}
+.st .txt span{color:var(--ink-3);font-size:12px;font-family:var(--mono)}
+.st .rm{margin-left:auto}
+.mact{display:flex;gap:9px;margin-top:16px}
+.mact .btn-p{flex:1;justify-content:center}
+.mwarn{margin-top:15px;font-size:11.5px;color:var(--ink-3);line-height:1.72;
+  border-top:1px solid var(--line-2);padding-top:13px}
+.err{color:var(--danger);font-size:12.5px;margin-top:9px;min-height:18px}
+.foot{padding:34px 0 46px;font-size:12px;color:var(--ink-3);line-height:1.85;text-align:center}
 </style>
 
-<header class=gnb><div class=gnb-in>
-  <div class=mark><svg width=17 height=17 viewBox="0 0 20 20" fill="none">
+<header class=gnb><div class=in>
+  <div class=mk><svg width=17 height=17 viewBox="0 0 20 20" fill=none>
     <path d="M10 1.7 3.2 4.3v5.1c0 4.2 2.8 7.6 6.8 9 4-1.4 6.8-4.8 6.8-9V4.3L10 1.7Z"
-          stroke="#231A00" stroke-width="1.7" stroke-linejoin="round"/>
-    <path d="m7.1 9.9 2.1 2.1 4-4.2" stroke="#231A00" stroke-width="1.7"
-          stroke-linecap="round" stroke-linejoin="round"/></svg></div>
-  <div class=brand>KB Payee&nbsp;Guard <span>· 해외송금 수취인 검증</span></div>
-  <div class=tag>DEMO</div>
+      stroke="#231A00" stroke-width=1.7 stroke-linejoin=round/>
+    <path d="m7.1 9.9 2.1 2.1 4-4.2" stroke="#231A00" stroke-width=1.7 stroke-linecap=round stroke-linejoin=round/></svg></div>
+  <div class=bn>KB Payee Guard</div>
+  <nav>
+    <a href="#problem">문제</a><a href="#how">동작 방식</a>
+    <a href="#perf">성능</a><a href="#demo">직접 해보기</a>
+  </nav>
+  <div class=rt>
+    <div class=chip id=chip><span class=d></span><span id=chipT>수동 라벨</span></div>
+    <button class=btn-s id=openSet>설정</button>
+  </div>
 </div></header>
 
-<div class=wrap>
-  <div class=notice>
-    <svg width=16 height=16 viewBox="0 0 16 16" fill=none style="flex:none;margin-top:1px">
-      <circle cx=8 cy=8 r=6.6 stroke="#B87400" stroke-width=1.5/>
-      <path d="M8 4.6v4.2" stroke="#B87400" stroke-width=1.7 stroke-linecap=round/>
-      <circle cx=8 cy=11.3 r=.95 fill="#B87400"/></svg>
-    <div><b>실제 은행 서비스가 아닙니다.</b> 판정 엔진을 손으로 눌러 보는 로컬 확인용 화면입니다 —
-      인증·영속·감사원장이 없고 <code style="font-family:var(--mono);font-size:12px">127.0.0.1</code> 에만
-      바인딩합니다. KB국민은행과 무관한 공모전 제출용 데모이며 화면의 색·서식은 제출작 자체 구성입니다.</div>
+<div class=hero><div class=in>
+  <div class=eyebrow>제8회 KB A.I Challenge · 금융 자유주제</div>
+  <h1>계좌번호를 검증하지 않습니다.<br>그 계좌를 알려준 <em>경로</em>를 검증합니다.</h1>
+  <p class=lead>해외송금 신청 시 <b>이미 제출된 계약서</b>를 AI가 읽어, 이번 계좌 지시가
+    계약이 정한 변경 절차를 따랐는지 대조하고 어긋나면 송금을 보류하는 게이트입니다.
+    계좌번호는 바꿀 수 있어도, 은행이 보관 중인 3년 전 계약서의
+    &ldquo;변경은 양측 서면 합의로&rdquo;는 사후에 바꿀 수 없습니다.</p>
+  <div class=cta>
+    <a class=btn-p href="#demo">직접 판정해 보기
+      <svg width=15 height=15 viewBox="0 0 16 16" fill=none><path d="M3 8h10m-4-4 4 4-4 4"
+        stroke="#231A00" stroke-width=1.8 stroke-linecap=round stroke-linejoin=round/></svg></a>
+    <a class=btn-o href="#how">동작 방식 보기</a>
   </div>
+</div></div>
 
+<section id=problem class=alt><div class=in>
+  <div class=sh>풀려는 문제</div>
+  <h2>3년 거래한 담당자 이름으로 메일이 옵니다</h2>
+  <p class=sub>&ldquo;거래 은행이 바뀌었으니 새 계좌로 보내주세요.&rdquo; 인보이스까지 첨부돼
+    있습니다. 송금합니다. 3주 뒤 상대가 말합니다 — <b>&ldquo;대금이 안 들어왔는데요.&rdquo;</b></p>
+  <div class=pr>
+    <div class=pc><div class=n>1,600<span class=u>건</span></div>
+      <h3>무역송금 사기 접수</h3>
+      <p>2021~2025 상반기 국내 접수 건수 (금감원 집계 · KBS 보도).</p></div>
+    <div class=pc><div class=n>대금 전액</div>
+      <h3>건당 손실 규모</h3>
+      <p>부분 손실이 아니라 송금액 전체가 나갑니다. 해외 계좌라 회수가 어렵습니다.</p></div>
+    <div class=pc><div class=n>이름 대조</div>
+      <h3>기존 제품이 보는 것</h3>
+      <p>사기범이 거래처와 <b>같은 법인명으로 계좌를 열면 통과</b>합니다 — 벤더 자신이 인정합니다.</p></div>
+  </div>
+</div></section>
+
+<section id=how><div class=in>
+  <div class=sh>동작 방식</div>
+  <h2>계약서가 정한 절차와 이번 송금을 대조합니다</h2>
+  <p class=sub>계약서 §Notices·§Amendment는 체결 시점에 확정되므로, 은행이 보관 중인 원본을
+    기준으로 삼는 한 사기범이 사후에 바꿀 수 없습니다. 여기서 판정 축이 나옵니다.</p>
+  <div class=flow>
+    <div class=fb><h4>제출된 계약서 · 2023-04-11</h4>
+      <dl><dt>상대방</dt><dd>BAUER GmbH</dd>
+        <dt>소재지</dt><dd>Stuttgart, DE</dd>
+        <dt>결제조건</dt><dd>Irrevocable L/C</dd>
+        <dt>§14 변경</dt><dd>서면 합의로만</dd></dl></div>
+    <svg class=ar width=26 height=26 viewBox="0 0 26 26" fill=none><path d="M4 13h18m-6-6 6 6-6 6"
+      stroke="#7C7870" stroke-width=1.7 stroke-linecap=round stroke-linejoin=round/></svg>
+    <div class=fb><h4>이번 송금 신청</h4>
+      <dl><dt>수취계좌</dt><dd>LT12 … 47 (LT)</dd>
+        <dt>송금방식</dt><dd>T/T</dd>
+        <dt>계좌 지시</dt><dd>이메일 한 통</dd>
+        <dt>발신</dt><dd>bauer-gmbh.co</dd></dl></div>
+  </div>
+  <div class=q>&ldquo;이 계좌 지시가 계약이 정한 경로로 왔는가?&rdquo;</div>
+  <p class=sub style="margin-top:26px">가장 흔한 유형은 국가도 이름도 결제조건도 그대로이고
+    <b>계좌번호만</b> 바뀝니다. 그 경우 우리가 구현한 다른 신호는 전부 침묵하고 이 축만 발화합니다.</p>
+  <div class=wrapx><table class=tbl>
+    <tr><th style="width:25%">이미 있는 것</th><th style="width:29%">무엇을 검증하나</th><th>같은 법인명으로 계좌를 열면</th></tr>
+    <tr><td>메일 보안 (Proofpoint 등)</td><td>메일 도메인·문체</td><td>도메인이 진짜라 통과. 애초에 송금을 못 막음</td></tr>
+    <tr><td>벤더 계좌 검증 (Trustpair 등)</td><td>벤더 마스터 계좌 이력</td><td>변경은 감지하나 정당/사기를 못 가름</td></tr>
+    <tr><td>EU VoP (2025-10 법정)</td><td>이름 ↔ 계좌</td><td>법인명으로 계좌를 열면 통과. EU 역내 유로만</td></tr>
+    <tr class=us><td>KB Payee Guard</td><td>계좌 지시가 계약 절차를 따랐는가</td><td>보관 원본의 §Amendment는 사후 변경이 어려움</td></tr>
+  </table></div>
+</div></section>
+
+<section id=perf class=alt><div class=in>
+  <div class=sh>실측 성능</div>
+  <h2>측정한 것과 모르는 것을 나눠 적습니다</h2>
+  <p class=sub>실물 계약서 262건 기반. 아래는 전부 저장소에서 재현 가능하며, <b>API 키 없이</b>
+    <code>python3.12 scripts/recheck_holdout.py</code> 한 줄로 다시 셀 수 있습니다.</p>
+  <div class=mt>
+    <div class=mc><div class=v>92.9<span class=u>%</span></div>
+      <div class=k>규칙 튜닝에 안 쓴 183건에서 위조 제외 차단율 — gold 93.3%와 같은 수준</div></div>
+    <div class=mc><div class=v>0.0<span class=u>%</span></div>
+      <div class=k>정상 거래 하드 차단 오탐. 단 25%는 사람 승인 대기로 갑니다</div></div>
+    <div class=mc><div class=v>90.0<span class=u>%</span></div>
+      <div class=k>LLM 조항 추출 정확도 — 정규식은 30.0%</div></div>
+    <div class=mc><div class=v>128<span class=u>건</span></div>
+      <div class=k>테스트 — 외부 API 없이 1초 미만</div></div>
+  </div>
+  <p class=note><b>숨기지 않는 것:</b> 위 92.9%는 독립 정답 라벨 대비 정확도가 아닙니다 —
+    시나리오가 추출 결과로 생성되므로 &ldquo;추출이 비지 않았을 때 규칙이 설계대로 발화하는가&rdquo;를 잽니다.
+    <b>위조 수정합의서는 막지 못하고</b>(전건 미탐), <b>국문 무역계약서 성능은 측정된 적이 없습니다</b>
+    (확보한 국문 49건은 당사자가 비어 있는 표준서식이라 송금 계약이 아닙니다).
+    아래 데모의 다섯 번째 시나리오에서 그 사각지대를 직접 확인하실 수 있습니다.</p>
+</div></section>
+
+<section id=demo><div class=in>
+  <div class=sh>직접 해보기</div>
+  <h2>시나리오를 바꿔 가며 판정을 확인하세요</h2>
+  <p class=sub>값은 직접 고쳐도 됩니다. 특히 <b>&ldquo;이 계좌 정보를 어디서 받으셨습니까&rdquo;</b>만
+    이메일 → 수정 합의서로 바꾸면, 계좌번호가 같은데도 차단이 통과로 뒤집힙니다. 그게 판정 축입니다.</p>
   <div class=grid>
     <div class=card>
-      <div class=hd><div class=n>1</div><h2>송금 신청 정보</h2></div>
+      <div class=hd><div class=n>1</div><h3>송금 신청 정보</h3></div>
       <div class=bd>
-        <div class=sc id=sc></div>
-        <div class=scd id=scd></div>
-
-        <div class=f><label>수취 계좌 <span class=help>IBAN</span></label>
-          <input id=account class=mono spellcheck=false></div>
+        <div class=sc id=sc></div><div class=scd id=scd></div>
+        <div class=f><label>수취 계좌 <span class=help>IBAN</span></label><input id=account class=mono spellcheck=false></div>
         <div class="f r2">
           <div><label>BIC / SWIFT</label><input id=bic class=mono spellcheck=false></div>
           <div><label>송금 방식</label><select id=remittance_type>
             <option value=TT>T/T · 전신송금</option><option value=LC>L/C · 신용장</option>
-            <option value=DP>D/P</option><option value=DA>D/A</option></select></div>
-        </div>
+            <option value=DP>D/P</option><option value=DA>D/A</option></select></div></div>
         <div class="f r2">
           <div><label>송금액</label><input id=amount class=mono inputmode=decimal></div>
-          <div><label>통화</label><input id=currency class=mono maxlength=3></div>
-        </div>
-
-        <div class="f key"><label>이 계좌 정보를 어디서 받으셨습니까?
-            <span class=help>— 판정의 핵심 입력</span></label>
+          <div><label>통화</label><input id=currency class=mono maxlength=3></div></div>
+        <div class="f key"><label>이 계좌 정보를 어디서 받으셨습니까? <span class=help>— 판정의 핵심 입력</span></label>
           <select id=source>
             <option value=CONTRACT>계약서에 기재된 계좌</option>
             <option value=AMENDMENT>양측 서명 수정합의서</option>
-            <option value=EMAIL>이메일 안내</option>
-            <option value=PHONE>전화 안내</option>
-            <option value=FAX>팩스</option>
-            <option value=PORTAL>거래처 포털</option>
-            <option value=INVOICE>인보이스 기재</option>
-          </select></div>
-
+            <option value=EMAIL>이메일 안내</option><option value=PHONE>전화 안내</option>
+            <option value=FAX>팩스</option><option value=PORTAL>거래처 포털</option>
+            <option value=INVOICE>인보이스 기재</option></select></div>
         <div class="f r2">
-          <div><label>지시가 온 주소·번호</label>
-            <input id=channel_detail class=mono placeholder="ap@bauer-gmbh.co" spellcheck=false></div>
-          <div><label>메일 발신자</label>
-            <input id=sender class=mono placeholder="ap@bauer-gmbh.co" spellcheck=false></div>
-        </div>
+          <div><label>지시가 온 주소·번호</label><input id=channel_detail class=mono placeholder="ap@bauer-gmbh.co" spellcheck=false></div>
+          <div><label>메일 발신자</label><input id=sender class=mono placeholder="ap@bauer-gmbh.co" spellcheck=false></div></div>
         <div class=f><label>메일 스레드 <span class=help>In-Reply-To — 비우면 새 메일</span></label>
           <input id=in_reply_to class=mono spellcheck=false></div>
-
         <button id=go>송금 심사 실행</button>
       </div>
     </div>
-
     <div class=card>
-      <div class=hd><div class=n>2</div><h2>심사 결과</h2></div>
+      <div class=hd><div class=n>2</div><h3>심사 결과</h3></div>
       <div class=bd><div id=out><div class=ph>왼쪽에서 시나리오를 고르고<br><b>송금 심사 실행</b>을 누르세요.</div></div></div>
     </div>
   </div>
-
-  <div class="card" style="margin-top:20px">
-    <div class=doc-hd><div class=n style="width:19px;height:19px;border-radius:5px;background:var(--ink);color:#fff;font:700 11px/1 inherit;display:grid;place-items:center">3</div>
-      <h2 style="margin:0;font-size:13.5px;font-weight:700">게이트가 대조한 계약서</h2>
+  <div class=card style="margin-top:20px">
+    <div class=hd><div class=n>3</div><h3>게이트가 대조한 계약서</h3>
       <div class=p>data/demo/mock_contract.txt</div></div>
     <pre id=doc>불러오는 중…</pre>
   </div>
+</div></section>
 
-  <div class=foot>제8회 KB A.I Challenge · 팀 aithor<br>
-    화면의 색상·서식은 제출작 자체 구성이며 KB국민은행 공식 디자인이 아닙니다.</div>
+<div class=ov id=ov role=dialog aria-modal=true aria-labelledby=setT>
+  <div class=md>
+    <div class=hd><h3 id=setT>설정 · OpenAI API 키</h3>
+      <button class=btn-s id=closeSet style="margin-left:auto">닫기</button></div>
+    <div class=bd>
+      <div class=mrow><svg width=15 height=15 viewBox="0 0 16 16" fill=none style="flex:none;margin-top:2px">
+        <circle cx=8 cy=8 r=6.6 stroke="#8A5600" stroke-width=1.5/>
+        <path d="M8 4.6v4.2" stroke="#8A5600" stroke-width=1.7 stroke-linecap=round/>
+        <circle cx=8 cy=11.3 r=.95 fill="#8A5600"/></svg>
+        <div>키는 이 <b>서버 프로세스 메모리에만</b> 보관됩니다 — 파일·로그·응답 어디에도 원문을 쓰지
+          않고, 서버를 끄면 사라집니다. 브라우저에도 저장하지 않습니다.
+          <b>키 없이도 사이트는 전부 동작합니다</b>(계약서 사실을 사람이 옮겨 적은 값으로 대체).</div></div>
+      <div class=st id=st><span class=d></span>
+        <div class=txt><b id=stT>키 없음</b><span id=stS>수동 라벨로 동작 중</span></div>
+        <button class="btn-s rm" id=clearKey hidden>지우기</button></div>
+      <div class=f><label>API 키 <span class=help>platform.openai.com/api-keys 에서 발급</span></label>
+        <input id=keyIn class=mono type=password placeholder="sk-..." autocomplete=off spellcheck=false></div>
+      <div class=err id=keyErr></div>
+      <div class=mact><button class=btn-p id=saveKey>저장하고 LLM 추출 사용</button></div>
+      <div class=mwarn>저장하면 다음 판정부터 계약서 원문을 OpenAI <code>gpt-4o-mini</code>에 보내
+        조항을 추출합니다. 이 데모 계약서 1건 기준 호출당 <b>약 $0.0007</b>입니다.
+        추출이 실패하면 자동으로 수동 라벨로 되돌아가며 화면에 그 사실을 표시합니다.</div>
+    </div>
+  </div>
+</div>
+
+<div class=foot>
+  <b>실제 은행 서비스가 아닙니다.</b> 판정 엔진을 눌러 보는 로컬 확인용 사이트입니다 —
+  인증·영속·감사원장이 없고 127.0.0.1 에만 바인딩합니다.<br>
+  제8회 KB A.I Challenge 제출작 · 팀 aithor · KB국민은행과 무관하며 화면 구성은 제출작 자체 제작입니다.
 </div>
 
 <script>
 const S = __SCENARIOS__;
 const F = ['account','bic','amount','currency','remittance_type','source','channel_detail','sender','in_reply_to'];
-const sc = document.getElementById('sc'), scd = document.getElementById('scd');
+const $ = id => document.getElementById(id);
+const esc = s => String(s).replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
 
+const sc=$('sc');
 Object.entries(S).forEach(([k,v],i)=>{
-  const b=document.createElement('button');
-  b.type='button'; b.setAttribute('aria-pressed','false');
+  const b=document.createElement('button'); b.type='button'; b.setAttribute('aria-pressed','false');
   b.innerHTML='<span class="dot '+(v.risk||'normal')+'"></span>'+v.label;
-  b.onclick=()=>{
-    [...sc.children].forEach(c=>c.setAttribute('aria-pressed','false'));
+  b.onclick=()=>{[...sc.children].forEach(c=>c.setAttribute('aria-pressed','false'));
     b.setAttribute('aria-pressed','true');
-    F.forEach(f=>document.getElementById(f).value = v.form[f] ?? '');
-    scd.textContent = v.desc;
-  };
+    F.forEach(f=>$(f).value=v.form[f]??''); $('scd').textContent=v.desc;};
   sc.appendChild(b); if(i===0) b.click();
 });
 
-const ICON = {
-  BLOCK_PENDING:'<svg width=22 height=22 viewBox="0 0 22 22" fill=none><circle cx=11 cy=11 r=9 stroke="currentColor" stroke-width=1.8/><path d="M11 6.4v5.4" stroke="currentColor" stroke-width=2 stroke-linecap=round/><circle cx=11 cy=15.2 r=1.15 fill="currentColor"/></svg>',
-  HOLD:'<svg width=22 height=22 viewBox="0 0 22 22" fill=none><circle cx=11 cy=11 r=9 stroke="currentColor" stroke-width=1.8/><path d="M11 6.2v5l3 1.9" stroke="currentColor" stroke-width=1.9 stroke-linecap=round stroke-linejoin=round/></svg>',
-  UNKNOWN:'<svg width=22 height=22 viewBox="0 0 22 22" fill=none><circle cx=11 cy=11 r=9 stroke="currentColor" stroke-width=1.8/><path d="M8.6 8.5a2.5 2.5 0 1 1 3.3 2.4c-.6.2-.9.7-.9 1.3v.4" stroke="currentColor" stroke-width=1.8 stroke-linecap=round/><circle cx=11 cy=15.4 r=1.05 fill="currentColor"/></svg>',
-  PASS:'<svg width=22 height=22 viewBox="0 0 22 22" fill=none><circle cx=11 cy=11 r=9 stroke="currentColor" stroke-width=1.8/><path d="m7.3 11.2 2.6 2.6 5-5.4" stroke="currentColor" stroke-width=2 stroke-linecap=round stroke-linejoin=round/></svg>'};
-ICON.NOTICE = ICON.PASS;
+const ICON={
+ BLOCK_PENDING:'<svg width=22 height=22 viewBox="0 0 22 22" fill=none><circle cx=11 cy=11 r=9 stroke=currentColor stroke-width=1.8/><path d="M11 6.4v5.4" stroke=currentColor stroke-width=2 stroke-linecap=round/><circle cx=11 cy=15.2 r=1.15 fill=currentColor/></svg>',
+ HOLD:'<svg width=22 height=22 viewBox="0 0 22 22" fill=none><circle cx=11 cy=11 r=9 stroke=currentColor stroke-width=1.8/><path d="M11 6.2v5l3 1.9" stroke=currentColor stroke-width=1.9 stroke-linecap=round stroke-linejoin=round/></svg>',
+ UNKNOWN:'<svg width=22 height=22 viewBox="0 0 22 22" fill=none><circle cx=11 cy=11 r=9 stroke=currentColor stroke-width=1.8/><path d="M8.6 8.5a2.5 2.5 0 1 1 3.3 2.4c-.6.2-.9.7-.9 1.3v.4" stroke=currentColor stroke-width=1.8 stroke-linecap=round/><circle cx=11 cy=15.4 r=1.05 fill=currentColor/></svg>',
+ PASS:'<svg width=22 height=22 viewBox="0 0 22 22" fill=none><circle cx=11 cy=11 r=9 stroke=currentColor stroke-width=1.8/><path d="m7.3 11.2 2.6 2.6 5-5.4" stroke=currentColor stroke-width=2 stroke-linecap=round stroke-linejoin=round/></svg>'};
+ICON.NOTICE=ICON.PASS;
+const KO={BLOCK_PENDING:['송금 보류','승인 없이는 진행할 수 없습니다'],
+          HOLD:['송금 보류','담당자 확인이 필요합니다'],
+          UNKNOWN:['판정 불가','근거가 부족해 승인 없이는 진행할 수 없습니다'],
+          PASS:['이상 없음','계약이 정한 절차와 일치합니다'],
+          NOTICE:['이상 없음','참고 사항이 있습니다']};
 
-const KO = {BLOCK_PENDING:['송금 보류','승인 없이는 진행할 수 없습니다'],
-            HOLD:['송금 보류','담당자 확인이 필요합니다'],
-            UNKNOWN:['판정 불가','근거가 부족해 승인 없이는 진행할 수 없습니다'],
-            PASS:['이상 없음','계약이 정한 절차와 일치합니다'],
-            NOTICE:['이상 없음','참고 사항이 있습니다']};
-
-document.getElementById('go').onclick = async () => {
-  const body={}; F.forEach(f=>body[f]=document.getElementById(f).value);
-  const out=document.getElementById('out');
-  out.innerHTML='<div class=ph>심사 중…</div>';
+$('go').onclick=async()=>{
+  const body={}; F.forEach(f=>body[f]=$(f).value);
+  $('out').innerHTML='<div class=ph>심사 중…</div>';
   try{
-    const r=await fetch('/judge',{method:'POST',headers:{'Content-Type':'application/json'},
-                                 body:JSON.stringify(body)});
-    const d=await r.json();
-    if(d.error){ out.innerHTML='<pre>'+esc(d.error)+'\\n\\n'+esc(d.trace||'')+'</pre>'; return; }
-    const [t,s]=KO[d.verdict]||[d.verdict,''];
-    out.innerHTML=
-      '<div class="vd '+d.verdict+'">'+(ICON[d.verdict]||'')+
-        '<div><div class=t>'+t+'</div><div class=s>'+d.verdict+' · 규칙 '+d.rule+' — '+s+'</div></div></div>'+
-      (d.reasons.length
-        ? '<ul class=rs>'+d.reasons.map(x=>'<li><b></b><span>'+esc(x)+'</span></li>').join('')+'</ul>'
-        : '<div style="font-size:13.5px;color:var(--ink-2);padding:2px">발화한 위험 신호가 없습니다.</div>')+
-      '<div class=src><svg width=13 height=13 viewBox="0 0 14 14" fill=none><circle cx=7 cy=7 r=5.6 stroke="#797F87" stroke-width=1.3/><path d="M7 4.3v3.4" stroke="#797F87" stroke-width=1.4 stroke-linecap=round/><circle cx=7 cy=9.7 r=.8 fill="#797F87"/></svg>계약서 사실 출처: '+esc(d.facts_origin)+'</div>'+
+    const d=await(await fetch('/judge',{method:'POST',headers:{'Content-Type':'application/json'},
+      body:JSON.stringify(body)})).json();
+    if(d.error){$('out').innerHTML='<pre>'+esc(d.error)+'\\n\\n'+esc(d.trace||'')+'</pre>';return;}
+    const kv=KO[d.verdict]||[d.verdict,''];
+    $('out').innerHTML='<div class="vd '+d.verdict+'">'+(ICON[d.verdict]||'')+
+      '<div><div class=t>'+kv[0]+'</div><div class=s>'+d.verdict+' · 규칙 '+d.rule+' — '+kv[1]+'</div></div></div>'+
+      (d.reasons.length?'<ul class=rs>'+d.reasons.map(x=>'<li><b></b><span>'+esc(x)+'</span></li>').join('')+'</ul>'
+        :'<div style="font-size:13.5px;color:var(--ink-2);padding:2px">발화한 위험 신호가 없습니다.</div>')+
+      '<div class=src><svg width=13 height=13 viewBox="0 0 14 14" fill=none><circle cx=7 cy=7 r=5.6 stroke="#7C7870" stroke-width=1.3/><path d="M7 4.3v3.4" stroke="#7C7870" stroke-width=1.4 stroke-linecap=round/><circle cx=7 cy=9.7 r=.8 fill="#7C7870"/></svg>계약서 사실 출처: '+esc(d.facts_origin)+'</div>'+
       '<details><summary>발화 신호 · 추출된 계약서 사실</summary><pre>'+
         esc(JSON.stringify({신호:d.signals,계약서_사실:d.facts},null,1))+'</pre></details>';
-  }catch(e){ out.innerHTML='<pre>요청 실패: '+esc(String(e))+'</pre>'; }
+    refreshKey();
+  }catch(e){$('out').innerHTML='<pre>요청 실패: '+esc(String(e))+'</pre>';}
 };
-function esc(s){return String(s).replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));}
-fetch('/contract').then(r=>r.text()).then(t=>document.getElementById('doc').textContent=t);
+
+const ov=$('ov');
+const closeSet=()=>{ov.classList.remove('open');$('keyIn').value='';$('keyErr').textContent='';};
+$('openSet').onclick=()=>{ov.classList.add('open');$('keyIn').focus();};
+$('closeSet').onclick=closeSet;
+ov.onclick=e=>{if(e.target===ov)closeSet();};
+document.addEventListener('keydown',e=>{if(e.key==='Escape'&&ov.classList.contains('open'))closeSet();});
+
+async function refreshKey(){
+  try{
+    const s=await(await fetch('/settings/key')).json();
+    $('chip').className='chip'+(s.present?' on':''); $('chipT').textContent=s.mode;
+    $('st').className='st'+(s.present?' on':'');
+    $('stT').textContent=s.present?'키 등록됨':'키 없음';
+    $('stS').textContent=s.present?(s.masked+' · '+(s.source==='session'?'설정에서 입력':'환경변수'))
+                                  :'수동 라벨로 동작 중';
+    $('clearKey').hidden=!(s.present&&s.source==='session');
+  }catch(e){}
+}
+$('saveKey').onclick=async()=>{
+  const k=$('keyIn').value.trim(); $('keyErr').textContent='';
+  if(!k){$('keyErr').textContent='키를 입력하세요.';return;}
+  const r=await(await fetch('/settings/key',{method:'POST',headers:{'Content-Type':'application/json'},
+    body:JSON.stringify({key:k})})).json();
+  if(r.error){$('keyErr').textContent=r.error;return;}
+  $('keyIn').value=''; await refreshKey(); closeSet();
+};
+$('clearKey').onclick=async()=>{await fetch('/settings/key',{method:'DELETE'});await refreshKey();};
+
+refreshKey();
+fetch('/contract').then(r=>r.text()).then(t=>$('doc').textContent=t);
 </script>
-</html>
-"""
+</html>"""
 
 
 class Handler(BaseHTTPRequestHandler):
@@ -423,27 +657,59 @@ class Handler(BaseHTTPRequestHandler):
         self.end_headers()
         self.wfile.write(body)
 
+    def _json(self, obj: dict, code: int = 200) -> None:
+        self._send(code, json.dumps(obj, ensure_ascii=False).encode("utf-8"),
+                   "application/json; charset=utf-8")
+
+    def _body(self) -> dict:
+        n = int(self.headers.get("Content-Length") or 0)
+        return json.loads(self.rfile.read(n) or b"{}")
+
     def do_GET(self) -> None:                                        # noqa: N802
         if self.path in ("/", "/index.html"):
             page = PAGE.replace("__SCENARIOS__", json.dumps(SCENARIOS, ensure_ascii=False))
             self._send(200, page.encode("utf-8"), "text/html; charset=utf-8")
         elif self.path == "/contract":
             self._send(200, CONTRACT_PATH.read_bytes(), "text/plain; charset=utf-8")
+        elif self.path == "/settings/key":
+            self._json(key_status())                       # 🔴 마스킹된 값만 나간다
         else:
             self._send(404, b"not found", "text/plain")
 
     def do_POST(self) -> None:                                       # noqa: N802
+        global _session_key
+        if self.path == "/settings/key":
+            try:
+                k = (self._body().get("key") or "").strip()
+            except Exception:                                        # noqa: BLE001
+                self._json({"error": "요청을 읽지 못했습니다."}, 400)
+                return
+            if not k.startswith("sk-") or len(k) < 20:
+                self._json({"error": "키 형식이 올바르지 않습니다 — sk- 로 시작해야 합니다."}, 400)
+                return
+            with _key_lock:
+                _session_key = k
+            print("  API 키 등록됨 (메모리 보관 · 원문 미기록)")
+            self._json(key_status())
+            return
+
         if self.path != "/judge":
             self._send(404, b"not found", "text/plain")
             return
         try:
-            n = int(self.headers.get("Content-Length") or 0)
-            result = judge(json.loads(self.rfile.read(n) or b"{}"))
+            result = judge(self._body())
         except Exception as exc:                                     # noqa: BLE001
-            # 데모이므로 스택을 그대로 보여 준다 — 사용자가 원인을 바로 본다.
             result = {"error": f"{type(exc).__name__}: {exc}", "trace": traceback.format_exc()}
-        self._send(200, json.dumps(result, ensure_ascii=False).encode("utf-8"),
-                   "application/json; charset=utf-8")
+        self._json(result)
+
+    def do_DELETE(self) -> None:                                     # noqa: N802
+        global _session_key
+        if self.path == "/settings/key":
+            with _key_lock:
+                _session_key = None
+            self._json(key_status())
+        else:
+            self._send(404, b"not found", "text/plain")
 
     def log_message(self, fmt: str, *args) -> None:                  # 요청 로그 억제
         pass
@@ -451,14 +717,15 @@ class Handler(BaseHTTPRequestHandler):
 
 def main() -> None:
     if not CONTRACT_PATH.exists():
-        sys.exit(f"🔴 목업 계약서가 없습니다: {CONTRACT_PATH}")
-    key = "있음 → LLM 추출 경로" if os.environ.get("OPENAI_API_KEY") else "없음 → 수동 라벨 경로"
-    print(f"\n  KB Payee Guard 로컬 데모")
-    print(f"  ─────────────────────────────────────────────")
+        sys.exit(f"목업 계약서가 없습니다: {CONTRACT_PATH}")
+    st = key_status()
+    mode = "환경변수에서 감지됨 → LLM 추출" if st["present"] else "없음 → 수동 라벨 (화면 설정에서 입력 가능)"
+    print("\n  KB Payee Guard — 로컬 데모 사이트")
+    print("  ─────────────────────────────────────────────")
     print(f"  주소     http://127.0.0.1:{PORT}")
     print(f"  계약서   {CONTRACT_PATH.relative_to(ROOT)}")
-    print(f"  API 키   {key}")
-    print(f"\n  중지: Ctrl+C\n")
+    print(f"  API 키   {mode}")
+    print("\n  중지: Ctrl+C\n")
     try:
         ThreadingHTTPServer(("127.0.0.1", PORT), Handler).serve_forever()
     except KeyboardInterrupt:
