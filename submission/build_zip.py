@@ -137,14 +137,38 @@ def main() -> int:
 
 ## 프로토타입 재현
 
+### 이 ZIP 안에서 바로 되는 것 — **API 키 불필요 · 설치 불필요**
+
 ```bash
 cd prototype
-python3.12 -m unittest discover -s tests      # 128 tests · 외부 API 키 불필요 · 약 0.2초
-python3.12 scripts/run_baselines.py --with-c  # 추출 정확도 A/C (OpenAI 호출)
-python3.12 scripts/run_e2e.py --extract C     # 탐지율·오탐률 (OpenAI 호출)
+python3.12 -m unittest discover -s tests   # 128 tests OK · 약 0.2초
+python3.12 scripts/recheck_holdout.py      # 커밋된 원자료로 성능표 재집계
+python3.12 scripts/demo_server.py          # → http://127.0.0.1:8765  (판정 화면)
 ```
 
-API 키 없이도 **테스트 128건 전부**가 통과합니다. 판정 엔진이 결정론이기 때문입니다.
+코어가 **표준 라이브러리만** 쓰므로 `pip install` 이 없습니다.
+판정 규칙 · 승인 게이트 · 인젝션 방어 · 규칙 도달성이 전부 위 128건에서 검증됩니다.
+
+### 🔴 이 ZIP 안에서 **되지 않는 것** — 계약서 원문을 넣지 않았기 때문입니다
+
+`run_e2e.py` · `run_baselines.py` 는 실물 계약서 262건을 읽습니다. 그 코퍼스(CUAD ·
+SEC · 국가법령정보센터)는 **재배포 조건을 확인하지 못해 제출물에서 제외**했으므로,
+이 ZIP 에서 실행하면 `FileNotFoundError` 가 납니다. **버그가 아니라 의도된 누락**입니다.
+대신 **집계 결과 원자료**(`data/contracts/_e2e_*.json`, `_baseline_result.json`)를 넣었고,
+`recheck_holdout.py` 가 그것만으로 표를 다시 셉니다 — 키도 네트워크도 필요 없습니다.
+
+전 구간을 직접 재측정하시려면 저장소에서 코퍼스와 함께 받으십시오:
+<https://github.com/Aithor-organization/kb-payee-guard>
+
+### OpenAI 키가 필요한 경로
+
+계약서에서 조항을 **실제로 추출**하는 경로(C)만 키가 필요합니다
+(`run_baselines.py --with-c`, `run_e2e.py --extract C`, 데모 화면의 업로드·LLM 추출).
+
+⚠️ **"키 없이 128건 통과"를 "키 없이 제품이 동작한다"로 읽지 마십시오.** 이 게이트의
+판정 축(S16)은 계약서 §Notices·§Amendment 조항을 읽어야 성립하고, 정규식 경로는
+추출 정확도 30.0%로 실사용이 불가능합니다(LLM 90.0%). 키 없이 검증되는 것은
+**결정론 로직의 불변식**이고, 추출 품질은 별도 측정입니다 — `docs/05` 참조.
 
 ## 측정 결과 요약
 
