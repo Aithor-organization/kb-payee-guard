@@ -940,7 +940,7 @@ function renderAudit(a){
     '<h4><svg width=15 height=15 viewBox="0 0 16 16" fill=none><path d="M8 1.6 2.6 3.7v4.1c0 3.3 2.2 6 5.4 7.2 3.2-1.2 5.4-3.9 5.4-7.2V3.7L8 1.6Z" stroke="currentColor" stroke-width=1.4 stroke-linejoin=round/></svg>'+
       '판정 근거 전 과정 <span style="font-weight:400;color:var(--ink-3);font-size:11.5px">— 사람이 직접 검증하는 영역</span></h4>'+
     '<p class=lead>AI 가 만든 값과 규칙이 만든 값을 <b>분리해서</b> 보여줍니다. '+
-      '아래 <b>근거 구간</b>을 계약서 원문(③번 카드)에서 찾아 눈으로 대조하시면, '+
+      '아래 <b>근거 구간</b>을 계약서 원문(위 <b>2번</b> 카드)에서 찾아 눈으로 대조하시면, '+
       'AI 가 지어낸 값인지 실제로 계약서에 있는 문장인지 확인할 수 있습니다.</p>'+
     chain+
     '<div class=vfy><svg width=14 height=14 viewBox="0 0 16 16" fill=none style="flex:none;margin-top:2px">'+
@@ -954,7 +954,7 @@ function renderAudit(a){
         '<table class=at><tr><th>ID</th><th>강도</th><th>무엇을 보는가 · 실제 값</th></tr>'+sgRows+'</table></div>'+
     '</div>'+
 
-    '<div class=astep><b><em>2</em>AI 가 계약서에서 뽑은 사실 <span style="font-weight:400">— 근거 구간을 오른쪽 계약서 원문에서 찾아 대조하세요</span></b>'+
+    '<div class=astep><b><em>2</em>AI 가 계약서에서 뽑은 사실 <span style="font-weight:400">— 근거 구간을 2번 카드의 계약서 원문에서 찾아 대조하세요</span></b>'+
       '<table class=at><tr><th style="width:20%">항목</th><th style="width:24%">추출값</th><th>계약서 원문 근거 (LLM 이 복사한 구간)</th></tr>'+exRows+'</table></div>'+
 
     '<div class=astep><b><em>4</em>규칙 테이블 <span style="font-weight:400">— 위에서부터 first-match. 왜 다른 규칙이 아닌지도 보입니다</span></b>'+
