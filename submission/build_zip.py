@@ -176,15 +176,41 @@ API 키 없이도 **테스트 128건 전부**가 통과합니다. 판정 엔진�
     print(f"✅ {ZIP.relative_to(ROOT)}  ({size_mb:.1f} MB)")
 
     # 7. 제출 전 자가 점검 — zip 안의 **실제 이름**으로 검사한다
-    names = zipfile.ZipFile(ZIP).namelist()
+    zf = zipfile.ZipFile(ZIP)
+    names = zf.namelist()
     joined = "\n".join(names)
+
+    # 🔴 필수서류는 "PDF 가 하나라도 있는가" 로 검사하면 안 된다 (2026-08-03).
+    #    빈 `only-one.pdf` 한 개만 넣어도 통과하는 fail-open 이었다. 서류 미비는 실격
+    #    사유이므로, **3종 각각**의 존재 + 비어 있지 않음 + 실제 PDF 헤더까지 확인한다.
+    REQUIRED_DOCS = (("참가신청서", "참가신청서"),
+                     ("서약서", "서약서"),
+                     ("개인정보 동의서", "개인정보"))
+    doc_status: list[tuple[str, bool, str]] = []
+    for label, kw in REQUIRED_DOCS:
+        cand = [n for n in names
+                if n.endswith(".pdf") and "필수서류" in n and kw in n]
+        if not cand:
+            doc_status.append((label, False, "없음")); continue
+        n = cand[0]
+        info = zf.getinfo(n)
+        head = zf.read(n)[:5]
+        if info.file_size < 1024:
+            doc_status.append((label, False, f"{info.file_size}B — 비어 있거나 손상")); continue
+        if head != b"%PDF-":
+            doc_status.append((label, False, f"PDF 헤더 아님({head!r})")); continue
+        doc_status.append((label, True, f"{info.file_size // 1024}KB"))
+    for label, ok, note in doc_status:
+        print(f"    {'·' if ok else '🔴'} 필수서류/{label}: {note}")
+
     checks = [
         ("기술설명서(pptx)", any(n.endswith(".pptx") for n in names), True),
         ("프로토타입 코드", "prototype/src/" in joined, True),
         ("테스트", "prototype/tests/" in joined, True),
         ("측정 문서", "prototype/docs/" in joined, True),
-        # 🔴 서류 미비는 실격 사유다 — 경고가 아니라 차단으로 둔다 (종료코드 2).
-        ("필수서류(서명본)", any("필수서류" in n and n.endswith(".pdf") for n in names), True),
+        # 🔴 서류 미비는 실격 사유다 — 경고가 아니라 차단으로 둔다.
+        (f"필수서류 3종 서명본 ({sum(ok for _, ok, _ in doc_status)}/3)",
+         all(ok for _, ok, _ in doc_status), True),
         ("재배포 금지 자료 없음", not any("itc-" in n or "_restricted" in n for n in names), True),
         ("비밀키 없음", not any(n.endswith(".env") for n in names), True),
         ("3GB 이하", size_mb < 3000, True),
