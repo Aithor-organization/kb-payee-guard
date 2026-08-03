@@ -7,8 +7,11 @@ README 가 `run_e2e.py --corpus holdout --extract A` 를 92.9% 의 재현 경로
 **그 명령은 정규식 경로라 22.4% 를 낸다.** 92.9% 는 LLM 경로(`--extract C`) 결과이고 그것을
 재현하려면 OpenAI 키와 10분, 약 $0.17 이 든다 — 심사자가 확인할 수 없는 숫자였다.
 
-그래서 **커밋된 원자료**(`data/contracts/_e2e_holdout_C.json` 의 `rows`)를 읽어 그대로 다시
-세는 경로를 둔다. 키도 네트워크도 필요 없고, 표에 적힌 모든 숫자가 이 한 명령으로 나온다.
+그래서 **커밋된 원자료**(`data/contracts/_e2e_*.json` 의 `rows`)를 읽어 그대로 다시 세는 경로를 둔다.
+키도 네트워크도 필요 없다.
+
+⚠️ **이 스크립트가 내는 것은 README 성능표의 차단율·오탐률뿐이다.** 추출 정확도(90.0%/91.7%,
+`docs/05`)나 조항 보유율(`docs/03`)은 별도 측정이라 여기서 나오지 않는다.
 
     python3.12 scripts/recheck_holdout.py
 
@@ -74,7 +77,10 @@ def main() -> None:
     off = {f for f, e in man.items() if e["off_target"]}
 
     print("커밋된 원자료 재집계 — API 키 불필요\n")
-    for src, label in (("_e2e_result.json", "gold"), ("_e2e_holdout_C.json", "holdout · LLM"),
+    for src, label in (("_e2e_result_gold.json", "gold · 완전추출 상한"),
+                       ("_e2e_result_C.json", "gold · LLM"),
+                       ("_e2e_result_A.json", "gold · 정규식"),
+                       ("_e2e_holdout_C.json", "holdout · LLM"),
                        ("_e2e_holdout_A.json", "holdout · 정규식")):
         p = CONTRACTS / src
         if not p.exists():

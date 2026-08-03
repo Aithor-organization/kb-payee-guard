@@ -21,7 +21,7 @@
 왜 승인 객체가 아니라 id 인가 — 이것이 이 파일의 핵심 설계다.
 승인 객체를 인자로 받으면 "그럴듯한 객체를 만들어 넘기는 것"이 곧 우회다.
 id 만 받고 원장이 진실의 출처가 되면, 우회하려면 원장에 쓰는 수밖에 없고
-원장에 쓰는 유일한 경로는 `issue()` 이며 그것은 사람 확인 채널을 요구한다.
+원장에 쓰는 유일한 경로는 `issue()` 이며 그것은 허용된 확인 채널 값을 요구(사람 확인 진위는 미인증)한다.
 """
 
 from __future__ import annotations
@@ -44,7 +44,7 @@ class VerifyChannel(str, Enum):
        열거형에서 아예 빼는 것이 옳다 — 실수로 추가할 수 없게.
     """
 
-    CONTRACT_CONTACT = "contract_contact"   # 🎯 계약서 기재 연락처 — 체결 시점 확정, 사후 변경 불가
+    CONTRACT_CONTACT = "contract_contact"   # 🎯 계약서 기재 연락처 — 체결 시점 확정, 사후 변경 불가(은행 보관 원본 기준 — 신규 위조 문서 제출은 미커버)
     REGISTERED_PHONE = "registered_phone"   # 은행 등록 연락처
     IN_PERSON = "in_person"                 # 대면
 

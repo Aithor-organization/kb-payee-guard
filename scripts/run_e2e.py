@@ -40,6 +40,20 @@ OUT = ROOT / "data" / "contracts" / "_e2e_result.json"
 CONTRACTS = ROOT / "data" / "contracts"
 
 
+def result_out(corpus: str, extractor: str) -> Path:
+    """🔴 **결과 파일은 (코퍼스 × 추출기)마다 나눈다** (2026-08-03).
+
+    이전에는 gold 코퍼스의 세 추출 경로(gold-facts / A / C)가 **같은 `_e2e_result.json` 하나를
+    공유**했다. 그래서 나중에 돌린 것이 앞의 것을 조용히 덮어썼고, 실제로 이 세션에서
+    `--extract A` 를 한 번 돌리자 README 가 인용하던 **gold·LLM 원자료가 사라졌다.**
+    (holdout 은 2026-08-02 에 같은 이유로 이미 분리했는데 gold 를 빠뜨렸다.)
+
+    커밋된 원자료로 표를 재현할 수 있어야 하므로 경로를 완전히 분리한다.
+    """
+    stem = "_e2e_holdout" if corpus == "holdout" else "_e2e_result"
+    return CONTRACTS / f"{stem}_{extractor}.json"
+
+
 def holdout_out(extractor: str) -> Path:
     """🔴 holdout 결과는 **추출기별로 파일을 나눈다.**
 
@@ -192,13 +206,15 @@ def main() -> int:
 
     # 🔴 코퍼스별 분해 (2026-08-03 추가)
     #
-    #   holdout 232건은 균질하지 않다. `kr-*` 49건은 국가법령정보센터의 **국내 공사·물품·용역
-    #   조달 표준서식**이라 당사자명 0.0% · L/C·T/T 2.0% · 외화 4.1% 다 — 해외송금 계약이 아니다.
-    #   추출이 null 을 내는 것은 버그가 아니라 **없는 것을 없다고 하는 정확한 동작**이고,
-    #   R1 이 UNKNOWN 을 내는 것도 INV-5 대로다.
+    #   holdout 232건은 균질하지 않다. `kr-*` 49건은 국가법령정보센터의 **공식 표준약관·
+    #   일반조건·서식**이라 **체결 당사자가 채워져 있지 않다**(법인격 표기 0.0% · L/C 2.0%).
+    #   업종은 공사·물품·용역이 다수지만 디지털콘텐츠·이러닝·화물운송·외자계약도 섞여 있어
+    #   "국내 조달" 로 뭉뚱그릴 수 없다.
     #
-    #   그래서 평균 하나로 뭉뚱그리면 "국문에서 무너진다" 는 **틀린 진단**이 나온다.
-    #   대상 문서군과 비대상을 나눠 **둘 다** 보고한다 — 낮은 쪽을 숨기지 않기 위해서다.
+    #   ⚠️ **원인은 확정하지 못했다.** ①송금 계약이 아니라서 ②한국어 추출이 어려워서 —
+    #   국문 표본이 전부 서식이라 둘을 분리할 데이터가 없다 (docs/03 §3-ter-1).
+    #   그래서 여기서 하는 일은 "국문을 빼는" 것이 아니라 **대상/비대상을 나눠 둘 다 보고**
+    #   하는 것이다. 낮은 쪽을 숨기지 않기 위해서다.
     # 🔴 접두사 하드코딩을 버리고 **문서별 매니페스트**를 읽는다 (2026-08-03).
     #    `OFF_TARGET={"kr"}` 는 접두사 하나만 추가하면 숫자가 올라가는 구조라
     #    cross-model 리뷰가 "조작 가능"으로 지적했다. 매니페스트는 문서마다 사유를
@@ -209,7 +225,9 @@ def main() -> int:
     if _man.exists():
         _off_files = {d["file"] for d in json.loads(_man.read_text(encoding="utf-8"))["documents"]
                       if d["off_target"]}
-    OFF_TARGET = {f.split("-")[0] for f in _off_files}   # 표시용 접두사 요약
+    # 🔴 접두사로 축약하지 않는다 (2026-08-03). 축약하면 한 접두사 안에 대상·비대상이
+    #    섞였을 때 코퍼스 전체가 통째로 빠진다 — 하드코딩 구조가 이름만 바뀌어 남는 셈이다.
+    #    판정도 합산도 **파일 단위**로 한다.
     by_corpus: dict[str, dict[str, int]] = {}
     for r in rows:
         c = r["file"].split("-")[0]
@@ -224,8 +242,8 @@ def main() -> int:
             d["norm_total"] += 1; d["norm_unknown"] += r["verdict"] == "UNKNOWN"
     result = {"extract_failed": extract_failed, "corpus": args.corpus, "extractor": args.extract, "n_contracts": len(files),
               "detection_rate": det, "false_positive_rate": fp, "tri_state": tri,
-              "by_corpus": by_corpus, "off_target": sorted(OFF_TARGET), **stats, "rows": rows}
-    out_path = holdout_out(args.extract) if args.corpus == "holdout" else OUT
+              "by_corpus": by_corpus, "off_target_files": sorted(_off_files), **stats, "rows": rows}
+    out_path = result_out(args.corpus, args.extract)
     out_path.write_text(json.dumps(result, ensure_ascii=False, indent=1), encoding="utf-8")
 
     per = len(rows) // (len(files) or 1)
@@ -249,25 +267,27 @@ def main() -> int:
     if len(by_corpus) > 1:
         print()
         print("  ── 코퍼스별 (⚠️ = 송금 계약이 아닌 문서군) ──")
-        tb = tt = 0
+        # 접두사별 표시는 유지하되, ⚠️ 표식은 "그 접두사가 전부 비대상인가" 로 판단한다
+        prefix_all_off = {c: all(r["file"] in _off_files
+                                 for r in rows if r["file"].split("-")[0] == c)
+                          for c in by_corpus}
+        prefix_any_off = {c: any(r["file"] in _off_files
+                                 for r in rows if r["file"].split("-")[0] == c)
+                          for c in by_corpus}
         for c, d in sorted(by_corpus.items()):
-            mark = "⚠️" if c in OFF_TARGET else "  "
+            mark = "⚠️" if prefix_all_off[c] else ("◐ " if prefix_any_off[c] else "  ")
             ex = d["atk_excl_blocked"] / (d["atk_excl_total"] or 1)
             unk = d["norm_unknown"] / (d["norm_total"] or 1)
             print(f"   {mark} {c:<6} 위조제외 차단 {d['atk_excl_blocked']:>4}/{d['atk_excl_total']:<4} = {ex:>6.1%}"
                   f"   정상 UNKNOWN {unk:>6.1%}")
-            if c not in OFF_TARGET:
-                tb += d["atk_excl_blocked"]; tt += d["atk_excl_total"]
-        # 파일 단위 재확인 (접두사 요약과 어긋나면 매니페스트가 정본)
-        fb = sum(1 for r in rows if r["expect_block"] and r["kind"] != "attack_forged_amendment"
+        # 합산은 **파일 단위** — 접두사가 아니라 매니페스트가 정본이다
+        tb = sum(1 for r in rows if r["expect_block"] and r["kind"] != "attack_forged_amendment"
                  and r["file"] not in _off_files and r["verdict"] in {"HOLD", "BLOCK_PENDING"})
-        ft = sum(1 for r in rows if r["expect_block"] and r["kind"] != "attack_forged_amendment"
+        tt = sum(1 for r in rows if r["expect_block"] and r["kind"] != "attack_forged_amendment"
                  and r["file"] not in _off_files)
-        if ft and (fb, ft) != (tb, tt):
-            print(f"      (파일 단위 매니페스트 기준: {fb}/{ft} = {fb/ft:.1%})")
         if tt:
             print(f"      {'대상 문서군만':<12} {tb:>4}/{tt:<4} = {tb/tt:>6.1%}"
-                  f"   ({', '.join(sorted(set(by_corpus) - OFF_TARGET))})")
+                  f"   (매니페스트 기준 · 비대상 {len(_off_files)}건 제외)")
 
     by_kind: dict[str, list[bool]] = {}
     for r in rows:
