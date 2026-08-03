@@ -110,12 +110,12 @@ def main() -> int:
 
 ```bash
 cd prototype
-python3.12 -m unittest discover -s tests      # 97 tests · 외부 API 키 불필요 · 약 0.15초
+python3.12 -m unittest discover -s tests      # 128 tests · 외부 API 키 불필요 · 약 0.2초
 python3.12 scripts/run_baselines.py --with-c  # 추출 정확도 A/C (OpenAI 호출)
 python3.12 scripts/run_e2e.py --extract C     # 탐지율·오탐률 (OpenAI 호출)
 ```
 
-API 키 없이도 **테스트 97건 전부**가 통과합니다. 판정 엔진이 결정론이기 때문입니다.
+API 키 없이도 **테스트 128건 전부**가 통과합니다. 판정 엔진이 결정론이기 때문입니다.
 
 ## 측정 결과 요약
 
@@ -123,7 +123,7 @@ API 키 없이도 **테스트 97건 전부**가 통과합니다. 판정 엔진�
 |---|--:|--:|
 | 계약 조항 추출 정확도 | 30.0% | **90.0%** |
 | 재현율 | 20.8% | **91.7%** |
-| BEC 탐지율 (end-to-end) | 16.7% | **93.3%** |
+| 차단율 · 위조 제외 (합성 시나리오) | 16.7% | **93.3%** |
 | 정상거래 오탐률 | 0.0% | **0.0%** |
 
 근거·한계: `prototype/docs/03_R7_측정.md` · `05_베이스라인A_실측.md` · `06_E2E_탐지율_오탐률.md`

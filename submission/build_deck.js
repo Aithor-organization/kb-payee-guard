@@ -294,7 +294,7 @@ function footnote(s, text) {
 // ══ 7. 게이트 성능 (창의성·효과 20) ═════════════════════════════════════
 {
   const s = slide("무엇을 막고 무엇을 통과시키나", "효과 · 실측");
-  stat(s, { x: M, y: 1.5, w: 2.6, value: "93.3%", label: "BEC 탐지율", color: MINT, sub: "LLM 추출 경유" });
+  stat(s, { x: M, y: 1.5, w: 2.6, value: "93.3%", label: "차단율 (위조 제외)", color: MINT, sub: "LLM 추출 경유 · 독립 라벨 없음" });
   stat(s, { x: 3.3, y: 1.5, w: 2.6, value: "0.0%", label: "정상거래 오탐률", color: MINT, sub: "정상 시나리오 2종" });
   stat(s, { x: 6.1, y: 1.5, w: 2.6, value: "16.7%", label: "정규식 경유 탐지율", color: BRICK, sub: "게이트가 사실상 꺼짐" });
 
@@ -354,7 +354,7 @@ function footnote(s, text) {
     { text: "무역 62건 · 국문 49건 추가 집계", options: { bullet: true, breakLine: true } },
     { text: "추출 정확도 A/C — 30건 전수", options: { bullet: true, breakLine: true } },
     { text: "탐지율·오탐률 — 150건 전수", options: { bullet: true, breakLine: true } },
-    { text: "테스트 122건, 외부 API 없이 1초 미만", options: { bullet: true } },
+    { text: "테스트 128건, 외부 API 없이 1초 미만", options: { bullet: true } },
   ], {
     x: M + 0.25, y: 1.95, w: 3.85, h: 2.2, fontSize: 11.5, fontFace: B, color: "FFFFFF", lineSpacing: 20, margin: 0,
   });
@@ -407,7 +407,7 @@ function footnote(s, text) {
   card(s, { x: M, y: 3.92, w: W - M * 2, h: 1.0, fill: "24506B" });
   s.addText([
     { text: "실현 가능성의 근거 — 외부 의존이 없습니다.\n", options: { bold: true, color: AMBER, breakLine: true } },
-    { text: "법정 제출 서류만 사용해 은행 내부 API 의존 0 · 코어는 표준 라이브러리만 · 테스트 122건이 API 키 없이 완주합니다.", options: {} },
+    { text: "법정 제출 서류만 사용해 은행 내부 API 의존 0 · 코어는 표준 라이브러리만 · 테스트 128건이 API 키 없이 완주합니다.", options: {} },
   ], {
     x: M + 0.28, y: 4.08, w: 8.5, h: 0.7, fontSize: 12, fontFace: B, color: "FFFFFF", lineSpacing: 18, margin: 0,
   });

@@ -727,8 +727,8 @@ textarea:focus{outline:2px solid var(--kb-d);outline-offset:2px;border-color:var
     <div class=mc><div class=v>0.0<span class=u>%</span></div>
       <div class=k>정상 거래 하드 차단 오탐. 단 25%는 사람 승인 대기로 갑니다</div></div>
     <div class=mc><div class=v>90.0<span class=u>%</span></div>
-      <div class=k>판정을 가르는 결정 비트를 <b>사람이 라벨링한 30건</b>과 대조.
-        <b>이 저장소에서 유일하게 독립 정답 대비 검증된 수치</b> (정규식 30.0%)</div></div>
+      <div class=k>차단 <b>등급</b>을 가르는 비트를 사람이 라벨링한 <b>개발셋 30건</b>과 대조 —
+        비순환이지만 독립 test set 은 아닙니다(같은 30건으로 개선함). 정규식 30.0%</div></div>
     <div class=mc><div class=v>128<span class=u>건</span></div>
       <div class=k>테스트 — 외부 API 없이 1초 미만</div></div>
   </div>

@@ -6,8 +6,17 @@
   python3.12 scripts/run_baselines.py --with-c   # C 포함 (OpenAI 호출 발생)
   python3.12 scripts/run_baselines.py --with-c --limit 5
 
-측정 대상은 `amendment_clause_requires_written` 하나다 — S16의 고위험/중위험을
-가르는 유일한 비트이고, 그 비트가 최빈 BEC 차단 여부를 정한다.
+측정 대상은 `amendment_clause_requires_written` 하나다 — S16의 고위험/중위험을 가른다.
+
+🔴 **"이 비트가 차단 여부를 정한다"고 쓰지 말 것** (2026-08-03 정정). 실측하면
+   비트 True → `R2/BLOCK_PENDING`, False → `R7/HOLD` 이고 **둘 다 `scenarios.BLOCKING`
+   에 포함**된다. 즉 정하는 것은 차단 *여부*가 아니라 **등급**이다. 등급 차이는
+   실제로 중요하지만(하드 차단 vs 보류) 문구를 과장하면 안 된다.
+   그리고 이 비트만 등급을 가르는 것도 아니다 — 일반 경로에서는
+   `notice_channels` · `notice_channel_types` · `registered_contact` 도 관여한다.
+
+⚠️ 이 30건은 **개발셋**이다. 같은 30건으로 라벨을 정정하고(8건) 추출기를 고쳤으므로
+   점수에 낙관 편향이 있다. 비순환이라는 것과 독립 test set 이라는 것은 다르다.
 
 결과는 data/contracts/_baseline_result.json 에 쓴다 (재현·인용용).
 """
