@@ -162,13 +162,13 @@ PAGE = """<!doctype html><html lang=ko><meta charset=utf-8>
    판정 결과에는 절대 쓰지 않는다(브랜드색과 상태색이 섞이면 위험 신호가 죽는다).   */
 :root{
   --kb-yellow:#FFBC00; --kb-yellow-d:#F0A800; --kb-gray:#60584C;
-  --ink:#1B1D1F; --ink-2:#4A4E54; --ink-3:#797F87;
-  --bg:#F4F5F7; --surface:#FFF; --line:#E2E5E9; --line-2:#EFF1F4;
+  --ink:#1C1A16; --ink-2:#4C4941; --ink-3:#7C7870;
+  --bg:#F5F4F2; --surface:#FFF; --line:#E5E2DD; --line-2:#F0EEEA;
   --danger:#D6323C; --danger-bg:#FDF2F3; --danger-line:#F3C9CD;
   --warn:#B87400;   --warn-bg:#FFF8EC;   --warn-line:#F2DDB4;
   --hold:#5B6169;   --hold-bg:#F4F5F7;   --hold-line:#DDE1E6;
   --safe:#0F7B5F;   --safe-bg:#F0F8F5;   --safe-line:#BFE0D4;
-  --r:10px; --r-s:7px;
+  --r:10px; --r-s:7px; --ease:cubic-bezier(.23,1,.32,1);
   --mono:ui-monospace,SFMono-Regular,"SF Mono",Menlo,monospace;
 }
 *{box-sizing:border-box}
@@ -205,10 +205,12 @@ body{margin:0;background:var(--bg);color:var(--ink);
 .sc{display:flex;flex-wrap:wrap;gap:6px}
 .sc button{display:flex;align-items:center;gap:6px;padding:7px 11px 7px 8px;font:500 12.5px/1 inherit;
   border:1px solid var(--line);background:var(--surface);border-radius:18px;color:var(--ink-2);
-  cursor:pointer;transition:.13s}
+  cursor:pointer;min-height:34px;
+  transition:background 150ms var(--ease),border-color 150ms var(--ease),color 150ms var(--ease)}
 .sc button:hover{border-color:#C3C8CF;background:#FAFBFC}
+@media(prefers-reduced-motion:reduce){*{transition:none!important}}
 .sc button[aria-pressed=true]{background:var(--ink);border-color:var(--ink);color:#fff}
-.sc button[aria-pressed=true] .dot{box-shadow:0 0 0 2px rgba(255,255,255,.35)}
+.sc button[aria-pressed=true] .dot{opacity:.95}
 .dot{width:7px;height:7px;border-radius:50%;flex:none}
 .dot.normal{background:var(--safe)} .dot.attack{background:var(--danger)} .dot.gap{background:var(--warn)}
 .scd{font-size:12.5px;color:var(--ink-3);line-height:1.5;margin:11px 0 4px;min-height:38px}
@@ -218,16 +220,21 @@ body{margin:0;background:var(--bg);color:var(--ink);
 .f>label{display:block;font-size:12px;font-weight:600;color:var(--ink-2);margin-bottom:5px}
 .f .help{font-weight:400;color:var(--ink-3)}
 input,select{width:100%;padding:9px 11px;border:1px solid #CFD4DA;border-radius:var(--r-s);
-  font:14px/1.4 inherit;background:var(--surface);color:var(--ink);transition:.12s}
-input.mono{font-family:var(--mono);font-size:13.5px;letter-spacing:.01em}
-input:focus,select:focus{outline:0;border-color:var(--kb-yellow-d);box-shadow:0 0 0 3px rgba(255,188,0,.18)}
+  font:14px/1.4 inherit;background:var(--surface);color:var(--ink);
+  transition:border-color 150ms var(--ease)}
+input.mono{font-family:var(--mono);font-size:13.5px;letter-spacing:.01em;
+  font-variant-numeric:tabular-nums}
+input:focus-visible,select:focus-visible,button:focus-visible{
+  outline:2px solid var(--kb-yellow-d);outline-offset:2px}
+input:focus,select:focus{border-color:var(--kb-yellow-d)}
 select{appearance:none;background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='11' height='7'><path d='M1 1l4.5 4.5L10 1' stroke='%23797F87' stroke-width='1.6' fill='none' stroke-linecap='round'/></svg>");
   background-repeat:no-repeat;background-position:right 11px center;padding-right:32px}
 .r2{display:grid;grid-template-columns:1fr 1fr;gap:11px}
-.key{border-left:3px solid var(--kb-yellow);padding-left:11px;margin-top:17px;
-  background:linear-gradient(90deg,rgba(255,188,0,.05),transparent 60%)}
+.key{border:1px solid rgba(255,188,0,.45);background:rgba(255,188,0,.055);
+  padding:12px 13px 13px;border-radius:var(--r-s);margin-top:18px}
 #go{width:100%;margin-top:20px;padding:13px;border:0;border-radius:var(--r-s);cursor:pointer;
-  background:var(--kb-yellow);color:#231A00;font:700 14.5px/1 inherit;letter-spacing:-.01em;transition:.13s}
+  background:var(--kb-yellow);color:#231A00;font:700 14.5px/1 inherit;letter-spacing:-.01em;
+  min-height:44px;transition:background 150ms var(--ease)}
 #go:hover{background:var(--kb-yellow-d)}
 #go:active{transform:translateY(1px)}
 
@@ -236,11 +243,12 @@ select{appearance:none;background-image:url("data:image/svg+xml;utf8,<svg xmlns=
 .vd{display:flex;gap:12px;padding:15px 16px;border-radius:var(--r);margin-bottom:15px;align-items:flex-start}
 .vd svg{flex:none;margin-top:1px}
 .vd .t{font-size:16.5px;font-weight:700;letter-spacing:-.015em;line-height:1.35}
-.vd .s{font-size:11.5px;font-family:var(--mono);opacity:.72;margin-top:3px;letter-spacing:.02em}
-.vd.BLOCK_PENDING{background:var(--danger-bg);border:1px solid var(--danger-line);color:var(--danger)}
-.vd.HOLD{background:var(--warn-bg);border:1px solid var(--warn-line);color:var(--warn)}
-.vd.UNKNOWN{background:var(--hold-bg);border:1px solid var(--hold-line);color:var(--hold)}
-.vd.PASS,.vd.NOTICE{background:var(--safe-bg);border:1px solid var(--safe-line);color:var(--safe)}
+.vd .s{font-size:11.5px;font-family:var(--mono);opacity:.75;margin-top:3px;letter-spacing:.02em;
+  font-variant-numeric:tabular-nums}
+.vd.BLOCK_PENDING{background:rgba(214,50,60,.09);border:1px solid rgba(214,50,60,.34);color:#A81E28}
+.vd.HOLD{background:rgba(184,116,0,.10);border:1px solid rgba(184,116,0,.32);color:#8A5600}
+.vd.UNKNOWN{background:rgba(91,97,105,.08);border:1px solid rgba(91,97,105,.28);color:#454B53}
+.vd.PASS,.vd.NOTICE{background:rgba(15,123,95,.09);border:1px solid rgba(15,123,95,.32);color:#0B5F49}
 .rs{margin:0;padding:0;list-style:none;border-top:1px solid var(--line-2)}
 .rs li{display:flex;gap:9px;padding:11px 2px;border-bottom:1px solid var(--line-2);font-size:13.5px;
   color:var(--ink-2);line-height:1.55}
@@ -258,7 +266,8 @@ pre{background:#1B1D1F;color:#E8EAED;padding:13px 15px;border-radius:var(--r-s);
 .doc-hd{display:flex;align-items:center;gap:9px;padding:15px 20px;border-bottom:1px solid var(--line-2)}
 .doc-hd .p{margin-left:auto;font:11px/1 var(--mono);color:var(--ink-3);background:var(--bg);
   padding:5px 9px;border-radius:5px}
-#doc{max-height:400px;overflow:auto;padding:16px 20px;margin:0;background:#FCFCFD;
+#doc{max-height:400px;overflow:auto;padding:16px 20px;margin:0;background:#FCFCFB;
+  font-variant-numeric:tabular-nums;
   font:11.5px/1.72 var(--mono);white-space:pre-wrap;color:#3A3E44}
 #doc::-webkit-scrollbar{width:9px} #doc::-webkit-scrollbar-thumb{background:#D5DAE0;border-radius:9px}
 .foot{margin-top:22px;font-size:11.5px;color:#9AA0A8;text-align:center;line-height:1.7}
