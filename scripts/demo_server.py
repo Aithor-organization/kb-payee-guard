@@ -500,7 +500,7 @@ summary::before{content:"▸ ";color:#B4AFA6}
 details[open] summary::before{content:"▾ "}
 pre{background:var(--ink);color:#EDEAE4;padding:13px 15px;border-radius:var(--r-s);overflow:auto;margin:9px 0 0;
   font:11.5px/1.65 var(--mono);white-space:pre-wrap;word-break:break-all}
-#doc{max-height:400px;overflow:auto;padding:16px 20px;margin:0;background:#FCFCFB;color:#3E3A34;
+#doc{max-height:620px;overflow:auto;padding:16px 20px;margin:0;background:#FCFCFB;color:#3E3A34;
   font:11.5px/1.72 var(--mono);white-space:pre-wrap;font-variant-numeric:tabular-nums}
 
 /* UPLOAD */
@@ -531,6 +531,19 @@ textarea:focus{outline:2px solid var(--kb-d);outline-offset:2px;border-color:var
 .fgrid dt{color:var(--ink-3);white-space:nowrap}
 .fgrid dd{margin:0;font-family:var(--mono);font-size:11.5px;word-break:break-all}
 .fgrid dd.miss{color:var(--warn)}
+
+/* 결과 카드 — 전폭 · 높이 제한 · 판정 배너는 스크롤해도 보이게 고정 */
+#outWrap{max-height:600px;overflow-y:auto;overscroll-behavior:contain;padding-top:0}
+#outWrap::-webkit-scrollbar{width:10px}
+#outWrap::-webkit-scrollbar-thumb{background:#D8D4CD;border-radius:9px;border:3px solid var(--sf)}
+#outWrap::-webkit-scrollbar-thumb:hover{background:#C5C0B8}
+.res .vd{position:sticky;top:0;z-index:2;margin-top:18px}
+/* 결과가 전폭이므로 근거 표는 2단으로 — 세로 스크롤을 줄인다 */
+@media(min-width:1000px){
+  .aud .cols{display:grid;grid-template-columns:1fr 1fr;gap:14px;align-items:start}
+}
+#doc{max-height:none}
+.card>#doc{border-top:0}
 
 /* AUDIT — HITL 검증 */
 .aud{margin-top:16px;border-top:1px solid var(--line);padding-top:16px}
@@ -767,14 +780,17 @@ textarea:focus{outline:2px solid var(--kb-d);outline-offset:2px;border-color:var
       </div>
     </div>
     <div class=card>
-      <div class=hd><div class=n>2</div><h3>심사 결과</h3></div>
-      <div class=bd><div id=out><div class=ph>왼쪽에서 시나리오를 고르고<br><b>송금 심사 실행</b>을 누르세요.</div></div></div>
+      <div class=hd><div class=n>2</div><h3>게이트가 대조한 계약서</h3>
+        <div class=p id=docPath>data/demo/mock_contract.txt</div></div>
+      <pre id=doc>불러오는 중…</pre>
     </div>
   </div>
-  <div class=card style="margin-top:20px">
-    <div class=hd><div class=n>3</div><h3>게이트가 대조한 계약서</h3>
-      <div class=p>data/demo/mock_contract.txt</div></div>
-    <pre id=doc>불러오는 중…</pre>
+
+  <div class="card res" style="margin-top:20px">
+    <div class=hd><div class=n>3</div><h3>심사 결과</h3>
+      <div class=p id=resHint>왼쪽 폼을 채우고 실행하세요</div></div>
+    <div class=bd id=outWrap><div id=out><div class=ph>시나리오를 고르고
+      <b>송금 심사 실행</b>을 누르면 판정과 근거 전 과정이 여기에 표시됩니다.</div></div></div>
   </div>
 </div></section>
 
@@ -851,9 +867,15 @@ $('go').onclick=async()=>{
       (d.reasons.length?'<ul class=rs>'+d.reasons.map(x=>'<li><b></b><span>'+esc(x)+'</span></li>').join('')+'</ul>'
         :'<div style="font-size:13.5px;color:var(--ink-2);padding:2px">발화한 위험 신호가 없습니다.</div>')+
       '<div class=src><svg width=13 height=13 viewBox="0 0 14 14" fill=none><circle cx=7 cy=7 r=5.6 stroke="#7C7870" stroke-width=1.3/><path d="M7 4.3v3.4" stroke="#7C7870" stroke-width=1.4 stroke-linecap=round/><circle cx=7 cy=9.7 r=.8 fill="#7C7870"/></svg>계약서 사실 출처: '+esc(d.facts_origin)+'</div>'+
-      renderAudit(d.audit)+
+        renderAudit(d.audit)+
       '<details><summary>원시 JSON (신호 · 계약서 사실)</summary><pre>'+
         esc(JSON.stringify({신호:d.signals,계약서_사실:d.facts},null,1))+'</pre></details>';
+    $('resHint').textContent = d.verdict+' · 규칙 '+d.rule;
+    $('outWrap').scrollTop = 0;
+    // 결과 카드가 화면 밖이면 부드럽게 이동 — 아래로 내렸으므로 안 보일 수 있다
+    const rc=document.querySelector('.res');
+    if(rc.getBoundingClientRect().top > window.innerHeight - 160)
+      rc.scrollIntoView({behavior:'smooth',block:'start'});
     refreshKey();
   }catch(e){$('out').innerHTML='<pre>요청 실패: '+esc(String(e))+'</pre>';}
 };
@@ -909,17 +931,18 @@ function renderAudit(a){
       '<circle cx=8 cy=8 r=6.4 stroke="#0B5F49" stroke-width=1.4/><path d="m5.4 8.2 1.9 1.9 3.6-3.9" stroke="#0B5F49" stroke-width=1.6 stroke-linecap=round stroke-linejoin=round/></svg>'+
       '<div><b>근거 구간 '+sc.with_evidence+'/'+sc.total+' 확보.</b> '+esc(sc.note)+'</div></div>'+
 
-    '<div class=astep><b><em>1</em>사람이 입력한 값 <span style="font-weight:400;text-transform:none">— AI 가 만들지 않았습니다</span></b>'+
-      '<table class=at>'+inRows+'</table></div>'+
+    '<div class=cols>'+
+      '<div class=astep><b><em>1</em>사람이 입력한 값 <span style="font-weight:400">— AI 가 만들지 않았습니다</span></b>'+
+        '<table class=at>'+inRows+'</table></div>'+
+      '<div class=astep><b><em>3</em>신호 산출 <span style="font-weight:400">— 규칙 코드가 계산. LLM 관여 없음</span></b>'+
+        '<table class=at><tr><th>ID</th><th>강도</th><th>무엇을 보는가 · 실제 값</th></tr>'+sgRows+'</table></div>'+
+    '</div>'+
 
-    '<div class=astep><b><em>2</em>AI 가 계약서에서 뽑은 사실 <span style="font-weight:400;text-transform:none">— 근거 구간을 원문과 대조하세요</span></b>'+
-      '<table class=at><tr><th>항목</th><th>추출값</th><th>계약서 원문 근거 (LLM 이 복사한 구간)</th></tr>'+exRows+'</table></div>'+
+    '<div class=astep><b><em>2</em>AI 가 계약서에서 뽑은 사실 <span style="font-weight:400">— 근거 구간을 오른쪽 계약서 원문에서 찾아 대조하세요</span></b>'+
+      '<table class=at><tr><th style="width:20%">항목</th><th style="width:24%">추출값</th><th>계약서 원문 근거 (LLM 이 복사한 구간)</th></tr>'+exRows+'</table></div>'+
 
-    '<div class=astep><b><em>3</em>신호 산출 <span style="font-weight:400;text-transform:none">— 규칙 코드가 계산합니다. LLM 관여 없음</span></b>'+
-      '<table class=at><tr><th>ID</th><th>강도</th><th>무엇을 보는가 · 실제 값</th></tr>'+sgRows+'</table></div>'+
-
-    '<div class=astep><b><em>4</em>규칙 테이블 <span style="font-weight:400;text-transform:none">— 위에서부터 first-match. 왜 다른 규칙이 아닌지도 보입니다</span></b>'+
-      '<table class=at><tr><th>규칙</th><th>등급</th><th>발화 조건</th></tr>'+rlRows+'</table></div>'+
+    '<div class=astep><b><em>4</em>규칙 테이블 <span style="font-weight:400">— 위에서부터 first-match. 왜 다른 규칙이 아닌지도 보입니다</span></b>'+
+      '<table class=at><tr><th style="width:8%">규칙</th><th style="width:14%">등급</th><th>발화 조건</th></tr>'+rlRows+'</table></div>'+
 
     '<div class=hitl><b>담당자 확인 순서</b><ol>'+
       '<li>②의 <b>근거 구간</b>을 계약서 원문에서 찾습니다 — 없으면 AI 가 지어낸 값입니다.</li>'+
@@ -971,6 +994,7 @@ async function loadDoc(){
   try{
     const d=await(await fetch('/doc')).json();
     $('docName').textContent = d.loaded ? d.name : '목업 계약서';
+    $('docPath').textContent = d.loaded ? d.name : 'data/demo/mock_contract.txt';
     $('dstat').className='dstat'+(d.loaded?' up-on':'');
     $('clearDoc').hidden=!d.loaded;
     if(d.loaded){
